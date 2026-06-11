@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce
 - Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_when_to_name_myth_5af42b
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - debunking
 - health-myths
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - debunking
 - health-myths
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Public health teams use truth-sandwich corrections to answer rumours without making the misinformation the main message.
 hero_summary: Public health teams use truth-sandwich corrections to answer rumours without making the misinformation the main message.
 layout: default
 permalink: /health-myths/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /debunking/
 nav_short_title: Health myths
 title: How public health corrections avoid repeating myths
-title_full: How public health corrections avoid repeating myths | Debunking
+title_full: How public health corrections avoid repeating myths
 display_title_short: Health myths
 display_title: Health myths
 heading_title: How public health corrections avoid repeating myths
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: The Three Parts of a Better Debunk | Mythcraft
+parent_title: The Three Parts of a Better Debunk
 parent_permalink: /debunking/
 parent_nav_short_title: Debunking
 parent_heading_title: The Three Parts of a Better Debunk
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Show the trick that made the myth plausible
 up_link:
   basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
@@ -265,7 +265,7 @@ next_link:
   permalink: /name-it/
   short_title: Name it
   heading_title: When should a correction repeat the myth?
-date: '2026-06-09 04:43:25 '
+date: '2026-06-11 22:11:17 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349-Illustration-1.webp
@@ -276,13 +276,12 @@ image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_pu
 
 Public health agencies cannot correct rumours the same way they correct a spelling mistake. A false claim about [vaccines]({{ 'vaccines/' | relative_url }}), outbreaks, medicines, or side effects can affect real decisions about treatment, prevention, and trust in health services. If a [correction]({{ 'correction/' | relative_url }}) repeats the rumour too prominently, some people may remember the false claim more clearly than the correction itself. That is why many public health communicators use a “truth sandwich” or fact-warning-explanation structure: start with the accurate information, briefly warn that a false claim is circulating, explain why it is wrong or misleading, and then return to the verified fact. The goal is not simply to rebut a myth. It is to make the correct information easier to remember, harder to distort, and more useful for future decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">If parents withhold vaccinations from their children based on mistaken beliefs, public health suffers6.Read more...</span></span></span> [2PHCC]
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349-Illustration-1-dark.svg" | relative_url }}" alt="Health myths illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why health rumours need careful correction structure
 
-Health misinformation has consequences that go beyond online arguments. False claims about vaccines, infectious diseases, treatments, or public health guidance can change behaviour at population scale. During the COVID-19 pandemic, researchers and public health bodies repeatedly warned that misinformation affected attitudes towards vaccination, masking, and other protective measures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwnc.cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwnc.cdc.gov</span><span class="citation-popover-title">20 3139 article</span><span class="citation-popover-snippet">CDCAddressing COVID-19 Misinformation on Social Media...Jan 4, 2021 — Misinformation is not a new problem, but it poses particular chall...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11295396/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHealth Communication and Behavioral Change During</span><span class="citation-popover-snippet">PMCby D Albarracin · 2024 · Cited by 36 —... facts (Lewandowsky et al., 2020). After repeating the facts, warn that misinformation is co...</span></span></span>
+Health misinformation has consequences that go beyond online arguments. False claims about vaccines, infectious diseases, treatments, or public health guidance can change behaviour at population scale. During the COVID-19 pandemic, researchers and public health bodies repeatedly warned that misinformation affected attitudes towards vaccination, masking, and other protective measures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwnc.cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwnc.cdc.gov</span><span class="citation-popover-title">20 3139 article</span><span class="citation-popover-snippet">Addressing COVID-19 Misinformation on Social Media...Jan 4, 2021 — Misinformation is not a new problem, but it poses particular chall...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11295396/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHealth Communication and Behavioral Change During</span><span class="citation-popover-snippet">by D Albarracin · 2024 · Cited by 36 —... facts (Lewandowsky et al., 2020). After repeating the facts, warn that misinformation is co...</span></span></span>
 
-A further challenge is what researchers call the “[continued influence]({{ 'old-stories/' | relative_url }}) effect”. Even after people learn that a claim is false, the original information can continue shaping their reasoning. Simply telling people that a rumour is wrong may remove the label of truth without replacing the underlying explanation. Public health corrections therefore try to provide an alternative account that answers the same question the rumour appeared to answer. Brown Climate Social Science Network <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Shaping Tomorrows WorldThe Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — Sources of the continued influence ef...</span></span></span>
+A further challenge is what researchers call the “continued influence effect”. Even after people learn that a claim is false, the original information can continue shaping their reasoning. Simply telling people that a rumour is wrong may remove the label of truth without replacing the underlying explanation. Public health [corrections]({{ 'corrections/' | relative_url }}) therefore try to provide an alternative account that answers the same question the rumour appeared to answer. Brown Climate Social Science Network <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Shaping Tomorrows WorldThe Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — Sources of the continued influence ef...</span></span></span>
 
 For health agencies, this is also a governance problem. Public institutions must communicate at scale, often during outbreaks or emergencies when uncertainty is high. Corrections need to work across different levels of health literacy, different languages, and highly fragmented media environments. The message must be accurate enough for experts yet simple enough to survive being quoted, reposted, or shortened on social media. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.who.int/media/docs/default-source/crs-crr/adressing-mpox-misinformation-practical-tips-for-communities.pdf?sfvrsn=8687a3da_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.who.int</span><span class="citation-popover-snippet">World Health OrganizationAddressing mpox misinformation: practical tips for...Misinformation and disinformation can spread fear and stig...</span></span></span>
 
@@ -290,10 +289,10 @@ For health agencies, this is also a governance problem. Public institutions must
 
 The truth sandwich is usually described as four connected moves rather than a single sentence.
 
+1. **State the [fact first]({{ 'fact-first/' | relative_url }}).**
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
-1. **State the fact first.**
 2. **Warn that a false claim exists.**
 3. **Explain why the claim is misleading or incorrect.**
 4. **Repeat the fact and the correct explanation.**
@@ -315,9 +314,6 @@ A public health correction would typically begin with:
 > “Extensive research shows that measles-containing vaccines do not cause autism.”
 
 The difference seems small, but it changes which information receives the most attention. The correction starts with what people should remember rather than what they should reject. Public health messaging guides repeatedly emphasise leading with verified information for this reason. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">If parents withhold vaccinations from their children based on mistaken beliefs, public health suffers6.Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GV2E4R0cIVA" title="Strategies for Combating COVID-19 Conspiracies &amp; Myths" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GV2E4R0cIVA" target="_blank" rel="noopener noreferrer">Strategies for Combating COVID-19 Conspiracies &amp; Myths</a></p><p class="youtube-embed-meta">Channel: ReachMD</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GV2E4R0cIVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GV2E4R0cIVA">Open on YouTube</a></p></div></div></div>
 
 ### The warning prevents accidental reinforcement
 
@@ -345,7 +341,6 @@ The correction ends by restating the verified information.
 
 This closing fact is what communicators want readers to remember later when they encounter the rumour again. The objective is not to win a debate but to leave the audience with a clear mental summary that can compete with the misinformation in future recall. [PHCC] <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">Since the inception of the current pandemic, COVID-19 related misinformation has played a role in defaulting control of the situation.Rea...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349-Illustration-2-dark.svg" | relative_url }}" alt="Health myths illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sample correction: vaccine-autism rumours
 
@@ -354,7 +349,6 @@ Vaccine misinformation remains one of the clearest examples of truth-sandwich co
 A fact-led correction might work like this:
 
 **Fact:** Large studies involving many populations have found no evidence that routine childhood vaccines cause autism.
-
 
 <div class="content-callout content-callout--warning" markdown="1">
 
@@ -368,9 +362,6 @@ A fact-led correction might work like this:
 
 Notice that the myth appears only briefly. Most of the correction is devoted to the evidence and the explanation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YK6lwZzS5fE" title="How to Spot and Debunk Common Vaccine Misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YK6lwZzS5fE" target="_blank" rel="noopener noreferrer">How to Spot and Debunk Common Vaccine Misinformation</a></p><p class="youtube-embed-meta">Channel: Johns Hopkins Bloomberg School of Public Health</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YK6lwZzS5fE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YK6lwZzS5fE">Open on YouTube</a></p></div></div></div>
-
 ## Sample correction: reports of side effects after vaccination
 
 Public health agencies frequently face claims that an illness occurring after vaccination proves that the vaccine caused it.
@@ -378,7 +369,6 @@ Public health agencies frequently face claims that an illness occurring after va
 A truth-sandwich response often focuses on the difference between coincidence and causation.
 
 **Fact:** Vaccine safety systems investigate reports of medical events after vaccination.
-
 
 <div class="content-callout content-callout--warning" markdown="1">
 
@@ -392,7 +382,6 @@ A truth-sandwich response often focuses on the difference between coincidence an
 
 This format gives people a framework for understanding why adverse-event reporting systems exist without encouraging them to interpret every report as proof of harm.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349-Illustration-3-dark.svg" | relative_url }}" alt="Health myths illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sample correction: old or mislabelled outbreak images
 
@@ -401,7 +390,6 @@ Public health misinformation is not limited to vaccines. During outbreaks, old p
 A correction might look like this:
 
 **Fact:** The image being shared is not from the current outbreak.
-
 
 <div class="content-callout content-callout--warning" markdown="1">
 
@@ -415,20 +403,17 @@ A correction might look like this:
 
 This approach keeps attention on verification rather than on the dramatic claim attached to the image. It also gives readers a practical reason the image is misleading instead of merely labelling it false.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V6E3S_6NX0o" title="Fact-Checking Coronavirus Myths: Widely-Spread Falsehoods Debunked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V6E3S_6NX0o" target="_blank" rel="noopener noreferrer">Fact-Checking Coronavirus Myths: Widely-Spread Falsehoods Debunked</a></p><p class="youtube-embed-meta">Channel: CBS Chicago</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V6E3S_6NX0o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V6E3S_6NX0o">Open on YouTube</a></p></div></div></div>
-
 ## Why public health teams increasingly combine truth sandwiches with trust-building
 
-The structure alone does not guarantee success. Public health researchers increasingly emphasise that corrections are more effective when audiences trust the source delivering them. Communities with low institutional trust may reject technically correct information if they see the messenger as hostile, partisan, or dismissive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508?needAccess=true&amp;scroll=top" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Health-related myths spread rapidly and can have a negative impact not only on individuals, but also on public health...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9923817/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCCombating Misinformation as a Core Function of Public Healthby J Knudsen · 2023 · Cited by 68 — Misinformation and disinformation are...</span></span></span>
+The structure alone does not guarantee success. Public health researchers increasingly emphasise that corrections are more effective when audiences trust the source delivering them. Communities with low institutional trust may reject technically correct information if they see the messenger as hostile, partisan, or dismissive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508?needAccess=true&amp;scroll=top" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Health-related myths spread rapidly and can have a negative impact not only on individuals, but also on public health...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9923817/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Combating Misinformation as a Core Function of Public Healthby J Knudsen · 2023 · Cited by 68 — Misinformation and disinformation are...</span></span></span>
 
 For that reason, many health agencies combine truth-sandwich corrections with other practices:
 
-* Using local clinicians, pharmacists, community leaders, or culturally [trusted messengers]({{ 'trusted-fixes/' | relative_url }}).
+* Using local clinicians, pharmacists, community leaders, or culturally trusted messengers.
 * Acknowledging uncertainty when evidence is still emerging.
 * Explaining how health authorities know what they know.
 * Addressing fears and concerns directly rather than treating them as irrational.
-* Providing practical actions people can take immediately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12797484/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCStrategies and prerequisites for combating health</span><span class="citation-popover-snippet">PMCby L Keikha · 2025 · Cited by 2 — This research aimed to identify the prerequisites and best strategies for combating health misinform...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe truth sandwich format does not enhance the correction of...by B Swire-Thompson · 2025 · Cited by 2 — However, there was no eviden...</span></span></span>
+* Providing practical actions people can take immediately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12797484/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCStrategies and prerequisites for combating health</span><span class="citation-popover-snippet">by L Keikha · 2025 · Cited by 2 — This research aimed to identify the prerequisites and best strategies for combating health misinform...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The truth sandwich format does not enhance the correction of...by B Swire-Thompson · 2025 · Cited by 2 — However, there was no eviden...</span></span></span>
 
 In practice, the most effective public health correction often sounds less like a fact-check and more like a clear explanation from a trusted source.
 
@@ -833,141 +818,141 @@ The truth sandwich is widely recommended, but researchers continue to examine ho
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHealth Communication and Behavioral Change During  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11295396/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11295396/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby D Albarracin · 2024 · Cited by 36 —... facts (Lewandowsky et al., 2020). After repeating the facts, warn that misinformation is co...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11295396/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11295396/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by D Albarracin · 2024 · Cited by 36 —... facts (Lewandowsky et al., 2020). After repeating the facts, warn that misinformation is co...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: wwwnc.cdc.gov  
    Title: 20 3139 article  
-   Link: [https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article](https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDCAddressing COVID-19 Misinformation on Social Media...Jan 4, 2021 — Misinformation is not a new problem, but it poses particular chall...</p></details>
+   Link: <a href="https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article" target="_blank" rel="noopener noreferrer nofollow">https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Addressing COVID-19 Misinformation on Social Media...Jan 4, 2021 — Misinformation is not a new problem, but it poses particular chall...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe impact of misinformation on the COVID-19 pandemic  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Since the inception of the current pandemic, COVID-19 related misinformation has played a role in defaulting control of the situation.Rea...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9923817/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9923817/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCCombating Misinformation as a Core Function of Public Healthby J Knudsen · 2023 · Cited by 68 — Misinformation and disinformation are...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9923817/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9923817/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Combating Misinformation as a Core Function of Public Healthby J Knudsen · 2023 · Cited by 68 — Misinformation and disinformation are...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X2500226X](https://www.sciencedirect.com/science/article/pii/S2352250X2500226X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X2500226X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X2500226X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The [repetition](&amp;#123;&amp;#123; &#x27;repetition/&#x27; | relative_url &amp;#125;&amp;#125;) of...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCStrategies and prerequisites for combating health  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12797484/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12797484/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby L Keikha · 2025 · Cited by 2 — This research aimed to identify the prerequisites and best strategies for combating health misinform...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12797484/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12797484/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Keikha · 2025 · Cited by 2 — This research aimed to identify the prerequisites and best strategies for combating health misinform...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe truth sandwich format does not enhance the correction of...by B Swire-Thompson · 2025 · Cited by 2 — However, there was no eviden...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth sandwich format does not enhance the correction of...by B Swire-Thompson · 2025 · Cited by 2 — However, there was no eviden...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/394196375_The_Truth_Sandwich_Format_Does_Not_Enhance_the_Correction_of_Misinformation](https://www.researchgate.net/publication/394196375_The_Truth_Sandwich_Format_Does_Not_Enhance_the_Correction_of_Misinformation)  
+   Link: <a href="https://www.researchgate.net/publication/394196375_The_Truth_Sandwich_Format_Does_Not_Enhance_the_Correction_of_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394196375_The_Truth_Sandwich_Format_Does_Not_Enhance_the_Correction_of_Misinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Truth Sandwich Format Does Not Enhance...25 Jan 2026 — These findings suggest that clear and detailed corrections can be power...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0264410X25007601](https://www.sciencedirect.com/science/article/abs/pii/S0264410X25007601)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X25007601" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X25007601</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the three misinformation-correction conditions. Conclusions... Balakrishnan et al. Infodemic and [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) – A comprehensive overview...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0738399125006202](https://www.sciencedirect.com/science/article/pii/S0738399125006202)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0738399125006202" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0738399125006202</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation on social media were not significantly different from simple corrective information.Read...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: stacks.cdc.gov  
-   Link: [https://stacks.cdc.gov/view/cdc/102462](https://stacks.cdc.gov/view/cdc/102462)  
+   Link: <a href="https://stacks.cdc.gov/view/cdc/102462" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/102462</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In one effort, the World Health...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: climatechangecommunication.org  
    Title: Center for Climate Change Communication Debunking Handbook  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If parents withhold vaccinations from their children based on mistaken beliefs, public health suffers6.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: shapingtomorrowsworld.org  
-   Link: [https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html](https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html)  
+   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping Tomorrows WorldThe Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — Sources of the continued influence ef...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cdn.who.int  
-   Link: [https://cdn.who.int/media/docs/default-source/crs-crr/adressing-mpox-misinformation-practical-tips-for-communities.pdf?sfvrsn=8687a3da_3](https://cdn.who.int/media/docs/default-source/crs-crr/adressing-mpox-misinformation-practical-tips-for-communities.pdf?sfvrsn=8687a3da_3)  
+   Link: <a href="https://cdn.who.int/media/docs/default-source/crs-crr/adressing-mpox-misinformation-practical-tips-for-communities.pdf?sfvrsn=8687a3da_3" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/crs-crr/adressing-mpox-misinformation-practical-tips-for-communities.pdf?sfvrsn=8687a3da_3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationAddressing mpox misinformation: practical tips for...Misinformation and disinformation can spread fear and stig...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: rki.de  
-   Link: [https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/effectively-debunking-misinformation.html](https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/effectively-debunking-misinformation.html)  
+   Link: <a href="https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/effectively-debunking-misinformation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/effectively-debunking-misinformation.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Koch InstituteVaccination myths: Effectively debunking misinformationTruth sandwiches can be used during the patient consultation...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508?needAccess=true&scroll=top](https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508?needAccess=true&scroll=top)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508?needAccess=true&amp;scroll=top" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508?needAccess=true&amp;scroll=top</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Health-related myths spread rapidly and can have a negative impact not only on individuals, but also on public health...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: who.int  
-   Link: [https://www.who.int/teams/digital-health-and-innovation/digital-channels/combatting-misinformation-online](https://www.who.int/teams/digital-health-and-innovation/digital-channels/combatting-misinformation-online)  
+   Link: <a href="https://www.who.int/teams/digital-health-and-innovation/digital-channels/combatting-misinformation-online" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/digital-health-and-innovation/digital-channels/combatting-misinformation-online</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Combatting misinformation onlineWHO and partners recognize that misinformation online has the potential to travel further, faster and som...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: publichealthcollaborative.org  
-   Link: [https://publichealthcollaborative.org/wp-content/uploads/2025/03/PHCC_Quick-Misinformation-Guide.pdf](https://publichealthcollaborative.org/wp-content/uploads/2025/03/PHCC_Quick-Misinformation-Guide.pdf)  
+   Link: <a href="https://publichealthcollaborative.org/wp-content/uploads/2025/03/PHCC_Quick-Misinformation-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publichealthcollaborative.org/wp-content/uploads/2025/03/PHCC_Quick-Misinformation-Guide.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PHCCA Quick Guide to Public Health MisinformationTruth Sandwich Method for Debunking. Break down debunking with the Truth Sandwich method...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/pubs/reports/misinformation-consensus-statement.pdf](https://www.apa.org/pubs/reports/misinformation-consensus-statement.pdf)  
+   Link: <a href="https://www.apa.org/pubs/reports/misinformation-consensus-statement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/reports/misinformation-consensus-statement.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: cidrap.umn.edu  
    Title: public health experts try prebunk misinformation about vaccines ahead cdc  
-   Link: [https://www.cidrap.umn.edu/childhood-vaccines/public-health-experts-try-prebunk-misinformation-about-vaccines-ahead-cdc](https://www.cidrap.umn.edu/childhood-vaccines/public-health-experts-try-prebunk-misinformation-about-vaccines-ahead-cdc)  
+   Link: <a href="https://www.cidrap.umn.edu/childhood-vaccines/public-health-experts-try-prebunk-misinformation-about-vaccines-ahead-cdc" target="_blank" rel="noopener noreferrer nofollow">https://www.cidrap.umn.edu/childhood-vaccines/public-health-experts-try-prebunk-misinformation-about-vaccines-ahead-cdc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>health experts try to &#x27;prebunk&#x27; misinformation about...Dec 4, 2025 — Prebunking can help inoculate people against misinformation by prov...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: rki.de  
-   Link: [https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/all-or-nothing-thinking_RCT.html](https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/all-or-nothing-thinking_RCT.html)  
+   Link: <a href="https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/all-or-nothing-thinking_RCT.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/all-or-nothing-thinking_RCT.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccination myths: Effectively debunking misinformation. Date: 03/12/2025. Fact: Even in the absence...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: scientificamerican.com  
    Title: how to debunk misinformation about covid vaccines and masks  
-   Link: [https://www.scientificamerican.com/article/how-to-debunk-misinformation-about-covid-vaccines-and-masks/](https://www.scientificamerican.com/article/how-to-debunk-misinformation-about-covid-vaccines-and-masks/)  
+   Link: <a href="https://www.scientificamerican.com/article/how-to-debunk-misinformation-about-covid-vaccines-and-masks/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/how-to-debunk-misinformation-about-covid-vaccines-and-masks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Debunk Misinformation about COVID, Vaccines...Apr 1, 2021 — Debunk misinformation about COVID, vaccines and masks. We each have m...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: hhs.gov  
    Title: surgeon general misinformation advisory  
-   Link: [https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf](https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf)  
+   Link: <a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health MisinformationJul 14, 2021 — I am urging all Americans to help slow the spread of health misinformation during the COV...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: skepticalscience.com  
    Title: debunking handbook 2020 references  
-   Link: [https://skepticalscience.com/debunking-handbook-2020-references.html](https://skepticalscience.com/debunking-handbook-2020-references.html)  
+   Link: <a href="https://skepticalscience.com/debunking-handbook-2020-references.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-references.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: References26 Oct 2020 — Sources of the continued influence effect: When misinformation in [memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;) affects lat...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ltrr.arizona.edu  
    Title: Explicit warnings reduce but do not eliminate the.Read more  
-   Link: [https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf](https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf)  
+   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Handbookby S Lewandowsky — Sources of the continued influence effect: When discredited information in memory affects later infe...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: centerforhealthsecurity.org  
    Title: 24 02 05 cdc misinfo playbook 2  
-   Link: [https://centerforhealthsecurity.org/sites/default/files/2024-02/24-02-05-cdc-misinfo-playbook_2.pdf](https://centerforhealthsecurity.org/sites/default/files/2024-02/24-02-05-cdc-misinfo-playbook_2.pdf)  
+   Link: <a href="https://centerforhealthsecurity.org/sites/default/files/2024-02/24-02-05-cdc-misinfo-playbook_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforhealthsecurity.org/sites/default/files/2024-02/24-02-05-cdc-misinfo-playbook_2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Johns Hopkins Center for Health SecurityPractical playbook for addressing health misinformationFeb 1, 2024 — Misleading rumors, misinform...</p></details>

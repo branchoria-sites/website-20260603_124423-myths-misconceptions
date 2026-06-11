@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349
 - Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_when_to_name_myth_5af42b
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - debunking
 - replacement
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - debunking
 - replacement
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: People are more likely to drop a misconception when the correction gives them a clearer story to remember instead.
 hero_summary: People are more likely to drop a misconception when the correction gives them a clearer story to remember instead.
 layout: default
 permalink: /replacement-beb36b/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /debunking/
 nav_short_title: Replacement
 title: Why a better story beats a bare denial
-title_full: Why a better story beats a bare denial | Debunking
+title_full: Why a better story beats a bare denial
 display_title_short: Replacement
 display_title: Replacement
 heading_title: Why a better story beats a bare denial
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: The Three Parts of a Better Debunk | Mythcraft
+parent_title: The Three Parts of a Better Debunk
 parent_permalink: /debunking/
 parent_nav_short_title: Debunking
 parent_heading_title: The Three Parts of a Better Debunk
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Show the trick that made the myth plausible
 up_link:
   basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
@@ -265,7 +265,7 @@ next_link:
   permalink: /the-trick/
   short_title: The trick
   heading_title: Show the trick that made the myth plausible
-date: '2026-06-09 05:14:33 '
+date: '2026-06-11 22:26:11 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce-Illustration-1.webp
@@ -274,17 +274,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_re
 
 ## Introduction
 
-People often imagine that correcting misinformation is mainly about proving a claim false. Research on misinformation suggests something more complicated: many false beliefs survive because they do explanatory work. They provide a story about why an event happened, who caused a problem, what risk exists, or whom to blame. When a [correction]({{ 'correction/' | relative_url }}) removes that story without replacing it, people can be left with a gap in their understanding. A simple denial may change what they say they believe while leaving the original explanation available when they later try to make sense of events. This is one reason misinformation can continue to influence reasoning even after it has been corrected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Authors. Stephan Lewandowsky, Ullrich K H Ecker, Colleen M Seifert</span><span class="citation-popover-snippet">PubMedMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4636 — Misinformation and Its Corr...</span></span></span>
-
+People often imagine that correcting misinformation is mainly about proving a claim false. Research on misinformation suggests something more complicated: many false beliefs survive because they do explanatory work. They provide a story about why an event happened, who caused a problem, what risk exists, or whom to blame. When a [correction]({{ 'correction/' | relative_url }}) removes that story without replacing it, people can be left with a gap in their understanding. A simple denial may change what they say they believe while leaving the original explanation available when they later try to make sense of events. This is one reason misinformation can continue to influence reasoning even after it has been corrected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Authors. Stephan Lewandowsky, Ullrich K H Ecker, Colleen M Seifert</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4636 — Misinformation and Its Corr...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce-Illustration-1-dark.svg" | relative_url }}" alt="Replacement illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The fact-warning-explanation approach is built around this problem. Instead of stopping at “that is false”, it gives readers a replacement explanation that answers the same question the myth appeared to answer. The goal is not merely to remove misinformation from memory. It is to leave behind a better, more coherent account that people can recall later. Researchers studying the [continued influence]({{ 'old-stories/' | relative_url }}) effect repeatedly find that [corrections]({{ 'corrections/' | relative_url }}) become more effective when they supply an alternative explanation rather than a bare retraction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[Laboratory of Tree-Ring Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">Laboratory of Tree-Ring ResearchThe Debunking HandbookNovember 25, 2011 — by S Lewandowsky — The most effective way to reduce the effect...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/publications/journals/pspi/misinformation1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-snippet">Association for Psychological ScienceMisinformation and Its Correction: Continued Influence and...Sep 18, 2012 — The authors suggest rep...</span></span></span>
+The fact-warning-explanation approach is built around this problem. Instead of stopping at “that is false”, it gives readers a replacement explanation that answers the same question the myth appeared to answer. The goal is not merely to remove misinformation from [memory]({{ 'memory/' | relative_url }}). It is to leave behind a better, more coherent account that people can recall later. Researchers studying the continued influence effect repeatedly find that [corrections]({{ 'corrections/' | relative_url }}) become more effective when they supply an alternative explanation rather than a bare retraction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[Laboratory of Tree-Ring Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">Laboratory of Tree-Ring ResearchThe Debunking HandbookNovember 25, 2011 — by S Lewandowsky — The most effective way to reduce the effect...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/publications/journals/pspi/misinformation1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-snippet">Association for Psychological ScienceMisinformation and Its Correction: Continued Influence and...Sep 18, 2012 — The authors suggest rep...</span></span></span>
 
 ## Why false claims survive as explanations
 
-One of the most important findings in misinformation research is that people can remember a correction and still rely on the false information. Psychologists call this the continued influence effect. In experiments, participants are often told that an earlier claim was mistaken or withdrawn, yet they continue to use it when answering questions or drawing conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Authors. Stephan Lewandowsky, Ullrich K H Ecker, Colleen M Seifert</span><span class="citation-popover-snippet">PubMedMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4636 — Misinformation and Its Corr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0079742102800093" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span>
+One of the most important findings in misinformation research is that people can remember a correction and still rely on the false information. Psychologists call this the continued influence effect. In experiments, participants are often told that an earlier claim was mistaken or withdrawn, yet they continue to use it when answering questions or drawing conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Authors. Stephan Lewandowsky, Ullrich K H Ecker, Colleen M Seifert</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4636 — Misinformation and Its Corr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0079742102800093" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span>
 
-A classic example involves reports about a warehouse fire. Early information suggests that flammable materials such as paint and gas cylinders caused the blaze. Later, participants are told that this information was incorrect. Even after seeing the correction, many people continue referring to the supposedly retracted materials when explaining how the fire spread. The original claim persists because it supplied a causal explanation for the event. Once that explanation is removed, people still need an answer to the question, “What caused the fire?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[Laboratory of Tree-Ring Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">Laboratory of Tree-Ring ResearchThe Debunking HandbookNovember 25, 2011 — by S Lewandowsky — The most effective way to reduce the effect...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span>
+A classic example involves reports about a warehouse fire. Early information suggests that flammable materials such as paint and gas cylinders caused the blaze. Later, participants are told that this information was incorrect. Even after seeing the correction, many people continue referring to the supposedly retracted materials when explaining how the fire spread. The original claim persists because it supplied a causal explanation for the event. Once that explanation is removed, people still need an answer to the question, “What caused the fire?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[Laboratory of Tree-Ring Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">Laboratory of Tree-Ring ResearchThe Debunking HandbookNovember 25, 2011 — by S Lewandowsky — The most effective way to reduce the effect...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span>
 
 This helps explain why myths can be surprisingly resilient. They are not stored only as isolated facts. They become part of a mental model. A rumour about election fraud explains an unexpected result. A health myth explains a frightening symptom. A conspiracy theory explains uncertainty by assigning hidden motives and actors. If a correction simply says “that did not happen”, the underlying question remains unresolved.
 
@@ -308,7 +307,7 @@ This is why effective corrections often feel like short stories rather than verd
 
 ## Why a better story is easier to remember
 
-[Memory]({{ 'memory/' | relative_url }}) is not a perfect archive. People frequently reconstruct events from fragments, using whatever information seems to fit together. When misinformation provides a ready-made explanation, it can become part of that reconstruction process. Later, even if people vaguely recall that a correction existed, they may still fall back on the original story because it remains the most available explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0079742102800093" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...by UKH Ecker · 2011 · Cited by 527 — The pers...</span></span></span>
+Memory is not a perfect archive. People frequently reconstruct events from fragments, using whatever information seems to fit together. When misinformation provides a ready-made explanation, it can become part of that reconstruction process. Later, even if people vaguely recall that a correction existed, they may still fall back on the original story because it remains the most available explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0079742102800093" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...by UKH Ecker · 2011 · Cited by 527 — The pers...</span></span></span>
 
 Replacement explanations reduce this problem by giving memory another route to follow.
 
@@ -321,7 +320,6 @@ Importantly, the replacement does not have to be elaborate. In many cases, a bri
 ## Examples that swap a myth for a clearer cause
 
 The difference between denial and replacement becomes clearer when comparing how corrections are framed.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce-Illustration-2-dark.svg" | relative_url }}" alt="Replacement illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Health rumours
@@ -348,9 +346,7 @@ A stronger correction:
 
 Again, the correction explains why the misleading image exists rather than merely denying the claim attached to it.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/35CsKgUSX4k" title="(Over)fishing in the EU: Trawling for a sustainable model • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=35CsKgUSX4k" target="_blank" rel="noopener noreferrer">(Over)fishing in the EU: Trawling for a sustainable model • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=35CsKgUSX4k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=35CsKgUSX4k">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce-Illustration-3-dark.svg" | relative_url }}" alt="Replacement illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Climate misinformation
 
 A weak correction:
@@ -365,13 +361,11 @@ The replacement explanation supplies a mechanism that helps readers understand t
 
 In each case, the correction succeeds not because it argues more aggressively but because it leaves the reader with a usable account of events.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce-Illustration-3-dark.svg" | relative_url }}" alt="Replacement illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The risk of leaving the gap empty
 
 One reason replacement explanations matter is that people dislike unresolved uncertainty. If a correction removes an explanation without offering another, readers may continue searching for answers. In that situation, the original misinformation can remain surprisingly useful because it still provides structure and meaning.
 
-Research on misinformation correction consistently finds that retractions alone are often less effective than corrections that include explanatory detail. The goal is not to overwhelm readers with evidence. It is to prevent the myth from remaining the only complete story available in memory. Brown Climate Social Science Network <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">PMCby IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
+Research on misinformation correction consistently finds that retractions alone are often less effective than corrections that include explanatory detail. The goal is not to overwhelm readers with evidence. It is to prevent the myth from remaining the only complete story available in memory. Brown Climate Social Science Network <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
 
 This principle also helps explain why some myths return after apparently being debunked. The correction may have succeeded at the moment of reading but failed to provide a memorable alternative. When people later reconstruct the event from memory, the original explanation can re-emerge because it remains more coherent than the correction.
 
@@ -774,125 +768,125 @@ The most durable debunks therefore do more than identify an error. They replace 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExploring factors that mitigate the continued influence  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/chapter/bookseries/pii/S0079742102800093](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0079742102800093)  
+   Link: <a href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0079742102800093" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/bookseries/pii/S0079742102800093</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691823002706](https://www.sciencedirect.com/science/article/pii/S0001691823002706)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectA replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691823002706</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729](https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The rational continued influence of misinformationby SAC Desai · 2020 · Cited by 70 — Studies on the &#x27;Continued Influence Effect&#x27; (CIE) s...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035](https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>He did it! She did it! No, she did not! Multiple causal...by UKH Ecker · 2015 · Cited by 162 — Countering Misinformation and [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) T...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S004727272500043X](https://www.sciencedirect.com/science/article/pii/S004727272500043X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 21 — We conduct a randomized survey experiment to...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Authors. Stephan Lewandowsky, Ullrich K H Ecker, Colleen M Seifert  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26173286/](https://pubmed.ncbi.nlm.nih.gov/26173286/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4636 — Misinformation and Its Corr...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173286/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4636 — Misinformation and Its Corr...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ltrr.arizona.edu  
-   Link: [https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf](https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf)  
+   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laboratory of Tree-Ring ResearchThe Debunking HandbookNovember 25, 2011 — by S Lewandowsky — The most effective way to reduce the effect...</p></details>
    Published: November 25, 2011  
 
 9. <a id="endnote-9"></a>
    Source: psychologicalscience.org  
-   Link: [https://www.psychologicalscience.org/publications/journals/pspi/misinformation1.html](https://www.psychologicalscience.org/publications/journals/pspi/misinformation1.html)  
+   Link: <a href="https://www.psychologicalscience.org/publications/journals/pspi/misinformation1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/journals/pspi/misinformation1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceMisinformation and Its Correction: Continued Influence and...Sep 18, 2012 — The authors suggest rep...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cssn.org  
    Title: DB2020paper 1  
-   Link: [https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf](https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf)  
+   Link: <a href="https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Corrections are more effective if in addition to providing a simple retraction (“not true”), they propose a causal alternative, and gener...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: emc-lab.org  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...by UKH Ecker · 2011 · Cited by 527 — The pers...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36988856/](https://pubmed.ncbi.nlm.nih.gov/36988856/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36988856/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36988856/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation corrections on source...by V Westbrook · 2023 · Cited by 26 — Research on the continued influence effect (CIE)...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bristol.ac.uk  
    Title: debunking handbook  
-   Link: [https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html](https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html)  
+   Link: <a href="https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October: Debunking Handbook | News and features14 Oct 2020 — &quot;This handbook helps explain how best to combat misinformation, namely throu...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: climatechangecommunication.org  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking HandbookCorrections are most successful if people are suspicious, or made to be suspicious, of the source or [intent](&amp;#123;&amp;#123; &#x27;intent/&#x27; | relative_url &amp;#125;&amp;#125;) of the misi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: communityengagementhub.org  
-   Link: [https://communityengagementhub.org/resource/the-debunking-handbook/](https://communityengagementhub.org/resource/the-debunking-handbook/)  
+   Link: <a href="https://communityengagementhub.org/resource/the-debunking-handbook/" target="_blank" rel="noopener noreferrer nofollow">https://communityengagementhub.org/resource/the-debunking-handbook/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The debunking handbookA handbook on how to prevent and debunk misinformation. Available in multiple languages. Related Resources. Managin...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf](https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf)  
+   Link: <a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: skepticalscience.com  
    Title: Debunking Handbook Part 5 Filling gap with alternative explanation  
-   Link: [https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html](https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html)  
+   Link: <a href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook Part 5: Filling the gap with an...25 Nov 2011 — The most effective way to reduce the effect of misinformation is...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: shapingtomorrowsworld.org  
-   Link: [https://www.shapingtomorrowsworld.org/debunking-handbook-part-1-first-myth-about-debunking.html](https://www.shapingtomorrowsworld.org/debunking-handbook-part-1-first-myth-about-debunking.html)  
+   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-1-first-myth-about-debunking.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-1-first-myth-about-debunking.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ive explanation that accounts for important qualities in the original misinformation.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: education.umd.edu  
    Title: 10 14 20 debunking handbook 2020 countering misinformation  
-   Link: [https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation](https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation)  
+   Link: <a href="https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook 2020: Countering Misinformation14 Oct 2020 — The Debunking Handbook 2020 aims to do just that by summarizing the current state o...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Theoretical accounts of the CIE  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>function and the continued influence of misinformationby P McIlhiney · 2023 · Cited by 13 — Misinformation can continue to influence reas...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: mpls.ox.ac.uk  
    Title: ox.ac.uk Read: Misinformation and Its Correction  
-   Link: [https://www.mpls.ox.ac.uk/public-engagement/latest/read-misinformation-and-its-correction](https://www.mpls.ox.ac.uk/public-engagement/latest/read-misinformation-and-its-correction)  
+   Link: <a href="https://www.mpls.ox.ac.uk/public-engagement/latest/read-misinformation-and-its-correction" target="_blank" rel="noopener noreferrer nofollow">https://www.mpls.ox.ac.uk/public-engagement/latest/read-misinformation-and-its-correction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ox.ac.ukRead: Misinformation and Its Correction - MPLS Division4 Jun 2020 — The article is a literature review of various studies from ps...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE](https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE)  
+   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The psychology of fake news: Accepting, sharing, and correctin...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: research-repository.uwa.edu.au  
    Title: Seifert ·, N. Schwarz ·, J. Coo  
-   Link: [https://research-repository.uwa.edu.au/en/publications/misinformation-and-its-correction-continued-influence-and-success/](https://research-repository.uwa.edu.au/en/publications/misinformation-and-its-correction-continued-influence-and-success/)  
+   Link: <a href="https://research-repository.uwa.edu.au/en/publications/misinformation-and-its-correction-continued-influence-and-success/" target="_blank" rel="noopener noreferrer nofollow">https://research-repository.uwa.edu.au/en/publications/misinformation-and-its-correction-continued-influence-and-success/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4668 — Misinformation and Its Correction: Continued Inf...</p></details>

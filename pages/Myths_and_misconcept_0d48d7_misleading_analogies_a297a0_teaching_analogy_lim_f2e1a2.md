@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_historical_science_m_ed604c
 - Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_plumbing_blood_analo_e410b9
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - analogies
 - teaching-analogy-limits
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - analogies
 - teaching-analogy-limits
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Explicitly showing which features of an analogy map and which do not helps learners avoid misconceptions.
 hero_summary: Explicitly showing which features of an analogy map and which do not helps learners avoid misconceptions.
 layout: default
 permalink: /teaching-analogy-limits/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /analogies/
 nav_short_title: Teaching Analogy Limits
 title: How Clear Framing Prevents Misleading Analogies in Education
-title_full: How Clear Framing Prevents Misleading Analogies in Education | Analogies
+title_full: How Clear Framing Prevents Misleading Analogies in Education
 display_title_short: Teaching Analogy Limits
 display_title: Teaching Analogy Limits
 heading_title: How Clear Framing Prevents Misleading Analogies in Education
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Helpful Analogies Teach the Wrong Lesson | Mythcraft
+parent_title: When Helpful Analogies Teach the Wrong Lesson
 parent_permalink: /analogies/
 parent_nav_short_title: Analogies
 parent_heading_title: When Helpful Analogies Teach the Wrong Lesson
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
@@ -241,7 +241,7 @@ sibling_links:
   title: Historical Metaphors | Analogies
   permalink: /historical-metaphors/
   short_title: Historical Metaphors
-  heading_title: How 19th Century Analogies Skewed Scientific Thinking
+  heading_title: How 19 th Century Analogies Skewed Scientific Thinking
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_plumbing_blood_analo_e410b9
   title: Plumbing Analogy | Analogies
   permalink: /plumbing-analogy/
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Plumbing Comparisons Misrepresent Blood Circulation
 up_link:
   basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
@@ -259,7 +259,7 @@ prev_link:
   permalink: /plumbing-analogy/
   short_title: Plumbing Analogy
   heading_title: How Plumbing Comparisons Misrepresent Blood Circulation
-date: '2026-06-09 05:34:13 '
+date: '2026-06-11 22:36:26 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_te
 
 ## Introduction
 
-[Analogies]({{ 'analogies/' | relative_url }}) are among the most effective tools for explaining unfamiliar ideas, but they also create some of the most persistent misconceptions. The problem is rarely the analogy itself. Instead, misconceptions arise when learners assume that every feature of the familiar example transfers directly to the target concept. Research in science education and cognitive psychology consistently shows that analogy-based teaching works best when instructors explicitly identify both the similarities and the limits of the comparison. Learners need help understanding not only where an analogy works, but also where it breaks down. ERIC PubMed Within the broader problem of misleading analogies <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in science and science teachingby S Brown · 2010 · Cited by 126 — Analogies are often used in science, but students may not appreciate th...</span></span></span>, effective teaching therefore requires deliberate strategies for framing, testing and refining analogical comparisons. Rather than treating analogies as self-explanatory, skilled teachers use them as temporary learning tools whose boundaries are made visible from the outset. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">PMCby JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span>
-
+[Analogies]({{ 'analogies/' | relative_url }}) are among the most effective tools for explaining unfamiliar ideas, but they also create some of the most persistent misconceptions. The problem is rarely the analogy itself. Instead, misconceptions arise when learners assume that every feature of the familiar example transfers directly to the target concept. Research in science education and cognitive psychology consistently shows that analogy-based teaching works best when instructors explicitly identify both the similarities and the limits of the comparison. Learners need help understanding not only where an analogy works, but also where it breaks down. ERIC PubMed Within the broader problem of misleading analogies <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in science and science teachingby S Brown · 2010 · Cited by 126 — Analogies are often used in science, but students may not appreciate th...</span></span></span>, effective teaching therefore requires deliberate strategies for framing, testing and refining analogical comparisons. Rather than treating analogies as self-explanatory, skilled teachers use them as temporary learning tools whose boundaries are made visible from the outset. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-1-dark.svg" | relative_url }}" alt="Teaching Analogy Limits illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Mapping Similarities and Differences
@@ -280,7 +279,7 @@ In practice, this means making the mapping process visible:
 
 Analogy ComponentTarget ConceptStatusShared relationshipMaps directlyValidSurface similarityMay or may not mapRequires discussionUnmatched featureDoes not transferExplicit limitation
 
-Research on structure-mapping theory suggests that learners often focus on obvious surface similarities unless teachers direct attention towards deeper relational correspondences. Explicit comparison helps students distinguish the important relationships from distracting features. <span class="citation-chip-wrap"><a class="citation-chip" href="https://learninglab.uchicago.edu/Publications_files/Richland%26Simms_WIREs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learninglab.uchicago.edu">[learninglab.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learninglab.uchicago.edu</span><span class="citation-popover-snippet">in the world as systems of relationships, such that these systems of relationships...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed For example]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in science and science teachingby S Brown · 2010 · Cited by 126 — Analogies are often used in science, but students may not appreciate th...</span></span></span>, when using plumbing systems to explain electrical circuits, students may correctly understand the idea of flow and resistance. However, they may incorrectly assume that electric current is “used up” in the same way water is consumed. Effective instruction highlights the useful parallels while directly identifying the incorrect transfer. The limitation becomes part of the lesson rather than an afterthought. <span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-analogies-in-physics-teaching/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-snippet">My CollegeMisconceptions, p-prims and bridging analogies in Physics...by G Jones — The &#x27;misconceptions&#x27; we are talking about are things...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">PMCby JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span>
+Research on structure-mapping theory suggests that learners often focus on obvious surface similarities unless teachers direct attention towards deeper relational correspondences. Explicit comparison helps students distinguish the important relationships from distracting features. <span class="citation-chip-wrap"><a class="citation-chip" href="https://learninglab.uchicago.edu/Publications_files/Richland%26Simms_WIREs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learninglab.uchicago.edu">[learninglab.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learninglab.uchicago.edu</span><span class="citation-popover-snippet">in the world as systems of relationships, such that these systems of relationships...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed For example]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in science and science teachingby S Brown · 2010 · Cited by 126 — Analogies are often used in science, but students may not appreciate th...</span></span></span>, when using plumbing systems to explain electrical circuits, students may correctly understand the idea of flow and resistance. However, they may incorrectly assume that electric current is “used up” in the same way water is consumed. Effective instruction highlights the useful parallels while directly identifying the incorrect transfer. The limitation becomes part of the lesson rather than an afterthought. <span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-analogies-in-physics-teaching/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-snippet">My CollegeMisconceptions, p-prims and bridging analogies in Physics...by G Jones — The &#x27;misconceptions&#x27; we are talking about are things...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span>
 
 A useful classroom routine is to ask students two separate questions:
 
@@ -291,17 +290,14 @@ This simple shift encourages learners to treat analogies as models with boundari
 
 ## Why Explicit Limitations Improve Conceptual Understanding
 
-Students frequently experience what researchers describe as an illusion of understanding. Because an analogy feels familiar, learners may believe they understand the target concept more deeply than they actually do. The familiarity of the source can mask missing knowledge and encourage overconfidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">PMCby JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span>
+Students frequently experience what researchers describe as an illusion of understanding. Because an analogy feels familiar, learners may believe they understand the target concept more deeply than they actually do. The familiarity of the source can mask missing knowledge and encourage overconfidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span>
 
 Explicit discussion of limitations counteracts this tendency in several ways:
 
 * It encourages deeper processing rather than passive acceptance.
 * It reduces overgeneralisation from the source domain.
 * It promotes metacognitive monitoring by making students evaluate the quality of the comparison.
-* It creates opportunities for [conceptual change]({{ 'concept-change/' | relative_url }}) when existing misconceptions are challenged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologyinaction.org/analogy-based-learning-in-the-classroom-implementing-strategies-to-promote-conceptual-understanding-and-performance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologyinaction.org">[psychologyinaction.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologyinaction.org</span><span class="citation-popover-snippet">he classroom that are crucial for students&#x27; success in analogical...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://karger.com/hde/article/67/2/88/836775/Conceptual-Change-and-Education-The-Neglected" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karger.com">[karger]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karger.com</span><span class="citation-popover-title">Conceptual Change and Education The Neglected</span><span class="citation-popover-snippet">Karger PublishersConceptual Change and Education: The Neglected...by T Gennen · 2023 · Cited by 15 — Research on conceptual change (CC)...</span></span></span> Studies of analogy-based instruction show that learners gain more when they actively compare relationships than when they simply receive a finished analogy from the teacher. The act of examining what fits and what does not fit appears to strengthen conceptual understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uciscienceoflearning.org/uploads/1/1/7/8/117864006/16_richland__2010__learning_by_analogy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uciscienceoflearning.org">[Science of Learning Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uciscienceoflearning.org</span><span class="citation-popover-title">Science of Learning Lab Learning by analogy</span><span class="citation-popover-snippet">Science of Learning LabLearning by analogyOctober 14, 2009 — by LE Richland · 2009 · Cited by 223 — The ability to successfully discrimin...</span><span class="citation-popover-meta">Published: October 14, 2009</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://par.nsf.gov/servlets/purl/10330103" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: par.nsf.gov">[2par.nsf.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">par.nsf.gov</span><span class="citation-popover-snippet">&amp; Holyoak, 1989; Gentner &amp; Markman, 1997; Gick &amp;. Holyoak...Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UpA6RdE0aYo" title="Teaching Strategies: Cognitive Load Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UpA6RdE0aYo" target="_blank" rel="noopener noreferrer">Teaching Strategies: Cognitive Load Theory</a></p><p class="youtube-embed-meta">Channel: McGraw Hill PreK-12</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UpA6RdE0aYo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UpA6RdE0aYo">Open on YouTube</a></p></div></div></div>
+* It creates opportunities for conceptual change when existing misconceptions are challenged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologyinaction.org/analogy-based-learning-in-the-classroom-implementing-strategies-to-promote-conceptual-understanding-and-performance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologyinaction.org">[psychologyinaction.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologyinaction.org</span><span class="citation-popover-snippet">he classroom that are crucial for students&#x27; success in analogical...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://karger.com/hde/article/67/2/88/836775/Conceptual-Change-and-Education-The-Neglected" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karger.com">[karger]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karger.com</span><span class="citation-popover-title">Conceptual Change and Education The Neglected</span><span class="citation-popover-snippet">Karger PublishersConceptual Change and Education: The Neglected...by T Gennen · 2023 · Cited by 15 — Research on conceptual change (CC)...</span></span></span> Studies of analogy-based instruction show that learners gain more when they actively compare relationships than when they simply receive a finished analogy from the teacher. The act of examining what fits and what does not fit appears to strengthen conceptual understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uciscienceoflearning.org/uploads/1/1/7/8/117864006/16_richland__2010__learning_by_analogy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uciscienceoflearning.org">[Science of Learning Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uciscienceoflearning.org</span><span class="citation-popover-title">Science of Learning Lab Learning by analogy</span><span class="citation-popover-snippet">Science of Learning LabLearning by analogyOctober 14, 2009 — by LE Richland · 2009 · Cited by 223 — The ability to successfully discrimin...</span><span class="citation-popover-meta">Published: October 14, 2009</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://par.nsf.gov/servlets/purl/10330103" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: par.nsf.gov">[2par.nsf.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">par.nsf.gov</span><span class="citation-popover-snippet">&amp; Holyoak, 1989; Gentner &amp; Markman, 1997; Gick &amp;. Holyoak...Read more...</span></span></span>
 
 ## Using Multiple Analogies
 
@@ -310,7 +306,6 @@ A major limitation of single analogies is that every comparison highlights some 
 When several analogies are presented together, students can see that each captures a different aspect of the target concept. No single analogy becomes the definitive explanation.
 
 Consider the teaching of atoms:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -324,12 +319,10 @@ Each analogy contributes insight, but each is also incomplete. Comparing them he
 
 Research on complex knowledge acquisition suggests that multiple analogies are particularly valuable when concepts contain many interacting elements or when misconceptions are already deeply rooted. They reduce the risk that learners will equate the concept entirely with one familiar image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/272177924_Multiple_analogies_for_complex_concepts_Antidotes_for_analogy-induced_misconceptionin_advanced_knowledge_acquisition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Multiple analogies for complex concepts: Antidotes...Aug 17, 2015 — Previous studies have suggested that analogies are...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED284194.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICGlynn, Shawn M</span><span class="citation-popover-snippet">TITLE Teaching Students to Solve Analogy...by DA King · 1986 · Cited by 4 — If analogies were utilizedmore consciously by teachers, stud...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-2-dark.svg" | relative_url }}" alt="Teaching Analogy Limits illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Comparing Analogies Against One Another
 
 An especially effective technique is to place two analogies side by side and ask students:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -353,26 +346,20 @@ Useful classroom activities include:
 * Identifying missing correspondences.
 * Generating alternative analogies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/education-career/k12/misconceptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[apa.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">How do I get my students over their alternative conceptions...Using examples and analogies to remediate misconceptions in physics: Facto...</span></span></span>
 * Revising flawed analogies to improve accuracy.
-* Ranking multiple analogies according to explanatory power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">PMCby JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Analogy competence for science teachersby S Eriksson · 2024 · Cited by 6 — The framework is aimed to...</span></span></span> & Francis Online
+* Ranking multiple analogies according to explanatory power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Analogy competence for science teachersby S Eriksson · 2024 · Cited by 6 — The framework is aimed to...</span></span></span> & Francis Online
 
-When students create their own analogies, teachers can ask them to provide a “limitations statement” alongside the comparison. This requirement normalises the idea that all analogies are partial representations. Research on teaching analogical reasoning suggests that generating and critiquing analogies strengthens transferable reasoning skills rather than merely supporting memorisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">PMCby JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eric.ed.gov/?id=ED301873" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.gov</span><span class="citation-popover-title">ERICERIC</span><span class="citation-popover-snippet">ED301873 - Multiple Analogies for Complex Conceptsby RJ Spiro · 1988 · Cited by 643 — This report argues that there exists a pervasive te...</span></span></span>
+When students create their own analogies, teachers can ask them to provide a “limitations statement” alongside the comparison. This requirement normalises the idea that all analogies are partial representations. Research on teaching analogical reasoning suggests that generating and critiquing analogies strengthens transferable reasoning skills rather than merely supporting memorisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eric.ed.gov/?id=ED301873" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.gov</span><span class="citation-popover-title">ERICERIC</span><span class="citation-popover-snippet">ED301873 - Multiple Analogies for Complex Conceptsby RJ Spiro · 1988 · Cited by 643 — This report argues that there exists a pervasive te...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4tQwOHFOkQA" title="Using analogies - Teaching Science at University" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4tQwOHFOkQA" target="_blank" rel="noopener noreferrer">Using analogies - Teaching Science at University</a></p><p class="youtube-embed-meta">Channel: Ngo Thuy Nhu</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4tQwOHFOkQA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4tQwOHFOkQA">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-3-dark.svg" | relative_url }}" alt="Teaching Analogy Limits illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Using Bridging Analogies to Replace Misconceptions
 
 Some misconceptions are resistant because learners possess intuitive but incorrect [mental models]({{ 'mental-models/' | relative_url }}). In these cases, educators sometimes employ bridging analogies: a sequence of intermediate comparisons that gradually connect students' existing beliefs to the scientifically accepted explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.per-central.org/items/detail.cfm?ID=2356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: per-central.org">[per-central.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">per-central.org</span><span class="citation-popover-snippet">A Comparison of Two Example-based Teaching StrategiesThis study was conducted in order to explore the effectiveness of an analogical teac...</span></span></span>
 
 Rather than confronting a misconception directly with a single analogy, bridging sequences reduce cognitive distance. Each comparison addresses part of the misunderstanding while maintaining enough familiarity to remain believable. Research in physics education has shown that such sequences can be more effective than simple examples when correcting entrenched misconceptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.per-central.org/items/detail.cfm?ID=2356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: per-central.org">[per-central.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">per-central.org</span><span class="citation-popover-snippet">A Comparison of Two Example-based Teaching StrategiesThis study was conducted in order to explore the effectiveness of an analogical teac...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/twwd_LLVmDM" title="How analogies shape our thoughts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=twwd_LLVmDM" target="_blank" rel="noopener noreferrer">How analogies shape our thoughts</a></p><p class="youtube-embed-meta">Channel: Explanimator</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=twwd_LLVmDM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=twwd_LLVmDM">Open on YouTube</a></p></div></div></div>
-
 ## What Effective Implementation Looks Like
 
 Across decades of research, several instructional principles appear consistently:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -386,10 +373,7 @@ Across decades of research, several instructional principles appear consistently
 
 </div>
 
-These strategies shift analogies from persuasive stories to disciplined learning tools. In the context of [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}), the key insight is that analogies become most educationally powerful when their imperfections are visible. Learners who understand where a comparison stops being accurate are less likely to carry forward false inferences and more likely to develop robust conceptual understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">PMCby JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in science and science teachingby S Brown · 2010 · Cited by 126 — Analogies are often used in science, but students may not appreciate th...</span></span></span>
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-3-dark.svg" | relative_url }}" alt="Teaching Analogy Limits illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+These strategies shift analogies from persuasive stories to disciplined learning tools. In the context of myths and misconceptions, the key insight is that analogies become most educationally powerful when their imperfections are visible. Learners who understand where a comparison stops being accurate are less likely to carry forward false inferences and more likely to develop robust conceptual understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in science and science teachingby S Brown · 2010 · Cited by 126 — Analogies are often used in science, but students may not appreciate th...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -788,168 +772,168 @@ These strategies shift analogies from persuasive stories to disciplined learning
 1. <a id="endnote-1"></a>
    Source: files.eric.ed.gov  
    Title: ERICTeaching Science with Analogies  
-   Link: [https://files.eric.ed.gov/fulltext/ED373306.pdf](https://files.eric.ed.gov/fulltext/ED373306.pdf)  
+   Link: <a href="https://files.eric.ed.gov/fulltext/ED373306.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED373306.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICby SM Glynn · 1994 · Cited by 20 — ABSTRACT. This paper describes the role of analogy in science instruction and presents new researc...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10228267/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10228267/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCImproving University Life Science Instruction with Analogiesby S Petchey · 2023 · Cited by 22 — Though analogies can greatly benefit l...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10228267/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10228267/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving University Life Science Instruction with Analogiesby S Petchey · 2023 · Cited by 22 — Though analogies can greatly benefit l...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: osu-wams-blogs-uploads.s3.amazonaws.com  
-   Link: [https://osu-wams-blogs-uploads.s3.amazonaws.com/blogs.dir/548/files/2010/10/Glynn2008MakingScienceConceptsMeaningful.pdf](https://osu-wams-blogs-uploads.s3.amazonaws.com/blogs.dir/548/files/2010/10/Glynn2008MakingScienceConceptsMeaningful.pdf)  
+   Link: <a href="https://osu-wams-blogs-uploads.s3.amazonaws.com/blogs.dir/548/files/2010/10/Glynn2008MakingScienceConceptsMeaningful.pdf" target="_blank" rel="noopener noreferrer nofollow">https://osu-wams-blogs-uploads.s3.amazonaws.com/blogs.dir/548/files/2010/10/Glynn2008MakingScienceConceptsMeaningful.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>5.1 Making science concepts meaningful to studentsby SM Glynn · Cited by 181 — The Teaching-With-Analogies Model (Glynn, 2004, 2007) is b...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: learninglab.uchicago.edu  
-   Link: [https://learninglab.uchicago.edu/Publications_files/Richland%26Simms_WIREs.pdf](https://learninglab.uchicago.edu/Publications_files/Richland%26Simms_WIREs.pdf)  
+   Link: <a href="https://learninglab.uchicago.edu/Publications_files/Richland%26Simms_WIREs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learninglab.uchicago.edu/Publications_files/Richland%26Simms_WIREs.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in the world as systems of relationships, such that these systems of relationships...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: par.nsf.gov  
-   Link: [https://par.nsf.gov/servlets/purl/10330103](https://par.nsf.gov/servlets/purl/10330103)  
+   Link: <a href="https://par.nsf.gov/servlets/purl/10330103" target="_blank" rel="noopener noreferrer nofollow">https://par.nsf.gov/servlets/purl/10330103</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Holyoak, 1989; Gentner &amp; Markman, 1997; Gick &amp;. Holyoak...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: psychologyinaction.org  
-   Link: [https://www.psychologyinaction.org/analogy-based-learning-in-the-classroom-implementing-strategies-to-promote-conceptual-understanding-and-performance/](https://www.psychologyinaction.org/analogy-based-learning-in-the-classroom-implementing-strategies-to-promote-conceptual-understanding-and-performance/)  
+   Link: <a href="https://www.psychologyinaction.org/analogy-based-learning-in-the-classroom-implementing-strategies-to-promote-conceptual-understanding-and-performance/" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologyinaction.org/analogy-based-learning-in-the-classroom-implementing-strategies-to-promote-conceptual-understanding-and-performance/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>he classroom that are crucial for students&#x27; success in analogical...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: karger.com  
    Title: Conceptual Change and Education The Neglected  
-   Link: [https://karger.com/hde/article/67/2/88/836775/Conceptual-Change-and-Education-The-Neglected](https://karger.com/hde/article/67/2/88/836775/Conceptual-Change-and-Education-The-Neglected)  
+   Link: <a href="https://karger.com/hde/article/67/2/88/836775/Conceptual-Change-and-Education-The-Neglected" target="_blank" rel="noopener noreferrer nofollow">https://karger.com/hde/article/67/2/88/836775/Conceptual-Change-and-Education-The-Neglected</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Karger PublishersConceptual Change and Education: The Neglected...by T Gennen · 2023 · Cited by 15 — Research on conceptual change (CC)...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCTeaching Postsecondary Students to Use Analogies as  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/similarity-and-analogical-reasoning/multiple-analogies-for-complex-concepts-antidotes-for-analogyinduced-misconception-in-advanced-knowledge-acquisition/FF07DBE3F194DB258119713D3000E730](https://www.cambridge.org/core/books/similarity-and-analogical-reasoning/multiple-analogies-for-complex-concepts-antidotes-for-analogyinduced-misconception-in-advanced-knowledge-acquisition/FF07DBE3F194DB258119713D3000E730)  
+   Link: <a href="https://www.cambridge.org/core/books/similarity-and-analogical-reasoning/multiple-analogies-for-complex-concepts-antidotes-for-analogyinduced-misconception-in-advanced-knowledge-acquisition/FF07DBE3F194DB258119713D3000E730" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/similarity-and-analogical-reasoning/multiple-analogies-for-complex-concepts-antidotes-for-analogyinduced-misconception-in-advanced-knowledge-acquisition/FF07DBE3F194DB258119713D3000E730</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment18 - Multiple analogies for complex concepts: antidotes...Analogies seduce learners into reducing...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/272177924_Multiple_analogies_for_complex_concepts_Antidotes_for_analogy-induced_misconceptionin_advanced_knowledge_acquisition](https://www.researchgate.net/publication/272177924_Multiple_analogies_for_complex_concepts_Antidotes_for_analogy-induced_misconceptionin_advanced_knowledge_acquisition)  
+   Link: <a href="https://www.researchgate.net/publication/272177924_Multiple_analogies_for_complex_concepts_Antidotes_for_analogy-induced_misconceptionin_advanced_knowledge_acquisition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/272177924_Multiple_analogies_for_complex_concepts_Antidotes_for_analogy-induced_misconceptionin_advanced_knowledge_acquisition</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Multiple analogies for complex concepts: Antidotes...Aug 17, 2015 — Previous studies have suggested that analogies are...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: files.eric.ed.gov  
    Title: ERICGlynn, Shawn M  
-   Link: [https://files.eric.ed.gov/fulltext/ED284194.pdf](https://files.eric.ed.gov/fulltext/ED284194.pdf)  
+   Link: <a href="https://files.eric.ed.gov/fulltext/ED284194.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED284194.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TITLE Teaching Students to Solve Analogy...by DA King · 1986 · Cited by 4 — If analogies were utilizedmore consciously by teachers, stud...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: per-central.org  
-   Link: [https://www.per-central.org/items/detail.cfm?ID=2356](https://www.per-central.org/items/detail.cfm?ID=2356)  
+   Link: <a href="https://www.per-central.org/items/detail.cfm?ID=2356" target="_blank" rel="noopener noreferrer nofollow">https://www.per-central.org/items/detail.cfm?ID=2356</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comparison of Two Example-based Teaching StrategiesThis study was conducted in order to explore the effectiveness of an analogical teac...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aare.edu.au  
-   Link: [https://www.aare.edu.au/data/publications/1993/tread93223.pdf](https://www.aare.edu.au/data/publications/1993/tread93223.pdf)  
+   Link: <a href="https://www.aare.edu.au/data/publications/1993/tread93223.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aare.edu.au/data/publications/1993/tread93223.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When analogies are used during classroom instruction, discussion between teachers and students about the analogy should assist in the...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/333378368_Explaining_science_concepts_A_teaching-with-analogies_model](https://www.researchgate.net/publication/333378368_Explaining_science_concepts_A_teaching-with-analogies_model)  
+   Link: <a href="https://www.researchgate.net/publication/333378368_Explaining_science_concepts_A_teaching-with-analogies_model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333378368_Explaining_science_concepts_A_teaching-with-analogies_model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ncept, allowing the learner to undertake a comparison in either verbal or visual...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchonline.jcu.edu.au  
-   Link: [https://researchonline.jcu.edu.au/53036/](https://researchonline.jcu.edu.au/53036/)  
+   Link: <a href="https://researchonline.jcu.edu.au/53036/" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.jcu.edu.au/53036/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in science and science teachingby S Brown · 2010 · Cited by 129 — Analogies are often used in science, but students may not appreciate th...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/21098382/](https://pubmed.ncbi.nlm.nih.gov/21098382/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21098382/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in science and science teachingby S Brown · 2010 · Cited by 126 — Analogies are often used in science, but students may not appreciate th...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797](https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Analogy competence for science teachersby S Eriksson · 2024 · Cited by 6 — The framework is aimed to...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: eduhk.hk  
-   Link: [https://www.eduhk.hk/apfslt/v13_issue1/yener/page2.htm](https://www.eduhk.hk/apfslt/v13_issue1/yener/page2.htm)  
+   Link: <a href="https://www.eduhk.hk/apfslt/v13_issue1/yener/page2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.eduhk.hk/apfslt/v13_issue1/yener/page2.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Of these, the one which is used most is the Teaching with...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-analogies-in-physics-teaching/](https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-analogies-in-physics-teaching/)  
+   Link: <a href="https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-analogies-in-physics-teaching/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-analogies-in-physics-teaching/</a>  
 
 20. <a id="endnote-20"></a>
    Source: uciscienceoflearning.org  
    Title: Science of Learning Lab Learning by analogy  
-   Link: [https://www.uciscienceoflearning.org/uploads/1/1/7/8/117864006/16_richland__2010__learning_by_analogy.pdf](https://www.uciscienceoflearning.org/uploads/1/1/7/8/117864006/16_richland__2010__learning_by_analogy.pdf)  
+   Link: <a href="https://www.uciscienceoflearning.org/uploads/1/1/7/8/117864006/16_richland__2010__learning_by_analogy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uciscienceoflearning.org/uploads/1/1/7/8/117864006/16_richland__2010__learning_by_analogy.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science of Learning LabLearning by analogyOctober 14, 2009 — by LE Richland · 2009 · Cited by 223 — The ability to successfully discrimin...</p></details>
    Published: October 14, 2009  
 
 21. <a id="endnote-21"></a>
    Source: taylorfrancis.com  
    Title: For example, Johannes Kepler, the eminent 17th-century  
-   Link: [https://www.taylorfrancis.com/chapters/edit/10.4324/9780203052396-13/explaining-science-concepts-teaching-analogies-model-shawn-glynn](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203052396-13/explaining-science-concepts-teaching-analogies-model-shawn-glynn)  
+   Link: <a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9780203052396-13/explaining-science-concepts-teaching-analogies-model-shawn-glynn" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorfrancis.com/chapters/edit/10.4324/9780203052396-13/explaining-science-concepts-teaching-analogies-model-shawn-glynn</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explaining Science Concepts: A Teaching-with-Analogies Modelby SM Glynn · 2012 · Cited by 693 — Analogical reasoning can play an importan...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: science-education-research.com  
-   Link: [https://science-education-research.com/teaching-science/teaching-with-analogies/](https://science-education-research.com/teaching-science/teaching-with-analogies/)  
+   Link: <a href="https://science-education-research.com/teaching-science/teaching-with-analogies/" target="_blank" rel="noopener noreferrer nofollow">https://science-education-research.com/teaching-science/teaching-with-analogies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching with analogiesWe might consider the teaching analogy as being a bit like a reaction intermediate in a chemical reaction: &quot;So, te...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: uakron.edu  
-   Link: [https://www.uakron.edu/polymer/agpa-k12outreach/best-teaching-practices/teaching-for-conceptual-change](https://www.uakron.edu/polymer/agpa-k12outreach/best-teaching-practices/teaching-for-conceptual-change)  
+   Link: <a href="https://www.uakron.edu/polymer/agpa-k12outreach/best-teaching-practices/teaching-for-conceptual-change" target="_blank" rel="noopener noreferrer nofollow">https://www.uakron.edu/polymer/agpa-k12outreach/best-teaching-practices/teaching-for-conceptual-change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>teaching for conceptual changeTeachers help their students build understanding of complex scientific concepts by disassembling the concep...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: csun.edu  
-   Link: [https://www.csun.edu/science/books/sourcebook/chapters/10-analogies/teaching-analogies.html](https://www.csun.edu/science/books/sourcebook/chapters/10-analogies/teaching-analogies.html)  
+   Link: <a href="https://www.csun.edu/science/books/sourcebook/chapters/10-analogies/teaching-analogies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.csun.edu/science/books/sourcebook/chapters/10-analogies/teaching-analogies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>teaching with analogiesTeaching science with analogies: A strategy for constructing knowledge. In S. M. Glynn and R. Duit (Eds.). Learnin...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: eu-jer.com  
    Title: science teachers use of analogies findings from classroom practices  
-   Link: [https://www.eu-jer.com/science-teachers-use-of-analogies-findings-from-classroom-practices](https://www.eu-jer.com/science-teachers-use-of-analogies-findings-from-classroom-practices)  
+   Link: <a href="https://www.eu-jer.com/science-teachers-use-of-analogies-findings-from-classroom-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-jer.com/science-teachers-use-of-analogies-findings-from-classroom-practices</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Teachers&#x27; Use of Analogies: Findings from...by ZA Shana · 2022 · Cited by 17 — This paper is a quasi-experimental investigation...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: boldscience.org  
    Title: BOLDHow can analogies promote learning?  
-   Link: [https://boldscience.org/how-can-analogies-promote-learning/](https://boldscience.org/how-can-analogies-promote-learning/)  
+   Link: <a href="https://boldscience.org/how-can-analogies-promote-learning/" target="_blank" rel="noopener noreferrer nofollow">https://boldscience.org/how-can-analogies-promote-learning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BOLDAug 11, 2022 — Analogies can increase comprehension and reduce misconceptions. They may be particularly helpful for learning about co...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: macstandl.com  
-   Link: [https://macstandl.com/analogies-and-multiple-explanations/](https://macstandl.com/analogies-and-multiple-explanations/)  
+   Link: <a href="https://macstandl.com/analogies-and-multiple-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://macstandl.com/analogies-and-multiple-explanations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analogies and Multiple ExplanationsGood analogies are simple, easy to remember, and based on familiar analogous concepts...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: science-education-research.com  
    Title: learning from ones own teaching analogy  
-   Link: [https://science-education-research.com/learning-from-ones-own-teaching-analogy/](https://science-education-research.com/learning-from-ones-own-teaching-analogy/)  
+   Link: <a href="https://science-education-research.com/learning-from-ones-own-teaching-analogy/" target="_blank" rel="noopener noreferrer nofollow">https://science-education-research.com/learning-from-ones-own-teaching-analogy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning from one&#x27;s own teaching analogyAug 24, 2023 — Analogy can be a useful thinking tool for scientists, as well as a means of gettin...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Conceptual Change Theory  
-   Link: [https://www.sciencedirect.com/topics/psychology/conceptual-change-theory](https://www.sciencedirect.com/topics/psychology/conceptual-change-theory)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/conceptual-change-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual Change Theory - an overviewConceptual change theory refers to frameworks that guide the design of educational interventions ai...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/education-career/k12/misconceptions](https://www.apa.org/education-career/k12/misconceptions)  
+   Link: <a href="https://www.apa.org/education-career/k12/misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/education-career/k12/misconceptions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How do I get my students over their alternative conceptions...Using examples and analogies to remediate misconceptions in physics: Facto...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: edutopia.org  
    Title: The Learning Science Behind Analogies  
-   Link: [https://www.edutopia.org/article/using-analogies-teaching/](https://www.edutopia.org/article/using-analogies-teaching/)  
+   Link: <a href="https://www.edutopia.org/article/using-analogies-teaching/" target="_blank" rel="noopener noreferrer nofollow">https://www.edutopia.org/article/using-analogies-teaching/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 30, 2023 — Analogies are a powerful teaching strategy because they help students remember new information by connecting it to an exis...</p></details>
-   Published: May 30, 2023  
+   Published: May 30, 2023

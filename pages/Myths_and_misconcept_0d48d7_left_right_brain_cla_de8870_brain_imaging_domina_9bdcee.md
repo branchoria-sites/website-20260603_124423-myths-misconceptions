@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f
 - Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_right_brain_creativi_4469c6
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - left-brain
 - imaging-study
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - left-brain
 - imaging-study
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A large imaging study found local left and right brain patterns, not a global split between left-brained and right-brained people.
 hero_summary: A large imaging study found local left and right brain patterns, not a global split between left-brained and right-brained people.
 layout: default
 permalink: /imaging-study/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /left-brain/
 nav_short_title: Imaging study
 title: Did brain scans find left brained people?
-title_full: Did brain scans find left brained people? | Left Brain
+title_full: Did brain scans find left brained people?
 display_title_short: Imaging study
 display_title: Imaging study
 heading_title: Did brain scans find left brained people?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Are People Really Left Brain or Right Brain? | Mythcraft
+parent_title: Are People Really Left Brain or Right Brain?
 parent_permalink: /left-brain/
 parent_nav_short_title: Left Brain
 parent_heading_title: Are People Really Left Brain or Right Brain?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why matching styles is not enough
 up_link:
   basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
@@ -265,7 +265,7 @@ next_link:
   permalink: /lateralisation/
   short_title: Lateralisation
   heading_title: What brain lateralisation really means
-date: '2026-06-09 05:24:13 '
+date: '2026-06-11 22:31:09 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_imaging_domina_9bdcee-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_imaging_domina_9bdcee-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_br
 
 The most widely cited scientific test of the “left-brained person” versus “right-brained person” idea arrived in 2013, when researchers analysed brain imaging data from more than 1,000 people. The study is often remembered as the paper that debunked the popular dominance claim, but its actual finding was more precise. The researchers did find patterns of left- and right-sided specialisation in the brain. What they did not find was evidence that some people consistently operate as globally left-brained while others operate as globally right-brained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0071275" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-title">An Evaluation of the Left-Brain vs</span><span class="citation-popover-snippet">Right-Brain Hypothesis with...by JA Nielsen · 2013 · Cited by 594 — Data were analyzed from publicly available resting state scans for 1...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_imaging_domina_9bdcee-Illustration-1-dark.svg" | relative_url }}" alt="Imaging study illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_imaging_domina_9bdcee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_imaging_domina_9bdcee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters because educational and self-help versions of the dominance myth often treat [brain scans]({{ 'brain-scans/' | relative_url }}) as decisive proof that learners belong in one of two categories. The 2013 imaging evidence pointed in the opposite direction: the brain contains specialised regions, but those local differences do not add up to whole-person “left-brain” or “right-brain” identities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/figures?id=10.1371%2Fjournal.pone.0071275" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-title">An Evaluation of the Left-Brain vs</span><span class="citation-popover-snippet">Right-Brain Hypothesis...Colored regions included ROIs that showed significantly greater left- or right-lateralization of gray matter de...</span></span></span>
 
@@ -284,10 +283,9 @@ That distinction matters because educational and self-help versions of the domin
 
 The study, led by Jared Nielsen and colleagues at the University of Utah, used resting-state functional magnetic resonance imaging (fMRI). Instead of asking participants to perform tasks, resting-state scans measure patterns of activity while people are not engaged in a specific assignment. Researchers can then examine which brain regions tend to fluctuate together, revealing large-scale functional networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/citation?id=10.1371%2Fjournal.pone.0071275" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOS OneAn evaluation of the left-brain vs. right-brain hypothesis with resting state functional connectivity magnetic resonance imaging...</span></span></span>
 
-The dataset included 1,011 individuals aged 7 to 29. The researchers examined thousands of brain regions and measured whether connections appeared more strongly associated with the left hemisphere or the right hemisphere. Their key question was straightforward: if “left-brained” and “right-brained” people really exist as distinct types, then individuals with strong left-sided activity in one set of networks should also show strong left-sided activity across many other networks. Likewise, strongly right-sided patterns should cluster together within the same people. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.1001767" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Brain, Right Brain: Facts and Fantasies | PLOS Biologyby MC Corballis · 2014 · Cited by 519 — Handedness and brain asymmetry are inborn a...</span></span></span>
+The dataset included 1,011 individuals aged 7 to 29. The researchers examined thousands of brain regions and measured whether connections appeared more strongly associated with the left hemisphere or the right hemisphere. Their key question was straightforward: if “left-brained” and “right-brained” people really exist as distinct types, then individuals with strong left-sided activity in one set of networks should also show strong left-sided activity across many other networks. Likewise, strongly right-sided patterns should cluster together within the same people. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.1001767" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Brain, Right Brain: Facts and Fantasies &#124; PLOS Biologyby MC Corballis · 2014 · Cited by 519 — Handedness and brain asymmetry are inborn a...</span></span></span>
 
 In other words, the researchers were not asking whether the brain contains asymmetries. Neuroscience had already established that some functions are more lateralised than others. They were testing the stronger popular claim that entire individuals could be classified according to one dominant hemisphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0071275" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-title">An Evaluation of the Left-Brain vs</span><span class="citation-popover-snippet">Right-Brain Hypothesis with...by JA Nielsen · 2013 · Cited by 594 — Data were analyzed from publicly available resting state scans for 1...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hj0L6frhvv4" title="Right Brain - Left Brain Myth! You&#x27;ve Been Lied To" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hj0L6frhvv4" target="_blank" rel="noopener noreferrer">Right Brain - Left Brain Myth! You&#x27;ve Been Lied To</a></p><p class="youtube-embed-meta">Channel: Ron White Memory Expert - Memory Training &amp; Brain Training &middot; Views: 1.8K &middot; Uploaded: June 2023 &middot; Length: 3 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hj0L6frhvv4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hj0L6frhvv4">Open on YouTube</a></p></div></div></div>
 
@@ -299,8 +297,7 @@ The researchers identified regions that showed stronger left- or right-sided con
 
 This is an important point because the study did not conclude that the hemispheres are identical. It showed the opposite: meaningful asymmetries exist. Language processing, for example, is often more left-lateralised, while certain spatial and attentional processes show stronger right-hemisphere contributions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3743825/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn Evaluation of the Left-Brain vs</span><span class="citation-popover-snippet">Right-Brain Hypothesis with...by JA Nielsen · 2013 · Cited by 603 — We evaluated whether strongly lateralized connections covaried withi...</span></span></span>
 
-The popular misunderstanding arises when these local tendencies are turned into personality categories. Finding that one network is somewhat more active on one side of the brain does not mean the entire person thinks, learns or creates primarily through that hemisphere. The study's data supported regional specialisation, not hemisphere-based identities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.1001767" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Brain, Right Brain: Facts and Fantasies | PLOS Biologyby MC Corballis · 2014 · Cited by 519 — Handedness and brain asymmetry are inborn a...</span></span></span>
-
+The popular misunderstanding arises when these local tendencies are turned into personality categories. Finding that one network is somewhat more active on one side of the brain does not mean the entire person thinks, learns or creates primarily through that hemisphere. The study's data supported regional specialisation, not hemisphere-based identities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.1001767" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Brain, Right Brain: Facts and Fantasies &#124; PLOS Biologyby MC Corballis · 2014 · Cited by 519 — Handedness and brain asymmetry are inborn a...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_imaging_domina_9bdcee-Illustration-2-dark.svg" | relative_url }}" alt="Imaging study illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_imaging_domina_9bdcee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_imaging_domina_9bdcee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the results undermine whole-person dominance claims
@@ -318,7 +315,6 @@ That finding cuts against the most familiar classroom and self-help claims:
 
 The study's evidence suggests a more complicated reality. People can show different patterns of [lateralisation]({{ 'lateralisation/' | relative_url }}) across different systems, but those differences do not collapse into a single left-versus-right score that meaningfully describes the whole person. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/PLOS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">PLOSPLOS (for Public Library of Science; PLoS until 2012) is a nonprofit publisher of open-access journals in science, technology, and...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qPTTwvwGmYo" title="The Left Brain Right Brain MYTH That&#x27;s Ruining Your Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qPTTwvwGmYo" target="_blank" rel="noopener noreferrer">The Left Brain Right Brain MYTH That&#x27;s Ruining Your Life</a></p><p class="youtube-embed-meta">Channel: Dark Deep Traveler &middot; Views: 53 &middot; Uploaded: February 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qPTTwvwGmYo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qPTTwvwGmYo">Open on YouTube</a></p></div></div></div>
 
 ## Why brain-scan language can be misleading
@@ -327,21 +323,18 @@ Brain images often carry unusual persuasive power. Colourful scans can make a cl
 
 The 2013 study illustrates this problem well. The scans did reveal measurable asymmetries. If someone focused only on that fact, they could incorrectly conclude that the images proved the existence of left-brained and right-brained people. The actual analysis showed the opposite. The important question was not whether lateralisation existed, but whether those lateralised networks combined into stable whole-person dominance profiles. They did not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/PLOS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">PLOSPLOS (for Public Library of Science; PLoS until 2012) is a nonprofit publisher of open-access journals in science, technology, and...</span></span></span>
 
-This is why neuroscientists often distinguish between hemispheric specialisation and hemispheric dominance. Specialisation refers to particular functions being somewhat more associated with one side of the brain. The dominance myth extends that idea into a broad description of personality, intelligence, creativity and learning preference. The imaging evidence supported the first claim but failed to support the second. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCLeft Brain, Right Brain: Facts and Fantasies - PMC - NIHby MC Corballis · 2014 · Cited by 520 — Because the left hemisphere also contr...</span></span></span>
-
+This is why neuroscientists often distinguish between hemispheric specialisation and hemispheric dominance. Specialisation refers to particular functions being somewhat more associated with one side of the brain. The dominance myth extends that idea into a broad description of personality, intelligence, creativity and learning preference. The imaging evidence supported the first claim but failed to support the second. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Left Brain, Right Brain: Facts and Fantasies - PMC - NIHby MC Corballis · 2014 · Cited by 520 — Because the left hemisphere also contr...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_imaging_domina_9bdcee-Illustration-3-dark.svg" | relative_url }}" alt="Imaging study illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_imaging_domina_9bdcee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_imaging_domina_9bdcee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the study changed in the debate
 
-Before the study, many discussions about left-brain and right-brain learners relied on indirect arguments. Researchers could point out that cognition depends on networks spanning both hemispheres, or that evidence for educational hemisphere types was weak. The 2013 paper addressed the popular claim more directly by testing whether whole-brain dominance patterns actually appeared in a large imaging dataset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deansforimpact.org/about/news-and-blog/2016/06/09/exploring-the-left-brainright-brain-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deansforimpact.org">[deansforimpact.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deansforimpact.org</span><span class="citation-popover-title">exploring the left brainright brain myth</span><span class="citation-popover-snippet">Exploring the left brain/right brain myth | June 09, 2016Jun 9, 2016 — Jared Nielsen and colleagues directly tested the hypothesis that i...</span></span></span>
+Before the study, many discussions about left-brain and right-brain learners relied on indirect arguments. Researchers could point out that cognition depends on networks spanning both hemispheres, or that evidence for educational hemisphere types was weak. The 2013 paper addressed the popular claim more directly by testing whether whole-brain dominance patterns actually appeared in a large imaging dataset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deansforimpact.org/about/news-and-blog/2016/06/09/exploring-the-left-brainright-brain-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deansforimpact.org">[deansforimpact.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deansforimpact.org</span><span class="citation-popover-title">exploring the left brainright brain myth</span><span class="citation-popover-snippet">Exploring the left brain/right brain myth &#124; June 09, 2016Jun 9, 2016 — Jared Nielsen and colleagues directly tested the hypothesis that i...</span></span></span>
 
 The study did not end all public belief in the myth. References to left-brained accountants and right-brained artists remain common in business training, education and popular psychology. Yet the paper became a landmark because it moved the discussion from speculation to direct measurement. Rather than asking whether the idea sounded plausible, the researchers looked for the predicted brain signature and failed to find it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uofuhealth.utah.edu/newsroom/news/2013/no-evidence-right-brained-vs-left-brained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uofuhealth.utah.edu">[U of U Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uofuhealth.utah.edu</span><span class="citation-popover-title">no evidence right brained vs left brained</span><span class="citation-popover-snippet">U of U HealthThink You&#x27;re &quot;Right-Brained&quot; or &quot;Left-Brained?&quot; Think Again.20 Aug 2013 — Research findings from University of Utah neurosci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://healthcare.utah.edu/press-releases/2013/08/researchers-debunk-myth-of-right-brain-and-left-brainpersonality-traits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthcare.utah.edu">[University of Utah Healthcare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthcare.utah.edu</span><span class="citation-popover-title">researchers debunk myth of right brain and left brainpersonality traits</span><span class="citation-popover-snippet">University of Utah HealthcareResearchers Debunk Myth of &quot;Right-brain&quot; and &quot;Left-...Aug 14, 2013 — University of Utah researchers have de...</span></span></span>
 
 For discussions of learning, the practical lesson is narrow but important. Brain imaging does show lateralised functions. What it has not shown is that learners can be divided into reliable left-brained and right-brained categories that explain how they learn best. The 2013 evidence supports specialised networks, not specialised people. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/PLOS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">PLOSPLOS (for Public Library of Science; PLoS until 2012) is a nonprofit publisher of open-access journals in science, technology, and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3743825/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn Evaluation of the Left-Brain vs</span><span class="citation-popover-snippet">Right-Brain Hypothesis with...by JA Nielsen · 2013 · Cited by 603 — We evaluated whether strongly lateralized connections covaried withi...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UYWBLX7aexI" title="Are People Really Left-Brained or Right-Brained?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UYWBLX7aexI" target="_blank" rel="noopener noreferrer">Are People Really Left-Brained or Right-Brained?</a></p><p class="youtube-embed-meta">Channel: SciShow &middot; Views: 744.1K &middot; Uploaded: March 2015 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UYWBLX7aexI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UYWBLX7aexI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -740,124 +733,124 @@ For discussions of learning, the practical lesson is narrow but important. Brain
 1. <a id="endnote-1"></a>
    Source: journals.plos.org  
    Title: An Evaluation of the Left-Brain vs  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0071275](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0071275)  
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0071275" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0071275</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Right-Brain Hypothesis with...by JA Nielsen · 2013 · Cited by 594 — Data were analyzed from publicly available resting state scans for 1...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn Evaluation of the Left-Brain vs  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3743825/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3743825/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3743825/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3743825/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Right-Brain Hypothesis with...by JA Nielsen · 2013 · Cited by 603 — We evaluated whether strongly lateralized connections covaried withi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCLeft Brain, Right Brain: Facts and Fantasies - PMC - NIHby MC Corballis · 2014 · Cited by 520 — Because the left hemisphere also contr...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Left Brain, Right Brain: Facts and Fantasies - PMC - NIHby MC Corballis · 2014 · Cited by 520 — Because the left hemisphere also contr...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: journals.plos.org  
    Title: An Evaluation of the Left-Brain vs  
-   Link: [https://journals.plos.org/plosone/article/figures?id=10.1371%2Fjournal.pone.0071275](https://journals.plos.org/plosone/article/figures?id=10.1371%2Fjournal.pone.0071275)  
+   Link: <a href="https://journals.plos.org/plosone/article/figures?id=10.1371%2Fjournal.pone.0071275" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article/figures?id=10.1371%2Fjournal.pone.0071275</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Right-Brain Hypothesis...Colored regions included ROIs that showed significantly greater left- or right-lateralization of gray matter de...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: uofuhealth.utah.edu  
    Title: no evidence right brained vs left brained  
-   Link: [https://uofuhealth.utah.edu/newsroom/news/2013/no-evidence-right-brained-vs-left-brained](https://uofuhealth.utah.edu/newsroom/news/2013/no-evidence-right-brained-vs-left-brained)  
+   Link: <a href="https://uofuhealth.utah.edu/newsroom/news/2013/no-evidence-right-brained-vs-left-brained" target="_blank" rel="noopener noreferrer nofollow">https://uofuhealth.utah.edu/newsroom/news/2013/no-evidence-right-brained-vs-left-brained</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U of U HealthThink You&#x27;re &quot;Right-Brained&quot; or &quot;Left-Brained?&quot; Think Again.20 Aug 2013 — Research findings from University of Utah neurosci...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: deansforimpact.org  
    Title: exploring the left brainright brain myth  
-   Link: [https://www.deansforimpact.org/about/news-and-blog/2016/06/09/exploring-the-left-brainright-brain-myth](https://www.deansforimpact.org/about/news-and-blog/2016/06/09/exploring-the-left-brainright-brain-myth)  
+   Link: <a href="https://www.deansforimpact.org/about/news-and-blog/2016/06/09/exploring-the-left-brainright-brain-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.deansforimpact.org/about/news-and-blog/2016/06/09/exploring-the-left-brainright-brain-myth</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the [left brain](&amp;#123;&amp;#123; &#x27;left-brain/&#x27; | relative_url &amp;#125;&amp;#125;)/right brain myth | June 09, 2016Jun 9, 2016 — Jared Nielsen and colleagues directly tested the hypothesis that i...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: healthcare.utah.edu  
    Title: researchers debunk myth of right brain and left brainpersonality traits  
-   Link: [https://healthcare.utah.edu/press-releases/2013/08/researchers-debunk-myth-of-right-brain-and-left-brainpersonality-traits](https://healthcare.utah.edu/press-releases/2013/08/researchers-debunk-myth-of-right-brain-and-left-brainpersonality-traits)  
+   Link: <a href="https://healthcare.utah.edu/press-releases/2013/08/researchers-debunk-myth-of-right-brain-and-left-brainpersonality-traits" target="_blank" rel="noopener noreferrer nofollow">https://healthcare.utah.edu/press-releases/2013/08/researchers-debunk-myth-of-right-brain-and-left-brainpersonality-traits</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Utah HealthcareResearchers Debunk Myth of &quot;Right-brain&quot; and &quot;Left-...Aug 14, 2013 — University of Utah researchers have de...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article/citation?id=10.1371%2Fjournal.pone.0071275](https://journals.plos.org/plosone/article/citation?id=10.1371%2Fjournal.pone.0071275)  
+   Link: <a href="https://journals.plos.org/plosone/article/citation?id=10.1371%2Fjournal.pone.0071275" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article/citation?id=10.1371%2Fjournal.pone.0071275</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOS OneAn evaluation of the left-brain vs. right-brain hypothesis with resting state functional connectivity magnetic resonance imaging...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.1001767](https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.1001767)  
+   Link: <a href="https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.1001767" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.1001767</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brain, Right Brain: Facts and Fantasies | PLOS Biologyby MC Corballis · 2014 · Cited by 519 — Handedness and brain asymmetry are inborn a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/PLOS](https://en.wikipedia.org/wiki/PLOS)  
+   Link: <a href="https://en.wikipedia.org/wiki/PLOS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/PLOS</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOSPLOS (for Public Library of Science; PLoS until 2012) is a nonprofit publisher of open-access journals in science, technology, and...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2013PLoSO...871275N](https://ui.adsabs.harvard.edu/abs/2013PLoSO...871275N)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2013PLoSO...871275N" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2013PLoSO...871275N</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Right-Brain Hypothesis...An Evaluation of the Left-Brain vs. Right-Brain Hypothesis with Resting State Functional Connectivity Magnetic...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Right Brain  
-   Link: [https://www.youtube.com/watch?v=hj0L6frhvv4](https://www.youtube.com/watch?v=hj0L6frhvv4)  
+   Link: <a href="https://www.youtube.com/watch?v=hj0L6frhvv4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hj0L6frhvv4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Left Brain Myth! You&#x27;ve Been Lied To... right brain-left brain theory: Study by Jared A. Nielsen et al. (2013): This study, published in...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Left brain versus right brain thinkersAccording to this view, the left brain is the analytical, logical, verbal half while the right brai...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40jlg_76692/[debunking](https://medium.com/%40jlg_76692/[debunking)  
+   Link: <a href="https://medium.com/%40jlg_76692/[debunking" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jlg_76692/[debunking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the myths of the left and right brainBoth hemispheres of the brain work together to function as one to make up personality; A U...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med An evaluation of the left-brain vs  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23967180/](https://pubmed.ncbi.nlm.nih.gov/23967180/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23967180/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23967180/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>right-brain hypothesis with...by JA Nielsen · 2013 · Cited by 595 — Data were analyzed from publicly available resting state scans for 1...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: direct.mit.edu  
-   Link: [https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00437/126558/Evidence-for-a-compensatory-relationship-between](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00437/126558/Evidence-for-a-compensatory-relationship-between)  
+   Link: <a href="https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00437/126558/Evidence-for-a-compensatory-relationship-between" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00437/126558/Evidence-for-a-compensatory-relationship-between</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>At the network level, the language network exhibits left-hemisphere lateralization.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: TI L There is no left brain and right brain divide  
-   Link: [https://www.reddit.com/r/todayilearned/comments/hkkdv0/til_there_is_no_left_brain_and_right_brain_divide/](https://www.reddit.com/r/todayilearned/comments/hkkdv0/til_there_is_no_left_brain_and_right_brain_divide/)  
+   Link: <a href="https://www.reddit.com/r/todayilearned/comments/hkkdv0/til_there_is_no_left_brain_and_right_brain_divide/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/hkkdv0/til_there_is_no_left_brain_and_right_brain_divide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>People are...People are not divided on the left-brain and the right-brain thinkers: those who are logical and analytical vs. those who a...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ouci.dntb.gov.ua  
    Title: dntb.gov.ua An Evaluation of the Left-Brain vs  
-   Link: [https://ouci.dntb.gov.ua/en/works/4wY5LgZ9/](https://ouci.dntb.gov.ua/en/works/4wY5LgZ9/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/4wY5LgZ9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4wY5LgZ9/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Right-Brain Hypothesis...In the present study, we investigated the consistency of effective connectivity within and between subjects, as...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: health.harvard.edu  
    Title: right brainleft brain right 2017082512222  
-   Link: [https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222](https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222)  
+   Link: <a href="https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222" target="_blank" rel="noopener noreferrer nofollow">https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>brain/left brain, right?24 Mar 2022 — According to a 2013 study from the University of Utah, brain scans demonstrate that activity is sim...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/An-Evaluation-of-the-Left-Brain-vs.-Right-Brain-Nielsen-Zielinski/c6611664a0bcece52ca2fd4d8080632d054fda7c](https://www.semanticscholar.org/paper/An-Evaluation-of-the-Left-Brain-vs.-Right-Brain-Nielsen-Zielinski/c6611664a0bcece52ca2fd4d8080632d054fda7c)  
+   Link: <a href="https://www.semanticscholar.org/paper/An-Evaluation-of-the-Left-Brain-vs.-Right-Brain-Nielsen-Zielinski/c6611664a0bcece52ca2fd4d8080632d054fda7c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/An-Evaluation-of-the-Left-Brain-vs.-Right-Brain-Nielsen-Zielinski/c6611664a0bcece52ca2fd4d8080632d054fda7c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>te Functional Connectivity Magnetic Resonance Imaging.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Left Brain Right Brain MYTH That's Ruining Your Life  
-   Link: [http://www.youtube.com/watch?v=qPTTwvwGmYo](http://www.youtube.com/watch?v=qPTTwvwGmYo)  
+   Link: <a href="http://www.youtube.com/watch?v=qPTTwvwGmYo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qPTTwvwGmYo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Left brain right brain myth debunked 2013 study Jeff Anderson Debunks Left-Brain, Right-Brain Theory | University of Utah Health Care U o...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: genderportal.eu  
    Title: An Evaluation of the Left-Brain vs  
-   Link: [https://www.genderportal.eu/resources/evaluation-left-brain-vs-right-brain-hypothesis-resting-state-functional-connectivity](https://www.genderportal.eu/resources/evaluation-left-brain-vs-right-brain-hypothesis-resting-state-functional-connectivity)  
+   Link: <a href="https://www.genderportal.eu/resources/evaluation-left-brain-vs-right-brain-hypothesis-resting-state-functional-connectivity" target="_blank" rel="noopener noreferrer nofollow">https://www.genderportal.eu/resources/evaluation-left-brain-vs-right-brain-hypothesis-resting-state-functional-connectivity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Right-Brain Hypothesis...1 Jan 2013 — We evaluated whether strongly lateralized connections covaried within the same individuals. Data w...</p></details>

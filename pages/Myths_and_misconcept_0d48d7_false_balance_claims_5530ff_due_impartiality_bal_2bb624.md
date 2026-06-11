@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_vaccine_balance_perc_28243a
 - Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_weight_of_evidence_r_6981ad
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - false-balance
 - due-impartiality
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - false-balance
 - due-impartiality
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Editorial standards distinguish between representing relevant viewpoints and giving every viewpoint equal weight.
 hero_summary: Editorial standards distinguish between representing relevant viewpoints and giving every viewpoint equal weight.
 layout: default
 permalink: /due-impartiality/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /false-balance/
 nav_short_title: Due Impartiality
 title: Why Fairness Is Not Always Fifty Fifty
-title_full: Why Fairness Is Not Always Fifty Fifty | False Balance
+title_full: Why Fairness Is Not Always Fifty Fifty
 display_title_short: Due Impartiality
 display_title: Due Impartiality
 heading_title: Why Fairness Is Not Always Fifty Fifty
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Both Sides Framing Misleads Readers | Mythcraft
+parent_title: When Both Sides Framing Misleads Readers
 parent_permalink: /false-balance/
 parent_nav_short_title: False Balance
 parent_heading_title: When Both Sides Framing Misleads Readers
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Can Balanced Reporting Make Vaccine Myths Stronger?
 up_link:
   basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
@@ -265,7 +265,7 @@ next_link:
   permalink: /equal-airtime/
   short_title: Equal Airtime
   heading_title: Does Equal Airtime Create False Certainty?
-date: '2026-06-09 05:16:18 '
+date: '2026-06-11 22:27:13 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_due_impartiality_bal_2bb624-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_due_impartiality_bal_2bb624-Illustration-1.webp
@@ -274,15 +274,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_du
 
 ## Introduction
 
-A common misconception about fairness in broadcasting is that every viewpoint must receive equal time. In reality, most modern broadcasting standards do not require mechanical balance—a rigid fifty-fifty division of airtime between competing claims. Instead, they require due impartiality: a form of fairness that takes account of the nature of the issue, the strength of the evidence, and the significance of the viewpoints involved. In practice, this means broadcasters should represent relevant perspectives without creating the false impression that all positions carry equal evidential weight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-five-due-impartiality-accuracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-snippet">five: Due impartiality and due accuracy5 Jan 2021 — Impartiality itself means not favouring one side over another...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-guidance/programme-guidance/broadcast-code-guidance/section5.pdf?v=328577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-snippet">Notes&quot;Due&quot; means adequate or appropriate to the subject and nature of the programme. So &quot;due impartiality&quot; does not mean an equal divisio...</span></span></span>
-
+A common misconception about fairness in broadcasting is that every viewpoint must receive equal time. In reality, most modern broadcasting standards do not require mechanical balance—a rigid fifty-fifty division of airtime between competing claims. Instead, they require due impartiality: a form of fairness that takes account of the nature of the issue, the strength of the evidence, and the significance of the viewpoints involved. In practice, this means broadcasters should represent relevant perspectives without creating the false impression that all positions carry equal evidential weight. [www.ofcom.org.uk+2www.ofcom.org.uk]
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_due_impartiality_bal_2bb624-Illustration-1-dark.svg" | relative_url }}" alt="Due Impartiality illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_due_impartiality_bal_2bb624-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_due_impartiality_bal_2bb624-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters whenever [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) enter public debate. If a fringe claim receives the same prominence as a well-supported conclusion simply because it exists, audiences can be misled about the actual state of knowledge. Due impartiality was developed partly to avoid that outcome while still protecting open discussion and legitimate disagreement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/128624/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">Indeed, to do so could lead to a &#x27;false equivalence&#x27;...Read more...</span></span></span>
+This distinction matters whenever myths and misconceptions enter public debate. If a fringe claim receives the same prominence as a well-supported conclusion simply because it exists, audiences can be misled about the actual state of knowledge. Due impartiality was developed partly to avoid that outcome while still protecting open discussion and legitimate disagreement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/128624/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">Indeed, to do so could lead to a &#x27;false equivalence&#x27;...Read more...</span></span></span>
 
 ## Due impartiality in broadcasting
 
-In UK broadcasting regulation, impartiality is qualified by the word “due”. Ofcom, the broadcast regulator, explicitly states that “due” means adequate or appropriate to the subject and nature of the programme. As a result, due impartiality does not require equal time for every view, nor does it require every possible argument to be represented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/holding-broadcasters-to-account-during-upcoming-elections-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">holding broadcasters to account during upcoming elections what you need to know</span><span class="citation-popover-snippet">broadcasters to account during upcoming elections25 Mar 2026 — During an election period, political parties and independent candidates mu...</span></span></span>
+In UK broadcasting regulation, impartiality is qualified by the word “due”. Ofcom, the broadcast regulator, explicitly states that “due” means adequate or appropriate to the subject and nature of the programme. As a result, due impartiality does not require equal time for every view, nor does it require every possible argument to be represented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-five-due-impartiality-accuracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-snippet">five: Due impartiality and due accuracy5 Jan 2021 — Impartiality itself means not favouring one side over another...</span></span></span>
 
 This approach differs from a simplistic “both sides” model. A broadcaster covering a scientific issue, for example, is not expected to give equal prominence to a position supported by thousands of studies and to a position supported by a handful of dissenters. Instead, coverage should reflect the actual distribution of evidence and expertise. Ofcom has stated that giving all alternative views equal weight can itself create a false equivalence between viewpoints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/128624/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">Indeed, to do so could lead to a &#x27;false equivalence&#x27;...Read more...</span></span></span>
 
@@ -290,15 +289,11 @@ The same principle appears in BBC editorial guidance. News should be treated wit
 
 In this sense, due impartiality is not neutrality between all claims. It is a judgement about how to inform audiences fairly.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vwS-CjzGnRo" title="How Does False Balance Create Journalistic Bias? - Journalism Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vwS-CjzGnRo" target="_blank" rel="noopener noreferrer">How Does False Balance Create Journalistic Bias? - Journalism Explained</a></p><p class="youtube-embed-meta">Channel: Journalism Explained</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vwS-CjzGnRo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vwS-CjzGnRo">Open on YouTube</a></p></div></div></div>
-
 ## Why fairness is not always fifty-fifty
 
 Mechanical balance treats fairness as a mathematical exercise. If one guest supports a proposition and another opposes it, the broadcaster appears balanced regardless of the quality of the evidence.
 
 Due impartiality treats fairness as an editorial judgement. Several questions become relevant:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -309,10 +304,9 @@ Due impartiality treats fairness as an editorial judgement. Several questions be
 
 </div>
 
-These questions explain why [equal airtime]({{ 'equal-airtime/' | relative_url }}) is often inappropriate outside political contests. In elections, broadcasters may need to allocate coverage among parties according to specific impartiality rules and political significance. In science, medicine, or established factual matters, however, equal airtime can misrepresent the state of knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/about-ofcom/what-we-do/ofcoms-role-in-a-general-election--what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">ofcoms role in a general election what you need to know</span><span class="citation-popover-snippet">due weight across a broadcaster&#x27;s TV and radio coverage. This means...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/ofcom-updates-guidance-around-politicians-presenting-news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">ofcom updates guidance around politicians presenting news</span><span class="citation-popover-snippet">updates guidance around politicians presenting news20 Oct 2025 — Our Broadcasting Code contains robust rules requiring broadcasters to pr...</span></span></span>
+These questions explain why [equal airtime]({{ 'equal-airtime/' | relative_url }}) is often inappropriate outside political contests. In elections, broadcasters may need to allocate coverage among parties according to specific impartiality rules and political significance. In science, medicine, or established factual matters, however, equal airtime can misrepresent the state of knowledge. [www.ofcom.org.uk+2www.ofcom.org.uk]
 
 Academic and professional discussions of journalism have long noted that impartiality is not synonymous with balance. Researchers studying news production have argued that reducing impartiality to a simple “he said, she said” formula can narrow public understanding and obscure the relative strength of competing claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14648849241266097" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsJournalism identity, institutional networks and social media21 Jul 2024 — Scholars agree that impartiality is a problematic...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MjlRyPeoMKo" title="Understanding False Bias in Science Reporting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MjlRyPeoMKo" target="_blank" rel="noopener noreferrer">Understanding False Bias in Science Reporting</a></p><p class="youtube-embed-meta">Channel: Carleton School of Journalism and Communication &middot; Views: 322 &middot; Uploaded: March 2016 &middot; Length: 1 minute 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MjlRyPeoMKo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MjlRyPeoMKo">Open on YouTube</a></p></div></div></div>
 
@@ -321,7 +315,6 @@ Academic and professional discussions of journalism have long noted that imparti
 Rejecting mechanical balance does not mean excluding minority viewpoints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/media/2021/nov/12/what-does-impartiality-mean-bbc-no-bias-policy-being-pushed-to-limits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">What does impartiality mean?</span><span class="citation-popover-snippet">BBC no-bias policy being...12 Nov 2021 — The BBC is usually guided by the subtly different concept of “due impartiality” – a term at ris...</span></span></span>
 
 Alternative perspectives are often necessary when:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -337,11 +330,10 @@ In such situations, audiences benefit from hearing multiple perspectives. Due im
 
 For example, debates about taxation, immigration levels, energy policy, or public spending often involve disagreements about priorities and trade-offs rather than disputes over a settled scientific fact. Presenting a range of viewpoints can help audiences understand those competing values. The goal is not to eliminate disagreement but to represent it accurately.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_due_impartiality_bal_2bb624-Illustration-2-dark.svg" | relative_url }}" alt="Due Impartiality illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_due_impartiality_bal_2bb624-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_due_impartiality_bal_2bb624-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The role of context
 
-A crucial feature of due impartiality is that it can be achieved across a programme, a series of programmes, or broader coverage rather than through a strict minute-by-minute allocation of opposing voices. Context matters. A documentary, interview, news bulletin, and current-affairs discussion may each satisfy impartiality requirements differently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/siteassets/resources/documents/consultations/category-2-6-weeks/222191-how-ofcom-regulates-the-bbc/associated-documents/4-drivers-of-perceptions-of-due-impartiality-the-bbc-and-the-wider-news-landscape.pdf?v=328092" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-snippet">of perceptions of due impartiality: The BBC and the...1 Ofcom recognises that discussions around due impartiality are made more complex...</span></span></span>
+A crucial feature of due impartiality is that it can be achieved across a programme, a series of programmes, or broader coverage rather than through a strict minute-by-minute allocation of opposing voices. Context matters. A documentary, interview, news bulletin, and current-affairs discussion may each satisfy impartiality requirements differently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-guidance/programme-guidance/broadcast-code-guidance/section5.pdf?v=328577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-snippet">Notes&quot;Due&quot; means adequate or appropriate to the subject and nature of the programme. So &quot;due impartiality&quot; does not mean an equal divisio...</span></span></span>
 
 This flexibility allows broadcasters to pursue accuracy and depth rather than treating every segment as a miniature debate.
 
@@ -351,15 +343,13 @@ The strongest argument for due impartiality over mechanical balance is that equa
 
 Climate change reporting provides one of the best-known examples. Critics of earlier broadcasting practices argued that attempts to provide symmetrical debate sometimes made public scientific agreement appear far weaker than it actually was. Parliamentary criticism of BBC coverage and subsequent editorial guidance reflected concerns that false balance could mislead audiences about the level of scientific consensus. The Guardian <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.carbonbrief.org/exclusive-bbc-issues-internal-guidance-on-how-to-report-climate-change/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbonbrief.org">[Carbon Brief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbonbrief.org</span><span class="citation-popover-title">exclusive bbc issues internal guidance on how to report climate change</span><span class="citation-popover-snippet">Carbon BriefExclusive: BBC issues internal guidance on how to report...7 Sept 2018 — To achieve impartiality, you do not need to include...</span></span></span>
 
-BBC climate guidance later stated that impartiality does not require including climate-change deniers simply to “balance” coverage. The reasoning was straightforward: if the underlying scientific question has been extensively examined and a broad [expert consensus]({{ 'false-balance-0e8d1b/' | relative_url }}) exists, presenting denial and consensus as equivalent positions can create confusion rather than understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.carbonbrief.org/exclusive-bbc-issues-internal-guidance-on-how-to-report-climate-change/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbonbrief.org">[Carbon Brief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbonbrief.org</span><span class="citation-popover-title">exclusive bbc issues internal guidance on how to report climate change</span><span class="citation-popover-snippet">Carbon BriefExclusive: BBC issues internal guidance on how to report...7 Sept 2018 — To achieve impartiality, you do not need to include...</span></span></span>
+BBC climate guidance later stated that impartiality does not require including climate-change deniers simply to “balance” coverage. The reasoning was straightforward: if the underlying scientific question has been extensively examined and a broad expert consensus exists, presenting denial and consensus as equivalent positions can create confusion rather than understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.carbonbrief.org/exclusive-bbc-issues-internal-guidance-on-how-to-report-climate-change/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbonbrief.org">[Carbon Brief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbonbrief.org</span><span class="citation-popover-title">exclusive bbc issues internal guidance on how to report climate change</span><span class="citation-popover-snippet">Carbon BriefExclusive: BBC issues internal guidance on how to report...7 Sept 2018 — To achieve impartiality, you do not need to include...</span></span></span>
 
 The same principle applies beyond climate science. Medical misinformation, conspiracy theories, and unsupported factual claims can gain legitimacy merely from being placed opposite established evidence in a formal debate format. The visual and rhetorical structure of a debate may suggest parity even when the underlying evidence is highly unequal.
 
 Due impartiality attempts to prevent that distortion by requiring broadcasters to consider not only whether a view exists but also whether it deserves the prominence being given to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/128624/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">Indeed, to do so could lead to a &#x27;false equivalence&#x27;...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f4zul0BuO8A" title="Why have climate change predictions been so WRONG?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f4zul0BuO8A" target="_blank" rel="noopener noreferrer">Why have climate change predictions been so WRONG?</a></p><p class="youtube-embed-meta">Channel: Simon Clark</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f4zul0BuO8A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f4zul0BuO8A">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_due_impartiality_bal_2bb624-Illustration-3-dark.svg" | relative_url }}" alt="Due Impartiality illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_due_impartiality_bal_2bb624-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_due_impartiality_bal_2bb624-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The continuing debate over impartiality
 
 Although the principle is widely accepted in broadcasting regulation, disagreements remain about how it should be applied.
@@ -370,14 +360,11 @@ These controversies highlight an important point: due impartiality is not a mech
 
 ## The key distinction
 
-The difference between due impartiality and mechanical balance can be summarised in a single question: should journalism reflect the existence of competing claims, or should it reflect the [weight of evidence]({{ 'evidence-weighting/' | relative_url }}) behind them?
+The difference between due impartiality and mechanical balance can be summarised in a single question: should journalism reflect the existence of competing claims, or should it reflect the weight of evidence behind them?
 
-Broadcasting standards in the UK generally favour the second approach. They require important viewpoints to be represented, but they do not require all viewpoints to be treated as equally credible, equally significant, or equally supported. Giving appropriate weight to evidence is therefore not a departure from impartiality; it is a central part of it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-codes/2025/guidance-notes-section-five-due-impartiality-and-due-accuracy-and-undue-prominence-of-views-and-opinions.pdf?v=406322" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-snippet">This Guidance is provided to assist broadcasters in understanding how Ofcom will usually interpret and apply the Broadcasting Code.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/broadcasters-put-on-notice-to-maintain-due-impartiality-ahead-of-general-election" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-snippet">Broadcasters put on notice to maintain due impartiality...24 Apr 2024 — Ofcom puts broadcasters on notice that they must maintain the hi...</span></span></span>
+Broadcasting standards in the UK generally favour the second approach. They require important viewpoints to be represented, but they do not require all viewpoints to be treated as equally credible, equally significant, or equally supported. Giving appropriate weight to evidence is therefore not a departure from impartiality; it is a central part of it. [www.ofcom.org.uk+2www.ofcom.org.uk]
 
 Within discussions of myths and misconceptions, this distinction is crucial. Mechanical balance can unintentionally elevate unsupported claims into apparent contenders. Due impartiality seeks to preserve fairness without creating that illusion, allowing broadcasters to remain open to disagreement while still reflecting what the evidence actually shows. UK Parliament Committees <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.carbonbrief.org/exclusive-bbc-issues-internal-guidance-on-how-to-report-climate-change/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbonbrief.org">[Carbon Brief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbonbrief.org</span><span class="citation-popover-title">exclusive bbc issues internal guidance on how to report climate change</span><span class="citation-popover-snippet">Carbon BriefExclusive: BBC issues internal guidance on how to report...7 Sept 2018 — To achieve impartiality, you do not need to include...</span></span></span>
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_due_impartiality_bal_2bb624-Illustration-3-dark.svg" | relative_url }}" alt="Due Impartiality illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_due_impartiality_bal_2bb624-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_due_impartiality_bal_2bb624-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -775,183 +762,183 @@ Within discussions of myths and misconceptions, this distinction is crucial. Mec
 
 1. <a id="endnote-1"></a>
    Source: ofcom.org.uk  
-   Link: [https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-five-due-impartiality-accuracy](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-five-due-impartiality-accuracy)  
+   Link: <a href="https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-five-due-impartiality-accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-five-due-impartiality-accuracy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>five: Due impartiality and due accuracy5 Jan 2021 — Impartiality itself means not favouring one side over another...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ofcom.org.uk  
-   Link: [https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-guidance/programme-guidance/broadcast-code-guidance/section5.pdf?v=328577](https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-guidance/programme-guidance/broadcast-code-guidance/section5.pdf?v=328577)  
+   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-guidance/programme-guidance/broadcast-code-guidance/section5.pdf?v=328577" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-guidance/programme-guidance/broadcast-code-guidance/section5.pdf?v=328577</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Notes&quot;Due&quot; means adequate or appropriate to the subject and nature of the programme. So &quot;due impartiality&quot; does not mean an equal divisio...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/128624/html/](https://committees.parliament.uk/writtenevidence/128624/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/128624/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/128624/html/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Indeed, to do so could lead to a &#x27;false equivalence&#x27;...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/128377/html/](https://committees.parliament.uk/writtenevidence/128377/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/128377/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/128377/html/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesChannel 4—written evidence (FON0028)As the Code makes clear, the concept of “due impartiality” does not mean havi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ofcom.org.uk  
    Title: holding broadcasters to account during upcoming elections what you need to know  
-   Link: [https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/holding-broadcasters-to-account-during-upcoming-elections-what-you-need-to-know](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/holding-broadcasters-to-account-during-upcoming-elections-what-you-need-to-know)  
+   Link: <a href="https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/holding-broadcasters-to-account-during-upcoming-elections-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/holding-broadcasters-to-account-during-upcoming-elections-what-you-need-to-know</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>broadcasters to account during upcoming elections25 Mar 2026 — During an election period, political parties and independent candidates mu...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ofcom.org.uk  
    Title: ofcoms role in a general election what you need to know  
-   Link: [https://www.ofcom.org.uk/about-ofcom/what-we-do/ofcoms-role-in-a-general-election--what-you-need-to-know](https://www.ofcom.org.uk/about-ofcom/what-we-do/ofcoms-role-in-a-general-election--what-you-need-to-know)  
+   Link: <a href="https://www.ofcom.org.uk/about-ofcom/what-we-do/ofcoms-role-in-a-general-election--what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/about-ofcom/what-we-do/ofcoms-role-in-a-general-election--what-you-need-to-know</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>due weight across a broadcaster&#x27;s TV and radio coverage. This means...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ofcom.org.uk  
    Title: ofcom updates guidance around politicians presenting news  
-   Link: [https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/ofcom-updates-guidance-around-politicians-presenting-news](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/ofcom-updates-guidance-around-politicians-presenting-news)  
+   Link: <a href="https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/ofcom-updates-guidance-around-politicians-presenting-news" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/ofcom-updates-guidance-around-politicians-presenting-news</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>updates guidance around politicians presenting news20 Oct 2025 — Our Broadcasting Code contains robust rules requiring broadcasters to pr...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ofcom.org.uk  
-   Link: [https://www.ofcom.org.uk/siteassets/resources/documents/consultations/category-2-6-weeks/222191-how-ofcom-regulates-the-bbc/associated-documents/4-drivers-of-perceptions-of-due-impartiality-the-bbc-and-the-wider-news-landscape.pdf?v=328092](https://www.ofcom.org.uk/siteassets/resources/documents/consultations/category-2-6-weeks/222191-how-ofcom-regulates-the-bbc/associated-documents/4-drivers-of-perceptions-of-due-impartiality-the-bbc-and-the-wider-news-landscape.pdf?v=328092)  
+   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/consultations/category-2-6-weeks/222191-how-ofcom-regulates-the-bbc/associated-documents/4-drivers-of-perceptions-of-due-impartiality-the-bbc-and-the-wider-news-landscape.pdf?v=328092" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/consultations/category-2-6-weeks/222191-how-ofcom-regulates-the-bbc/associated-documents/4-drivers-of-perceptions-of-due-impartiality-the-bbc-and-the-wider-news-landscape.pdf?v=328092</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of perceptions of due impartiality: The BBC and the...1 Ofcom recognises that discussions around due impartiality are made more complex...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ofcom.org.uk  
-   Link: [https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-codes/2025/guidance-notes-section-five-due-impartiality-and-due-accuracy-and-undue-prominence-of-views-and-opinions.pdf?v=406322](https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-codes/2025/guidance-notes-section-five-due-impartiality-and-due-accuracy-and-undue-prominence-of-views-and-opinions.pdf?v=406322)  
+   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-codes/2025/guidance-notes-section-five-due-impartiality-and-due-accuracy-and-undue-prominence-of-views-and-opinions.pdf?v=406322" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-codes/2025/guidance-notes-section-five-due-impartiality-and-due-accuracy-and-undue-prominence-of-views-and-opinions.pdf?v=406322</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Guidance is provided to assist broadcasters in understanding how Ofcom will usually interpret and apply the Broadcasting Code.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ofcom.org.uk  
-   Link: [https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/broadcasters-put-on-notice-to-maintain-due-impartiality-ahead-of-general-election](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/broadcasters-put-on-notice-to-maintain-due-impartiality-ahead-of-general-election)  
+   Link: <a href="https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/broadcasters-put-on-notice-to-maintain-due-impartiality-ahead-of-general-election" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/broadcasters-put-on-notice-to-maintain-due-impartiality-ahead-of-general-election</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Broadcasters put on notice to maintain due impartiality...24 Apr 2024 — Ofcom puts broadcasters on notice that they must maintain the hi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ofcom.org.uk  
-   Link: [https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/broadcast-impartiality-accuracy-and-elections-rules-review](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/broadcast-impartiality-accuracy-and-elections-rules-review)  
+   Link: <a href="https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/broadcast-impartiality-accuracy-and-elections-rules-review" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/broadcast-impartiality-accuracy-and-elections-rules-review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Statement on Ofcom&#x27;s rules on due impartiality...Specifically, we have amended: Section Five (due impartiality) of the Code; Section Si...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ofcom.org.uk  
-   Link: [https://www.ofcom.org.uk/siteassets/resources/documents/consultations/uncategorised/8825-broadcasting_code/statement/261004_new.pdf?v=333312](https://www.ofcom.org.uk/siteassets/resources/documents/consultations/uncategorised/8825-broadcasting_code/statement/261004_new.pdf?v=333312)  
+   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/consultations/uncategorised/8825-broadcasting_code/statement/261004_new.pdf?v=333312" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/consultations/uncategorised/8825-broadcasting_code/statement/261004_new.pdf?v=333312</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ision service, teletext service, national radio and national digital sound...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/149530/html/](https://committees.parliament.uk/writtenevidence/149530/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/149530/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/149530/html/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>evidence from Ofcom (PEW 32)Under Section Five of the Broadcasting Code, broadcasters are required to report news with due accuracy and p...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: questions-statements.parliament.uk  
    Title: uk Political Impartiality  
-   Link: [https://questions-statements.parliament.uk/written-questions/detail/2025-11-17/91609](https://questions-statements.parliament.uk/written-questions/detail/2025-11-17/91609)  
+   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2025-11-17/91609" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2025-11-17/91609</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Impartiality - Written questions, answers and statements17 Nov 2025 — Ofcom is required by legislation to enforce a Broadcasting Code for...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: lordslibrary.parliament.uk  
    Title: uk Regulation of news broadcasting companies  
-   Link: [https://lordslibrary.parliament.uk/regulation-of-news-broadcasting-companies/](https://lordslibrary.parliament.uk/regulation-of-news-broadcasting-companies/)  
+   Link: <a href="https://lordslibrary.parliament.uk/regulation-of-news-broadcasting-companies/" target="_blank" rel="noopener noreferrer nofollow">https://lordslibrary.parliament.uk/regulation-of-news-broadcasting-companies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of news broadcasting companies - Lords Library11 Mar 2024 — Highlighting the role of Ofcom in upholding standards of due impartiality and...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: palestinecampaign.org  
-   Link: [https://palestinecampaign.org/bbcguidelines/](https://palestinecampaign.org/bbcguidelines/)  
+   Link: <a href="https://palestinecampaign.org/bbcguidelines/" target="_blank" rel="noopener noreferrer nofollow">https://palestinecampaign.org/bbcguidelines/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Palestine Solidarity CampaignThe BBC&#x27;s Guidelines on Accuracy and Impartiality11 Jan 2013 — 2 News in whatever form must be treated with...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/14648849241266097](https://journals.sagepub.com/doi/10.1177/14648849241266097)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/14648849241266097" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14648849241266097</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsJournalism [identity](&amp;#123;&amp;#123; &#x27;identity/&#x27; | relative_url &amp;#125;&amp;#125;), institutional networks and social media21 Jul 2024 — Scholars agree that impartiality is a problematic...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
    Title: mps criticise bbc false balance climate change coverage  
-   Link: [https://www.theguardian.com/environment/2014/apr/02/mps-criticise-bbc-false-balance-climate-change-coverage](https://www.theguardian.com/environment/2014/apr/02/mps-criticise-bbc-false-balance-climate-change-coverage)  
+   Link: <a href="https://www.theguardian.com/environment/2014/apr/02/mps-criticise-bbc-false-balance-climate-change-coverage" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2014/apr/02/mps-criticise-bbc-false-balance-climate-change-coverage</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianMPs criticise BBC for &#x27;false balance&#x27; in climate change...2 Apr 2014 — The report follows longstanding frustration by enviro...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: carbonbrief.org  
    Title: exclusive bbc issues internal guidance on how to report climate change  
-   Link: [https://www.carbonbrief.org/exclusive-bbc-issues-internal-guidance-on-how-to-report-climate-change/](https://www.carbonbrief.org/exclusive-bbc-issues-internal-guidance-on-how-to-report-climate-change/)  
+   Link: <a href="https://www.carbonbrief.org/exclusive-bbc-issues-internal-guidance-on-how-to-report-climate-change/" target="_blank" rel="noopener noreferrer nofollow">https://www.carbonbrief.org/exclusive-bbc-issues-internal-guidance-on-how-to-report-climate-change/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carbon BriefExclusive: BBC issues internal guidance on how to report...7 Sept 2018 — To achieve impartiality, you do not need to include...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/media/2026/jun/01/broadcasters-embarrassed-gb-news-ofcom-impartiality](https://www.theguardian.com/media/2026/jun/01/broadcasters-embarrassed-gb-news-ofcom-impartiality)  
+   Link: <a href="https://www.theguardian.com/media/2026/jun/01/broadcasters-embarrassed-gb-news-ofcom-impartiality" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/jun/01/broadcasters-embarrassed-gb-news-ofcom-impartiality</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Speaking freely following his departure from Ofcom and return to the Conservative whip in the House of Lords, Grade defended GB News agai...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/media/2026/may/14/gb-news-lose-licence-adam-boulton-ofcom-impartiality-rules](https://www.theguardian.com/media/2026/may/14/gb-news-lose-licence-adam-boulton-ofcom-impartiality-rules)  
+   Link: <a href="https://www.theguardian.com/media/2026/may/14/gb-news-lose-licence-adam-boulton-ofcom-impartiality-rules" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2026/may/14/gb-news-lose-licence-adam-boulton-ofcom-impartiality-rules</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boulton expressed concern that GB News, which launched in 2021, has consistently violated impartial reporting standards yet was granted t...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: theguardian.com  
    Title: What does impartiality mean?  
-   Link: [https://www.theguardian.com/media/2021/nov/12/what-does-impartiality-mean-bbc-no-bias-policy-being-pushed-to-limits](https://www.theguardian.com/media/2021/nov/12/what-does-impartiality-mean-bbc-no-bias-policy-being-pushed-to-limits)  
+   Link: <a href="https://www.theguardian.com/media/2021/nov/12/what-does-impartiality-mean-bbc-no-bias-policy-being-pushed-to-limits" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2021/nov/12/what-does-impartiality-mean-bbc-no-bias-policy-being-pushed-to-limits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BBC no-bias policy being...12 Nov 2021 — The BBC is usually guided by the subtly different concept of “due impartiality” – a term at ris...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/gb/1117079384/ofcom-section-5-flash-cards/](https://quizlet.com/gb/1117079384/ofcom-section-5-flash-cards/)  
+   Link: <a href="https://quizlet.com/gb/1117079384/ofcom-section-5-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/1117079384/ofcom-section-5-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Section 5 FlashcardsWhat does due impartiality not mean? It does not mean equal division of time for every argument. Does not mean every...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/BBC](https://www.youtube.com/BBC)  
+   Link: <a href="https://www.youtube.com/BBC" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/BBC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BBCThe Graham Norton Show · Graham Norton welcomes the biggest stars of film, TV and music on to his sofa for chat, performances and come...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: uea.ac.uk  
-   Link: [https://www.uea.ac.uk/about/law-school/research/research-blog/impartiality-and-the-bbc-7c-dr-paul-bernal](https://www.uea.ac.uk/about/law-school/research/research-blog/impartiality-and-the-bbc-7c-dr-paul-bernal)  
+   Link: <a href="https://www.uea.ac.uk/about/law-school/research/research-blog/impartiality-and-the-bbc-7c-dr-paul-bernal" target="_blank" rel="noopener noreferrer nofollow">https://www.uea.ac.uk/about/law-school/research/research-blog/impartiality-and-the-bbc-7c-dr-paul-bernal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Impartiality and the BBC | Dr Paul BernalImpartiality itself means not favouring one side over another. “Due” means adequate or appropria...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: discoverleveson.com  
-   Link: [https://www.discoverleveson.com/evidence/Exhibit_LP3c/9188/media](https://www.discoverleveson.com/evidence/Exhibit_LP3c/9188/media)  
+   Link: <a href="https://www.discoverleveson.com/evidence/Exhibit_LP3c/9188/media" target="_blank" rel="noopener noreferrer nofollow">https://www.discoverleveson.com/evidence/Exhibit_LP3c/9188/media</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SECTION 4: IMPARTIALITYThe Agreement accompanying the BBC Charter requires us to do all we can to ensure controversial subjects are treat...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GoodLawProject.org/posts/ofcoms-broadcasting-standards-state-that-all-news-must-be-reported-with-due-accu/1517176490454202/](https://www.facebook.com/GoodLawProject.org/posts/ofcoms-broadcasting-standards-state-that-all-news-must-be-reported-with-due-accu/1517176490454202/)  
+   Link: <a href="https://www.facebook.com/GoodLawProject.org/posts/ofcoms-broadcasting-standards-state-that-all-news-must-be-reported-with-due-accu/1517176490454202/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GoodLawProject.org/posts/ofcoms-broadcasting-standards-state-that-all-news-must-be-reported-with-due-accu/1517176490454202/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>so why is it letting TalkTV&#x27;s rampant climate misinformation...Ofcom&#x27;s broadcasting standards state that all news must be “reported with...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: blogs.lse.ac.uk  
-   Link: [https://blogs.lse.ac.uk/medialse/2023/04/03/how-uk-broadcastings-key-principle-of-impartiality-has-been-eroded-over-the-years/](https://blogs.lse.ac.uk/medialse/2023/04/03/how-uk-broadcastings-key-principle-of-impartiality-has-been-eroded-over-the-years/)  
+   Link: <a href="https://blogs.lse.ac.uk/medialse/2023/04/03/how-uk-broadcastings-key-principle-of-impartiality-has-been-eroded-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/medialse/2023/04/03/how-uk-broadcastings-key-principle-of-impartiality-has-been-eroded-over-the-years/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK broadcasting&#x27;s key principle of impartiality has...3 Apr 2023 — The UK has historically required broadcasters to abide by a set of “d...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: quizlet.com  
    Title: Part 22 Impartiality in respect of broadcasting Flashcards'Due impartiality'  
-   Link: [https://quizlet.com/gb/920538101/part-22-impartiality-in-respect-of-broadcasting-flash-cards/](https://quizlet.com/gb/920538101/part-22-impartiality-in-respect-of-broadcasting-flash-cards/)  
+   Link: <a href="https://quizlet.com/gb/920538101/part-22-impartiality-in-respect-of-broadcasting-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/920538101/part-22-impartiality-in-respect-of-broadcasting-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does not mean and equal division of time has to be given to every view or every facet or every argument has to be represented. This may...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: ksj.mit.edu  
    Title: report accuses bbc journalists of false balance in climate change coverage  
-   Link: [https://ksj.mit.edu/tracker-archive/report-accuses-bbc-journalists-of-false-balance-in-climate-change-coverage/](https://ksj.mit.edu/tracker-archive/report-accuses-bbc-journalists-of-false-balance-in-climate-change-coverage/)  
+   Link: <a href="https://ksj.mit.edu/tracker-archive/report-accuses-bbc-journalists-of-false-balance-in-climate-change-coverage/" target="_blank" rel="noopener noreferrer nofollow">https://ksj.mit.edu/tracker-archive/report-accuses-bbc-journalists-of-false-balance-in-climate-change-coverage/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>says BBC journalists mislead with false balance in...In April the BBC was accused of misleading viewers about climate change and creatin...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: bizlawuk.co.uk  
    Title: most important things need to know about u k ofcom broadcasting code  
-   Link: [https://www.bizlawuk.co.uk/most-important-things-need-to-know-about-u-k-ofcom-broadcasting-code/](https://www.bizlawuk.co.uk/most-important-things-need-to-know-about-u-k-ofcom-broadcasting-code/)  
+   Link: <a href="https://www.bizlawuk.co.uk/most-important-things-need-to-know-about-u-k-ofcom-broadcasting-code/" target="_blank" rel="noopener noreferrer nofollow">https://www.bizlawuk.co.uk/most-important-things-need-to-know-about-u-k-ofcom-broadcasting-code/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ofcom Broadcasting Code | Most important things...This section relates to the concept of due impartiality as it applies to news and othe...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/94959012/BBC-Editorial-Guidelines-in-Full-1](https://www.scribd.com/doc/94959012/BBC-Editorial-Guidelines-in-Full-1)  
+   Link: <a href="https://www.scribd.com/doc/94959012/BBC-Editorial-Guidelines-in-Full-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/94959012/BBC-Editorial-Guidelines-in-Full-1</a>  
 
 33. <a id="endnote-33"></a>
    Source: mediawrites.twobirds.com  
    Title: the state of the nation ofcom consults on impartiality in news  
-   Link: [https://mediawrites.twobirds.com/post/102kqo3/the-state-of-the-nation-ofcom-consults-on-impartiality-in-news](https://mediawrites.twobirds.com/post/102kqo3/the-state-of-the-nation-ofcom-consults-on-impartiality-in-news)  
+   Link: <a href="https://mediawrites.twobirds.com/post/102kqo3/the-state-of-the-nation-ofcom-consults-on-impartiality-in-news" target="_blank" rel="noopener noreferrer nofollow">https://mediawrites.twobirds.com/post/102kqo3/the-state-of-the-nation-ofcom-consults-on-impartiality-in-news</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>State of the Nation – Ofcom Consults on Impartiality in News1 Jul 2025 — Section Five of the Code currently (i) requires that &#x27;news, in w...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ofcom/posts/how-do-broadcasting-rules-apply-during-a-general-election-%EF%B8%8F-the-highest-level-of/868536225305353/](https://www.facebook.com/ofcom/posts/how-do-broadcasting-rules-apply-during-a-general-election-%EF%B8%8F-the-highest-level-of/868536225305353/)  
+   Link: <a href="https://www.facebook.com/ofcom/posts/how-do-broadcasting-rules-apply-during-a-general-election-%EF%B8%8F-the-highest-level-of/868536225305353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ofcom/posts/how-do-broadcasting-rules-apply-during-a-general-election-%EF%B8%8F-the-highest-level-of/868536225305353/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>✔️ Political parties and independent candidates must be given due weight across...Read more...</p></details>

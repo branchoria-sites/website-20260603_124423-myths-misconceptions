@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_large_correction_stu_7d2498
 - Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - backfire
 - naming-myths
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - backfire
 - naming-myths
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Good debunking names the false claim clearly enough to correct it but keeps the true claim as the message people remember.
 hero_summary: Good debunking names the false claim clearly enough to correct it but keeps the true claim as the message people remember.
 layout: default
 permalink: /naming-myths/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /backfire/
 nav_short_title: Naming Myths
 title: How Much Should a Debunk Repeat the Myth?
-title_full: How Much Should a Debunk Repeat the Myth? | Backfire
+title_full: How Much Should a Debunk Repeat the Myth?
 display_title_short: Naming Myths
 display_title: Naming Myths
 heading_title: How Much Should a Debunk Repeat the Myth?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Does Debunking Really Make Myths Stronger? | Mythcraft
+parent_title: Does Debunking Really Make Myths Stronger?
 parent_permalink: /backfire/
 parent_nav_short_title: Backfire
 parent_heading_title: Does Debunking Really Make Myths Stronger?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Did Researchers Actually Find Backfire?
 up_link:
   basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
@@ -265,7 +265,7 @@ next_link:
   permalink: /political-corrections/
   short_title: Political Corrections
   heading_title: When Corrections Work But Minds Barely Move
-date: '2026-06-09 04:39:05 '
+date: '2026-06-11 22:09:06 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_na
 
 A good debunk has a naming problem. It must identify the false claim clearly enough that readers know what is being corrected, but it must avoid turning the myth itself into the most memorable part of the message.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427-Illustration-1-dark.svg" | relative_url }}" alt="Naming Myths illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This tension sits at the centre of modern misinformation research. Studies on the illusory truth effect show that repetition can make information feel more familiar and therefore more believable. At the same time, research on [corrections]({{ 'corrections/' | relative_url }}) consistently finds that clear debunking usually improves accuracy rather than causing widespread “backfire” effects. The practical challenge is not whether to mention the myth at all. It is how to mention it without giving it centre stage. ScienceDirect PubMed The most effective corrections tend to keep the true claim as the headline <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[ksjhandbook.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-snippet">KSJ HandbookStructuring Your ArgumentThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting the correct infor...</span></span></span>, the takeaway and the final message readers remember. The myth is named because readers need context, but it is treated as the object of [correction]({{ 'correction/' | relative_url }}) rather than the main story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[KSJ Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-snippet">KSJ HandbookStructuring Your ArgumentThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting the correct infor...</span></span></span>
 
@@ -284,11 +283,11 @@ This tension sits at the centre of modern misinformation research. Studies on th
 
 One temptation is to avoid naming the myth altogether. Communicators sometimes worry that even mentioning a false claim risks spreading it, so they produce vague corrections such as “there is misinformation about [vaccines]({{ 'vaccines/' | relative_url }})” or “some people have made inaccurate claims”.
 
-The problem is that readers often cannot tell what is being corrected. A correction works partly because it updates an existing mental model. If the audience already encountered a specific false claim, they need enough information to connect the correction to that claim. Otherwise the correction floats free of the misconception it is meant to replace. Research on misinformation retraction and the [continued influence]({{ 'old-stories/' | relative_url }}) effect has repeatedly found that corrections are more effective when they directly engage with the mistaken claim rather than merely gesturing toward it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/313796069_Reminders_and_Repetition_of_Misinformation_Helping_or_Hindering_Its_Retraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Reminders and Repetition of Misinformation: Helping or</span><span class="citation-popover-snippet">ResearchGateReminders and Repetition of Misinformation: Helping or...April 1, 2017 — Retractions that explicitly repeated the misinforma...</span><span class="citation-popover-meta">Published: April 1, 2017</span></span></span>
+The problem is that readers often cannot tell what is being corrected. A correction works partly because it updates an existing mental model. If the audience already encountered a specific false claim, they need enough information to connect the correction to that claim. Otherwise the correction floats free of the misconception it is meant to replace. Research on misinformation retraction and the continued influence effect has repeatedly found that corrections are more effective when they directly engage with the mistaken claim rather than merely gesturing toward it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/313796069_Reminders_and_Repetition_of_Misinformation_Helping_or_Hindering_Its_Retraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Reminders and Repetition of Misinformation: Helping or</span><span class="citation-popover-snippet">Reminders and Repetition of Misinformation: Helping or...April 1, 2017 — Retractions that explicitly repeated the misinforma...</span><span class="citation-popover-meta">Published: April 1, 2017</span></span></span>
 
-This is one reason many researchers no longer support a blanket rule of “never repeat the myth”. The evidence suggests that naming the false claim can help readers identify what is wrong, especially when the correction is explicit and unambiguous. What matters is the balance between identification and [amplification]({{ 'amplification/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCby B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">However, Ecker et al.Read more...</span></span></span>
+This is one reason many researchers no longer support a blanket rule of “never repeat the myth”. The evidence suggests that naming the false claim can help readers identify what is wrong, especially when the correction is explicit and unambiguous. What matters is the balance between identification and [amplification]({{ 'amplification/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">However, Ecker et al.Read more...</span></span></span>
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[A correction that says:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">However, Ecker et al.Read more...</span></span></span>
+A correction that says: <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">However, Ecker et al.Read more...</span></span></span>
 
 > Vaccines do not alter human DNA. Claims that mRNA vaccines rewrite DNA misunderstand how the vaccines work.
 
@@ -298,14 +297,13 @@ A correction that says only: <span class="citation-chip-wrap"><a class="citation
 
 > Some online claims about vaccine technology are misleading.
 
-avoids repetition but may leave readers unsure about what has actually been corrected.
+avoids [repetition]({{ 'repetition/' | relative_url }}) but may leave readers unsure about what has actually been corrected.
 
 ## How headlines and repetition amplify false claims
 
 The biggest naming risk often appears before readers reach the body of an article.
 
 Many fact-checks historically used the myth itself as the headline:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -317,10 +315,9 @@ Many fact-checks historically used the myth itself as the headline:
 
 Such [headlines]({{ 'headlines/' | relative_url }}) are understandable because they target search queries and identify the claim immediately. Yet they also repeat the false statement in the most prominent position on the page.
 
-Researchers studying familiarity effects have long found that repeated exposure increases perceived truthfulness, even when people are warned about the risk. Familiarity creates a sense of processing fluency: statements feel easier to understand because they have been encountered before. That ease can later be misread as evidence that the statement is true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCby B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span> ScienceDirect This does not mean every myth headline automatically spreads misinformation. Correction studies generally find that the corrective informatio <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 116 — Repetition increases belief in in...</span></span></span> n outweighs the familiarity boost produced by repetition. However, communicators still have reasons to avoid making the myth the most visible element. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookThus, while repeating misinformation generally increases familiarity and truth r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCby B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</span></span></span>
+Researchers studying familiarity effects have long found that repeated exposure increases perceived truthfulness, even when people are warned about the risk. Familiarity creates a sense of processing fluency: statements feel easier to understand because they have been encountered before. That ease can later be misread as evidence that the statement is true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span> ScienceDirect This does not mean every myth headline automatically spreads misinformation. Correction studies generally find that the corrective informatio <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 116 — Repetition increases belief in in...</span></span></span> n outweighs the familiarity boost produced by repetition. However, communicators still have reasons to avoid making the myth the most visible element. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookThus, while repeating misinformation generally increases familiarity and truth r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</span></span></span>
 
 A reader may:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -335,15 +332,11 @@ In those situations, prominence matters. The issue is less about catastrophic ba
 
 Climate communication research has highlighted this concern. Studies examining repeated exposure to climate-related claims found that repetition increased perceived truthfulness for both accurate and inaccurate statements. The implication is not that myths should never be corrected, but that communicators should ensure truthful information receives at least as much repetition and visibility as the misinformation it answers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The research, published in *Plos One*, was led by Mary Jiang from the Australian National University and highlighted the &quot;illusory truth...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CV2d34yXST8" title="Debunking 6 Popular Psychology Myths You Still Believe - The Biggest Psychology Myths Exposed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CV2d34yXST8" target="_blank" rel="noopener noreferrer">Debunking 6 Popular Psychology Myths You Still Believe - The Biggest Psychology Myths Exposed</a></p><p class="youtube-embed-meta">Channel: 6W TV . 2M views . 5 days ago</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CV2d34yXST8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CV2d34yXST8">Open on YouTube</a></p></div></div></div>
-
 ## Better ways to lead with the truth
 
 The most influential debunking guides now recommend structures that keep accurate information in the foreground.
 
 One common approach is the “fact–myth–fallacy” or “truth sandwich” model:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -370,8 +363,7 @@ Compared with:
 
 Both contain the correction. The difference is which idea occupies the most prominent positions.
 
-Recent experiments suggest that the precise ordering of myth and fact may matter less than once believed, provided the correction clearly contains the necessary elements. Yet even when correction formats produce similar belief outcomes, truth-led framing still helps communicators emphasise what they want audiences to remember. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCby B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</span></span></span>
-
+Recent experiments suggest that the precise ordering of myth and fact may matter less than once believed, provided the correction clearly contains the necessary elements. Yet even when correction formats produce similar belief outcomes, truth-led framing still helps communicators emphasise what they want audiences to remember. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427-Illustration-2-dark.svg" | relative_url }}" alt="Naming Myths illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Naming the myth without branding it
@@ -396,9 +388,7 @@ This creates a practical distinction:
 
 The goal is not silence. It is proportionality.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/97t9NgjPf7s" title="Debunking Myths on Ticks | The Rundown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=97t9NgjPf7s" target="_blank" rel="noopener noreferrer">Debunking Myths on Ticks | The Rundown</a></p><p class="youtube-embed-meta">Channel: TVO Today</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=97t9NgjPf7s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=97t9NgjPf7s">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427-Illustration-3-dark.svg" | relative_url }}" alt="Naming Myths illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What readers are most likely to remember
 
 Memory research helps explain why naming decisions matter.
@@ -423,12 +413,9 @@ The correction still addresses the myth. But the remembered message is more like
 
 This approach also aligns with a broader lesson from misinformation research. The strongest defence against falsehoods is often not endless repetition of the myth followed by correction. It is repeated exposure to accurate, clear and memorable information. Familiarity works for truth as well as falsehood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookThus, while repeating misinformation generally increases familiarity and truth r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The research, published in *Plos One*, was led by Mary Jiang from the Australian National University and highlighted the &quot;illusory truth...</span></span></span>
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427-Illustration-3-dark.svg" | relative_url }}" alt="Naming Myths illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical naming checklist
 
 For journalists, educators, fact-checkers and public agencies, a few implementation rules emerge from the evidence:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -442,11 +429,7 @@ For journalists, educators, fact-checkers and public agencies, a few implementat
 
 </div>
 
-The evidence on backfire effects has made communicators less fearful of naming myths directly. The remaining challenge is not whether to mention false claims, but how to ensure that the correction—not the myth—becomes the lasting memory. Springer Link <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCby B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCby B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O1Qb4dI2KAY" title="Debunking Misinformation - The TRUTH SANDWICH #shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O1Qb4dI2KAY" target="_blank" rel="noopener noreferrer">Debunking Misinformation - The TRUTH SANDWICH #shorts</a></p><p class="youtube-embed-meta">Channel: Prof Sander van der Linden</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O1Qb4dI2KAY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O1Qb4dI2KAY">Open on YouTube</a></p></div></div></div>
-
+The evidence on backfire effects has made communicators less fearful of naming myths directly. The remaining challenge is not whether to mention false claims, but how to ensure that the correction—not the myth—becomes the lasting memory. Springer Link <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -844,152 +827,152 @@ The evidence on backfire effects has made communicators less fearful of naming m
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811](https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 116 — Repetition increases belief in in...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 116 — Repetition increases belief in in...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate Reminders and Repetition of Misinformation: Helping or  
-   Link: [https://www.researchgate.net/publication/313796069_Reminders_and_Repetition_of_Misinformation_Helping_or_Hindering_Its_Retraction](https://www.researchgate.net/publication/313796069_Reminders_and_Repetition_of_Misinformation_Helping_or_Hindering_Its_Retraction)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateReminders and Repetition of Misinformation: Helping or...April 1, 2017 — Retractions that explicitly repeated the misinforma...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/313796069_Reminders_and_Repetition_of_Misinformation_Helping_or_Hindering_Its_Retraction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313796069_Reminders_and_Repetition_of_Misinformation_Helping_or_Hindering_Its_Retraction</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reminders and Repetition of Misinformation: Helping or...April 1, 2017 — Retractions that explicitly repeated the misinforma...</p></details>
    Published: April 1, 2017  
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-020-00241-6](https://link.springer.com/article/10.1186/s41235-020-00241-6)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00241-6</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, Ecker et al.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrection format has a limited role when debunking  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: [https://en.wikipedia.org/wiki/Illusory_truth_effect](https://en.wikipedia.org/wiki/Illusory_truth_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11750381/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11750381/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11750381/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11750381/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>implications: incidental exposure to ideas can induce...by J Mikell · 2025 · Cited by 1 — Under many accounts of the illusory truth effe...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Familiarity backfire effects?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167811626000261](https://www.sciencedirect.com/science/article/pii/S0167811626000261)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disentangling the competing...by IN Nibat · 2026 — Repetition reliably increases belief in misinformation (illusory truth effect), while...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027723000550](https://www.sciencedirect.com/science/article/pii/S0010027723000550)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 118 — Importantly, the relatio...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027723000550" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027723000550</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 118 — Importantly, the relatio...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe truth sandwich format does not enhance the correction of...by B Swire-Thompson · 2025 · Cited by 2 — This study examined whether...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth sandwich format does not enhance the correction of...by B Swire-Thompson · 2025 · Cited by 2 — This study examined whether...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027724000775](https://www.sciencedirect.com/science/article/pii/S0010027724000775)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027724000775" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027724000775</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This truth effect has been widely researched and is relevant for topics...R...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-021-00301-5](https://link.springer.com/article/10.1186/s41235-021-00301-5)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00301-5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This finding is known as the illusory truth effect, and it is...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ksjhandbook.org  
-   Link: [https://ksjhandbook.org/misinformation/structuring-your-argument/](https://ksjhandbook.org/misinformation/structuring-your-argument/)  
+   Link: <a href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow">https://ksjhandbook.org/misinformation/structuring-your-argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>KSJ HandbookStructuring Your ArgumentThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting the correct infor...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: climatechangecommunication.org  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookThus, while repeating misinformation generally increases familiarity and truth r...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: journalofcognition.org  
-   Link: [https://journalofcognition.org/articles/10.5334/joc.161](https://journalofcognition.org/articles/10.5334/joc.161)  
+   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.161</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All explanations of the illusory truth effect, including...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: firstdraftnews.org  
-   Link: [https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/](https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/)  
+   Link: <a href="https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First DraftThe psychology of misinformation: Why it&#x27;s so hard to correct14 Jul 2020 — The illusory truth effect occurs when familiarity m...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds](https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds)  
+   Link: <a href="https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The research, published in *Plos One*, was led by Mary Jiang from the Australian National University and highlighted the &quot;illusory truth...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Illusory truth effect  
-   Link: [https://thedecisionlab.com/biases/illusory-truth-effect](https://thedecisionlab.com/biases/illusory-truth-effect)  
+   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect - The Decision...Illusory Truth Effect is the positive feeling when we hear information that we believe to be true...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/psychology/illusory-truth-effect](https://www.ebsco.com/research-starters/psychology/illusory-truth-effect)  
+   Link: <a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/gb/basics/illusory-truth-effect](https://www.psychologytoday.com/gb/basics/illusory-truth-effect)  
+   Link: <a href="https://www.psychologytoday.com/gb/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectThe illusory truth effect is the tendency for any statement that is repeated frequently—whether it is factually true...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: fs.blog  
-   Link: [https://fs.blog/illusory-truth-effect/](https://fs.blog/illusory-truth-effect/)  
+   Link: <a href="https://fs.blog/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/illusory-truth-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusory Truth EffectThe effect is so powerful that repetition can persuade us to believe information we know is false in the first p...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: arno.uvt.nl  
-   Link: [https://arno.uvt.nl/show.cgi?fid=161900](https://arno.uvt.nl/show.cgi?fid=161900)  
+   Link: <a href="https://arno.uvt.nl/show.cgi?fid=161900" target="_blank" rel="noopener noreferrer nofollow">https://arno.uvt.nl/show.cgi?fid=161900</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is The Effect of the Illusory Truth Effect on Conspiracy...However, results indicated that the truth judgment of conspiracy theories was...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/](https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/)  
+   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
 
 24. <a id="endnote-24"></a>
    Source: aclanthology.org  
-   Link: [https://aclanthology.org/anthology-files/anthology-files/pdf/climatenlp/2024.climatenlp-1.4.pdf](https://aclanthology.org/anthology-files/anthology-files/pdf/climatenlp/2024.climatenlp-1.4.pdf)  
+   Link: <a href="https://aclanthology.org/anthology-files/anthology-files/pdf/climatenlp/2024.climatenlp-1.4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/anthology-files/anthology-files/pdf/climatenlp/2024.climatenlp-1.4.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e mis- information once, as one repetition of the myth is beneficial to belief updating (Ecker et...Read mor...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: commonslibrary.org  
    Title: from elephants to sandwiches countering false information  
-   Link: [https://commonslibrary.org/from-elephants-to-sandwiches-countering-false-information/](https://commonslibrary.org/from-elephants-to-sandwiches-countering-false-information/)  
+   Link: <a href="https://commonslibrary.org/from-elephants-to-sandwiches-countering-false-information/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.org/from-elephants-to-sandwiches-countering-false-information/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From Elephants to Sandwiches: Countering False InformationDec 11, 2024 — Learn about countering false information with tips to help you a...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: westerntc.libguides.com  
-   Link: [https://westerntc.libguides.com/c.php?g=1009191&p=10388001](https://westerntc.libguides.com/c.php?g=1009191&p=10388001)  
+   Link: <a href="https://westerntc.libguides.com/c.php?g=1009191&amp;p=10388001" target="_blank" rel="noopener noreferrer nofollow">https://westerntc.libguides.com/c.php?g=1009191&amp;p=10388001</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a Truth Sandwich - [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) and Fake FactsApr 13, 2026 — A truth sandwich ensures the facts are the first thing people read or hear...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38113667/](https://pubmed.ncbi.nlm.nih.gov/38113667/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 131 — Repetition even increases belief in clai...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38113667/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 131 — Repetition even increases belief in clai...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: ltrr.arizona.edu  
-   Link: [https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf](https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf)  
+   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Handbookby S Lewandowsky — To debunk a myth, you often have to mention it - otherwise, how will people know what you&#x27;re talking...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2407.05599v1](https://arxiv.org/html/2407.05599v1)  
+   Link: <a href="https://arxiv.org/html/2407.05599v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2407.05599v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative Debunking of Climate MisinformationJul 8, 2024 — Psychological research recommends that debunkings should adopt the fact-myth...</p></details>

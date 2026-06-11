@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - sciencey-words
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - sciencey-words
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Technical words can give myths a false aura of authority when readers cannot easily judge the underlying evidence.
 hero_summary: Technical words can give myths a false aura of authority when readers cannot easily judge the underlying evidence.
 layout: default
 permalink: /sciencey-words/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Sciencey Words
 title: Why Sciencey Language Makes Myths Persuasive
-title_full: Why Sciencey Language Makes Myths Persuasive | Mythcraft
+title_full: Why Sciencey Language Makes Myths Persuasive
 display_title_short: Sciencey Words
 display_title: Sciencey Words
 heading_title: Why Sciencey Language Makes Myths Persuasive
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 next_link:
   basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
-date: '2026-06-09 04:02:20 '
+date: '2026-06-11 21:49:46 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-overview.webp
@@ -503,9 +503,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-overv
 
 Science-sounding language can make a weak claim feel stronger than it is. A myth gains borrowed authority when it uses technical words, named mechanisms, laboratory imagery, references to “studies”, or phrases such as “[clinically proven]({{ 'clinically-proven/' | relative_url }})” without showing the quality of the evidence behind them. The danger is not jargon itself: specialists need precise terms. The problem is jargon used as a costume, where impressive wording substitutes for testable claims, clear methods, measured outcomes and fair comparison with better evidence.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-overview.webp" | relative_url }}" alt="Overview image for Sciencey Words" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) do not announce themselves as anti-science. They often imitate science. A wellness advert may mention “cellular detoxification”, a productivity guru may cite “dopamine pathways”, or a conspiracy claim may attach a scientific reference that does not support the conclusion. Research on misinformation suggests that these cues can exploit people’s respect for science unless readers pause to ask what evidence is actually being offered. In experiments, false claims with scientific references were more believable and shareable among people who trusted science, while reminders to critically evaluate the evidence reduced belief in those claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103121000871" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This matters because many myths and misconceptions do not announce themselves as anti-science. They often imitate science. A wellness advert may mention “cellular detoxification”, a productivity guru may cite “dopamine pathways”, or a conspiracy claim may attach a scientific reference that does not support the conclusion. Research on misinformation suggests that these cues can exploit people’s respect for science unless readers pause to ask what evidence is actually being offered. In experiments, false claims with scientific references were more believable and shareable among people who trusted science, while reminders to critically evaluate the evidence reduced belief in those claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103121000871" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Borrowed authority
 
@@ -516,7 +515,6 @@ A useful phrase for this pattern is “borrowed authority”. The claim does not
 This is not an argument against trusting scientific institutions, peer review or expertise. It is an argument against treating the surface features of science as if they were the same as evidence. Real scientific authority is earned through methods: well-designed studies, transparent data, plausible mechanisms, appropriate statistics, expert scrutiny, replication and limits on what the findings can support. Weak claims often display the symbols of this process while skipping the process itself.
 
 One reason this works is that scientific topics often place readers in an unequal knowledge position. Most people cannot instantly judge whether a phrase such as “quantum bio-resonance”, “neuro-linguistic recalibration” or “epigenetic optimisation” is meaningful in the context where it appears. When a claim is hard to inspect, readers may use [fluency]({{ 'fluency/' | relative_url }}) shortcuts: Does it sound expert? Does it include a technical mechanism? Does it resemble language I have seen in credible sources? Those shortcuts are not foolish; they are normal. But they are exploitable.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-Illustration-1-dark.svg" | relative_url }}" alt="Sciencey Words illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Jargon without evidence
@@ -537,7 +535,6 @@ Three features are especially common:
 
 **A precise-sounding phrase attached to a vague outcome.** “Supports cellular health”, “balances hormones”, “optimises brain chemistry” and “boosts immunity” may sound technical, but they are often too broad to evaluate unless the speaker defines the outcome and evidence standard.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mOC0lU-rO90" title="Science vs. pseudoscience: How to tell the difference." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mOC0lU-rO90" target="_blank" rel="noopener noreferrer">Science vs. pseudoscience: How to tell the difference.</a></p><p class="youtube-embed-meta">Channel: Simplistics (QuantPsych) &middot; Views: 6.4K &middot; Uploaded: August 2019 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mOC0lU-rO90" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mOC0lU-rO90">Open on YouTube</a></p></div></div></div>
 
 ## When the claim looks testable but is not
@@ -550,7 +547,6 @@ This is where many myths become resilient. A weak claim may be phrased in a way 
 
 Real scientific claims also have uncertainty, exceptions and boundary conditions. The difference is that good evidence narrows the claim rather than expanding it without limit. It asks: for whom, compared with what, measured how, over what period, and with what harms or trade-offs? Pseudoscientific language often removes those boundaries. McGill University’s Office for Science and Society describes this as a hallmark of pseudoscience: where real science sees complexity and uncertainty, pseudoscience often offers unnatural simplicity and overconfident certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mcgill.ca/oss/article/critical-thinking-pseudoscience/hallmarks-pseudoscience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcgill.ca">[McGill University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcgill.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-Illustration-2-dark.svg" | relative_url }}" alt="Sciencey Words illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The advert test: what evidence would have to exist?
 
@@ -558,10 +554,9 @@ Health and wellness claims provide a clear example because they often use scient
 
 This standard exposes the gap between science-sounding language and evidence. A supplement advert might say an ingredient “activates mitochondrial pathways associated with vitality”. Even if that phrase refers to a real biological pathway, it does not establish that taking the product improves fatigue, mood, lifespan, disease risk or any other meaningful outcome in humans. The relevant question is not “Can the seller name a mechanism?” but “Has the claimed outcome been tested well enough to support what consumers are likely to believe?”
 
-The FDA’s consumer warnings about fraudulent products make the same point from the safety side. It warns against products marketed as alternatives to approved drugs or claiming drug-like effects, and flags unproven claims sold through dubious channels, rapid-effect promises and products that may pose serious health risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/drugs/medication-health-fraud/fraudulent-products" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">U.S. Food and Drug Administration Fraudulent Products | FDA</span><span class="citation-popover-snippet">U.S. Food and Drug Administration Fraudulent Products | FDA</span></span></span> Science-sounding language can therefore cause two kinds of harm: it can waste money, and it can steer people towards unsafe or ineffective choices.
+The FDA’s consumer warnings about fraudulent products make the same point from the safety side. It warns against products marketed as alternatives to approved drugs or claiming drug-like effects, and flags unproven claims sold through dubious channels, rapid-effect promises and products that may pose serious health risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/drugs/medication-health-fraud/fraudulent-products" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">U.S. Food and Drug Administration Fraudulent Products &#124; FDA</span><span class="citation-popover-snippet">U.S. Food and Drug Administration Fraudulent Products &#124; FDA</span></span></span> Science-sounding language can therefore cause two kinds of harm: it can waste money, and it can steer people towards unsafe or ineffective choices.
 
 For a reader, the practical advert test is simple: translate the claim into a plain sentence. “Clinically formulated to support immune resilience” becomes “This product reduces my chance of getting ill, or reduces severity or duration when I do.” Once translated, the evidence burden becomes clearer. If the seller cannot define the outcome, identify the study population, show relevant human evidence and explain the size of the effect, the scientific language has done more persuasive work than evidential work.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tU8Hh_7B2Lo" title="How to Sell Health Pseudoscience: A Crash Course in Con Artistry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tU8Hh_7B2Lo" target="_blank" rel="noopener noreferrer">How to Sell Health Pseudoscience: A Crash Course in Con Artistry</a></p><p class="youtube-embed-meta">Channel: Thinking Is Power with Melanie Trecek-King &middot; Views: 1.3K &middot; Uploaded: August 2024 &middot; Length: 4 minutes 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tU8Hh_7B2Lo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tU8Hh_7B2Lo">Open on YouTube</a></p></div></div></div>
 
@@ -570,7 +565,6 @@ For a reader, the practical advert test is simple: translate the claim into a pl
 The most useful response to science-sounding language is not cynicism. It is controlled curiosity. The goal is to slow down the jump from “this sounds scientific” to “this is scientifically supported”.
 
 Ask these questions before accepting the claim:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -586,7 +580,6 @@ Ask these questions before accepting the claim:
 
 These questions work because they shift attention from the style of the claim to the structure of the evidence. They do not require the reader to be a specialist in every field. They require the claimant to make the claim inspectable.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-Illustration-3-dark.svg" | relative_url }}" alt="Sciencey Words illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “sciencey words” are persuasive
 
@@ -596,9 +589,7 @@ The strongest defence is not to reject technical language outright. Some accurat
 
 The clearest warning sign is a mismatch between verbal sophistication and evidential thinness. When a claim sounds complex but rests on [anecdotes]({{ 'anecdotes/' | relative_url }}), testimonials, undefined mechanisms, irrelevant citations or impossible-to-falsify promises, the reader is not being offered stronger science. They are being offered a myth wearing a lab coat.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XrClYP6zEmU" title="How to Recognize Pseudoscience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XrClYP6zEmU" target="_blank" rel="noopener noreferrer">How to Recognize Pseudoscience</a></p><p class="youtube-embed-meta">Channel: Thinking Is Power with Melanie Trecek-King &middot; Views: 1.8K &middot; Uploaded: August 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XrClYP6zEmU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XrClYP6zEmU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -996,116 +987,116 @@ The clearest warning sign is a mismatch between verbal sophistication and eviden
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022103121000871](https://www.sciencedirect.com/science/article/abs/pii/S0022103121000871)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103121000871" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103121000871</a>  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Seductive Allure of Neuroscience Explanations  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/</a>  
 
 3. <a id="endnote-3"></a>
    Source: speech-language-therapy.com  
    Title: Speech Language Therapy  
-   Link: [https://www.speech-language-therapy.com/pdf/finn-bothe-bramlett-2005.pdf](https://www.speech-language-therapy.com/pdf/finn-bothe-bramlett-2005.pdf)  
+   Link: <a href="https://www.speech-language-therapy.com/pdf/finn-bothe-bramlett-2005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.speech-language-therapy.com/pdf/finn-bothe-bramlett-2005.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: mcgill.ca  
-   Link: [https://www.mcgill.ca/oss/article/critical-thinking-pseudoscience/hallmarks-pseudoscience](https://www.mcgill.ca/oss/article/critical-thinking-pseudoscience/hallmarks-pseudoscience)  
+   Link: <a href="https://www.mcgill.ca/oss/article/critical-thinking-pseudoscience/hallmarks-pseudoscience" target="_blank" rel="noopener noreferrer nofollow">https://www.mcgill.ca/oss/article/critical-thinking-pseudoscience/hallmarks-pseudoscience</a>  
 
 5. <a id="endnote-5"></a>
    Source: fda.gov  
    Title: U.S. Food and Drug Administration Fraudulent Products | FDA  
-   Link: [https://www.fda.gov/drugs/medication-health-fraud/fraudulent-products](https://www.fda.gov/drugs/medication-health-fraud/fraudulent-products)  
+   Link: <a href="https://www.fda.gov/drugs/medication-health-fraud/fraudulent-products" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/medication-health-fraud/fraudulent-products</a>  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352550922000938](https://www.sciencedirect.com/science/article/pii/S2352550922000938)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352550922000938" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352550922000938</a>  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585](https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585</a>  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0277953619305465](https://www.sciencedirect.com/science/article/pii/S0277953619305465)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0277953619305465" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0277953619305465</a>  
 
 9. <a id="endnote-9"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database](https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database)  
+   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database</a>  
 
 10. <a id="endnote-10"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/consumers/health-fraud-scams](https://www.fda.gov/consumers/health-fraud-scams)  
+   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams</a>  
 
 11. <a id="endnote-11"></a>
    Source: who.int  
-   Link: [https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds](https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds)  
+   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
 
 12. <a id="endnote-12"></a>
    Source: asc.upenn.edu  
    Title: misplaced trust when trust science fosters pseudoscience  
-   Link: [https://www.asc.upenn.edu/news-events/news/misplaced-trust-when-trust-science-fosters-pseudoscience](https://www.asc.upenn.edu/news-events/news/misplaced-trust-when-trust-science-fosters-pseudoscience)  
+   Link: <a href="https://www.asc.upenn.edu/news-events/news/misplaced-trust-when-trust-science-fosters-pseudoscience" target="_blank" rel="noopener noreferrer nofollow">https://www.asc.upenn.edu/news-events/news/misplaced-trust-when-trust-science-fosters-pseudoscience</a>  
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31354058/](https://pubmed.ncbi.nlm.nih.gov/31354058/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31354058/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31354058/</a>  
 
 14. <a id="endnote-14"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance](https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39260088/](https://pubmed.ncbi.nlm.nih.gov/39260088/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39260088/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39260088/</a>  
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/41867879/](https://pubmed.ncbi.nlm.nih.gov/41867879/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41867879/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41867879/</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Pseudoscience](https://en.wikipedia.org/wiki/Pseudoscience)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pseudoscience" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pseudoscience</a>  
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Science vs Pseudoscience: Critical Thinking  
-   Link: [https://www.youtube.com/watch?v=Yp6S3Z453rA](https://www.youtube.com/watch?v=Yp6S3Z453rA)  
+   Link: <a href="https://www.youtube.com/watch?v=Yp6S3Z453rA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yp6S3Z453rA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain how jargon and scientific-sounding language are used to provide &quot;borrowed authority&quot; to weak or pseudoscientific claims...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/psychology/comments/os471a/misplaced_trust_when_trust_in_science_fosters/](https://www.reddit.com/r/psychology/comments/os471a/misplaced_trust_when_trust_in_science_fosters/)  
+   Link: <a href="https://www.reddit.com/r/psychology/comments/os471a/misplaced_trust_when_trust_in_science_fosters/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/os471a/misplaced_trust_when_trust_in_science_fosters/</a>  
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/283269131_Deconstructing_the_Seductive_Allure_of_Neuroscience_Explanations](https://www.researchgate.net/publication/283269131_Deconstructing_the_Seductive_Allure_of_Neuroscience_Explanations)  
+   Link: <a href="https://www.researchgate.net/publication/283269131_Deconstructing_the_Seductive_Allure_of_Neuroscience_Explanations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283269131_Deconstructing_the_Seductive_Allure_of_Neuroscience_Explanations</a>  
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/24357198_Making_Sense_of_scientific_claims_in_advertising_A_study_of_scientifically_aware_consumers](https://www.researchgate.net/publication/24357198_Making_Sense_of_scientific_claims_in_advertising_A_study_of_scientifically_aware_consumers)  
+   Link: <a href="https://www.researchgate.net/publication/24357198_Making_Sense_of_scientific_claims_in_advertising_A_study_of_scientifically_aware_consumers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/24357198_Making_Sense_of_scientific_claims_in_advertising_A_study_of_scientifically_aware_consumers</a>  
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/393895923_Scientific_jargon_can_be_%27satisfying%27_-_but_misleading](https://www.researchgate.net/publication/393895923_Scientific_jargon_can_be_%27satisfying%27_-_but_misleading)  
+   Link: <a href="https://www.researchgate.net/publication/393895923_Scientific_jargon_can_be_%27satisfying%27_-_but_misleading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393895923_Scientific_jargon_can_be_%27satisfying%27_-_but_misleading</a>  
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/397534513_The_Power_of_Technical_Language_Does_Jargon_Use_Influence_the_Credibility_of_Misinformation](https://www.researchgate.net/publication/397534513_The_Power_of_Technical_Language_Does_Jargon_Use_Influence_the_Credibility_of_Misinformation)  
+   Link: <a href="https://www.researchgate.net/publication/397534513_The_Power_of_Technical_Language_Does_Jargon_Use_Influence_the_Credibility_of_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397534513_The_Power_of_Technical_Language_Does_Jargon_Use_Influence_the_Credibility_of_Misinformation</a>  
 
 24. <a id="endnote-24"></a>
    Source: cohenhealthcarelaw.com  
-   Link: [https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/](https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/)  
+   Link: <a href="https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/" target="_blank" rel="noopener noreferrer nofollow">https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/</a>  
 
 25. <a id="endnote-25"></a>
    Source: trinomics.eu  
-   Link: [https://trinomics.eu/wp-content/uploads/2018/10/CHAFEA2018-Behavioural-study-on-consumer-engagement-in-the-circular-economy.pdf](https://trinomics.eu/wp-content/uploads/2018/10/CHAFEA2018-Behavioural-study-on-consumer-engagement-in-the-circular-economy.pdf)  
+   Link: <a href="https://trinomics.eu/wp-content/uploads/2018/10/CHAFEA2018-Behavioural-study-on-consumer-engagement-in-the-circular-economy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://trinomics.eu/wp-content/uploads/2018/10/CHAFEA2018-Behavioural-study-on-consumer-engagement-in-the-circular-economy.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/27894/chapter/8](https://www.nationalacademies.org/read/27894/chapter/8)  
+   Link: <a href="https://www.nationalacademies.org/read/27894/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/27894/chapter/8</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FDA/posts/dont-be-fooled-by-health-fraud-here-are-some-tell-tale-signs-that-a-product-clai/595233712633991/](https://www.facebook.com/FDA/posts/dont-be-fooled-by-health-fraud-here-are-some-tell-tale-signs-that-a-product-clai/595233712633991/)  
+   Link: <a href="https://www.facebook.com/FDA/posts/dont-be-fooled-by-health-fraud-here-are-some-tell-tale-signs-that-a-product-clai/595233712633991/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FDA/posts/dont-be-fooled-by-health-fraud-here-are-some-tell-tale-signs-that-a-product-clai/595233712633991/</a>

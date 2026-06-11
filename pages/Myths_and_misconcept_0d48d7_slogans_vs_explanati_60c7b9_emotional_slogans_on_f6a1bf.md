@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75
 - Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_replacement_correcti_5f9954
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - slogans
 - emotion
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - slogans
 - emotion
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Claims that trigger surprise, anger, pride, or belonging can travel farther because they give people a reason to share.
 hero_summary: Claims that trigger surprise, anger, pride, or belonging can travel farther because they give people a reason to share.
 layout: default
 permalink: /emotion/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /slogans/
 nav_short_title: Emotion
 title: Why emotional myths travel faster
-title_full: Why emotional myths travel faster | Slogans
+title_full: Why emotional myths travel faster
 display_title_short: Emotion
 display_title: Emotion
 heading_title: Why emotional myths travel faster
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Myths Beat Nuance in a Sentence | Mythcraft
+parent_title: Why Myths Beat Nuance in a Sentence
 parent_permalink: /slogans/
 parent_nav_short_title: Slogans
 parent_heading_title: Why Myths Beat Nuance in a Sentence
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why repetition makes myths feel true
 up_link:
   basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
@@ -265,7 +265,7 @@ next_link:
   permalink: /health-slogans/
   short_title: Health Slogans
   heading_title: When health slogans leave out risk
-date: '2026-06-09 05:49:11 '
+date: '2026-06-11 22:44:35 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_em
 
 ## Introduction
 
-Emotional [slogans]({{ 'slogans/' | relative_url }}) spread faster online because they do more than communicate an idea: they give people a feeling to share. In discussions about [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}), this matters because a misleading claim often arrives packaged with surprise, anger, pride, fear, or a sense of belonging. An accurate explanation may be more informative, but it usually demands more attention and offers less immediate emotional reward.
-
+Emotional [slogans]({{ 'slogans/' | relative_url }}) spread faster online because they do more than communicate an idea: they give people a feeling to share. In discussions about myths and misconceptions, this matters because a misleading claim often arrives packaged with surprise, anger, pride, fear, or a sense of belonging. An accurate explanation may be more informative, but it usually demands more attention and offers less immediate emotional reward.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-1-dark.svg" | relative_url }}" alt="Emotion illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research across social media [platforms]({{ 'platforms/' | relative_url }}) suggests that content triggering strong emotions is more likely to be noticed, remembered, and passed on. The advantage is not simply that emotional messages are louder. They provide social signals—about who we are, what we value, and which groups we belong to—that encourage sharing. When a myth combines a simple explanation with a strong emotional reaction, it gains a powerful transmission advantage over a careful but less emotionally engaging [correction]({{ 'correction/' | relative_url }}). PNAS <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28652356/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — We show that the expression of moral emotion...</span></span></span>
@@ -295,10 +294,7 @@ Emotion and novelty frequently work together:
 
 A slogan such as “They’ve been hiding this from you” combines novelty with emotion. It promises a secret, identifies a potential villain, and gives the reader a reason to share immediately. An accurate explanation often has to discuss evidence, uncertainty, and competing interpretations, which makes it harder to process and repeat.
 
-Studies of online content diffusion have also found that specific emotional expressions can influence how widely information spreads. Research on millions of users showed that some negative emotions, particularly anxiety, can increase the size and depth of sharing cascades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2011.09003" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emotions in Online Content Diffusion</span><span class="citation-popover-snippet">arXivEmotions in Online Content DiffusionNovember 17, 2020...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d9j9EUWezzc" title="Misinformation: Why is it a problem and what can we do about it?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d9j9EUWezzc" target="_blank" rel="noopener noreferrer">Misinformation: Why is it a problem and what can we do about it?</a></p><p class="youtube-embed-meta">Channel: Shorenstein Center</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d9j9EUWezzc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d9j9EUWezzc">Open on YouTube</a></p></div></div></div>
+Studies of online content diffusion have also found that specific emotional expressions can influence how widely information spreads. Research on millions of users showed that some negative emotions, particularly anxiety, can increase the size and depth of sharing cascades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2011.09003" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emotions in Online Content Diffusion</span><span class="citation-popover-snippet">Emotions in Online Content DiffusionNovember 17, 2020...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
 
 ## Moral language and social identity
 
@@ -315,10 +311,9 @@ This mechanism is especially important for myths because moral language turns in
 
 For example, a slogan that portrays an issue as a battle between virtuous ordinary people and corrupt elites can spread even when evidence is weak. The slogan allows users to communicate group membership with a single click.
 
-Research on social media engagement has found that hostility towards perceived out-groups generates particularly strong engagement. Posts focused on opponents or rival groups tend to receive more sharing and reactions than comparable content without that element. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">PNASEmotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — JM Salerno, LC Peter-Hagene, The...</span></span></span>
+Research on social media engagement has found that hostility towards perceived out-groups generates particularly strong engagement. Posts focused on opponents or rival groups tend to receive more sharing and reactions than comparable content without that element. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Emotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — JM Salerno, LC Peter-Hagene, The...</span></span></span>
 
 This helps explain why myths framed around blame, betrayal, or moral outrage often outperform nuanced explanations. The myth offers both an interpretation of events and a social identity statement.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-2-dark.svg" | relative_url }}" alt="Emotion illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why feelings often beat corrections
@@ -326,7 +321,6 @@ This helps explain why myths framed around blame, betrayal, or moral outrage oft
 Accurate explanations face a structural disadvantage online. They frequently require qualifications such as “it depends”, “the evidence is mixed”, or “the effect is small”. Those caveats improve accuracy but reduce emotional intensity.
 
 Meanwhile, a myth can offer:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -341,15 +335,12 @@ Because emotional content is easier to remember and discuss, people may recall t
 
 This does not mean people deliberately prefer falsehoods. Rather, online environments often reward content that provokes immediate reactions. Researchers studying false news diffusion found that human behaviour—not merely automated accounts—was central to the faster spread of false stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28652356/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — We show that the expression of moral emotion...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true storiesMar 8, 2018 — Researchers from the Media Lab and Sloan found that h...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cSKGa_7XJkg" title="How false news can spread - Noah Tavlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer">How false news can spread - Noah Tavlin</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cSKGa_7XJkg">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-3-dark.svg" | relative_url }}" alt="Emotion illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How accurate messages can use emotion ethically
 
 The lesson is not that truthful communication should become manipulative. Instead, evidence suggests that accurate information benefits when it acknowledges the emotional realities of communication.
 
 Effective factual messages often combine evidence with legitimate emotional elements:
-
 
 <div class="content-enhancement content-enhancement--tension" markdown="1">
 
@@ -364,17 +355,11 @@ For example, a correction that merely states “this claim is false” may strug
 
 There is also an ethical distinction between emotion and manipulation. Emotion becomes problematic when it substitutes for evidence. It can support accurate communication when it helps people understand why facts matter in human terms.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-3-dark.svg" | relative_url }}" alt="Emotion illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why emotional myths travel faster
 
 The central mechanism is straightforward: emotional slogans give people a reason to share. They capture attention through novelty, strengthen social identity through moral language, and provide an immediate psychological reward for passing the message along. Accurate explanations often contain more truth, but they must compete in an environment where attention is scarce and sharing decisions are made in seconds.
 
 As a result, myths that evoke anger, pride, fear, outrage, or belonging can spread rapidly even when their factual foundations are weak. Understanding that emotional advantage is essential for explaining why misconceptions flourish online—and why effective [corrections]({{ 'corrections/' | relative_url }}) need to be not only accurate, but also memorable and emotionally meaningful. nature.com 3PNAS <span class="citation-chip-wrap"><a class="citation-chip" href="https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmapnyu.org">[3csmapnyu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmapnyu.org</span><span class="citation-popover-title">emotion shapes the diffusion of moralized content in social networks</span><span class="citation-popover-snippet">Emotion Shapes the Diffusion of Moralized Content in...Jul 11, 2017 — We show that the expression of moral emotion is key for the spread...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rHyYYzmB5FE" title="VIROLOGY: The science of Viral Marketing. Chapter 3 Emotions part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rHyYYzmB5FE" target="_blank" rel="noopener noreferrer">VIROLOGY: The science of Viral Marketing. Chapter 3 Emotions part 1</a></p><p class="youtube-embed-meta">Channel: Webreep</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rHyYYzmB5FE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rHyYYzmB5FE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -772,144 +757,144 @@ As a result, myths that evoke anger, pride, fear, outrage, or belonging can spre
 
 1. <a id="endnote-1"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.1618923114](https://www.pnas.org/doi/10.1073/pnas.1618923114)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PNASEmotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — JM Salerno, LC Peter-Hagene, The...</p></details>
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1618923114</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — JM Salerno, LC Peter-Hagene, The...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: [https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308](https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308)  
+   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true storiesMar 8, 2018 — Researchers from the Media Lab and Sloan found that h...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: mitsloan.mit.edu  
    Title: study false news spreads faster truth  
-   Link: [https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth](https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT SloanStudy: False news spreads faster than the truthMar 8, 2018 — It uses the term “false news” instead of “fake news” because the la...</p></details>
+   Link: <a href="https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT SloanStudy: False news spreads faster than the truthMar 8, 2018 — It uses the term “false news” instead of “[fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;)” because the la...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Emotions in Online Content Diffusion  
-   Link: [https://arxiv.org/abs/2011.09003](https://arxiv.org/abs/2011.09003)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEmotions in Online Content DiffusionNovember 17, 2020...</p></details>
+   Link: <a href="https://arxiv.org/abs/2011.09003" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2011.09003</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotions in Online Content DiffusionNovember 17, 2020...</p></details>
    Published: November 17, 2020  
 
 5. <a id="endnote-5"></a>
    Source: csmapnyu.org  
    Title: emotion shapes the diffusion of moralized content in social networks  
-   Link: [https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks](https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks)  
+   Link: <a href="https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks" target="_blank" rel="noopener noreferrer nofollow">https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion Shapes the Diffusion of Moralized Content in...Jul 11, 2017 — We show that the expression of moral emotion is key for the spread...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2024292118](https://www.pnas.org/doi/10.1073/pnas.2024292118)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PNASOut-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 873 — This research is consistent with prior resea...</p></details>
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2024292118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2024292118</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Out-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 873 — This research is consistent with prior resea...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/moral-outrage-dynamics-in-social-media](https://www.nature.com/nature-index/topics/l4/moral-outrage-dynamics-in-social-media)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/moral-outrage-dynamics-in-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/moral-outrage-dynamics-in-social-media</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moral Outrage Dynamics in Social MediaMoral outrage on social media arises when users perceive violations of ethical norms and respond wi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/abs/10.1073/pnas.1618923114?utm=](https://www.pnas.org/doi/abs/10.1073/pnas.1618923114?utm=)  
+   Link: <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1618923114?utm=" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/abs/10.1073/pnas.1618923114?utm=</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1779 — JM Salerno, LC Peter-Hagene, The inte...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/d41586-018-02934-x](https://www.nature.com/articles/d41586-018-02934-x)  
+   Link: <a href="https://www.nature.com/articles/d41586-018-02934-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-018-02934-x</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;News&#x27; spreads faster and more widely when it&#x27;s falseMar 8, 2018 — A study of information sharing on Twitter shows people more... How Fa...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/28652356/](https://pubmed.ncbi.nlm.nih.gov/28652356/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28652356/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28652356/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — We show that the expression of moral emotion...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29590045/](https://pubmed.ncbi.nlm.nih.gov/29590045/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13949 — Falsehood diffused significantly farther, faster, d...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29590045/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13949 — Falsehood diffused significantly farther, faster, d...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/why](https://www.merriam-webster.com/dictionary/why)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/why" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning4 Apr 2026 — 1. The cause, reason, or purpose for which know why you did it that is why you did it 2. For which: on...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/false](https://dictionary.cambridge.org/dictionary/english/false)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge DictionaryFALSE definition: 1. not real, but made to look or seem real: 2. not true, but made to seem true...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/false" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/false</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryFALSE definition: 1. not real, but made to look or seem real: 2. not true, but made to seem true...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/us/dictionary/english/moral](https://dictionary.cambridge.org/us/dictionary/english/moral)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| definition in the Cambridge English Dictionaryrelating to the standards of good or bad behavior, fairness, honesty, etc. that each pers...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/moral" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/moral</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionaryrelating to the standards of good or bad behavior, fairness, honesty, etc. that each pers...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/why](https://dictionary.cambridge.org/dictionary/english/why)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge DictionaryWHY definition: 1. for what reason: 2. used to express surprise or anger: 3. the reasons for some...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/why" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/why</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryWHY definition: 1. for what reason: 2. used to express surprise or anger: 3. the reasons for some...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Why](https://en.wikipedia.org/wiki/Why)  
+   Link: <a href="https://en.wikipedia.org/wiki/Why" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why - WikipediaWhy may refer to: Causality, a consequential relationship between two or more events; Reason (argument), a premise in s...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: vocabulary.com  
-   Link: [https://www.vocabulary.com/dictionary/why](https://www.vocabulary.com/dictionary/why)  
+   Link: <a href="https://www.vocabulary.com/dictionary/why" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; Synonymsnoun the cause or intention underlying an action or situation, especially in the phrase `the whys and where...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/twitter-false-news-elections-scientific-study](https://www.wired.com/story/twitter-false-news-elections-scientific-study)  
+   Link: <a href="https://www.wired.com/story/twitter-false-news-elections-scientific-study" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/twitter-false-news-elections-scientific-study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The research, conducted by Sinan Aral and his colleagues at MIT, found that false news spreads more rapidly, broadly, and extensively tha...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/moral](https://www.merriam-webster.com/dictionary/moral)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/moral" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/moral</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MORAL Definition &amp; Meaningmoral, ethical, virtuous, righteous, noble mean conforming to a standard of what is right and good. moral impli...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AcademicPsychology/comments/o9zkq2/outgroup_animosity_drives_engagement_on_social/](https://www.reddit.com/r/AcademicPsychology/comments/o9zkq2/outgroup_animosity_drives_engagement_on_social/)  
+   Link: <a href="https://www.reddit.com/r/AcademicPsychology/comments/o9zkq2/outgroup_animosity_drives_engagement_on_social/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AcademicPsychology/comments/o9zkq2/outgroup_animosity_drives_engagement_on_social/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Out-group animosity drives engagement on social mediaLanguage about the out-group was a very strong predictor of “angry” reactions (the m...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: collinsdictionary.com  
-   Link: [https://www.collinsdictionary.com/dictionary/english/why](https://www.collinsdictionary.com/dictionary/english/why)  
+   Link: <a href="https://www.collinsdictionary.com/dictionary/english/why" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WHY definition and meaning | Collins English Dictionary4 meanings: 1. a. for what reason, purpose, or cause? b. (used in indirect questio...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/jon-roozenbeek-33a5365a_new-paper-now-out-in-pnas-we-know-that-activity-7366921841866612736-Mvf9](https://www.linkedin.com/posts/jon-roozenbeek-33a5365a_new-paper-now-out-in-pnas-we-know-that-activity-7366921841866612736-Mvf9)  
+   Link: <a href="https://www.linkedin.com/posts/jon-roozenbeek-33a5365a_new-paper-now-out-in-pnas-we-know-that-activity-7366921841866612736-Mvf9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jon-roozenbeek-33a5365a_new-paper-now-out-in-pnas-we-know-that-activity-7366921841866612736-Mvf9</a>  
 
 23. <a id="endnote-23"></a>
    Source: cottonwoodpsychology.com  
-   Link: [https://cottonwoodpsychology.com/news/why-outrage-about-political-opponents-spreads-so-fast-on-social-media-according-to-a-pnas-study/](https://cottonwoodpsychology.com/news/why-outrage-about-political-opponents-spreads-so-fast-on-social-media-according-to-a-pnas-study/)  
+   Link: <a href="https://cottonwoodpsychology.com/news/why-outrage-about-political-opponents-spreads-so-fast-on-social-media-according-to-a-pnas-study/" target="_blank" rel="noopener noreferrer nofollow">https://cottonwoodpsychology.com/news/why-outrage-about-political-opponents-spreads-so-fast-on-social-media-according-to-a-pnas-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Posts that trigger anger or moral judgment can pull us in. When someone feels a rush of outrage, a share can feel like...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: retractionwatch.com  
-   Link: [https://retractionwatch.com/2014/07/03/rapid-mood-swing-pnas-issues-expression-of-concern-for-controversial-facebook-study/](https://retractionwatch.com/2014/07/03/rapid-mood-swing-pnas-issues-expression-of-concern-for-controversial-facebook-study/)  
+   Link: <a href="https://retractionwatch.com/2014/07/03/rapid-mood-swing-pnas-issues-expression-of-concern-for-controversial-facebook-study/" target="_blank" rel="noopener noreferrer nofollow">https://retractionwatch.com/2014/07/03/rapid-mood-swing-pnas-issues-expression-of-concern-for-controversial-facebook-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>outrage, in the context of free market profit, is much higher than the threshold for outrage in the context of improving society. And may...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOut-group animosity drives engagement on social media  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govOut-group animosity drives engagement on social media - PMCby S Rathje · 2021 · Cited by 909 — We report evidence that posts about...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: collaborate.princeton.edu  
    Title: emotion shapes the diffusion of moralized content in social netwo  
-   Link: [https://collaborate.princeton.edu/en/publications/emotion-shapes-the-diffusion-of-moralized-content-in-social-netwo/](https://collaborate.princeton.edu/en/publications/emotion-shapes-the-diffusion-of-moralized-content-in-social-netwo/)  
+   Link: <a href="https://collaborate.princeton.edu/en/publications/emotion-shapes-the-diffusion-of-moralized-content-in-social-netwo/" target="_blank" rel="noopener noreferrer nofollow">https://collaborate.princeton.edu/en/publications/emotion-shapes-the-diffusion-of-moralized-content-in-social-netwo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 2043 — Furthermore, we found that moral contagion wa...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pbs.org  
    Title: false news travels 6 times faster on twitter than truthful news  
-   Link: [https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news](https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news)  
+   Link: <a href="https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 9, 2018 — False news -- inaccurate information presented as truth or opinion presented as fact -- is 70 percent more likely to be ret...</p></details>

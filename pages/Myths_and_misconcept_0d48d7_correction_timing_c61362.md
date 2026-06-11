@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - timing
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - timing
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Fast, clear correction can limit damage, but rushed debunking can also confuse people if evidence is still uncertain.
 hero_summary: Fast, clear correction can limit damage, but rushed debunking can also confuse people if evidence is still uncertain.
 layout: default
 permalink: /timing/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Timing
 title: When Should a Myth Be Corrected?
-title_full: When Should a Myth Be Corrected? | Mythcraft
+title_full: When Should a Myth Be Corrected?
 display_title_short: Timing
 display_title: Timing
 heading_title: When Should a Myth Be Corrected?
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 next_link:
   basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
-date: '2026-06-09 04:02:00 '
+date: '2026-06-11 21:49:33 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-overview.webp
@@ -503,18 +503,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-overv
 
 The best time to correct a viral myth is usually **as early as possible, but not before the [correction]({{ 'correction/' | relative_url }}) is accurate enough to stand up**. Speed matters because false claims can gather familiarity, emotional force and social proof before a careful response appears. Yet speed alone is not the goal. A rushed debunk that overstates the evidence, mocks uncertainty or later has to be reversed can make the next correction harder to trust.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-overview.webp" | relative_url }}" alt="Overview image for Timing" loading="eager" decoding="sync" fetchpriority="high">
 For communicators, the timing question is therefore not “instant correction or wait for certainty?” It is “what can be responsibly said now, what is still unknown, and when will this be updated?” In a fast-moving rumour, a good early response can be a holding correction: name the claim, state what is known, explain what is being checked, give people a safer action, and set expectations for updates. That approach is especially important in health, elections, disasters and public safety, where delayed correction can allow a false story to shape real-world behaviour.
 
 ## Why early correction has an advantage
 
-Viral myths do not spread like neutral facts waiting to be assessed. They often travel because they are novel, emotional, [identity]({{ 'identity/' | relative_url }})-reinforcing or useful to a group’s existing story. A large study of Twitter from 2006 to 2017 found that false news spread farther, faster and more broadly than true news, with false stories more likely to be retweeted; the researchers argued that novelty and emotional reaction helped explain the gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14051 — Although the terms fake news and misinformation al...</span></span></span>
+Viral myths do not spread like neutral facts waiting to be assessed. They often travel because they are novel, emotional, [identity]({{ 'identity/' | relative_url }})-reinforcing or useful to a group’s existing story. A large study of Twitter from 2006 to 2017 found that false news spread farther, faster and more broadly than true news, with false stories more likely to be retweeted; the researchers argued that novelty and emotional reaction helped explain the gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14051 — Although the terms fake news and misinformation al...</span></span></span>
 
-That speed changes the job of correction. Once a false claim has been seen repeatedly, people may remember the general story even if they later forget the correction. Research on the [continued influence]({{ 'old-stories/' | relative_url }}) effect shows that misinformation can still shape reasoning after people have been told it is wrong, especially when the correction fails to replace the old story with a clear alternative explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That speed changes the job of correction. Once a false claim has been seen repeatedly, people may remember the general story even if they later forget the correction. Research on the continued influence effect shows that misinformation can still shape reasoning after people have been told it is wrong, especially when the correction fails to replace the old story with a clear alternative explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Early correction helps because it can interrupt three processes before they harden:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -525,7 +523,6 @@ Early correction helps because it can interrupt three processes before they hard
 </div>
 
 This does not mean every weak rumour deserves a full public rebuttal. Amplifying a tiny claim to a huge audience can spread it further than the original rumour did. The practical advantage lies in **early proportionate correction**: respond quickly when a myth is gaining traction, when the stakes are high, or when silence would leave the false claim as the only available explanation.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-Illustration-1-dark.svg" | relative_url }}" alt="Timing illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The first correction does not need to be the final word
@@ -542,7 +539,6 @@ For viral myths, this points to a useful distinction:
 
 The holding correction matters when waiting for a perfect answer would leave people exposed to a harmful falsehood. For example, during an outbreak, officials may not yet know every detail about transmission, but they can still correct a rumour that a vaccine team is spreading disease, that a harmless symptom proves poisoning, or that an invented cure is safe. A Reuters investigation into health rumours in the Democratic Republic of Congo reported that false claims about a supposed genital-atrophy illness contributed to violence and deaths, including attacks on health workers; the case illustrates how delay, mistrust and rumour can combine before authorities have regained control of the information environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Fake rumors, real killings: Inside Congo&#x27;s deadly health misinformation crisis</span><span class="citation-popover-snippet">Social media, local media, and religious leaders, including megachurch pastor Jules Mulindwa and other pastors, played a key role in ampl...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tJIe6sT1ar8" title="CDC’s CERC: Introduction to Crisis &amp; Emergency Risk Communication (CERC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tJIe6sT1ar8" target="_blank" rel="noopener noreferrer">CDC’s CERC: Introduction to Crisis &amp; Emergency Risk Communication (CERC)</a></p><p class="youtube-embed-meta">Channel: Centers for Disease Control and Prevention (CDC) &middot; Views: 18.8K &middot; Uploaded: February 2019 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tJIe6sT1ar8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tJIe6sT1ar8">Open on YouTube</a></p></div></div></div>
 
 ## The danger of being too fast
@@ -551,22 +547,16 @@ Speed becomes harmful when the correction outruns the evidence. A public stateme
 
 The COVID-19 pandemic made this visible. Guidance on masks, transmission, treatments and origins evolved as evidence changed, but many people experienced those changes as contradiction rather than learning. Studies of COVID-19 communication found that changing guidance could reduce [confidence]({{ 'confidence/' | relative_url }}) in experts unless the possibility of revision was explained in advance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/brief-forewarning-intervention-overcomes-negative-effects-of-salient-changes-in-covid19-guidance/2854EC51BEDB755B62EDDFBFC79C3039" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Research on public reaction to mask guidance also shows how shifts in official recommendations became a focus for sentiment, confusion and politicisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2023/1/e40706/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Open source on jmir.org.</span></span></span>
 
-The lesson is not that officials should avoid [correcting myths]({{ 'better-corrections-e615f7/' | relative_url }}) until certainty is complete. It is that they should avoid pretending to have certainty they do not have. WHO guidance on communicating uncertainty in emergencies stresses that uncertainty should be communicated because doing so helps maintain trust while advice develops. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/docs/librariesprovider2/default-document-library/tips-for-communicating-uncertainty-final-eng.pdf?download=true&amp;sfvrsn=6d9700d7_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">tips for communicating uncertainty final eng</span><span class="citation-popover-snippet">tips for communicating uncertainty final eng</span></span></span> The most trustworthy early correction often contains plain uncertainty markers, such as “based on the evidence available today”, “we have not yet verified”, “this part is false”, and “this part is still under investigation”.
+The lesson is not that officials should avoid correcting myths until certainty is complete. It is that they should avoid pretending to have certainty they do not have. WHO guidance on [communicating]({{ 'communicating/' | relative_url }}) uncertainty in emergencies stresses that uncertainty should be communicated because doing so helps maintain trust while advice develops. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/docs/librariesprovider2/default-document-library/tips-for-communicating-uncertainty-final-eng.pdf?download=true&amp;sfvrsn=6d9700d7_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">tips for communicating uncertainty final eng</span><span class="citation-popover-snippet">tips for communicating uncertainty final eng</span></span></span> The most trustworthy early correction often contains plain uncertainty markers, such as “based on the evidence available today”, “we have not yet verified”, “this part is false”, and “this part is still under investigation”.
 
 The timing decision therefore depends on the type of uncertainty:
-
-
-<div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * **Uncertainty about details:** correct the false central claim now, while saying which details may change.
 * **Uncertainty about classification:** avoid a hard label such as “hoax” or “conspiracy theory” until the evidence supports it.
 * **Uncertainty about harm:** issue a cautious warning if people may act dangerously while evidence is being gathered.
-* **Uncertainty about source intent:** correct the content without claiming bad intent unless there is evidence of deliberate deception.
-
-</div>
+* **Uncertainty about source [intent]({{ 'intent/' | relative_url }}):** correct the content without claiming bad intent unless there is evidence of deliberate deception.
 
 This distinction protects both accuracy and trust. It lets communicators act quickly without locking themselves into a brittle position.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-Illustration-2-dark.svg" | relative_url }}" alt="Timing illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When speed matters most
@@ -583,14 +573,11 @@ A practical timing decision should weigh four questions.
 
 **Will correction amplify the myth?** If the rumour is still obscure, a quiet response may be better: contact the platform, inform local leaders, prepare a statement, or correct within the affected community rather than broadcasting the false claim nationally.
 
-The strongest case for rapid [public correction]({{ 'public-replies/' | relative_url }}) is when the myth is both **high-harm and high-spread**. Low-harm and low-spread rumours are better monitored. High-harm but low-spread rumours may call for targeted intervention. High-spread but low-harm myths may be corrected through explainers, labels or routine fact-checking rather than emergency messaging.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9wjfwPjTaRk" title="Risk communication basics - Why facts alone don’t change behaviour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9wjfwPjTaRk" target="_blank" rel="noopener noreferrer">Risk communication basics - Why facts alone don’t change behaviour</a></p><p class="youtube-embed-meta">Channel: Let&#x27;s Learn Public Health &middot; Views: 2.4K &middot; Uploaded: November 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9wjfwPjTaRk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9wjfwPjTaRk">Open on YouTube</a></p></div></div></div>
+The strongest case for rapid public correction is when the myth is both **high-harm and high-spread**. Low-harm and low-spread rumours are better monitored. High-harm but low-spread rumours may call for targeted intervention. High-spread but low-harm myths may be corrected through explainers, labels or routine fact-checking rather than emergency messaging.
 
 ## Platform timing: labels help, but late labels miss the fastest spread
 
-Modern correction is not only about what experts say. It is also about when platforms, fact-checkers and community systems attach context to a post. Warning labels, related-article panels and community notes can reduce belief in, engagement with or sharing of false content, but their effect depends heavily on timing.
+Modern correction is not only about what experts say. It is also about when platforms, fact-checkers and community systems attach context to a post. Warning labels, related-article panels and [community notes]({{ 'community-notes/' | relative_url }}) can reduce belief in, engagement with or sharing of false content, but their effect depends heavily on timing.
 
 A 2026 study of X’s Community Notes found that notes reduced the spread of misleading posts once they appeared and increased the odds that authors deleted misleading posts. However, the study also found that notes often arrived too late for the earliest and most viral stage of diffusion, limiting the system-wide reduction in engagement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
@@ -598,6 +585,7 @@ That finding captures the central timing problem: a correction can be effective 
 
 Still, faster labelling brings its own risks. Automated or crowd-based systems can misread satire, emerging evidence, local context or legitimate disagreement. The implementation challenge is to speed up **triage** without pretending that every fast judgement is equally reliable. A sensible platform response can use stages: friction first, stronger labels after review, reduced recommendation for clearly harmful claims, and transparent correction when an earlier label was wrong.
 
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-Illustration-3-dark.svg" | relative_url }}" alt="Timing illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Updating without losing trust
 
 The hardest timing problem is not the first correction; it is the update. Viral myths thrive when changing information is framed as proof that “they lied”. Communicators can reduce that risk by making updates part of the original message rather than treating them as embarrassing reversals.
@@ -612,14 +600,13 @@ Good updating has three features.
 
 This matters because corrections can decay. Research on correction durability has found that corrected beliefs may not remain stable over time, meaning a single debunk may need reinforcement, especially when the myth continues circulating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/342577598_Correcting_Misinformation_in_News_Stories_An_Investigation_of_Correction_Timing_and_Correction_Durability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Correcting Misinformation in News Stories: An Investigation</span><span class="citation-popover-snippet">Research Gate Correcting Misinformation in News Stories: An Investigation</span></span></span> The point is not to repeat the false claim endlessly, but to keep the accurate replacement explanation available where people are still encountering the myth.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9wjfwPjTaRk" title="Risk communication basics - Why facts alone don’t change behaviour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9wjfwPjTaRk" target="_blank" rel="noopener noreferrer">Risk communication basics - Why facts alone don’t change behaviour</a></p><p class="youtube-embed-meta">Channel: Let&#x27;s Learn Public Health &middot; Views: 2.4K &middot; Uploaded: November 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9wjfwPjTaRk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9wjfwPjTaRk">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-Illustration-3-dark.svg" | relative_url }}" alt="Timing illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical timing rule for viral myths
 
 A useful rule is: **move quickly on the risk, carefully on the claim, and openly on uncertainty**.
 
 In practice, that means the first response should not wait until every detail is known if people may be harmed. But it should avoid overclaiming. A strong early correction can say:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -633,10 +620,6 @@ In practice, that means the first response should not wait until every detail is
 </div>
 
 This approach fits the broader evidence on [debunking]({{ 'debunking/' | relative_url }}). Corrections often work, and fears that they usually backfire are overstated, but corrections are rarely magic erasers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Timing improves the odds: correct early enough to prevent the myth becoming the default explanation, but carefully enough that the correction itself does not become tomorrow’s misinformation.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O1Qb4dI2KAY" title="Debunking Misinformation - The TRUTH SANDWICH #shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O1Qb4dI2KAY" target="_blank" rel="noopener noreferrer">Debunking Misinformation - The TRUTH SANDWICH #shorts</a></p><p class="youtube-embed-meta">Channel: Prof Sander van der Linden</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O1Qb4dI2KAY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O1Qb4dI2KAY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1034,161 +1017,161 @@ This approach fits the broader evidence on [debunking]({{ 'debunking/' | relativ
 
 1. <a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-020-00241-6](https://link.springer.com/article/10.1186/s41235-020-00241-6)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00241-6</a>  
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
 
 3. <a id="endnote-3"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK540733/](https://www.ncbi.nlm.nih.gov/books/NBK540733/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK540733/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK540733/</a>  
 
 4. <a id="endnote-4"></a>
    Source: asset-scienceinsociety.eu  
    Title: ASSETCrisis and Emergency Risk Communication  
-   Link: [https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf](https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf)  
+   Link: <a href="https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
    Title: Fake rumors, real killings: Inside Congo's deadly health misinformation crisis  
-   Link: [https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/](https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media, local media, and religious leaders, including megachurch pastor Jules Mulindwa and other pastors, played a key role in ampl...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/judgment-and-decision-making/article/brief-forewarning-intervention-overcomes-negative-effects-of-salient-changes-in-covid19-guidance/2854EC51BEDB755B62EDDFBFC79C3039](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/brief-forewarning-intervention-overcomes-negative-effects-of-salient-changes-in-covid19-guidance/2854EC51BEDB755B62EDDFBFC79C3039)  
+   Link: <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/brief-forewarning-intervention-overcomes-negative-effects-of-salient-changes-in-covid19-guidance/2854EC51BEDB755B62EDDFBFC79C3039" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/brief-forewarning-intervention-overcomes-negative-effects-of-salient-changes-in-covid19-guidance/2854EC51BEDB755B62EDDFBFC79C3039</a>  
 
 7. <a id="endnote-7"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2023/1/e40706/](https://www.jmir.org/2023/1/e40706/)  
+   Link: <a href="https://www.jmir.org/2023/1/e40706/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2023/1/e40706/</a>  
 
 8. <a id="endnote-8"></a>
    Source: who.int  
    Title: tips for communicating uncertainty final eng  
-   Link: [https://www.who.int/docs/librariesprovider2/default-document-library/tips-for-communicating-uncertainty-final-eng.pdf?download=true&sfvrsn=6d9700d7_1](https://www.who.int/docs/librariesprovider2/default-document-library/tips-for-communicating-uncertainty-final-eng.pdf?download=true&sfvrsn=6d9700d7_1)  
+   Link: <a href="https://www.who.int/docs/librariesprovider2/default-document-library/tips-for-communicating-uncertainty-final-eng.pdf?download=true&amp;sfvrsn=6d9700d7_1" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/librariesprovider2/default-document-library/tips-for-communicating-uncertainty-final-eng.pdf?download=true&amp;sfvrsn=6d9700d7_1</a>  
 
 9. <a id="endnote-9"></a>
    Source: hhs.gov  
    Title: Confronting Health Misinformation  
-   Link: [https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf](https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf)  
+   Link: <a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIConfronting Health Misinformation  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK572169/](https://www.ncbi.nlm.nih.gov/books/NBK572169/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK572169/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK572169/</a>  
 
 11. <a id="endnote-11"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41467-026-72597-0](https://www.nature.com/articles/s41467-026-72597-0)  
+   Link: <a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
    Title: Research Gate Correcting Misinformation in News Stories: An Investigation  
-   Link: [https://www.researchgate.net/publication/342577598_Correcting_Misinformation_in_News_Stories_An_Investigation_of_Correction_Timing_and_Correction_Durability](https://www.researchgate.net/publication/342577598_Correcting_Misinformation_in_News_Stories_An_Investigation_of_Correction_Timing_and_Correction_Durability)  
+   Link: <a href="https://www.researchgate.net/publication/342577598_Correcting_Misinformation_in_News_Stories_An_Investigation_of_Correction_Timing_and_Correction_Durability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342577598_Correcting_Misinformation_in_News_Stories_An_Investigation_of_Correction_Timing_and_Correction_Durability</a>  
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
 
 14. <a id="endnote-14"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf](https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf)  
+   Link: <a href="https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-026-42329-x](https://www.nature.com/articles/s41598-026-42329-x)  
+   Link: <a href="https://www.nature.com/articles/s41598-026-42329-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-42329-x</a>  
 
 16. <a id="endnote-16"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41562-021-01278-3](https://www.nature.com/articles/s41562-021-01278-3)  
+   Link: <a href="https://www.nature.com/articles/s41562-021-01278-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-021-01278-3</a>  
 
 17. <a id="endnote-17"></a>
    Source: infodemiology.jmir.org  
-   Link: [https://infodemiology.jmir.org/2025/1/e67464](https://infodemiology.jmir.org/2025/1/e67464)  
+   Link: <a href="https://infodemiology.jmir.org/2025/1/e67464" target="_blank" rel="noopener noreferrer nofollow">https://infodemiology.jmir.org/2025/1/e67464</a>  
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/343887042_Can_corrections_spread_misinformation_to_new_audiences_Testing_for_the_elusive_familiarity_backfire_effect](https://www.researchgate.net/publication/343887042_Can_corrections_spread_misinformation_to_new_audiences_Testing_for_the_elusive_familiarity_backfire_effect)  
+   Link: <a href="https://www.researchgate.net/publication/343887042_Can_corrections_spread_misinformation_to_new_audiences_Testing_for_the_elusive_familiarity_backfire_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343887042_Can_corrections_spread_misinformation_to_new_audiences_Testing_for_the_elusive_familiarity_backfire_effect</a>  
 
 19. <a id="endnote-19"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810](https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810)  
+   Link: <a href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810</a>  
 
 20. <a id="endnote-20"></a>
    Source: assets.cambridge.org  
    Title: 9781009449038 excerpt  
-   Link: [https://assets.cambridge.org/97810094/49038/excerpt/9781009449038_excerpt.pdf](https://assets.cambridge.org/97810094/49038/excerpt/9781009449038_excerpt.pdf)  
+   Link: <a href="https://assets.cambridge.org/97810094/49038/excerpt/9781009449038_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97810094/49038/excerpt/9781009449038_excerpt.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.aap9559](https://www.science.org/doi/10.1126/science.aap9559)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14051 — Although the terms [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) and misinformation al...</p></details>
+   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14051 — Although the terms [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) and misinformation al...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167811626000261](https://www.sciencedirect.com/science/article/pii/S0167811626000261)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
 
 23. <a id="endnote-23"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S004727272500043X](https://www.sciencedirect.com/science/article/pii/S004727272500043X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
 
 24. <a id="endnote-24"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2468696420300458](https://www.sciencedirect.com/science/article/pii/S2468696420300458)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2468696420300458" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2468696420300458</a>  
 
 25. <a id="endnote-25"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0277953625006033](https://www.sciencedirect.com/science/article/pii/S0277953625006033)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0277953625006033" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0277953625006033</a>  
 
 26. <a id="endnote-26"></a>
    Source: ebm.bmj.com  
-   Link: [https://ebm.bmj.com/content/30/6/420](https://ebm.bmj.com/content/30/6/420)  
+   Link: <a href="https://ebm.bmj.com/content/30/6/420" target="_blank" rel="noopener noreferrer nofollow">https://ebm.bmj.com/content/30/6/420</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: [https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308](https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308)  
+   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — Researchers from the Media Lab and Sloan found that hu...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: whitehouse.gov  
-   Link: [https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/](https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/)  
+   Link: <a href="https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/</a>  
 
 29. <a id="endnote-29"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/app/details/GOVPUB-HE20-PURL-gpo157762](https://www.govinfo.gov/app/details/GOVPUB-HE20-PURL-gpo157762)  
+   Link: <a href="https://www.govinfo.gov/app/details/GOVPUB-HE20-PURL-gpo157762" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/GOVPUB-HE20-PURL-gpo157762</a>  
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Misinformation: The "Truth Sandwich" and Other Techniques  
-   Link: [https://www.youtube.com/watch?v=o33y194O1O0](https://www.youtube.com/watch?v=o33y194O1O0)  
+   Link: <a href="https://www.youtube.com/watch?v=o33y194O1O0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o33y194O1O0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Talk to Someone Who Believes Conspiracy Theories...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: How to Talk to Someone Who Believes Conspiracy Theories  
-   Link: [https://www.youtube.com/watch?v=S216W98pZ_8](https://www.youtube.com/watch?v=S216W98pZ_8)  
+   Link: <a href="https://www.youtube.com/watch?v=S216W98pZ_8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S216W98pZ_8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Misinformation: Strategies for Success...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: ebolacommunicationnetwork.org  
-   Link: [https://ebolacommunicationnetwork.org/wp-content/uploads/2014/09/CrisisEmregencyRiskCommunication.pdf](https://ebolacommunicationnetwork.org/wp-content/uploads/2014/09/CrisisEmregencyRiskCommunication.pdf)  
+   Link: <a href="https://ebolacommunicationnetwork.org/wp-content/uploads/2014/09/CrisisEmregencyRiskCommunication.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ebolacommunicationnetwork.org/wp-content/uploads/2014/09/CrisisEmregencyRiskCommunication.pdf</a>  
 
 33. <a id="endnote-33"></a>
    Source: asef.org  
-   Link: [https://asef.org/wp-content/uploads/2021/10/Presentation_Dr-Margaret-HARRIS.pdf](https://asef.org/wp-content/uploads/2021/10/Presentation_Dr-Margaret-HARRIS.pdf)  
+   Link: <a href="https://asef.org/wp-content/uploads/2021/10/Presentation_Dr-Margaret-HARRIS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asef.org/wp-content/uploads/2021/10/Presentation_Dr-Margaret-HARRIS.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: michsafetyconference.org  
-   Link: [https://michsafetyconference.org/wp-content/uploads/2022/04/WEd-1015-am-Emerg-Mgt-Crisis-and-Emergency-Risk-Communication.pdf](https://michsafetyconference.org/wp-content/uploads/2022/04/WEd-1015-am-Emerg-Mgt-Crisis-and-Emergency-Risk-Communication.pdf)  
+   Link: <a href="https://michsafetyconference.org/wp-content/uploads/2022/04/WEd-1015-am-Emerg-Mgt-Crisis-and-Emergency-Risk-Communication.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michsafetyconference.org/wp-content/uploads/2022/04/WEd-1015-am-Emerg-Mgt-Crisis-and-Emergency-Risk-Communication.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: ualberta.ca  
-   Link: [https://www.ualberta.ca/en/law/media-library/faculty-research/hli/media/images/caulfield-debunking-works-vulnerable-caulfield.pdf](https://www.ualberta.ca/en/law/media-library/faculty-research/hli/media/images/caulfield-debunking-works-vulnerable-caulfield.pdf)  
+   Link: <a href="https://www.ualberta.ca/en/law/media-library/faculty-research/hli/media/images/caulfield-debunking-works-vulnerable-caulfield.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ualberta.ca/en/law/media-library/faculty-research/hli/media/images/caulfield-debunking-works-vulnerable-caulfield.pdf</a>  
 
 36. <a id="endnote-36"></a>
    Source: cepr.org  
-   Link: [https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it](https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it)  
+   Link: <a href="https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it</a>

@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_prebunking_resists_m_940210
 - Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - fact-checks
 - speed-gap
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - fact-checks
 - speed-gap
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: False claims can be produced and reshared faster than careful fact-checks can investigate, explain, and reach the same audience.
 hero_summary: False claims can be produced and reshared faster than careful fact-checks can investigate, explain, and reach the same audience.
 layout: default
 permalink: /speed-gap/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /fact-checks/
 nav_short_title: Speed Gap
 title: Why Myths Move Faster Than Corrections
-title_full: Why Myths Move Faster Than Corrections | Fact Checks
+title_full: Why Myths Move Faster Than Corrections
 display_title_short: Speed Gap
 display_title: Speed Gap
 heading_title: Why Myths Move Faster Than Corrections
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Fact Checking Is Not Enough | Mythcraft
+parent_title: Why Fact Checking Is Not Enough
 parent_permalink: /fact-checks/
 parent_nav_short_title: Fact Checks
 parent_heading_title: Why Fact Checking Is Not Enough
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Can Prebunking Stop Myths Earlier?
 up_link:
   basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
@@ -259,7 +259,7 @@ prev_link:
   permalink: /prebunking-810fc5/
   short_title: Prebunking
   heading_title: Can Prebunking Stop Myths Earlier?
-date: '2026-06-09 05:11:11 '
+date: '2026-06-11 22:24:45 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_correction_spee_c537c6-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_correction_spee_c537c6-Illustration-1.webp
@@ -268,11 +268,10 @@ image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_my
 
 ## Introduction
 
-Fact-checking often begins only after a false claim has already attracted attention. By the time a [correction]({{ 'correction/' | relative_url }}) is researched, written, reviewed and distributed, the original myth may have been copied across platforms, repeated by influential accounts and absorbed into public discussion. This timing problem helps explain why [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) can remain influential even when reliable evidence is available.
-
+Fact-checking often begins only after a false claim has already attracted attention. By the time a [correction]({{ 'correction/' | relative_url }}) is researched, written, reviewed and distributed, the original myth may have been copied across [platforms]({{ 'platforms/' | relative_url }}), repeated by influential accounts and absorbed into public discussion. This timing problem helps explain why myths and misconceptions can remain influential even when reliable evidence is available.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_correction_spee_c537c6-Illustration-1-dark.svg" | relative_url }}" alt="Speed Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_correction_spee_c537c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_correction_spee_c537c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research consistently finds that false information can spread farther and faster than accurate information online. One of the most influential large-scale studies of social media diffusion found that false news reached more people, travelled more quickly and spread more broadly than truthful information across multiple categories of content. The researchers suggested that novelty and emotional appeal helped drive this advantage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13949 — Falsehood diffused significantly farther, faster, d...</span></span></span>
+Research consistently finds that false information can spread farther and faster than accurate information online. One of the most influential large-scale studies of social media diffusion found that false news reached more people, travelled more quickly and spread more broadly than truthful information across multiple categories of content. The researchers suggested that novelty and emotional appeal helped drive this advantage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13949 — Falsehood diffused significantly farther, faster, d...</span></span></span>
 
 The result is a persistent speed gap: myths are cheap and rapid to produce, while careful [corrections]({{ 'corrections/' | relative_url }}) require verification, context and time.
 
@@ -286,7 +285,6 @@ This creates a structural advantage. A myth-maker can release dozens of claims w
 
 False claims also benefit from simplicity. A myth can often be expressed in a sentence, image or short video. The corrective version frequently requires additional context:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What the original source actually said.
@@ -297,7 +295,6 @@ False claims also benefit from simplicity. A myth can often be expressed in a se
 </div>
 
 The correction is usually longer because reality is more complicated than the myth it replaces.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T4enR0sWrLw" title="MIT Sloan Experts Series – Sinan Aral: The Truth About Fake News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T4enR0sWrLw" target="_blank" rel="noopener noreferrer">MIT Sloan Experts Series – Sinan Aral: The Truth About Fake News</a></p><p class="youtube-embed-meta">Channel: MIT Sloan School of Management &middot; Views: 6.9K &middot; Uploaded: March 2018 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T4enR0sWrLw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T4enR0sWrLw">Open on YouTube</a></p></div></div></div>
 
@@ -311,8 +308,7 @@ This creates a [timing]({{ 'timing/' | relative_url }}) disadvantage. A false cl
 
 The problem is not only production speed. It is also audience attention. A sensational claim can be consumed in seconds. A correction often requires readers to slow down, examine evidence and revise an earlier impression. That demands more effort than simply sharing an emotionally striking post.
 
-Research on misinformation corrections repeatedly finds that fact-checks can reduce false beliefs, but their effects are often limited to the specific claims being corrected. Corrections are useful, yet they do not automatically create broad resistance to future myths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectDebunking “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 18 — Specifically, while they are abl...</span></span></span>
-
+Research on misinformation corrections repeatedly finds that fact-checks can reduce false beliefs, but their effects are often limited to the specific claims being corrected. Corrections are useful, yet they do not automatically create broad resistance to future myths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Debunking “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 18 — Specifically, while they are abl...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_correction_spee_c537c6-Illustration-2-dark.svg" | relative_url }}" alt="Speed Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_correction_spee_c537c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_correction_spee_c537c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Repetition Gives Myths an Early Advantage
@@ -321,8 +317,7 @@ The first version of a story often becomes the reference point against which lat
 
 When people encounter the same claim repeatedly, familiarity increases. A rumour seen ten times before a correction appears can feel more established than a correction encountered once afterward. This does not mean people consciously choose falsehoods. Rather, repetition increases the mental availability of information.
 
-Psychologists describe a related phenomenon known as the continued influence effect. Even after misinformation has been corrected, parts of the original claim may continue to shape memory, reasoning or discussion. People may remember that a claim was disputed while still recalling the narrative that made it compelling in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">PMCby IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span> Nature Speed therefore matters twice: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the cogni...</span></span></span>
-
+Psychologists describe a related phenomenon known as the continued influence effect. Even after misinformation has been corrected, parts of the original claim may continue to shape memory, reasoning or discussion. People may remember that a claim was disputed while still recalling the narrative that made it compelling in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span> Nature Speed therefore matters twice: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the cogni...</span></span></span>
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -333,9 +328,7 @@ Psychologists describe a related phenomenon known as the continued influence eff
 
 By the time a fact-check is published, it is often competing not with a single false statement but with many repetitions of that statement.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2jmF5z_ZNFE" title="Why Continued Influence Effect is THE Most Important Phenomenon to Recognize #podcast #psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2jmF5z_ZNFE" target="_blank" rel="noopener noreferrer">Why Continued Influence Effect is THE Most Important Phenomenon to Recognize #podcast #psychology</a></p><p class="youtube-embed-meta">Channel: SilverDisobedience PerceptionDynamics•Dian Griesel &middot; Views: 7.0K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2jmF5z_ZNFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2jmF5z_ZNFE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_correction_spee_c537c6-Illustration-3-dark.svg" | relative_url }}" alt="Speed Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_correction_spee_c537c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_correction_spee_c537c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Speed Means During Crises
 
 The consequences of the speed gap become most visible during emergencies.
@@ -348,19 +341,15 @@ Studies of COVID-19 misinformation illustrate the challenge. Researchers found t
 
 In fast-moving situations, uncertainty creates a temporary vacuum. Myths can fill that vacuum immediately. Accurate information often arrives later because responsible communicators must first determine what is actually happening.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2jmF5z_ZNFE" title="Why Continued Influence Effect is THE Most Important Phenomenon to Recognize #podcast #psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2jmF5z_ZNFE" target="_blank" rel="noopener noreferrer">Why Continued Influence Effect is THE Most Important Phenomenon to Recognize #podcast #psychology</a></p><p class="youtube-embed-meta">Channel: SilverDisobedience PerceptionDynamics•Dian Griesel &middot; Views: 7.0K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2jmF5z_ZNFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2jmF5z_ZNFE">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_correction_spee_c537c6-Illustration-3-dark.svg" | relative_url }}" alt="Speed Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_correction_spee_c537c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_correction_spee_c537c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Faster Myths Create a Lasting Challenge
 
 The key issue is not that corrections never work. Many do. The problem is that corrections enter the conversation after myths have already accumulated reach, repetition and emotional momentum.
 
-A false claim can be created in minutes, amplified in hours and seen by millions before investigators finish checking the evidence. Research on information diffusion repeatedly shows that false stories often enjoy a measurable speed advantage over truthful ones, particularly when they appear novel, surprising or emotionally engaging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13949 — Falsehood diffused significantly farther, faster, d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitsloan.mit.edu">[MIT Sloan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitsloan.mit.edu</span><span class="citation-popover-title">study false news spreads faster truth</span><span class="citation-popover-snippet">MIT SloanStudy: False news spreads faster than the truthMar 8, 2018 — It uses the term “false news” instead of “fake news” because the la...</span></span></span>
+A false claim can be created in minutes, amplified in hours and seen by millions before investigators finish checking the evidence. Research on information diffusion repeatedly shows that false stories often enjoy a measurable speed advantage over truthful ones, particularly when they appear novel, surprising or emotionally engaging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13949 — Falsehood diffused significantly farther, faster, d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitsloan.mit.edu">[MIT Sloan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitsloan.mit.edu</span><span class="citation-popover-title">study false news spreads faster truth</span><span class="citation-popover-snippet">MIT SloanStudy: False news spreads faster than the truthMar 8, 2018 — It uses the term “false news” instead of “fake news” because the la...</span></span></span>
 
 This means that fact-checking is often operating from behind. Corrections can reduce harm, but they must catch up with information that has already travelled through networks of friends, followers, influencers and news consumers. The speed gap does not make fact-checking useless; it explains why fact-checking alone struggles to stop myths once they have gone viral.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pxHMGHUs3S4" title="Why Misinformation Sticks in Your Brain Even After It’s Debunked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pxHMGHUs3S4" target="_blank" rel="noopener noreferrer">Why Misinformation Sticks in Your Brain Even After It’s Debunked</a></p><p class="youtube-embed-meta">Channel: Rational Ruminations</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pxHMGHUs3S4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pxHMGHUs3S4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -479,15 +468,15 @@ This means that fact-checking is often operating from behind. Corrections can re
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT"><img src="{{ '/assets/images/marketplace-covers/352c61150a84d9a15ae7.jpg' | relative_url }}" alt="Listing image for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-myths-move-faster-than-corrections-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-myths-move-faster-than-corrections-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6"><img src="https://i.ebayimg.com/images/g/vkgAAeSwna5oZGvr/s-l225.jpg" alt="Listing image for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-myths-move-faster-than-corrections-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-myths-move-faster-than-corrections-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-myths-move-faster-than-corrections-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-myths-move-faster-than-corrections-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-myths-move-faster-than-corrections-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-myths-move-faster-than-corrections-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,47 +484,15 @@ This means that fact-checking is often operating from behind. Corrections can re
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 [FACT CHECK] 5th Album EXHIBIT TAEIL Ver/CD+4 Post Card+Card+Sticker"><img src="{{ '/assets/images/marketplace-covers/36564e9179733ccf89e8.jpg' | relative_url }}" alt="Listing image for NCT 127 [FACT CHECK] 5th Album EXHIBIT TAEIL Ver/CD+4 Post Card+Card+Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-myths-move-faster-than-corrections-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-myths-move-faster-than-corrections-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TITIKEI by IshiKei Paperback Self Help Business"><img src="https://i.ebayimg.com/images/g/X5YAAeSw~F1qEbNR/s-l225.jpg" alt="Listing image for TITIKEI by IshiKei Paperback Self Help Business" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 [FACT CHECK] 5th Album EXHIBIT TAEIL Ver/CD+4 Post Card+Card+Sticker</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-myths-move-faster-than-corrections-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-myths-move-faster-than-corrections-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">TITIKEI by IshiKei Paperback Self Help Business</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-myths-move-faster-than-corrections-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-myths-move-faster-than-corrections-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nct 127 Fact Check And Sticker Photocards"><img src="{{ '/assets/images/marketplace-covers/e19779c1afa40b68544f.jpg' | relative_url }}" alt="Listing image for Nct 127 Fact Check And Sticker Photocards" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">Nct 127 Fact Check And Sticker Photocards</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK (5th Album) with postcards &amp; stickers - FREEPOST KPOP"><img src="{{ '/assets/images/marketplace-covers/e84b72c3b91ba67d8d97.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK (5th Album) with postcards &amp; stickers - FREEPOST KPOP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK (5th Album) with postcards &amp; stickers - FREEPOST KPOP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-myths-move-faster-than-corrections-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-myths-move-faster-than-corrections-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,7 +500,7 @@ This means that fact-checking is often operating from behind. Corrections can re
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="speed-gap-why-myths-move-faster-than-corrections-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-myths-move-faster-than-corrections-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-myths-move-faster-than-corrections-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -759,149 +716,149 @@ This means that fact-checking is often operating from behind. Corrections can re
 1. <a id="endnote-1"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: [https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308](https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308)  
+   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — Researchers from the Media Lab and Sloan found that hu...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S004727272500043X](https://www.sciencedirect.com/science/article/pii/S004727272500043X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectDebunking “[fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;)” on social media: Immediate and...by LM Berger · 2025 · Cited by 18 — Specifically, while they are abl...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “[fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;)” on social media: Immediate and...by LM Berger · 2025 · Cited by 18 — Specifically, while they are abl...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExploring factors that mitigate the continued influence  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the cogni...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: mitsloan.mit.edu  
    Title: study false news spreads faster truth  
-   Link: [https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth](https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth)  
+   Link: <a href="https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT SloanStudy: False news spreads faster than the truthMar 8, 2018 — It uses the term “false news” instead of “fake news” because the la...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167923625001241](https://www.sciencedirect.com/science/article/pii/S0167923625001241)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167923625001241" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167923625001241</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can correction messages reduce the spread of fake news...Read...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/topics/neuroscience/infodemic](https://www.sciencedirect.com/topics/neuroscience/infodemic)  
+   Link: <a href="https://www.sciencedirect.com/topics/neuroscience/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/neuroscience/infodemic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overview | ScienceDirect TopicsAn &#x27;infodemic&#x27; refers to the overwhelming abundance of information, including misinformation and disinf...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X23001574](https://www.sciencedirect.com/science/article/pii/S2352250X23001574)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X23001574</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective correction of misinformationby T Prike · 2023 · Cited by 67 — Keywords. Misinformation. Correction. Fake news. [Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;). Misin...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-025-18457-1](https://www.nature.com/articles/s41598-025-18457-1)  
+   Link: <a href="https://www.nature.com/articles/s41598-025-18457-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-18457-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the impact of misinformation during the spread...by A Bernardin · 2025 · Cited by 4 — Our results show that even a modest infl...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: MIT Sloan Experts Series – Sinan Aral: The Truth About Fake News  
-   Link: [https://www.youtube.com/watch?v=T4enR0sWrLw](https://www.youtube.com/watch?v=T4enR0sWrLw)  
+   Link: <a href="https://www.youtube.com/watch?v=T4enR0sWrLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T4enR0sWrLw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Continued Influence Effect - Why do memories of misinformation persist in our minds?...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Continued Influence Effect  
-   Link: [https://www.youtube.com/watch?v=eZ_hcf01EFw](https://www.youtube.com/watch?v=eZ_hcf01EFw)  
+   Link: <a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZ_hcf01EFw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Continued Influence Effect is THE Most Important Phenomenon to Recognize...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29590045/](https://pubmed.ncbi.nlm.nih.gov/29590045/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13949 — Falsehood diffused significantly farther, faster, d...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29590045/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13949 — Falsehood diffused significantly farther, faster, d...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchbriefings.files.parliament.uk  
    Title: Research Briefings Disinformation: sources, spread and impact  
-   Link: [https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf](https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf)  
+   Link: <a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research BriefingsDisinformation: sources, spread and impactApril 26, 2024 — 25 Apr 2024 — Research indicates that disinformation can inf...</p></details>
    Published: April 26, 2024  
 
 14. <a id="endnote-14"></a>
    Source: who.int  
-   Link: [https://www.who.int/health-topics/infodemic](https://www.who.int/health-topics/infodemic)  
+   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemicRefining an AI-based infodemic observatory to assess the current status of misinformation and disinform...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: who.int  
-   Link: [https://www.who.int/health-topics/infodemic/understanding-the-infodemic-and-misinformation-in-the-fight-against-covid-19](https://www.who.int/health-topics/infodemic/understanding-the-infodemic-and-misinformation-in-the-fight-against-covid-19)  
+   Link: <a href="https://www.who.int/health-topics/infodemic/understanding-the-infodemic-and-misinformation-in-the-fight-against-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic/understanding-the-infodemic-and-misinformation-in-the-fight-against-covid-19</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationUnderstanding the infodemic and misinformation...Infodemic · Listening to community concerns and questions · Pr...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: who.int  
-   Link: [https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve](https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve)  
+   Link: <a href="https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Let&#x27;s flatten the infodemic curveIt helps to think of misinformation and disinformation spreading in the same way as viruses. One person...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: open.ac.uk  
-   Link: [https://www.open.ac.uk/blogs/news/science-mct/misinformation-about-covid-19-spreads-faster-on-social-media-than-fact-checking-content/](https://www.open.ac.uk/blogs/news/science-mct/misinformation-about-covid-19-spreads-faster-on-social-media-than-fact-checking-content/)  
+   Link: <a href="https://www.open.ac.uk/blogs/news/science-mct/misinformation-about-covid-19-spreads-faster-on-social-media-than-fact-checking-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.open.ac.uk/blogs/news/science-mct/misinformation-about-covid-19-spreads-faster-on-social-media-than-fact-checking-content/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.aap9559](https://www.science.org/doi/10.1126/science.aap9559)  
+   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14032 — We investigated the differential diffusion of all of the...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: who.int  
-   Link: [https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds](https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds)  
+   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemics and misinformation negatively affect people&#x27;s...1 Sept 2022 — The systematic review of published studies found 31 reviews tha...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sinanaral.medium.com  
-   Link: [https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8](https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8)  
+   Link: <a href="https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8" target="_blank" rel="noopener noreferrer nofollow">https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>News about our Fake News Study Spread Faster than its...Engber and Kuperschmidt&#x27;s misinformation ended up proving our theory — and not j...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: [https://misinforeview.hks.harvard.edu/article/who-reports-witnessing-and-performing-corrections-on-social-media-in-the-united-states-united-kingdom-canada-and-france/](https://misinforeview.hks.harvard.edu/article/who-reports-witnessing-and-performing-corrections-on-social-media-in-the-united-states-united-kingdom-canada-and-france/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/who-reports-witnessing-and-performing-corrections-on-social-media-in-the-united-states-united-kingdom-canada-and-france/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/who-reports-witnessing-and-performing-corrections-on-social-media-in-the-united-states-united-kingdom-canada-and-france/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reports witnessing and performing corrections on...by R Tang · 2024 · Cited by 9 — Specifically, younger and more educated adults, as we...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: research-information.bris.ac.uk  
-   Link: [https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf](https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: [https://misinforeview.hks.harvard.edu/article/the-small-effects-of-short-user-corrections-on-misinformation-in-brazil-india-and-the-united-kingdom/](https://misinforeview.hks.harvard.edu/article/the-small-effects-of-short-user-corrections-on-misinformation-in-brazil-india-and-the-united-kingdom/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/the-small-effects-of-short-user-corrections-on-misinformation-in-brazil-india-and-the-united-kingdom/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/the-small-effects-of-short-user-corrections-on-misinformation-in-brazil-india-and-the-united-kingdom/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewThe small effects of short user corrections on...by S Altay · 2025 — We found that in India and Brazil, short user...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: mediarelations.gwu.edu  
-   Link: [https://mediarelations.gwu.edu/new-international-study-shows-fact-checks-significantly-reduce-belief-misinformation](https://mediarelations.gwu.edu/new-international-study-shows-fact-checks-significantly-reduce-belief-misinformation)  
+   Link: <a href="https://mediarelations.gwu.edu/new-international-study-shows-fact-checks-significantly-reduce-belief-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://mediarelations.gwu.edu/new-international-study-shows-fact-checks-significantly-reduce-belief-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International Study Shows [Fact Checks](&amp;#123;&amp;#123; &#x27;fact-checks/&#x27; | relative_url &amp;#125;&amp;#125;) Significantly...Sep 7, 2021 — According to the study, fact checks significantly reduced belief in...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pbs.org  
    Title: false news travels 6 times faster on twitter than truthful news  
-   Link: [https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news](https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news)  
+   Link: <a href="https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 9, 2018 — Baum adds that, given the inherent ambiguity of the language involved-including terms such as fake news, false news, misinf...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: today.usc.edu  
-   Link: [https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/](https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/)  
+   Link: <a href="https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reveals key reason why fake news spreads on social...Jan 17, 2023 — USC study reveals the key reason why fake news spreads on social media...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: iris.paho.org  
-   Link: [https://iris.paho.org/items/2d166e60-045e-4bab-a396-6502de526e43](https://iris.paho.org/items/2d166e60-045e-4bab-a396-6502de526e43)  
+   Link: <a href="https://iris.paho.org/items/2d166e60-045e-4bab-a396-6502de526e43" target="_blank" rel="noopener noreferrer nofollow">https://iris.paho.org/items/2d166e60-045e-4bab-a396-6502de526e43</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Infodemic and Misinformation in the fight...This is bound up with the collateral growth of misinformation, disinformation and malinf...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: www150.statcan.gc.ca  
    Title: When they are aware, it is often referred to as disinformation.”.Read more  
-   Link: [https://www150.statcan.gc.ca/n1/pub/22-20-0001/222000012024003-eng.htm](https://www150.statcan.gc.ca/n1/pub/22-20-0001/222000012024003-eng.htm)  
+   Link: <a href="https://www150.statcan.gc.ca/n1/pub/22-20-0001/222000012024003-eng.htm" target="_blank" rel="noopener noreferrer nofollow">https://www150.statcan.gc.ca/n1/pub/22-20-0001/222000012024003-eng.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spread of misinformation: A multivariate analysis of...Jul 25, 2024 — The sharer of misinformation may or may not be aware that it is mi...</p></details>

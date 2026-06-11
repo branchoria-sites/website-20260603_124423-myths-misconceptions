@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_personal_experience_bd112b_small_sample_pattern_e3cde7
 - Myths_and_misconcept_0d48d7_personal_experience_bd112b_timing_vs_cause_444a87
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - anecdotes
 - story-limits
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - anecdotes
 - story-limits
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Anecdotes are useful as signals, examples and questions, but they become misleading when used to settle general claims.
 hero_summary: Anecdotes are useful as signals, examples and questions, but they become misleading when used to settle general claims.
 layout: default
 permalink: /story-limits/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /anecdotes/
 nav_short_title: Story limits
 title: How to respect stories without overclaiming
-title_full: How to respect stories without overclaiming | Anecdotes
+title_full: How to respect stories without overclaiming
 display_title_short: Story limits
 display_title: Story limits
 heading_title: How to respect stories without overclaiming
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Personal Experience Becomes a Myth | Mythcraft
+parent_title: When Personal Experience Becomes a Myth
 parent_permalink: /anecdotes/
 parent_nav_short_title: Anecdotes
 parent_heading_title: When Personal Experience Becomes a Myth
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Did it work, or did time pass?
 up_link:
   basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
@@ -265,7 +265,7 @@ next_link:
   permalink: /timing-trap/
   short_title: Timing trap
   heading_title: Did it work, or did time pass?
-date: '2026-06-09 04:27:38 '
+date: '2026-06-11 22:03:29 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_using_stories_well_99349c-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_using_stories_well_99349c-Illustration-1.webp
@@ -274,11 +274,10 @@ image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_usi
 
 ## Introduction
 
-Personal stories are often at the centre of [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) because they are memorable, emotionally compelling and usually true in at least one important sense: they describe something that genuinely happened to someone. The mistake is not listening to such stories. The mistake is asking them to prove more than they can support.
-
+Personal stories are often at the centre of myths and misconceptions because they are memorable, emotionally compelling and usually true in at least one important sense: they describe something that genuinely happened to someone. The mistake is not listening to such stories. The mistake is asking them to prove more than they can support.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_using_stories_well_99349c-Illustration-1-dark.svg" | relative_url }}" alt="Story limits illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_using_stories_well_99349c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_using_stories_well_99349c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A [personal experience]({{ 'anecdotes/' | relative_url }}) can show what one person observed, felt or encountered. It can raise questions, reveal possibilities, highlight harms that deserve investigation, or illustrate what a broader pattern looks like in real life. What it cannot usually do on its own is establish how common something is, whether one factor caused another, or what will happen in most cases. Research consistently finds that [anecdotes]({{ 'anecdotes/' | relative_url }}) can strongly influence beliefs and decisions, particularly on health and risk-related topics, even when broader statistical evidence points in a different direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">IDEAS/Re PEc When poignant stories outweigh cold hard facts: A meta</span><span class="citation-popover-snippet">IDEAS/RePEcWhen poignant stories outweigh cold hard facts: A meta...February 2, 2020 — by TH Freling · 2020 · Cited by 113 — The objecti...</span><span class="citation-popover-meta">Published: February 2, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">IDEAS/Re PEc When poignant stories outweigh cold hard facts: A meta</span><span class="citation-popover-snippet">IDEAS/RePEcWhen poignant stories outweigh cold hard facts: A meta...February 2, 2020 — by TH Freling · 2020 · Cited by 113 — The objecti...</span><span class="citation-popover-meta">Published: February 2, 2020</span></span></span>
+A personal experience can show what one person observed, felt or encountered. It can raise questions, reveal possibilities, highlight harms that deserve investigation, or illustrate what a broader pattern looks like in real life. What it cannot usually do on its own is establish how common something is, whether one factor caused another, or what will happen in most cases. Research consistently finds that [anecdotes]({{ 'anecdotes/' | relative_url }}) can strongly influence beliefs and decisions, particularly on health and risk-related topics, even when broader statistical evidence points in a different direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">IDEAS/Re PEc When poignant stories outweigh cold hard facts: A meta</span><span class="citation-popover-snippet">IDEAS/RePEcWhen poignant stories outweigh cold hard facts: A meta...February 2, 2020 — by TH Freling · 2020 · Cited by 113 — The objecti...</span><span class="citation-popover-meta">Published: February 2, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">IDEAS/Re PEc When poignant stories outweigh cold hard facts: A meta</span><span class="citation-popover-snippet">IDEAS/RePEcWhen poignant stories outweigh cold hard facts: A meta...February 2, 2020 — by TH Freling · 2020 · Cited by 113 — The objecti...</span><span class="citation-popover-meta">Published: February 2, 2020</span></span></span>
 
 Respecting stories without overclaiming means giving lived experience the evidential role it deserves rather than treating it as either infallible proof or something to be ignored.
 
@@ -287,7 +286,6 @@ Respecting stories without overclaiming means giving lived experience the eviden
 A personal story is strongest when it is used to answer questions about an individual experience rather than population-wide claims.
 
 For example, a person can reliably report:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -317,7 +315,6 @@ One person experiencing an outcome does not reveal how frequently it occurs.
 
 Suppose a friend says a particular diet transformed their health. The important next question is not whether the transformation happened, but whether similar results occur consistently across many people. Without that wider context, it is impossible to know whether the experience represents a typical outcome or an exception.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/75wDuKhCY7A" title="VERIFY: VAERS database alone isn&#x27;t evidence that COVID vaccines are causing deaths and miscarriages" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=75wDuKhCY7A" target="_blank" rel="noopener noreferrer">VERIFY: VAERS database alone isn&#x27;t evidence that COVID vaccines are causing deaths and miscarriages</a></p><p class="youtube-embed-meta">Channel: 13News Now &middot; Views: 2.0K &middot; Uploaded: April 2021 &middot; Length: 2 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=75wDuKhCY7A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=75wDuKhCY7A">Open on YouTube</a></p></div></div></div>
 
 ### What is the comparison?
@@ -326,7 +323,7 @@ Many misconceptions arise because people compare “after” with “before” b
 
 If symptoms improve after a treatment, the treatment may deserve credit. But symptoms might also have improved because of natural recovery, lifestyle changes, measurement error or random fluctuation. Establishing causation requires comparing outcomes against what would likely have happened otherwise.
 
-The same principle appears in public-health surveillance systems. For example, the US Vaccine Adverse Event Reporting System collects reports of health events that occur after vaccination, but official guidance repeatedly notes that reports alone cannot establish causation. Such reports are used as signals that require further investigation rather than proof that a vaccine caused a reported event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDCAbout the Vaccine Adverse Event Reporting System (VAERS)7 Aug 2024 — A VAERS report alone does not indicate whether a vaccine caused o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[VAERS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-snippet">Data - HHS.gov8 May 2025 — While very important in monitoring vaccine safety, VAERS reports alone cannot be used to determine if a vaccin...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+The same principle appears in public-health surveillance systems. For example, the US Vaccine Adverse Event Reporting System collects reports of health events that occur after vaccination, but official guidance repeatedly notes that reports alone cannot establish causation. Such reports are used as signals that require further investigation rather than proof that a vaccine caused a reported event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">About the Vaccine Adverse Event Reporting System (VAERS)7 Aug 2024 — A VAERS report alone does not indicate whether a vaccine caused o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[VAERS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-snippet">Data - HHS.gov8 May 2025 — While very important in monitoring vaccine safety, VAERS reports alone cannot be used to determine if a vaccin...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 ### Are there other stories pointing in different directions?
 
@@ -339,7 +336,6 @@ A person who joins an online group dedicated to a treatment, investment strategy
 Personal stories and systematic evidence should not be treated as enemies. The key question is whether they point in the same direction.
 
 When a large body of evidence supports what many individuals report, the anecdote becomes a useful illustration of a broader finding. When individual stories and broader evidence diverge, the discrepancy becomes something to investigate rather than a reason to discard one side automatically.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_using_stories_well_99349c-Illustration-2-dark.svg" | relative_url }}" alt="Story limits illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_using_stories_well_99349c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_using_stories_well_99349c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why stories remain important even when they are not proof
@@ -357,7 +353,6 @@ Second, they reveal dimensions of experience that statistics alone may miss. Num
 Third, stories make abstract evidence understandable. A statistical trend may tell us that a problem exists, but a personal account helps explain what the trend means for real people.
 
 Some medical scholars have argued that narratives remain valuable precisely because they capture aspects of illness, recovery and quality of life that standard measurements may overlook. The challenge is not replacing evidence with stories, but integrating the two appropriately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosmedicine/article?id=10.1371%2Fjournal.pmed.0030423" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOS“Anecdotal Evidence”: Why Narratives Matter to Medical Practiceby R Campo · 2006 · Cited by 31 — The anecdote is rife with such diffi...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VtxLQ6KEPEY" title="Research Review: Anecdotes vs Statistics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VtxLQ6KEPEY" target="_blank" rel="noopener noreferrer">Research Review: Anecdotes vs Statistics</a></p><p class="youtube-embed-meta">Channel: Clinically Pressed &middot; Views: 64 &middot; Uploaded: February 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VtxLQ6KEPEY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VtxLQ6KEPEY">Open on YouTube</a></p></div></div></div>
 
@@ -386,14 +381,12 @@ Consider the difference between these responses:
 
 The second response preserves dignity while encouraging better reasoning.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_using_stories_well_99349c-Illustration-3-dark.svg" | relative_url }}" alt="Story limits illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_using_stories_well_99349c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_using_stories_well_99349c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical rule for using stories responsibly
 
 A useful rule of thumb is to match the strength of the claim to the strength of the evidence.
 
 Personal experience can support statements such as:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -405,7 +398,6 @@ Personal experience can support statements such as:
 </div>
 
 It is usually insufficient by itself to support statements such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -420,9 +412,7 @@ Research on anecdotal persuasion shows why this distinction is difficult in prac
 
 The most reliable approach is therefore not to reject stories but to place them in the right evidential role. Stories can reveal possibilities, generate hypotheses, illustrate realities and remind us that data describe real people. They become misleading only when a single experience is asked to carry the weight of a general conclusion.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6DoZN6Yxn9Q" title="Anecdotal Evidence - Good or Bad?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6DoZN6Yxn9Q" target="_blank" rel="noopener noreferrer">Anecdotal Evidence - Good or Bad?</a></p><p class="youtube-embed-meta">Channel: Authentic MS &amp; Lyme Life &middot; Views: 27 &middot; Uploaded: January 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6DoZN6Yxn9Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6DoZN6Yxn9Q">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -821,153 +811,153 @@ The most reliable approach is therefore not to reject stories but to place them 
 1. <a id="endnote-1"></a>
    Source: ideas.repec.org  
    Title: IDEAS/Re PEc When poignant stories outweigh cold hard facts: A meta  
-   Link: [https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html](https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html)  
+   Link: <a href="https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcWhen poignant stories outweigh cold hard facts: A meta...February 2, 2020 — by TH Freling · 2020 · Cited by 113 — The objecti...</p></details>
    Published: February 2, 2020  
 
 2. <a id="endnote-2"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/vaccine-safety-systems/vaers/index.html](https://www.cdc.gov/vaccine-safety-systems/vaers/index.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDCAbout the Vaccine Adverse Event Reporting System (VAERS)7 Aug 2024 — A VAERS report alone does not indicate whether a vaccine caused o...</p></details>
+   Link: <a href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety-systems/vaers/index.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>About the Vaccine Adverse Event Reporting System (VAERS)7 Aug 2024 — A VAERS report alone does not indicate whether a vaccine caused o...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosmedicine/article?id=10.1371%2Fjournal.pmed.0030423](https://journals.plos.org/plosmedicine/article?id=10.1371%2Fjournal.pmed.0030423)  
+   Link: <a href="https://journals.plos.org/plosmedicine/article?id=10.1371%2Fjournal.pmed.0030423" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosmedicine/article?id=10.1371%2Fjournal.pmed.0030423</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOS“Anecdotal Evidence”: Why Narratives Matter to Medical Practiceby R Campo · 2006 · Cited by 31 — The anecdote is rife with such diffi...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: wonder.cdc.gov  
-   Link: [https://wonder.cdc.gov/wonder/help/vaers.html](https://wonder.cdc.gov/wonder/help/vaers.html)  
+   Link: <a href="https://wonder.cdc.gov/wonder/help/vaers.html" target="_blank" rel="noopener noreferrer nofollow">https://wonder.cdc.gov/wonder/help/vaers.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adverse Events Reporting System (VAERS) HelpWhile very important in monitoring vaccine safety, VAERS reports alone cannot be used to dete...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: wonder.cdc.gov  
-   Link: [https://wonder.cdc.gov/vaers.html](https://wonder.cdc.gov/vaers.html)  
+   Link: <a href="https://wonder.cdc.gov/vaers.html" target="_blank" rel="noopener noreferrer nofollow">https://wonder.cdc.gov/vaers.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccine Adverse Event Reporting System (VAERS)...8 May 2025 — While very important in monitoring vaccine safety, VAERS reports alone can...</p></details>
    Published: May 2025  
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Research Review: Anecdotes vs Statistics  
-   Link: [https://www.youtube.com/watch?v=VtxLQ6KEPEY](https://www.youtube.com/watch?v=VtxLQ6KEPEY)  
+   Link: <a href="https://www.youtube.com/watch?v=VtxLQ6KEPEY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VtxLQ6KEPEY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal Evidence - Good or Bad?...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Anecdotal Evidence  
-   Link: [https://www.youtube.com/watch?v=6DoZN6Yxn9Q](https://www.youtube.com/watch?v=6DoZN6Yxn9Q)  
+   Link: <a href="https://www.youtube.com/watch?v=6DoZN6Yxn9Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6DoZN6Yxn9Q</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data-Driven Decisions: Numbers vs. Anecdotes...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: vaers.hhs.gov  
-   Link: [https://vaers.hhs.gov/data.html](https://vaers.hhs.gov/data.html)  
+   Link: <a href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/data.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data - HHS.gov8 May 2025 — While very important in monitoring vaccine safety, VAERS reports alone cannot be used to determine if a vaccin...</p></details>
    Published: May 2025  
 
 9. <a id="endnote-9"></a>
    Source: vaers.hhs.gov  
-   Link: [https://vaers.hhs.gov/faq.html](https://vaers.hhs.gov/faq.html)  
+   Link: <a href="https://vaers.hhs.gov/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/faq.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQs - HHS.govVAERS accepts reports of adverse events following vaccination without judging the cause or seriousness of the event. VAERS...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26209838/](https://pubmed.ncbi.nlm.nih.gov/26209838/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26209838/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 691 — Generally, VAERS data cannot be used to de...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: VAERS data interpreted alone or out of context can lead to erroneous  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4632204/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4632204/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4632204/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4632204/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 699 — Generally, VAERS data cannot be used to de...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0264410X12014181](https://www.sciencedirect.com/science/article/abs/pii/S0264410X12014181)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X12014181" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X12014181</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Causality assessment of adverse events reported to the...by AM Loughlin · 2012 · Cited by 46 — Generally, VAERS data cannot be used to d...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0264410X15009822](https://www.sciencedirect.com/science/article/abs/pii/S0264410X15009822)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X15009822" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X15009822</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 699 — Generally, VAERS data cannot be use...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: publichealth.jhu.edu  
    Title: what vaers is and isnt  
-   Link: [https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt](https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt)  
+   Link: <a href="https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt" target="_blank" rel="noopener noreferrer nofollow">https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VAERS Is (And Isn&#x27;t) | Johns Hopkins3 May 2022 — While VAERS cannot determine whether an adverse event was caused by a vaccination, patte...</p></details>
    Published: May 2022  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Anecdotal evidence  
-   Link: [https://en.wikipedia.org/wiki/Anecdotal_evidence](https://en.wikipedia.org/wiki/Anecdotal_evidence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal evidenceAnecdotal evidence (or anecdata [1]) is evidence based on descriptions and reports of individual, personal experien...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/article/fact-check/vaers-and-faers-data-shown-does-not-prove-covid-19-vaccine-adverse-events-and-de-idUSL2N2OE1ZA/](https://www.reuters.com/article/fact-check/vaers-and-faers-data-shown-does-not-prove-covid-19-vaccine-adverse-events-and-de-idUSL2N2OE1ZA/)  
+   Link: <a href="https://www.reuters.com/article/fact-check/vaers-and-faers-data-shown-does-not-prove-covid-19-vaccine-adverse-events-and-de-idUSL2N2OE1ZA/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/fact-check/vaers-and-faers-data-shown-does-not-prove-covid-19-vaccine-adverse-events-and-de-idUSL2N2OE1ZA/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VAERS and FAERS data shown does not prove COVID-19...2 Jul 2021 — This is missing context: both the VAERS and FAERS websites make clear...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: fda.gov  
    Title: vaccine adverse event reporting system vaers questions and answers  
-   Link: [https://www.fda.gov/[vaccines](https://www.fda.gov/[vaccines)  
+   Link: <a href="https://www.fda.gov/[vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/[vaccines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VAERS reports generally cannot be used to determine if a vaccine caused or contributed to an adverse event or illness. Some events may oc...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: webmd.com  
-   Link: [https://www.webmd.com/vaccines/vaers-and-vaccine-safety](https://www.webmd.com/vaccines/vaers-and-vaccine-safety)  
+   Link: <a href="https://www.webmd.com/vaccines/vaers-and-vaccine-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/vaccines/vaers-and-vaccine-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VAERS and Vaccine Safety: What You Need to KnowThis is a myth. VAERS reports alone don&#x27;t determine whether vaccines cause or play a role...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/340313878_When_poignant_stories_outweigh_cold_hard_facts_A_meta-analysis_of_the_anecdotal_bias](https://www.researchgate.net/publication/340313878_When_poignant_stories_outweigh_cold_hard_facts_A_meta-analysis_of_the_anecdotal_bias)  
+   Link: <a href="https://www.researchgate.net/publication/340313878_When_poignant_stories_outweigh_cold_hard_facts_A_meta-analysis_of_the_anecdotal_bias" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340313878_When_poignant_stories_outweigh_cold_hard_facts_A_meta-analysis_of_the_anecdotal_bias</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the anecdotal biasHowever, we found no evidence that positive anecdotes increased outcomes more than statistical evide...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
    Title: 339107956 The impact of anecdotal information on medical decision making  
-   Link: [https://www.researchgate.net/publication/339107956_The_impact_of_anecdotal_information_on_medical_decision-making](https://www.researchgate.net/publication/339107956_The_impact_of_anecdotal_information_on_medical_decision-making)  
+   Link: <a href="https://www.researchgate.net/publication/339107956_The_impact_of_anecdotal_information_on_medical_decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339107956_The_impact_of_anecdotal_information_on_medical_decision-making</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of anecdotal information on medical decision-...8 Feb 2020 — Knowing how anecdotal evidence factors into people&#x27;s decisions i...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=75wDuKhCY7A](https://www.youtube.com/watch?v=75wDuKhCY7A)  
+   Link: <a href="https://www.youtube.com/watch?v=75wDuKhCY7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=75wDuKhCY7A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VERIFY: VAERS database alone isn&#x27;t evidence that COVID...&#x27;You can&#x27;t draw any conclusions by looking at VAERS,&#x27; Johns Hopkins vaccine exp...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: consumerreports.org  
-   Link: [https://www.consumerreports.org/misinformation/government-data-misused-to-question-covid-19-vaccine-safety-a1167679946/](https://www.consumerreports.org/misinformation/government-data-misused-to-question-covid-19-vaccine-safety-a1167679946/)  
+   Link: <a href="https://www.consumerreports.org/misinformation/government-data-misused-to-question-covid-19-vaccine-safety-a1167679946/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/misinformation/government-data-misused-to-question-covid-19-vaccine-safety-a1167679946/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Data Being Misused to Question COVID-19...Oct 4, 2021 — “While very important in monitoring vaccine safety, VAERS reports alo...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/13468757_Using_anecdotal_information_in_evidence-based_health_care_Heresy_or_necessity](https://www.researchgate.net/publication/13468757_Using_anecdotal_information_in_evidence-based_health_care_Heresy_or_necessity)  
+   Link: <a href="https://www.researchgate.net/publication/13468757_Using_anecdotal_information_in_evidence-based_health_care_Heresy_or_necessity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/13468757_Using_anecdotal_information_in_evidence-based_health_care_Heresy_or_necessity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite their power and influence, they are sometimes misused, and sometimes undervalued...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/PetPeeves/comments/18grwkz/people_who_think_anecdotal_evidence_is_more/](https://www.reddit.com/r/PetPeeves/comments/18grwkz/people_who_think_anecdotal_evidence_is_more/)  
+   Link: <a href="https://www.reddit.com/r/PetPeeves/comments/18grwkz/people_who_think_anecdotal_evidence_is_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PetPeeves/comments/18grwkz/people_who_think_anecdotal_evidence_is_more/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ill something worth noting (until deemed an extreme or outlier --...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: bmjgroup.com  
-   Link: [https://bmjgroup.com/is-the-us-reporting-system-for-vaccine-safety-broken/](https://bmjgroup.com/is-the-us-reporting-system-for-vaccine-safety-broken/)  
+   Link: <a href="https://bmjgroup.com/is-the-us-reporting-system-for-vaccine-safety-broken/" target="_blank" rel="noopener noreferrer nofollow">https://bmjgroup.com/is-the-us-reporting-system-for-vaccine-safety-broken/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pposed to be user-friendly, responsive, and transparent.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39183199/](https://pubmed.ncbi.nlm.nih.gov/39183199/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39183199/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39183199/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>impact medical decisions even when presented...by EN Line · 2024 · Cited by 9 — We found that reading anecdotes for either artificial or...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/161291478/When_poignant_stories_outweigh_cold_hard_facts_A_meta_analysis_of_the_anecdotal_bias](https://www.academia.edu/161291478/When_poignant_stories_outweigh_cold_hard_facts_A_meta_analysis_of_the_anecdotal_bias)  
+   Link: <a href="https://www.academia.edu/161291478/When_poignant_stories_outweigh_cold_hard_facts_A_meta_analysis_of_the_anecdotal_bias" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/161291478/When_poignant_stories_outweigh_cold_hard_facts_A_meta_analysis_of_the_anecdotal_bias</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>vidence is more persuasive-statistical or anecdotal information...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: factcheck.org  
-   Link: [https://www.factcheck.org/2023/02/scicheck-posts-falsely-claim-cdc-official-admitted-covid-19-vaccines-cause-debilitating-illnesses/](https://www.factcheck.org/2023/02/scicheck-posts-falsely-claim-cdc-official-admitted-covid-19-vaccines-cause-debilitating-illnesses/)  
+   Link: <a href="https://www.factcheck.org/2023/02/scicheck-posts-falsely-claim-cdc-official-admitted-covid-19-vaccines-cause-debilitating-illnesses/" target="_blank" rel="noopener noreferrer nofollow">https://www.factcheck.org/2023/02/scicheck-posts-falsely-claim-cdc-official-admitted-covid-19-vaccines-cause-debilitating-illnesses/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Posts Falsely Claim CDC Official Admitted COVID-19...20 Feb 2023 — “As an early warning system, VAERS cannot prove that a vaccine caused...</p></details>

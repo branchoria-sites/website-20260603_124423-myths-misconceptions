@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_influencer_source_cr_0dc5b4
 - Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_trusted_messenger_co_ba3df3
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - identity
 - expert-limits
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - identity
 - expert-limits
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A credible professional can accidentally lend authority to a false claim when they speak confidently beyond what they actually know.
 hero_summary: A credible professional can accidentally lend authority to a false claim when they speak confidently beyond what they actually know.
 layout: default
 permalink: /expert-limits/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /identity/
 nav_short_title: Expert Limits
 title: When experts are trusted for the wrong thing
-title_full: When experts are trusted for the wrong thing | Identity
+title_full: When experts are trusted for the wrong thing
 display_title_short: Expert Limits
 display_title: Expert Limits
 heading_title: When experts are trusted for the wrong thing
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Trusted People Make Myths Stick | Mythcraft
+parent_title: Why Trusted People Make Myths Stick
 parent_permalink: /identity/
 parent_nav_short_title: Identity
 parent_heading_title: Why Trusted People Make Myths Stick
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How corrections avoid sounding like attacks
 up_link:
   basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
@@ -259,7 +259,7 @@ next_link:
   permalink: /family-advice/
   short_title: Family Advice
   heading_title: Why family health myths feel so convincing
-date: '2026-06-09 05:19:30 '
+date: '2026-06-11 22:28:49 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_expertise_boundary_m_c6def4-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_expertise_boundary_m_c6def4-Illustration-1.webp
@@ -268,14 +268,12 @@ image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_ex
 
 ## Introduction
 
-A common misconception about expertise is that it travels intact from one subject to another. In reality, a person can be highly knowledgeable in one field and badly mistaken in another. Yet when a respected surgeon comments on economics, a famous physicist promotes a medical claim, or a successful entrepreneur explains history, audiences often carry over trust earned in one domain and apply it to a different one. This is one way myths survive: not because the speaker lacks ability, but because credibility becomes detached from the limits of their actual expertise. Research on source credibility consistently finds that people use cues such as expertise, trustworthiness and authority when deciding what to believe, especially when they cannot independently verify a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[Advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 14 — We searched Web of Science, Scopus, a...</span></span></span> ScienceDirect The risk is not that experts are useless guides. Modern societies depend on expertise. The problem appears when professional status is treate <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/social-sciences/source-credibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Source credibility</span><span class="citation-popover-snippet">ScienceDirectSource credibility - an overviewA source&#x27;s credibility rests on two major characteristics: expertise and trustworthiness...</span></span></span> d as a general licence to speak authoritatively on any subject. At that point, genuine expertise can unintentionally become a vehicle for misinformation.
-
+A common misconception about expertise is that it travels intact from one subject to another. In reality, a person can be highly knowledgeable in one field and badly mistaken in another. Yet when a respected surgeon comments on economics, a famous physicist promotes a medical claim, or a successful entrepreneur explains history, audiences often carry over trust earned in one domain and apply it to a different one. This is one way myths survive: not because the speaker lacks ability, but because credibility becomes detached from the limits of their actual expertise. Research on source credibility consistently finds that people use cues such as expertise, trustworthiness and authority when deciding what to believe, especially when they cannot independently verify a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[Advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 14 — We searched Web of Science, Scopus, a...</span></span></span> ScienceDirect The risk is not that experts are useless guides. Modern societies depend on expertise. The problem appears when professional status is treate <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/social-sciences/source-credibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Source credibility</span><span class="citation-popover-snippet">Source credibility - an overviewA source&#x27;s credibility rests on two major characteristics: expertise and trustworthiness...</span></span></span> d as a general licence to speak authoritatively on any subject. At that point, genuine expertise can unintentionally become a vehicle for misinformation.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_expertise_boundary_m_c6def4-Illustration-1-dark.svg" | relative_url }}" alt="Expert Limits illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_expertise_boundary_m_c6def4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_expertise_boundary_m_c6def4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Expertise versus trustworthiness
 
 People often combine two separate questions into one:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -297,7 +295,6 @@ Modern expertise is highly specialised. Scientific, medical and technical fields
 Outside observers often underestimate this specialisation because professional titles are broad and prestigious. The public sees "scientist", "doctor" or "professor", while practitioners themselves usually recognise numerous boundaries within those categories.
 
 The result is a recurring pattern: a credible professional speaks outside their specialty, audiences continue to trust them because of their status, and the claim gains more influence than it would have received from a non-expert making exactly the same argument.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G2oW21ac-Lk" title="Academia is BROKEN! Nobel-Prize Winner with Fake Results (Medicine)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G2oW21ac-Lk" target="_blank" rel="noopener noreferrer">Academia is BROKEN! Nobel-Prize Winner with Fake Results (Medicine)</a></p><p class="youtube-embed-meta">Channel: Pete Judo &middot; Views: 179.0K &middot; Uploaded: October 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G2oW21ac-Lk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G2oW21ac-Lk">Open on YouTube</a></p></div></div></div>
 
@@ -325,13 +322,12 @@ Even Nobel laureates themselves have warned about this tendency. According to ac
 
 The significance of these cases is not that experts sometimes make mistakes. Everyone does. The significance is that the public often treats prestigious credentials as universal evidence of authority. The myth gains strength not from the claim itself but from the reputation attached to it.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_expertise_boundary_m_c6def4-Illustration-2-dark.svg" | relative_url }}" alt="Expert Limits illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_expertise_boundary_m_c6def4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_expertise_boundary_m_c6def4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When myths become harder to correct
 
 False claims spread by respected experts can be unusually resilient because the [correction]({{ 'correction/' | relative_url }}) faces a credibility problem.
 
-Research on misinformation shows that source credibility influences how people evaluate both the original claim and later [corrections]({{ 'corrections/' | relative_url }}). Expertise and trustworthiness affect whether audiences update their beliefs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9718466/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby MW Susmann · 2022 · Cited by 24 — Past research suggests that the trustworthiness of a source issuing a retraction of misinformatio...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/social-sciences/source-credibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect Imagine two scenarios:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Source credibility</span><span class="citation-popover-snippet">ScienceDirectSource credibility - an overviewA source&#x27;s credibility rests on two major characteristics: expertise and trustworthiness...</span></span></span>
+Research on misinformation shows that source credibility influences how people evaluate both the original claim and later [corrections]({{ 'corrections/' | relative_url }}). Expertise and trustworthiness affect whether audiences update their beliefs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9718466/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by MW Susmann · 2022 · Cited by 24 — Past research suggests that the trustworthiness of a source issuing a retraction of misinformatio...</span></span></span> ScienceDirect Imagine two scenarios: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/social-sciences/source-credibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Source credibility</span><span class="citation-popover-snippet">Source credibility - an overviewA source&#x27;s credibility rests on two major characteristics: expertise and trustworthiness...</span></span></span>
 
 * An unsupported medical claim comes from an anonymous social-media account.
 * The same claim comes from a famous physician speaking outside their specialty.
@@ -341,7 +337,6 @@ The factual content is identical, but the second version is likely to receive gr
 Studies of misinformation correction suggest that highly credible sources can make misinformation more resistant to change. People often compare the status of the correcting source against the status of the original source rather than evaluating the correction in isolation. NYMCTU Academic Hub <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Birds of a feather are p...</span></span></span>
 
 This helps explain why expert-driven myths can linger. The audience may feel that rejecting the claim requires rejecting the authority figure who delivered it. Once trust becomes attached to the source, factual correction alone may not be enough.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JpMreN8dceE" title="Why Stupid People Think They’re Smart - The Dunning-Kruger Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JpMreN8dceE" target="_blank" rel="noopener noreferrer">Why Stupid People Think They’re Smart - The Dunning-Kruger Effect</a></p><p class="youtube-embed-meta">Channel: Philosophy Coded &middot; Views: 1.5M &middot; Uploaded: March 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JpMreN8dceE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JpMreN8dceE">Open on YouTube</a></p></div></div></div>
 
@@ -358,7 +353,6 @@ When evaluating a claim, identify the discipline that would normally investigate
 A claim about vaccine effectiveness belongs primarily to epidemiology, immunology and public-health research. A claim about economic growth belongs primarily to economics. A claim about historical events belongs primarily to historical scholarship.
 
 The key question is whether the speaker has recognised expertise in that specific area rather than whether they are impressive in general.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_expertise_boundary_m_c6def4-Illustration-3-dark.svg" | relative_url }}" alt="Expert Limits illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_expertise_boundary_m_c6def4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_expertise_boundary_m_c6def4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Look for specialist consensus
@@ -378,7 +372,6 @@ If the main reason a claim seems persuasive is that the person is famous, accomp
 Experts speaking within their field often acknowledge limits, caveats and unresolved questions. Overconfidence can be a warning sign, especially when discussing complex topics.
 
 Confidence alone is not evidence. In many technical domains, uncertainty is a normal feature of competent expertise rather than a sign of weakness.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xf7hBoWYAu0" title="Why Smart People Believe Stupid Things: Intellectual Humility vs. Dogmatism" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xf7hBoWYAu0" target="_blank" rel="noopener noreferrer">Why Smart People Believe Stupid Things: Intellectual Humility vs. Dogmatism</a></p><p class="youtube-embed-meta">Channel: Second Thoughts &middot; Views: 1.0K &middot; Uploaded: March 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xf7hBoWYAu0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xf7hBoWYAu0">Open on YouTube</a></p></div></div></div>
 
@@ -786,152 +779,152 @@ Many myths persist because audiences ask, "Is this person smart?" when the more 
 
 1. <a id="endnote-1"></a>
    Source: advances.in  
-   Link: [https://advances.in/psychology/10.56296/aip00028/](https://advances.in/psychology/10.56296/aip00028/)  
+   Link: <a href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/aip00028/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 14 — We searched Web of Science, Scopus, a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Source credibility  
-   Link: [https://www.sciencedirect.com/topics/social-sciences/source-credibility](https://www.sciencedirect.com/topics/social-sciences/source-credibility)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSource credibility - an overviewA source&#x27;s credibility rests on two major characteristics: expertise and trustworthiness...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/source-credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/source-credibility</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility - an overviewA source&#x27;s credibility rests on two major characteristics: expertise and trustworthiness...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: flanagin.faculty.comm.ucsb.edu  
-   Link: [https://flanagin.faculty.comm.ucsb.edu/CV/Hocevaretal2018%28E%29.pdf](https://flanagin.faculty.comm.ucsb.edu/CV/Hocevaretal2018%28E%29.pdf)  
+   Link: <a href="https://flanagin.faculty.comm.ucsb.edu/CV/Hocevaretal2018%28E%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flanagin.faculty.comm.ucsb.edu/CV/Hocevaretal2018%28E%29.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e trustworthiness and expertise, and the effect of credibility on changes in attitudes...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Source credibility  
-   Link: [https://en.wikipedia.org/wiki/Source_credibility](https://en.wikipedia.org/wiki/Source_credibility)  
+   Link: <a href="https://en.wikipedia.org/wiki/Source_credibility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Source_credibility</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Authority bias  
-   Link: [https://en.wikipedia.org/wiki/Authority_bias](https://en.wikipedia.org/wiki/Authority_bias)  
+   Link: <a href="https://en.wikipedia.org/wiki/Authority_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Authority_bias</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Authority biasAuthority bias is the tendency to attribute greater accuracy to the opinion of an authority figure (unrelated to its con...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dovetail.com  
    Title: what is authority bias  
-   Link: [https://dovetail.com/research/what-is-authority-bias/](https://dovetail.com/research/what-is-authority-bias/)  
+   Link: <a href="https://dovetail.com/research/what-is-authority-bias/" target="_blank" rel="noopener noreferrer nofollow">https://dovetail.com/research/what-is-authority-bias/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What you need to know about authority bias17 Jan 2024 — Authority bias is a tendency to attribute greater accuracy and truth to statement...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: english.swps.pl  
-   Link: [https://english.swps.pl/42-research/research-project-database/research-projects/2239-the-expertise-bias](https://english.swps.pl/42-research/research-project-database/research-projects/2239-the-expertise-bias)  
+   Link: <a href="https://english.swps.pl/42-research/research-project-database/research-projects/2239-the-expertise-bias" target="_blank" rel="noopener noreferrer nofollow">https://english.swps.pl/42-research/research-project-database/research-projects/2239-the-expertise-bias</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SWPS UniversityThe Expertise Bias: its psychological mechanisms, sources...The main goal of the present project will be to study how lay...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/jcmc/article/6/4/JCMC643/4584226](https://academic.oup.com/jcmc/article/6/4/JCMC643/4584226)  
+   Link: <a href="https://academic.oup.com/jcmc/article/6/4/JCMC643/4584226" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/6/4/JCMC643/4584226</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicCredibility Assessments of Online Health Informationby MS Eastin · 2001 · Cited by 610 — For example, as personal relevance i...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0306457324001079](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001079)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457324001079" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306457324001079</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>News sharing on UK social media: Misinformation, disinformation, and correction. Retrieved from. (2019). F. Chao et al. Causal inference...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Nobel disease  
-   Link: [https://en.wikipedia.org/wiki/Nobel_disease](https://en.wikipedia.org/wiki/Nobel_disease)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nobel_disease" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nobel_disease</a>  
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9718466/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9718466/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MW Susmann · 2022 · Cited by 24 — Past research suggests that the trustworthiness of a source issuing a retraction of misinformatio...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9718466/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9718466/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2022 · Cited by 24 — Past research suggests that the trustworthiness of a source issuing a retraction of misinformatio...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027725000307](https://www.sciencedirect.com/science/article/pii/S0010027725000307)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027725000307" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725000307</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>trustworthiness both had a positive effect on perceived reliability. These findings highlight the impact of source expertise when correct...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scholar.nycu.edu.tw  
    Title: credibility of misinformation source moderates the effectiveness  
-   Link: [https://scholar.nycu.edu.tw/en/publications/credibility-of-misinformation-source-moderates-the-effectiveness-/](https://scholar.nycu.edu.tw/en/publications/credibility-of-misinformation-source-moderates-the-effectiveness-/)  
+   Link: <a href="https://scholar.nycu.edu.tw/en/publications/credibility-of-misinformation-source-moderates-the-effectiveness-/" target="_blank" rel="noopener noreferrer nofollow">https://scholar.nycu.edu.tw/en/publications/credibility-of-misinformation-source-moderates-the-effectiveness-/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NYMCTU Academic HubCredibility of misinformation source moderates the...by HK Zeng · 2023 · Cited by 23 — To reduce perceived credibilit...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.3758/s13421-023-01402-w](https://link.springer.com/article/10.3758/s13421-023-01402-w)  
+   Link: <a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Birds of a feather are p...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/biases/authority-bias](https://thedecisionlab.com/biases/authority-bias)  
+   Link: <a href="https://thedecisionlab.com/biases/authority-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/authority-bias</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabAuthority BiasThe authority bias is a cognitive bias which refers to our tendency to be more influenced by the opinions a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: philosophy.stackexchange.com  
-   Link: [https://philosophy.stackexchange.com/questions/88666/fallacy-cognitive-bias-of-assuming-that-being-an-expert-in-one-field-makes-you-a](https://philosophy.stackexchange.com/questions/88666/fallacy-cognitive-bias-of-assuming-that-being-an-expert-in-one-field-makes-you-a)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/88666/fallacy-cognitive-bias-of-assuming-that-being-an-expert-in-one-field-makes-you-a" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/88666/fallacy-cognitive-bias-of-assuming-that-being-an-expert-in-one-field-makes-you-a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Stack ExchangeFallacy/Cognitive Bias of assuming that being an expert in...30 Dec 2021 — The belief that expertise is transit...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theknowledge.io  
    Title: The Expert is Always Right?  
-   Link: [https://theknowledge.io/authority-bias/](https://theknowledge.io/authority-bias/)  
+   Link: <a href="https://theknowledge.io/authority-bias/" target="_blank" rel="noopener noreferrer nofollow">https://theknowledge.io/authority-bias/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Authority Bias - by David Elikwu13 May 2022 — Authority bias is the tendency to believe an authoritative person&#x27;s methods, opinions, stra...</p></details>
    Published: May 2022  
 
 18. <a id="endnote-18"></a>
    Source: science.org  
    Title: potential fabrication research images threatens key theory alzheimers disease  
-   Link: [https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease)  
+   Link: <a href="https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blots on a field?21 Jul 2022 — A neuroscience image sleuth finds signs of fabrication in scores of Alzheimer&#x27;s articles, threatening a re...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: innerdrive.co.uk  
-   Link: [https://www.innerdrive.co.uk/blog/expertise-and-cognitive-biases/](https://www.innerdrive.co.uk/blog/expertise-and-cognitive-biases/)  
+   Link: <a href="https://www.innerdrive.co.uk/blog/expertise-and-cognitive-biases/" target="_blank" rel="noopener noreferrer nofollow">https://www.innerdrive.co.uk/blog/expertise-and-cognitive-biases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expertise and cognitive biases: 3 risks and what to do...Researchers found that, when people perceive themselves as experts, they are at...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: verdinejad.com  
-   Link: [https://verdinejad.com/en/wp-content/uploads/2020/04/Source-Credibility.pdf](https://verdinejad.com/en/wp-content/uploads/2020/04/Source-Credibility.pdf)  
+   Link: <a href="https://verdinejad.com/en/wp-content/uploads/2020/04/Source-Credibility.pdf" target="_blank" rel="noopener noreferrer nofollow">https://verdinejad.com/en/wp-content/uploads/2020/04/Source-Credibility.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Source CredibilityThis is because the recipient perceives no motive on the part of the communicator, and therefore judges the communicati...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2024/feb/03/the-situation-has-become-appalling-fake-scientific-papers-push-research-credibility-to-crisis-point](https://www.theguardian.com/science/2024/feb/03/the-situation-has-become-appalling-fake-scientific-papers-push-research-credibility-to-crisis-point)  
+   Link: <a href="https://www.theguardian.com/science/2024/feb/03/the-situation-has-become-appalling-fake-scientific-papers-push-research-credibility-to-crisis-point" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/feb/03/the-situation-has-become-appalling-fake-scientific-papers-push-research-credibility-to-crisis-point</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fake scientific papers push research credibility to crisis point3 Feb 2024 — Tens of thousands of bogus research papers are being publish...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/365966628_The_independent_effects_of_source_expertise_and_trustworthiness_on_retraction_believability_The_moderating_role_of_vested_interest](https://www.researchgate.net/publication/365966628_The_independent_effects_of_source_expertise_and_trustworthiness_on_retraction_believability_The_moderating_role_of_vested_interest)  
+   Link: <a href="https://www.researchgate.net/publication/365966628_The_independent_effects_of_source_expertise_and_trustworthiness_on_retraction_believability_The_moderating_role_of_vested_interest" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365966628_The_independent_effects_of_source_expertise_and_trustworthiness_on_retraction_believability_The_moderating_role_of_vested_interest</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The moderating role of vested interestDec 29, 2025 — Past research suggests that the trustworthiness of a source issuing a retraction of...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/todayilearned/comments/1htxgfc/til_about_nobel_disease_a_tendency_for_some_nobel/](https://www.reddit.com/r/todayilearned/comments/1htxgfc/til_about_nobel_disease_a_tendency_for_some_nobel/)  
+   Link: <a href="https://www.reddit.com/r/todayilearned/comments/1htxgfc/til_about_nobel_disease_a_tendency_for_some_nobel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1htxgfc/til_about_nobel_disease_a_tendency_for_some_nobel/</a>  
 
 24. <a id="endnote-24"></a>
    Source: blogs.bmj.com  
    Title: time to assume that health research is fraudulent until proved otherwise  
-   Link: [https://blogs.bmj.com/bmj/2021/07/05/time-to-assume-that-health-research-is-fraudulent-until-proved-otherwise/](https://blogs.bmj.com/bmj/2021/07/05/time-to-assume-that-health-research-is-fraudulent-until-proved-otherwise/)  
+   Link: <a href="https://blogs.bmj.com/bmj/2021/07/05/time-to-assume-that-health-research-is-fraudulent-until-proved-otherwise/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.bmj.com/bmj/2021/07/05/time-to-assume-that-health-research-is-fraudulent-until-proved-otherwise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to assume that health research is fraudulent until...5 Jul 2021 — We have now reached a point where those doing systematic reviews must...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: journals.sagepub.com  
    Title: The independent effects of source expertise and trustworthiness on retraction  
-   Link: [https://journals.sagepub.com/doi/10.1177/00332941261438080](https://journals.sagepub.com/doi/10.1177/00332941261438080)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/00332941261438080" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00332941261438080</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Believability of Social Media MisinformationMar 28, 2026 — What is unique about acceptance and correction of misinformation...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu  
-   Link: [https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/pubmed/21034761](https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/pubmed/21034761)  
+   Link: <a href="https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/pubmed/21034761" target="_blank" rel="noopener noreferrer nofollow">https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/pubmed/21034761</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>harvard.edu[https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard...No](https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard...No) information is available for this page...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: research.ed.ac.uk  
    Title: the effects of source expertise and trustworthiness on recollecti  
-   Link: [https://www.research.ed.ac.uk/en/publications/the-effects-of-source-expertise-and-trustworthiness-on-recollecti](https://www.research.ed.ac.uk/en/publications/the-effects-of-source-expertise-and-trustworthiness-on-recollecti)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Edinburgh ResearchThe effects of source expertise and trustworthiness on...by S Pluviano · 2020 · Cited by 65 — Experiment 2 revealed th...</p></details>
+   Link: <a href="https://www.research.ed.ac.uk/en/publications/the-effects-of-source-expertise-and-trustworthiness-on-recollecti" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/en/publications/the-effects-of-source-expertise-and-trustworthiness-on-recollecti</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>inburgh ResearchThe effects of source expertise and trustworthiness on...by S Pluviano · 2020 · Cited by 65 — Experiment 2 revealed th...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: theness.com  
    Title: beware the nobel laureate argument from authority  
-   Link: [https://theness.com/neurologicablog/beware-the-nobel-laureate-argument-from-authority/](https://theness.com/neurologicablog/beware-the-nobel-laureate-argument-from-authority/)  
+   Link: <a href="https://theness.com/neurologicablog/beware-the-nobel-laureate-argument-from-authority/" target="_blank" rel="noopener noreferrer nofollow">https://theness.com/neurologicablog/beware-the-nobel-laureate-argument-from-authority/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Jul 2010 — To me this is the perfect example of a brilliant scientist stepping outside his area of expertise and trying to apply the w...</p></details>

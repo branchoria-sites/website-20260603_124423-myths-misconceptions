@@ -9,29 +9,29 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_plumbing_blood_analo_e410b9
 - Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - analogies
 - historical-metaphors
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - analogies
 - historical-metaphors
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Persistent analogies in historical scientific discourse shaped methods and interpretations, sometimes embedding misconceptions into the field.
 hero_summary: Persistent analogies in historical scientific discourse shaped methods and interpretations, sometimes embedding misconceptions into the field.
 layout: default
 permalink: /historical-metaphors/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /analogies/
 nav_short_title: Historical Metaphors
-title: How 19th Century Analogies Skewed Scientific Thinking
-title_full: How 19th Century Analogies Skewed Scientific Thinking | Analogies
+title: How 19 th Century Analogies Skewed Scientific Thinking
+title_full: How 19 th Century Analogies Skewed Scientific Thinking
 display_title_short: Historical Metaphors
 display_title: Historical Metaphors
-heading_title: How 19th Century Analogies Skewed Scientific Thinking
-page_heading_title: How 19th Century Analogies Skewed Scientific Thinking
+heading_title: How 19 th Century Analogies Skewed Scientific Thinking
+page_heading_title: How 19 th Century Analogies Skewed Scientific Thinking
 source_count: 46
 infographic_count: 3
 planned_sections:
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Helpful Analogies Teach the Wrong Lesson | Mythcraft
+parent_title: When Helpful Analogies Teach the Wrong Lesson
 parent_permalink: /analogies/
 parent_nav_short_title: Analogies
 parent_heading_title: When Helpful Analogies Teach the Wrong Lesson
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Clear Framing Prevents Misleading Analogies in Education
 up_link:
   basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
@@ -265,7 +265,7 @@ next_link:
   permalink: /plumbing-analogy/
   short_title: Plumbing Analogy
   heading_title: How Plumbing Comparisons Misrepresent Blood Circulation
-date: '2026-06-09 05:33:25 '
+date: '2026-06-11 22:36:02 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_historical_science_m_ed604c-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_historical_science_m_ed604c-Illustration-1.webp
@@ -274,49 +274,43 @@ image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_hi
 
 ## Introduction
 
-In the **19th century**, the use of metaphor and analogy in scientific discourse was not merely rhetorical window‑dressing but a constitutive part of how researchers **conceived, conducted and interpreted their work**. At a time when many scientific disciplines were taking shape and disciplines such as physiology, anthropology and thermodynamics were grappling with poorly understood phenomena, metaphors drawn from familiar domains helped scientists make sense of the unfamiliar. However, some of these [analogies]({{ 'analogies/' | relative_url }}) became *entrenched* — taken for granted, woven into the logic of research and shaping methods and interpretations long after their utility had diminished. These figurative frameworks sometimes embedded **misleading assumptions**, subtly influencing 19th‑century scientific practice and leaving legacies that persisted beyond their original context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: direct.mit.edu">[MIT Press Direct]</a><span class="citation-popover" role="note"><span class="citation-popover-source">direct.mit.edu</span><span class="citation-popover-snippet">MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy | Perspectives on Science | MIT PressApril 1, 2019...</span><span class="citation-popover-meta">Published: April 1, 2019</span></span></span>
-
+In the **19th century**, the use of metaphor and analogy in scientific discourse was not merely rhetorical windowdressing but a constitutive part of how researchers **conceived, conducted and interpreted their work**. At a time when many scientific disciplines were taking shape and disciplines such as physiology, anthropology and thermodynamics were grappling with poorly understood phenomena, metaphors drawn from familiar domains helped scientists make sense of the unfamiliar. However, some of these [analogies]({{ 'analogies/' | relative_url }}) became *entrenched*  taken for granted, woven into the logic of research and shaping methods and interpretations long after their utility had diminished. These figurative frameworks sometimes embedded **misleading assumptions**, subtly influencing 19thcentury scientific practice and leaving legacies that persisted beyond their original context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: direct.mit.edu">[MIT Press Direct]</a><span class="citation-popover" role="note"><span class="citation-popover-source">direct.mit.edu</span><span class="citation-popover-snippet">MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy &#124; Perspectives on Science &#124; MIT PressApril 1, 2019...</span><span class="citation-popover-meta">Published: April 1, 2019</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_historical_science_m_ed604c-Illustration-1-dark.svg" | relative_url }}" alt="Historical Metaphors illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_historical_science_m_ed604c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_historical_science_m_ed604c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Examples from Human Variation Studies
 
-One of the most striking historical cases where entrenched metaphors influenced scientific research in the 19th century is found in studies of **human variation** — particularly in race and gender sciences. Historians such as Nancy Leys Stepan have shown that **analogical reasoning** was central to how scientists approached questions of human difference. In her influential work on analogy and science, Stepan analysed how metaphors imported from broader cultural discourse — especially those linking *race*, *gender* and *hierarchy* — became embedded in the logic of scientific inquiry itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/232652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">Race and Gender: The Role of Analogy in Science</span><span class="citation-popover-snippet">The question is, what part? I want to suggest that the metaphors functioned as the science itself-that.Read more...</span></span></span>
+One of the most striking historical cases where entrenched metaphors influenced scientific research in the 19th century is found in studies of **human variation**  particularly in race and gender sciences. Historians such as Nancy Leys Stepan have shown that **analogical reasoning** was central to how scientists approached questions of human difference. In her influential work on analogy and science, Stepan analysed how metaphors imported from broader cultural discourse  especially those linking *race*, *gender* and *hierarchy*  became embedded in the logic of scientific inquiry itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/232652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">Race and Gender: The Role of Analogy in Science</span><span class="citation-popover-snippet">The question is, what part? I want to suggest that the metaphors functioned as the science itself-that.Read more...</span></span></span>
 
-The metaphors that connected racial categories to qualities like intelligence, moral capacity or temperament were not neutral descriptive tools. Instead, they **functioned as constitutive elements of scientific reasoning**, guiding what questions were asked, what counted as relevant data, and how results were interpreted. These analogies often aligned neatly with prevailing **social hierarchies and prejudices**, reinforcing the idea that Caucasian males were inherently more rational, less prone to criminality, or sexually “normal” compared with women, non‑white groups, or social outcasts. In such contexts, metaphor did not merely illustrate research findings — it shaped the conceptual categories within which data were gathered and understood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: direct.mit.edu">[MIT Press Direct]</a><span class="citation-popover" role="note"><span class="citation-popover-source">direct.mit.edu</span><span class="citation-popover-snippet">MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy | Perspectives on Science | MIT PressApril 1, 2019...</span><span class="citation-popover-meta">Published: April 1, 2019</span></span></span>
+The metaphors that connected racial categories to qualities like intelligence, moral capacity or temperament were not neutral descriptive tools. Instead, they **functioned as constitutive elements of scientific reasoning**, guiding what questions were asked, what counted as relevant data, and how results were interpreted. These analogies often aligned neatly with prevailing **social hierarchies and prejudices**, reinforcing the idea that Caucasian males were inherently more rational, less prone to criminality, or sexually normal compared with women, nonwhite groups, or social outcasts. In such contexts, metaphor did not merely illustrate research findings  it shaped the conceptual categories within which data were gathered and understood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: direct.mit.edu">[MIT Press Direct]</a><span class="citation-popover" role="note"><span class="citation-popover-source">direct.mit.edu</span><span class="citation-popover-snippet">MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy &#124; Perspectives on Science &#124; MIT PressApril 1, 2019...</span><span class="citation-popover-meta">Published: April 1, 2019</span></span></span>
 
-Because these analogical frameworks were deeply familiar and widely accepted within professional communities, they became **entrenched**: scientists unconsciously adopted them as literal truths that structured both methodology and interpretation. Observations consistent with the metaphor were emphasised, while evidence that contradicted it was overlooked or reinterpreted, reinforcing a cycle in which metaphor shaped research outcomes and research outcomes reinforced metaphor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: direct.mit.edu">[MIT Press Direct]</a><span class="citation-popover" role="note"><span class="citation-popover-source">direct.mit.edu</span><span class="citation-popover-snippet">MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy | Perspectives on Science | MIT PressApril 1, 2019...</span><span class="citation-popover-meta">Published: April 1, 2019</span></span></span>
-
+Because these analogical frameworks were deeply familiar and widely accepted within professional communities, they became **entrenched**: scientists unconsciously adopted them as literal truths that structured both methodology and interpretation. Observations consistent with the metaphor were emphasised, while evidence that contradicted it was overlooked or reinterpreted, reinforcing a cycle in which metaphor shaped research outcomes and research outcomes reinforced metaphor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: direct.mit.edu">[MIT Press Direct]</a><span class="citation-popover" role="note"><span class="citation-popover-source">direct.mit.edu</span><span class="citation-popover-snippet">MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy &#124; Perspectives on Science &#124; MIT PressApril 1, 2019...</span><span class="citation-popover-meta">Published: April 1, 2019</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VpiLucwH-AQ" title="Thermodynamics: Crash Course History of Science #26" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VpiLucwH-AQ" target="_blank" rel="noopener noreferrer">Thermodynamics: Crash Course History of Science #26</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 336.9K &middot; Uploaded: October 2018 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VpiLucwH-AQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VpiLucwH-AQ">Open on YouTube</a></p></div></div></div>
 
 ## Impact on Research Methods
 
-Beyond the social sciences, metaphorical concepts also fed into **empirical methods and explanatory models** in the natural sciences. One longstanding example from physics and thermodynamics was the **caloric theory of heat**. In this theory — influential into the first half of the 19th century — heat was conceived as a **subtle fluid** that flowed from hotter to cooler bodies. This fluid‑like metaphor made sense of observable phenomena such as heat transfer and thermal expansion within a familiar physical image: a substance that could be carried, stored and conserved.[Wikipedia]
+Beyond the social sciences, metaphorical concepts also fed into **empirical methods and explanatory models** in the natural sciences. One longstanding example from physics and thermodynamics was the **caloric theory of heat**. In this theory  influential into the first half of the 19th century  heat was conceived as a **subtle fluid** that flowed from hotter to cooler bodies. This fluidlike metaphor made sense of observable phenomena such as heat transfer and thermal expansion within a familiar physical image: a substance that could be carried, stored and conserved.[Wikipedia]
 
-The caloric metaphor shaped the design and interpretation of experiments for decades, guiding researchers to use the fluid model as the substantive foundation of thermal science. Even when contradictory evidence emerged — for example, Count Rumford’s experiments on cannon‑boring that generated seemingly unlimited heat incompatible with a conserved fluid — proponents of the caloric metaphor initially tried to absorb these results into the existing framework rather than revise the metaphor outright.NYAS - The New York Academy of Sciences <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nyas.org/ideas-insights/blog/exploring-the-science-and-history-of-thermodynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nyas.org">[nyas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nyas.org</span><span class="citation-popover-snippet">NYAS - The New York Academy of SciencesExploring the Science and History of ThermodynamicsMay 1, 2006 — 1 May 2006 — Eighteenth-century p...</span><span class="citation-popover-meta">Published: May 1, 2006</span></span></span>
+The caloric metaphor shaped the design and interpretation of experiments for decades, guiding researchers to use the fluid model as the substantive foundation of thermal science. Even when contradictory evidence emerged  for example, Count Rumfords experiments on cannonboring that generated seemingly unlimited heat incompatible with a conserved fluid  proponents of the caloric metaphor initially tried to absorb these results into the existing framework rather than revise the metaphor outright.NYAS - The New York Academy of Sciences <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nyas.org/ideas-insights/blog/exploring-the-science-and-history-of-thermodynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nyas.org">[nyas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nyas.org</span><span class="citation-popover-snippet">The New York Academy of SciencesExploring the Science and History of ThermodynamicsMay 1, 2006  1 May 2006  Eighteenth-century p...</span><span class="citation-popover-meta">Published: May 1, 2006</span></span></span>
 
-Similarly, biology and physiology in the 19th century repeatedly borrowed metaphors from **mechanics** and **machines**. Organisms were often analogised to machines whose parts worked like levers, pulleys or engines; tissues were conceived as materials subjected to mechanical forces; nerves were imagined as conductive wires. These metaphors carried implications for research methods: measurement strategies were chosen, instruments designed and hypotheses framed on the assumption that biological processes behaved like mechanical counterparts. This *machine metaphor* helped make nascent disciplines seem rigorous and systematic, but it also **constrained researchers’ attention to aspects of phenomena that conformed to mechanistic expectations** while downplaying emergent biological properties that did not fit neatly into this paradigm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fountainmagazine.com/all-issues/2002/issue-40-october-december-2002/metaphors-in-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fountainmagazine.com">[fountainmagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fountainmagazine.com</span><span class="citation-popover-snippet">Metaphors in ScienceFrom the seventeenth to the nineteenth centuries, the dominant metaphor was the machine metaphor: The world is a mach...</span></span></span>
-
+Similarly, biology and physiology in the 19th century repeatedly borrowed metaphors from **mechanics** and **machines**. Organisms were often analogised to machines whose parts worked like levers, pulleys or engines; tissues were conceived as materials subjected to mechanical forces; nerves were imagined as conductive wires. These metaphors carried implications for research methods: measurement strategies were chosen, instruments designed and hypotheses framed on the assumption that biological processes behaved like mechanical counterparts. This *machine metaphor* helped make nascent disciplines seem rigorous and systematic, but it also **constrained researchers attention to aspects of phenomena that conformed to mechanistic expectations** while downplaying emergent biological properties that did not fit neatly into this paradigm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fountainmagazine.com/all-issues/2002/issue-40-october-december-2002/metaphors-in-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fountainmagazine.com">[fountainmagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fountainmagazine.com</span><span class="citation-popover-snippet">Metaphors in ScienceFrom the seventeenth to the nineteenth centuries, the dominant metaphor was the machine metaphor: The world is a mach...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_historical_science_m_ed604c-Illustration-2-dark.svg" | relative_url }}" alt="Historical Metaphors illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_historical_science_m_ed604c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_historical_science_m_ed604c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Lessons for Modern Science Education
 
-The historical entrenchment of scientific metaphors in 19th‑century research offers important lessons for contemporary science education and research practice. First, it highlights how metaphorical frameworks — especially when they are culturally resonant or socially popular — can shape not only communication but the very **cognitive structures** that guide inquiry. Metaphors, once internalised, can condition researchers to overlook alternative explanations or to interpret ambiguous data in ways that reinforce the metaphor itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: direct.mit.edu">[MIT Press Direct]</a><span class="citation-popover" role="note"><span class="citation-popover-source">direct.mit.edu</span><span class="citation-popover-snippet">MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy | Perspectives on Science | MIT PressApril 1, 2019...</span><span class="citation-popover-meta">Published: April 1, 2019</span></span></span>
+The historical entrenchment of scientific metaphors in 19thcentury research offers important lessons for contemporary science education and research practice. First, it highlights how metaphorical frameworks  especially when they are culturally resonant or socially popular  can shape not only communication but the very **cognitive structures** that guide inquiry. Metaphors, once internalised, can condition researchers to overlook alternative explanations or to interpret ambiguous data in ways that reinforce the metaphor itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: direct.mit.edu">[MIT Press Direct]</a><span class="citation-popover" role="note"><span class="citation-popover-source">direct.mit.edu</span><span class="citation-popover-snippet">MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy &#124; Perspectives on Science &#124; MIT PressApril 1, 2019...</span><span class="citation-popover-meta">Published: April 1, 2019</span></span></span>
 
-Second, recognising the **constructed nature of metaphors** encourages critical reflection on the choice of analogies in pedagogy and research communication today. While metaphors remain indispensable for explaining complex ideas, educators and scientists must signal their **limits explicitly**, cautioning learners and colleagues about where the analogy breaks down. This reflexivity helps prevent the uncritical adoption of analogies as literal models, which can otherwise distort understanding in ways that mirror 19th‑century cases.
+Second, recognising the **constructed nature of metaphors** encourages critical reflection on the choice of analogies in pedagogy and research communication today. While metaphors remain indispensable for explaining complex ideas, educators and scientists must signal their **limits explicitly**, cautioning learners and colleagues about where the analogy breaks down. This reflexivity helps prevent the uncritical adoption of analogies as literal models, which can otherwise distort understanding in ways that mirror 19thcentury cases.
 
-Finally, historical perspective suggests that researchers should seek **plurality in models and metaphors** rather than reliance on a single dominant analogy. By engaging multiple conceptual frameworks and comparing where they diverge, scientific communities can guard against the kind of entrenchment that historically skewed research programs toward preconceived assumptions rather than open‑ended inquiry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: direct.mit.edu">[MIT Press Direct]</a><span class="citation-popover" role="note"><span class="citation-popover-source">direct.mit.edu</span><span class="citation-popover-snippet">MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy | Perspectives on Science | MIT PressApril 1, 2019...</span><span class="citation-popover-meta">Published: April 1, 2019</span></span></span>
-
+Finally, historical perspective suggests that researchers should seek **plurality in models and metaphors** rather than reliance on a single dominant analogy. By engaging multiple conceptual frameworks and comparing where they diverge, scientific communities can guard against the kind of entrenchment that historically skewed research programs toward preconceived assumptions rather than openended inquiry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: direct.mit.edu">[MIT Press Direct]</a><span class="citation-popover" role="note"><span class="citation-popover-source">direct.mit.edu</span><span class="citation-popover-snippet">MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy &#124; Perspectives on Science &#124; MIT PressApril 1, 2019...</span><span class="citation-popover-meta">Published: April 1, 2019</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YvtCLceNf30" title="Intro to History of Science: Crash Course History of Science #1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YvtCLceNf30" target="_blank" rel="noopener noreferrer">Intro to History of Science: Crash Course History of Science #1</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 1.2M &middot; Uploaded: March 2018 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YvtCLceNf30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YvtCLceNf30">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UdQreBq6MOY" title="The Scientific Methods: Crash Course History of Science #14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UdQreBq6MOY" target="_blank" rel="noopener noreferrer">The Scientific Methods: Crash Course History of Science #14</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 866.3K &middot; Uploaded: July 2018 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UdQreBq6MOY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UdQreBq6MOY">Open on YouTube</a></p></div></div></div>
 
 ## Conclusion
 
-In 19th‑century science, metaphors were not peripheral flourishes but **central organising elements** in how researchers thought, acted and interpreted their work. From racial analogies in human variation studies to fluid and machine metaphors in physics and biology, these figurative frameworks shaped research methods and outcomes in ways that could mislead as much as they clarified. Understanding these historical patterns highlights the enduring power of metaphor in science — and the importance of critical awareness to prevent similar entrenchments from distorting inquiry today.<span class="citation-chip-wrap"><a class="citation-chip" href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: direct.mit.edu">[MIT Press Direct]</a><span class="citation-popover" role="note"><span class="citation-popover-source">direct.mit.edu</span><span class="citation-popover-snippet">MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy | Perspectives on Science | MIT PressApril 1, 2019...</span><span class="citation-popover-meta">Published: April 1, 2019</span></span></span>
-
+In 19thcentury science, metaphors were not peripheral flourishes but **central organising elements** in how researchers thought, acted and interpreted their work. From racial analogies in human variation studies to fluid and machine metaphors in physics and biology, these figurative frameworks shaped research methods and outcomes in ways that could mislead as much as they clarified. Understanding these historical patterns highlights the enduring power of metaphor in science  and the importance of critical awareness to prevent similar entrenchments from distorting inquiry today.<span class="citation-chip-wrap"><a class="citation-chip" href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: direct.mit.edu">[MIT Press Direct]</a><span class="citation-popover" role="note"><span class="citation-popover-source">direct.mit.edu</span><span class="citation-popover-snippet">MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy &#124; Perspectives on Science &#124; MIT PressApril 1, 2019...</span><span class="citation-popover-meta">Published: April 1, 2019</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_historical_science_m_ed604c-Illustration-3-dark.svg" | relative_url }}" alt="Historical Metaphors illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_historical_science_m_ed604c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_historical_science_m_ed604c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -354,7 +348,7 @@ In 19th‑century science, metaphors were not peripheral flourishes but **centra
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Mismeasure+of+Man+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mismeasure of Man">The Mismeasure of Man</a>
         </h4>
-        <p class="fr-book-author">By Stephen Jay Gould, JoandomÃ¨nec Ros et al.</p>
+        <p class="fr-book-author">By Stephen Jay Gould, Joandomènec Ros et al.</p>
         
         <p class="fr-book-desc">First published 1981. Subjects: History, Craniometry, Ability, Testing, Intelligence tests.</p>
         <div class="fr-book-actions">
@@ -716,110 +710,110 @@ In 19th‑century science, metaphors were not peripheral flourishes but **centra
 
 1. <a id="endnote-1"></a>
    Source: direct.mit.edu  
-   Link: [https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained](https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained)  
+   Link: <a href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy | Perspectives on Science | MIT PressApril 1, 2019...</p></details>
    Published: April 1, 2019  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Caloric theory  
-   Link: [https://en.wikipedia.org/wiki/Caloric_theory](https://en.wikipedia.org/wiki/Caloric_theory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Caloric_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caloric_theory</a>  
 
 3. <a id="endnote-3"></a>
    Source: jstor.org  
    Title: Race and Gender: The Role of Analogy in Science  
-   Link: [https://www.jstor.org/stable/232652](https://www.jstor.org/stable/232652)  
+   Link: <a href="https://www.jstor.org/stable/232652" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/232652</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The question is, what part? I want to suggest that the metaphors functioned as the science itself-that.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nyas.org  
-   Link: [https://www.nyas.org/ideas-insights/blog/exploring-the-science-and-history-of-thermodynamics/](https://www.nyas.org/ideas-insights/blog/exploring-the-science-and-history-of-thermodynamics/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NYAS - The New York Academy of SciencesExploring the Science and History of ThermodynamicsMay 1, 2006 — 1 May 2006 — Eighteenth-century p...</p></details>
+   Link: <a href="https://www.nyas.org/ideas-insights/blog/exploring-the-science-and-history-of-thermodynamics/" target="_blank" rel="noopener noreferrer nofollow">https://www.nyas.org/ideas-insights/blog/exploring-the-science-and-history-of-thermodynamics/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The New York Academy of SciencesExploring the Science and History of ThermodynamicsMay 1, 2006  1 May 2006  Eighteenth-century p...</p></details>
    Published: May 1, 2006  
 
 5. <a id="endnote-5"></a>
    Source: fountainmagazine.com  
-   Link: [https://fountainmagazine.com/all-issues/2002/issue-40-october-december-2002/metaphors-in-science/](https://fountainmagazine.com/all-issues/2002/issue-40-october-december-2002/metaphors-in-science/)  
+   Link: <a href="https://fountainmagazine.com/all-issues/2002/issue-40-october-december-2002/metaphors-in-science/" target="_blank" rel="noopener noreferrer nofollow">https://fountainmagazine.com/all-issues/2002/issue-40-october-december-2002/metaphors-in-science/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metaphors in ScienceFrom the seventeenth to the nineteenth centuries, the dominant metaphor was the machine metaphor: The world is a mach...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: direct.mit.edu  
    Title: Scientific Inquiry From Metaphors to Abstraction  
-   Link: [https://direct.mit.edu/posc/article/31/2/233/112754/Scientific-Inquiry-From-Metaphors-to-Abstraction](https://direct.mit.edu/posc/article/31/2/233/112754/Scientific-Inquiry-From-Metaphors-to-Abstraction)  
+   Link: <a href="https://direct.mit.edu/posc/article/31/2/233/112754/Scientific-Inquiry-From-Metaphors-to-Abstraction" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/posc/article/31/2/233/112754/Scientific-Inquiry-From-Metaphors-to-Abstraction</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE ANIMAL LEYDEN JAR At the end of the eighteenth century, Luigi Galvani discovered that a dissected frog leg contracts when the nerve a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: direct.mit.edu  
    Title: posc a 00303  
-   Link: [https://direct.mit.edu/posc/article-pdf/27/2/153/1790756/posc_a_00303.pdf](https://direct.mit.edu/posc/article-pdf/27/2/153/1790756/posc_a_00303.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Metaphor: The Problem of Ingrained Analogyby A Sullivan-Clarke · 2019 · Cited by 20 — Nancy Leys Stepan&#x27;s historical analysis of the a...</p></details>
+   Link: <a href="https://direct.mit.edu/posc/article-pdf/27/2/153/1790756/posc_a_00303.pdf" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/posc/article-pdf/27/2/153/1790756/posc_a_00303.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Metaphor: The Problem of Ingrained Analogyby A Sullivan-Clarke  2019  Cited by 20  Nancy Leys Stepan&#x27;s historical analysis of the a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Nancy Stepan  
-   Link: [https://en.wikipedia.org/wiki/Nancy_Stepan](https://en.wikipedia.org/wiki/Nancy_Stepan)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nancy_Stepan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nancy_Stepan</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nancy StepanHer research focuses on the history of science in Latin America and the importance of scientific research in the tropics.R...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/science/caloric-theory](https://www.britannica.com/science/caloric-theory)  
+   Link: <a href="https://www.britannica.com/science/caloric-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/caloric-theory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caloric theory | Heat, Energy, TemperatureThe idea of an imaginary fluid to represent heat helped explain many but not all aspects of hea...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: journals.uchicago.edu  
-   Link: [https://www.journals.uchicago.edu/doi/pdfplus/10.1086/354130](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/354130)  
+   Link: <a href="https://www.journals.uchicago.edu/doi/pdfplus/10.1086/354130" target="_blank" rel="noopener noreferrer nofollow">https://www.journals.uchicago.edu/doi/pdfplus/10.1086/354130</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago JournalsRace and Gender: The Role of Analogy in ScienceWhen scientists in the nineteenth century, then, proposed an analogy betwe...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: science-education-research.com  
-   Link: [https://science-education-research.com/public-science/examples-of-science-metaphors/](https://science-education-research.com/public-science/examples-of-science-metaphors/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples of science metaphorsMost of these examples are metaphors for scientific concepts – but sometimes referents from science and tech...</p></details>
+   Link: <a href="https://science-education-research.com/public-science/examples-of-science-metaphors/" target="_blank" rel="noopener noreferrer nofollow">https://science-education-research.com/public-science/examples-of-science-metaphors/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples of science metaphorsMost of these examples are metaphors for scientific concepts  but sometimes referents from science and tech...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0166223697011016](https://www.sciencedirect.com/science/article/pii/S0166223697011016)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOctober 1, 1997 — Trends in Neurosciences Volume 20, Issue 10, 1 October 1997, Pages 443-448 LUIGI GALVANI AND ANIMAL ELECTR...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0166223697011016" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0166223697011016</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 1997  Trends in Neurosciences Volume 20, Issue 10, 1 October 1997, Pages 443-448 LUIGI GALVANI AND ANIMAL ELECTR...</p></details>
    Published: October 1, 1997  
 
 13. <a id="endnote-13"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/physical-models-and-physiological-concepts-explanation-in-nineteenthcentury-biology/85DBFC0E77FA49792AB19FC59F694A45](https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/physical-models-and-physiological-concepts-explanation-in-nineteenthcentury-biology/85DBFC0E77FA49792AB19FC59F694A45)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge CoreJanuary 5, 2009 — PHYSICAL MODELS AND PHYSIOLOGICAL CONCEPTS: EXPLANATION IN NINETEENTH-CENTURY BIOLOGY* Published online b...</p></details>
+   Link: <a href="https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/physical-models-and-physiological-concepts-explanation-in-nineteenthcentury-biology/85DBFC0E77FA49792AB19FC59F694A45" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/physical-models-and-physiological-concepts-explanation-in-nineteenthcentury-biology/85DBFC0E77FA49792AB19FC59F694A45</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge CoreJanuary 5, 2009  PHYSICAL MODELS AND PHYSIOLOGICAL CONCEPTS: EXPLANATION IN NINETEENTH-CENTURY BIOLOGY* Published online b...</p></details>
    Published: January 5, 2009  
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/229634261_Race_Gender_Science_and_Citizenship](https://www.researchgate.net/publication/229634261_Race_Gender_Science_and_Citizenship)  
+   Link: <a href="https://www.researchgate.net/publication/229634261_Race_Gender_Science_and_Citizenship" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/229634261_Race_Gender_Science_and_Citizenship</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Race, Gender, Science and CitizenshipThis paper argues that the history of embodiment of human racial and gendered differences must be se...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1369848617301334](https://www.sciencedirect.com/science/article/pii/S1369848617301334)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSTUDIES IN HISTORY AND PHILOSOPHY OF SCIENCE PART C: STUDIES IN HISTORY AND PHILOSOPHY OF BIOLOGICAL AND BIOMEDICAL SCIENCES...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1369848617301334" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1369848617301334</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>STUDIES IN HISTORY AND PHILOSOPHY OF SCIENCE PART C: STUDIES IN HISTORY AND PHILOSOPHY OF BIOLOGICAL AND BIOMEDICAL SCIENCES...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/science-in-context/article/physiology-and-philhellenism-in-the-late-nineteenth-century-the-selffashioning-of-emil-du-boisreymond/41EDA6E1FC05565B0A2EEE01C0158BE5](https://www.cambridge.org/core/journals/science-in-context/article/physiology-and-philhellenism-in-the-late-nineteenth-century-the-selffashioning-of-emil-du-boisreymond/41EDA6E1FC05565B0A2EEE01C0158BE5)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CoreOctober 2, 2020 — PHYSIOLOGY AND PHILHELLENISM IN THE LATE NINETEENTH CENTURY: THE SELF-FASHIONING OF EMIL DU BOIS-REYMOND Published...</p></details>
+   Link: <a href="https://www.cambridge.org/core/journals/science-in-context/article/physiology-and-philhellenism-in-the-late-nineteenth-century-the-selffashioning-of-emil-du-boisreymond/41EDA6E1FC05565B0A2EEE01C0158BE5" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/science-in-context/article/physiology-and-philhellenism-in-the-late-nineteenth-century-the-selffashioning-of-emil-du-boisreymond/41EDA6E1FC05565B0A2EEE01C0158BE5</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CoreOctober 2, 2020  PHYSIOLOGY AND PHILHELLENISM IN THE LATE NINETEENTH CENTURY: THE SELF-FASHIONING OF EMIL DU BOIS-REYMOND Published...</p></details>
    Published: October 2, 2020  
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
    Title: On the Problem and Promise of Metaphor Use in Science and Science Communication  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S1935787718000618](https://www.sciencedirect.com/org/science/article/pii/S1935787718000618)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectFebruary 16, 2018 — METAPHORS AS SOCIOPOLITICAL MESSENGERS In the United States, many of the metaphors we use to talk about...</p></details>
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1935787718000618" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1935787718000618</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 16, 2018  METAPHORS AS SOCIOPOLITICAL MESSENGERS In the United States, many of the metaphors we use to talk about...</p></details>
    Published: February 16, 2018  
 
 18. <a id="endnote-18"></a>
    Source: koha.ihs.ac.at  
-   Link: [https://koha.ihs.ac.at/cgi-bin/koha/opac-detail.pl?biblionumber=55930](https://koha.ihs.ac.at/cgi-bin/koha/opac-detail.pl?biblionumber=55930)  
+   Link: <a href="https://koha.ihs.ac.at/cgi-bin/koha/opac-detail.pl?biblionumber=55930" target="_blank" rel="noopener noreferrer nofollow">https://koha.ihs.ac.at/cgi-bin/koha/opac-detail.pl?biblionumber=55930</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>stepan n. l..race and gender: the role of analogy in science.:.; Chicago. stepan nancy leys.race and...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
    Title: Disputed discovery: vivisection and experiment in the 19th century  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0160932706000585](https://www.sciencedirect.com/science/article/abs/pii/S0160932706000585)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectENDEAVOUR Volume 30, Issue 3, September 2006, Pages 98-102 Review Disputed discovery: vivisection and experiment in the 19^{...</p></details>
-   Published: September 2006  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0160932706000585" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0160932706000585</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENDEAVOUR Volume 30, Issue 3, September 2006, Pages 98-102 Review Disputed discovery: vivisection and experiment in the 19^{...</p></details>
+   Published: September 2006

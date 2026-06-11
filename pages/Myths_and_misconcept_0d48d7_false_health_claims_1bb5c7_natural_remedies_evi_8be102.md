@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835
 - Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_vaccine_parental_pro_92a806
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - health-claims
 - natural-remedies
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - health-claims
 - natural-remedies
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Natural remedy claims can sound gentle and harmless, even when they create false confidence or delay useful care.
 hero_summary: Natural remedy claims can sound gentle and harmless, even when they create false confidence or delay useful care.
 layout: default
 permalink: /natural-remedies/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /health-claims/
 nav_short_title: Natural Remedies
 title: When Natural Sounds Safer Than Evidence
-title_full: When Natural Sounds Safer Than Evidence | Health Claims
+title_full: When Natural Sounds Safer Than Evidence
 display_title_short: Natural Remedies
 display_title: Natural Remedies
 heading_title: When Natural Sounds Safer Than Evidence
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Helpful Health Advice Can Be Wrong | Mythcraft
+parent_title: Why Helpful Health Advice Can Be Wrong
 parent_permalink: /health-claims/
 parent_nav_short_title: Health Claims
 parent_heading_title: Why Helpful Health Advice Can Be Wrong
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Vaccine Myths Feel Protective to Parents
 up_link:
   basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
@@ -265,7 +265,7 @@ next_link:
   permalink: /urgent-warnings/
   short_title: Urgent Warnings
   heading_title: Why Urgent Health Warnings Spread So Fast
-date: '2026-06-09 04:47:11 '
+date: '2026-06-11 22:12:53 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_natural_remedies_evi_8be102-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_natural_remedies_evi_8be102-Illustration-1.webp
@@ -274,19 +274,18 @@ image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_nat
 
 ## Introduction
 
-Natural remedies often sound safer than medical treatments because they are associated with plants, traditional practices, home care and the idea of working “with nature” rather than against it. In health misinformation, that emotional appeal can become powerful. A social media post may present a herbal supplement, detox drink, essential oil or restrictive diet as gentle and protective while describing medicines as harsh, toxic or unnatural. The result is not always immediate harm. More often, it is false [confidence]({{ 'confidence/' | relative_url }}): the feeling that a remedy is solving a problem when there is little evidence that it can. In some situations, that confidence can delay diagnosis, postpone effective treatment or create dangerous interactions with prescribed medicines. [Health myths]({{ 'health-myths/' | relative_url }}) built around “natural” solutions are especially persuasive because they often begin with a genuine desire to help. Yet the word natural is not evidence, and it does not reliably predict safety or effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">NCCIHNatural Doesn&#x27;t Necessarily Mean Safer, or Better | NCCIHAnd “natural” medicines, contrary to what many may think, are not without s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Keep in mind that “natural” does not necessarily mean “safe.” (Think of...Read more...</span></span></span>
-
+Natural remedies often sound safer than medical treatments because they are associated with plants, traditional practices, home care and the idea of working “with nature” rather than against it. In health misinformation, that emotional appeal can become powerful. A social media post may present a herbal supplement, detox drink, essential oil or restrictive diet as gentle and protective while describing medicines as harsh, toxic or unnatural. The result is not always immediate harm. More often, it is false [confidence]({{ 'confidence/' | relative_url }}): the feeling that a remedy is solving a problem when there is little evidence that it can. In some situations, that confidence can delay diagnosis, postpone effective treatment or create dangerous interactions with prescribed medicines. [Health myths]({{ 'health-myths/' | relative_url }}) built around “natural” solutions are especially persuasive because they often begin with a genuine desire to help. Yet the word natural is not evidence, and it does not reliably predict safety or effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Natural Doesn&#x27;t Necessarily Mean Safer, or Better &#124; NCCIHAnd “natural” medicines, contrary to what many may think, are not without s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Keep in mind that “natural” does not necessarily mean “safe.” (Think of...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_natural_remedies_evi_8be102-Illustration-1-dark.svg" | relative_url }}" alt="Natural Remedies illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_natural_remedies_evi_8be102-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_natural_remedies_evi_8be102-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Natural Claims Feel Reassuring
 
 The appeal of natural remedies is not simply about science. It is also about emotion, [identity]({{ 'identity/' | relative_url }}) and trust.
 
-Many people instinctively associate natural things with purity, simplicity and lower risk. A herbal tea seems gentler than a pharmaceutical tablet. A plant extract sounds less threatening than a chemical name. Marketing frequently reinforces this reaction by using words such as “clean”, “traditional”, “holistic” or “ancient”. Yet many natural substances are biologically active chemicals, and some are powerful enough to cause serious side effects. The U.S. National Center for Complementary and Integrative Health (NCCIH) notes that natural products can produce adverse effects and should not automatically be assumed to be safer than conventional medicines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/dietary-and-herbal-supplements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHDietary and Herbal Supplements | NCCIH</span><span class="citation-popover-snippet">Many dietary supplements...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHHerb-Drug Interactions | NCCIH</span><span class="citation-popover-snippet">nih.govHerb-Drug Interactions | NCCIH - NIHInteractions may occur between prescription drugs, over-the-counter drugs, dietary supplements...</span></span></span>
+Many people instinctively associate natural things with purity, simplicity and lower risk. A herbal tea seems gentler than a pharmaceutical tablet. A plant extract sounds less threatening than a chemical name. Marketing frequently reinforces this reaction by using words such as “clean”, “traditional”, “holistic” or “ancient”. Yet many natural substances are biologically active chemicals, and some are powerful enough to cause serious side effects. The U.S. National Center for Complementary and Integrative Health (NCCIH) notes that natural products can produce adverse effects and should not automatically be assumed to be safer than conventional medicines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/dietary-and-herbal-supplements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHDietary and Herbal Supplements &#124; NCCIH</span><span class="citation-popover-snippet">Many dietary supplements...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHHerb-Drug Interactions &#124; NCCIH</span><span class="citation-popover-snippet">nih.govHerb-Drug Interactions &#124; NCCIH - NIHInteractions may occur between prescription drugs, over-the-counter drugs, dietary supplements...</span></span></span>
 
-Natural-remedy stories also feel more personal than scientific evidence. A post saying “this herb helped my anxiety” or “this diet cured my symptoms” gives readers a human narrative with a clear emotional arc. Clinical evidence often sounds less satisfying because it speaks in probabilities, averages and uncertainty. The contrast can make personal testimony seem more trustworthy than studies, even when the testimony cannot show what actually caused the improvement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9958238/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExamining the evidence for health-related claims made</span><span class="citation-popover-snippet">PMCby V Nguyen · 2022 · Cited by 13 — With few legal regulations governing the distribution of poor-quality information, social media pro...</span></span></span>
+Natural-remedy stories also feel more personal than scientific evidence. A post saying “this herb helped my anxiety” or “this diet cured my symptoms” gives readers a human narrative with a clear emotional arc. Clinical evidence often sounds less satisfying because it speaks in probabilities, averages and uncertainty. The contrast can make personal testimony seem more trustworthy than studies, even when the testimony cannot show what actually caused the improvement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9958238/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExamining the evidence for health-related claims made</span><span class="citation-popover-snippet">by V Nguyen · 2022 · Cited by 13 — With few legal regulations governing the distribution of poor-quality information, social media pro...</span></span></span>
 
-Another reason natural remedies feel attractive is that they offer control. Someone facing a chronic illness, unexplained symptoms or frightening diagnosis may feel powerless. A supplement, cleanse or alternative treatment creates the feeling of taking action immediately. That sense of agency is emotionally real, even when the claimed medical benefits are weak or unsupported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2586853/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow the public is being misled about complementary</span><span class="citation-popover-snippet">PMCby E Ernst · 2008 · Cited by 38 — Patients are frequently desperate and therefore vulnerable to such misinformation. Wrong therapeutic...</span></span></span>
+Another reason natural remedies feel attractive is that they offer control. Someone facing a chronic illness, unexplained symptoms or frightening diagnosis may feel powerless. A supplement, cleanse or alternative treatment creates the feeling of taking action immediately. That sense of agency is emotionally real, even when the claimed medical benefits are weak or unsupported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2586853/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow the public is being misled about complementary</span><span class="citation-popover-snippet">by E Ernst · 2008 · Cited by 38 — Patients are frequently desperate and therefore vulnerable to such misinformation. Wrong therapeutic...</span></span></span>
 
 ### The Misleading Contrast Between “Natural” and “Chemical”
 
@@ -300,7 +299,6 @@ The phrase “natural remedy” can also hide important differences between prod
 
 One reason natural-remedy misinformation spreads so easily is that it often mixes together two separate questions:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UeEtKtjbCQA" title="Natural vs. Traditional Medicine: Which is the Ultimate Healer?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UeEtKtjbCQA" target="_blank" rel="noopener noreferrer">Natural vs. Traditional Medicine: Which is the Ultimate Healer?</a></p><p class="youtube-embed-meta">Channel: Medical Centric Podcast &middot; Views: 45.0K &middot; Uploaded: April 2023 &middot; Length: 3 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UeEtKtjbCQA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UeEtKtjbCQA">Open on YouTube</a></p></div></div></div>
 
 1. Does this make someone feel better?
@@ -310,18 +308,17 @@ Those questions are not always answered in the same way.
 
 A warm drink may soothe a sore throat. Rest, mindfulness practices or gentle exercise may improve comfort during illness. Massage may reduce stress. Some complementary approaches can improve quality of life, help with symptom management or make treatment experiences easier to tolerate. Evidence supports certain non-drug interventions for specific symptoms and situations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bmjopen.bmj.com/content/7/11/e015860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjopen.bmj.com">[BMJ Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjopen.bmj.com</span><span class="citation-popover-snippet">BMJ OpenReview of systematic reviews of non-pharmacological...by M Duncan · 2017 · Cited by 244 — A review of published systematic revie...</span></span></span>
 
-Problems arise when symptom relief is presented as proof that a disease has been treated. Feeling calmer after taking a supplement does not prove that the supplement cured depression. Having less nausea does not mean a cancer has disappeared. Temporary improvement can result from natural recovery, placebo effects, fluctuating symptoms or unrelated factors. [Personal experience]({{ 'anecdotes/' | relative_url }}) can be meaningful without being reliable evidence that a remedy caused the outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implications of Herbal Supplements in Conventional...by G Hassen · 2022 · Cited by 135 — Though perceived as safe due to their natural s...</span></span></span>
+Problems arise when symptom relief is presented as proof that a disease has been treated. Feeling calmer after taking a supplement does not prove that the supplement cured depression. Having less nausea does not mean a cancer has disappeared. Temporary improvement can result from natural recovery, placebo effects, fluctuating symptoms or unrelated factors. Personal experience can be meaningful without being reliable evidence that a remedy caused the outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implications of Herbal Supplements in Conventional...by G Hassen · 2022 · Cited by 135 — Though perceived as safe due to their natural s...</span></span></span>
 
-This distinction is especially important in serious illnesses. A person may use supportive therapies alongside evidence-based treatment and find them genuinely helpful. The risk appears when alternative remedies are presented as replacements rather than complements. NCCIH specifically warns against using unproven alternative approaches instead of conventional medical treatment or delaying professional care because of them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">NCCIHNatural Doesn&#x27;t Necessarily Mean Safer, or Better | NCCIHAnd “natural” medicines, contrary to what many may think, are not without s...</span></span></span>
+This distinction is especially important in serious illnesses. A person may use supportive therapies alongside evidence-based treatment and find them genuinely helpful. The risk appears when alternative remedies are presented as [replacements]({{ 'replacements/' | relative_url }}) rather than complements. NCCIH specifically warns against using unproven alternative approaches instead of conventional medical treatment or delaying professional care because of them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Natural Doesn&#x27;t Necessarily Mean Safer, or Better &#124; NCCIHAnd “natural” medicines, contrary to what many may think, are not without s...</span></span></span>
 
 ### When “Harmless” Remedies Are Not Harmless
 
 Even products marketed as gentle or natural can create risks.
 
-Some herbal supplements interact with prescription medicines, changing how those medicines work in the body. Researchers have documented interactions involving herbal products and treatments for heart disease, cancer, epilepsy and other conditions. St. John's wort, for example, can affect the effectiveness of certain medications by altering how the body processes them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cancer.gov/about-cancer/treatment/cam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-snippet">Complementary and Alternative Medicine (CAM) - NCI31 Oct 2024 — Natural does not mean safe · Herbal supplements may be harmful when taken...</span></span></span> NCCIH Other products may carry risks because of dosage <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[nccih.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">NCCIHNatural Doesn&#x27;t Necessarily Mean Safer, or Better | NCCIHAnd “natural” medicines, contrary to what many may think, are not without s...</span></span></span>, contamination or underlying health conditions. Organisations including the National Kidney Foundation and Mayo Clinic warn that supplements can cause side effects or create complications, particularly for people with chronic illnesses or those taking multiple medications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kidney.org/kidney-topics/herbal-supplements-and-kidney-disease" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kidney.org">[National Kidney Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kidney.org</span><span class="citation-popover-snippet">National Kidney FoundationHerbal Supplements and Kidney Diseaseby NKFP Journey — While many products are generally safe for most people...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">art 20587690</span><span class="citation-popover-snippet">Mayo ClinicNatural vs. safe: Why the two aren&#x27;t the same16 Aug 2025 — Natural doesn&#x27;t always mean safe. Supplements can have side effects...</span></span></span>
+Some herbal supplements interact with prescription medicines, changing how those medicines work in the body. Researchers have documented interactions involving herbal products and treatments for heart disease, cancer, epilepsy and other conditions. St. John's wort, for example, can affect the effectiveness of certain medications by altering how the body processes them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cancer.gov/about-cancer/treatment/cam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-snippet">Complementary and Alternative Medicine (CAM) - NCI31 Oct 2024 — Natural does not mean safe · Herbal supplements may be harmful when taken...</span></span></span> NCCIH Other products may carry risks because of dosage <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[nccih.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Natural Doesn&#x27;t Necessarily Mean Safer, or Better &#124; NCCIHAnd “natural” medicines, contrary to what many may think, are not without s...</span></span></span>, contamination or underlying health conditions. Organisations including the National Kidney Foundation and Mayo Clinic warn that supplements can cause side effects or create complications, particularly for people with chronic illnesses or those taking multiple medications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kidney.org/kidney-topics/herbal-supplements-and-kidney-disease" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kidney.org">[National Kidney Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kidney.org</span><span class="citation-popover-snippet">National Kidney FoundationHerbal Supplements and Kidney Diseaseby NKFP Journey — While many products are generally safe for most people...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">art 20587690</span><span class="citation-popover-snippet">Mayo ClinicNatural vs. safe: Why the two aren&#x27;t the same16 Aug 2025 — Natural doesn&#x27;t always mean safe. Supplements can have side effects...</span></span></span>
 
 The danger is often not dramatic poisoning but the accumulation of assumptions: assuming a product is safe because it is natural, assuming it does not need medical discussion, and assuming it cannot interfere with treatment.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_natural_remedies_evi_8be102-Illustration-2-dark.svg" | relative_url }}" alt="Natural Remedies illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_natural_remedies_evi_8be102-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_natural_remedies_evi_8be102-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How False Confidence Develops Online
@@ -334,12 +331,11 @@ Common patterns include:
 * **Selective information.** Positive outcomes are highlighted while failed cases, side effects or conventional treatments are ignored.
 * **Distrust framing.** The post suggests doctors, regulators or researchers are hiding information.
 * **Natural-versus-toxic language.** Medicines are described as dangerous chemicals while remedies are framed as pure and safe.
-* **Urgent sharing pressure.** Readers are encouraged to spread the claim before checking whether it is accurate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3413169/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">following the use of complementary and alternative...by J Saquib · 2012 · Cited by 44 — The purpose of this study was to assess whether...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9958238/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExamining the evidence for health-related claims made</span><span class="citation-popover-snippet">PMCby V Nguyen · 2022 · Cited by 13 — With few legal regulations governing the distribution of poor-quality information, social media pro...</span></span></span>
+* **Urgent sharing pressure.** Readers are encouraged to spread the claim before checking whether it is accurate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3413169/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">following the use of complementary and alternative...by J Saquib · 2012 · Cited by 44 — The purpose of this study was to assess whether...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9958238/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExamining the evidence for health-related claims made</span><span class="citation-popover-snippet">by V Nguyen · 2022 · Cited by 13 — With few legal regulations governing the distribution of poor-quality information, social media pro...</span></span></span>
 
 These techniques are persuasive because they appeal to emotion before evidence. They make readers feel protective, informed or empowered. The problem is that confidence generated by a compelling story is not the same thing as confidence justified by research.
 
-Research into health misinformation has found that social media environments can amplify emotionally engaging content, allowing weakly supported claims to travel quickly through trusted personal networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2586853/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow the public is being misled about complementary</span><span class="citation-popover-snippet">PMCby E Ernst · 2008 · Cited by 38 — Patients are frequently desperate and therefore vulnerable to such misinformation. Wrong therapeutic...</span></span></span>
-
+Research into health misinformation has found that social media environments can amplify emotionally engaging content, allowing weakly supported claims to travel quickly through trusted personal networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2586853/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow the public is being misled about complementary</span><span class="citation-popover-snippet">by E Ernst · 2008 · Cited by 38 — Patients are frequently desperate and therefore vulnerable to such misinformation. Wrong therapeutic...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5ul7t1yHN94" title="Herbal medicine: Helpful or harmful?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5ul7t1yHN94" target="_blank" rel="noopener noreferrer">Herbal medicine: Helpful or harmful?</a></p><p class="youtube-embed-meta">Channel: The Star &middot; Views: 10.1K &middot; Uploaded: December 2018 &middot; Length: 4 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5ul7t1yHN94" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5ul7t1yHN94">Open on YouTube</a></p></div></div></div>
 
@@ -349,12 +345,11 @@ The most serious consequences appear when belief in a natural remedy changes wha
 
 Cancer provides a clear example because [timing]({{ 'timing/' | relative_url }}) can matter. Studies have found poorer outcomes among patients who chose alternative medicine in place of conventional cancer treatment. Research discussed in the BMJ reported substantially worse survival rates among patients who relied on alternative therapies as their primary treatment rather than evidence-based care. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bmjopen.bmj.com/content/7/11/e015860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjopen.bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjopen.bmj.com</span><span class="citation-popover-snippet">BMJ OpenReview of systematic reviews of non-pharmacological...by M Duncan · 2017 · Cited by 244 — A review of published systematic revie...</span></span></span>
 
-Separately, research on treatment delays has shown that even relatively short delays in cancer treatment can increase mortality risk for some cancers. This does not mean every delay has the same effect, but it demonstrates why postponing effective care can have real consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/33148535/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMortality due to cancer treatment delay: systematic review...by TP Hanna · 2020 · Cited by 1691 — A four week delay of cancer trea...</span></span></span>
+Separately, research on treatment delays has shown that even relatively short delays in cancer treatment can increase mortality risk for some cancers. This does not mean every delay has the same effect, but it demonstrates why postponing effective care can have real consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/33148535/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Mortality due to cancer treatment delay: systematic review...by TP Hanna · 2020 · Cited by 1691 — A four week delay of cancer trea...</span></span></span>
 
 Importantly, the problem is often not that people reject medicine entirely. More commonly, they try a supposedly safer natural option first, expecting to seek medical help later if necessary. When symptoms temporarily improve, or when the underlying disease progresses silently, that decision can become harder to reverse.
 
 The emotional logic is understandable. People facing frightening diagnoses often want hope, control and options. That vulnerability is one reason health misinformation can spread through caring communities rather than only through deliberate deception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implications of Herbal Supplements in Conventional...by G Hassen · 2022 · Cited by 135 — Though perceived as safe due to their natural s...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hPgqVLFiBWs" title="The risks of alternative medicine 🔎" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hPgqVLFiBWs" target="_blank" rel="noopener noreferrer">The risks of alternative medicine 🔎</a></p><p class="youtube-embed-meta">Channel: Cancer Research UK &middot; Views: 1.5K &middot; Uploaded: April 2026 &middot; Length: 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hPgqVLFiBWs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hPgqVLFiBWs">Open on YouTube</a></p></div></div></div>
 
@@ -375,7 +370,6 @@ More reliable health information usually looks less dramatic. It acknowledges un
 
 A useful mental check is to separate three questions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Does this make people feel supported or comforted?
@@ -385,7 +379,6 @@ A useful mental check is to separate three questions:
 </div>
 
 Those answers may not always be the same.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_natural_remedies_evi_8be102-Illustration-3-dark.svg" | relative_url }}" alt="Natural Remedies illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_natural_remedies_evi_8be102-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_natural_remedies_evi_8be102-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Better Way to Think About Natural Remedies
@@ -792,155 +785,155 @@ Health misinformation often succeeds by turning the word natural into a shortcut
 
 1. <a id="endnote-1"></a>
    Source: nccih.nih.gov  
-   Link: [https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better](https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCCIHNatural Doesn&#x27;t Necessarily Mean Safer, or Better | NCCIHAnd “natural” medicines, contrary to what many may think, are not without s...</p></details>
+   Link: <a href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Natural Doesn&#x27;t Necessarily Mean Safer, or Better | NCCIHAnd “natural” medicines, contrary to what many may think, are not without s...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nccih.nih.gov  
-   Link: [https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach](https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach)  
+   Link: <a href="https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keep in mind that “natural” does not necessarily mean “safe.” (Think of...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: poisoncontrol.utah.edu  
    Title: natural does not always mean safe  
-   Link: [https://poisoncontrol.utah.edu/news/2023/02/natural-does-not-always-mean-safe](https://poisoncontrol.utah.edu/news/2023/02/natural-does-not-always-mean-safe)  
+   Link: <a href="https://poisoncontrol.utah.edu/news/2023/02/natural-does-not-always-mean-safe" target="_blank" rel="noopener noreferrer nofollow">https://poisoncontrol.utah.edu/news/2023/02/natural-does-not-always-mean-safe</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Utah Poison Control“Natural” Does Not Always Mean Safe28 Feb 2023 — A common myth is that because these products are “natural”, they are...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nccih.nih.gov  
    Title: NCCIHDietary and Herbal Supplements | NCCIH  
-   Link: [https://www.nccih.nih.gov/health/dietary-and-herbal-supplements](https://www.nccih.nih.gov/health/dietary-and-herbal-supplements)  
+   Link: <a href="https://www.nccih.nih.gov/health/dietary-and-herbal-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/dietary-and-herbal-supplements</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many dietary supplements...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExamining the evidence for health-related claims made  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9958238/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9958238/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby V Nguyen · 2022 · Cited by 13 — With few legal regulations governing the distribution of poor-quality information, social media pro...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9958238/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9958238/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by V Nguyen · 2022 · Cited by 13 — With few legal regulations governing the distribution of poor-quality information, social media pro...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHow the public is being misled about complementary  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2586853/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2586853/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby E Ernst · 2008 · Cited by 38 — Patients are frequently desperate and therefore vulnerable to such misinformation. Wrong therapeutic...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2586853/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2586853/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by E Ernst · 2008 · Cited by 38 — Patients are frequently desperate and therefore vulnerable to such misinformation. Wrong therapeutic...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/7/11/e015860](https://bmjopen.bmj.com/content/7/11/e015860)  
+   Link: <a href="https://bmjopen.bmj.com/content/7/11/e015860" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/7/11/e015860</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJ OpenReview of systematic reviews of non-pharmacological...by M Duncan · 2017 · Cited by 244 — A review of published systematic revie...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cancer.gov  
-   Link: [https://www.cancer.gov/about-cancer/treatment/cam](https://www.cancer.gov/about-cancer/treatment/cam)  
+   Link: <a href="https://www.cancer.gov/about-cancer/treatment/cam" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/about-cancer/treatment/cam</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complementary and Alternative Medicine (CAM) - NCI31 Oct 2024 — Natural does not mean safe · Herbal supplements may be harmful when taken...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nccih.nih.gov  
    Title: NCCIHHerb-Drug Interactions | NCCIH  
-   Link: [https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions](https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions)  
+   Link: <a href="https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govHerb-Drug Interactions | NCCIH - NIHInteractions may occur between prescription drugs, over-the-counter drugs, dietary supplements...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: kidney.org  
-   Link: [https://www.kidney.org/kidney-topics/herbal-supplements-and-kidney-disease](https://www.kidney.org/kidney-topics/herbal-supplements-and-kidney-disease)  
+   Link: <a href="https://www.kidney.org/kidney-topics/herbal-supplements-and-kidney-disease" target="_blank" rel="noopener noreferrer nofollow">https://www.kidney.org/kidney-topics/herbal-supplements-and-kidney-disease</a>  
 
 11. <a id="endnote-11"></a>
    Source: fda.gov  
    Title: 6 tip offs rip offs dont fall health fraud scams  
-   Link: [https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams](https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams)  
+   Link: <a href="https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug Administration6 Tip-offs to Rip-offs: Don&#x27;t Fall for Health Fraud Scams4 Mar 2021 — A health product is fraudulent if it is...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: blogs.bmj.com  
    Title: Blogs When misinformation is framed as necessary, harm follows  
-   Link: [https://blogs.bmj.com/bmjleader/2025/07/02/when-misinformation-is-framed-as-necessary-harm-follows-digital-misinformation-and-the-erosion-of-medical-ethics-by-alex-ruani/](https://blogs.bmj.com/bmjleader/2025/07/02/when-misinformation-is-framed-as-necessary-harm-follows-digital-misinformation-and-the-erosion-of-medical-ethics-by-alex-ruani/)  
+   Link: <a href="https://blogs.bmj.com/bmjleader/2025/07/02/when-misinformation-is-framed-as-necessary-harm-follows-digital-misinformation-and-the-erosion-of-medical-ethics-by-alex-ruani/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.bmj.com/bmjleader/2025/07/02/when-misinformation-is-framed-as-necessary-harm-follows-digital-misinformation-and-the-erosion-of-medical-ethics-by-alex-ruani/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Jul 2025 — Research over the past decade has made one thing abundantly clear: exposure to misinformation can mislead health decisions...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/358/bmj.j4006](https://www.bmj.com/content/358/bmj.j4006)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJCancer patients who opt for alternative treatment at greater...by M McCarthy · 2017 — The researchers found that, overall, patients w...</p></details>
+   Link: <a href="https://www.bmj.com/content/358/bmj.j4006" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/358/bmj.j4006</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer patients who opt for alternative treatment at greater...by M McCarthy · 2017 — The researchers found that, overall, patients w...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/370/bmj.m2862/rr](https://www.bmj.com/content/370/bmj.m2862/rr)  
+   Link: <a href="https://www.bmj.com/content/370/bmj.m2862/rr" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/370/bmj.m2862/rr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Risks and dangers associated with avoiding conventional...Jul 16, 2020 — We agree with the families featured in the documentary, that th...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: bmj.com  
    Title: rapid responses  
-   Link: [https://www.bmj.com/content/371/bmj.m4087/rapid-responses](https://www.bmj.com/content/371/bmj.m4087/rapid-responses)  
+   Link: <a href="https://www.bmj.com/content/371/bmj.m4087/rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/371/bmj.m4087/rapid-responses</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mortality due to cancer treatment delay: systematic review...Nov 4, 2020 — A surgical delay of 12 weeks for all patients with breast can...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/371/bmj.m4261/rr-0](https://www.bmj.com/content/371/bmj.m4261/rr-0)  
+   Link: <a href="https://www.bmj.com/content/371/bmj.m4261/rr-0" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/371/bmj.m4261/rr-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Re: Prioritising research into cancer treatment delays4 Nov 2020 — On the pretext of choosing alternative or complementary medicines, pat...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/14/5/e080310](https://bmjopen.bmj.com/content/14/5/e080310)  
+   Link: <a href="https://bmjopen.bmj.com/content/14/5/e080310" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/14/5/e080310</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>systematic reviewby SAM Sara · 2024 · Cited by 4 — The objective of this systematic review was to identify psychological and educational...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/371/bmj.m4087/rr-5](https://www.bmj.com/content/371/bmj.m4087/rr-5)  
+   Link: <a href="https://www.bmj.com/content/371/bmj.m4087/rr-5" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/371/bmj.m4087/rr-5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mortality due to cancer treatment delay: systematic review...Nov 4, 2020 — For example, long term follow-up of “early” breast cancer dem...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/387/bmj.q2703/rr](https://www.bmj.com/content/387/bmj.q2703/rr)  
+   Link: <a href="https://www.bmj.com/content/387/bmj.q2703/rr" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/387/bmj.q2703/rr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This includes evidence-based decision-making in oncology, robust palliative care education.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/12/4/e059960](https://bmjopen.bmj.com/content/12/4/e059960)  
+   Link: <a href="https://bmjopen.bmj.com/content/12/4/e059960" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/12/4/e059960</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for a randomised controlled trialby M Stie · 2022 · Cited by 4 — The aim of this study is to assess the efficacy of OD-CAM integrated ear...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/371/bmj.m4087/related](https://www.bmj.com/content/371/bmj.m4087/related)  
+   Link: <a href="https://www.bmj.com/content/371/bmj.m4087/related" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/371/bmj.m4087/related</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mortality due to cancer treatment delay: systematic review...Nov 4, 2020 — Mortality due to cancer treatment delay: systematic review an...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: who.int  
-   Link: [https://www.who.int/health-topics/traditional-complementary-and-integrative-medicine](https://www.who.int/health-topics/traditional-complementary-and-integrative-medicine)  
+   Link: <a href="https://www.who.int/health-topics/traditional-complementary-and-integrative-medicine" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/traditional-complementary-and-integrative-medicine</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Traditional, Complementary and Integrative MedicineTraditional medicine emphasizes nature-based remedies and holistic, personalized appro...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: publications.jrc.ec.europa.eu  
-   Link: [https://publications.jrc.ec.europa.eu/repository/handle/JRC73507](https://publications.jrc.ec.europa.eu/repository/handle/JRC73507)  
+   Link: <a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC73507" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/handle/JRC73507</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JRC PublicationsAssessing herbal products with [health claims](&amp;#123;&amp;#123; &#x27;health-claims/&#x27; | relative_url &amp;#125;&amp;#125;) - JRC Publicationsby S LAPENNA · Cited by 24 — However, there are cases of h...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: mayoclinic.org  
    Title: art 20587690  
-   Link: [https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690](https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690)  
+   Link: <a href="https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mayo ClinicNatural vs. safe: Why the two aren&#x27;t the same16 Aug 2025 — Natural doesn&#x27;t always mean safe. Supplements can have side effects...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: mayoclinic.org  
-   Link: [https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/herbal-supplements/art-20046488](https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/herbal-supplements/art-20046488)  
+   Link: <a href="https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/herbal-supplements/art-20046488" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/herbal-supplements/art-20046488</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Herbal supplements and heart medicines may not mixHerbal supplements are natural, so they must be safe, right? No, that&#x27;s not true all th...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/33148535/](https://pubmed.ncbi.nlm.nih.gov/33148535/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedMortality due to cancer treatment delay: systematic review...by TP Hanna · 2020 · Cited by 1691 — A four week delay of cancer trea...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33148535/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33148535/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mortality due to cancer treatment delay: systematic review...by TP Hanna · 2020 · Cited by 1691 — A four week delay of cancer trea...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implications of Herbal Supplements in Conventional...by G Hassen · 2022 · Cited by 135 — Though perceived as safe due to their natural s...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3413169/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3413169/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3413169/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3413169/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>following the use of complementary and alternative...by J Saquib · 2012 · Cited by 44 — The purpose of this study was to assess whether...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: nccih.nih.gov  
-   Link: [https://www.nccih.nih.gov/training/videolectures/14/1](https://www.nccih.nih.gov/training/videolectures/14/1)  
+   Link: <a href="https://www.nccih.nih.gov/training/videolectures/14/1" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/training/videolectures/14/1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Clinically Relevant Herb-Drug InteractionsDr Gurley will provide an historic overview of herb drug interactions discuss their mechanis...</p></details>
 
 ### Additional References
@@ -948,57 +941,57 @@ Health misinformation often succeeds by turning the word natural into a shortcut
 30. <a id="endnote-30"></a>
    Source: magazine.medlineplus.gov  
    Title: did you know supplements and medications can interact in unexpected ways  
-   Link: [https://magazine.medlineplus.gov/article/did-you-know-supplements-and-medications-can-interact-in-unexpected-ways](https://magazine.medlineplus.gov/article/did-you-know-supplements-and-medications-can-interact-in-unexpected-ways)  
+   Link: <a href="https://magazine.medlineplus.gov/article/did-you-know-supplements-and-medications-can-interact-in-unexpected-ways" target="_blank" rel="noopener noreferrer nofollow">https://magazine.medlineplus.gov/article/did-you-know-supplements-and-medications-can-interact-in-unexpected-ways</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Supplements and medications can interact in...9 Jan 2025 — Dietary supplements can interact dangerously with medications, altering drug...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: bmjgroup.com  
-   Link: [https://bmjgroup.com/every-month-delayed-in-cancer-treatment-can-raise-risk-of-death-by-around-10/](https://bmjgroup.com/every-month-delayed-in-cancer-treatment-can-raise-risk-of-death-by-around-10/)  
+   Link: <a href="https://bmjgroup.com/every-month-delayed-in-cancer-treatment-can-raise-risk-of-death-by-around-10/" target="_blank" rel="noopener noreferrer nofollow">https://bmjgroup.com/every-month-delayed-in-cancer-treatment-can-raise-risk-of-death-by-around-10/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cases a 6 to 13% higher risk of dying – a risk that keeps rising the longer their...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: gulbenkian.pt  
    Title: natural fact checking natural remedies and herbal medicine  
-   Link: [https://gulbenkian.pt/emifund/projects/natural-fact-checking-natural-remedies-and-herbal-medicine/](https://gulbenkian.pt/emifund/projects/natural-fact-checking-natural-remedies-and-herbal-medicine/)  
+   Link: <a href="https://gulbenkian.pt/emifund/projects/natural-fact-checking-natural-remedies-and-herbal-medicine/" target="_blank" rel="noopener noreferrer nofollow">https://gulbenkian.pt/emifund/projects/natural-fact-checking-natural-remedies-and-herbal-medicine/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-Checking Natural Remedies and Herbal Medicine28 Jul 2024 — NATURAL will look to tackle disinformation and misinformation, by improvi...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: sop.washington.edu  
    Title: intercollegiate team will study natural product drug interactions  
-   Link: [https://sop.washington.edu/intercollegiate-team-will-study-natural-product-drug-interactions/](https://sop.washington.edu/intercollegiate-team-will-study-natural-product-drug-interactions/)  
+   Link: <a href="https://sop.washington.edu/intercollegiate-team-will-study-natural-product-drug-interactions/" target="_blank" rel="noopener noreferrer nofollow">https://sop.washington.edu/intercollegiate-team-will-study-natural-product-drug-interactions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In fact, little is known about how natural products may alter the therapeutic effects and safety of prescription and...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: healthychildren.org  
    Title: Medicine in the Media: Reliable Health Information v  
-   Link: [https://www.healthychildren.org/English/family-life/Media/Pages/Medicine-Ads.aspx](https://www.healthychildren.org/English/family-life/Media/Pages/Medicine-Ads.aspx)  
+   Link: <a href="https://www.healthychildren.org/English/family-life/Media/Pages/Medicine-Ads.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.healthychildren.org/English/family-life/Media/Pages/Medicine-Ads.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake...1 Apr 2022 — [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;). Family Life. Medicine in the Media: Reliable Health... A &quot;natural&quot; treatment doesn&#x27;t necessarily work an...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
    Title: “Natural” doesn't necessarily mean safer or better  
-   Link: [https://www.facebook.com/NIH.ODS/posts/natural-doesnt-necessarily-mean-safer-or-better-while-some-medicines-are-derived/675122224640520/](https://www.facebook.com/NIH.ODS/posts/natural-doesnt-necessarily-mean-safer-or-better-while-some-medicines-are-derived/675122224640520/)  
+   Link: <a href="https://www.facebook.com/NIH.ODS/posts/natural-doesnt-necessarily-mean-safer-or-better-while-some-medicines-are-derived/675122224640520/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NIH.ODS/posts/natural-doesnt-necessarily-mean-safer-or-better-while-some-medicines-are-derived/675122224640520/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;natural&quot; supplements don&#x27;t always mean safe. Take kava, an herb used for menopause or relaxation. Studies show it can caus...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684](https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirect“Natural” is not synonymous with “Safe”: Toxicity of...by TE Gaston · 2020 · Cited by 91 — Consumers equate “natural” with...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: researchgate.net  
    Title: A four-month delay will surely cause many preventable deaths [3].Read more  
-   Link: [https://www.researchgate.net/publication/345632634_Mortality_due_to_cancer_treatment_delay_systematic_review_and_meta-analysis](https://www.researchgate.net/publication/345632634_Mortality_due_to_cancer_treatment_delay_systematic_review_and_meta-analysis)  
+   Link: <a href="https://www.researchgate.net/publication/345632634_Mortality_due_to_cancer_treatment_delay_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345632634_Mortality_due_to_cancer_treatment_delay_systematic_review_and_meta-analysis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mortality due to cancer treatment delay: systematic review...Oncologists know that even a one-month delay in diagnosis of cancer increas...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: queensu.ca  
    Title: impact delayed cancer treatments  
-   Link: [https://www.queensu.ca/gazette/stories/impact-delayed-cancer-treatments](https://www.queensu.ca/gazette/stories/impact-delayed-cancer-treatments)  
+   Link: <a href="https://www.queensu.ca/gazette/stories/impact-delayed-cancer-treatments" target="_blank" rel="noopener noreferrer nofollow">https://www.queensu.ca/gazette/stories/impact-delayed-cancer-treatments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of delayed cancer treatments | Queen&#x27;s GazetteNov 9, 2020 — In addition, the researchers calculated that delays of up to eight...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: researchsquare.com  
    Title: Self-Care or Misinformation?  
-   Link: [https://www.researchsquare.com/article/rs-7786655/v1.pdf?c=1767882339000](https://www.researchsquare.com/article/rs-7786655/v1.pdf?c=1767882339000)  
+   Link: <a href="https://www.researchsquare.com/article/rs-7786655/v1.pdf?c=1767882339000" target="_blank" rel="noopener noreferrer nofollow">https://www.researchsquare.com/article/rs-7786655/v1.pdf?c=1767882339000</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Herbal...There have been studies on how health misinformation spreads on sites like YouTube and Twitter. (Waszak et al...</p></details>

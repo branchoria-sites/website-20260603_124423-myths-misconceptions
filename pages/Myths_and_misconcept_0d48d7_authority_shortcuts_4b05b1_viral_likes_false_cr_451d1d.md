@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8
 - Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - influencers
 - viral-proof
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - influencers
 - viral-proof
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: High engagement can make a weak claim feel safer to trust before viewers have checked what the post actually proves.
 hero_summary: High engagement can make a weak claim feel safer to trust before viewers have checked what the post actually proves.
 layout: default
 permalink: /viral-proof/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /influencers/
 nav_short_title: Viral Proof
 title: When Likes Make Myths Look True
-title_full: When Likes Make Myths Look True | Influencers
+title_full: When Likes Make Myths Look True
 display_title_short: Viral Proof
 display_title: Viral Proof
 heading_title: When Likes Make Myths Look True
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Authority Shortcuts Spread Myths | Mythcraft
+parent_title: When Authority Shortcuts Spread Myths
 parent_permalink: /influencers/
 parent_nav_short_title: Influencers
 parent_heading_title: When Authority Shortcuts Spread Myths
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Who Can Correct Influencer Myths?
 up_link:
   basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
@@ -259,7 +259,7 @@ prev_link:
   permalink: /local-voices/
   short_title: Local Voices
   heading_title: Who Can Correct Influencer Myths?
-date: '2026-06-09 04:38:04 '
+date: '2026-06-11 22:08:39 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d-Illustration-1.webp
@@ -268,11 +268,10 @@ image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_vir
 
 ## Introduction
 
-A myth does not need strong evidence to look convincing online. Often, it only needs visible signs that many other people have already reacted to it. Likes, shares, reposts, views and other [engagement metrics]({{ 'metric-gap/' | relative_url }}) can act as shortcuts for credibility, creating the impression that a claim has been checked, approved or validated by a crowd. In reality, these signals measure attention, not accuracy.
-
+A myth does not need strong evidence to look convincing online. Often, it only needs visible signs that many other people have already reacted to it. Likes, shares, reposts, views and other engagement metrics can act as shortcuts for credibility, creating the impression that a claim has been checked, approved or validated by a crowd. In reality, these signals measure attention, not accuracy.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d-Illustration-1-dark.svg" | relative_url }}" alt="Viral Proof illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader problem of influencers and [authority shortcuts]({{ 'influencers/' | relative_url }}), viral engagement creates a specific mechanism: people may infer that a popular claim is probably true because so many others appear to support it. Researchers refer to this as a form of social proof or a bandwagon cue, where the behaviour of others influences credibility judgements even when no new evidence has been provided. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/social-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabSocial ProofSocial proof is a psychological phenomenon in which people look to the actions of others to determine how to...</span></span></span>
+Within the broader problem of influencers and authority shortcuts, viral engagement creates a specific mechanism: people may infer that a popular claim is probably true because so many others appear to support it. Researchers refer to this as a form of social proof or a bandwagon cue, where the behaviour of others influences credibility judgements even when no new evidence has been provided. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/social-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabSocial ProofSocial proof is a psychological phenomenon in which people look to the actions of others to determine how to...</span></span></span>
 
 ## How Social Proof Changes First Impressions
 
@@ -280,10 +279,9 @@ The influence of likes begins before a viewer evaluates the content itself. When
 
 Psychologists describe social proof as a tendency to look to other people's behaviour when deciding what to believe or how to act, particularly in uncertain situations. Online environments amplify this tendency because users often encounter unfamiliar claims, limited context and an overwhelming volume of information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/social-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabSocial ProofSocial proof is a psychological phenomenon in which people look to the actions of others to determine how to...</span></span></span>
 
-Research suggests that engagement cues can affect perceived reliability. A 2024 study examining social media misinformation found that visible engagement signals influenced how reliable participants judged misinformation to be. Rather than evaluating evidence directly, users partially relied on cues about how others had reacted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">PMC - NIHby CS Traberg · 2024 · Cited by 67 — The purpose of study 1a was to explore whether engagement cues on social media platforms in...</span></span></span>
+Research suggests that engagement cues can affect perceived reliability. A 2024 study examining social media misinformation found that visible engagement signals influenced how reliable participants judged misinformation to be. Rather than evaluating evidence directly, users partially relied on cues about how others had reacted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 67 — The purpose of study 1a was to explore whether engagement cues on social media platforms in...</span></span></span>
 
 This effect does not require users to consciously think, “A million likes means this is true.” The process is often more subtle:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -296,9 +294,6 @@ This effect does not require users to consciously think, “A million likes mean
 
 The result is a self-reinforcing cycle in which popularity can generate further popularity regardless of whether the underlying claim is accurate.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F_Cegn-cueA" title="How Social Media Spreads Misinformation | Digital Sociology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F_Cegn-cueA" target="_blank" rel="noopener noreferrer">How Social Media Spreads Misinformation | Digital Sociology</a></p><p class="youtube-embed-meta">Channel: Sociologylearners</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F_Cegn-cueA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F_Cegn-cueA">Open on YouTube</a></p></div></div></div>
-
 ## Why Shares Are Not Evidence
 
 One of the most common misconceptions online is that widespread circulation indicates correctness. In reality, engagement metrics reveal how people interacted with content, not whether the content was factually sound.
@@ -308,7 +303,6 @@ A post can attract enormous attention because it is surprising, emotionally char
 Research on social engagement metrics and misinformation has repeatedly found that visible popularity indicators can increase interaction with low-credibility information. Exposure to such metrics may make users more willing to engage with or spread misleading content because the content appears socially endorsed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/exposure-to-social-engagement-metrics-increases-vulnerability-to-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">exposure to social engagement metrics increases vulnerability to misinformation</span><span class="citation-popover-snippet">more...</span></span></span>
 
 A related problem is that engagement numbers combine many different motivations into a single visible score. A person may:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -323,20 +317,16 @@ From the perspective of a later viewer, all of those actions can blend into a si
 
 This is especially important in myth spread. A weak claim backed by dramatic presentation and strong engagement can appear more trustworthy than a careful [correction]({{ 'correction/' | relative_url }}) that attracts fewer reactions.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d-Illustration-2-dark.svg" | relative_url }}" alt="Viral Proof illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Viral Myths Often Feel Safer Than They Are
 
 Viral popularity can create an illusion that collective checking has already occurred.
 
-Many users assume that if a claim were obviously false, someone would have stopped it from spreading. This assumption treats virality as evidence that a crowd has performed quality control. In practice, online audiences are not organised fact-checking systems. Most people react quickly, often without investigating the claim in detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">PMC - NIHby CS Traberg · 2024 · Cited by 67 — The purpose of study 1a was to explore whether engagement cues on social media platforms in...</span></span></span>
+Many users assume that if a claim were obviously false, someone would have stopped it from spreading. This assumption treats virality as evidence that a crowd has performed quality control. In practice, online audiences are not organised fact-checking systems. Most people react quickly, often without investigating the claim in detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 67 — The purpose of study 1a was to explore whether engagement cues on social media platforms in...</span></span></span>
 
 Studies of bandwagon effects support the idea that popularity cues can increase credibility perceptions, even when the effect is modest. A meta-analysis covering dozens of studies found that bandwagon cues generally produced a positive effect on perceived credibility. Importantly, the effect was stronger when the source lacked established expertise, suggesting that popularity can compensate for missing authority in the minds of viewers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/00936502221124395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Do Bandwagon Cues Affect Credibility Perceptions?</span><span class="citation-popover-snippet">A...19 Jan 2023 — Based on 161 effect sizes from 41 studies, the current meta-analysis revealed that bandwagon cues had a positive, albe...</span></span></span>
 
 This helps explain why influencer-driven myths can gain traction. A creator may not possess relevant expertise, but high engagement creates a substitute signal that feels reassuring. The audience sees evidence of widespread attention and unconsciously treats it as evidence of reliability.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wEwGBIr_RIw" title="12 Cognitive Biases Explained - How to Think Better and More Logically Removing Bias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wEwGBIr_RIw" target="_blank" rel="noopener noreferrer">12 Cognitive Biases Explained - How to Think Better and More Logically Removing Bias</a></p><p class="youtube-embed-meta">Channel: Practical Psychology</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wEwGBIr_RIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wEwGBIr_RIw">Open on YouTube</a></p></div></div></div>
 
 ## How Critical Replies Can Interrupt the Shortcut
 
@@ -344,23 +334,20 @@ The influence of likes is strongest when engagement appears unanimous. Critical 
 
 Visible disagreement introduces friction into the credibility shortcut. Instead of seeing a popular post and assuming consensus, viewers encounter signs that the claim is contested. This forces more active evaluation.
 
-Research on social media comments shows that user responses can shape how audiences interpret scientific and factual claims. Critical comments can alter perceptions of the information presented and reduce the appearance of universal agreement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">PMC - NIHby CS Traberg · 2024 · Cited by 67 — The purpose of study 1a was to explore whether engagement cues on social media platforms in...</span></span></span>
+Research on social media comments shows that user responses can shape how audiences interpret scientific and factual claims. Critical comments can alter perceptions of the information presented and reduce the appearance of universal agreement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 67 — The purpose of study 1a was to explore whether engagement cues on social media platforms in...</span></span></span>
 
 The effectiveness of [corrections]({{ 'corrections/' | relative_url }}) varies. Some studies find that brief user corrections have only small effects on belief change, especially when they are short or easily overlooked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/exposure-to-social-engagement-metrics-increases-vulnerability-to-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">exposure to social engagement metrics increases vulnerability to misinformation</span><span class="citation-popover-snippet">more...</span></span></span>
 
-However, larger-scale fact-checking systems can still matter. Research examining community-based fact-checking found substantial reductions in the spread of misleading posts once corrective notes became visible, although these interventions often arrive after the most viral phase has already occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2409.08781" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivCommunity-based fact-checking reduces the spread of misleading posts on social mediaSeptember 13, 2024...</span><span class="citation-popover-meta">Published: September 13, 2024</span></span></span>
+However, larger-scale fact-checking systems can still matter. Research examining community-based fact-checking found substantial reductions in the spread of misleading posts once corrective notes became visible, although these interventions often arrive after the most viral phase has already occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2409.08781" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of misleading posts on social mediaSeptember 13, 2024...</span><span class="citation-popover-meta">Published: September 13, 2024</span></span></span>
 
 The key point is not that every correction succeeds. It is that visible criticism changes the social signal. A post with 100,000 likes and prominent challenges beneath it communicates something different from a post with 100,000 likes and no visible dissent.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cSKGa_7XJkg" title="How false news can spread - Noah Tavlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer">How false news can spread - Noah Tavlin</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cSKGa_7XJkg">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d-Illustration-3-dark.svg" | relative_url }}" alt="Viral Proof illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Recognising Viral Proof for What It Is
 
 The safest way to interpret engagement metrics is to treat them as indicators of attention rather than evidence.
 
 When encountering a highly shared claim, useful questions include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -374,10 +361,7 @@ When encountering a highly shared claim, useful questions include:
 
 These questions help separate popularity from proof.
 
-In the spread of [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}), viral likes are powerful because they exploit a normal mental shortcut. People naturally assume that large groups may know something they do not. Online, however, the crowd is often reacting to visibility, [emotion]({{ 'emotion/' | relative_url }}) or entertainment rather than carefully checking facts. A claim can therefore look credible long before it has earned that credibility. The number beside the like button records attention. It does not measure truth.
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d-Illustration-3-dark.svg" | relative_url }}" alt="Viral Proof illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+In the spread of myths and misconceptions, viral likes are powerful because they exploit a normal mental shortcut. People naturally assume that large groups may know something they do not. Online, however, the crowd is often reacting to visibility, [emotion]({{ 'emotion/' | relative_url }}) or entertainment rather than carefully checking facts. A claim can therefore look credible long before it has earned that credibility. The number beside the like button records attention. It does not measure truth.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -776,116 +760,116 @@ In the spread of [myths and misconceptions]({{ 'myths-and-misconceptions/' | rel
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe persuasive effects of social cues and source  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby CS Traberg · 2024 · Cited by 67 — The purpose of study 1a was to explore whether engagement cues on social media [platforms](&amp;#123;&amp;#123; &#x27;platforms/&#x27; | relative_url &amp;#125;&amp;#125;) in...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby CS Traberg · 2024 · Cited by 67 — The purpose of study 1a was to explore whether engagement cues on social media [platforms](&amp;#123;&amp;#123; &#x27;platforms/&#x27; | relative_url &amp;#125;&amp;#125;) in...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCTrust, Media Credibility, Social Ties, and the Intention to Share...by P Majerczak · 2022 · Cited by 179 — This study expands on the...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trust, Media Credibility, Social Ties, and the Intention to Share...by P Majerczak · 2022 · Cited by 179 — This study expands on the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7323766/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7323766/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAttacking science on social media: How user comments affect...by L Gierth · 2019 · Cited by 104 — Two exploratory studies were perfor...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7323766/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7323766/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Attacking science on social media: How user comments affect...by L Gierth · 2019 · Cited by 104 — Two exploratory studies were perfor...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2409.08781](https://arxiv.org/abs/2409.08781)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivCommunity-based fact-checking reduces the spread of misleading posts on social mediaSeptember 13, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2409.08781" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.08781</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of misleading posts on social mediaSeptember 13, 2024...</p></details>
    Published: September 13, 2024  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2307.07960](https://arxiv.org/abs/2307.07960)  
+   Link: <a href="https://arxiv.org/abs/2307.07960" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.07960</a>  
 
 6. <a id="endnote-6"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/social-proof](https://thedecisionlab.com/reference-guide/psychology/social-proof)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/social-proof" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/social-proof</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabSocial ProofSocial proof is a psychological phenomenon in which people look to the actions of others to determine how to...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Do Bandwagon Cues Affect Credibility Perceptions?  
-   Link: [https://journals.sagepub.com/doi/10.1177/00936502221124395](https://journals.sagepub.com/doi/10.1177/00936502221124395)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/00936502221124395" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00936502221124395</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A...19 Jan 2023 — Based on 161 effect sizes from 41 studies, the current meta-analysis revealed that bandwagon cues had a positive, albe...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: exposure to social engagement metrics increases vulnerability to misinformation  
-   Link: [https://misinforeview.hks.harvard.edu/article/exposure-to-social-engagement-metrics-increases-vulnerability-to-misinformation/](https://misinforeview.hks.harvard.edu/article/exposure-to-social-engagement-metrics-increases-vulnerability-to-misinformation/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/exposure-to-social-engagement-metrics-increases-vulnerability-to-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/exposure-to-social-engagement-metrics-increases-vulnerability-to-misinformation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: [https://misinforeview.hks.harvard.edu/article/the-small-effects-of-short-user-corrections-on-misinformation-in-brazil-india-and-the-united-kingdom/](https://misinforeview.hks.harvard.edu/article/the-small-effects-of-short-user-corrections-on-misinformation-in-brazil-india-and-the-united-kingdom/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/the-small-effects-of-short-user-corrections-on-misinformation-in-brazil-india-and-the-united-kingdom/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/the-small-effects-of-short-user-corrections-on-misinformation-in-brazil-india-and-the-united-kingdom/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewThe small effects of short user corrections on...by S Altay · 2025 · Cited by 1 — We found that in India and Brazil...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11343704/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11343704/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby E Hoes · 2024 · Cited by 147 — Plotting the occurrence of the terms &#x27;[fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;, &#x27;misinformation&#x27; and &#x27;disinformation&#x27; in maj...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11343704/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11343704/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby E Hoes · 2024 · Cited by 147 — Plotting the occurrence of the terms &#x27;[fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;, &#x27;misinformation&#x27; and &#x27;disinformation&#x27; in maj...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: coursera.org  
    Title: social proof  
-   Link: [https://www.coursera.org/articles/social-proof](https://www.coursera.org/articles/social-proof)  
+   Link: <a href="https://www.coursera.org/articles/social-proof" target="_blank" rel="noopener noreferrer nofollow">https://www.coursera.org/articles/social-proof</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Social Proof and How to Use It?23 Oct 2025 — Since people trust social proof, social proof marketing helps establish credibility...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: [https://misinforeview.hks.harvard.edu/article/journalistic-interventions-matter-understanding-how-americans-perceive-fact-checking-labels/](https://misinforeview.hks.harvard.edu/article/journalistic-interventions-matter-understanding-how-americans-perceive-fact-checking-labels/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/journalistic-interventions-matter-understanding-how-americans-perceive-fact-checking-labels/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/journalistic-interventions-matter-understanding-how-americans-perceive-fact-checking-labels/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>how Americans perceive fact-checking labelsby C Jia · 2024 · Cited by 12 — We found that US adults evaluated fact-checking labels created...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: research.usc.edu.au  
-   Link: [https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621](https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621)  
+   Link: <a href="https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621" target="_blank" rel="noopener noreferrer nofollow">https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Viral: Sharing of Misinformation by Social Media...by R Mulcahy · Cited by 28 — The results of Study 1 demonstrate heightened post viral...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: publications.iadb.org  
    Title: reducing misinformation role confirmation frames fact checking interventions  
-   Link: [https://publications.iadb.org/en/reducing-misinformation-role-confirmation-frames-fact-checking-interventions](https://publications.iadb.org/en/reducing-misinformation-role-confirmation-frames-fact-checking-interventions)  
+   Link: <a href="https://publications.iadb.org/en/reducing-misinformation-role-confirmation-frames-fact-checking-interventions" target="_blank" rel="noopener noreferrer nofollow">https://publications.iadb.org/en/reducing-misinformation-role-confirmation-frames-fact-checking-interventions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Confirmation Frames in Fact-Checking...by N Aruguete · 2023 · Cited by 2 — Previous research has extensively investigated why us...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: tmla.co.uk  
-   Link: [https://tmla.co.uk/article/social-proof-in-action/](https://tmla.co.uk/article/social-proof-in-action/)  
+   Link: <a href="https://tmla.co.uk/article/social-proof-in-action/" target="_blank" rel="noopener noreferrer nofollow">https://tmla.co.uk/article/social-proof-in-action/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social proof in action: How reviews, influencers and UGC...19 Jun 2025 — Social proof builds trust and reduces uncertainty...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: today.usc.edu  
    Title: study reveals the key reason why fake news spreads on social media  
-   Link: [https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/](https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/)  
+   Link: <a href="https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reveals key reason why fake news spreads on social...17 Jan 2023 — USC researchers may have found the biggest influencer in the spread o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pnas.org  
    Title: Yet, whether fact-checking can reduce belief in misinformation  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2104235118](https://www.pnas.org/doi/10.1073/pnas.2104235118)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2104235118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2104235118</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The global effectiveness of fact-checking: Evidence from...by E Porter · 2021 · Cited by 334 — Prior research has shown that fact-checki...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/344881922_The_role_of_social_media_to_generate_social_proof_as_engaged_society_for_stockpiling_behaviour_of_customers_during_Covid-19_pandemic](https://www.researchgate.net/publication/344881922_The_role_of_social_media_to_generate_social_proof_as_engaged_society_for_stockpiling_behaviour_of_customers_during_Covid-19_pandemic)  
+   Link: <a href="https://www.researchgate.net/publication/344881922_The_role_of_social_media_to_generate_social_proof_as_engaged_society_for_stockpiling_behaviour_of_customers_during_Covid-19_pandemic" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/344881922_The_role_of_social_media_to_generate_social_proof_as_engaged_society_for_stockpiling_behaviour_of_customers_during_Covid-19_pandemic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>timely information, it also increased uncertainty and social proof which may have...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: business-school.ed.ac.uk  
    Title: exploration on number of likes and perceived credibility  
-   Link: [https://www.business-school.ed.ac.uk/collaborate/dissertation-executive-summaries/exploration-on-number-of-likes-and-perceived-credibility](https://www.business-school.ed.ac.uk/collaborate/dissertation-executive-summaries/exploration-on-number-of-likes-and-perceived-credibility)  
+   Link: <a href="https://www.business-school.ed.ac.uk/collaborate/dissertation-executive-summaries/exploration-on-number-of-likes-and-perceived-credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.business-school.ed.ac.uk/collaborate/dissertation-executive-summaries/exploration-on-number-of-likes-and-perceived-credibility</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on number of likes and perceived credibility...17 Nov 2022 — This research, therefore, aims to examine the impact of disclosure of numbe...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thesocial.com.my  
    Title: The Social: Best Bar & Restaurant In Bangsar, Malaysia  
-   Link: [https://thesocial.com.my/](https://thesocial.com.my/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TheSocial: Best Bar &amp; Restaurant In Bangsar, Malaysia - All In...The Social is the best restaurant and bar in Bangsar, Malaysia where yo...</p></details>
+   Link: <a href="https://thesocial.com.my/" target="_blank" rel="noopener noreferrer nofollow">https://thesocial.com.my/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Bar &amp; Restaurant In Bangsar, Malaysia - All In...The Social is the best restaurant and bar in Bangsar, Malaysia where yo...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ouci.dntb.gov.ua  
    Title: dntb.gov.ua Who shares misinformation on social media?  
-   Link: [https://ouci.dntb.gov.ua/en/works/7qbL8de4/](https://ouci.dntb.gov.ua/en/works/7qbL8de4/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/7qbL8de4/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/7qbL8de4/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-...This study investigated the factors influencing fake news sharing behavior (FSNB) among college students in China, with a focu...</p></details>

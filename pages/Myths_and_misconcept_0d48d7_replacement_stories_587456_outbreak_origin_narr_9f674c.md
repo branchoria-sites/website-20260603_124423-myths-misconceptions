@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_replacement_stories_587456_vote_count_process_c_94d5f9
 - Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - rumour-gaps
 - outbreak-origins
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - rumour-gaps
 - outbreak-origins
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Outbreak rumours are easier to correct when evidence about genetics and transmission gives people a plausible origin story.
 hero_summary: Outbreak rumours are easier to correct when evidence about genetics and transmission gives people a plausible origin story.
 layout: default
 permalink: /outbreak-origins/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /rumour-gaps/
 nav_short_title: Outbreak Origins
 title: Why Outbreak Rumours Need Origin Stories
-title_full: Why Outbreak Rumours Need Origin Stories | Rumour Gaps
+title_full: Why Outbreak Rumours Need Origin Stories
 display_title_short: Outbreak Origins
 display_title: Outbreak Origins
 heading_title: Why Outbreak Rumours Need Origin Stories
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Debunks Need a Better Story | Mythcraft
+parent_title: Why Debunks Need a Better Story
 parent_permalink: /rumour-gaps/
 parent_nav_short_title: Rumour Gaps
 parent_heading_title: Why Debunks Need a Better Story
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Slow Counting Needs a Better Story
 up_link:
   basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
@@ -265,7 +265,7 @@ next_link:
   permalink: /uncertainty-3560c5/
   short_title: Uncertainty
   heading_title: When We Do Not Know Yet Is Better
-date: '2026-06-09 04:55:26 '
+date: '2026-06-11 22:17:06 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-1.webp
@@ -274,15 +274,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_out
 
 ## Introduction
 
-Rumours about disease outbreaks often succeed because they answer a question that people urgently want resolved: where did the disease come from? When a [correction]({{ 'correction/' | relative_url }}) simply says that a secret plot, deliberate release, or hidden actor was not responsible, it can leave an explanatory gap. Research on misinformation shows that people are more likely to abandon a false claim when they are offered a coherent alternative account that explains the same events. In the context of outbreaks, that [replacement story]({{ 'better-story-524703/' | relative_url }}) is often a natural-cause narrative built from genetics, ecology, epidemiology, and transmission data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span> Springer Natural-cause explanations do not work because they are reassuring. They work when they are evidence-based and capable of answering the same <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</span></span></span> questions that rumours attempt to answer: how a pathogen emerged, how it entered human populations, and why the outbreak spread when and where it did.
-
+Rumours about disease outbreaks often succeed because they answer a question that people urgently want resolved: where did the disease come from? When a [correction]({{ 'correction/' | relative_url }}) simply says that a secret plot, deliberate release, or hidden actor was not responsible, it can leave an explanatory gap. Research on misinformation shows that people are more likely to abandon a false claim when they are offered a coherent alternative account that explains the same events. In the context of outbreaks, that replacement story is often a natural-cause narrative built from genetics, ecology, epidemiology, and transmission data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span> Springer Natural-cause explanations do not work because they are reassuring. They work when they are evidence-based and capable of answering the same <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</span></span></span> questions that rumours attempt to answer: how a pathogen emerged, how it entered human populations, and why the outbreak spread when and where it did.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-1-dark.svg" | relative_url }}" alt="Outbreak Origins illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Secret-Plot Claims Feel Coherent
 
 Conspiracy theories about outbreaks frequently provide a complete narrative structure. They identify a cause, assign responsibility, and explain consequences in a single story. Even when the evidence is weak, the story can feel psychologically satisfying because it removes uncertainty.
 
-A correction that only says, “there is no evidence of a deliberate release,” may fail to replace that structure. People are still left asking why the outbreak began. Studies of the [continued influence]({{ 'old-stories/' | relative_url }}) effect show that misinformation can continue shaping judgement even [after correction]({{ 'after-correction/' | relative_url }}), particularly when no alternative explanation fills the gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span> Springer Disease outbreaks are especially vulnerable to this pattern because emergence events are often complex. A natural origin may involve wildlife <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</span></span></span> reservoirs, ecological change, cross-species transmission, and a period of undetected spread before authorities recognise a new disease. Compared with a simple allegation of intentional action, the real explanation can initially appear fragmented or incomplete.
+A correction that only says, “there is no evidence of a deliberate release,” may fail to replace that structure. People are still left asking why the outbreak began. Studies of the continued influence effect show that misinformation can continue shaping judgement even [after correction]({{ 'after-correction/' | relative_url }}), particularly when no alternative explanation fills the gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span> Springer Disease outbreaks are especially vulnerable to this pattern because emergence events are often complex. A natural origin may involve wildlife <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</span></span></span> reservoirs, ecological change, cross-species transmission, and a period of undetected spread before authorities recognise a new disease. Compared with a simple allegation of intentional action, the real explanation can initially appear fragmented or incomplete.
 
 This creates a communication challenge. Public health agencies must do more than reject unsupported claims. They must show how available evidence fits together into a plausible and understandable account of events.
 
@@ -290,10 +289,9 @@ This creates a communication challenge. Public health agencies must do more than
 
 Genetic sequencing provides one of the most powerful tools for constructing origin stories grounded in evidence. Every time a pathogen reproduces, small mutations accumulate. By comparing genomes collected from different places and times, scientists can reconstruct relationships between strains and estimate how transmission unfolded.
 
-For emerging infectious diseases, this approach often reveals links to pathogens already circulating in animal populations. Zoonotic spillover—the movement of a pathogen from animals into humans—is a well-established mechanism behind many emerging diseases. Reviews of outbreak biology estimate that a large proportion of emerging human infectious diseases have animal origins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span>
+For emerging infectious diseases, this approach often reveals links to pathogens already circulating in animal populations. Zoonotic spillover—the movement of a pathogen from animals into humans—is a well-established mechanism behind many emerging diseases. Reviews of outbreak biology estimate that a large proportion of emerging human infectious diseases have animal origins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span>
 
 Genetic evidence serves an important narrative function because it provides a concrete alternative to speculation. Instead of merely stating that a pathogen was not engineered or deliberately introduced, researchers can show:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -306,9 +304,6 @@ Genetic evidence serves an important narrative function because it provides a co
 
 These findings create a causal chain that is often more detailed than the rumours they replace. The resulting explanation is not simply “it happened naturally,” but rather a specific account of how biological processes produced the outbreak.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X31g5TB-MRo" title="Where Did Viruses Come From?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X31g5TB-MRo" target="_blank" rel="noopener noreferrer">Where Did Viruses Come From?</a></p><p class="youtube-embed-meta">Channel: PBS Eons</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X31g5TB-MRo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X31g5TB-MRo">Open on YouTube</a></p></div></div></div>
-
 ### COVID-19 as a Case Study in Competing Narratives
 
 The debate over the origins of COVID-19 illustrates why [replacement stories]({{ 'rumour-gaps/' | relative_url }}) matter. Competing explanations emerged almost immediately, including claims of deliberate creation, laboratory escape, and natural zoonotic emergence.
@@ -319,14 +314,12 @@ The World Health Organization's Scientific Advisory Group for the Origins of Nov
 
 What matters for misinformation correction is not that every detail has been settled. It is that investigators can present an evidence-based pathway linking animal hosts, viral evolution, environmental conditions, and human transmission. That account gives people a scientifically grounded explanation rather than leaving a vacuum that rumours can fill.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-2-dark.svg" | relative_url }}" alt="Outbreak Origins illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Transmission Timelines Make Corrections Clearer
 
 Genetics alone rarely resolves outbreak origins. Transmission timelines provide another critical part of the replacement story.
 
 When investigators reconstruct an outbreak, they examine:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -344,9 +337,7 @@ A transmission timeline can transform a correction from a simple denial into a c
 
 This type of reconstruction helps people understand cause and effect. The outbreak becomes a sequence of observable events rather than a mystery requiring hidden actors.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/14RpqF9cOec" title="Demystifying Zoonotic Diseases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=14RpqF9cOec" target="_blank" rel="noopener noreferrer">Demystifying Zoonotic Diseases</a></p><p class="youtube-embed-meta">Channel: Demystifying Medicine McMaster</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=14RpqF9cOec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=14RpqF9cOec">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-3-dark.svg" | relative_url }}" alt="Outbreak Origins illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Uncertainty Does Not Automatically Validate Rumours
 
 Outbreak investigations often begin with incomplete information. Scientists may not immediately identify an animal host, the exact spillover event, or the first infected person. Rumours frequently exploit these gaps by presenting certainty where evidence is still developing.
@@ -357,17 +348,11 @@ The WHO's framework for investigating pathogen origins explicitly recognises tha
 
 A natural-cause narrative therefore does not require perfect certainty. It requires a body of evidence that consistently points toward a plausible mechanism and explains observed facts better than competing claims.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-3-dark.svg" | relative_url }}" alt="Outbreak Origins illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Origin Stories Improve Public Understanding
 
 The most effective [corrections]({{ 'corrections/' | relative_url }}) answer the question that generated the rumour in the first place. In outbreak settings, that question is usually not whether a specific claim is false. It is where the disease came from and how it spread.
 
-Natural-cause narratives help because they provide explanatory completeness. They connect wildlife reservoirs, genetic evolution, spillover events, early transmission chains, and population spread into a single account. When supported by genetic and epidemiological evidence, these narratives give people a framework for understanding the outbreak without relying on unsupported speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span> Springer The broader lesson for myths and misconceptions is that corrections work best when they replace faulty explanations rather than merely removi <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</span></span></span> ng them. In disease outbreaks, evidence-based origin stories fill the gap that rumours would otherwise occupy, making scientific explanations more understandable, memorable, and resilient.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VCnL3aoNEAA" title="Investigating the ecology of a deadly virus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VCnL3aoNEAA" target="_blank" rel="noopener noreferrer">Investigating the ecology of a deadly virus</a></p><p class="youtube-embed-meta">Channel: Nelson Institute for Environmental Studies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VCnL3aoNEAA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VCnL3aoNEAA">Open on YouTube</a></p></div></div></div>
-
+Natural-cause narratives help because they provide explanatory completeness. They connect wildlife reservoirs, genetic evolution, spillover events, early transmission chains, and population spread into a single account. When supported by genetic and epidemiological evidence, these narratives give people a framework for understanding the outbreak without relying on unsupported speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span> Springer The broader lesson for myths and misconceptions is that corrections work best when they replace faulty explanations rather than merely removi <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</span></span></span> ng them. In disease outbreaks, evidence-based origin stories fill the gap that rumours would otherwise occupy, making scientific explanations more understandable, memorable, and resilient.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -734,110 +719,110 @@ Natural-cause narratives help because they provide explanatory completeness. The
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-021-00335-9](https://link.springer.com/article/10.1186/s41235-021-00335-9)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.3758/s13421-023-01402-w](https://link.springer.com/article/10.3758/s13421-023-01402-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerThe impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Research on the continued inf...</p></details>
+   Link: <a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Research on the continued inf...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8182890/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8182890/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCZoonotic spillover: Understanding basic aspects for better...by JH Ellwanger · 2021 · Cited by 319 — The transmission of pathogens fr...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8182890/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8182890/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Zoonotic spillover: Understanding basic aspects for better...by JH Ellwanger · 2021 · Cited by 319 — The transmission of pathogens fr...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0092867421009910](https://www.sciencedirect.com/science/article/pii/S0092867421009910)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe origins of SARS-CoV-2: A critical reviewby EC Holmes · 2021 · Cited by 758 — Evidence supporting a zoonotic origin of se...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0092867421009910" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0092867421009910</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The origins of SARS-CoV-2: A critical reviewby EC Holmes · 2021 · Cited by 758 — Evidence supporting a zoonotic origin of se...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: who.int  
-   Link: [https://www.who.int/news/item/27-06-2025-who-scientific-advisory-group-issues-report-on-origins-of-covid-19](https://www.who.int/news/item/27-06-2025-who-scientific-advisory-group-issues-report-on-origins-of-covid-19)  
+   Link: <a href="https://www.who.int/news/item/27-06-2025-who-scientific-advisory-group-issues-report-on-origins-of-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/27-06-2025-who-scientific-advisory-group-issues-report-on-origins-of-covid-19</a>  
 
 7. <a id="endnote-7"></a>
    Source: who.int  
-   Link: [https://www.who.int/publications/m/item/independent-assessment-of-the-origins-of-sars-cov-2-from-the-scientific-advisory-group-for-the-origins-of-novel-pathogens](https://www.who.int/publications/m/item/independent-assessment-of-the-origins-of-sars-cov-2-from-the-scientific-advisory-group-for-the-origins-of-novel-pathogens)  
+   Link: <a href="https://www.who.int/publications/m/item/independent-assessment-of-the-origins-of-sars-cov-2-from-the-scientific-advisory-group-for-the-origins-of-novel-pathogens" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/m/item/independent-assessment-of-the-origins-of-sars-cov-2-from-the-scientific-advisory-group-for-the-origins-of-novel-pathogens</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationIndependent assessment of the origins of SARS‑CoV‑2This current review is an independent assessment of the origi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: who.int  
-   Link: [https://www.who.int/news/item/04-09-2024-who-launches-global-framework-for-understanding-the-origins-of-new-or-re-emerging-pathogens](https://www.who.int/news/item/04-09-2024-who-launches-global-framework-for-understanding-the-origins-of-new-or-re-emerging-pathogens)  
+   Link: <a href="https://www.who.int/news/item/04-09-2024-who-launches-global-framework-for-understanding-the-origins-of-new-or-re-emerging-pathogens" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/04-09-2024-who-launches-global-framework-for-understanding-the-origins-of-new-or-re-emerging-pathogens</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationWHO launches global framework for understanding the...4 Sept 2024 — The World Health Organization (WHO) has pub...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: who.int  
    Title: final joint report origins studies 6 april 201  
-   Link: [https://www.who.int/docs/default-source/coronaviruse/final-joint-report_origins-studies-6-april-201.pdf](https://www.who.int/docs/default-source/coronaviruse/final-joint-report_origins-studies-6-april-201.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO-convened Global Study of Origins of SARS-CoV-2by WHO Joint · 2021 · Cited by 3 — Evidence from surveys and targeted studies so far ha...</p></details>
+   Link: <a href="https://www.who.int/docs/default-source/coronaviruse/final-joint-report_origins-studies-6-april-201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/default-source/coronaviruse/final-joint-report_origins-studies-6-april-201.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>convened Global Study of Origins of SARS-CoV-2by WHO Joint · 2021 · Cited by 3 — Evidence from surveys and targeted studies so far ha...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691823002706](https://www.sciencedirect.com/science/article/pii/S0001691823002706)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691823002706</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effect” (CIE) (Jo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nejm.org  
-   Link: [https://www.nejm.org/doi/full/10.1056/NEJMp2305081](https://www.nejm.org/doi/full/10.1056/NEJMp2305081)  
+   Link: <a href="https://www.nejm.org/doi/full/10.1056/NEJMp2305081" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/doi/full/10.1056/NEJMp2305081</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New England Journal of MedicineThe Origins of Covid-19 — Why It Matters (and...by LO Gostin · 2023 · Cited by 80 — The two major hypothe...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Updated Assessment on COVID-19 OriginsThe IC assesses that SARS-CoV-2, the virus that causes COVID-19, probably emerged and infected huma...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/the-continued-influence-of-misinformation-in-[memory](https://scispace.com/pdf/the-continued-influence-of-misinformation-in-[memory)  
+   Link: <a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-[memory" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-[memory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The continued influence of misinformation in memoryYet despite these factors, the misinformation continues to influence later judgments a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: today.ucsd.edu  
-   Link: [https://today.ucsd.edu/story/recent-pandemic-viruses-jumped-to-humans-without-prior-adaptation-uc-san-diego-study-finds](https://today.ucsd.edu/story/recent-pandemic-viruses-jumped-to-humans-without-prior-adaptation-uc-san-diego-study-finds)  
+   Link: <a href="https://today.ucsd.edu/story/recent-pandemic-viruses-jumped-to-humans-without-prior-adaptation-uc-san-diego-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://today.ucsd.edu/story/recent-pandemic-viruses-jumped-to-humans-without-prior-adaptation-uc-san-diego-study-finds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pandemic Viruses Jumped to Humans Without Prior...9 Mar 2026 — For certain viruses, researchers found no evidence that they evolved spec...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: middleeasthealth.com  
-   Link: [https://middleeasthealth.com/covid-19-update/who-scientific-panel-concludes-natural-spillover-most-likely-origin-of-covid-19-but-laboratory-leak-cannot-be-ruled-out/](https://middleeasthealth.com/covid-19-update/who-scientific-panel-concludes-natural-spillover-most-likely-origin-of-covid-19-but-laboratory-leak-cannot-be-ruled-out/)  
+   Link: <a href="https://middleeasthealth.com/covid-19-update/who-scientific-panel-concludes-natural-spillover-most-likely-origin-of-covid-19-but-laboratory-leak-cannot-be-ruled-out/" target="_blank" rel="noopener noreferrer nofollow">https://middleeasthealth.com/covid-19-update/who-scientific-panel-concludes-natural-spillover-most-likely-origin-of-covid-19-but-laboratory-leak-cannot-be-ruled-out/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO scientific panel concludes natural spillover most...Aug 6, 2025 — The assessment highlights compelling metagenomic evidence from the...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE](https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE)  
+   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: brod.ntcenter.bg  
-   Link: [https://brod.ntcenter.bg/en/continued-influence-effect/](https://brod.ntcenter.bg/en/continued-influence-effect/)  
+   Link: <a href="https://brod.ntcenter.bg/en/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brod.ntcenter.bg/en/continued-influence-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence EffectThe &quot;Continued Influence Effect&quot; refers to the phenomenon where misinformation continues to affect people&#x27;s thinking and...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: GOV.UK  
    Title: uk government approach to implementing the strategy england only  
-   Link: [https://www.gov.uk/government/publications/pandemic-preparedness-strategy-building-our-capabilities/uk-government-approach-to-implementing-the-strategy-england-only](https://www.gov.uk/government/publications/pandemic-preparedness-strategy-building-our-capabilities/uk-government-approach-to-implementing-the-strategy-england-only)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>government approach to implementing the strategy...25 Mar 2026 — The UK government has learned crucial lessons from COVID-19. These have...</p></details>
+   Link: <a href="https://www.gov.uk/government/publications/pandemic-preparedness-strategy-building-our-capabilities/uk-government-approach-to-implementing-the-strategy-england-only" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/pandemic-preparedness-strategy-building-our-capabilities/uk-government-approach-to-implementing-the-strategy-england-only</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ernment approach to implementing the strategy...25 Mar 2026 — The UK government has learned crucial lessons from COVID-19. These have...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Keywords: COVID-19, SARS-Co V  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9420317/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9420317/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9420317/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9420317/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>updated review of the scientific literature on the origin of...by JL Domingo · 2022 · Cited by 39 — Based on the information here review...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: fao.org  
-   Link: [https://www.fao.org/one-health/highlights/understanding-the-origins-of-zoonotic-threats/en](https://www.fao.org/one-health/highlights/understanding-the-origins-of-zoonotic-threats/en)  
+   Link: <a href="https://www.fao.org/one-health/highlights/understanding-the-origins-of-zoonotic-threats/en" target="_blank" rel="noopener noreferrer nofollow">https://www.fao.org/one-health/highlights/understanding-the-origins-of-zoonotic-threats/en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an animal host into a human population.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Zoonotic origins of COVID 19  
-   Link: [https://en.wikipedia.org/wiki/Zoonotic_origins_of_COVID-19](https://en.wikipedia.org/wiki/Zoonotic_origins_of_COVID-19)  
+   Link: <a href="https://en.wikipedia.org/wiki/Zoonotic_origins_of_COVID-19" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Zoonotic_origins_of_COVID-19</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Zoonotic origins of COVID-19SARS-CoV-2, the causative agent of COVID-19, was first introduced to humans through zoonosis and a zoonoti...</p></details>

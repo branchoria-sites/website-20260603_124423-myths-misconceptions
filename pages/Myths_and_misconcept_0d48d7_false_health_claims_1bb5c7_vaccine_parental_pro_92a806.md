@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_natural_remedies_evi_8be102
 - Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - health-claims
 - vaccine-fears
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - health-claims
 - vaccine-fears
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Vaccine myths can become persuasive when refusal is framed as a loving parent's safest choice.
 hero_summary: Vaccine myths can become persuasive when refusal is framed as a loving parent's safest choice.
 layout: default
 permalink: /vaccine-fears/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /health-claims/
 nav_short_title: Vaccine Fears
 title: Why Vaccine Myths Feel Protective to Parents
-title_full: Why Vaccine Myths Feel Protective to Parents | Health Claims
+title_full: Why Vaccine Myths Feel Protective to Parents
 display_title_short: Vaccine Fears
 display_title: Vaccine Fears
 heading_title: Why Vaccine Myths Feel Protective to Parents
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Helpful Health Advice Can Be Wrong | Mythcraft
+parent_title: Why Helpful Health Advice Can Be Wrong
 parent_permalink: /health-claims/
 parent_nav_short_title: Health Claims
 parent_heading_title: Why Helpful Health Advice Can Be Wrong
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Urgent Health Warnings Spread So Fast
 up_link:
   basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
@@ -259,7 +259,7 @@ prev_link:
   permalink: /urgent-warnings/
   short_title: Urgent Warnings
   heading_title: Why Urgent Health Warnings Spread So Fast
-date: '2026-06-09 04:48:09 '
+date: '2026-06-11 22:13:25 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_vaccine_parental_pro_92a806-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_vaccine_parental_pro_92a806-Illustration-1.webp
@@ -270,17 +270,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_vac
 
 Many vaccine myths spread not because parents are careless, but because they are trying to be careful. Rumours about hidden side effects, long-term harm or government cover-ups often present vaccine refusal as the safest possible choice for a child. In that framing, the parent who questions [vaccines]({{ 'vaccines/' | relative_url }}) is not cast as irresponsible. They are cast as vigilant, loving and willing to protect their child from a danger that others supposedly overlook.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_vaccine_parental_pro_92a806-Illustration-1-dark.svg" | relative_url }}" alt="Vaccine Fears illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_vaccine_parental_pro_92a806-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_vaccine_parental_pro_92a806-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That emotional structure helps explain why vaccine myths can feel persuasive even when the underlying claims have been repeatedly disproved. The decision is rarely experienced by parents as a choice between science and misinformation. More often, it feels like a choice between competing warnings about risk. When fear for a child becomes the central concern, emotionally powerful stories and social reassurance can outweigh statistics or expert statements. Research on vaccine hesitancy consistently finds that concerns about safety, trust and perceived risk are among the strongest influences on parental decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
+That emotional structure helps explain why vaccine myths can feel persuasive even when the underlying claims have been repeatedly disproved. The decision is rarely experienced by parents as a choice between science and misinformation. More often, it feels like a choice between competing warnings about risk. When fear for a child becomes the central concern, emotionally powerful stories and social reassurance can outweigh statistics or expert statements. Research on vaccine hesitancy consistently finds that concerns about safety, trust and perceived risk are among the strongest influences on parental decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
 
 ## How Child-Safety Fears Shape Vaccine Decisions
 
 Parents are expected to anticipate danger before it arrives. That instinct is normally protective. The difficulty is that it can also make frightening misinformation feel like responsible caution.
 
-Vaccines create a particular psychological challenge because they involve a deliberate medical intervention given to a healthy child. Parents are not only weighing the risk of disease. They are also weighing the possibility, however small, that a decision they make today could cause harm tomorrow. Research on vaccine hesitancy repeatedly identifies concerns about safety and adverse effects as central drivers of parental uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
+Vaccines create a particular psychological challenge because they involve a deliberate medical intervention given to a healthy child. Parents are not only weighing the risk of disease. They are also weighing the possibility, however small, that a decision they make today could cause harm tomorrow. Research on vaccine hesitancy repeatedly identifies concerns about safety and adverse effects as central drivers of parental uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
 
-A common pattern in vaccine myths is to reverse how risk is perceived. Instead of focusing on the danger posed by diseases such as measles, whooping cough or meningitis, the story shifts attention to a feared vaccine injury. Because the vaccine is a visible, immediate action while the disease may feel distant or unlikely, the vaccine can begin to seem like the more immediate threat. Researchers have noted that in countries where many vaccine-preventable diseases have become rare, some parents find it harder to recognise the diseases' risks while remaining highly sensitive to stories about possible vaccine harms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
+A common pattern in vaccine myths is to reverse how risk is perceived. Instead of focusing on the danger posed by diseases such as measles, whooping cough or meningitis, the story shifts attention to a feared vaccine injury. Because the vaccine is a visible, immediate action while the disease may feel distant or unlikely, the vaccine can begin to seem like the more immediate threat. Researchers have noted that in countries where many vaccine-preventable diseases have become rare, some parents find it harder to recognise the diseases' risks while remaining highly sensitive to stories about possible vaccine harms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
 
 This can be intensified by what psychologists call omission bias: people often feel worse about harm that results from an action than harm that results from inaction. For a worried parent, choosing not to vaccinate may feel emotionally safer than actively authorising a vaccine, even if the evidence shows that avoiding vaccination creates greater overall risk.
 
@@ -290,12 +289,9 @@ Many vaccine myths spread through personal stories rather than technical argumen
 
 A parent may encounter a post claiming that a child changed dramatically after vaccination, developed a health condition or experienced a severe reaction. Even when the story lacks evidence of causation, it can be emotionally compelling because it centres on a child and a family's suffering.
 
-Humans naturally remember vivid narratives more easily than population-level data. A story about one named child can feel more real than studies involving millions of people. This helps explain why discredited claims, including the long-refuted myth linking vaccines and autism, remained influential long after extensive research found no causal connection. The emotional force of the story often outlasts public awareness of the evidence against it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
+Humans naturally remember vivid narratives more easily than population-level data. A story about one named child can feel more real than studies involving millions of people. This helps explain why discredited claims, including the long-refuted myth linking vaccines and autism, remained influential long after extensive research found no causal connection. The emotional force of the story often outlasts public awareness of the evidence against it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
 
 For parents already worried about protecting a child, such stories can function as cautionary tales: "What if this happened to my family?" The emotional question can become more influential than the statistical one.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_bJn2BgSiCg" title="Strategies for Talking With Parents About Vaccines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_bJn2BgSiCg" target="_blank" rel="noopener noreferrer">Strategies for Talking With Parents About Vaccines</a></p><p class="youtube-embed-meta">Channel: JAMA Network &middot; Views: 659 &middot; Uploaded: May 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_bJn2BgSiCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_bJn2BgSiCg">Open on YouTube</a></p></div></div></div>
 
 ## Why Discredited Claims Keep Circulating Socially
 
@@ -303,10 +299,9 @@ Vaccine myths often survive because they meet social and emotional needs rather 
 
 Within parenting communities, sharing warnings can be interpreted as an act of care. A parent who forwards a concerning article or social media post may believe they are helping others avoid danger. The social reward comes from appearing attentive and protective, not necessarily from verifying the claim.
 
-Research on misinformation shows that emotionally charged information is more likely to be shared, particularly when it aligns with existing concerns or group identities. Vaccine-related misinformation often combines fear, uncertainty and moral responsibility, making it highly transmissible within social networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
+Research on misinformation shows that emotionally charged information is more likely to be shared, particularly when it aligns with existing concerns or group identities. Vaccine-related misinformation often combines fear, uncertainty and moral responsibility, making it highly transmissible within social networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
 
 Several recurring themes help vaccine myths spread:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -323,19 +318,18 @@ This framing creates a difficult dynamic. If someone rejects the myth, they can 
 
 Online [platforms]({{ 'platforms/' | relative_url }}) can amplify vaccine fears because emotionally engaging content attracts attention.
 
-Studies of vaccine misinformation during the COVID-19 era found that low-credibility vaccine content often generated disproportionate sharing and engagement compared with authoritative public-health information. A relatively small number of highly visible accounts could reach very large audiences through repeated circulation of alarming claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2209.01675" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv One Year of COVID-19 Vaccine Misinformation on Twitter: Longitudinal Study</span><span class="citation-popover-snippet">arXivOne Year of COVID-19 Vaccine Misinformation on Twitter: Longitudinal StudySeptember 4, 2022...</span><span class="citation-popover-meta">Published: September 4, 2022</span></span></span>
+Studies of vaccine misinformation during the COVID-19 era found that low-credibility vaccine content often generated disproportionate sharing and engagement compared with authoritative public-health information. A relatively small number of highly visible accounts could reach very large audiences through repeated circulation of alarming claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2209.01675" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv One Year of COVID-19 Vaccine Misinformation on Twitter: Longitudinal Study</span><span class="citation-popover-snippet">One Year of COVID-19 Vaccine Misinformation on Twitter: Longitudinal StudySeptember 4, 2022...</span><span class="citation-popover-meta">Published: September 4, 2022</span></span></span>
 
 Importantly, many parents do not begin with a strong anti-vaccine [identity]({{ 'identity/' | relative_url }}). They may start with a search for reassurance about side effects, dosage schedules or new vaccines. If search results and social feeds repeatedly present frightening stories, uncertainty can gradually turn into distrust.
 
-Research examining parental vaccine attitudes during and after the pandemic found that misinformation, social clustering and declining trust could reinforce one another, allowing concerns to circulate within friendship groups, online communities and local networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1660-4601/21/11/1471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPICOVID-19 Parental Vaccine Hesitancy: The Role of Trust in...by A Gentile · 2024 · Cited by 2 — Trust in science and belief in misinf...</span></span></span>
-
+Research examining parental vaccine attitudes during and after the pandemic found that misinformation, social clustering and declining trust could reinforce one another, allowing concerns to circulate within friendship groups, online communities and local networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1660-4601/21/11/1471" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">COVID-19 Parental Vaccine Hesitancy: The Role of Trust in...by A Gentile · 2024 · Cited by 2 — Trust in science and belief in misinf...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_vaccine_parental_pro_92a806-Illustration-2-dark.svg" | relative_url }}" alt="Vaccine Fears illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_vaccine_parental_pro_92a806-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_vaccine_parental_pro_92a806-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Correcting Vaccine Myths Can Backfire
 
 Parents who share vaccine myths are often responding to fear, not simply lacking information. That distinction matters because purely factual [corrections]({{ 'corrections/' | relative_url }}) do not always address the emotional reason the belief became persuasive.
 
-When a parent feels they are protecting their child, an aggressive [correction]({{ 'correction/' | relative_url }}) can sound like an accusation that they are reckless or gullible. Research on vaccine communication has long shown that poor interactions with health professionals can increase resistance, while respectful engagement can improve trust and vaccine acceptance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
+When a parent feels they are protecting their child, an aggressive [correction]({{ 'correction/' | relative_url }}) can sound like an accusation that they are reckless or gullible. Research on vaccine communication has long shown that poor interactions with health professionals can increase resistance, while respectful engagement can improve trust and vaccine acceptance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
 
 A common mistake is to focus only on proving a claim false. Parents may also need acknowledgement of the underlying concern. A conversation that begins with "I understand why that would worry you" is often received differently from one that begins with "that's nonsense".
 
@@ -343,18 +337,17 @@ This does not mean treating misinformation as equally valid. It means recognisin
 
 ## How Trusted Messengers Can Correct Without Shaming
 
-Evidence suggests that trust is one of the strongest predictors of vaccine [confidence]({{ 'confidence/' | relative_url }}). Parents who trust their healthcare providers are generally more likely to accept vaccination recommendations and less likely to rely on unreliable sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
+Evidence suggests that trust is one of the strongest predictors of vaccine [confidence]({{ 'confidence/' | relative_url }}). Parents who trust their healthcare providers are generally more likely to accept vaccination recommendations and less likely to rely on unreliable sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
 
 Effective communication often follows a different pattern from public arguments on social media.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iPRvynMFYJs" title="Dr. Meg Fisher - Trust the Science, the COVID-19 Vaccines are Safe and Effective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iPRvynMFYJs" target="_blank" rel="noopener noreferrer">Dr. Meg Fisher - Trust the Science, the COVID-19 Vaccines are Safe and Effective</a></p><p class="youtube-embed-meta">Channel: New Jersey Department of Health</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iPRvynMFYJs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iPRvynMFYJs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_bJn2BgSiCg" title="Strategies for Talking With Parents About Vaccines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_bJn2BgSiCg" target="_blank" rel="noopener noreferrer">Strategies for Talking With Parents About Vaccines</a></p><p class="youtube-embed-meta">Channel: JAMA Network &middot; Views: 659 &middot; Uploaded: May 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_bJn2BgSiCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_bJn2BgSiCg">Open on YouTube</a></p></div></div></div>
 
 ### Start With the Shared Goal
 
 Healthcare professionals who communicate effectively tend to begin with a common objective: protecting the child.
 
-Instead of positioning the discussion as a battle over expertise, they emphasise that both sides care about the same outcome. This reduces the sense that parents must choose between being a good parent and accepting medical advice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
+Instead of positioning the discussion as a battle over expertise, they emphasise that both sides care about the same outcome. This reduces the sense that parents must choose between being a good parent and accepting medical advice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
 
 ### Address the Fear Behind the Claim
 
@@ -366,11 +359,10 @@ Addressing that fear directly can be more effective than repeating statistics al
 
 Research and public-health communication guidance warn against repeating myths without context because [repetition]({{ 'repetition/' | relative_url }}) can unintentionally reinforce them. Instead, communicators are encouraged to lead with accurate information, explain why the misleading claim is incorrect, and then return to the evidence-based explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unicef.org/stories/how-talk-about-vaccines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unicef.org">[UNICEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unicef.org</span><span class="citation-popover-title">How to talk to your friends and family about vaccines Don&#x27;t focus on the myths</span><span class="citation-popover-snippet">· Start with the fact. Vaccines are extremely safe and effective. · Warn before the myth is coming. Say, “there is misinformation...Read...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_vaccine_parental_pro_92a806-Illustration-3-dark.svg" | relative_url }}" alt="Vaccine Fears illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_vaccine_parental_pro_92a806-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_vaccine_parental_pro_92a806-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Use Trusted Relationships
 
-Parents often trust personal healthcare providers more than distant institutions. Surveys in several countries have found that doctors, paediatricians and nurses remain among the most trusted sources of vaccine information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
+Parents often trust personal healthcare providers more than distant institutions. Surveys in several countries have found that doctors, paediatricians and nurses remain among the most trusted sources of vaccine information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
 
 That trust matters because vaccine decisions are rarely made through evidence alone. They are made through relationships, credibility and confidence that someone understands a parent's concerns.
 
@@ -380,11 +372,7 @@ The most persuasive vaccine myths usually contain a genuine parental value attac
 
 This combination makes vaccine myths unusually resilient. Parents are not only defending a belief about medicine. They may feel they are defending their identity as someone who keeps their child safe.
 
-Understanding that distinction helps explain why vaccine misinformation often spreads through caring families and friendship networks. The problem is not that concern for children is misplaced. The problem is that concern can be redirected by inaccurate claims, vivid anecdotes and distrustful narratives that make a proven public-health tool appear more dangerous than the diseases it prevents. Evidence-based communication works best when it recognises the protective instinct underneath the fear while clearly separating that instinct from the misinformation attached to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PLW62VZDFv4" title="Trust, Science, and Parental Fears: Part 1 of Navigating Childhood Vaccination Decisions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PLW62VZDFv4" target="_blank" rel="noopener noreferrer">Trust, Science, and Parental Fears: Part 1 of Navigating Childhood Vaccination Decisions</a></p><p class="youtube-embed-meta">Channel: St. Luke&#x27;s Hospital</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PLW62VZDFv4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PLW62VZDFv4">Open on YouTube</a></p></div></div></div>
-
+Understanding that distinction helps explain why vaccine misinformation often spreads through caring families and friendship networks. The problem is not that concern for children is misplaced. The problem is that concern can be redirected by inaccurate claims, vivid anecdotes and distrustful narratives that make a proven public-health tool appear more dangerous than the diseases it prevents. Evidence-based communication works best when it recognises the protective instinct underneath the fear while clearly separating that instinct from the misinformation attached to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine hesitancy: An overview</span><span class="citation-popover-snippet">NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing vaccine coverage and an increa...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -783,164 +771,164 @@ Understanding that distinction helps explain why vaccine misinformation often sp
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCVaccine hesitancy: An overview  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing [vaccine coverage](&amp;#123;&amp;#123; &#x27;vaccine-coverage/&#x27; | relative_url &amp;#125;&amp;#125;) and an increa...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3906279/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby E Dubé · 2013 · Cited by 3026 — Vaccine hesitancy is believed to be responsible for decreasing [vaccine coverage](&amp;#123;&amp;#123; &#x27;vaccine-coverage/&#x27; | relative_url &amp;#125;&amp;#125;) and an increa...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9641700/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9641700/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9641700/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9641700/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>childhood vaccine hesitancy and predicting uptake of...by K Obohwemu · 2022 · Cited by 88 — This review aims are to (1) identify relevan...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: The reasons why people choose not to vaccinate  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7090020/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7090020/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCVaccine Safety: Myths and Misinformation - PMCby S Geoghegan · 2020 · Cited by 332 — The World Health Organization has named vaccine h...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7090020/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7090020/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccine Safety: Myths and Misinformation - PMCby S Geoghegan · 2020 · Cited by 332 — The World Health Organization has named vaccine h...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10224336/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10224336/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10224336/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10224336/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parents Say No to Having Their Children Vaccinated...by MLB Novilla · 2023 · Cited by 97 — Fear, generated by vaccine misinformation, ca...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12656419/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12656419/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCParental Vaccine Hesitancy, Trust in Physicians, and Future...by S Janiak · 2025 · Cited by 2 — The spread of misinformation about th...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12656419/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12656419/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Parental Vaccine Hesitancy, Trust in Physicians, and Future...by S Janiak · 2025 · Cited by 2 — The spread of misinformation about th...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10789192/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10789192/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCBehavioural interventions to reduce vaccine hesitancy driven...by K Ruggeri · 2024 · Cited by 123 — Vaccine misinformation on social...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10789192/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10789192/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural interventions to reduce vaccine hesitancy driven...by K Ruggeri · 2024 · Cited by 123 — Vaccine misinformation on social...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv One Year of COVID-19 Vaccine Misinformation on Twitter: Longitudinal Study  
-   Link: [https://arxiv.org/abs/2209.01675](https://arxiv.org/abs/2209.01675)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivOne Year of COVID-19 Vaccine Misinformation on Twitter: Longitudinal StudySeptember 4, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2209.01675" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.01675</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>One Year of COVID-19 Vaccine Misinformation on Twitter: Longitudinal StudySeptember 4, 2022...</p></details>
    Published: September 4, 2022  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10954085/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10954085/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Impact of the COVID-19 Pandemic on Parental Vaccine...by LA Grills · 2023 · Cited by 64 — Our study demonstrates that parental pe...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10954085/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10954085/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of the COVID-19 Pandemic on Parental Vaccine...by LA Grills · 2023 · Cited by 64 — Our study demonstrates that parental pe...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/1660-4601/21/11/1471](https://www.mdpi.com/1660-4601/21/11/1471)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPICOVID-19 Parental Vaccine Hesitancy: The Role of Trust in...by A Gentile · 2024 · Cited by 2 — Trust in science and belief in misinf...</p></details>
+   Link: <a href="https://www.mdpi.com/1660-4601/21/11/1471" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1660-4601/21/11/1471</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Parental Vaccine Hesitancy: The Role of Trust in...by A Gentile · 2024 · Cited by 2 — Trust in science and belief in misinf...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3480952/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3480952/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCCommunicating with parents about vaccination: a framework...by J Leask · 2012 · Cited by 899 — An effective interaction can address t...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3480952/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3480952/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Communicating with parents about vaccination: a framework...by J Leask · 2012 · Cited by 899 — An effective interaction can address t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7712553/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7712553/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7712553/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7712553/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parental Vaccine Hesitancy towards Childhood...by O Olson · 2020 · Cited by 339 — This systematic literature review will attempt to aid...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7872219/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7872219/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCVaccine Information Sources and Parental Trust in Their...by NM Eller · 2019 · Cited by 94 — Parental trust in their child&#x27;s health c...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7872219/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7872219/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccine Information Sources and Parental Trust in Their...by NM Eller · 2019 · Cited by 94 — Parental trust in their child&#x27;s health c...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10393542/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10393542/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCVaccination, information and parental confidence in the digital...by H Campbell · 2023 · Cited by 13 — Most parents use official sour...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10393542/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10393542/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccination, information and parental confidence in the digital...by H Campbell · 2023 · Cited by 13 — Most parents use official sour...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: who.int  
-   Link: [https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance/guidance/operations/communication](https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance/guidance/operations/communication)  
+   Link: <a href="https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance/guidance/operations/communication" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance/guidance/operations/communication</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is essential in at least three situations, namely:... Effective communication is an ongoing process...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: unicef.org  
    Title: How to talk to your friends and family about vaccines Don't focus on the myths  
-   Link: [https://www.unicef.org/stories/how-talk-about-vaccines](https://www.unicef.org/stories/how-talk-about-vaccines)  
+   Link: <a href="https://www.unicef.org/stories/how-talk-about-vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/stories/how-talk-about-vaccines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>· Start with the fact. Vaccines are extremely safe and effective. · Warn before the myth is coming. Say, “there is misinformation...Read...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: who.int  
    Title: vaccines and immunization vaccine safety  
-   Link: [https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-vaccine-safety](https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-vaccine-safety)  
+   Link: <a href="https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-vaccine-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-vaccine-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccines and immunization: Vaccine safety23 Sept 2025 — Vaccines are very safe. Like any medicine, vaccines can cause side effects. Howev...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: who.int  
-   Link: [https://www.who.int/news/item/22-09-2025-message-by-the-director-of-the-department-of-immunization--vaccines-and-biologicals-at-who---september-2025](https://www.who.int/news/item/22-09-2025-message-by-the-director-of-the-department-of-immunization--vaccines-and-biologicals-at-who---september-2025)  
+   Link: <a href="https://www.who.int/news/item/22-09-2025-message-by-the-director-of-the-department-of-immunization--vaccines-and-biologicals-at-who---september-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/22-09-2025-message-by-the-director-of-the-department-of-immunization--vaccines-and-biologicals-at-who---september-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>And their potential consequences include reversals of hard-won...Read more...</p></details>
    Published: september 2025  
 
 18. <a id="endnote-18"></a>
    Source: who.int  
    Title: how to talk about vaccines  
-   Link: [https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines](https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines)  
+   Link: <a href="https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Mar 2025 — Start by listening with empathy to those who have questions around vaccination. Don&#x27;t dismiss them; instead, acknowledge ho...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: mdpi.com  
    Title: 2076 393X  
-   Link: [https://www.mdpi.com/2076-393X/11/5/926](https://www.mdpi.com/2076-393X/11/5/926)  
+   Link: <a href="https://www.mdpi.com/2076-393X/11/5/926" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-393X/11/5/926</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Parents Say No to Having Their Children Vaccinated...by MLB Novilla · 2023 · Cited by 98 — The social drivers of vaccine hesitancy i...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Vaccine hesitancy  
-   Link: [https://en.wikipedia.org/wiki/Vaccine_hesitancy](https://en.wikipedia.org/wiki/Vaccine_hesitancy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Vaccine_hesitancy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vaccine_hesitancy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccine hesitancyVaccine hesitancy is a delay in acceptance, or refusal of vaccines despite availability and supporting evidence.Read...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: vaccinesafety.edu  
-   Link: [https://www.vaccinesafety.edu/how-to-talk-with-patients-about-vaccines/](https://www.vaccinesafety.edu/how-to-talk-with-patients-about-vaccines/)  
+   Link: <a href="https://www.vaccinesafety.edu/how-to-talk-with-patients-about-vaccines/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaccinesafety.edu/how-to-talk-with-patients-about-vaccines/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Talk with Patients About VaccinesVaccine hesitancy often involves deeply held world views, misperceptions adopted over time, or be...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: self.com  
-   Link: [https://www.self.com/story/vaccine-questions-parents-pediatricians](https://www.self.com/story/vaccine-questions-parents-pediatricians)  
+   Link: <a href="https://www.self.com/story/vaccine-questions-parents-pediatricians" target="_blank" rel="noopener noreferrer nofollow">https://www.self.com/story/vaccine-questions-parents-pediatricians</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It highlights the recent shift in the CDC&#x27;s online communication, which now tentatively entertains the disproven theory that infant vacci...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: americanprogress.org  
-   Link: [https://www.americanprogress.org/article/childhood-vaccination-has-saved-millions-of-lives-but-rising-hesitancy-could-reverse-decades-of-progress/](https://www.americanprogress.org/article/childhood-vaccination-has-saved-millions-of-lives-but-rising-hesitancy-could-reverse-decades-of-progress/)  
+   Link: <a href="https://www.americanprogress.org/article/childhood-vaccination-has-saved-millions-of-lives-but-rising-hesitancy-could-reverse-decades-of-progress/" target="_blank" rel="noopener noreferrer nofollow">https://www.americanprogress.org/article/childhood-vaccination-has-saved-millions-of-lives-but-rising-hesitancy-could-reverse-decades-of-progress/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Childhood Vaccination Has Saved Millions of Lives, but...Jan 8, 2025 — Growing vaccine hesitancy, driven by misinformation and disinform...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: mcri.edu.au  
-   Link: [https://www.mcri.edu.au/news/insights-and-opinions/how-can-healthcare-providers-help-parents-with-vaccine-concerns-to-make-a-positive-decision-to-vaccinate](https://www.mcri.edu.au/news/insights-and-opinions/how-can-healthcare-providers-help-parents-with-vaccine-concerns-to-make-a-positive-decision-to-vaccinate)  
+   Link: <a href="https://www.mcri.edu.au/news/insights-and-opinions/how-can-healthcare-providers-help-parents-with-vaccine-concerns-to-make-a-positive-decision-to-vaccinate" target="_blank" rel="noopener noreferrer nofollow">https://www.mcri.edu.au/news/insights-and-opinions/how-can-healthcare-providers-help-parents-with-vaccine-concerns-to-make-a-positive-decision-to-vaccinate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How can healthcare providers help parents with vaccine...12 May 2016 — We know that an effective interaction with a health care provider...</p></details>
    Published: May 2016  
 
 25. <a id="endnote-25"></a>
    Source: kff.org  
-   Link: [https://www.kff.org/other-health/new-kff-washington-post-poll-explores-parents-vaccine-attitudes-and-confusion-follows-acip-meeting-on-vaccine-recommendations/](https://www.kff.org/other-health/new-kff-washington-post-poll-explores-parents-vaccine-attitudes-and-confusion-follows-acip-meeting-on-vaccine-recommendations/)  
+   Link: <a href="https://www.kff.org/other-health/new-kff-washington-post-poll-explores-parents-vaccine-attitudes-and-confusion-follows-acip-meeting-on-vaccine-recommendations/" target="_blank" rel="noopener noreferrer nofollow">https://www.kff.org/other-health/new-kff-washington-post-poll-explores-parents-vaccine-attitudes-and-confusion-follows-acip-meeting-on-vaccine-recommendations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New KFF-Washington Post Poll Explores Parents&#x27; Vaccine...Sep 25, 2025 — Our goal is to be of service to everyone working on health misin...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: arc-yh.nihr.ac.uk  
-   Link: [https://arc-yh.nihr.ac.uk/research/publications/understanding-covid-19-misinformation-and-vaccine-hesitancy-in-context-in-context-findings-from-a-qualitative-study-involving-citizens-in-bradford-uk/](https://arc-yh.nihr.ac.uk/research/publications/understanding-covid-19-misinformation-and-vaccine-hesitancy-in-context-in-context-findings-from-a-qualitative-study-involving-citizens-in-bradford-uk/)  
+   Link: <a href="https://arc-yh.nihr.ac.uk/research/publications/understanding-covid-19-misinformation-and-vaccine-hesitancy-in-context-in-context-findings-from-a-qualitative-study-involving-citizens-in-bradford-uk/" target="_blank" rel="noopener noreferrer nofollow">https://arc-yh.nihr.ac.uk/research/publications/understanding-covid-19-misinformation-and-vaccine-hesitancy-in-context-in-context-findings-from-a-qualitative-study-involving-citizens-in-bradford-uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Covid-19 misinformation and vaccine...Understanding Covid-19 misinformation and vaccine hesitancy in context in context: Findings from a...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: dovepress.com  
-   Link: [https://www.dovepress.com/parental-vaccine-hesitancy-awareness-and-attitudes-toward-childhood-va-peer-reviewed-fulltext-article-PPA](https://www.dovepress.com/parental-vaccine-hesitancy-awareness-and-attitudes-toward-childhood-va-peer-reviewed-fulltext-article-PPA)  
+   Link: <a href="https://www.dovepress.com/parental-vaccine-hesitancy-awareness-and-attitudes-toward-childhood-va-peer-reviewed-fulltext-article-PPA" target="_blank" rel="noopener noreferrer nofollow">https://www.dovepress.com/parental-vaccine-hesitancy-awareness-and-attitudes-toward-childhood-va-peer-reviewed-fulltext-article-PPA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parental Vaccine Hesitancy, Awareness, and Attitudes...by M Alwhaibi · 2025 · Cited by 2 — This study aims to measure vaccine hesitancy...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
    Title: parents in the us who are hesitant about vaccinating their children are strongly  
-   Link: [https://www.facebook.com/NaturePortfolioJournals/posts/parents-in-the-us-who-are-hesitant-about-vaccinating-their-children-are-strongly/10155418644763167/](https://www.facebook.com/NaturePortfolioJournals/posts/parents-in-the-us-who-are-hesitant-about-vaccinating-their-children-are-strongly/10155418644763167/)  
+   Link: <a href="https://www.facebook.com/NaturePortfolioJournals/posts/parents-in-the-us-who-are-hesitant-about-vaccinating-their-children-are-strongly/10155418644763167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NaturePortfolioJournals/posts/parents-in-the-us-who-are-hesitant-about-vaccinating-their-children-are-strongly/10155418644763167/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parents in the US who are hesitant about vaccinating their...6 Dec 2017 — Parents in the US who are hesitant about vaccinating their chi...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Vaccine poll asks parents what they think about RFK Jr  
-   Link: [https://www.washingtonpost.com/health/2025/10/10/pediatricians-vaccine-trust-influencers-rfk-jr/](https://www.washingtonpost.com/health/2025/10/10/pediatricians-vaccine-trust-influencers-rfk-jr/)  
+   Link: <a href="https://www.washingtonpost.com/health/2025/10/10/pediatricians-vaccine-trust-influencers-rfk-jr/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/health/2025/10/10/pediatricians-vaccine-trust-influencers-rfk-jr/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and their pediatriciansA Washington Post-KFF poll reveals that pediatricians remain the most trusted source of vaccine information for U...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_bJn2BgSiCg](https://www.youtube.com/watch?v=_bJn2BgSiCg)  
+   Link: <a href="https://www.youtube.com/watch?v=_bJn2BgSiCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_bJn2BgSiCg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for Talking With Parents About VaccinesThe most important thing to think about when you&#x27;re talking with a family about vaccine...</p></details>

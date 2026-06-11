@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a
 - Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_political_correction_06b3e1
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - politics
 - group-cues
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - politics
 - group-cues
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Likes, shares, replies, and silence can make a false claim feel socially approved before anyone checks the evidence.
 hero_summary: Likes, shares, replies, and silence can make a false claim feel socially approved before anyone checks the evidence.
 layout: default
 permalink: /group-cues/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /politics/
 nav_short_title: Group Cues
 title: How Online Crowds Make Myths Feel True
-title_full: How Online Crowds Make Myths Feel True | Politics
+title_full: How Online Crowds Make Myths Feel True
 display_title_short: Group Cues
 display_title: Group Cues
 heading_title: How Online Crowds Make Myths Feel True
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Political Myths Resist Correction | Mythcraft
+parent_title: Why Political Myths Resist Correction
 parent_permalink: /politics/
 parent_nav_short_title: Politics
 parent_heading_title: Why Political Myths Resist Correction
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Changing Your Mind Can Feel Like Betrayal
 up_link:
   basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
@@ -265,7 +265,7 @@ next_link:
   permalink: /low-conflict/
   short_title: Low Conflict
   heading_title: How to Correct Myths Without Starting a Fight
-date: '2026-06-09 04:28:12 '
+date: '2026-06-11 22:03:44 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-1.webp
@@ -276,16 +276,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_on
 
 Online political myths often spread through social signals before they spread through evidence. A claim does not need to be proven to feel credible inside a digital community. If thousands of people appear to like, share, repeat or defend it, many users begin to treat it as socially established knowledge rather than a disputed assertion. The effect is especially powerful when political [identity]({{ 'identity/' | relative_url }}) is involved because people are not only evaluating information; they are also reading cues about loyalty, belonging and group norms.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-1-dark.svg" | relative_url }}" alt="Group Cues illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on misinformation increasingly shows that online engagement signals influence how people interpret political claims. Likes, reposts, supportive comments and visible endorsement can create impressions of consensus, while silence or hesitation can make disagreement seem rare. In polarised communities, these signals help transform questionable claims into accepted group narratives, even when factual disputes remain unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">PMC - NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X24001313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectInside the funhouse mirror factory: How social media...by CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror...</span></span></span>
+Research on misinformation increasingly shows that online engagement signals influence how people interpret political claims. Likes, reposts, supportive comments and visible endorsement can create impressions of consensus, while silence or hesitation can make disagreement seem rare. In polarised communities, these signals help transform questionable claims into accepted group narratives, even when factual disputes remain unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X24001313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Inside the funhouse mirror factory: How social media...by CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror...</span></span></span>
 
 ## How Approval Signals Shape Belief
 
 Most people cannot independently verify every political claim they encounter. As a result, they often use social shortcuts when judging credibility. Online [platforms]({{ 'platforms/' | relative_url }}) are built around these shortcuts.
 
-A post with thousands of likes or shares communicates more than popularity. It can imply that many other people have already evaluated the claim and found it convincing. Researchers describe these reactions as social cues or endorsement cues because they provide information about how others appear to be responding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">PMC - NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span> ScienceDirect This matters because people frequently interpret popularity as evidence. The reasoning is often unconscious: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X24001313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectInside the funhouse mirror factory: How social media...by CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror...</span></span></span>
-
+A post with thousands of likes or shares communicates more than popularity. It can imply that many other people have already evaluated the claim and found it convincing. Researchers describe these reactions as social cues or endorsement cues because they provide information about how others appear to be responding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span> ScienceDirect This matters because people frequently interpret popularity as evidence. The reasoning is often unconscious: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X24001313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Inside the funhouse mirror factory: How social media...by CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror...</span></span></span>
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -295,7 +293,7 @@ A post with thousands of likes or shares communicates more than popularity. It c
 
 </div>
 
-Experiments have found that social endorsement affects how people evaluate information, particularly when it changes their perception of what other people believe. Researchers studying misinformation susceptibility found that social cues become influential when they shape perceptions of wider social consensus. In other words, the cue matters less as a number and more as a signal that “people like us believe this”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">PMC - NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span>
+Experiments have found that social endorsement affects how people evaluate information, particularly when it changes their perception of what other people believe. Researchers studying misinformation susceptibility found that social cues become influential when they shape perceptions of wider social consensus. In other words, the cue matters less as a number and more as a signal that “people like us believe this”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span>
 
 Political myths benefit from this dynamic because they often arrive wrapped in visible social approval. A user may encounter a false claim alongside supportive comments, repeated reposts and positive reactions before encountering any fact-check. The social environment creates a sense that the claim is already accepted.
 
@@ -303,19 +301,91 @@ Political myths benefit from this dynamic because they often arrive wrapped in v
 
 In highly political online spaces, sharing can function as a declaration of identity as much as a transfer of information.
 
-Research on misinformation sharing suggests that platform rewards such as likes, comments and reposts can shift attention away from accuracy and toward social engagement. People may post material because it performs well within their network, not because they have carefully evaluated its truthfulness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — They post simply because the platform rewards posting w...</span></span></span>
+Research on misinformation sharing suggests that platform rewards such as likes, comments and reposts can shift attention away from accuracy and toward social engagement. People may post material because it performs well within their network, not because they have carefully evaluated its truthfulness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale Insights31 Mar 2023 — They post simply because the platform rewards posting w...</span></span></span>
 
 This creates a feedback loop:
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QqQkjAOIbAo" title="Social Media Addiction | Why Can’t you Focus Anymore ? The Honest Truth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QqQkjAOIbAo" target="_blank" rel="noopener noreferrer">Social Media Addiction | Why Can’t you Focus Anymore ? The Honest Truth</a></p><p class="youtube-embed-meta">Channel: Firstpost &middot; Views: 3.4K &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QqQkjAOIbAo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QqQkjAOIbAo">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. A politically useful claim appears.
 2. Group members reward it with engagement.
 3. High engagement makes the claim appear more accepted.
+4. More users interpret that acceptance as credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0747563224000530" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How perceptions of Twitter&#x27;s helpfulness influence news...by B Millet · 2024 · Cited by 19 — Contrary to previous findings, social endor...</span></span></span>
+5. The claim becomes increasingly normal within the community.
+
+</div>
+
+Over time, the myth acquires social legitimacy independent of its factual basis.
+
+## Why Silence Can Look Like Agreement
+
+Online political environments are shaped not only by what people say but also by what they choose not to say.
+
+A common psychological phenomenon known as pluralistic ignorance occurs when people misjudge what others actually believe. Individuals may privately doubt a claim while assuming that everyone else accepts it. Because they think they are in the minority, they remain silent. Their silence then reinforces the appearance of consensus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/10776990241284597" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Do Heuristic Cues Affect Misinformation Sharing?</span><span class="citation-popover-snippet">21 Oct 2024 — These endorsement cues have been shown to be effective in increasing people&#x27;s trust in content supported by others in onlin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersA century of pluralistic ignorance: what we have learned...by DT Miller · 2023 · Cited by 76 — Pluralistic ignorance is a situa...</span></span></span>
+
+This process can be particularly powerful online.
+
+Imagine a political community where many members have reservations about a viral claim. If only the most enthusiastic supporters post comments while sceptics stay quiet, the visible conversation becomes distorted. Newcomers see overwhelming apparent support and conclude that the claim is widely accepted.
+
+Researchers studying social media's effects on public perception argue that platforms can create what they describe as a distorted social mirror. Highly visible voices may appear representative even when they are not. This can generate false impressions about what most people think, a pattern linked to pluralistic ignorance and false polarisation. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39369456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">How social media distorts perceptions of normsby CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror nature of social...</span></span></span>
+
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-2-dark.svg" | relative_url }}" alt="Group Cues illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### The Silent Majority Problem
+
+The distortion becomes stronger when people fear social penalties.
+
+In politically charged spaces, questioning a popular narrative can bring ridicule, exclusion or accusations of disloyalty. Even mild scepticism may attract hostile replies. As a result, many users conclude that remaining silent is safer than challenging the group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersA century of pluralistic ignorance: what we have learned...by DT Miller · 2023 · Cited by 76 — Pluralistic ignorance is a situa...</span></span></span>
+
+The outcome is a misleading information environment:
+
+* Supporters appear more numerous than they are.
+* Doubters appear rarer than they are.
+* Neutral observers misread the balance of opinion.
+* The myth gains the appearance of community consensus.
+
+The important point is that this process does not require widespread belief. Sometimes the appearance of widespread belief is enough.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QqQkjAOIbAo" title="Social Media Addiction | Why Can’t you Focus Anymore ? The Honest Truth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QqQkjAOIbAo" target="_blank" rel="noopener noreferrer">Social Media Addiction | Why Can’t you Focus Anymore ? The Honest Truth</a></p><p class="youtube-embed-meta">Channel: Firstpost &middot; Views: 3.4K &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QqQkjAOIbAo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QqQkjAOIbAo">Open on YouTube</a></p></div></div></div>
+
+## How Polarised Communities Define “Fake News”
+
+Political myths often survive because communities do not merely disagree about facts. They disagree about which institutions deserve trust.
+
+Within strongly polarised groups, members frequently develop shared assumptions about who counts as a reliable source and who counts as an enemy. Once these boundaries are established, social cues help enforce them.
+
+A [correction]({{ 'correction/' | relative_url }}) from an outside source may be dismissed not because members carefully reviewed the evidence and found it weak, but because accepting it would mean granting legitimacy to an out-group institution. At the same time, claims from in-group figures may receive automatic social reinforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span>
+
+This helps explain why the phrase “[fake news]({{ 'fake-news/' | relative_url }})” often functions as a group marker rather than a neutral assessment of accuracy. Different communities may use the label to signal which information sources belong inside or outside their trusted network.
+
+When users repeatedly see respected group members treating certain journalists, academics, fact-checkers or media organisations as illegitimate, they learn a social lesson: rejecting those sources is part of belonging. The question shifts from “Is this claim true?” to “Which side is this information helping?” This makes myth correction substantially harder because evidence is filtered through group identity before it is evaluated.
+
+### Alternative Information Ecosystems
+
+Online communities can also create their own information ecosystems.
+
+Members share screenshots, clips, influencers, commentators and niche media sources that reinforce common narratives. [Repetition]({{ 'repetition/' | relative_url }}) across multiple accounts creates the impression of independent confirmation even when the information ultimately originates from a small number of sources.
+
+Research on misinformation networks has shown that tightly connected communities can strengthen collective narratives and create powerful counter-publics that challenge mainstream accounts of events. The more frequently members encounter the same claim within trusted networks, the more familiar and socially normal it becomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The research, which analyzed tweets from 8,198 MPs in 26 countries and compared them with fact-checking databases, showed far-right popul...</span></span></span>
+
+The result is not necessarily that members become unable to recognise disagreement. Rather, they may come to see disagreement itself as evidence that outsiders are misinformed, biased or hostile.
+
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-3-dark.svg" | relative_url }}" alt="Group Cues illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Group Cues Feel Stronger Than Fact-Checks
+
+Fact-checks typically arrive as informational interventions. Group cues arrive as social experiences.
+
+A correction asks people to reconsider a claim. Social approval signals tell people how their community appears to feel about that claim. Because humans are highly sensitive to social belonging, visible group reactions can shape interpretation before any detailed reasoning occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span>
+
+Research on corrected misinformation has found that social endorsement can influence how people respond even after corrective information is introduced. This suggests that belief persistence is not simply a problem of missing facts. It is also a problem of social context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-repository.uwa.edu.au/en/publications/social-endorsement-influences-the-continued-belief-in-corrected-m/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-repository.uwa.edu.au">[the UWA Profiles and Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-repository.uwa.edu.au</span><span class="citation-popover-snippet">the UWA Profiles and Research RepositorySocial Endorsement Influences the Continued Belief in...by LH Butler · 2023 · Cited by 35 — In t...</span></span></span>
+
+Political myths therefore become resilient when they are embedded within a network of social rewards:
+
+* Repeating the myth earns approval.
+* Challenging it risks [conflict]({{ 'conflict/' | relative_url }}).
+* Silence allows apparent consensus to grow.
+* Community identity becomes linked to the narrative.
+
+Under those conditions, the myth feels normal not because everyone has investigated it, but because online group cues continually signal that acceptance is what people like us do. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersA century of pluralistic ignorance: what we have learned...by DT Miller · 2023 · Cited by 76 — Pluralistic ignorance is a situa...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -709,236 +779,153 @@ This creates a feedback loop:
 </script>
 </section>
 
-4. More users interpret that acceptance as credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0747563224000530" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How perceptions of Twitter&#x27;s helpfulness influence news...by B Millet · 2024 · Cited by 19 — Contrary to previous findings, social endor...</span></span></span>
-5. The claim becomes increasingly normal within the community.
-
-</div>
-
-Over time, the myth acquires social legitimacy independent of its factual basis.
-
-## Why Silence Can Look Like Agreement
-
-Online political environments are shaped not only by what people say but also by what they choose not to say.
-
-A common psychological phenomenon known as pluralistic ignorance occurs when people misjudge what others actually believe. Individuals may privately doubt a claim while assuming that everyone else accepts it. Because they think they are in the minority, they remain silent. Their silence then reinforces the appearance of consensus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/10776990241284597" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Do Heuristic Cues Affect Misinformation Sharing?</span><span class="citation-popover-snippet">21 Oct 2024 — These endorsement cues have been shown to be effective in increasing people&#x27;s trust in content supported by others in onlin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersA century of pluralistic ignorance: what we have learned...by DT Miller · 2023 · Cited by 76 — Pluralistic ignorance is a situa...</span></span></span>
-
-This process can be particularly powerful online.
-
-Imagine a political community where many members have reservations about a viral claim. If only the most enthusiastic supporters post comments while sceptics stay quiet, the visible conversation becomes distorted. Newcomers see overwhelming apparent support and conclude that the claim is widely accepted.
-
-Researchers studying social media's effects on public perception argue that platforms can create what they describe as a distorted social mirror. Highly visible voices may appear representative even when they are not. This can generate false impressions about what most people think, a pattern linked to pluralistic ignorance and false polarisation. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39369456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedHow social media distorts perceptions of normsby CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror nature of social...</span></span></span>
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-2-dark.svg" | relative_url }}" alt="Group Cues illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-### The Silent Majority Problem
-
-The distortion becomes stronger when people fear social penalties.
-
-In politically charged spaces, questioning a popular narrative can bring ridicule, exclusion or accusations of disloyalty. Even mild scepticism may attract hostile replies. As a result, many users conclude that remaining silent is safer than challenging the group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersA century of pluralistic ignorance: what we have learned...by DT Miller · 2023 · Cited by 76 — Pluralistic ignorance is a situa...</span></span></span>
-
-The outcome is a misleading information environment:
-
-* Supporters appear more numerous than they are.
-* Doubters appear rarer than they are.
-* Neutral observers misread the balance of opinion.
-* The myth gains the appearance of community consensus.
-
-The important point is that this process does not require widespread belief. Sometimes the appearance of widespread belief is enough.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YBRFQr4Jiuc" title="Why SOCIAL MEDIA ALGORITHMS cause more FAKE NEWS and POLARIZATION! (Behavioral Science)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YBRFQr4Jiuc" target="_blank" rel="noopener noreferrer">Why SOCIAL MEDIA ALGORITHMS cause more FAKE NEWS and POLARIZATION! (Behavioral Science)</a></p><p class="youtube-embed-meta">Channel: Pete Judo</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YBRFQr4Jiuc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YBRFQr4Jiuc">Open on YouTube</a></p></div></div></div>
-
-## How Polarised Communities Define “Fake News”
-
-Political myths often survive because communities do not merely disagree about facts. They disagree about which institutions deserve trust.
-
-Within strongly polarised groups, members frequently develop shared assumptions about who counts as a reliable source and who counts as an enemy. Once these boundaries are established, social cues help enforce them.
-
-A [correction]({{ 'correction/' | relative_url }}) from an outside source may be dismissed not because members carefully reviewed the evidence and found it weak, but because accepting it would mean granting legitimacy to an out-group institution. At the same time, claims from in-group figures may receive automatic social reinforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">PMC - NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span>
-
-This helps explain why the phrase “[fake news]({{ 'fake-news/' | relative_url }})” often functions as a group marker rather than a neutral assessment of accuracy. Different communities may use the label to signal which information sources belong inside or outside their trusted network.
-
-When users repeatedly see respected group members treating certain journalists, academics, fact-checkers or media organisations as illegitimate, they learn a social lesson: rejecting those sources is part of belonging. The question shifts from “Is this claim true?” to “Which side is this information helping?” This makes myth correction substantially harder because evidence is filtered through group identity before it is evaluated.
-
-### Alternative Information Ecosystems
-
-Online communities can also create their own information ecosystems.
-
-Members share screenshots, clips, influencers, commentators and niche media sources that reinforce common narratives. [Repetition]({{ 'repetition/' | relative_url }}) across multiple accounts creates the impression of independent confirmation even when the information ultimately originates from a small number of sources.
-
-Research on misinformation networks has shown that tightly connected communities can strengthen collective narratives and create powerful counter-publics that challenge mainstream accounts of events. The more frequently members encounter the same claim within trusted networks, the more familiar and socially normal it becomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The research, which analyzed tweets from 8,198 MPs in 26 countries and compared them with fact-checking databases, showed far-right popul...</span></span></span>
-
-The result is not necessarily that members become unable to recognise disagreement. Rather, they may come to see disagreement itself as evidence that outsiders are misinformed, biased or hostile.
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-3-dark.svg" | relative_url }}" alt="Group Cues illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Why Group Cues Feel Stronger Than Fact-Checks
-
-Fact-checks typically arrive as informational interventions. Group cues arrive as social experiences.
-
-A correction asks people to reconsider a claim. Social approval signals tell people how their community appears to feel about that claim. Because humans are highly sensitive to social belonging, visible group reactions can shape interpretation before any detailed reasoning occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">PMC - NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span>
-
-Research on corrected misinformation has found that social endorsement can influence how people respond even after corrective information is introduced. This suggests that belief persistence is not simply a problem of missing facts. It is also a problem of social context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-repository.uwa.edu.au/en/publications/social-endorsement-influences-the-continued-belief-in-corrected-m/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-repository.uwa.edu.au">[the UWA Profiles and Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-repository.uwa.edu.au</span><span class="citation-popover-snippet">the UWA Profiles and Research RepositorySocial Endorsement Influences the Continued Belief in...by LH Butler · 2023 · Cited by 35 — In t...</span></span></span>
-
-Political myths therefore become resilient when they are embedded within a network of social rewards:
-
-* Repeating the myth earns approval.
-* Challenging it risks [conflict]({{ 'conflict/' | relative_url }}).
-* Silence allows apparent consensus to grow.
-* Community identity becomes linked to the narrative.
-
-Under those conditions, the myth feels normal not because everyone has investigated it, but because online group cues continually signal that acceptance is what people like us do. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">PMC - NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersA century of pluralistic ignorance: what we have learned...by DT Miller · 2023 · Cited by 76 — Pluralistic ignorance is a situa...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z98U1nMFrJQ" title="A Neuroscientist Explains What Conspiracy Theories Do To Your Brain | Inverse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z98U1nMFrJQ" target="_blank" rel="noopener noreferrer">A Neuroscientist Explains What Conspiracy Theories Do To Your Brain | Inverse</a></p><p class="youtube-embed-meta">Channel: Inverse</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z98U1nMFrJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z98U1nMFrJQ">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe persuasive effects of social cues and source  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X24001313](https://www.sciencedirect.com/science/article/abs/pii/S2352250X24001313)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectInside the funhouse mirror factory: How social media...by CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X24001313" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X24001313</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the funhouse mirror factory: How social media...by CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2451958825003082](https://www.sciencedirect.com/science/article/pii/S2451958825003082)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2451958825003082" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958825003082</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media virality metrics as interpretive cuesby K Na · 2026 — Virality metrics—such as the number of likes, shares, and comments—are...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: insights.som.yale.edu  
-   Link: [https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation](https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation)  
+   Link: <a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — They post simply because the platform rewards posting w...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S1438887123006532](https://www.sciencedirect.com/org/science/article/pii/S1438887123006532)  
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1438887123006532" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887123006532</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Social Reference Cues on Misinformation...by CM Jones · 2023 · Cited by 25 — Social reference cues combined with misinformatio...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X21000749](https://www.sciencedirect.com/science/article/abs/pii/S2352250X21000749)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X21000749" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X21000749</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A century of pluralistic ignorance: what we have learned about its origins, forms, and consequences.Read m...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0747563224000530](https://www.sciencedirect.com/science/article/abs/pii/S0747563224000530)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563224000530" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0747563224000530</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How perceptions of Twitter&#x27;s helpfulness influence news...by B Millet · 2024 · Cited by 19 — Contrary to previous findings, social endor...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full](https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full)  
+   Link: <a href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersA century of pluralistic ignorance: what we have learned...by DT Miller · 2023 · Cited by 76 — Pluralistic ignorance is a situa...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Do Heuristic Cues Affect Misinformation Sharing?  
-   Link: [https://journals.sagepub.com/doi/10.1177/10776990241284597](https://journals.sagepub.com/doi/10.1177/10776990241284597)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/10776990241284597" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/10776990241284597</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Oct 2024 — These endorsement cues have been shown to be effective in increasing people&#x27;s trust in content supported by others in onlin...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: api.repository.cam.ac.uk  
-   Link: [https://api.repository.cam.ac.uk/server/api/core/bitstreams/eb23aa61-44b4-4d05-9641-86acbc2e01e5/content](https://api.repository.cam.ac.uk/server/api/core/bitstreams/eb23aa61-44b4-4d05-9641-86acbc2e01e5/content)  
+   Link: <a href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/eb23aa61-44b4-4d05-9641-86acbc2e01e5/content" target="_blank" rel="noopener noreferrer nofollow">https://api.repository.cam.ac.uk/server/api/core/bitstreams/eb23aa61-44b4-4d05-9641-86acbc2e01e5/content</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The persuasive effects of social cues and source...by CS Traberg · 2024 · Cited by 69 — We find that social cues only impact individual...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/1089268021995168](https://journals.sagepub.com/doi/10.1177/1089268021995168)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1089268021995168" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1089268021995168</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPluralistic Ignorance Research in Psychology: A Scoping...26 Mar 2021 — Pluralistic ignorance occurs when group members mis...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41467-022-32412-y](https://www.nature.com/articles/s41467-022-32412-y)  
+   Link: <a href="https://www.nature.com/articles/s41467-022-32412-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-32412-y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Americans experience a false social reality by...by G Sparkman · 2022 · Cited by 307 — We find a form of pluralistic ignorance that we d...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39369456/](https://pubmed.ncbi.nlm.nih.gov/39369456/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedHow social media distorts perceptions of normsby CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror nature of social...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39369456/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39369456/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How social media distorts perceptions of normsby CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror nature of social...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1547489/full](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1547489/full)  
+   Link: <a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1547489/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1547489/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersIgnorance of the crowd: dysfunctional thinking in social...by F Seeme · 2025 · Cited by 7 — Some studies suggest that the spira...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study](https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study)  
+   Link: <a href="https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The research, which analyzed tweets from 8,198 MPs in 26 countries and compared them with fact-checking databases, showed far-right popul...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: research-repository.uwa.edu.au  
-   Link: [https://research-repository.uwa.edu.au/en/publications/social-endorsement-influences-the-continued-belief-in-corrected-m/](https://research-repository.uwa.edu.au/en/publications/social-endorsement-influences-the-continued-belief-in-corrected-m/)  
+   Link: <a href="https://research-repository.uwa.edu.au/en/publications/social-endorsement-influences-the-continued-belief-in-corrected-m/" target="_blank" rel="noopener noreferrer nofollow">https://research-repository.uwa.edu.au/en/publications/social-endorsement-influences-the-continued-belief-in-corrected-m/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the UWA Profiles and Research RepositorySocial Endorsement Influences the Continued Belief in...by LH Butler · 2023 · Cited by 35 — In t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-024-54030-y](https://www.nature.com/articles/s41598-024-54030-y)  
+   Link: <a href="https://www.nature.com/articles/s41598-024-54030-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-54030-y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The persuasive effects of social cues and source effects on...by CS Traberg · 2024 · Cited by 64 — Specifically, high and low engagement...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Pluralistic ignorance  
-   Link: [https://en.wikipedia.org/wiki/Pluralistic_ignorance](https://en.wikipedia.org/wiki/Pluralistic_ignorance)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pluralistic_ignorance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pluralistic_ignorance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pluralistic ignorancePluralistic ignorance encompasses situations in which a minority position on a given topic is wrongly perceived t...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/378340217_The_persuasive_effects_of_social_cues_and_source_effects_on_misinformation_susceptibility](https://www.researchgate.net/publication/378340217_The_persuasive_effects_of_social_cues_and_source_effects_on_misinformation_susceptibility)  
+   Link: <a href="https://www.researchgate.net/publication/378340217_The_persuasive_effects_of_social_cues_and_source_effects_on_misinformation_susceptibility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378340217_The_persuasive_effects_of_social_cues_and_source_effects_on_misinformation_susceptibility</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The persuasive effects of social cues and source...7 Feb 2024 — We find that social cues only impact individual judgements when th...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/pluralistic](https://www.merriam-webster.com/dictionary/pluralistic)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/pluralistic" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/pluralistic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PLURALISTIC Definition &amp; MeaningThe meaning of PLURALISTIC is of, relating to, or characterized by pluralism. How to use pluralistic in a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ouci.dntb.gov.ua  
-   Link: [https://ouci.dntb.gov.ua/en/works/lmL0axn4/](https://ouci.dntb.gov.ua/en/works/lmL0axn4/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/lmL0axn4/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/lmL0axn4/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>persuasive effects of social cues and source...We find that social cues only impact individual judgements when they influence perception...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: osf.io  
-   Link: [https://osf.io/download/fw3zq](https://osf.io/download/fw3zq)  
+   Link: <a href="https://osf.io/download/fw3zq" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/fw3zq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of fact-checking [warning labels](&amp;#123;&amp;#123; &#x27;warning-labels/&#x27; | relative_url &amp;#125;&amp;#125;) and social...by TK Koch · 2023 · Cited by 113 — the social endorsement condition saw a post with...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/349770225_The_Impact_of_Social_Endorsement_Cues_and_Manipulability_Concerns_on_Perceptions_of_News_Credibility](https://www.researchgate.net/publication/349770225_The_Impact_of_Social_Endorsement_Cues_and_Manipulability_Concerns_on_Perceptions_of_News_Credibility)  
+   Link: <a href="https://www.researchgate.net/publication/349770225_The_Impact_of_Social_Endorsement_Cues_and_Manipulability_Concerns_on_Perceptions_of_News_Credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349770225_The_Impact_of_Social_Endorsement_Cues_and_Manipulability_Concerns_on_Perceptions_of_News_Credibility</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of political news on social media, and how the salience of concerns that SEC can be...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: jeremyperson.com  
    Title: With false consensus, we overestimate how many others  
-   Link: [https://jeremyperson.com/pluralistic-ignorance-the-false-consenus-effect/](https://jeremyperson.com/pluralistic-ignorance-the-false-consenus-effect/)  
+   Link: <a href="https://jeremyperson.com/pluralistic-ignorance-the-false-consenus-effect/" target="_blank" rel="noopener noreferrer nofollow">https://jeremyperson.com/pluralistic-ignorance-the-false-consenus-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pluralistic Ignorance &amp; The False Consensus EffectMar 24, 2010 — With pluralistic ignorance, we underestimate how many others share our p...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: online.ucpress.edu  
    Title: An Illusory Consensus Effect The Mere Repetition  
-   Link: [https://online.ucpress.edu/collabra/article/10/1/124533/203541/An-Illusory-Consensus-Effect-The-Mere-Repetition](https://online.ucpress.edu/collabra/article/10/1/124533/203541/An-Illusory-Consensus-Effect-The-Mere-Repetition)  
+   Link: <a href="https://online.ucpress.edu/collabra/article/10/1/124533/203541/An-Illusory-Consensus-Effect-The-Mere-Repetition" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/10/1/124533/203541/An-Illusory-Consensus-Effect-The-Mere-Repetition</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Consensus Effect: The Mere Repetition of...17 Oct 2024 — Here, we examine the hypothesis that mere repetition of information in...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
    Title: 388421154 Polarization as Pluralistic Ignorance  
-   Link: [https://www.researchgate.net/publication/388421154_Polarization_as_Pluralistic_Ignorance](https://www.researchgate.net/publication/388421154_Polarization_as_Pluralistic_Ignorance)  
+   Link: <a href="https://www.researchgate.net/publication/388421154_Polarization_as_Pluralistic_Ignorance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388421154_Polarization_as_Pluralistic_Ignorance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Polarization as Pluralistic Ignorance23 Oct 2025 — We show that false polarization may arise as pluralistic ignorance even when the...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2522998123](https://www.pnas.org/doi/10.1073/pnas.2522998123)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2522998123" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2522998123</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The cultural evolution of pluralistic ignoranceThis widespread misperception, called pluralistic ignorance, can trap societies in harmful...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Anatomy of an Online Conspiracy Theory  
-   Link: [https://www.youtube.com/watch?v=XnS9sH9M190](https://www.youtube.com/watch?v=XnS9sH9M190)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This collection of videos explores the psychological mechanisms of social media environments, specifically how [engagement metrics](&amp;#123;&amp;#123; &#x27;metric-gap/&#x27; | relative_url &amp;#125;&amp;#125;), algori...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=XnS9sH9M190" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XnS9sH9M190</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>This collection of videos explores the psychological mechanisms of social media environments, specifically how engagement metrics, algori...</p></details>

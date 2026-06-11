@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20
 - Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_political_correction_06b3e1
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - politics
 - low-conflict
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - politics
 - low-conflict
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Corrections work better when they let people reconsider a claim without feeling humiliated, attacked, or expelled from their group.
 hero_summary: Corrections work better when they let people reconsider a claim without feeling humiliated, attacked, or expelled from their group.
 layout: default
 permalink: /low-conflict/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /politics/
 nav_short_title: Low Conflict
 title: How to Correct Myths Without Starting a Fight
-title_full: How to Correct Myths Without Starting a Fight | Politics
+title_full: How to Correct Myths Without Starting a Fight
 display_title_short: Low Conflict
 display_title: Low Conflict
 heading_title: How to Correct Myths Without Starting a Fight
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Political Myths Resist Correction | Mythcraft
+parent_title: Why Political Myths Resist Correction
 parent_permalink: /politics/
 parent_nav_short_title: Politics
 parent_heading_title: Why Political Myths Resist Correction
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Changing Your Mind Can Feel Like Betrayal
 up_link:
   basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
@@ -265,7 +265,7 @@ next_link:
   permalink: /smart-defenses/
   short_title: Smart Defenses
   heading_title: When Smart People Defend False Political Claims
-date: '2026-06-09 05:44:48 '
+date: '2026-06-11 22:41:51 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_lo
 
 ## Introduction
 
-Correcting a political myth is not only a question of presenting better evidence. In many cases, the real obstacle is identity threat. When people feel that a [correction]({{ 'correction/' | relative_url }}) is trying to embarrass them, expose them as gullible, or push them outside their political community, they often become defensive before they even evaluate the facts. Research on misinformation and identity-protective cognition suggests that [corrections]({{ 'corrections/' | relative_url }}) are more effective when they reduce social threat and allow people to reconsider a claim without feeling personally attacked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNMisconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Misinformation and Identity-Protective Cognition2 Oct 2017 — This paper synthesizes existing work on misinformation relating to policy-re...</span></span></span>
-
+Correcting a political myth is not only a question of presenting better evidence. In many cases, the real obstacle is identity threat. When people feel that a [correction]({{ 'correction/' | relative_url }}) is trying to embarrass them, expose them as gullible, or push them outside their political community, they often become defensive before they even evaluate the facts. Research on misinformation and identity-protective cognition suggests that [corrections]({{ 'corrections/' | relative_url }}) are more effective when they reduce social threat and allow people to reconsider a claim without feeling personally attacked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan  2017  Cited by 582  Identity protective cognition refer...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Misinformation and Identity-Protective Cognition2 Oct 2017  This paper synthesizes existing work on misinformation relating to policy-re...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a-Illustration-1-dark.svg" | relative_url }}" alt="Low Conflict illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is why low-[conflict]({{ 'conflict/' | relative_url }}) corrections matter. They do not abandon accuracy or avoid disagreement. Instead, they separate the factual claim from the person's dignity, status and group belonging. In politically polarised environments, that distinction can determine whether a correction is heard as useful information or as a social challenge.
@@ -284,10 +283,9 @@ This is why low-[conflict]({{ 'conflict/' | relative_url }}) corrections matter.
 
 Many failed corrections share the same pattern: they frame the conversation as a contest between intelligent people and foolish people, or between good citizens and bad citizens. Once a correction takes that form, the factual issue becomes entangled with self-respect and [group loyalty]({{ 'group-loyalty/' | relative_url }}).
 
-Research associated with [identity]({{ 'identity/' | relative_url }})-protective cognition finds that people often assess evidence in ways that protect valued social identities. When a factual correction threatens those identities, resistance can increase even when the evidence is strong. The problem is not simply ignorance. People may selectively trust information that aligns with their group while scrutinising information that appears to come from a hostile camp. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNMisconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fondationdescartes.org">[Fondation Descartes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fondationdescartes.org</span><span class="citation-popover-snippet">False ideas, fake information, and the logic of identity-...This 2017 article is a preparatory work proposed by social scientist Dan Kah...</span></span></span>
+Research associated with [identity]({{ 'identity/' | relative_url }})-protective cognition finds that people often assess evidence in ways that protect valued social identities. When a factual correction threatens those identities, resistance can increase even when the evidence is strong. The problem is not simply ignorance. People may selectively trust information that aligns with their group while scrutinising information that appears to come from a hostile camp. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan  2017  Cited by 582  Identity protective cognition refer...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fondationdescartes.org">[Fondation Descartes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fondationdescartes.org</span><span class="citation-popover-snippet">False ideas, fake information, and the logic of identity-...This 2017 article is a preparatory work proposed by social scientist Dan Kah...</span></span></span>
 
 Aggressive corrections can create several problems at once:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -300,7 +298,7 @@ Aggressive corrections can create several problems at once:
 
 This dynamic helps explain why public shaming [campaigns]({{ 'campaigns/' | relative_url }}) often produce mixed results. Even when the correction is factually accurate, the recipient may focus on defending identity rather than evaluating evidence.
 
-Researchers studying political fact-checking have also found that contextual cues can influence how corrections are received. Information that activates group-based assumptions or political narratives can undermine acceptance of corrective information by encouraging scepticism toward the correction itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-et-al.-Undermining-Corrective-Effects1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rkellygarrett.com">[R. Kelly Garrett]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rkellygarrett.com</span><span class="citation-popover-title">Garrett et al. Undermining Corrective Effects1</span><span class="citation-popover-snippet">Kelly GarrettUndermining the Corrective Effects of MediaBased Political...June 13, 2013 — by RK Garrett · Cited by 250 — Media-based fac...</span><span class="citation-popover-meta">Published: June 13, 2013</span></span></span>
+Researchers studying political fact-checking have also found that contextual cues can influence how corrections are received. Information that activates group-based assumptions or political narratives can undermine acceptance of corrective information by encouraging scepticism toward the correction itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-et-al.-Undermining-Corrective-Effects1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rkellygarrett.com">[R. Kelly Garrett]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rkellygarrett.com</span><span class="citation-popover-title">Garrett et al. Undermining Corrective Effects1</span><span class="citation-popover-snippet">Kelly GarrettUndermining the Corrective Effects of MediaBased Political...June 13, 2013  by RK Garrett  Cited by 250  Media-based fac...</span><span class="citation-popover-meta">Published: June 13, 2013</span></span></span>
 
 The result is that people may reject not only the specific correction but also the messenger.
 
@@ -312,12 +310,11 @@ One common approach is value affirmation. Rather than opening with a direct accu
 
 For example, a correction about election misinformation may begin by recognising that election integrity matters. A correction about public health misinformation may acknowledge concerns about government accountability or personal autonomy before addressing the factual claim itself.
 
-The psychological logic is straightforward. If people feel their values are recognised, they are less likely to interpret corrective information as an attack on who they are. Research on misinformation consistently finds that corrections interact with social and affective factors, not just information quality. Worldviews, trust relationships and perceived threats all influence whether new information is accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
+The psychological logic is straightforward. If people feel their values are recognised, they are less likely to interpret corrective information as an attack on who they are. Research on misinformation consistently finds that corrections interact with social and affective factors, not just information quality. Worldviews, trust relationships and perceived threats all influence whether new information is accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker  2022  Cited by 1916  In this Review, we describe the...</span></span></span>
 
 This does not mean affirming false claims. It means separating the underlying concern from the inaccurate conclusion.
 
 A low-conflict correction might communicate:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -329,14 +326,13 @@ A low-conflict correction might communicate:
 
 These messages allow someone to retain a valued identity while revising a factual belief.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sELt0_QfR0U" title="How to Handle Defensiveness in Communication: Tips for Healthier Conversations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sELt0_QfR0U" target="_blank" rel="noopener noreferrer">How to Handle Defensiveness in Communication: Tips for Healthier Conversations</a></p><p class="youtube-embed-meta">Channel: Jefferson Fisher &middot; Views: 723.6K &middot; Uploaded: November 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sELt0_QfR0U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sELt0_QfR0U">Open on YouTube</a></p></div></div></div>
 
 ## Practical wording that separates facts from identity
 
 The language used in corrections can affect whether people experience them as invitations or confrontations.
 
-Studies examining misinformation correction on social media have identified the importance of relational concerns and politeness norms. Corrections that preserve social relationships can be received differently from those that openly challenge competence or character. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ijoc.org/index.php/ijoc/article/viewFile/18361/3762" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijoc.org">[International Journal of Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijoc.org</span><span class="citation-popover-title">view File</span><span class="citation-popover-snippet">International Journal of CommunicationStrategies for Polite Misinformation Correctionby P Malhotra · 2022 · Cited by 46 — One gap in misi...</span></span></span>
+Studies examining misinformation correction on social media have identified the importance of relational concerns and politeness norms. Corrections that preserve social relationships can be received differently from those that openly challenge competence or character. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ijoc.org/index.php/ijoc/article/viewFile/18361/3762" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijoc.org">[International Journal of Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijoc.org</span><span class="citation-popover-title">view File</span><span class="citation-popover-snippet">International Journal of CommunicationStrategies for Polite Misinformation Correctionby P Malhotra  2022  Cited by 46  One gap in misi...</span></span></span>
 
 Several communication choices tend to reduce identity threat.
 
@@ -354,14 +350,12 @@ Low-conflict wording:
 
 The second approach keeps attention on the information rather than the individual's intelligence or morality.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a-Illustration-2-dark.svg" | relative_url }}" alt="Low Conflict illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Replace humiliation with curiosity
 
 Questions can sometimes create space for reconsideration without forcing immediate public retreat.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -384,7 +378,6 @@ For example:
 
 This approach avoids the impression that correction requires total agreement with an opposing political worldview.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/thPuQxYeWw0" title="7 Strategies To Stop Being So Defensive - Terri Cole" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=thPuQxYeWw0" target="_blank" rel="noopener noreferrer">7 Strategies To Stop Being So Defensive - Terri Cole</a></p><p class="youtube-embed-meta">Channel: Terri Cole &middot; Views: 135.4K &middot; Uploaded: October 2023 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=thPuQxYeWw0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=thPuQxYeWw0">Open on YouTube</a></p></div></div></div>
 
 ## Why messenger and tone often matter as much as evidence
@@ -402,8 +395,7 @@ The same factual statement can produce different reactions depending on whether 
 
 The second formulation reduces the implication that accepting the correction requires abandoning group membership.
 
-Research on politically charged misinformation has also found promising results from narrative-based corrective approaches. Rather than presenting a correction as a direct confrontation, these approaches embed factual information within stories that provide emotional resolution and reduce defensive processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUsing narratives to correct politically charged health</span><span class="citation-popover-snippet">PMCby HM Lillie · 2024 · Cited by 10 — This study investigated the efficacy of a narrative corrective with a relief ending for correcting...</span></span></span>
-
+Research on politically charged misinformation has also found promising results from narrative-based corrective approaches. Rather than presenting a correction as a direct confrontation, these approaches embed factual information within stories that provide emotional resolution and reduce defensive processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUsing narratives to correct politically charged health</span><span class="citation-popover-snippet">by HM Lillie  2024  Cited by 10  This study investigated the efficacy of a narrative corrective with a relief ending for correcting...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a-Illustration-3-dark.svg" | relative_url }}" alt="Low Conflict illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Low-conflict correction is not the same as avoiding disagreement
@@ -412,18 +404,16 @@ A common misunderstanding is that reducing identity threat requires avoiding har
 
 Effective correction still involves identifying false claims, presenting evidence and challenging inaccuracies. What changes is the social framing. The goal is to make factual revision psychologically possible rather than socially costly.
 
-Research reviews generally find that factual corrections help more often than they harm, and dramatic [backfire]({{ 'backfire/' | relative_url }}) effects appear less common than once feared. However, correction effectiveness depends heavily on context, including wording, presentation and audience investment in the issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Carnegie EndowmentCountering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A large body of research indicates that fact...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCby B Swire-Thompson · 2021 · Cited by 79 — Abstract. Given that being misinformed can have negative ramifications, finding optimal cor...</span></span></span>
+Research reviews generally find that factual corrections help more often than they harm, and dramatic [backfire]({{ 'backfire/' | relative_url }}) effects appear less common than once feared. However, correction effectiveness depends heavily on context, including wording, presentation and audience investment in the issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Carnegie EndowmentCountering Disinformation Effectively: An Evidence-Based...31 Jan 2024  A large body of research indicates that fact...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">by B Swire-Thompson  2021  Cited by 79  Abstract. Given that being misinformed can have negative ramifications, finding optimal cor...</span></span></span>
 
 When a myth has become linked to political identity, a successful correction often sends two messages simultaneously:
 
 1. The claim is inaccurate.
 2. Accepting that fact does not require losing dignity, values or belonging.
 
-That combination helps explain why low-conflict approaches can sometimes succeed where aggressive debunking fails. They recognise that political myths are not only beliefs about the world. They are often tied to social identities, and people are more willing to reconsider a claim when doing so does not feel like a public defeat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNMisconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Misinformation and Identity-Protective Cognition2 Oct 2017 — This paper synthesizes existing work on misinformation relating to policy-re...</span></span></span>
+That combination helps explain why low-conflict approaches can sometimes succeed where aggressive debunking fails. They recognise that political myths are not only beliefs about the world. They are often tied to social identities, and people are more willing to reconsider a claim when doing so does not feel like a public defeat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan  2017  Cited by 582  Identity protective cognition refer...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Misinformation and Identity-Protective Cognition2 Oct 2017  This paper synthesizes existing work on misinformation relating to policy-re...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ge34zyIhBRI" title="Stop Being Defensive + Learn to Listen | Effective Communication Tips - Terri Cole" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ge34zyIhBRI" target="_blank" rel="noopener noreferrer">Stop Being Defensive + Learn to Listen | Effective Communication Tips - Terri Cole</a></p><p class="youtube-embed-meta">Channel: Terri Cole &middot; Views: 405.0K &middot; Uploaded: April 2019 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ge34zyIhBRI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ge34zyIhBRI">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RcGkHrPSzDc" title="Try THIS the Next Time You Have an Uncomfortable Conversation | Simon Sinek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RcGkHrPSzDc" target="_blank" rel="noopener noreferrer">Try THIS the Next Time You Have an Uncomfortable Conversation | Simon Sinek</a></p><p class="youtube-embed-meta">Channel: Simon Sinek &middot; Views: 861.1K &middot; Uploaded: July 2023 &middot; Length: 4 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RcGkHrPSzDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RcGkHrPSzDc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -461,7 +451,7 @@ That combination helps explain why low-conflict approaches can sometimes succeed
         </h4>
         <p class="fr-book-author">By Kerry Patterson, Joseph Grenny et al.</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Nonfiction, Business, Communication, GesprÃ¤ch, Business Communication.</p>
+        <p class="fr-book-desc">First published 2001. Subjects: Nonfiction, Business, Communication, Gespräch, Business Communication.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Crucial+Conversations+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -821,122 +811,122 @@ That combination helps explain why low-conflict approaches can sometimes succeed
 
 1. <a id="endnote-1"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNMisconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan  2017  Cited by 582  Identity protective cognition refer...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker  2022  Cited by 1916  In this Review, we describe the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Misinformation](https://en.wikipedia.org/wiki/Misinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCUsing narratives to correct politically charged health  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby HM Lillie · 2024 · Cited by 10 — This study investigated the efficacy of a narrative corrective with a relief ending for correcting...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by HM Lillie  2024  Cited by 10  This study investigated the efficacy of a narrative corrective with a relief ending for correcting...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrection format has a limited role when debunking  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby B Swire-Thompson · 2021 · Cited by 79 — Abstract. Given that being misinformed can have negative ramifications, finding optimal cor...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson  2021  Cited by 79  Abstract. Given that being misinformed can have negative ramifications, finding optimal cor...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc](https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Identity-Protective Cognition2 Oct 2017 — This paper synthesizes existing work on misinformation relating to policy-re...</p></details>
+   Link: <a href="https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Identity-Protective Cognition2 Oct 2017  This paper synthesizes existing work on misinformation relating to policy-re...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: fondationdescartes.org  
-   Link: [https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/](https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/)  
+   Link: <a href="https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/" target="_blank" rel="noopener noreferrer nofollow">https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>False ideas, fake information, and the logic of identity-...This 2017 article is a preparatory work proposed by social scientist Dan Kah...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: rkellygarrett.com  
    Title: Garrett et al. Undermining Corrective Effects1  
-   Link: [https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-et-al.-Undermining-Corrective-Effects1.pdf](https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-et-al.-Undermining-Corrective-Effects1.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelly GarrettUndermining the Corrective Effects of MediaBased Political...June 13, 2013 — by RK Garrett · Cited by 250 — Media-based fac...</p></details>
+   Link: <a href="https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-et-al.-Undermining-Corrective-Effects1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-et-al.-Undermining-Corrective-Effects1.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelly GarrettUndermining the Corrective Effects of MediaBased Political...June 13, 2013  by RK Garrett  Cited by 250  Media-based fac...</p></details>
    Published: June 13, 2013  
 
 9. <a id="endnote-9"></a>
    Source: ijoc.org  
    Title: view File  
-   Link: [https://ijoc.org/index.php/ijoc/article/viewFile/18361/3762](https://ijoc.org/index.php/ijoc/article/viewFile/18361/3762)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of CommunicationStrategies for Polite Misinformation Correctionby P Malhotra · 2022 · Cited by 46 — One gap in misi...</p></details>
+   Link: <a href="https://ijoc.org/index.php/ijoc/article/viewFile/18361/3762" target="_blank" rel="noopener noreferrer nofollow">https://ijoc.org/index.php/ijoc/article/viewFile/18361/3762</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of CommunicationStrategies for Polite Misinformation Correctionby P Malhotra  2022  Cited by 46  One gap in misi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: [https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide](https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie EndowmentCountering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A large body of research indicates that fact...</p></details>
+   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie EndowmentCountering Disinformation Effectively: An Evidence-Based...31 Jan 2024  A large body of research indicates that fact...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ijoc.org  
-   Link: [https://ijoc.org/index.php/ijoc/article/download/23090/4890/88302](https://ijoc.org/index.php/ijoc/article/download/23090/4890/88302)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of CommunicationWhen Corrections Failby Y Song · 2025 · Cited by 2 — This study evaluates the effectiveness of 3 mi...</p></details>
+   Link: <a href="https://ijoc.org/index.php/ijoc/article/download/23090/4890/88302" target="_blank" rel="noopener noreferrer nofollow">https://ijoc.org/index.php/ijoc/article/download/23090/4890/88302</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of CommunicationWhen Corrections Failby Y Song  2025  Cited by 2  This study evaluates the effectiveness of 3 mi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: rkellygarrett.com  
    Title: Garrett and Weeks Promise and peril of real time corrections  
-   Link: [https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf](https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Promise and Peril of Real-Time Corrections to Politicalby RK Garrett · 2013 · Cited by 231 — When misinformation is corrected immedia...</p></details>
+   Link: <a href="https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Promise and Peril of Real-Time Corrections to Politicalby RK Garrett  2013  Cited by 231  When misinformation is corrected immedia...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: research-information.bris.ac.uk  
-   Link: [https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf](https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: jpe.ox.ac.uk  
-   Link: [https://www.jpe.ox.ac.uk/papers/dilemmas-of-political-correctness/](https://www.jpe.ox.ac.uk/papers/dilemmas-of-political-correctness/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Political Correctnessby D Moller · Cited by 94 — Political correctness, as I argue, is an important attempt to advance the legitimate...</p></details>
+   Link: <a href="https://www.jpe.ox.ac.uk/papers/dilemmas-of-political-correctness/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpe.ox.ac.uk/papers/dilemmas-of-political-correctness/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Political Correctnessby D Moller  Cited by 94  Political correctness, as I argue, is an important attempt to advance the legitimate...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective](https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective)  
+   Link: <a href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In a dynamic world, information in [memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;) is frequently outdated, corrected, or replaced.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf](https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf)  
+   Link: <a href="https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eptions of and misinfor- mation about decision-relevant science.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1509838572657723/posts/3532022283772665/](https://www.facebook.com/groups/1509838572657723/posts/3532022283772665/)  
+   Link: <a href="https://www.facebook.com/groups/1509838572657723/posts/3532022283772665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1509838572657723/posts/3532022283772665/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>designed to cast doubt on their integrity; it does not have...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: modernconsciousness.com  
    Title: It's the courage to disagree without being  
-   Link: [https://modernconsciousness.com/dignity-lost-and-found-navigating-political-discourse-with-respect/](https://modernconsciousness.com/dignity-lost-and-found-navigating-political-discourse-with-respect/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dignity Lost and Found: Navigating Political Discourse with...25 Nov 2024 — Dignity is the quiet strength of living in alignment with yo...</p></details>
+   Link: <a href="https://modernconsciousness.com/dignity-lost-and-found-navigating-political-discourse-with-respect/" target="_blank" rel="noopener noreferrer nofollow">https://modernconsciousness.com/dignity-lost-and-found-navigating-political-discourse-with-respect/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dignity Lost and Found: Navigating Political Discourse with...25 Nov 2024  Dignity is the quiet strength of living in alignment with yo...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ofcom.org.uk  
    Title: rea online misinformation  
-   Link: [https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/online-nation/2021/rea-online-misinformation.pdf?v=326529](https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/online-nation/2021/rea-online-misinformation.pdf?v=326529)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid Evidence Assessment on Online Misinformation and...9 Jun 2021 — The review is focused on studies that measure the effectiveness of...</p></details>
+   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/online-nation/2021/rea-online-misinformation.pdf?v=326529" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/online-nation/2021/rea-online-misinformation.pdf?v=326529</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid Evidence Assessment on Online Misinformation and...9 Jun 2021  The review is focused on studies that measure the effectiveness of...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sites.dartmouth.edu  
    Title: Vidigal Jerit Pol Comm 1  
-   Link: [https://sites.dartmouth.edu/jerit/files/2022/08/VidigalJerit_PolComm-1.pdf](https://sites.dartmouth.edu/jerit/files/2022/08/VidigalJerit_PolComm-1.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dartmouth SitesIssue Importance and the Correction of Misinformationby R Vidigal · 2022 · Cited by 35 — Even partisans have been shown to...</p></details>
+   Link: <a href="https://sites.dartmouth.edu/jerit/files/2022/08/VidigalJerit_PolComm-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.dartmouth.edu/jerit/files/2022/08/VidigalJerit_PolComm-1.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dartmouth SitesIssue Importance and the Correction of Misinformationby R Vidigal  2022  Cited by 35  Even partisans have been shown to...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: 7 Strategies To Stop Being So Defensive  
-   Link: [https://www.youtube.com/watch?v=thPuQxYeWw0](https://www.youtube.com/watch?v=thPuQxYeWw0)  
+   Link: <a href="https://www.youtube.com/watch?v=thPuQxYeWw0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=thPuQxYeWw0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to have difficult conversations without being defensive How to Handle Defensiveness in Communication: Tips for Healthier Conversation...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: How to Handle Defensiveness in Communication: Tips for Healthier Conversations  
-   Link: [https://www.youtube.com/watch?v=sELt0_QfR0U](https://www.youtube.com/watch?v=sELt0_QfR0U)  
+   Link: <a href="https://www.youtube.com/watch?v=sELt0_QfR0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sELt0_QfR0U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Try THIS the Next Time You Have an Uncomfortable Conversation...</p></details>

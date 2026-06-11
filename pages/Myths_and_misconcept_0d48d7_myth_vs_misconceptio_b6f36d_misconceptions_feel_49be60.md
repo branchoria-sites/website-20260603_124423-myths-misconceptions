@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9
 - Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - key-terms
 - mistaken-models
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - key-terms
 - mistaken-models
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A misconception often persists because it gives people a simple working explanation that fits what they think they see.
 hero_summary: A misconception often persists because it gives people a simple working explanation that fits what they think they see.
 layout: default
 permalink: /mistaken-models/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /key-terms/
 nav_short_title: Mistaken Models
 title: Why Wrong Explanations Can Feel Right
-title_full: Why Wrong Explanations Can Feel Right | Key Terms
+title_full: Why Wrong Explanations Can Feel Right
 display_title_short: Mistaken Models
 display_title: Mistaken Models
 heading_title: Why Wrong Explanations Can Feel Right
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: 'Myth or Misconception: What Is the Difference? | Mythcraft'
+parent_title: 'Myth or Misconception: What Is the Difference?'
 parent_permalink: /key-terms/
 parent_nav_short_title: Key Terms
 parent_heading_title: 'Myth or Misconception: What Is the Difference?'
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Is It a Myth or a Misconception?
 up_link:
   basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
@@ -265,7 +265,7 @@ next_link:
   permalink: /myth-to-model/
   short_title: Myth to Model
   heading_title: When Repeated Claims Shape Understanding
-date: '2026-06-09 04:53:15 '
+date: '2026-06-11 22:16:08 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_misconceptions_feel_49be60-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_misconceptions_feel_49be60-Illustration-1.webp
@@ -276,9 +276,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_mi
 
 A misconception rarely feels absurd to the person holding it. In many cases, it feels sensible, practical and even supported by experience. That is why misconceptions are different from simple factual mistakes. They often function as working explanations that help people predict events, interpret what they see and connect separate observations into a coherent story.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_misconceptions_feel_49be60-Illustration-1-dark.svg" | relative_url }}" alt="Mistaken Models illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_misconceptions_feel_49be60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_misconceptions_feel_49be60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research in education and cognitive science suggests that people frequently build what are called [mental models]({{ 'mental-models/' | relative_url }}): internal explanations of how something works. When those models are incomplete or flawed, they can still appear convincing because they successfully explain part of reality. The difficulty is not that people lack reasons for believing them. The difficulty is that the reasons seem to fit the evidence available from everyday life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/education-career/k12/misconceptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Alternative conceptions (misconceptions) are not...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/edited-volume/61768/chapter/553571429?searchresult=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicStudents&#x27; Misconceptions and Science Education30 Jul 2020 — One of the first interpretations of misconceptions is that they a...</span></span></span>
+Research in education and cognitive science suggests that people frequently build what are called [mental models]({{ 'mental-models/' | relative_url }}): internal explanations of how something works. When those models are incomplete or flawed, they can still appear convincing because they successfully explain part of reality. The difficulty is not that people lack reasons for believing them. The difficulty is that the reasons seem to fit the evidence available from everyday life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/education-career/k12/misconceptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Alternative conceptions (misconceptions) are not...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/edited-volume/61768/chapter/553571429?searchresult=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicStudents&#x27; Misconceptions and Science Education30 Jul 2020  One of the first interpretations of misconceptions is that they a...</span></span></span>
 
 ## How People Build Mistaken Mental Models
 
@@ -286,22 +285,19 @@ People do not experience most of the world directly. They experience fragments o
 
 A child may notice that summer feels hotter and winter feels colder and conclude that Earth must be closer to the Sun in summer. The explanation seems reasonable because distance often affects temperature in ordinary life. Standing closer to a fire makes a person warmer. Moving away makes them cooler. The mistake comes from applying a familiar everyday pattern to a situation where different mechanisms are actually responsible. The reasoning is understandable even though the conclusion is wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/education-career/k12/misconceptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Alternative conceptions (misconceptions) are not...Read more...</span></span></span>
 
-Researchers often describe such beliefs as intuitive theories or mental models rather than random errors. People connect observations into an organised framework that helps them explain and predict events. These frameworks can contain many correct pieces of information while still producing incorrect conclusions overall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://3starlearningexperiences.wordpress.com/2019/07/10/tackling-misconceptions-through-conceptual-change-part-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 3starlearningexperiences.wordpress.com">[education.asu.edu-Star learning experiences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">3starlearningexperiences.wordpress.com</span><span class="citation-popover-snippet">3-Star learning experiencesTackling Misconceptions Through Conceptual Change – Part 210 Jul 2019 — Similar to beliefs, a mental model can...</span></span></span>
+Researchers often describe such beliefs as intuitive theories or mental models rather than random errors. People connect observations into an organised framework that helps them explain and predict events. These frameworks can contain many correct pieces of information while still producing incorrect conclusions overall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://3starlearningexperiences.wordpress.com/2019/07/10/tackling-misconceptions-through-conceptual-change-part-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 3starlearningexperiences.wordpress.com">[education.asu.edu-Star learning experiences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">3starlearningexperiences.wordpress.com</span><span class="citation-popover-snippet">3-Star learning experiencesTackling Misconceptions Through Conceptual Change  Part 210 Jul 2019  Similar to beliefs, a mental model can...</span></span></span>
 
-This explains why misconceptions can survive for years. They are not isolated wrong facts floating in [memory]({{ 'memory/' | relative_url }}). They are parts of a larger explanatory structure. Removing one belief may leave the rest of the structure intact, allowing the misconception to reappear in slightly different forms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.buffalo.edu/catt/teach/develop/theory/conceptual-change.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: buffalo.edu">[University at Buffalo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">buffalo.edu</span><span class="citation-popover-title">University at Buffalo Conceptual Change</span><span class="citation-popover-snippet">University at BuffaloConceptual Change - TeachingMarch 5, 2024 — Unfortunately, misconceptions tend to be difficult to change once they a...</span><span class="citation-popover-meta">Published: March 5, 2024</span></span></span>
+This explains why misconceptions can survive for years. They are not isolated wrong facts floating in [memory]({{ 'memory/' | relative_url }}). They are parts of a larger explanatory structure. Removing one belief may leave the rest of the structure intact, allowing the misconception to reappear in slightly different forms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.buffalo.edu/catt/teach/develop/theory/conceptual-change.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: buffalo.edu">[University at Buffalo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">buffalo.edu</span><span class="citation-popover-title">University at Buffalo Conceptual Change</span><span class="citation-popover-snippet">University at BuffaloConceptual Change - TeachingMarch 5, 2024  Unfortunately, misconceptions tend to be difficult to change once they a...</span><span class="citation-popover-meta">Published: March 5, 2024</span></span></span>
 
 ### Why Partial Success Makes a Model Feel True
 
 Many misconceptions survive because they work often enough to feel reliable.
 
-For example, people commonly assume that heavier objects fall faster than lighter ones. In everyday life, a stone dropped beside a feather seems to confirm this idea. The observation is real. What is missing is an understanding of air resistance. The misconception persists because the visible evidence appears to support it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2405.20923v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivAddressing misconceptions in university physics21 Mar 2025 — Students often begin physics courses with misconceptions rooted in ever...</span></span></span>
+For example, people commonly assume that heavier objects fall faster than lighter ones. In everyday life, a stone dropped beside a feather seems to confirm this idea. The observation is real. What is missing is an understanding of air resistance. The misconception persists because the visible evidence appears to support it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2405.20923v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Addressing misconceptions in university physics21 Mar 2025  Students often begin physics courses with misconceptions rooted in ever...</span></span></span>
 
 A flawed model does not need to explain everything. It only needs to explain enough experiences to seem useful. Once a model successfully predicts several familiar situations, people often treat it as trustworthy.
 
 This creates a powerful illusion of understanding. The model feels logical because it has produced correct expectations in at least some circumstances, even if its underlying explanation is incomplete.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/47OGAkP8Xhg" title="Misconceptions vs Scientific Truth: What Every Teacher Needs to Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=47OGAkP8Xhg" target="_blank" rel="noopener noreferrer">Misconceptions vs Scientific Truth: What Every Teacher Needs to Know</a></p><p class="youtube-embed-meta">Channel: Science, AI and Technology for Teachers &middot; Views: 993 &middot; Uploaded: May 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=47OGAkP8Xhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=47OGAkP8Xhg">Open on YouTube</a></p></div></div></div>
 
 ## Why Everyday Experience Can Mislead Reasoning
 
@@ -313,11 +309,10 @@ Several recurring patterns appear:
 
 * **Visible effects seem more important than hidden causes.** People naturally trust what they can observe directly.
 * **Simple explanations feel preferable to complex ones.** A straightforward story is easier to remember and apply.
-* **[Personal experience]({{ 'anecdotes/' | relative_url }}) often outweighs abstract evidence.** What someone has seen themselves can feel more convincing than statistics or expert explanations.
+* **Personal experience often outweighs abstract evidence.** What someone has seen themselves can feel more convincing than statistics or expert explanations.
 * **Familiar [analogies]({{ 'analogies/' | relative_url }}) are extended too far.** People use known situations to explain unfamiliar ones, sometimes beyond the analogy's limits.
 
 These habits are not signs of irrationality. They are practical shortcuts that usually help people make quick sense of everyday events. Problems arise when the shortcuts are applied to systems that operate according to rules that are not immediately visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ies.ed.gov/use-work/awards/scientific-misconceptions-cognitive-underpinning-educational-treatment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ies.ed.gov">[Institute of Education Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ies.ed.gov</span><span class="citation-popover-snippet">Institute of Education SciencesScientific Misconceptions: From Cognitive Underpinning to...In this project, the research team studied th...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_misconceptions_feel_49be60-Illustration-2-dark.svg" | relative_url }}" alt="Mistaken Models illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_misconceptions_feel_49be60-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_misconceptions_feel_49be60-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The World Often Hides Its Real Mechanisms
@@ -326,20 +321,19 @@ Many correct explanations involve processes that cannot be observed directly.
 
 People can see a plant grow, but they cannot directly watch cellular metabolism. They can feel heat, but they cannot see molecular motion. They can observe the movement of planets across the sky, but they cannot perceive the full geometry of orbital mechanics.
 
-Because underlying mechanisms are hidden, people naturally create explanations based on appearances. Those explanations may seem entirely reasonable until more detailed evidence becomes available. The misconception is therefore often a product of limited access to information rather than carelessness or ignorance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bu.edu/cdl/files/2019/05/MagicOfMechanism.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-title">Magic Of Mechanism</span><span class="citation-popover-snippet">Boston UniversityExplanation-Based Instruction on Counterintuitive...by D Kelemen · 2019 · Cited by 92 — From early in development, huma...</span></span></span>
+Because underlying mechanisms are hidden, people naturally create explanations based on appearances. Those explanations may seem entirely reasonable until more detailed evidence becomes available. The misconception is therefore often a product of limited access to information rather than carelessness or ignorance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bu.edu/cdl/files/2019/05/MagicOfMechanism.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-title">Magic Of Mechanism</span><span class="citation-popover-snippet">Boston UniversityExplanation-Based Instruction on Counterintuitive...by D Kelemen  2019  Cited by 92  From early in development, huma...</span></span></span>
 
 ## Why Correct Facts Often Fail to Replace Wrong Explanations
 
-One of the most important findings in conceptual-change research is that learning a correct fact does not automatically replace a flawed mental model. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">chi concpetualchangechapter 0</span><span class="citation-popover-snippet">Three Types of Conceptual Change: Belief Revision, Mental...by MTH Chi · Cited by 1386 — The accumulation of multiple belief revisions c...</span></span></span>
+One of the most important findings in conceptual-change research is that learning a correct fact does not automatically replace a flawed mental model. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">chi concpetualchangechapter 0</span><span class="citation-popover-snippet">Three Types of Conceptual Change: Belief Revision, Mental...by MTH Chi  Cited by 1386  The accumulation of multiple belief revisions c...</span></span></span>
 
 A person can memorise the correct answer while continuing to rely on the older explanation when reasoning independently. This happens because facts and explanations operate at different levels.
 
 For example, a learner may correctly state that seasons are caused by Earth's axial tilt. Yet when asked to explain why one hemisphere experiences summer while another experiences winter, the learner may unconsciously return to the older distance-from-the-Sun explanation. The fact has been learned, but the underlying model remains active. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/emergjlspdf_3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-snippet">Commonsense Conceptions of Emergent ProcessesA domain-general perspective is potentially powerful in two ways: It can explain why a varie...</span></span></span>
 
-Researchers describe this as a problem of [conceptual change]({{ 'concept-change/' | relative_url }}) rather than information transfer. The challenge is not merely adding new knowledge. It is reorganising an existing explanatory system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMisconceptions Yesterday, Today, and Tomorrow</span><span class="citation-popover-snippet">PMC - NIHby MJ Leonard · 2014 · Cited by 175 — We define conceptual change (sensu Duit and Treagust, 2003) as learning that requires a fu...</span></span></span>
+Researchers describe this as a problem of conceptual change rather than information transfer. The challenge is not merely adding new knowledge. It is reorganising an existing explanatory system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMisconceptions Yesterday, Today, and Tomorrow</span><span class="citation-popover-snippet">NIHby MJ Leonard  2014  Cited by 175  We define conceptual change (sensu Duit and Treagust, 2003) as learning that requires a fu...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wEwGBIr_RIw" title="12 Cognitive Biases Explained - How to Think Better and More Logically Removing Bias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wEwGBIr_RIw" target="_blank" rel="noopener noreferrer">12 Cognitive Biases Explained - How to Think Better and More Logically Removing Bias</a></p><p class="youtube-embed-meta">Channel: Practical Psychology</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wEwGBIr_RIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wEwGBIr_RIw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/47OGAkP8Xhg" title="Misconceptions vs Scientific Truth: What Every Teacher Needs to Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=47OGAkP8Xhg" target="_blank" rel="noopener noreferrer">Misconceptions vs Scientific Truth: What Every Teacher Needs to Know</a></p><p class="youtube-embed-meta">Channel: Science, AI and Technology for Teachers &middot; Views: 993 &middot; Uploaded: May 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=47OGAkP8Xhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=47OGAkP8Xhg">Open on YouTube</a></p></div></div></div>
 
 ### Coherence Can Be More Persuasive Than Accuracy
 
@@ -347,25 +341,21 @@ A flawed explanation often survives because it feels internally coherent.
 
 People generally prefer explanations that fit together smoothly. If a misconception connects multiple observations into a single story, it can feel more satisfying than a correct explanation that has not yet been fully understood.
 
-This is why educators often find that directly correcting a statement is not enough. The learner must also acquire a replacement explanation capable of doing the same explanatory work. Without a replacement model, the old one remains attractive because it continues to answer questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEffectiveness of holistic mental model confrontation in...by S Gadgil · 2012 · Cited by 269 — ▻ To achieve conceptual chang...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tipsforteachers.co.uk/research-three-types-of-conceptual-change-belief-revision-mental-model-transformation-and-categorical-shift/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tipsforteachers.co.uk">[Tips for Teachers by Craig Barton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tipsforteachers.co.uk</span><span class="citation-popover-snippet">Tips for Teachers by Craig BartonResearch: Three Types of Conceptual Change: Belief...Mental model transformation modifies a flawed ment...</span></span></span>
+This is why educators often find that directly correcting a statement is not enough. The learner must also acquire a replacement explanation capable of doing the same explanatory work. Without a replacement model, the old one remains attractive because it continues to answer questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Effectiveness of holistic mental model confrontation in...by S Gadgil  2012  Cited by 269   To achieve conceptual chang...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tipsforteachers.co.uk/research-three-types-of-conceptual-change-belief-revision-mental-model-transformation-and-categorical-shift/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tipsforteachers.co.uk">[Tips for Teachers by Craig Barton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tipsforteachers.co.uk</span><span class="citation-popover-snippet">Tips for Teachers by Craig BartonResearch: Three Types of Conceptual Change: Belief...Mental model transformation modifies a flawed ment...</span></span></span>
 
-Research on mental-model transformation suggests that successful [correction]({{ 'correction/' | relative_url }}) often requires learners to recognise [contradictions]({{ 'contradictions/' | relative_url }}) inside their existing framework and then rebuild the framework itself, not simply patch individual beliefs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEffectiveness of holistic mental model confrontation in...by S Gadgil · 2012 · Cited by 269 — ▻ To achieve conceptual chang...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nAgXISssAws" title="What is a Mental Model?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nAgXISssAws" target="_blank" rel="noopener noreferrer">What is a Mental Model?</a></p><p class="youtube-embed-meta">Channel: NNgroup</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nAgXISssAws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nAgXISssAws">Open on YouTube</a></p></div></div></div>
+Research on mental-model transformation suggests that successful [correction]({{ 'correction/' | relative_url }}) often requires learners to recognise [contradictions]({{ 'contradictions/' | relative_url }}) inside their existing framework and then rebuild the framework itself, not simply patch individual beliefs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Effectiveness of holistic mental model confrontation in...by S Gadgil  2012  Cited by 269   To achieve conceptual chang...</span></span></span>
 
 ## When a Misconception Feels Like Common Sense
 
 Perhaps the strongest reason misconceptions feel logical from the inside is that they are frequently built from [common sense]({{ 'common-sense/' | relative_url }}).
 
-Common sense is not a formal theory. It is a collection of practical expectations derived from repeated experience. Most of the time, it works remarkably well. The problem is that scientific, historical and social realities sometimes operate in ways that conflict with everyday intuition.
+Common sense is not a formal theory. It is a collection of practical expectations derived from repeated experience. Most of the time, it works remarkably well. The problem is that scientific, historical and social realities sometimes operate in ways that [conflict]({{ 'conflict/' | relative_url }}) with everyday intuition.
 
-A misconception therefore often represents an overextension of successful reasoning rather than a failure to reason at all. Someone is using a pattern that works in one context and applying it to another where it breaks down. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1466772" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">JSTORMisconceptions or P-Prims: How MayJune 1, 1996 — by D Hammer · 1996 · Cited by 622 — Other researchers have identified similar misco...</span><span class="citation-popover-meta">Published: June 1, 1996</span></span></span>
+A misconception therefore often represents an overextension of successful reasoning rather than a failure to reason at all. Someone is using a pattern that works in one context and applying it to another where it breaks down. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1466772" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Misconceptions or P-Prims: How MayJune 1, 1996  by D Hammer  1996  Cited by 622  Other researchers have identified similar misco...</span><span class="citation-popover-meta">Published: June 1, 1996</span></span></span>
 
-This perspective changes how misconceptions are understood. Instead of viewing them as simple ignorance, many researchers treat them as sincere efforts to explain the world using the evidence and mental tools available to the learner. The explanation is wrong, but the process that produced it can be entirely understandable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/education-career/k12/misconceptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Alternative conceptions (misconceptions) are not...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/edited-volume/61768/chapter/553571429?searchresult=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicStudents&#x27; Misconceptions and Science Education30 Jul 2020 — One of the first interpretations of misconceptions is that they a...</span></span></span>
+This perspective changes how misconceptions are understood. Instead of viewing them as simple ignorance, many researchers treat them as sincere efforts to explain the world using the evidence and mental tools available to the learner. The explanation is wrong, but the process that produced it can be entirely understandable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/education-career/k12/misconceptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Alternative conceptions (misconceptions) are not...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/edited-volume/61768/chapter/553571429?searchresult=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicStudents&#x27; Misconceptions and Science Education30 Jul 2020  One of the first interpretations of misconceptions is that they a...</span></span></span>
 
-That is why misconceptions often feel logical from the inside. They are not usually experienced as mistakes. They are experienced as explanations that seem to fit reality—until stronger evidence, better models and deeper understanding reveal where the apparent logic went wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bu.edu/cdl/files/2019/05/MagicOfMechanism.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-title">Magic Of Mechanism</span><span class="citation-popover-snippet">Boston UniversityExplanation-Based Instruction on Counterintuitive...by D Kelemen · 2019 · Cited by 92 — From early in development, huma...</span></span></span>
-
+That is why misconceptions often feel logical from the inside. They are not usually experienced as mistakes. They are experienced as explanations that seem to fit realityuntil stronger evidence, better models and deeper understanding reveal where the apparent logic went wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bu.edu/cdl/files/2019/05/MagicOfMechanism.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-title">Magic Of Mechanism</span><span class="citation-popover-snippet">Boston UniversityExplanation-Based Instruction on Counterintuitive...by D Kelemen  2019  Cited by 92  From early in development, huma...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_misconceptions_feel_49be60-Illustration-3-dark.svg" | relative_url }}" alt="Mistaken Models illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_misconceptions_feel_49be60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_misconceptions_feel_49be60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -486,11 +476,11 @@ That is why misconceptions often feel logical from the inside. They are not usua
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistaken-models-why-wrong-explanations-can-feel-right-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="mistaken-models-why-wrong-explanations-can-feel-right-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacherâ€™s Day Gift Cushion Cover Best Teacher Globe Pillowcase Classroom Decor"><img src="{{ '/assets/images/marketplace-covers/fe35f66c79d0d3d9f527.jpg' | relative_url }}" alt="Listing image for Teacherâ€™s Day Gift Cushion Cover Best Teacher Globe Pillowcase Classroom Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistaken-models-why-wrong-explanations-can-feel-right-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="mistaken-models-why-wrong-explanations-can-feel-right-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher’s Day Gift Cushion Cover Best Teacher Globe Pillowcase Classroom Decor"><img src="{{ '/assets/images/marketplace-covers/fe35f66c79d0d3d9f527.jpg' | relative_url }}" alt="Listing image for Teacher’s Day Gift Cushion Cover Best Teacher Globe Pillowcase Classroom Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistaken-models-why-wrong-explanations-can-feel-right-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="mistaken-models-why-wrong-explanations-can-feel-right-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Teacherâ€™s Day Gift Cushion Cover Best Teacher Globe Pillowcase Classroom Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistaken-models-why-wrong-explanations-can-feel-right-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="mistaken-models-why-wrong-explanations-can-feel-right-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Teacher’s Day Gift Cushion Cover Best Teacher Globe Pillowcase Classroom Decor</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mistaken-models-why-wrong-explanations-can-feel-right-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="mistaken-models-why-wrong-explanations-can-feel-right-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom decor</a>
         <div class="fr-book-actions">
@@ -765,132 +755,132 @@ That is why misconceptions often feel logical from the inside. They are not usua
 
 1. <a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/edited-volume/61768/chapter/553571429?searchresult=1](https://academic.oup.com/edited-volume/61768/chapter/553571429?searchresult=1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicStudents&#x27; Misconceptions and Science Education30 Jul 2020 — One of the first interpretations of misconceptions is that they a...</p></details>
+   Link: <a href="https://academic.oup.com/edited-volume/61768/chapter/553571429?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/61768/chapter/553571429?searchresult=1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicStudents&#x27; Misconceptions and Science Education30 Jul 2020  One of the first interpretations of misconceptions is that they a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMisconceptions Yesterday, Today, and Tomorrow  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby MJ Leonard · 2014 · Cited by 175 — We define conceptual change (sensu Duit and Treagust, 2003) as learning that requires a fu...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby MJ Leonard  2014  Cited by 175  We define conceptual change (sensu Duit and Treagust, 2003) as learning that requires a fu...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: education.asu.edu  
    Title: chi concpetualchangechapter 0  
-   Link: [https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf](https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Three Types of Conceptual Change: Belief Revision, Mental...by MTH Chi · Cited by 1386 — The accumulation of multiple belief revisions c...</p></details>
+   Link: <a href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Three Types of Conceptual Change: Belief Revision, Mental...by MTH Chi  Cited by 1386  The accumulation of multiple belief revisions c...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: buffalo.edu  
    Title: University at Buffalo Conceptual Change  
-   Link: [https://www.buffalo.edu/catt/teach/develop/theory/conceptual-change.html](https://www.buffalo.edu/catt/teach/develop/theory/conceptual-change.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University at BuffaloConceptual Change - TeachingMarch 5, 2024 — Unfortunately, misconceptions tend to be difficult to change once they a...</p></details>
+   Link: <a href="https://www.buffalo.edu/catt/teach/develop/theory/conceptual-change.html" target="_blank" rel="noopener noreferrer nofollow">https://www.buffalo.edu/catt/teach/develop/theory/conceptual-change.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>University at BuffaloConceptual Change - TeachingMarch 5, 2024  Unfortunately, misconceptions tend to be difficult to change once they a...</p></details>
    Published: March 5, 2024  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2405.20923v2](https://arxiv.org/html/2405.20923v2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAddressing misconceptions in university physics21 Mar 2025 — Students often begin physics courses with misconceptions rooted in ever...</p></details>
+   Link: <a href="https://arxiv.org/html/2405.20923v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2405.20923v2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Addressing misconceptions in university physics21 Mar 2025  Students often begin physics courses with misconceptions rooted in ever...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Scientific misconceptions  
-   Link: [https://en.wikipedia.org/wiki/Scientific_misconceptions](https://en.wikipedia.org/wiki/Scientific_misconceptions)  
+   Link: <a href="https://en.wikipedia.org/wiki/Scientific_misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scientific_misconceptions</a>  
 
 7. <a id="endnote-7"></a>
    Source: education.asu.edu  
-   Link: [https://education.asu.edu/sites/g/files/litvpz656/files/lcl/emergjlspdf_3.pdf](https://education.asu.edu/sites/g/files/litvpz656/files/lcl/emergjlspdf_3.pdf)  
+   Link: <a href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/emergjlspdf_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/sites/g/files/litvpz656/files/lcl/emergjlspdf_3.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Commonsense Conceptions of Emergent ProcessesA domain-general perspective is potentially powerful in two ways: It can explain why a varie...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Conceptual change  
-   Link: [https://en.wikipedia.org/wiki/Conceptual_change](https://en.wikipedia.org/wiki/Conceptual_change)  
+   Link: <a href="https://en.wikipedia.org/wiki/Conceptual_change" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Conceptual_change</a>  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454](https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectEffectiveness of holistic mental model confrontation in...by S Gadgil · 2012 · Cited by 269 — ▻ To achieve conceptual chang...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effectiveness of holistic mental model confrontation in...by S Gadgil  2012  Cited by 269   To achieve conceptual chang...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/1466772](https://www.jstor.org/stable/1466772)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JSTORMisconceptions or P-Prims: How MayJune 1, 1996 — by D Hammer · 1996 · Cited by 622 — Other researchers have identified similar misco...</p></details>
+   Link: <a href="https://www.jstor.org/stable/1466772" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1466772</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions or P-Prims: How MayJune 1, 1996  by D Hammer  1996  Cited by 622  Other researchers have identified similar misco...</p></details>
    Published: June 1, 1996  
 
 11. <a id="endnote-11"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/education-career/k12/misconceptions](https://www.apa.org/education-career/k12/misconceptions)  
+   Link: <a href="https://www.apa.org/education-career/k12/misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/education-career/k12/misconceptions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alternative conceptions (misconceptions) are not...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: bu.edu  
    Title: Magic Of Mechanism  
-   Link: [https://www.bu.edu/cdl/files/2019/05/MagicOfMechanism.pdf](https://www.bu.edu/cdl/files/2019/05/MagicOfMechanism.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston UniversityExplanation-Based Instruction on Counterintuitive...by D Kelemen · 2019 · Cited by 92 — From early in development, huma...</p></details>
+   Link: <a href="https://www.bu.edu/cdl/files/2019/05/MagicOfMechanism.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/cdl/files/2019/05/MagicOfMechanism.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston UniversityExplanation-Based Instruction on Counterintuitive...by D Kelemen  2019  Cited by 92  From early in development, huma...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ies.ed.gov  
-   Link: [https://ies.ed.gov/use-work/awards/scientific-misconceptions-cognitive-underpinning-educational-treatment](https://ies.ed.gov/use-work/awards/scientific-misconceptions-cognitive-underpinning-educational-treatment)  
+   Link: <a href="https://ies.ed.gov/use-work/awards/scientific-misconceptions-cognitive-underpinning-educational-treatment" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/use-work/awards/scientific-misconceptions-cognitive-underpinning-educational-treatment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute of Education SciencesScientific Misconceptions: From Cognitive Underpinning to...In this project, the research team studied th...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: tipsforteachers.co.uk  
-   Link: [https://tipsforteachers.co.uk/research-three-types-of-conceptual-change-belief-revision-mental-model-transformation-and-categorical-shift/](https://tipsforteachers.co.uk/research-three-types-of-conceptual-change-belief-revision-mental-model-transformation-and-categorical-shift/)  
+   Link: <a href="https://tipsforteachers.co.uk/research-three-types-of-conceptual-change-belief-revision-mental-model-transformation-and-categorical-shift/" target="_blank" rel="noopener noreferrer nofollow">https://tipsforteachers.co.uk/research-three-types-of-conceptual-change-belief-revision-mental-model-transformation-and-categorical-shift/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tips for Teachers by Craig BartonResearch: Three Types of Conceptual Change: Belief...Mental model transformation modifies a flawed ment...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: takinglearningseriously.com  
-   Link: [https://takinglearningseriously.com/barriers-to-learning/misconceptions/](https://takinglearningseriously.com/barriers-to-learning/misconceptions/)  
+   Link: <a href="https://takinglearningseriously.com/barriers-to-learning/misconceptions/" target="_blank" rel="noopener noreferrer nofollow">https://takinglearningseriously.com/barriers-to-learning/misconceptions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MisconceptionsChanging students&#x27; misconceptions involves revising their conceptual understanding, and not simply adding correct new infor...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/impact_article/minimising-misconceptions-through-the-design-of-explanatory-sequences/](https://my.chartered.college/impact_article/minimising-misconceptions-through-the-design-of-explanatory-sequences/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>misconceptions through the design...by A Stubbs — We can design instruction to prevent misconceptions forming by managing the sequence o...</p></details>
+   Link: <a href="https://my.chartered.college/impact_article/minimising-misconceptions-through-the-design-of-explanatory-sequences/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/minimising-misconceptions-through-the-design-of-explanatory-sequences/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>misconceptions through the design...by A Stubbs  We can design instruction to prevent misconceptions forming by managing the sequence o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: per-central.org  
-   Link: [https://www.per-central.org/items/perc/3451.pdf](https://www.per-central.org/items/perc/3451.pdf)  
+   Link: <a href="https://www.per-central.org/items/perc/3451.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.per-central.org/items/perc/3451.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>g students&#x27; intuitive theory not only because it is located at the intersection of various disciplines...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theeducationhub.org.nz  
    Title: countering common misconceptions about cognitive perspectives of learning  
-   Link: [https://theeducationhub.org.nz/countering-common-misconceptions-about-cognitive-perspectives-of-learning/](https://theeducationhub.org.nz/countering-common-misconceptions-about-cognitive-perspectives-of-learning/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering common misconceptions about cognitive...16 Feb 2021 — This article explores some common misconceptions about cognitive perspe...</p></details>
+   Link: <a href="https://theeducationhub.org.nz/countering-common-misconceptions-about-cognitive-perspectives-of-learning/" target="_blank" rel="noopener noreferrer nofollow">https://theeducationhub.org.nz/countering-common-misconceptions-about-cognitive-perspectives-of-learning/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering common misconceptions about cognitive...16 Feb 2021  This article explores some common misconceptions about cognitive perspe...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nordangliaeducation.com  
    Title: why science misconceptions matter and what they teach us about learning  
-   Link: [https://www.nordangliaeducation.com/bisc-south-loop/news/2026/02/12/why-science-misconceptions-matter-and-what-they-teach-us-about-learning](https://www.nordangliaeducation.com/bisc-south-loop/news/2026/02/12/why-science-misconceptions-matter-and-what-they-teach-us-about-learning)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Science Misconceptions Matter and What They Teach...11 Feb 2026 — A look at common science misconceptions and how challenging them h...</p></details>
+   Link: <a href="https://www.nordangliaeducation.com/bisc-south-loop/news/2026/02/12/why-science-misconceptions-matter-and-what-they-teach-us-about-learning" target="_blank" rel="noopener noreferrer nofollow">https://www.nordangliaeducation.com/bisc-south-loop/news/2026/02/12/why-science-misconceptions-matter-and-what-they-teach-us-about-learning</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Science Misconceptions Matter and What They Teach...11 Feb 2026  A look at common science misconceptions and how challenging them h...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
    Title: 352588191 Misconceptions or mental models  
-   Link: [https://www.researchgate.net/publication/352588191_Misconceptions_or_mental_models](https://www.researchgate.net/publication/352588191_Misconceptions_or_mental_models)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Misconceptions or mental models18 Jan 2026 — It is argued that the mental-models perspective explains many aspects of the data and...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/352588191_Misconceptions_or_mental_models" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352588191_Misconceptions_or_mental_models</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Misconceptions or mental models18 Jan 2026  It is argued that the mental-models perspective explains many aspects of the data and...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: 3starlearningexperiences.wordpress.com  
-   Link: [https://3starlearningexperiences.wordpress.com/2019/07/10/tackling-misconceptions-through-conceptual-change-part-2/](https://3starlearningexperiences.wordpress.com/2019/07/10/tackling-misconceptions-through-conceptual-change-part-2/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3-Star learning experiencesTackling Misconceptions Through Conceptual Change – Part 210 Jul 2019 — Similar to beliefs, a mental model can...</p></details>
+   Link: <a href="https://3starlearningexperiences.wordpress.com/2019/07/10/tackling-misconceptions-through-conceptual-change-part-2/" target="_blank" rel="noopener noreferrer nofollow">https://3starlearningexperiences.wordpress.com/2019/07/10/tackling-misconceptions-through-conceptual-change-part-2/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>3-Star learning experiencesTackling Misconceptions Through Conceptual Change  Part 210 Jul 2019  Similar to beliefs, a mental model can...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: carlhendrick.substack.com  
-   Link: [https://carlhendrick.substack.com/p/well-organised-misunderstanding-the](https://carlhendrick.substack.com/p/well-organised-misunderstanding-the)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>substack.com“Well-Organised Misunderstanding&quot;: The Fine Art of Being...As she explains, &quot;some false beliefs and flawed mental models are...</p></details>
+   Link: <a href="https://carlhendrick.substack.com/p/well-organised-misunderstanding-the" target="_blank" rel="noopener noreferrer nofollow">https://carlhendrick.substack.com/p/well-organised-misunderstanding-the</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>substack.comWell-Organised Misunderstanding&quot;: The Fine Art of Being...As she explains, &quot;some false beliefs and flawed mental models are...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: gettingsmart.com  
    Title: the persistence of misconceptions  
-   Link: [https://www.gettingsmart.com/2019/11/16/the-persistence-of-misconceptions/](https://www.gettingsmart.com/2019/11/16/the-persistence-of-misconceptions/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Nov 2019 — Preconceived notions are popular conceptions rooted in everyday experiences. Non-scientific beliefs include views learned b...</p></details>
+   Link: <a href="https://www.gettingsmart.com/2019/11/16/the-persistence-of-misconceptions/" target="_blank" rel="noopener noreferrer nofollow">https://www.gettingsmart.com/2019/11/16/the-persistence-of-misconceptions/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Nov 2019  Preconceived notions are popular conceptions rooted in everyday experiences. Non-scientific beliefs include views learned b...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=47OGAkP8Xhg](https://www.youtube.com/watch?v=47OGAkP8Xhg)  
+   Link: <a href="https://www.youtube.com/watch?v=47OGAkP8Xhg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=47OGAkP8Xhg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>iew. It&#x27;s odds with the accepted science and can be difficult to change...</p></details>

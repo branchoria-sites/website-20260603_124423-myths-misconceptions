@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - mental-models
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - mental-models
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Misconceptions can feel stable because they fit into a wider model of how the world works.
 hero_summary: Misconceptions can feel stable because they fit into a wider model of how the world works.
 layout: default
 permalink: /mental-models/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Mental Models
 title: Why Wrong Ideas Can Feel Coherent
-title_full: Why Wrong Ideas Can Feel Coherent | Mythcraft
+title_full: Why Wrong Ideas Can Feel Coherent
 display_title_short: Mental Models
 display_title: Mental Models
 heading_title: Why Wrong Ideas Can Feel Coherent
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 next_link:
   basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
-date: '2026-06-09 04:05:18 '
+date: '2026-06-11 21:51:26 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-overview.webp
@@ -501,8 +501,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-ove
 
 ## Introduction
 
-Wrong ideas often feel coherent because they are not held as isolated facts. They sit inside a wider mental model: a working picture of how causes, people, systems or risks fit together. That model may be incomplete or mistaken, but it can still explain everyday experience, predict what “should” happen next, and make new information feel easy to sort. This is why simply replacing a myth with “false” rarely works. A [correction]({{ 'correction/' | relative_url }}) that removes one piece of a person’s model can leave a gap, and the mind may keep using the old explanation because it still makes the story feel complete. Research on misinformation calls this the [continued influence]({{ 'old-stories/' | relative_url }}) effect: retracted information can keep shaping later reasoning even when people remember that it was corrected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">Skeptical ScienceMisinformation and its Correction: Continued Influence and...May 5, 2012 — by S Lewandowsky · Cited by 4718 — Multiple...</span><span class="citation-popover-meta">Published: May 5, 2012</span></span></span>
-
+Wrong ideas often feel coherent because they are not held as isolated facts. They sit inside a wider mental model: a working picture of how causes, people, systems or risks fit together. That model may be incomplete or mistaken, but it can still explain everyday experience, predict what “should” happen next, and make new information feel easy to sort. This is why simply replacing a myth with “false” rarely works. A [correction]({{ 'correction/' | relative_url }}) that removes one piece of a person’s model can leave a gap, and the mind may keep using the old explanation because it still makes the story feel complete. Research on misinformation calls this the continued influence effect: retracted information can keep shaping later reasoning even when people remember that it was corrected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">Skeptical ScienceMisinformation and its Correction: Continued Influence and...May 5, 2012 — by S Lewandowsky · Cited by 4718 — Multiple...</span><span class="citation-popover-meta">Published: May 5, 2012</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-overview.webp" | relative_url }}" alt="Overview image for Mental Models" loading="eager" decoding="sync" fetchpriority="high">
 The useful question, then, is not only “what fact is wrong?” but “what model made that fact feel right?” A myth becomes durable when it offers a causal story, fits prior assumptions, and gives people a practical way to interpret uncertainty. Repairing it means replacing the faulty model with a better one, not merely attacking a single claim.
@@ -513,12 +512,11 @@ A mental model is a simplified internal representation of how something works. P
 
 This matters because many myths are not random errors. They are answers produced by a larger pattern of reasoning. A person who believes a health myth, for example, may not just hold a false claim about one treatment. They may also rely on a broader model in which “natural” means safe, complicated medical language signals concealment, and personal testimony counts as stronger evidence than population-level data. Within that model, new [anecdotes]({{ 'anecdotes/' | relative_url }}) slide neatly into place while statistical evidence feels cold, distant or evasive.
 
-Research on science learning shows the same pattern. Michelene Chi’s work on [conceptual change]({{ 'concept-change/' | relative_url }}) distinguishes between simple false beliefs and deeper flawed mental models, where the learner’s responses are internally patterned rather than merely scattered mistakes. A flawed model can be “coherent” because it is retrieved and used consistently to answer questions and make predictions, even when it conflicts with the expert model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">Three Types of Conceptual Change: Belief Revision, Mental</span><span class="citation-popover-snippet">Three Types of Conceptual Change: Belief Revision, Mental</span></span></span>
+Research on science learning shows the same pattern. Michelene Chi’s work on conceptual change distinguishes between simple false beliefs and deeper flawed mental models, where the learner’s responses are internally patterned rather than merely scattered mistakes. A flawed model can be “coherent” because it is retrieved and used consistently to answer questions and make predictions, even when it conflicts with the expert model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">Three Types of Conceptual Change: Belief Revision, Mental</span><span class="citation-popover-snippet">Three Types of Conceptual Change: Belief Revision, Mental</span></span></span>
 
 A classic example comes from children’s ideas about the Earth. In a study by Stella Vosniadou and William Brewer, children did not merely alternate between “flat” and “round” at random. Many formed intermediate models such as a disc Earth, a dual Earth, a hollow sphere, or a flattened sphere. These models helped them reconcile what they had been told — that the Earth is round — with everyday assumptions such as “the ground beneath us is flat” and “people need support underneath them”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That example is powerful because the children’s ideas are wrong, but not foolish. They are attempts to preserve coherence while absorbing new information. Adults do something similar with public myths: they graft new facts onto old assumptions, sometimes producing hybrid explanations that feel more stable than either the myth or the correction alone.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-Illustration-1-dark.svg" | relative_url }}" alt="Mental Models illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a wrong model can feel better than a missing one
@@ -539,19 +537,15 @@ This is why myth correction often fails when it treats belief as a list of detac
 
 A correction that only addresses the first function may leave the others untouched. The false claim is weakened, but the old model remains available.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0mBXYZyWMG8" title="Fighting Misinformation with Psychological Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0mBXYZyWMG8" target="_blank" rel="noopener noreferrer">Fighting Misinformation with Psychological Science</a></p><p class="youtube-embed-meta">Channel: American Psychological Association &middot; Views: 1.3K &middot; Uploaded: June 2022 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0mBXYZyWMG8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0mBXYZyWMG8">Open on YouTube</a></p></div></div></div>
-
 ## How coherence survives contradiction
 
-A myth can absorb contradictory evidence if the wider model has ways to explain that evidence away. This is one reason myths can feel stable even when they are patched together from weak facts. A person may reject official data because their model says institutions hide inconvenient truths. They may dismiss [expert consensus]({{ 'false-balance-0e8d1b/' | relative_url }}) because their model says consensus is produced by groupthink or financial pressure. They may treat failed predictions as proof that opponents interfered. The contradiction does not always break the model; sometimes it becomes evidence inside the model.
+A myth can absorb contradictory evidence if the wider model has ways to explain that evidence away. This is one reason myths can feel stable even when they are patched together from weak facts. A person may reject official data because their model says institutions hide inconvenient truths. They may dismiss expert consensus because their model says consensus is produced by groupthink or financial pressure. They may treat failed predictions as proof that opponents interfered. The contradiction does not always break the model; sometimes it becomes evidence inside the model.
 
-Psychological reviews of misinformation identify several barriers to updating beliefs after correction, including familiarity, source credibility, identity, emotional investment and the continued influence of earlier information. These factors interact with mental models: repetition makes a model easier to retrieve, trusted sources make it safer to use, and identity can make abandoning it feel like betraying a group rather than revising a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Psychological reviews of misinformation identify several barriers to updating beliefs [after correction]({{ 'after-correction/' | relative_url }}), including familiarity, source credibility, identity, emotional investment and the continued influence of earlier information. These factors interact with mental models: [repetition]({{ 'repetition/' | relative_url }}) makes a model easier to retrieve, trusted sources make it safer to use, and identity can make abandoning it feel like betraying a group rather than revising a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-There is also an important education debate here. Some researchers argue that misconceptions often behave like coherent alternative theories; others, such as Andrea diSessa and colleagues in the “knowledge in pieces” tradition, argue that learners’ ideas may be more fragmented, context-sensitive and productive than the word “misconception” implies. The debate matters because it changes the teaching response: should educators replace a faulty model, reorganise useful fragments, or help learners notice when different intuitions conflict? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerExploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effe...</span></span></span>
+There is also an important education debate here. Some researchers argue that misconceptions often behave like coherent alternative theories; others, such as Andrea diSessa and colleagues in the “knowledge in pieces” tradition, argue that learners’ ideas may be more fragmented, context-sensitive and productive than the word “misconception” implies. The debate matters because it changes the teaching response: should educators replace a faulty model, reorganise useful fragments, or help learners notice when different intuitions [conflict]({{ 'conflict/' | relative_url }})? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Exploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effe...</span></span></span>
 
 For myths and misconceptions in public life, the safest conclusion is not that every false belief is a perfectly coherent worldview. Many are messy. But even messy beliefs can gain local coherence when they answer the questions people care about. A myth does not need to explain everything; it only needs to explain enough, in a memorable way, to keep being used.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-Illustration-2-dark.svg" | relative_url }}" alt="Mental Models illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why pressure brings old ideas back
@@ -566,9 +560,7 @@ A common classroom version is the student who can recite that heavier and lighte
 
 The same pattern appears in health and risk myths. People may know in general that correlation is not causation, but in a frightening moment a vivid personal story can reactivate a simpler model: “this happened after that, so that caused this”. The model is wrong, but it is quick, human and emotionally legible.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-Illustration-3-dark.svg" | relative_url }}" alt="Mental Models illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Teaching through model repair
 
 The most effective response to coherent myths is model repair. This means identifying the structure that makes the misconception work, then helping the learner build a better structure that performs the same useful tasks more accurately. It is not enough to say “wrong”; the replacement must explain more, predict better and feel usable.
@@ -579,11 +571,10 @@ This is why good correction often uses a fact–myth–fallacy–fact structure.
 
 For teachers, journalists, clinicians and public communicators, several model-repair principles follow:
 
-* **Replace the explanation, not only the sentence.** A correction should answer the causal question the myth had been answering.
-* **Preserve what was reasonable.** Many misconceptions start from sensible observations: the ground looks flat; [personal experience]({{ 'anecdotes/' | relative_url }}) feels vivid; institutions can make mistakes. Better explanations should show where those observations fit.
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
+* **Replace the explanation, not only the sentence.** A correction should answer the causal question the myth had been answering.
+* **Preserve what was reasonable.** Many misconceptions start from sensible observations: the ground looks flat; personal experience feels vivid; institutions can make mistakes. Better explanations should show where those observations fit.
 * **Name the trap.** Explain whether the myth relies on a misleading analogy, a false cause, a missing denominator, a category error, cherry-picked evidence or an overgeneralised anecdote.
 * **Make the new model usable.** Give readers a rule they can apply next time, such as “a single dramatic story can raise a question, but it cannot estimate risk”.
 * **Expect relapse.** If the old model is socially repeated or emotionally satisfying, one correction is unlikely to be enough.
@@ -592,21 +583,17 @@ For teachers, journalists, clinicians and public communicators, several model-re
 
 The Annenberg Public Policy Center has recently tested “mental model” approaches for mRNA vaccine misconceptions, using visual, verbal and animated models to teach underlying scientific concepts rather than only rebutting individual claims. The significance is the same: when a misconception is generated by a faulty picture of how a system works, communication has to repair that picture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asc.upenn.edu/news-events/news/mental-model-approach-shows-promise-reducing-susceptibility-misconceptions-about-mrna-vaccination" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asc.upenn.edu">[asc.upenn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asc.upenn.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0mBXYZyWMG8" title="Fighting Misinformation with Psychological Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0mBXYZyWMG8" target="_blank" rel="noopener noreferrer">Fighting Misinformation with Psychological Science</a></p><p class="youtube-embed-meta">Channel: American Psychological Association &middot; Views: 1.3K &middot; Uploaded: June 2022 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0mBXYZyWMG8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0mBXYZyWMG8">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-Illustration-3-dark.svg" | relative_url }}" alt="Mental Models illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What changes when we treat myths as coherent models
 
 Treating myths as coherent models changes the tone of correction. It discourages mockery, because the question becomes “what made this idea fit?” rather than “how could anyone believe that?” It also makes correction more demanding. A fact-check can show that a claim is false; model repair must show what a better explanation looks like and why it should replace the old one.
 
-This approach is especially useful for myths that survive across many individual claims. Someone can stop believing one rumour about vaccines, climate change, crime, nutrition or education while still retaining the model that produced the rumour. New myths then become easy to accept because they fit the same structure. Public-health reviews have found that strategies such as communicating scientific consensus, warning about misinformation, acknowledging uncertainty and avoiding scare tactics can matter because they shape how people interpret the whole risk model, not just one claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://evidence.nihr.ac.uk/alert/how-to-tackle-vaccine-misinformation-what-works-and-what-doesnt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evidence.nihr.ac.uk">[NIHR Evidence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evidence.nihr.ac.uk</span><span class="citation-popover-title">NIHR Evidence How to tackle vaccine misinformation: what works?</span><span class="citation-popover-snippet">NIHR Evidence How to tackle vaccine misinformation: what works?</span></span></span>
+This approach is especially useful for myths that survive across many individual claims. Someone can stop believing one rumour about vaccines, climate change, crime, nutrition or education while still retaining the model that produced the rumour. New myths then become easy to accept because they fit the same structure. Public-health reviews have found that strategies such as [communicating]({{ 'communicating/' | relative_url }}) scientific consensus, warning about misinformation, acknowledging uncertainty and avoiding scare tactics can matter because they shape how people interpret the whole risk model, not just one claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://evidence.nihr.ac.uk/alert/how-to-tackle-vaccine-misinformation-what-works-and-what-doesnt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evidence.nihr.ac.uk">[NIHR Evidence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evidence.nihr.ac.uk</span><span class="citation-popover-title">NIHR Evidence How to tackle vaccine misinformation: what works?</span><span class="citation-popover-snippet">NIHR Evidence How to tackle vaccine misinformation: what works?</span></span></span>
 
 The goal is not to pretend all myths are equally sophisticated. Some are lazy, opportunistic or deliberately manipulative. But even manipulative myths spread more easily when they plug into models people already have: distrust of elites, belief in hidden causes, preference for natural explanations, suspicion of complexity, or the feeling that official accounts leave something out.
 
 A corrected model does three things better than the myth. It explains the same facts without needing special pleading. It remains stable when new evidence appears. And it gives the learner a practical way to reason under uncertainty. That is why “mental models that make myths coherent” is a central mechanism in understanding misconceptions: myths persist not only because people repeat them, but because they can make the world feel organised.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iow5V3Qlvwo" title="The procrastination cure you don&#x27;t want to hear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iow5V3Qlvwo" target="_blank" rel="noopener noreferrer">The procrastination cure you don&#x27;t want to hear</a></p><p class="youtube-embed-meta">Channel: Better Ideas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iow5V3Qlvwo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iow5V3Qlvwo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1004,161 +991,161 @@ A corrected model does three things better than the myth. It explains the same f
 
 1. <a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-021-00335-9](https://link.springer.com/article/10.1186/s41235-021-00335-9)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerExploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effe...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effe...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: education.asu.edu  
    Title: Three Types of Conceptual Change: Belief Revision, Mental  
-   Link: [https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf](https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf)  
+   Link: <a href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/001002859290018W](https://www.sciencedirect.com/science/article/pii/001002859290018W)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/001002859290018W</a>  
 
 4. <a id="endnote-4"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.1914085117](https://www.pnas.org/doi/10.1073/pnas.1914085117)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1914085117" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1914085117</a>  
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
 
 6. <a id="endnote-6"></a>
    Source: link.springer.com  
    Title: Modeling Types of Knowledge and Their Roles in Learning  
-   Link: [https://link.springer.com/chapter/10.1007/978-3-319-72170-5_5](https://link.springer.com/chapter/10.1007/978-3-319-72170-5_5)  
+   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-319-72170-5_5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-319-72170-5_5</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMisconceptions Yesterday, Today, and Tomorrow  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/</a>  
 
 8. <a id="endnote-8"></a>
    Source: asc.upenn.edu  
-   Link: [https://www.asc.upenn.edu/news-events/news/mental-model-approach-shows-promise-reducing-susceptibility-misconceptions-about-mrna-vaccination](https://www.asc.upenn.edu/news-events/news/mental-model-approach-shows-promise-reducing-susceptibility-misconceptions-about-mrna-vaccination)  
+   Link: <a href="https://www.asc.upenn.edu/news-events/news/mental-model-approach-shows-promise-reducing-susceptibility-misconceptions-about-mrna-vaccination" target="_blank" rel="noopener noreferrer nofollow">https://www.asc.upenn.edu/news-events/news/mental-model-approach-shows-promise-reducing-susceptibility-misconceptions-about-mrna-vaccination</a>  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454](https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454</a>  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0885201403000182](https://www.sciencedirect.com/science/article/abs/pii/S0885201403000182)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0885201403000182" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0885201403000182</a>  
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661321000516](https://www.sciencedirect.com/science/article/pii/S1364661321000516)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729](https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022096508001513](https://www.sciencedirect.com/science/article/abs/pii/S0022096508001513)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022096508001513" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022096508001513</a>  
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/001002859290018W](https://www.sciencedirect.com/science/article/abs/pii/001002859290018W)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/001002859290018W</a>  
 
 15. <a id="endnote-15"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10389-022-01694-3](https://link.springer.com/article/10.1007/s10389-022-01694-3)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10389-022-01694-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10389-022-01694-3</a>  
 
 16. <a id="endnote-16"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/chapter/10.1007/0-306-47637-1_3](https://link.springer.com/chapter/10.1007/0-306-47637-1_3)  
+   Link: <a href="https://link.springer.com/chapter/10.1007/0-306-47637-1_3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/0-306-47637-1_3</a>  
 
 17. <a id="endnote-17"></a>
    Source: researchnow.flinders.edu.au  
    Title: mental models of the earth a study of conceptual change in childh  
-   Link: [https://researchnow.flinders.edu.au/en/publications/mental-models-of-the-earth-a-study-of-conceptual-change-in-childh/](https://researchnow.flinders.edu.au/en/publications/mental-models-of-the-earth-a-study-of-conceptual-change-in-childh/)  
+   Link: <a href="https://researchnow.flinders.edu.au/en/publications/mental-models-of-the-earth-a-study-of-conceptual-change-in-childh/" target="_blank" rel="noopener noreferrer nofollow">https://researchnow.flinders.edu.au/en/publications/mental-models-of-the-earth-a-study-of-conceptual-change-in-childh/</a>  
 
 18. <a id="endnote-18"></a>
    Source: iris.who.int  
-   Link: [https://iris.who.int/items/603e41a4-75d5-4d6b-bfeb-5ba29e2dc6ca](https://iris.who.int/items/603e41a4-75d5-4d6b-bfeb-5ba29e2dc6ca)  
+   Link: <a href="https://iris.who.int/items/603e41a4-75d5-4d6b-bfeb-5ba29e2dc6ca" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/items/603e41a4-75d5-4d6b-bfeb-5ba29e2dc6ca</a>  
 
 19. <a id="endnote-19"></a>
    Source: skepticalscience.com  
-   Link: [https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf](https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf)  
+   Link: <a href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceMisinformation and its Correction: Continued Influence and...May 5, 2012 — by S Lewandowsky · Cited by 4718 — Multiple...</p></details>
    Published: May 5, 2012  
 
 20. <a id="endnote-20"></a>
    Source: climatechangecommunication.org  
    Title: Center for Climate Change Communication Debunking Handbook  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: evidence.nihr.ac.uk  
    Title: NIHR Evidence How to tackle vaccine misinformation: what works?  
-   Link: [https://evidence.nihr.ac.uk/alert/how-to-tackle-vaccine-misinformation-what-works-and-what-doesnt/](https://evidence.nihr.ac.uk/alert/how-to-tackle-vaccine-misinformation-what-works-and-what-doesnt/)  
+   Link: <a href="https://evidence.nihr.ac.uk/alert/how-to-tackle-vaccine-misinformation-what-works-and-what-doesnt/" target="_blank" rel="noopener noreferrer nofollow">https://evidence.nihr.ac.uk/alert/how-to-tackle-vaccine-misinformation-what-works-and-what-doesnt/</a>  
 
 22. <a id="endnote-22"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/1466679](https://www.jstor.org/stable/1466679)  
+   Link: <a href="https://www.jstor.org/stable/1466679" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1466679</a>  
 
 23. <a id="endnote-23"></a>
    Source: digitalcommons.unl.edu  
-   Link: [https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf](https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: skepticalscience.com  
    Title: Debunking Handbook Part 5 Filling gap with alternative explanation  
-   Link: [https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html](https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html)  
+   Link: <a href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html</a>  
 
 25. <a id="endnote-25"></a>
    Source: ltrr.arizona.edu  
    Title: Debunking Handbook  
-   Link: [https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf](https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf)  
+   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2025.1621794/full](https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2025.1621794/full)  
+   Link: <a href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2025.1621794/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2025.1621794/full</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: psychologicalscience.org  
-   Link: [https://www.psychologicalscience.org/conventions/2026-aps-annual-convention/poster-search](https://www.psychologicalscience.org/conventions/2026-aps-annual-convention/poster-search)  
+   Link: <a href="https://www.psychologicalscience.org/conventions/2026-aps-annual-convention/poster-search" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/conventions/2026-aps-annual-convention/poster-search</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: How to overcome confirmation bias and update your mental models  
-   Link: [https://www.youtube.com/watch?v=7h7G_9P1S9M](https://www.youtube.com/watch?v=7h7G_9P1S9M)  
+   Link: <a href="https://www.youtube.com/watch?v=7h7G_9P1S9M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7h7G_9P1S9M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Why Misinformation Persists...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Changing Your Mental Models (Systems Thinking)  
-   Link: [https://www.youtube.com/watch?v=FqS216_5_g4](https://www.youtube.com/watch?v=FqS216_5_g4)  
+   Link: <a href="https://www.youtube.com/watch?v=FqS216_5_g4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FqS216_5_g4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to overcome confirmation bias and update your mental models...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing](https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing)  
+   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
 
 31. <a id="endnote-31"></a>
    Source: unicef.org  
-   Link: [https://www.unicef.org/parenting/health/busted-7-myths-about-mental-health](https://www.unicef.org/parenting/health/busted-7-myths-about-mental-health)  
+   Link: <a href="https://www.unicef.org/parenting/health/busted-7-myths-about-mental-health" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/parenting/health/busted-7-myths-about-mental-health</a>  
 
 32. <a id="endnote-32"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/27894/chapter/8](https://www.nationalacademies.org/read/27894/chapter/8)  
+   Link: <a href="https://www.nationalacademies.org/read/27894/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/27894/chapter/8</a>  
 
 33. <a id="endnote-33"></a>
    Source: emc-lab.org  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: learningdiscourses.com  
-   Link: [https://learningdiscourses.com/discourse/knowledge-in-pieces/](https://learningdiscourses.com/discourse/knowledge-in-pieces/)  
+   Link: <a href="https://learningdiscourses.com/discourse/knowledge-in-pieces/" target="_blank" rel="noopener noreferrer nofollow">https://learningdiscourses.com/discourse/knowledge-in-pieces/</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AmericanPsychologicalAssociation/posts/psychologists-are-working-to-understand-the-effects-of-misinformation-and-how-it/1080266017468402/](https://www.facebook.com/AmericanPsychologicalAssociation/posts/psychologists-are-working-to-understand-the-effects-of-misinformation-and-how-it/1080266017468402/)  
+   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/psychologists-are-working-to-understand-the-effects-of-misinformation-and-how-it/1080266017468402/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/psychologists-are-working-to-understand-the-effects-of-misinformation-and-how-it/1080266017468402/</a>  
 
 36. <a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models](https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models)  
+   Link: <a href="https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models</a>

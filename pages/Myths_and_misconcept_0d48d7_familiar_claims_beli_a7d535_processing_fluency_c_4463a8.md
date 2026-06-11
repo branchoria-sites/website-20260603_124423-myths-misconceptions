@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_repeated_climate_cla_d86c1d
 - Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_writing_better_myth_849c9b
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - familiarity
 - fluency
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - familiarity
 - fluency
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Processing fluency explains why claims that feel easy to read, recall, or recognise can be mistaken for claims that are true.
 hero_summary: Processing fluency explains why claims that feel easy to read, recall, or recognise can be mistaken for claims that are true.
 layout: default
 permalink: /fluency/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /familiarity/
 nav_short_title: Fluency
 title: When easy thinking feels like evidence
-title_full: When easy thinking feels like evidence | Familiarity
+title_full: When easy thinking feels like evidence
 display_title_short: Fluency
 display_title: Fluency
 heading_title: When easy thinking feels like evidence
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Repetition Makes Claims Feel True | Mythcraft
+parent_title: Why Repetition Makes Claims Feel True
 parent_permalink: /familiarity/
 parent_nav_short_title: Familiarity
 parent_heading_title: Why Repetition Makes Claims Feel True
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why one headline can feel familiar enough
 up_link:
   basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
@@ -265,7 +265,7 @@ next_link:
   permalink: /headlines/
   short_title: Headlines
   heading_title: Why one headline can feel familiar enough
-date: '2026-06-09 05:18:36 '
+date: '2026-06-11 22:28:22 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-1.webp
@@ -274,11 +274,10 @@ image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_pr
 
 ## Introduction
 
-Processing fluency is the mental feeling that something is easy to take in, recognise or remember. In the context of [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}), that feeling matters because people often treat ease as a clue. A claim that arrives smoothly can feel more trustworthy than one that requires effort, even when neither claim has been properly checked. This is one of the core mechanisms behind the illusory truth effect: repeated or familiar information becomes easier to process, and that ease can be mistaken for evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 402 — This finding is known as the...</span></span></span>
-
+Processing fluency is the mental feeling that something is easy to take in, recognise or remember. In the context of myths and misconceptions, that feeling matters because people often treat ease as a clue. A claim that arrives smoothly can feel more trustworthy than one that requires effort, even when neither claim has been properly checked. This is one of the core mechanisms behind the illusory truth effect: repeated or familiar information becomes easier to process, and that ease can be mistaken for evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 402 — This finding is known as the...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-1-dark.svg" | relative_url }}" alt="Fluency illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The shortcut is usually unconscious. People do not think, “This sentence was easy to read, therefore it is true.” Instead, the brain uses fluency as a rough signal that something is known, familiar or safe. In everyday life that shortcut is often useful. Information that is genuinely familiar is frequently true. The problem is that myths can exploit the same signal. A false claim repeated often enough can begin to produce the same feeling of mental ease as a well-established fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
+The shortcut is usually unconscious. People do not think, “This sentence was easy to read, therefore it is true.” Instead, the brain uses fluency as a rough signal that something is known, familiar or safe. In everyday life that shortcut is often useful. Information that is genuinely familiar is frequently true. The problem is that myths can exploit the same signal. A false claim repeated often enough can begin to produce the same feeling of mental ease as a well-established fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
 
 ## What processing fluency means
 
@@ -299,9 +298,6 @@ That ease can come from several sources:
 
 The important point is that fluency is a feeling, not a fact-check. The mind experiences smooth processing first and only later, if at all, examines why that smoothness occurred. Because fluent information often corresponds to genuine knowledge in everyday life, people learn to treat ease as a useful heuristic. Most of the time that shortcut works reasonably well. The difficulty arises when familiarity has been manufactured through repetition rather than earned through accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-025-02836-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">repetition increase perceived truth equally for...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sCnltoypU8g" title="Illusory (Extended Mix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sCnltoypU8g" target="_blank" rel="noopener noreferrer">Illusory (Extended Mix)</a></p><p class="youtube-embed-meta">Channel: Hana - Topic &middot; Views: 12.5K &middot; Uploaded: June 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sCnltoypU8g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sCnltoypU8g">Open on YouTube</a></p></div></div></div>
-
 ## Why ease can be misread as truth
 
 The connection between fluency and truth is not entirely irrational. In normal experience, true information often is easier to process. Facts that people encounter repeatedly, concepts they understand well and ideas that fit existing knowledge tend to feel fluent. Over time, the mind learns that ease and accuracy are often correlated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-025-00628-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Does repetition</span><span class="citation-popover-snippet">illusory-truth effect and its absence under accuracy-focused...May 13, 2025 — The phenomenon that repetition enhances processing fluency...</span><span class="citation-popover-meta">Published: May 13, 2025</span></span></span>
@@ -312,19 +308,15 @@ One reason the effect is powerful is that people rarely experience fluency as fl
 
 Researchers have found that even small changes unrelated to evidence can influence truth judgements. Statements written in clearer formats, easier fonts or more accessible language can receive higher credibility ratings simply because they are processed more smoothly. Studies have also found that simpler wording can increase perceived credibility through greater comprehension ease. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/False_memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">False memory</span><span class="citation-popover-snippet">False memory - WikipediaIllusory truth effect - Wikipedia...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WBSKwZc8olg" title="The Psychology of People Who Fall for Misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WBSKwZc8olg" target="_blank" rel="noopener noreferrer">The Psychology of People Who Fall for Misinformation</a></p><p class="youtube-embed-meta">Channel: Mythic Psyche</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WBSKwZc8olg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WBSKwZc8olg">Open on YouTube</a></p></div></div></div>
-
 ## Familiarity without evidence
 
 A key misconception is that familiarity feels similar to verification. After repeated exposure, a claim can acquire a sense of established knowledge even when no one has actually examined whether it is true.
 
 This helps explain why many myths survive for decades. People may not remember where they first heard a claim, but they remember having heard it. The original source fades while the feeling of familiarity remains. Once that happens, recognition itself can become a substitute for evidence.
 
-Research reviewing the illusory truth effect has repeatedly found that repetition can increase belief in statements ranging from everyday trivia to misinformation and conspiracy-related claims. Importantly, the effect is not limited to obviously plausible statements. Repetition can raise perceived truth even for information that contradicts existing knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
+Research reviewing the illusory truth effect has repeatedly found that repetition can increase belief in statements ranging from everyday trivia to misinformation and conspiracy-related claims. Importantly, the effect is not limited to obviously plausible statements. Repetition can raise perceived truth even for information that contradicts existing knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
 
-This does not mean that knowledge becomes irrelevant. Prior knowledge still matters and often helps people reject falsehoods. But fluency can influence initial judgements before people fully retrieve and apply what they know. The result is a subtle competition between evidence and familiarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
-
+This does not mean that knowledge becomes irrelevant. Prior knowledge still matters and often helps people reject falsehoods. But fluency can influence initial judgements before people fully retrieve and apply what they know. The result is a subtle competition between evidence and familiarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-2-dark.svg" | relative_url }}" alt="Fluency illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Everyday myths that exploit fluency
@@ -333,14 +325,13 @@ Many enduring misconceptions are unusually fluent. They are short, memorable and
 
 Consider several common features:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * They compress complicated topics into a single sentence.
 * They use vivid imagery or simple cause-and-effect stories.
 * They avoid technical language.
 * They are easy to recall in conversation.
-* They often circulate through multiple channels at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
+* They often circulate through multiple channels at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
 
 </div>
 
@@ -348,10 +339,10 @@ A myth such as “we only use 10 per cent of our brain” succeeds partly becaus
 
 Fluency can also accumulate across contexts. A person might encounter a claim in a headline, overhear it in conversation, see it referenced in a television programme and later encounter it on social media. Each exposure increases familiarity. Eventually the claim may feel established simply because it has become easy to recognise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it all about the feeling?</span><span class="citation-popover-snippet">Affective and (meta-)cognitive... - PMCby A Stump · 2021 · Cited by 27 — However, not only fluency but also affective processes can trig...</span></span></span>
 
-The mechanism is particularly relevant online, where users are exposed to large volumes of information at high speed. Many claims are processed only briefly, leaving people with a sense of familiarity rather than a detailed [memory]({{ 'memory/' | relative_url }}) of the evidence. Under those conditions, fluency can become an especially influential cue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
+The mechanism is particularly relevant online, where users are exposed to large volumes of information at high speed. Many claims are processed only briefly, leaving people with a sense of familiarity rather than a detailed [memory]({{ 'memory/' | relative_url }}) of the evidence. Under those conditions, fluency can become an especially influential cue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sCnltoypU8g" title="Illusory (Extended Mix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sCnltoypU8g" target="_blank" rel="noopener noreferrer">Illusory (Extended Mix)</a></p><p class="youtube-embed-meta">Channel: Hana - Topic &middot; Views: 12.5K &middot; Uploaded: June 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sCnltoypU8g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sCnltoypU8g">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-3-dark.svg" | relative_url }}" alt="Fluency illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why simple presentation can change credibility
 
 One of the most surprising findings in fluency research is that the truth signal can be affected by features unrelated to truth itself.
@@ -360,10 +351,7 @@ Experiments have shown that presentation can influence judgement. Information th
 
 These findings reveal an important distinction. People do not evaluate claims in a purely abstract way. They also respond to the experience of processing those claims. A statement can therefore gain credibility from characteristics that have nothing to do with its factual accuracy.
 
-That does not mean clear communication is deceptive. Clarity is generally valuable. The lesson is that ease of understanding and truthfulness are separate qualities. Because they often travel together in everyday life, the mind can sometimes confuse one for the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_DYkqqQs204" title="The Illusory Truth Effect: Why Your Brain Believes Familiar Lies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_DYkqqQs204" target="_blank" rel="noopener noreferrer">The Illusory Truth Effect: Why Your Brain Believes Familiar Lies</a></p><p class="youtube-embed-meta">Channel: Learn Fast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_DYkqqQs204" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_DYkqqQs204">Open on YouTube</a></p></div></div></div>
+That does not mean clear communication is deceptive. Clarity is generally valuable. The lesson is that ease of understanding and truthfulness are separate qualities. Because they often travel together in everyday life, the mind can sometimes confuse one for the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
 
 ## Why fluency is so difficult to notice
 
@@ -371,7 +359,9 @@ Processing fluency is persuasive partly because it does not feel like persuasion
 
 This makes fluency a particularly quiet mechanism behind belief formation. A person may be aware that they have seen a claim before, but they are often unaware that this previous exposure is influencing their judgement. The resulting sense of confidence can feel self-generated and objective rather than triggered by familiarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it all about the feeling?</span><span class="citation-popover-snippet">Affective and (meta-)cognitive... - PMCby A Stump · 2021 · Cited by 27 — However, not only fluency but also affective processes can trig...</span></span></span>
 
-The challenge for myths and misconceptions is therefore not merely correcting facts. It is separating two mental experiences that often arrive together: “I know this is true” and “this feels familiar”. Processing fluency blurs that boundary. Once familiarity starts to feel like evidence, repeated claims can acquire a credibility they have never actually earned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 402 — This finding is known as the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
+The challenge for myths and misconceptions is therefore not merely correcting facts. It is separating two mental experiences that often arrive together: “I know this is true” and “this feels familiar”. Processing fluency blurs that boundary. Once familiarity starts to feel like evidence, repeated claims can acquire a credibility they have never actually earned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 402 — This finding is known as the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
+
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-3-dark.svg" | relative_url }}" alt="Fluency illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -769,169 +759,169 @@ The challenge for myths and misconceptions is therefore not merely correcting fa
 
 1. <a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-021-00301-5](https://link.springer.com/article/10.1186/s41235-021-00301-5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 402 — This finding is known as the...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00301-5</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 402 — This finding is known as the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3339024/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3339024/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Epistemic Status of Processing Fluency as Source for...by R Reber · 2010 · Cited by 230 — This article combines findings from cog...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3339024/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3339024/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Epistemic Status of Processing Fluency as Source for...by R Reber · 2010 · Cited by 230 — This article combines findings from cog...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811](https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Processing fluency  
-   Link: [https://en.wikipedia.org/wiki/Processing_fluency](https://en.wikipedia.org/wiki/Processing_fluency)  
+   Link: <a href="https://en.wikipedia.org/wiki/Processing_fluency" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Processing_fluency</a>  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 397 — This finding is known as the illus...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 397 — This finding is known as the illus...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCIs it all about the feeling?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affective and (meta-)cognitive... - PMCby A Stump · 2021 · Cited by 27 — However, not only fluency but also affective processes can trig...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.3758/s13423-025-02836-w](https://link.springer.com/article/10.3758/s13423-025-02836-w)  
+   Link: <a href="https://link.springer.com/article/10.3758/s13423-025-02836-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-025-02836-w</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>repetition increase perceived truth equally for...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: [https://en.wikipedia.org/wiki/Illusory_truth_effect](https://en.wikipedia.org/wiki/Illusory_truth_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010027721002389](https://www.sciencedirect.com/science/article/abs/pii/S0010027721002389)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectTruth feels easy: Knowing information is true enhances...by LS Nahon · 2021 · Cited by 13 — Information is more likely beli...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027721002389" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027721002389</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Truth feels easy: Knowing information is true enhances...by LS Nahon · 2021 · Cited by 13 — Information is more likely beli...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12130120/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12130120/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12130120/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12130120/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>face of illusory truth: Repetition of information elicits...by A Stump · 2025 · Cited by 3 — A key explanation for this phenomenon, call...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: link.springer.com  
    Title: Does repetition  
-   Link: [https://link.springer.com/article/10.1186/s41235-025-00628-3](https://link.springer.com/article/10.1186/s41235-025-00628-3)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-025-00628-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-025-00628-3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>illusory-truth effect and its absence under accuracy-focused...May 13, 2025 — The phenomenon that repetition enhances processing fluency...</p></details>
    Published: May 13, 2025  
 
 12. <a id="endnote-12"></a>
    Source: processing.org  
-   Link: [https://processing.org/](https://processing.org/)  
+   Link: <a href="https://processing.org/" target="_blank" rel="noopener noreferrer nofollow">https://processing.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to Processing! / Processing.orgDownload and open the &#x27;Processing&#x27; application. Select something from the Examples. Hit the Run bu...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: False memory  
-   Link: [https://en.wikipedia.org/wiki/False_memory](https://en.wikipedia.org/wiki/False_memory)  
+   Link: <a href="https://en.wikipedia.org/wiki/False_memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_memory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False memory - WikipediaIllusory truth effect - Wikipedia...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Processing](https://en.wikipedia.org/wiki/Processing)  
+   Link: <a href="https://en.wikipedia.org/wiki/Processing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Processing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ProcessingProcessing is a free graphics library and integrated development environment (IDE) built for the electronic arts, new media...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X](https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect requires semantic coherence...by J Udry · 2023 · Cited by 14 — Repeated exposure to information increases its&#x27;...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022103111002496](https://www.sciencedirect.com/science/article/abs/pii/S0022103111002496)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103111002496" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103111002496</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The interactive effects of mood and processing fluency on...by AS Koch · 2012 · Cited by 122 — This study predicted and found that mood...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1053810011002200](https://www.sciencedirect.com/science/article/abs/pii/S1053810011002200)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053810011002200" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1053810011002200</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>processing fluency. Because fluency and truth are frequently correlated in the real world, people learn to use processing fluency as a ma...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: illusory.io  
-   Link: [https://www.illusory.io/](https://www.illusory.io/)  
+   Link: <a href="https://www.illusory.io/" target="_blank" rel="noopener noreferrer nofollow">https://www.illusory.io/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Train AI language models, conduct market research, or run mission-critical...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english-chinese-traditional/illusory](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/illusory)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/illusory" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/illusory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of illusory – English–Traditional Chinese dictionaryILLUSORY translate: 虛假的，幻覺的，不實際的. Learn more in the Cambridge English-Chinese traditi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/processing](https://dictionary.cambridge.org/dictionary/english/processing)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionarythe act of preparing, changing, or treating food or natural substances as a part of an industrial...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/processing" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/processing</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarythe act of preparing, changing, or treating food or natural substances as a part of an industrial...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/psychology/illusory-truth-effect](https://www.ebsco.com/research-starters/psychology/illusory-truth-effect)  
+   Link: <a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: annieduke.substack.com  
    Title: the illusory truth effect  
-   Link: [https://annieduke.substack.com/p/the-illusory-truth-effect](https://annieduke.substack.com/p/the-illusory-truth-effect)  
+   Link: <a href="https://annieduke.substack.com/p/the-illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://annieduke.substack.com/p/the-illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth Effect - by Annie DukeA new study confirms that the repetition of misinformation both leads us to believe things are true...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: vocabulary.com  
-   Link: [https://www.vocabulary.com/dictionary/illusory](https://www.vocabulary.com/dictionary/illusory)  
+   Link: <a href="https://www.vocabulary.com/dictionary/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/illusory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; SynonymsAlthough the adjective illusory can describe anything that&#x27;s based on an illusion, it often has the negativ...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/cognitive-fluency-and-judgments-of-truth](https://www.nature.com/nature-index/topics/l4/cognitive-fluency-and-judgments-of-truth)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/cognitive-fluency-and-judgments-of-truth" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/cognitive-fluency-and-judgments-of-truth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Fluency and Judgments of TruthCognitive fluency refers to the subjective ease with which information is processed, and it plays...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: dictionary.com  
-   Link: [https://www.dictionary.com/browse/illusory](https://www.dictionary.com/browse/illusory)  
+   Link: <a href="https://www.dictionary.com/browse/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/illusory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningadjective · causing illusion; deceptive; misleading. Synonyms: false, specious, fallacious · of the nature o...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/illusory](https://www.merriam-webster.com/dictionary/illusory)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/illusory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningillusory implies a false impression based on deceptive resemblance or faulty observation, or influenced by e...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: collinsdictionary.com  
-   Link: [https://www.collinsdictionary.com/dictionary/english/illusory](https://www.collinsdictionary.com/dictionary/english/illusory)  
+   Link: <a href="https://www.collinsdictionary.com/dictionary/english/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/illusory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY definition and meaningIf you describe something as illusory, you mean that although it seems true or possible, it is in fact fal...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/us/basics/illusory-truth-effect](https://www.psychologytoday.com/us/basics/illusory-truth-effect)  
+   Link: <a href="https://www.psychologytoday.com/us/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/illusory-truth-effect</a>  
 
 29. <a id="endnote-29"></a>
    Source: itsacademic.co.uk  
-   Link: [https://itsacademic.co.uk/processing-fluency](https://itsacademic.co.uk/processing-fluency)  
+   Link: <a href="https://itsacademic.co.uk/processing-fluency" target="_blank" rel="noopener noreferrer nofollow">https://itsacademic.co.uk/processing-fluency</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Processing FluencyThis study demonstrates how processing fluency can affect consumer decision-making. The authors show that when informat...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: fs.blog  
-   Link: [https://fs.blog/illusory-truth-effect/](https://fs.blog/illusory-truth-effect/)  
+   Link: <a href="https://fs.blog/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/illusory-truth-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusory Truth EffectThe illusory truth effect is the reason why advertising works and why propaganda is one of the most powerful too...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: news.vanderbilt.edu  
-   Link: [https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/](https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/)  
+   Link: <a href="https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>shows that repeated statements are more often...6 Oct 2020 — This has been replicated many times in existing research studies and is kno...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: leadalchemists.com  
-   Link: [https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/](https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/)  
+   Link: <a href="https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/</a>  
 
 33. <a id="endnote-33"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/ca/basics/illusory-truth-effect](https://www.psychologytoday.com/ca/basics/illusory-truth-effect)  
+   Link: <a href="https://www.psychologytoday.com/ca/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ca/basics/illusory-truth-effect</a>

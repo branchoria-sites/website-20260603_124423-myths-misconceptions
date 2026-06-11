@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf
 - Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - algorithms
 - rumour-loops
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - algorithms
 - rumour-loops
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A rumour that performs well early can be pushed to wider audiences before verification has time to catch up.
 hero_summary: A rumour that performs well early can be pushed to wider audiences before verification has time to catch up.
 layout: default
 permalink: /rumour-loops/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /algorithms/
 nav_short_title: Rumour Loops
 title: How Small Rumours Become Mass Myths
-title_full: How Small Rumours Become Mass Myths | Algorithms
+title_full: How Small Rumours Become Mass Myths
 display_title_short: Rumour Loops
 display_title: Rumour Loops
 heading_title: How Small Rumours Become Mass Myths
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Platforms Help Myths Travel Faster | Mythcraft
+parent_title: How Platforms Help Myths Travel Faster
 parent_permalink: /algorithms/
 parent_nav_short_title: Algorithms
 parent_heading_title: How Platforms Help Myths Travel Faster
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Can Angry Replies Help Myths Spread?
 up_link:
   basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
@@ -259,7 +259,7 @@ prev_link:
   permalink: /outrage-boost/
   short_title: Outrage Boost
   heading_title: Can Angry Replies Help Myths Spread?
-date: '2026-06-09 04:35:24 '
+date: '2026-06-11 22:07:12 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_reco
 
 ## Introduction
 
-A rumour does not become a mass myth simply because many people believe it. On modern social [platforms]({{ 'platforms/' | relative_url }}), a crucial step is automated recommendation. When a claim receives an early burst of attention, recommendation systems may treat that attention as a signal of relevance and begin showing the content to wider audiences. The resulting cycle can turn an unverified assertion into something that feels familiar, widely discussed and therefore credible. By the time verification arrives, the rumour may already have travelled far beyond its original audience. Research on online misinformation consistently shows that false information can spread faster and more broadly than accurate information, creating ideal conditions for recommendation-driven [amplification]({{ 'amplification/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
-
+A rumour does not become a mass myth simply because many people believe it. On modern social [platforms]({{ 'platforms/' | relative_url }}), a crucial step is automated recommendation. When a claim receives an early burst of attention, recommendation systems may treat that attention as a signal of relevance and begin showing the content to wider audiences. The resulting cycle can turn an unverified assertion into something that feels familiar, widely discussed and therefore credible. By the time verification arrives, the rumour may already have travelled far beyond its original audience. Research on online misinformation consistently shows that false information can spread faster and more broadly than accurate information, creating ideal conditions for recommendation-driven [amplification]({{ 'amplification/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018  A new study by three MIT scholars has found that false...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-1-dark.svg" | relative_url }}" alt="Rumour Loops illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This mechanism helps explain why some myths appear to emerge suddenly. In reality, they often begin as small rumours that enter a feedback loop involving engagement signals, recommendation engines, resharing behaviour and repeated exposure.
@@ -279,7 +278,6 @@ This mechanism helps explain why some myths appear to emerge suddenly. In realit
 Recommendation systems are designed to predict what users are likely to engage with. They do not usually begin by determining whether a claim is true. Instead, they analyse signals such as clicks, comments, shares, watch time and reactions.
 
 A typical rumour loop works like this:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -293,12 +291,9 @@ A typical rumour loop works like this:
 
 This process creates a self-reinforcing cycle. The rumour gains visibility because it attracts attention, and it attracts more attention because it gains visibility.
 
-Researchers studying recommender systems have found that algorithmic design choices can influence how misinformation spreads through networks. While recommendation systems are not the sole cause of false beliefs, they can increase the exposure of misleading content once engagement signals begin accumulating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oro.open.ac.uk/96966/1/websci24-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oro.open.ac.uk">[Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oro.open.ac.uk</span><span class="citation-popover-snippet">Open UniversityAnalysing the Effect of Recommendation Algorithms on the...March 11, 2024 — by M Fernandez · 2024 · Cited by 35 — the Eff...</span><span class="citation-popover-meta">Published: March 11, 2024</span></span></span>
+Researchers studying recommender systems have found that algorithmic design choices can influence how misinformation spreads through networks. While recommendation systems are not the sole cause of false beliefs, they can increase the exposure of misleading content once engagement signals begin accumulating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oro.open.ac.uk/96966/1/websci24-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oro.open.ac.uk">[Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oro.open.ac.uk</span><span class="citation-popover-snippet">Open UniversityAnalysing the Effect of Recommendation Algorithms on the...March 11, 2024  by M Fernandez  2024  Cited by 35  the Eff...</span><span class="citation-popover-meta">Published: March 11, 2024</span></span></span>
 
 The key point is that recommendation systems often reward performance before verification. A rumour that captures curiosity in its first minutes or hours may receive large-scale distribution before anyone has established whether it is accurate.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uaaC57tcci0" title="The Social Dilemma | Official Trailer | Netflix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uaaC57tcci0" target="_blank" rel="noopener noreferrer">The Social Dilemma | Official Trailer | Netflix</a></p><p class="youtube-embed-meta">Channel: Netflix &middot; Views: 13.1M &middot; Uploaded: August 2020 &middot; Length: 2 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uaaC57tcci0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uaaC57tcci0">Open on YouTube</a></p></div></div></div>
 
 ## Why Speed Matters During Breaking Events
 
@@ -310,7 +305,6 @@ Recommendation loops magnify this problem because algorithms operate far faster 
 
 This creates an asymmetry:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * The rumour is immediate.
@@ -321,8 +315,7 @@ This creates an asymmetry:
 
 The result is that visibility often peaks before certainty exists.
 
-Studies of false news diffusion have found that false stories travel farther, faster and more broadly than true ones. The MIT research that analysed millions of Twitter posts found that falsehoods were significantly more likely to be reshared and reached large audiences much more quickly than accurate information. Researchers suggested that novelty and surprise contribute to this advantage. MIT News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13885 — This suggests that false news spreads farther, faster, de...</span></span></span> When recommendation systems are optimised for engagement, novel and emotionally charged rumours can therefore receive an additional distribution advantage at exactly the moment when verification is weakest.
-
+Studies of false news diffusion have found that false stories travel farther, faster and more broadly than true ones. The MIT research that analysed millions of Twitter posts found that falsehoods were significantly more likely to be reshared and reached large audiences much more quickly than accurate information. Researchers suggested that novelty and surprise contribute to this advantage. MIT News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi  2018  Cited by 13885  This suggests that false news spreads farther, faster, de...</span></span></span> When recommendation systems are optimised for engagement, novel and emotionally charged rumours can therefore receive an additional distribution advantage at exactly the moment when verification is weakest.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-2-dark.svg" | relative_url }}" alt="Rumour Loops illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Near-Duplicates Keep a Narrative Alive
@@ -330,7 +323,6 @@ Studies of false news diffusion have found that false stories travel farther, fa
 A common misconception is that a rumour disappears once the original post is removed or corrected. In practice, recommendation loops often operate across many versions of the same claim.
 
 Users may:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -350,28 +342,23 @@ People often interpret repeated exposure as evidence that a claim is widely acce
 
 This helps explain why [corrections]({{ 'corrections/' | relative_url }}) frequently struggle to catch up. Corrective information must compete against many interconnected copies of the original story rather than a single viral post.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKyFL389qe8" title="Challenge The Echo Chamber | Adam Greenwood | TEDxRoyalTunbridgeWells" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKyFL389qe8" target="_blank" rel="noopener noreferrer">Challenge The Echo Chamber | Adam Greenwood | TEDxRoyalTunbridgeWells</a></p><p class="youtube-embed-meta">Channel: TEDx Talks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKyFL389qe8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKyFL389qe8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uaaC57tcci0" title="The Social Dilemma | Official Trailer | Netflix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uaaC57tcci0" target="_blank" rel="noopener noreferrer">The Social Dilemma | Official Trailer | Netflix</a></p><p class="youtube-embed-meta">Channel: Netflix &middot; Views: 13.1M &middot; Uploaded: August 2020 &middot; Length: 2 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uaaC57tcci0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uaaC57tcci0">Open on YouTube</a></p></div></div></div>
 
 ## When Debate Fuels Distribution
 
 Another feature of recommendation loops is that disagreement can increase visibility.
 
-A rumour does not need universal support to spread. Outrage, criticism and attempts to debunk a claim can all generate comments, shares and discussion. To a recommendation system focused on [engagement metrics]({{ 'metric-gap/' | relative_url }}), intense disagreement may resemble strong audience interest.
+A rumour does not need universal support to spread. Outrage, criticism and attempts to debunk a claim can all generate comments, shares and discussion. To a recommendation system focused on engagement metrics, intense disagreement may resemble strong audience interest.
 
 As a result, a false claim can receive additional exposure precisely because people are arguing about it. The platform may interpret the growing volume of interaction as evidence that more users should see the content.
 
 This dynamic helps explain why some rumours remain prominent long after they have been challenged. Public controversy can sustain recommendation signals even when much of the attention is negative.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KWt_IL3JViY" title="How algorithms shape what you see on social media" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KWt_IL3JViY" target="_blank" rel="noopener noreferrer">How algorithms shape what you see on social media</a></p><p class="youtube-embed-meta">Channel: TODAY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KWt_IL3JViY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KWt_IL3JViY">Open on YouTube</a></p></div></div></div>
 
 ## From Rumour to Myth
 
 The transition from rumour to myth occurs when repeated exposure changes public perception. A rumour begins as an unverified claim. A myth emerges when large numbers of people come to treat that claim as established reality, regardless of the underlying evidence.
 
 Recommendation loops contribute to this transition in three ways:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -381,10 +368,9 @@ Recommendation loops contribute to this transition in three ways:
 
 </div>
 
-Importantly, recommendation systems do not need to invent misinformation to amplify it. Their influence lies in selecting what receives attention and repeatedly placing successful content before new audiences. Research on misinformation diffusion and recommendation algorithms suggests that these feedback mechanisms can significantly shape which rumours remain obscure and which evolve into widely believed myths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oro.open.ac.uk/96966/1/websci24-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oro.open.ac.uk">[Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oro.open.ac.uk</span><span class="citation-popover-snippet">Open UniversityAnalysing the Effect of Recommendation Algorithms on the...March 11, 2024 — by M Fernandez · 2024 · Cited by 35 — the Eff...</span><span class="citation-popover-meta">Published: March 11, 2024</span></span></span> 2arXiv
+Importantly, recommendation systems do not need to invent misinformation to amplify it. Their influence lies in selecting what receives attention and repeatedly placing successful content before new audiences. Research on misinformation diffusion and recommendation algorithms suggests that these feedback mechanisms can significantly shape which rumours remain obscure and which evolve into widely believed myths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oro.open.ac.uk/96966/1/websci24-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oro.open.ac.uk">[Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oro.open.ac.uk</span><span class="citation-popover-snippet">Open UniversityAnalysing the Effect of Recommendation Algorithms on the...March 11, 2024  by M Fernandez  2024  Cited by 35  the Eff...</span><span class="citation-popover-meta">Published: March 11, 2024</span></span></span> 2arXiv
 
 The most consequential myths of the social media era are therefore often not the rumours that begin with the largest audiences. They are the rumours that perform well enough in their first moments to enter a recommendation loop before verification has a chance to catch up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[publications.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">Social media, misinformation and harmful algorithmsCalls to violence were posted across major platforms, in some cases seemingly amplifie...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sinanaral.medium.com">[2sinanaral.medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sinanaral.medium.com</span><span class="citation-popover-snippet">News about our Fake News Study Spread Faster than its...But in social media, that&#x27;s just not how misinformation works. Falsity spreads f...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-3-dark.svg" | relative_url }}" alt="Rumour Loops illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -505,11 +491,11 @@ The most consequential myths of the social media era are therefore often not the
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed iPhone 7 Wall Art â€“ Deconstructed Tech Frame | Unique Gift | UK Made"><img src="{{ '/assets/images/marketplace-covers/5bc2986344f968932a31.jpg' | relative_url }}" alt="Listing image for Framed iPhone 7 Wall Art â€“ Deconstructed Tech Frame | Unique Gift | UK Made" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made"><img src="{{ '/assets/images/marketplace-covers/5bc2986344f968932a31.jpg' | relative_url }}" alt="Listing image for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Framed iPhone 7 Wall Art â€“ Deconstructed Tech Frame | Unique Gift | UK Made</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
         <div class="fr-book-actions">
@@ -785,130 +771,130 @@ The most consequential myths of the social media era are therefore often not the
 1. <a id="endnote-1"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: [https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308](https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</p></details>
+   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018  A new study by three MIT scholars has found that false...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2103.14748](https://arxiv.org/abs/2103.14748)  
+   Link: <a href="https://arxiv.org/abs/2103.14748" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2103.14748</a>  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Detection and Resolution of Rumours in Social Media: A Survey  
-   Link: [https://arxiv.org/abs/1704.00656](https://arxiv.org/abs/1704.00656)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDetection and Resolution of Rumours in Social Media: A SurveyApril 3, 2017...</p></details>
+   Link: <a href="https://arxiv.org/abs/1704.00656" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.00656</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Detection and Resolution of Rumours in Social Media: A SurveyApril 3, 2017...</p></details>
    Published: April 3, 2017  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Using Gaussian Processes for Rumour Stance Classification in Social Media  
-   Link: [https://arxiv.org/abs/1609.01962](https://arxiv.org/abs/1609.01962)  
+   Link: <a href="https://arxiv.org/abs/1609.01962" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1609.01962</a>  
 
 5. <a id="endnote-5"></a>
    Source: publications.parliament.uk  
-   Link: [https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html](https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html)  
+   Link: <a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media, misinformation and harmful algorithmsCalls to violence were posted across major platforms, in some cases seemingly amplifie...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sinanaral.medium.com  
-   Link: [https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8](https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8)  
+   Link: <a href="https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8" target="_blank" rel="noopener noreferrer nofollow">https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>News about our [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) Study Spread Faster than its...But in social media, that&#x27;s just not how misinformation works. Falsity spreads f...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2103.14748](https://arxiv.org/pdf/2103.14748)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fake news or other dubious pieces of information are spread... Adalı, Nela-gt-2018: A large multi-labelled news dataset for the study of...</p></details>
+   Link: <a href="https://arxiv.org/pdf/2103.14748" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2103.14748</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>fake news or other dubious pieces of information are spread... Adal, Nela-gt-2018: A large multi-labelled news dataset for the study of...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2507.21724v1](https://arxiv.org/html/2507.21724v1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Agent-Based Exploration of Recommendation Systems in...29 Jul 2025 — This study uses agent-based modeling to examine the impact of vario...</p></details>
+   Link: <a href="https://arxiv.org/html/2507.21724v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.21724v1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Agent-Based Exploration of Recommendation Systems in...29 Jul 2025  This study uses agent-based modeling to examine the impact of vario...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: mitsloan.mit.edu  
    Title: study false news spreads faster truth  
-   Link: [https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth](https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>mit.eduStudy: False news spreads faster than the truth8 Mar 2018 — Falsehoods are 70 percent more likely to be retweeted on Twitter than...</p></details>
+   Link: <a href="https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>mit.eduStudy: False news spreads faster than the truth8 Mar 2018  Falsehoods are 70 percent more likely to be retweeted on Twitter than...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: mitsloan.mit.edu  
-   Link: [https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-research-about-social-media-misinformation-and-elections](https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-research-about-social-media-misinformation-and-elections)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sloan research about social media, misinformation...05-Oct-2020 — They found falsehoods are 70% more likely to be retweeted on Twitter...</p></details>
+   Link: <a href="https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-research-about-social-media-misinformation-and-elections" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-research-about-social-media-misinformation-and-elections</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sloan research about social media, misinformation...05-Oct-2020  They found falsehoods are 70% more likely to be retweeted on Twitter...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.aap9559](https://www.science.org/doi/10.1126/science.aap9559)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13885 — This suggests that false news spreads farther, faster, de...</p></details>
+   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi  2018  Cited by 13885  This suggests that false news spreads farther, faster, de...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: oro.open.ac.uk  
-   Link: [https://oro.open.ac.uk/96966/1/websci24-12.pdf](https://oro.open.ac.uk/96966/1/websci24-12.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open UniversityAnalysing the Effect of Recommendation Algorithms on the...March 11, 2024 — by M Fernandez · 2024 · Cited by 35 — the Eff...</p></details>
+   Link: <a href="https://oro.open.ac.uk/96966/1/websci24-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oro.open.ac.uk/96966/1/websci24-12.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open UniversityAnalysing the Effect of Recommendation Algorithms on the...March 11, 2024  by M Fernandez  2024  Cited by 35  the Eff...</p></details>
    Published: March 11, 2024  
 
 13. <a id="endnote-13"></a>
    Source: science.org  
    Title: fake news spreads faster true news twitter thanks people not bots  
-   Link: [https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots](https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots)  
+   Link: <a href="https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news spreads faster than true news on Twitter...Tweets containing falsehoods reach 1500 people on Twitter six times faster than tru...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S157401372200065X](https://www.sciencedirect.com/science/article/abs/pii/S157401372200065X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S157401372200065X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S157401372200065X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>study how fake news is crafted and what is the environment they spread in. While the problem of disinformation has been framed either as...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: tesi.luiss.it  
-   Link: [https://tesi.luiss.it/39196/1/755221_AMADORI_MARCO.pdf](https://tesi.luiss.it/39196/1/755221_AMADORI_MARCO.pdf)  
+   Link: <a href="https://tesi.luiss.it/39196/1/755221_AMADORI_MARCO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tesi.luiss.it/39196/1/755221_AMADORI_MARCO.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>news spread and detection: a network and machine...The study of fake news and identifying it in digital landscapes exposes a challenge t...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: techcrunch.com  
    Title: false news spreads faster than truth online thanks to human nature  
-   Link: [https://techcrunch.com/2018/03/08/false-news-spreads-faster-than-truth-online-thanks-to-human-nature/](https://techcrunch.com/2018/03/08/false-news-spreads-faster-than-truth-online-thanks-to-human-nature/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>False news spreads faster than truth online thanks to...Mar 8, 2018 — A comprehensive new study from MIT looks at a decade of tweets, an...</p></details>
+   Link: <a href="https://techcrunch.com/2018/03/08/false-news-spreads-faster-than-truth-online-thanks-to-human-nature/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2018/03/08/false-news-spreads-faster-than-truth-online-thanks-to-human-nature/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>False news spreads faster than truth online thanks to...Mar 8, 2018  A comprehensive new study from MIT looks at a decade of tweets, an...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pbs.org  
    Title: false news travels 6 times faster on twitter than truthful news  
-   Link: [https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news](https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2018 — False information spreads much faster and farther than the truth on Twitter-and although it is tempting to blame automated “...</p></details>
+   Link: <a href="https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2018  False information spreads much faster and farther than the truth on Twitter-and although it is tempting to blame automated ...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ipb1910/posts/-stop-the-spread-recognize-fake-news%EF%B8%8F-according-to-a-study-by-mit-false-news-spr/1065561165599377/](https://www.facebook.com/ipb1910/posts/-stop-the-spread-recognize-fake-news%EF%B8%8F-according-to-a-study-by-mit-false-news-spr/1065561165599377/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recognize Fake News ➡️ According to a study by MIT...27 Jan 2025 — Specifically, false news is 70% more likely to be retweeted compared...</p></details>
+   Link: <a href="https://www.facebook.com/ipb1910/posts/-stop-the-spread-recognize-fake-news%EF%B8%8F-according-to-a-study-by-mit-false-news-spr/1065561165599377/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ipb1910/posts/-stop-the-spread-recognize-fake-news%EF%B8%8F-according-to-a-study-by-mit-false-news-spr/1065561165599377/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recognize Fake News  According to a study by MIT...27 Jan 2025  Specifically, false news is 70% more likely to be retweeted compared...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/ha0brt/huge_mit_study_of_fake_news_travels_6_times_more/](https://www.reddit.com/r/skeptic/comments/ha0brt/huge_mit_study_of_fake_news_travels_6_times_more/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/ha0brt/huge_mit_study_of_fake_news_travels_6_times_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/ha0brt/huge_mit_study_of_fake_news_travels_6_times_more/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>istribution of the average propagation rate of stories. With...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
    Title: fake news social media twitter mit journalism  
-   Link: [https://www.theguardian.com/commentisfree/2018/mar/19/fake-news-social-media-twitter-mit-journalism](https://www.theguardian.com/commentisfree/2018/mar/19/fake-news-social-media-twitter-mit-journalism)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why fake news on social media travels faster than the truth19 Mar 2018 — The study found that “falsehood diffused significantly farther...</p></details>
+   Link: <a href="https://www.theguardian.com/commentisfree/2018/mar/19/fake-news-social-media-twitter-mit-journalism" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2018/mar/19/fake-news-social-media-twitter-mit-journalism</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why fake news on social media travels faster than the truth19 Mar 2018  The study found that falsehood diffused significantly farther...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/10.1145/3616088](https://dl.acm.org/doi/10.1145/3616088)  
+   Link: <a href="https://dl.acm.org/doi/10.1145/3616088" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3616088</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Contribution of Recommendation...GossipCop focuses on gossip, which is related to a different form of misinformation...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CITEZW/posts/misinformation-spreads-faster-than-the-truth-and-leaves-real-damage-behind-broke/1278544307640744/](https://www.facebook.com/CITEZW/posts/misinformation-spreads-faster-than-the-truth-and-leaves-real-damage-behind-broke/1278544307640744/)  
+   Link: <a href="https://www.facebook.com/CITEZW/posts/misinformation-spreads-faster-than-the-truth-and-leaves-real-damage-behind-broke/1278544307640744/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CITEZW/posts/misinformation-spreads-faster-than-the-truth-and-leaves-real-damage-behind-broke/1278544307640744/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cording to a study by MIT Media Lab by Dr. Deb Roy, Dr. Soroush...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pirg.org  
    Title: misinformation on social media  
-   Link: [https://pirg.org/edfund/articles/misinformation-on-social-media/](https://pirg.org/edfund/articles/misinformation-on-social-media/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How misinformation on social media has changed news30 Jul 2025 — Researchers at MIT have found that fake news can spread up to 10 times f...</p></details>
+   Link: <a href="https://pirg.org/edfund/articles/misinformation-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://pirg.org/edfund/articles/misinformation-on-social-media/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How misinformation on social media has changed news30 Jul 2025  Researchers at MIT have found that fake news can spread up to 10 times f...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1847379](https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1847379)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trends in combating fake news on social media – a surveyby B Collins · 2021 · Cited by 230 — This study explores the various methods of c...</p></details>
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1847379" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1847379</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trends in combating fake news on social media  a surveyby B Collins  2021  Cited by 230  This study explores the various methods of c...</p></details>

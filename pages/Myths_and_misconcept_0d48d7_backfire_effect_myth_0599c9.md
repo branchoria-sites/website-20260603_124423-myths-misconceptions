@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - backfire
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - backfire
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Clear corrections usually reduce false belief, even though badly designed debunking can still fail.
 hero_summary: Clear corrections usually reduce false belief, even though badly designed debunking can still fail.
 layout: default
 permalink: /backfire/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Backfire
 title: Does Debunking Really Make Myths Stronger?
-title_full: Does Debunking Really Make Myths Stronger? | Mythcraft
+title_full: Does Debunking Really Make Myths Stronger?
 display_title_short: Backfire
 display_title: Backfire
 heading_title: Does Debunking Really Make Myths Stronger?
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 next_link:
   basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
-date: '2026-06-09 04:06:51 '
+date: '2026-06-11 21:52:11 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-overview.webp
@@ -503,12 +503,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-ov
 
 The fear behind the “backfire effect” is simple: if a communicator repeats a myth in order to correct it, the [repetition]({{ 'repetition/' | relative_url }}) may make the myth feel more familiar, more memorable, and ultimately more believable. That fear has influenced journalists, health communicators, educators and fact-checkers, sometimes making them reluctant to name the false claim they are trying to fix.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-overview.webp" | relative_url }}" alt="Overview image for Backfire" loading="eager" decoding="sync" fetchpriority="high">
 The best current evidence is more reassuring. Backfire can happen in limited or poorly understood circumstances, especially where people distrust the [correction]({{ 'correction/' | relative_url }}) itself, but it is not the normal result of clear debunking. Reviews, replications and large experiments generally find that factual [corrections]({{ 'corrections/' | relative_url }}) improve belief accuracy rather than making false beliefs stronger. The practical lesson is not “never correct myths”. It is: correct them carefully, make the truth more prominent than the falsehood, and give readers a usable replacement explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/COiuZmnUK_s" title="“People Have Had ENOUGH!” | Henry Nowak Family Speak Out As Debate Intensifies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=COiuZmnUK_s" target="_blank" rel="noopener noreferrer">“People Have Had ENOUGH!” | Henry Nowak Family Speak Out As Debate Intensifies</a></p><p class="youtube-embed-meta">Channel: TalkTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=COiuZmnUK_s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=COiuZmnUK_s">Open on YouTube</a></p></div></div></div>
 
 ## Where the Fear Came From
 
@@ -518,11 +514,10 @@ That finding landed at the perfect moment for a memorable communication warning.
 
 The problem is that this rule compressed several different worries into one slogan. There is a difference between a correction that **fails to persuade**, a correction whose effect **fades over time**, a correction that changes factual belief but not behaviour, and a correction that truly **increases belief in the myth above where it would otherwise have been**. Only the last of these is a genuine backfire effect. Later research suggests that many correction fears are really about limited impact, [memory]({{ 'memory/' | relative_url }}) decay, distrust or poor design, not about debunking routinely making misinformation stronger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-1-dark.svg" | relative_url }}" alt="Backfire illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Later Evidence Suggests
 
-The strongest correction to the backfire story is empirical: researchers have repeatedly tried to find robust backfire effects and have usually failed. In a large study of political corrections, Thomas Wood and Ethan Porter ran five experiments with more than 10,100 participants and tested 52 issues where backfire might have been expected. They reported no corrections capable of producing backfire, concluding that citizens generally heed factual information even when it challenges their ideological commitments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Open source on ssrn.com.</span></span></span>
+The strongest correction to the backfire story is empirical: researchers have repeatedly tried to find robust backfire effects and have usually failed. In a large study of [political corrections]({{ 'political-corrections/' | relative_url }}), Thomas Wood and Ethan Porter ran five experiments with more than 10,100 participants and tested 52 issues where backfire might have been expected. They reported no corrections capable of producing backfire, concluding that citizens generally heed factual information even when it challenges their ideological commitments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Open source on ssrn.com.</span></span></span>
 
 More recent reviews reach a similar conclusion. Swire-Thompson, DeGutis and Lazer describe the backfire effect as a major concern for science communicators and fact-checkers, but conclude that backfire effects are not a robust empirical phenomenon. Porter and Wood’s later review of factual corrections likewise finds that corrections improve belief accuracy across countries, political beliefs and demographic groups, while instances of backfire are “exceedingly rare” and may sometimes be artefacts of research design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -532,9 +527,7 @@ The evidence is also clearer when researchers separate different forms of “bac
 
 The overall picture is therefore nuanced but practical. Clear corrections usually help. They may not fully erase a misconception, and they may not automatically change attitudes or behaviour. But the old fear that fact-checking normally “feeds the myth” is too strong. The bigger danger is often the opposite: leaving a false claim unnamed, uncorrected and unchallenged because communicators overestimate the risk of backfire. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WyTVzZM2xPQ" title="The Backfire Effect: Why Facts Don’t Change People’s Minds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WyTVzZM2xPQ" target="_blank" rel="noopener noreferrer">The Backfire Effect: Why Facts Don’t Change People’s Minds</a></p><p class="youtube-embed-meta">Channel: Rafi Chowdhury &middot; Views: 60 &middot; Uploaded: October 2024 &middot; Length: 2 minutes 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WyTVzZM2xPQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WyTVzZM2xPQ">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-2-dark.svg" | relative_url }}" alt="Backfire illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Bad Debunking Can Still Fail
 
 The backfire myth should not be replaced with a new myth that any correction will work. Poorly designed debunking can still disappoint, confuse or miss the audience. A correction may fail if it is too vague, arrives too late, comes from a source the audience already rejects, or only says “that is false” without explaining what actually happened.
@@ -545,8 +538,8 @@ Another failure mode is leaving a mental gap. Many myths do explanatory work: th
 
 Trust also matters. The 2023 standalone-corrections study found low risk of backfire where people were not sceptical of the correction, but mixed evidence of possible backfire under deliberately scepticism-inducing conditions. That does not revive the broad backfire panic; it narrows the concern. The risky situation is not simply “a myth was repeated”. It is more likely to be a correction that the audience interprets as suspicious, manipulative, hostile or poorly justified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WyTVzZM2xPQ" title="The Backfire Effect: Why Facts Don’t Change People’s Minds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WyTVzZM2xPQ" target="_blank" rel="noopener noreferrer">The Backfire Effect: Why Facts Don’t Change People’s Minds</a></p><p class="youtube-embed-meta">Channel: Rafi Chowdhury &middot; Views: 60 &middot; Uploaded: October 2024 &middot; Length: 2 minutes 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WyTVzZM2xPQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WyTVzZM2xPQ">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-2-dark.svg" | relative_url }}" alt="Backfire illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Correct Without Amplifying
 
 Good correction design treats the myth as the problem to be replaced, not the star of the message. The aim is to make the accurate claim more memorable, easier to retrieve and more useful than the false one. The practical guidance from the evidence is straightforward.
@@ -557,21 +550,16 @@ Good correction design treats the myth as the problem to be replaced, not the st
 
 **Explain the mistake, not just the verdict.** “False” is less useful than “false because…”. A strong debunk might explain that a viral graph used the wrong denominator, that an old video was presented as new, or that a quote was cut off before the sentence that changed its meaning. This gives the audience a reason to abandon the myth and a method for spotting similar errors later.
 
-**Offer a [replacement story]({{ 'better-story-524703/' | relative_url }}).** If a myth explains why an event happened, the correction should provide the better explanation. For instance, if a false rumour blames a public-health symptom on a vaccine ingredient, a stronger correction explains the ordinary cause, the [timing]({{ 'timing/' | relative_url }}) confusion and the safety evidence. Without a replacement, people may remember that something was disputed but still rely on the original explanation when reasoning later.
+**Offer a replacement story.** If a myth explains why an event happened, the correction should provide the better explanation. For instance, if a false rumour blames a public-health symptom on a vaccine ingredient, a stronger correction explains the ordinary cause, the [timing]({{ 'timing/' | relative_url }}) confusion and the safety evidence. Without a replacement, people may remember that something was disputed but still rely on the original explanation when reasoning later.
 
 **Keep the correction easy to process.** One reason myths spread is that they are simple. Corrections should not become so overloaded that the reader remembers only the original claim. Research comparing correction formats suggests that format alone is not the decisive factor when key correction ingredients are present, which is useful news: communicators do not need one rigid template, but they do need clarity, relevance and enough explanation to replace the error. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCCorrection format has a limited role when debunking</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9xXcLsFNByw" title="The Backfire Effect: Can fact-checking make false beliefs stronger?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9xXcLsFNByw" target="_blank" rel="noopener noreferrer">The Backfire Effect: Can fact-checking make false beliefs stronger?</a></p><p class="youtube-embed-meta">Channel: Normal Curves Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9xXcLsFNByw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9xXcLsFNByw">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-3-dark.svg" | relative_url }}" alt="Backfire illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Better Rule of Thumb
 
 The most useful replacement for the backfire myth is not “debunk everything instantly” but “correct clearly when the false claim is likely to matter”. A correction is most worth making when the myth is circulating, consequential, plausible to the audience, or likely to shape decisions. In those cases, silence can allow the false claim to remain the only available explanation.
 
 A good correction does three things at once: it identifies the false claim, reduces its appeal, and gives the reader a better account to use instead. The fear of amplification is worth respecting as a design constraint, but not as a reason for paralysis. The evidence points away from blanket avoidance and towards better correction craft: truth first, myth handled carefully, explanation supplied, and trust treated as part of the message rather than an afterthought.
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-3-dark.svg" | relative_url }}" alt="Backfire illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -969,142 +957,142 @@ A good correction does three things at once: it identifies the false claim, redu
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2211368120300516](https://www.sciencedirect.com/science/article/pii/S2211368120300516)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211368120300516</a>  
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001604](https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001604)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001604" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001604</a>  
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-023-00492-z](https://link.springer.com/article/10.1186/s41235-023-00492-z)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-023-00492-z</a>  
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) When Corrections Fail: The Persistence of Political  
-   Link: [https://www.researchgate.net/publication/225336846_When_Corrections_Fail_The_Persistence_of_Political_Misperceptions](https://www.researchgate.net/publication/225336846_When_Corrections_Fail_The_Persistence_of_Political_Misperceptions)  
+   Link: <a href="https://www.researchgate.net/publication/225336846_When_Corrections_Fail_The_Persistence_of_Political_Misperceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225336846_When_Corrections_Fail_The_Persistence_of_Political_Misperceptions</a>  
 
 5. <a id="endnote-5"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140)  
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140</a>  
 
 6. <a id="endnote-6"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073</a>  
 
 7. <a id="endnote-7"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.1912440117](https://www.pnas.org/doi/10.1073/pnas.1912440117)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1912440117</a>  
 
 8. <a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/chapter/10.1007/978-3-031-27789-4_7](https://link.springer.com/chapter/10.1007/978-3-031-27789-4_7)  
+   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-031-27789-4_7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-27789-4_7</a>  
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrection format has a limited role when debunking  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
 
 10. <a id="endnote-10"></a>
    Source: papers.ssrn.com  
    Title: SSRN ID3095103 code1700852  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3095103_code1700852.pdf?abstractid=2819073&mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3095103_code1700852.pdf?abstractid=2819073&mirid=1)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3095103_code1700852.pdf?abstractid=2819073&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3095103_code1700852.pdf?abstractid=2819073&amp;mirid=1</a>  
 
 11. <a id="endnote-11"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2104235118](https://www.pnas.org/doi/10.1073/pnas.2104235118)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2104235118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2104235118</a>  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X23001574](https://www.sciencedirect.com/science/article/pii/S2352250X23001574)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X23001574</a>  
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167811626000261](https://www.sciencedirect.com/science/article/pii/S0167811626000261)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027725000307](https://www.sciencedirect.com/science/article/pii/S0010027725000307)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027725000307" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725000307</a>  
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/358440351_The_backfire_effect_after_correcting_misinformation_is_strongly_associated_with_reliability](https://www.researchgate.net/publication/358440351_The_backfire_effect_after_correcting_misinformation_is_strongly_associated_with_reliability)  
+   Link: <a href="https://www.researchgate.net/publication/358440351_The_backfire_effect_after_correcting_misinformation_is_strongly_associated_with_reliability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358440351_The_backfire_effect_after_correcting_misinformation_is_strongly_associated_with_reliability</a>  
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
    Title: 318458573 The limitations of the backfire effect  
-   Link: [https://www.researchgate.net/publication/318458573_The_limitations_of_the_backfire_effect](https://www.researchgate.net/publication/318458573_The_limitations_of_the_backfire_effect)  
+   Link: <a href="https://www.researchgate.net/publication/318458573_The_limitations_of_the_backfire_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318458573_The_limitations_of_the_backfire_effect</a>  
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/350778736_Why_the_backfire_effect_does_not_explain_the_durability_of_political_misperceptions](https://www.researchgate.net/publication/350778736_Why_the_backfire_effect_does_not_explain_the_durability_of_political_misperceptions)  
+   Link: <a href="https://www.researchgate.net/publication/350778736_Why_the_backfire_effect_does_not_explain_the_durability_of_political_misperceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350778736_Why_the_backfire_effect_does_not_explain_the_durability_of_political_misperceptions</a>  
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
    Title: 398530790 Factual Corrections Concerns and Current Evidence  
-   Link: [https://www.researchgate.net/publication/398530790_Factual_Corrections_Concerns_and_Current_Evidence](https://www.researchgate.net/publication/398530790_Factual_Corrections_Concerns_and_Current_Evidence)  
+   Link: <a href="https://www.researchgate.net/publication/398530790_Factual_Corrections_Concerns_and_Current_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398530790_Factual_Corrections_Concerns_and_Current_Evidence</a>  
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/scientific-contributions/Thomas-J-Wood-2095272898](https://www.researchgate.net/scientific-contributions/Thomas-J-Wood-2095272898)  
+   Link: <a href="https://www.researchgate.net/scientific-contributions/Thomas-J-Wood-2095272898" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/scientific-contributions/Thomas-J-Wood-2095272898</a>  
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/370712520_To_Debunk_or_Not_to_Debunk_Correcting_MisInformation](https://www.researchgate.net/publication/370712520_To_Debunk_or_Not_to_Debunk_Correcting_MisInformation)  
+   Link: <a href="https://www.researchgate.net/publication/370712520_To_Debunk_or_Not_to_Debunk_Correcting_MisInformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370712520_To_Debunk_or_Not_to_Debunk_Correcting_MisInformation</a>  
 
 21. <a id="endnote-21"></a>
    Source: apa.org  
    Title: misinformation recommendations  
-   Link: [https://www.apa.org/topics/journalism-facts/misinformation-recommendations](https://www.apa.org/topics/journalism-facts/misinformation-recommendations)  
+   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-recommendations</a>  
 
 22. <a id="endnote-22"></a>
    Source: cssh.northeastern.edu  
    Title: backfire effects  
-   Link: [https://cssh.northeastern.edu/nulab/backfire-effects/](https://cssh.northeastern.edu/nulab/backfire-effects/)  
+   Link: <a href="https://cssh.northeastern.edu/nulab/backfire-effects/" target="_blank" rel="noopener noreferrer nofollow">https://cssh.northeastern.edu/nulab/backfire-effects/</a>  
 
 23. <a id="endnote-23"></a>
    Source: cjr.org  
    Title: the backfire effect  
-   Link: [https://www.cjr.org/behind_the_news/the_backfire_effect.php](https://www.cjr.org/behind_the_news/the_backfire_effect.php)  
+   Link: <a href="https://www.cjr.org/behind_the_news/the_backfire_effect.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/behind_the_news/the_backfire_effect.php</a>  
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: fullfact.org  
-   Link: [https://fullfact.org/media/uploads/backfire_report_fullfact.pdf](https://fullfact.org/media/uploads/backfire_report_fullfact.pdf)  
+   Link: <a href="https://fullfact.org/media/uploads/backfire_report_fullfact.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/media/uploads/backfire_report_fullfact.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: osf.io  
-   Link: [https://osf.io/preprints/psyarxiv/qrm69](https://osf.io/preprints/psyarxiv/qrm69)  
+   Link: <a href="https://osf.io/preprints/psyarxiv/qrm69" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/psyarxiv/qrm69</a>  
 
 26. <a id="endnote-26"></a>
    Source: climatechangecommunication.org  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: edmo.eu  
-   Link: [https://edmo.eu/](https://edmo.eu/)  
+   Link: <a href="https://edmo.eu/" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/uni.lu/posts/have-you-ever-tried-to-correct-someone-who-shared-fake-news-online-it-rarely-goe/1447453670755961/](https://www.facebook.com/uni.lu/posts/have-you-ever-tried-to-correct-someone-who-shared-fake-news-online-it-rarely-goe/1447453670755961/)  
+   Link: <a href="https://www.facebook.com/uni.lu/posts/have-you-ever-tried-to-correct-someone-who-shared-fake-news-online-it-rarely-goe/1447453670755961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/uni.lu/posts/have-you-ever-tried-to-correct-someone-who-shared-fake-news-online-it-rarely-goe/1447453670755961/</a>  
 
 29. <a id="endnote-29"></a>
    Source: benedmo.eu  
-   Link: [https://benedmo.eu/wp-content/uploads/2022/12/D16_-Recommendations-on-effectiveness-of-fact-checkers_website-version-1-1.pdf](https://benedmo.eu/wp-content/uploads/2022/12/D16_-Recommendations-on-effectiveness-of-fact-checkers_website-version-1-1.pdf)  
+   Link: <a href="https://benedmo.eu/wp-content/uploads/2022/12/D16_-Recommendations-on-effectiveness-of-fact-checkers_website-version-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://benedmo.eu/wp-content/uploads/2022/12/D16_-Recommendations-on-effectiveness-of-fact-checkers_website-version-1-1.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/italian-political-science-review-rivista-italiana-di-scienza-politica/article/politicians-misinformation-its-correction-and-partisanship-in-italy/F36A37F90B2C83A4D18DEE818369547B](https://www.cambridge.org/core/journals/italian-political-science-review-rivista-italiana-di-scienza-politica/article/politicians-misinformation-its-correction-and-partisanship-in-italy/F36A37F90B2C83A4D18DEE818369547B)  
+   Link: <a href="https://www.cambridge.org/core/journals/italian-political-science-review-rivista-italiana-di-scienza-politica/article/politicians-misinformation-its-correction-and-partisanship-in-italy/F36A37F90B2C83A4D18DEE818369547B" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/italian-political-science-review-rivista-italiana-di-scienza-politica/article/politicians-misinformation-its-correction-and-partisanship-in-italy/F36A37F90B2C83A4D18DEE818369547B</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AmericanPsychologicalAssociation/posts/psychologists-are-working-to-understand-the-effects-of-misinformation-and-how-it/1080266017468402/](https://www.facebook.com/AmericanPsychologicalAssociation/posts/psychologists-are-working-to-understand-the-effects-of-misinformation-and-how-it/1080266017468402/)  
+   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/psychologists-are-working-to-understand-the-effects-of-misinformation-and-how-it/1080266017468402/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/psychologists-are-working-to-understand-the-effects-of-misinformation-and-how-it/1080266017468402/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AmericanPsychologicalAssociation/videos/fact-checking-what-is-the-backfire-effect/2382988448569590/](https://www.facebook.com/AmericanPsychologicalAssociation/videos/fact-checking-what-is-the-backfire-effect/2382988448569590/)  
+   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/videos/fact-checking-what-is-the-backfire-effect/2382988448569590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/videos/fact-checking-what-is-the-backfire-effect/2382988448569590/</a>  
 
 33. <a id="endnote-33"></a>
    Source: iweps.be  
-   Link: [https://www.iweps.be/wp-content/uploads/2024/03/KS-GQ-22-003-EN-N.pdf](https://www.iweps.be/wp-content/uploads/2024/03/KS-GQ-22-003-EN-N.pdf)  
+   Link: <a href="https://www.iweps.be/wp-content/uploads/2024/03/KS-GQ-22-003-EN-N.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iweps.be/wp-content/uploads/2024/03/KS-GQ-22-003-EN-N.pdf</a>

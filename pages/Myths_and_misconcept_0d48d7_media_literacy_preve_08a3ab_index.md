@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-media/
 description: Focused pages that expand on Media Literacy.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-parent_title: Media Literacy | Myths And Misconceptions
+parent_title: Media Literacy
 parent_nav_short_title: Media Literacy
 parent_permalink: /media-literacy/
 ---

@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - teacher-corrections
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - teacher-corrections
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Specific, evidence-based interventions can reduce belief in education myths when they explain the problem clearly.
 hero_summary: Specific, evidence-based interventions can reduce belief in education myths when they explain the problem clearly.
 layout: default
 permalink: /teacher-corrections/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Teacher Corrections
 title: Can Teacher Training Reduce Education Myths?
-title_full: Can Teacher Training Reduce Education Myths? | Mythcraft
+title_full: Can Teacher Training Reduce Education Myths?
 display_title_short: Teacher Corrections
 display_title: Teacher Corrections
 heading_title: Can Teacher Training Reduce Education Myths?
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 next_link:
   basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
-date: '2026-06-09 04:08:58 '
+date: '2026-06-11 21:53:24 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93-overview.webp
@@ -501,25 +501,23 @@ image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93-ov
 
 ## Introduction
 
-Teacher training can reduce belief in education myths, but the strongest evidence points to a narrow kind of correction: it must name the misconception, explain why it is wrong, and replace it with a clearer account of how learning works. Simply telling teachers to “think critically” or offering generic neuroscience facts is weaker. Studies on [neuromyths]({{ 'neuromyths/' | relative_url }}) and educational misconceptions suggest that [refutation texts]({{ 'refutation-texts/' | relative_url }}), conceptual-change materials, and targeted professional learning can shift beliefs, although effects may fade and do not automatically change classroom practice. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersInterventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — Neuromyths are misconceptions...</span></span></span>
-
+Teacher training can reduce belief in education myths, but the strongest evidence points to a narrow kind of correction: it must name the misconception, explain why it is wrong, and replace it with a clearer account of how learning works. Simply telling teachers to “think critically” or offering generic neuroscience facts is weaker. Studies on [neuromyths]({{ 'neuromyths/' | relative_url }}) and educational misconceptions suggest that [refutation texts]({{ 'refutation-texts/' | relative_url }}), conceptual-change materials, and targeted professional learning can shift beliefs, although effects may fade and do not automatically change classroom practice. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — Neuromyths are misconceptions...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93-overview.webp" | relative_url }}" alt="Overview image for Teacher Corrections" loading="eager" decoding="sync" fetchpriority="high">
 This matters because myths such as “learning styles”, “left-brain and right-brain learners”, and fixed views of ability can shape lesson planning, pupil labelling and school training priorities. The practical question is not whether [debunking]({{ 'debunking/' | relative_url }}) is possible. It is what kind of [correction]({{ 'correction/' | relative_url }}) is specific enough, credible enough and reinforced enough to survive beyond a one-off training session.
 
 ## What correction studies actually test
 
-Much of the direct evidence comes from research on neuromyths: popular but unsupported claims about the brain and learning. Common examples include the belief that pupils learn best when taught in their preferred visual, auditory or kinaesthetic style, or that people are meaningfully divided into “left-brained” and “right-brained” learners. Reviews of learning styles have found that the evidence needed to justify matching teaching to diagnosed learning styles is lacking, despite the idea’s popularity in education. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31971418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe effectiveness of refutation texts to correct...by M Ferrero · 2020 · Cited by 66 — The results of Experiment 1 indicate that r...</span></span></span>
+Much of the direct evidence comes from research on neuromyths: popular but unsupported claims about the brain and learning. Common examples include the belief that pupils learn best when taught in their preferred visual, auditory or kinaesthetic style, or that people are meaningfully divided into “left-brained” and “right-brained” learners. Reviews of learning styles have found that the evidence needed to justify matching teaching to diagnosed learning styles is lacking, despite the idea’s popularity in education. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31971418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effectiveness of refutation texts to correct...by M Ferrero · 2020 · Cited by 66 — The results of Experiment 1 indicate that r...</span></span></span>
 
 Correction studies usually test whether teachers or trainee teachers reduce their endorsement of such claims after reading or hearing a correction. The most important design is the **refutation text**. A refutation text does three things: it states the misconception, explicitly rejects it, and explains the more accurate alternative. For example, a weak correction says, “Learning styles are not evidence-based.” A stronger correction says, “Students may prefer certain formats, but studies do not show that matching instruction to a preferred sensory style improves learning; what matters more is matching the method to the content and using effective strategies such as retrieval practice, spacing and clear explanation.”
 
-A 2020 study of in-service teachers found that refutation texts could correct false educational beliefs, including strongly endorsed ones, but also found limits: effects could be temporary and did not necessarily change teachers’ intention to use myth-based practices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31971418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe effectiveness of refutation texts to correct...by M Ferrero · 2020 · Cited by 66 — The results of Experiment 1 indicate that r...</span></span></span> Another study with pre-service teachers similarly treated correction as [conceptual change]({{ 'concept-change/' | relative_url }}): the goal was not just to lower agreement with a myth, but to help teachers reorganise their explanation of learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7581673/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn Attempt to Correct Erroneous Ideas Among Teacher</span><span class="citation-popover-snippet">PMCAn Attempt to Correct Erroneous Ideas Among Teacher</span></span></span>
-
+A 2020 study of in-service teachers found that refutation texts could correct false educational beliefs, including strongly endorsed ones, but also found limits: effects could be temporary and did not necessarily change teachers’ intention to use myth-based practices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31971418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effectiveness of refutation texts to correct...by M Ferrero · 2020 · Cited by 66 — The results of Experiment 1 indicate that r...</span></span></span> Another study with pre-service teachers similarly treated correction as conceptual change: the goal was not just to lower agreement with a myth, but to help teachers reorganise their explanation of learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7581673/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn Attempt to Correct Erroneous Ideas Among Teacher</span><span class="citation-popover-snippet">PMCAn Attempt to Correct Erroneous Ideas Among Teacher</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93-Illustration-1-dark.svg" | relative_url }}" alt="Teacher Corrections illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why specificity matters more than a general warning
 
-The evidence points to a clear lesson for teacher training: vague myth-busting is not enough. Many education myths survive because they contain a “kernel of truth”. Pupils do have preferences. Brains do show specialisation. Motivation does matter. The myth emerges when that partial truth is stretched into an unsupported classroom prescription. A correction therefore has to separate the true part from the false leap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersInterventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — Neuromyths are misconceptions...</span></span></span>
+The evidence points to a clear lesson for teacher training: vague myth-busting is not enough. Many education myths survive because they contain a “kernel of truth”. Pupils do have preferences. Brains do show specialisation. Motivation does matter. The myth emerges when that partial truth is stretched into an unsupported classroom prescription. A correction therefore has to separate the true part from the false leap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — Neuromyths are misconceptions...</span></span></span>
 
 Specificity helps in three ways.
 
@@ -528,7 +526,6 @@ First, it prevents replacement by another oversimplified myth. If teachers are t
 Second, it makes the correction usable. Professional learning has to answer the practical question teachers face on Monday morning: “What should I do instead?” Without an alternative, the old idea may remain attractive because it is simple, memorable and already embedded in resources.
 
 Third, it reduces defensiveness. Teachers may have encountered myths during undergraduate study, commercial training, school CPD or peer advice. A correction that treats the belief as a common, understandable error is more likely to support learning than one that frames it as professional ignorance. Recent work on educational myths among teachers found that myths can be widespread and that undergraduate education may be one route through which they spread, making teacher education itself part of the correction problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o_SQrRa73U0" title="Learning Styles - A Complete Myth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o_SQrRa73U0" target="_blank" rel="noopener noreferrer">Learning Styles - A Complete Myth</a></p><p class="youtube-embed-meta">Channel: MEMORIZE Academy &middot; Views: 129.5K &middot; Uploaded: January 2017 &middot; Length: 3 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o_SQrRa73U0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o_SQrRa73U0">Open on YouTube</a></p></div></div></div>
 
@@ -556,7 +553,6 @@ A one-off debunking session may reduce belief immediately but fade later. Resear
 
 A 2026 study on personalised refutation texts suggests that personalised corrections can support conceptual change when misconceptions are present, but may risk increasing familiarity when the misconception is repeatedly named for people who did not strongly hold it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10648-026-10116-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The practical implication is simple: diagnose beliefs before correcting them.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93-Illustration-2-dark.svg" | relative_url }}" alt="Teacher Corrections illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The gap between belief change and classroom change
 
@@ -572,7 +568,6 @@ A sensible teacher-training sequence starts with the decisions teachers actually
 
 A strong professional learning design would usually include:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **Pre-check beliefs** so the training targets misconceptions actually present in the group.
@@ -586,7 +581,6 @@ A strong professional learning design would usually include:
 
 This is especially important because neuromyth beliefs have remained common among educators despite wider public access to neuroscience and learning-science information. Reviews warn that general neuroscience exposure does not automatically protect teachers from myths; in some cases, partial exposure may make brain-based claims sound more credible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dash.harvard.edu/bitstreams/7312037e-932b-6bd4-e053-0100007fdf3b/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dash.harvard.edu">[dash.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dash.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ED_MdfkPONw" title="Debunking Neuromyths: Transform Your Teaching Practice Today!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ED_MdfkPONw" target="_blank" rel="noopener noreferrer">Debunking Neuromyths: Transform Your Teaching Practice Today!</a></p><p class="youtube-embed-meta">Channel: Conexiones: The Learning Sciences Platform &middot; Views: 6.5K &middot; Uploaded: May 2017 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ED_MdfkPONw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ED_MdfkPONw">Open on YouTube</a></p></div></div></div>
 
 ## What teacher training should avoid
@@ -595,15 +589,13 @@ The weakest approach is a one-off “myth-busting” slide deck that treats corr
 
 Training should also avoid implying that all intuitive classroom knowledge is worthless. Teachers often hold myths because the surface version matches something they have genuinely observed: pupils differ, attention varies, motivation matters, and some explanations work better than others. The task is to refine professional judgement, not humiliate practitioners for believing ideas that the education system itself may have promoted.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6dUXypTvECU" title="Teachers Think Evidence-Based Means More Work — Here&#x27;s Why They&#x27;re Wrong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6dUXypTvECU" target="_blank" rel="noopener noreferrer">Teachers Think Evidence-Based Means More Work — Here&#x27;s Why They&#x27;re Wrong</a></p><p class="youtube-embed-meta">Channel: Matthew B. Courtney, Ed.D. &middot; Views: 124 &middot; Uploaded: January 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6dUXypTvECU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6dUXypTvECU">Open on YouTube</a></p></div></div></div>
 
 ## The practical takeaway
 
-Educational corrections reduce belief when they are specific, explanatory and connected to better alternatives. The evidence is strongest for refutation-based and conceptual-change interventions: they can lower endorsement of myths such as learning styles and other neuromyths, at least in the short term. The harder task is durability and practice change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31971418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe effectiveness of refutation texts to correct...by M Ferrero · 2020 · Cited by 66 — The results of Experiment 1 indicate that r...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S095947522400118X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
+Educational corrections reduce belief when they are specific, explanatory and connected to better alternatives. The evidence is strongest for refutation-based and conceptual-change interventions: they can lower endorsement of myths such as learning styles and other neuromyths, at least in the short term. The harder task is durability and practice change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31971418/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effectiveness of refutation texts to correct...by M Ferrero · 2020 · Cited by 66 — The results of Experiment 1 indicate that r...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S095947522400118X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
 
 For schools and teacher educators, the lesson is not simply “debunk more myths”. It is to design professional learning that helps teachers replace attractive but unsupported explanations with usable, evidence-informed ones. A correction has done its job only when the old myth no longer feels like the easiest explanation in the room.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93-Illustration-3-dark.svg" | relative_url }}" alt="Teacher Corrections illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -1004,123 +996,123 @@ For schools and teacher educators, the lesson is not simply “debunk more myths
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn Attempt to Correct Erroneous Ideas Among Teacher  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7581673/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7581673/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7581673/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7581673/</a>  
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-025-05470-y](https://www.nature.com/articles/s41599-025-05470-y)  
+   Link: <a href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05470-y</a>  
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S095947522400118X](https://www.sciencedirect.com/science/article/pii/S095947522400118X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S095947522400118X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S095947522400118X</a>  
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10648-026-10116-9](https://link.springer.com/article/10.1007/s10648-026-10116-9)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10648-026-10116-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-026-10116-9</a>  
 
 5. <a id="endnote-5"></a>
    Source: dash.harvard.edu  
-   Link: [https://dash.harvard.edu/bitstreams/7312037e-932b-6bd4-e053-0100007fdf3b/download](https://dash.harvard.edu/bitstreams/7312037e-932b-6bd4-e053-0100007fdf3b/download)  
+   Link: <a href="https://dash.harvard.edu/bitstreams/7312037e-932b-6bd4-e053-0100007fdf3b/download" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstreams/7312037e-932b-6bd4-e053-0100007fdf3b/download</a>  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140](https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140</a>  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183](https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183</a>  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2211949324000164](https://www.sciencedirect.com/science/article/abs/pii/S2211949324000164)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211949324000164" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211949324000164</a>  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2211949325000146](https://www.sciencedirect.com/science/article/pii/S2211949325000146)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211949325000146" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211949325000146</a>  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0361476X18303035](https://www.sciencedirect.com/science/article/abs/pii/S0361476X18303035)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X18303035" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0361476X18303035</a>  
 
 11. <a id="endnote-11"></a>
    Source: dash.harvard.edu  
-   Link: [https://dash.harvard.edu/entities/publication/73120379-3bb5-6bd4-e053-0100007fdf3b](https://dash.harvard.edu/entities/publication/73120379-3bb5-6bd4-e053-0100007fdf3b)  
+   Link: <a href="https://dash.harvard.edu/entities/publication/73120379-3bb5-6bd4-e053-0100007fdf3b" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/entities/publication/73120379-3bb5-6bd4-e053-0100007fdf3b</a>  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Debunking Learning Styles And Embracing The Science Of Learning  
-   Link: [https://www.youtube.com/watch?v=ED_MdfkPONw](https://www.youtube.com/watch?v=ED_MdfkPONw)  
+   Link: <a href="https://www.youtube.com/watch?v=ED_MdfkPONw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ED_MdfkPONw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles - A Complete Myth...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Learning Styles  
-   Link: [https://www.youtube.com/watch?v=o_SQrRa73U0](https://www.youtube.com/watch?v=o_SQrRa73U0)  
+   Link: <a href="https://www.youtube.com/watch?v=o_SQrRa73U0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o_SQrRa73U0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunked...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31971418/](https://pubmed.ncbi.nlm.nih.gov/31971418/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe effectiveness of refutation texts to correct...by M Ferrero · 2020 · Cited by 66 — The results of Experiment 1 indicate that r...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31971418/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31971418/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effectiveness of refutation texts to correct...by M Ferrero · 2020 · Cited by 66 — The results of Experiment 1 indicate that r...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersInterventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — Neuromyths are misconceptions...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — Neuromyths are misconceptions...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/34721171/](https://pubmed.ncbi.nlm.nih.gov/34721171/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34721171/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34721171/</a>  
 
 17. <a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26162104/](https://pubmed.ncbi.nlm.nih.gov/26162104/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26162104/</a>  
 
 18. <a id="endnote-18"></a>
    Source: eprints.whiterose.ac.uk  
    Title: XAP 2018 0313 R1 ms acceptedversion  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/153185/2/XAP-2018-0313-R1_ms_acceptedversion.pdf](https://eprints.whiterose.ac.uk/id/eprint/153185/2/XAP-2018-0313-R1_ms_acceptedversion.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/153185/2/XAP-2018-0313-R1_ms_acceptedversion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/153185/2/XAP-2018-0313-R1_ms_acceptedversion.pdf</a>  
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Truth About Learning Styles  
-   Link: [https://www.youtube.com/watch?v=kUqJp24C-ac](https://www.youtube.com/watch?v=kUqJp24C-ac)  
+   Link: <a href="https://www.youtube.com/watch?v=kUqJp24C-ac" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kUqJp24C-ac</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos are relevant because they address the common educational &quot;neuromyth&quot; of learning styles, demonstrating how debunking such mi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: schoolsallianceforexcellence.co.uk  
-   Link: [https://schoolsallianceforexcellence.co.uk/wp-content/uploads/2023/01/Written-Debate-Submission-RGumbs-self-paced.pdf](https://schoolsallianceforexcellence.co.uk/wp-content/uploads/2023/01/Written-Debate-Submission-RGumbs-self-paced.pdf)  
+   Link: <a href="https://schoolsallianceforexcellence.co.uk/wp-content/uploads/2023/01/Written-Debate-Submission-RGumbs-self-paced.pdf" target="_blank" rel="noopener noreferrer nofollow">https://schoolsallianceforexcellence.co.uk/wp-content/uploads/2023/01/Written-Debate-Submission-RGumbs-self-paced.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/352543182_Correcting_Neuromyths_A_Comparison_of_Different_Types_of_Refutations](https://www.researchgate.net/publication/352543182_Correcting_Neuromyths_A_Comparison_of_Different_Types_of_Refutations)  
+   Link: <a href="https://www.researchgate.net/publication/352543182_Correcting_Neuromyths_A_Comparison_of_Different_Types_of_Refutations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352543182_Correcting_Neuromyths_A_Comparison_of_Different_Types_of_Refutations</a>  
 
 22. <a id="endnote-22"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/educational-neuromyths-and-instructional-practices-the-case-12ess1im50.pdf](https://scispace.com/pdf/educational-neuromyths-and-instructional-practices-the-case-12ess1im50.pdf)  
+   Link: <a href="https://scispace.com/pdf/educational-neuromyths-and-instructional-practices-the-case-12ess1im50.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/educational-neuromyths-and-instructional-practices-the-case-12ess1im50.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: jttshub.co.uk  
-   Link: [https://jttshub.co.uk/wp-content/uploads/2025/01/Myths_and_Misconceptions_About_Teaching.pdf](https://jttshub.co.uk/wp-content/uploads/2025/01/Myths_and_Misconceptions_About_Teaching.pdf)  
+   Link: <a href="https://jttshub.co.uk/wp-content/uploads/2025/01/Myths_and_Misconceptions_About_Teaching.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jttshub.co.uk/wp-content/uploads/2025/01/Myths_and_Misconceptions_About_Teaching.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: innerdrive.co.uk  
-   Link: [https://www.innerdrive.co.uk/blog/combat-neuromyths/](https://www.innerdrive.co.uk/blog/combat-neuromyths/)  
+   Link: <a href="https://www.innerdrive.co.uk/blog/combat-neuromyths/" target="_blank" rel="noopener noreferrer nofollow">https://www.innerdrive.co.uk/blog/combat-neuromyths/</a>  
 
 25. <a id="endnote-25"></a>
    Source: efsupit.ro  
-   Link: [https://efsupit.ro/images/stories/july2024/Art%20190.pdf](https://efsupit.ro/images/stories/july2024/Art%20190.pdf)  
+   Link: <a href="https://efsupit.ro/images/stories/july2024/Art%20190.pdf" target="_blank" rel="noopener noreferrer nofollow">https://efsupit.ro/images/stories/july2024/Art%20190.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: learningfocused.com  
-   Link: [https://learningfocused.com/blogs/effective-teaching-strategies/overcoming-teaching-myths-with-evidence-based-practices?srsltid=AfmBOopo2vvBBX4liOJk2dscSBLlxgY7_EiM1dqmbd4z8m3i0_xOeH8s](https://learningfocused.com/blogs/effective-teaching-strategies/overcoming-teaching-myths-with-evidence-based-practices?srsltid=AfmBOopo2vvBBX4liOJk2dscSBLlxgY7_EiM1dqmbd4z8m3i0_xOeH8s)  
+   Link: <a href="https://learningfocused.com/blogs/effective-teaching-strategies/overcoming-teaching-myths-with-evidence-based-practices?srsltid=AfmBOopo2vvBBX4liOJk2dscSBLlxgY7_EiM1dqmbd4z8m3i0_xOeH8s" target="_blank" rel="noopener noreferrer nofollow">https://learningfocused.com/blogs/effective-teaching-strategies/overcoming-teaching-myths-with-evidence-based-practices?srsltid=AfmBOopo2vvBBX4liOJk2dscSBLlxgY7_EiM1dqmbd4z8m3i0_xOeH8s</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/edutopia/posts/-myth-busted-tailoring-instruction-to-students-preferred-learning-styles-has-no-/1040843741414906/](https://www.facebook.com/edutopia/posts/-myth-busted-tailoring-instruction-to-students-preferred-learning-styles-has-no-/1040843741414906/)  
+   Link: <a href="https://www.facebook.com/edutopia/posts/-myth-busted-tailoring-instruction-to-students-preferred-learning-styles-has-no-/1040843741414906/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edutopia/posts/-myth-busted-tailoring-instruction-to-students-preferred-learning-styles-has-no-/1040843741414906/</a>  
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/science/comments/etb9ln/teachers_hold_a_considerable_number_of/](https://www.reddit.com/r/science/comments/etb9ln/teachers_hold_a_considerable_number_of/)  
+   Link: <a href="https://www.reddit.com/r/science/comments/etb9ln/teachers_hold_a_considerable_number_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/etb9ln/teachers_hold_a_considerable_number_of/</a>

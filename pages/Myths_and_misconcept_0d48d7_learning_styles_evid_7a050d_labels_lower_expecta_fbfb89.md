@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_student_self_labels_982d58
 - Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_style_surveys_waste_72c714
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - learning-styles
 - labels-risk
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - learning-styles
 - labels-risk
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A label meant to support a child can quietly shape what adults expect them to enjoy, attempt or succeed at in school.
 hero_summary: A label meant to support a child can quietly shape what adults expect them to enjoy, attempt or succeed at in school.
 layout: default
 permalink: /labels-risk/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /learning-styles/
 nav_short_title: Labels risk
 title: Can a helpful label hold students back?
-title_full: Can a helpful label hold students back? | Learning Styles
+title_full: Can a helpful label hold students back?
 display_title_short: Labels risk
 display_title: Labels risk
 heading_title: Can a helpful label hold students back?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Do Learning Styles Really Improve Learning? | Mythcraft
+parent_title: Do Learning Styles Really Improve Learning?
 parent_permalink: /learning-styles/
 parent_nav_short_title: Learning Styles
 parent_heading_title: Do Learning Styles Really Improve Learning?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The planning time learning styles steal
 up_link:
   basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
@@ -265,7 +265,7 @@ next_link:
   permalink: /matching-claim/
   short_title: Matching claim
   heading_title: Why the matching claim falls apart
-date: '2026-06-09 05:21:27 '
+date: '2026-06-11 22:29:48 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_labels_lower_expecta_fbfb89-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_labels_lower_expecta_fbfb89-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_la
 ## Introduction
 
 Learning-style labels are often introduced with good intentions. A child who struggles with reading-heavy lessons may be told they are a “visual learner” or a “hands-on learner”, and the label can sound reassuring rather than critical. Yet one of the main concerns raised by education researchers is that these labels can quietly change expectations. Instead of describing a temporary preference or a useful teaching approach, a label can start to sound like a limit on what a student is likely to enjoy, attempt or achieve.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_labels_lower_expecta_fbfb89-Illustration-1-dark.svg" | relative_url }}" alt="Labels risk illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_labels_lower_expecta_fbfb89-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_labels_lower_expecta_fbfb89-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This risk matters because expectations influence opportunity. When adults begin to see a pupil through a learning-style category, they may unintentionally narrow the kinds of tasks, subjects or challenges they offer. The result is not simply a harmless description of difference. A label that was meant to support a child can become a prediction about what that child is capable of learning. Research reviews and education organisations have repeatedly warned that assigning students to learning-style categories is not supported by strong evidence and may create harmful assumptions about learners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">uccess is due to their learning styles.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10212-020-00485-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe learning styles neuromyth: when the same term means...3 Jul 2020 — The Educational Endowment Foundation (EEF 2017) repo...</span></span></span>
@@ -290,7 +289,6 @@ Researchers have long argued that the evidence does not support sorting learners
 
 The concern is not only that the matching strategy fails to improve learning. It is that the categories themselves can encourage adults to make assumptions such as:
 
-
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
 * “She is a visual learner, so abstract verbal explanations probably won't suit her.”
@@ -302,7 +300,6 @@ The concern is not only that the matching strategy fails to improve learning. It
 These assumptions can become surprisingly durable. Once a label exists, people often notice information that confirms it and overlook information that contradicts it. A pupil who succeeds in a supposedly non-preferred mode may be treated as an exception, while ordinary struggles are interpreted as proof that the label was correct.
 
 The Education Endowment Foundation (EEF) specifically warns that it is unhelpful to assign learners to categories based on supposed learning styles and notes that pupils should not be led to believe that lack of success is caused by their learning style. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">uccess is due to their learning styles.Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gm9O6QMNppE" title="The Myth of Learning Styles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gm9O6QMNppE" target="_blank" rel="noopener noreferrer">The Myth of Learning Styles</a></p><p class="youtube-embed-meta">Channel: John Kellogg &middot; Views: 4.1K &middot; Uploaded: January 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gm9O6QMNppE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gm9O6QMNppE">Open on YouTube</a></p></div></div></div>
 
@@ -316,10 +313,9 @@ Research on educational expectations has shown that adult beliefs can influence 
 
 Learning-style labels can fit into this broader pattern because they offer a seemingly scientific explanation for why a student may struggle or succeed. Instead of viewing performance as something that can change through practice, strategy and support, adults may begin to see it as linked to a fixed learner type.
 
-A particularly revealing finding came from research published in *npj Science of Learning* in 2023. The study found that learning-style beliefs influenced perceptions of children's abilities. Participants associated “visual learners” with higher academic competence and future success, while “kinaesthetic” or hands-on learners were more often associated with sport and practical activities. These perceptions appeared not only among adults but also among children. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41539-023-00190-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureBeware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — Educators&#x27; beliefs about whether in...</span></span></span>
+A particularly revealing finding came from research published in *npj Science of Learning* in 2023. The study found that learning-style beliefs influenced perceptions of children's abilities. Participants associated “visual learners” with higher academic competence and future success, while “kinaesthetic” or hands-on learners were more often associated with sport and practical activities. These perceptions appeared not only among adults but also among children. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41539-023-00190-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Beware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — Educators&#x27; beliefs about whether in...</span></span></span>
 
 This matters because the labels themselves carry social meanings. They do not function as neutral descriptions. Some styles can become associated with intelligence, while others become associated with lower academic expectations.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_labels_lower_expecta_fbfb89-Illustration-2-dark.svg" | relative_url }}" alt="Labels risk illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_labels_lower_expecta_fbfb89-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_labels_lower_expecta_fbfb89-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When students start limiting themselves
@@ -328,12 +324,9 @@ Labels can affect students directly as well as the adults around them.
 
 Many educators report hearing pupils explain difficulties by referring to their learning style: “I can't learn from reading because I'm a visual learner” or “I'm not good at lectures because I'm a kinaesthetic learner.” The explanation can feel empowering at first because it removes blame. But it can also reduce a student's sense that new skills can be developed.
 
-This is one reason critics argue that learning-style labels can resemble fixed-ability thinking. Rather than encouraging students to build a broad range of learning strategies, the label encourages them to rely on a narrow self-description. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tes.com/magazine/tes-explains/what-are-learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tes.com">[Tes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tes.com</span><span class="citation-popover-snippet">TesWhat are learning styles?Our Teaching and Learning Toolkit indicates that there is very little evidence to back up the learning styles...</span></span></span> TeacherToolkit The danger is especially clear when students encounter difficult material. Many subjects require multiple forms of learning. Reading scientif <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Learning Styles</span><span class="citation-popover-snippet">Why &quot;Learning Styles&quot; are a Myth (and what to do instead)...</span></span></span> ic explanations, interpreting diagrams, listening carefully, solving problems and practising procedures all matter. Students who believe they can only learn through one preferred mode may avoid the very activities that would help them grow.
+This is one reason critics argue that learning-style labels can resemble fixed-ability thinking. Rather than encouraging students to build a broad range of learning strategies, the label encourages them to rely on a narrow self-description. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tes.com/magazine/tes-explains/what-are-learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tes.com">[Tes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tes.com</span><span class="citation-popover-snippet">What are learning styles?Our Teaching and Learning Toolkit indicates that there is very little evidence to back up the learning styles...</span></span></span> TeacherToolkit The danger is especially clear when students encounter difficult material. Many subjects require multiple forms of learning. Reading scientif <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Learning Styles</span><span class="citation-popover-snippet">Why &quot;Learning Styles&quot; are a Myth (and what to do instead)...</span></span></span> ic explanations, interpreting diagrams, listening carefully, solving problems and practising procedures all matter. Students who believe they can only learn through one preferred mode may avoid the very activities that would help them grow.
 
 Education researchers have noted that students often benefit from developing a flexible repertoire of strategies rather than identifying with a single style. The concern is that learning-style labels can encourage the opposite: a belief that some methods are naturally “for me” and others are not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visible-learning.org">[VISIBLE LEARNING]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visible-learning.org</span><span class="citation-popover-snippet">ow students learn; it has approximately 200 group structures that go from simple to complex (Numbered...Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_bWueJub_eU" title="Learning Styles - The BIGGEST Myth in Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer">Learning Styles - The BIGGEST Myth in Education</a></p><p class="youtube-embed-meta">Channel: Digital Learning Consultant &middot; Views: 336 &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_bWueJub_eU">Open on YouTube</a></p></div></div></div>
 
 ## Why expectations matter for curriculum access
 
@@ -347,7 +340,6 @@ Critics of learning-style approaches often emphasise that effective teaching sho
 
 When curriculum decisions are instead guided by learner labels, expectations can narrow. Students may receive less exposure to challenging forms of learning simply because adults assume those forms do not suit their style.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_labels_lower_expecta_fbfb89-Illustration-3-dark.svg" | relative_url }}" alt="Labels risk illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_labels_lower_expecta_fbfb89-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_labels_lower_expecta_fbfb89-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The difference between knowing a student and labelling a student
 
@@ -359,11 +351,9 @@ The distinction is that these observations remain flexible and specific. They de
 
 Many education organisations and researchers therefore argue for moving away from fixed learner categories and towards adaptable teaching. Instead of saying, “This child is a visual learner,” a teacher might say, “Visual representations helped this child understand fractions today.” The second statement remains open to change, growth and future learning.
 
-That difference may sound small, but it protects students from one of the central risks of the learning-styles myth: the tendency for a supportive description to become a limiting expectation. When labels start acting as predictions, they can quietly reduce the challenges students are offered, the skills they are encouraged to develop and the possibilities adults imagine for them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tes.com/magazine/tes-explains/what-are-learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tes.com">[Tes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tes.com</span><span class="citation-popover-snippet">TesWhat are learning styles?Our Teaching and Learning Toolkit indicates that there is very little evidence to back up the learning styles...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">uccess is due to their learning styles.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10212-020-00485-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe learning styles neuromyth: when the same term means...3 Jul 2020 — The Educational Endowment Foundation (EEF 2017) repo...</span></span></span>
+That difference may sound small, but it protects students from one of the central risks of the learning-styles myth: the tendency for a supportive description to become a limiting expectation. When labels start acting as predictions, they can quietly reduce the challenges students are offered, the skills they are encouraged to develop and the possibilities adults imagine for them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tes.com/magazine/tes-explains/what-are-learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tes.com">[Tes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tes.com</span><span class="citation-popover-snippet">What are learning styles?Our Teaching and Learning Toolkit indicates that there is very little evidence to back up the learning styles...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">uccess is due to their learning styles.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10212-020-00485-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe learning styles neuromyth: when the same term means...3 Jul 2020 — The Educational Endowment Foundation (EEF 2017) repo...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NvM4mnEIxuQ" title="The Myth of Individual Learning Styles, Dr. Robert Bjork" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NvM4mnEIxuQ" target="_blank" rel="noopener noreferrer">The Myth of Individual Learning Styles, Dr. Robert Bjork</a></p><p class="youtube-embed-meta">Channel: LastingLearning.com</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NvM4mnEIxuQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NvM4mnEIxuQ">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_bWueJub_eU" title="Learning Styles - The BIGGEST Myth in Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer">Learning Styles - The BIGGEST Myth in Education</a></p><p class="youtube-embed-meta">Channel: Digital Learning Consultant &middot; Views: 336 &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_bWueJub_eU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -761,121 +751,121 @@ That difference may sound small, but it protects students from one of the centra
 
 1. <a id="endnote-1"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>uccess is due to their learning styles.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10212-020-00485-2](https://link.springer.com/article/10.1007/s10212-020-00485-2)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10212-020-00485-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10212-020-00485-2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe learning styles neuromyth: when the same term means...3 Jul 2020 — The Educational Endowment Foundation (EEF 2017) repo...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCIs it really a neuromyth?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 22 — The purpose of this study was to conduct a meta-anal...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The basic idea behind the use of...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41539-023-00190-x](https://www.nature.com/articles/s41539-023-00190-x)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureBeware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — Educators&#x27; beliefs about whether in...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41539-023-00190-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41539-023-00190-x</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — Educators&#x27; beliefs about whether in...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: tes.com  
-   Link: [https://www.tes.com/magazine/tes-explains/what-are-learning-styles](https://www.tes.com/magazine/tes-explains/what-are-learning-styles)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TesWhat are learning styles?Our Teaching and Learning Toolkit indicates that there is very little evidence to back up the learning styles...</p></details>
+   Link: <a href="https://www.tes.com/magazine/tes-explains/what-are-learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.tes.com/magazine/tes-explains/what-are-learning-styles</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What are learning styles?Our Teaching and Learning Toolkit indicates that there is very little evidence to back up the learning styles...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: visible-learning.org  
-   Link: [https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/](https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/)  
+   Link: <a href="https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/" target="_blank" rel="noopener noreferrer nofollow">https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ow students learn; it has approximately 200 group structures that go from simple to complex (Numbered...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: link.springer.com  
    Title: Link Learning Styles, Preferences, or Strategies?  
-   Link: [https://link.springer.com/article/10.1007/s10648-025-10002-w](https://link.springer.com/article/10.1007/s10648-025-10002-w)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10648-025-10002-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-025-10002-w</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Explanation...by J Hattie · 2025 · Cited by 61 — In summary, 89% of teachers agreed that students learn better when taught with their...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Myth of Learning Styles  
-   Link: [https://www.youtube.com/watch?v=Gm9O6QMNppE](https://www.youtube.com/watch?v=Gm9O6QMNppE)  
+   Link: <a href="https://www.youtube.com/watch?v=Gm9O6QMNppE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gm9O6QMNppE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles - The BIGGEST Myth in Education...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Learning Styles  
-   Link: [https://www.youtube.com/watch?v=_bWueJub_eU](https://www.youtube.com/watch?v=_bWueJub_eU)  
+   Link: <a href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_bWueJub_eU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why &quot;Learning Styles&quot; are a Myth (and what to do instead)...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sk.sagepub.com  
-   Link: [https://sk.sagepub.com/ency/edvol/the-sage-encyclopedia-of-classroom-management/chpt/expectations-teachers-expectations-students](https://sk.sagepub.com/ency/edvol/the-sage-encyclopedia-of-classroom-management/chpt/expectations-teachers-expectations-students)  
+   Link: <a href="https://sk.sagepub.com/ency/edvol/the-sage-encyclopedia-of-classroom-management/chpt/expectations-teachers-expectations-students" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/the-sage-encyclopedia-of-classroom-management/chpt/expectations-teachers-expectations-students</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sagepub.comExpectations: Teachers&#x27; Expectations of StudentsStudent social class and teacher expectations: The self-fulfilling prophecy in...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: teachertoolkit.co.uk  
    Title: Teacher Toolkit Research Myth 3: Learning Styles  
-   Link: [https://www.teachertoolkit.co.uk/2018/01/21/research-myth-3/](https://www.teachertoolkit.co.uk/2018/01/21/research-myth-3/)  
+   Link: <a href="https://www.teachertoolkit.co.uk/2018/01/21/research-myth-3/" target="_blank" rel="noopener noreferrer nofollow">https://www.teachertoolkit.co.uk/2018/01/21/research-myth-3/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Myth 3: Learning Styles - TeacherToolkit21 Jan 2018 — The Educational Endowment Foundation supports this view saying: There is v...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Children have different learning stylesThe Education Endowment Foundation Teaching and Learning Toolkit provides an excellent summary of...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: inspirasifoundation.org  
-   Link: [https://inspirasifoundation.org/wp-content/uploads/2020/05/John-Hattie-Visible-Learning_-A-synthesis-of-over-800-meta-analyses-relating-to-achievement-2008.pdf](https://inspirasifoundation.org/wp-content/uploads/2020/05/John-Hattie-Visible-Learning_-A-synthesis-of-over-800-meta-analyses-relating-to-achievement-2008.pdf)  
+   Link: <a href="https://inspirasifoundation.org/wp-content/uploads/2020/05/John-Hattie-Visible-Learning_-A-synthesis-of-over-800-meta-analyses-relating-to-achievement-2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://inspirasifoundation.org/wp-content/uploads/2020/05/John-Hattie-Visible-Learning_-A-synthesis-of-over-800-meta-analyses-relating-to-achievement-2008.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>self- verbalization, self-questioning, aptitude-treatment interactions, matching learning styles, and individualized instruction. Meta-co...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: qrf.org  
-   Link: [https://qrf.org/en/node/pdf/1242/pdf](https://qrf.org/en/node/pdf/1242/pdf)  
+   Link: <a href="https://qrf.org/en/node/pdf/1242/pdf" target="_blank" rel="noopener noreferrer nofollow">https://qrf.org/en/node/pdf/1242/pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Queen Rania FoundationLearning Styles Cost Evidence IMPACTIt is particularly important not to label primary age pupils, or for them to be...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: api.warwickshire.gov.uk  
-   Link: [https://api.warwickshire.gov.uk/documents/WCCC-1023-202](https://api.warwickshire.gov.uk/documents/WCCC-1023-202)  
+   Link: <a href="https://api.warwickshire.gov.uk/documents/WCCC-1023-202" target="_blank" rel="noopener noreferrer nofollow">https://api.warwickshire.gov.uk/documents/WCCC-1023-202</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The SuttonTrust-EEF Teaching and Learning Toolkit. Learning styles. Low impact for very low cost, based on moderate evidence.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: files.eric.ed.gov  
    Title: situation due to the so-called self-fulfilling prophecy for students.Read more  
-   Link: [https://files.eric.ed.gov/fulltext/EJ1349631.pdf](https://files.eric.ed.gov/fulltext/EJ1349631.pdf)  
+   Link: <a href="https://files.eric.ed.gov/fulltext/EJ1349631.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1349631.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICA Systematic Review on Teacher&#x27;s Expectations and...by Ö Aydin · 2022 · Cited by 48 — differences or learning styles (Amini, 2016; G...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
    Title: 378476943 Learning style as ground for differentiated instruction  
-   Link: [https://www.researchgate.net/publication/378476943_Learning_style_as_ground_for_differentiated_instruction](https://www.researchgate.net/publication/378476943_Learning_style_as_ground_for_differentiated_instruction)  
+   Link: <a href="https://www.researchgate.net/publication/378476943_Learning_style_as_ground_for_differentiated_instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378476943_Learning_style_as_ground_for_differentiated_instruction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>self-fulfilling prophecies. Suggestions for further research... Learning Styles? What Research Has to Say to Practice. Article. Jan...R...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/sharingbestpractice/posts/2540407246292771/](https://www.facebook.com/groups/sharingbestpractice/posts/2540407246292771/)  
+   Link: <a href="https://www.facebook.com/groups/sharingbestpractice/posts/2540407246292771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/sharingbestpractice/posts/2540407246292771/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>adapt instruction to a particular student&#x27;s &#x27;style&#x27;, creating more...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: Teaching and Learning Toolkit An accessible  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching and Learning ToolkitAn accessible summary of education evidence. Watch the Toolkit explainer. Read our guide to using the Toolki...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
    Title: no evidence to back idea of learning styles  
-   Link: [https://www.theguardian.com/education/2017/mar/12/no-evidence-to-back-idea-of-learning-styles](https://www.theguardian.com/education/2017/mar/12/no-evidence-to-back-idea-of-learning-styles)  
+   Link: <a href="https://www.theguardian.com/education/2017/mar/12/no-evidence-to-back-idea-of-learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2017/mar/12/no-evidence-to-back-idea-of-learning-styles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Letter12 Mar 2017 — The Educational Endowment Foundation in the UK has concluded that learning styles is “Low impact for very low cost, b...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: carlhendrick.substack.com  
-   Link: [https://carlhendrick.substack.com/p/the-learning-styles-illusion-[debunking](https://carlhendrick.substack.com/p/the-learning-styles-illusion-[debunking)  
+   Link: <a href="https://carlhendrick.substack.com/p/the-learning-styles-illusion-[debunking" target="_blank" rel="noopener noreferrer nofollow">https://carlhendrick.substack.com/p/the-learning-styles-illusion-[debunking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Labelling a student a “kinesthetic learner” or a...Read more...</p></details>

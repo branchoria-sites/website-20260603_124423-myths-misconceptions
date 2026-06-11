@@ -1,22 +1,22 @@
 ---
-title: Myths And Misconceptions Sub-Topic Index
-title_full: Myths And Misconceptions Sub-Topic Index
+title: Myths and misconcept 0 d48 d7 Sub-Topic Index
+title_full: Myths and misconcept 0 d48 d7 Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-index/
-description: Focused pages that expand on Myths And Misconceptions.
-date: '2026-06-09'
+description: Focused pages that expand on Myths and misconcept 0 d48 d7.
+date: '2026-06-11'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7
-parent_title: Myths And Misconceptions
-parent_nav_short_title: Myths And Misconceptions
-parent_permalink: /myths-and-misconceptions/
+parent_title: Myths and misconcept 0 d48 d7
+parent_nav_short_title: Myths and misconcept 0 d48 d7
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 ---
 
-# Explore Topics in Myths And Misconceptions
+# Explore Topics in Myths and misconcept 0 d48 d7
 
-The following pages expand on the main **[Myths And Misconceptions]({{ '/myths-and-misconceptions/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Myths and misconcept 0 d48 d7]({{ '/myths-and-misconcept-0-d48-d7/' | relative_url }})** page and cover its key branches in more detail.
 
 - [Influencers]({{ '/influencers/' | relative_url }})
 - [Backfire]({{ '/backfire/' | relative_url }})

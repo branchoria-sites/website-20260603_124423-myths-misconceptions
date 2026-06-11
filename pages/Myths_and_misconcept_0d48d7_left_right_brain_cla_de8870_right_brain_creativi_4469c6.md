@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_lateralisation_84d0c3
 - Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - left-brain
 - creativity-myth
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - left-brain
 - creativity-myth
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Creativity depends on integrated thinking across both hemispheres, not a special right-brain mode teachers can switch on.
 hero_summary: Creativity depends on integrated thinking across both hemispheres, not a special right-brain mode teachers can switch on.
 layout: default
 permalink: /creativity-myth/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /left-brain/
 nav_short_title: Creativity myth
 title: Is creativity really a right brain skill?
-title_full: Is creativity really a right brain skill? | Left Brain
+title_full: Is creativity really a right brain skill?
 display_title_short: Creativity myth
 display_title: Creativity myth
 heading_title: Is creativity really a right brain skill?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Are People Really Left Brain or Right Brain? | Mythcraft
+parent_title: Are People Really Left Brain or Right Brain?
 parent_permalink: /left-brain/
 parent_nav_short_title: Left Brain
 parent_heading_title: Are People Really Left Brain or Right Brain?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why matching styles is not enough
 up_link:
   basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
@@ -259,7 +259,7 @@ next_link:
   permalink: /imaging-study/
   short_title: Imaging study
   heading_title: Did brain scans find left brained people?
-date: '2026-06-09 05:26:00 '
+date: '2026-06-11 22:32:11 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_right_brain_creativi_4469c6-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_right_brain_creativi_4469c6-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_ri
 
 The idea that creativity comes from the brain’s right hemisphere has become one of the most durable classroom myths. It sounds plausible because some brain functions are more lateralised than others, and creative subjects such as art, music and design are often described as intuitive or visual. But the leap from “some functions are unevenly distributed” to “creativity is a right-brain skill” is not supported by modern neuroscience.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_right_brain_creativi_4469c6-Illustration-1-dark.svg" | relative_url }}" alt="Creativity myth illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_right_brain_creativi_4469c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_right_brain_creativi_4469c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research increasingly shows that creative thinking depends on interactions between multiple brain systems involved in imagination, [memory]({{ 'memory/' | relative_url }}), attention, evaluation and self-control. In other words, creativity is not what happens when teachers “switch on” the right hemisphere. It is what happens when different cognitive processes work together. That matters because educational programmes built around right-brain activation can distract from the methods that genuinely help students become more creative: knowledge-building, experimentation, feedback, reflection and practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410786/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCCreativity and the default network: A functional connectivity...by RE Beaty · 2014 · Cited by 677 — The results suggest that the abil...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41380-021-01403-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe default network is causally linked to creative thinkingby B Shofty · 2022 · Cited by 84 — Despite a vast amount of correlative...</span></span></span>
+Research increasingly shows that creative thinking depends on interactions between multiple brain systems involved in imagination, [memory]({{ 'memory/' | relative_url }}), attention, evaluation and self-control. In other words, creativity is not what happens when teachers “switch on” the right hemisphere. It is what happens when different cognitive processes work together. That matters because educational programmes built around right-brain activation can distract from the methods that genuinely help students become more creative: knowledge-building, experimentation, feedback, reflection and practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410786/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Creativity and the default network: A functional connectivity...by RE Beaty · 2014 · Cited by 677 — The results suggest that the abil...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41380-021-01403-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The default network is causally linked to creative thinkingby B Shofty · 2022 · Cited by 84 — Despite a vast amount of correlative...</span></span></span>
 
 ## How creativity became attached to the right brain
 
@@ -282,8 +281,7 @@ Under that popular theory, the left hemisphere became associated with logic, mat
 
 The problem is that creativity never fit neatly into that division. Even early creativity researchers argued that original thinking draws on many mental abilities at once. Scientific reviews have repeatedly concluded that creative thought is a whole-brain process rather than a right-hemisphere speciality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/is-it-true-that-creativit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">is it true that creativit</span><span class="citation-popover-snippet">It is, therefore, &quot;whole brained.&quot;Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/gb/blog/tracking-wonder/201203/myths-right-brained-creativity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">myths right brained creativity</span><span class="citation-popover-snippet">Myths of Right-Brained Creativity23 Mar 2012 — A recent study showed that a function of visual thinking is not solely a function of the r...</span></span></span>
 
-Despite this, the myth remains common in schools. Surveys of educators across different countries continue to find widespread belief in left-brain and right-brain learner categories, even though these categories lack scientific support. The appeal is understandable: a simple story is easier to remember than the complexity of modern cognitive science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Dekker · 2012 · Cited by 1276 — The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 273 — In 2002, the UK&#x27;s OECD launched...</span></span></span>
-
+Despite this, the myth remains common in schools. Surveys of educators across different countries continue to find widespread belief in left-brain and right-brain learner categories, even though these categories lack scientific support. The appeal is understandable: a simple story is easier to remember than the complexity of modern cognitive science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1276 — The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 273 — In 2002, the UK&#x27;s OECD launched...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/95lXUp3S3gw" title="Debunking the Myth of the Left and Right Brain | Matthew Wang | TEDxYouth@MVHS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=95lXUp3S3gw" target="_blank" rel="noopener noreferrer">Debunking the Myth of the Left and Right Brain | Matthew Wang | TEDxYouth@MVHS</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 2.8K &middot; Uploaded: June 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=95lXUp3S3gw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=95lXUp3S3gw">Open on YouTube</a></p></div></div></div>
 
@@ -291,14 +289,13 @@ Despite this, the myth remains common in schools. Surveys of educators across di
 
 One reason the right-brain story survives is that people often imagine creativity as pure inspiration. In reality, most creative work combines idea generation with evaluation, revision and organisation.
 
-A composer may imagine a melody but then refine its structure. A novelist may generate unexpected story ideas but still needs planning, editing and narrative control. A scientist proposing a new theory must also test evidence, reject weak explanations and communicate findings clearly. These activities rely on different cognitive processes working together rather than a single creative module. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410786/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCCreativity and the default network: A functional connectivity...by RE Beaty · 2014 · Cited by 677 — The results suggest that the abil...</span></span></span>
+A composer may imagine a melody but then refine its structure. A novelist may generate unexpected story ideas but still needs planning, editing and narrative control. A scientist proposing a new theory must also test evidence, reject weak explanations and communicate findings clearly. These activities rely on different cognitive processes working together rather than a single creative module. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410786/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Creativity and the default network: A functional connectivity...by RE Beaty · 2014 · Cited by 677 — The results suggest that the abil...</span></span></span>
 
 Modern brain-imaging research reflects this complexity. Studies increasingly focus on large-scale networks rather than isolated regions. One important network, often called the default mode network, is associated with internally generated thought, memory and imagination. Another, the executive control network, helps with attention, planning and goal-directed thinking. Creative performance appears to depend on cooperation between these systems rather than dominance by one hemisphere. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://scottbarrykaufman.com/wp-content/uploads/2015/05/Beaty-et-al.-in-press-Creative-Networks.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scottbarrykaufman.com">[Scott Barry Kaufman]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scottbarrykaufman.com</span><span class="citation-popover-snippet">CREATIVE NETWORKS Default and Executive Network...by RE Beaty · Cited by 884 — Such dynamic coupling suggests that divergent thinking in...</span></span></span>
 
-This finding is particularly important because imagination alone is not enough for creativity. Creative work requires ideas that are both novel and useful. The imaginative generation of possibilities must be balanced by judgement about which possibilities are worth developing. Researchers studying divergent thinking — the ability to generate many possible ideas — consistently find evidence of interaction between spontaneous and controlled thinking systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0010945222002404" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe time course of creativity: Multivariate classification of...by J Lloyd-Cox · 2022 · Cited by 51 — Research indicates th...</span></span></span>
+This finding is particularly important because imagination alone is not enough for creativity. Creative work requires ideas that are both novel and useful. The imaginative generation of possibilities must be balanced by judgement about which possibilities are worth developing. Researchers studying divergent thinking — the ability to generate many possible ideas — consistently find evidence of interaction between spontaneous and controlled thinking systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0010945222002404" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The time course of creativity: Multivariate classification of...by J Lloyd-Cox · 2022 · Cited by 51 — Research indicates th...</span></span></span>
 
-Recent work has gone further, suggesting that creativity is linked to the brain’s ability to shift flexibly between different networks depending on task demands. Rather than a fixed “creative hemisphere”, creativity appears connected to dynamic coordination across multiple systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s42003-025-07470-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureDynamic switching between brain networks predicts...by Q Chen · 2025 · Cited by 55 — We provide robust evidence across multi-cente...</span></span></span>
-
+Recent work has gone further, suggesting that creativity is linked to the brain’s ability to shift flexibly between different networks depending on task demands. Rather than a fixed “creative hemisphere”, creativity appears connected to dynamic coordination across multiple systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s42003-025-07470-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Dynamic switching between brain networks predicts...by Q Chen · 2025 · Cited by 55 — We provide robust evidence across multi-cente...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_right_brain_creativi_4469c6-Illustration-2-dark.svg" | relative_url }}" alt="Creativity myth illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_right_brain_creativi_4469c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_right_brain_creativi_4469c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What right-brain teaching gets wrong
@@ -311,8 +308,7 @@ Yet many of the strongest examples of creativity involve exactly the opposite pa
 
 The myth also encourages questionable educational products and interventions. Some programmes claim to boost creativity through hemisphere-specific exercises, movement routines or activities supposedly designed to activate the right brain. Reviews of educational [neuromyths]({{ 'neuromyths/' | relative_url }}) have repeatedly warned that such claims often overstate what neuroscience can actually support. Evidence that an activity engages a particular brain region does not automatically show that it improves creativity, learning or long-term performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://one.oecd.org/document/EDU/CERI/CD%282008%2913/en/pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: one.oecd.org">[OECD ONE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">one.oecd.org</span><span class="citation-popover-snippet">OECD ONEUnclassified EDU/CERI/CD(2008)1313 May 2008 — Over the past few years, there has been a growing number of misconceptions circulat...</span><span class="citation-popover-meta">Published: May 2008</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.landmark.edu/research-and-training/blog/neuromyths-are-misconceptions-about-the-brain-dangerous" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: landmark.edu">[Landmark College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">landmark.edu</span><span class="citation-popover-title">neuromyths are misconceptions about the brain dangerous</span><span class="citation-popover-snippet">Landmark CollegeNeuromyths: are misconceptions about the brain dangerous?31 Jan 2020 — Neuromyths lead teachers to adopt ineffective teac...</span></span></span>
 
-Another risk is that teachers may overlook more meaningful explanations for differences in creative performance. Students vary in background knowledge, [confidence]({{ 'confidence/' | relative_url }}), motivation, opportunities for practice and exposure to creative models. These factors are observable and teachable. A right-brain label can make those practical influences seem less important than they really are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Dekker · 2012 · Cited by 1276 — The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</span></span></span>
-
+Another risk is that teachers may overlook more meaningful explanations for differences in creative performance. Students vary in background knowledge, [confidence]({{ 'confidence/' | relative_url }}), motivation, opportunities for practice and exposure to creative models. These factors are observable and teachable. A right-brain label can make those practical influences seem less important than they really are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1276 — The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZMSbDwpIyF4" title="The left brain vs. right brain myth - Elizabeth Waters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZMSbDwpIyF4" target="_blank" rel="noopener noreferrer">The left brain vs. right brain myth - Elizabeth Waters</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 1.2M &middot; Uploaded: July 2017 &middot; Length: 4 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZMSbDwpIyF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZMSbDwpIyF4">Open on YouTube</a></p></div></div></div>
 
@@ -320,10 +316,9 @@ Another risk is that teachers may overlook more meaningful explanations for diff
 
 If creativity is not a right-brain skill, then creativity education needs a different foundation.
 
-A stronger approach treats creativity as a set of learnable abilities that develop through experience. Students benefit from building domain knowledge, because people create more effectively when they have material to work with. Creative breakthroughs often emerge from combining existing ideas in new ways rather than producing ideas from nowhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27655932/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedIndividual Creativity and Associative Priming in the Right...by KC Aberg · 2017 · Cited by 51 — The idea that creativity resides i...</span></span></span>
+A stronger approach treats creativity as a set of learnable abilities that develop through experience. Students benefit from building domain knowledge, because people create more effectively when they have material to work with. Creative breakthroughs often emerge from combining existing ideas in new ways rather than producing ideas from nowhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27655932/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Individual Creativity and Associative Priming in the Right...by KC Aberg · 2017 · Cited by 51 — The idea that creativity resides i...</span></span></span>
 
 Effective creativity teaching also combines freedom with constraint. Open-ended tasks can encourage exploration, but structure helps students refine and improve their ideas. Classrooms that support creativity typically include:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -335,10 +330,9 @@ Effective creativity teaching also combines freedom with constraint. Open-ended 
 
 </div>
 
-These methods align more closely with current understanding of creative cognition because they engage both imaginative and evaluative processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 273 — In 2002, the UK&#x27;s OECD launched...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0010945222002404" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe time course of creativity: Multivariate classification of...by J Lloyd-Cox · 2022 · Cited by 51 — Research indicates th...</span></span></span>
+These methods align more closely with current understanding of creative cognition because they engage both imaginative and evaluative processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 273 — In 2002, the UK&#x27;s OECD launched...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0010945222002404" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The time course of creativity: Multivariate classification of...by J Lloyd-Cox · 2022 · Cited by 51 — Research indicates th...</span></span></span>
 
 Importantly, this approach avoids dividing students into fixed cognitive types. A learner can become more inventive without being a “right-brained person”. Equally, analytical skills and creative skills often strengthen each other. The ability to compare alternatives, identify patterns and test ideas is part of creative success, not the opposite of it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-at-work/2023/05/insights-from-neuroscience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: executiveeducation.wharton.upenn.edu">[Wharton Executive Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">executiveeducation.wharton.upenn.edu</span><span class="citation-popover-snippet">Wharton Executive EducationThe Right/Left Brain Myth and More Neuroscience InsightNeuroscience research reveals that there is an “innovat...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_right_brain_creativi_4469c6-Illustration-3-dark.svg" | relative_url }}" alt="Creativity myth illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_right_brain_creativi_4469c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_right_brain_creativi_4469c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the creativity myth persists
@@ -349,9 +343,7 @@ But neuroscience has moved beyond simple hemisphere labels. Researchers now stud
 
 That conclusion changes the educational message. Rather than searching for techniques that awaken a hidden right-brain talent, teachers are better served by helping students build skills, knowledge and habits that support creative thinking across many contexts. Creativity is not the property of a hemisphere. It is a capacity that develops through whole-brain learning. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineBeyond Left and Right: Learning Is a Whole-Brain Processby DD Shin · 2022 · Cited by 12 — The OECD website outline...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r7YVIufgAx4" title="Can Humans Really Be Left OR Right Brained? DEBUNKED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r7YVIufgAx4" target="_blank" rel="noopener noreferrer">Can Humans Really Be Left OR Right Brained? DEBUNKED</a></p><p class="youtube-embed-meta">Channel: Debunked &middot; Views: 143.8K &middot; Uploaded: February 2022 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r7YVIufgAx4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r7YVIufgAx4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -749,189 +741,189 @@ That conclusion changes the educational message. Rather than searching for techn
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4410786/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4410786/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCCreativity and the default network: A functional connectivity...by RE Beaty · 2014 · Cited by 677 — The results suggest that the abil...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410786/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4410786/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Creativity and the default network: A functional connectivity...by RE Beaty · 2014 · Cited by 677 — The results suggest that the abil...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41380-021-01403-8](https://www.nature.com/articles/s41380-021-01403-8)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe default network is causally linked to creative thinkingby B Shofty · 2022 · Cited by 84 — Despite a vast amount of correlative...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41380-021-01403-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41380-021-01403-8</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The default network is causally linked to creative thinkingby B Shofty · 2022 · Cited by 84 — Despite a vast amount of correlative...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: health.harvard.edu  
    Title: right brainleft brain right 2017082512222  
-   Link: [https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222](https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222)  
+   Link: <a href="https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222" target="_blank" rel="noopener noreferrer nofollow">https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard HealthRight brain/[left brain](&amp;#123;&amp;#123; &#x27;left-brain/&#x27; | relative_url &amp;#125;&amp;#125;), right?Mar 24, 2565 BE — Those who are right-brained are supposed to be intuitive and creative free...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Dekker · 2012 · Cited by 1276 — The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker · 2012 · Cited by 1276 — The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 273 — In 2002, the UK&#x27;s OECD launched...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 273 — In 2002, the UK&#x27;s OECD launched...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010945222002404](https://www.sciencedirect.com/science/article/pii/S0010945222002404)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe time course of creativity: Multivariate classification of...by J Lloyd-Cox · 2022 · Cited by 51 — Research indicates th...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010945222002404" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010945222002404</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The time course of creativity: Multivariate classification of...by J Lloyd-Cox · 2022 · Cited by 51 — Research indicates th...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s42003-025-07470-9](https://www.nature.com/articles/s42003-025-07470-9)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureDynamic switching between brain networks predicts...by Q Chen · 2025 · Cited by 55 — We provide robust evidence across multi-cente...</p></details>
+   Link: <a href="https://www.nature.com/articles/s42003-025-07470-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s42003-025-07470-9</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dynamic switching between brain networks predicts...by Q Chen · 2025 · Cited by 55 — We provide robust evidence across multi-cente...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352154625000701](https://www.sciencedirect.com/science/article/abs/pii/S2352154625000701)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352154625000701" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352154625000701</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Early work laid the foundations for this understanding.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: one.oecd.org  
-   Link: [https://one.oecd.org/document/EDU/CERI/CD%282008%2913/en/pdf](https://one.oecd.org/document/EDU/CERI/CD%282008%2913/en/pdf)  
+   Link: <a href="https://one.oecd.org/document/EDU/CERI/CD%282008%2913/en/pdf" target="_blank" rel="noopener noreferrer nofollow">https://one.oecd.org/document/EDU/CERI/CD%282008%2913/en/pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD ONEUnclassified EDU/CERI/CD(2008)1313 May 2008 — Over the past few years, there has been a growing number of misconceptions circulat...</p></details>
    Published: May 2008  
 
 10. <a id="endnote-10"></a>
    Source: landmark.edu  
    Title: neuromyths are misconceptions about the brain dangerous  
-   Link: [https://www.landmark.edu/research-and-training/blog/neuromyths-are-misconceptions-about-the-brain-dangerous](https://www.landmark.edu/research-and-training/blog/neuromyths-are-misconceptions-about-the-brain-dangerous)  
+   Link: <a href="https://www.landmark.edu/research-and-training/blog/neuromyths-are-misconceptions-about-the-brain-dangerous" target="_blank" rel="noopener noreferrer nofollow">https://www.landmark.edu/research-and-training/blog/neuromyths-are-misconceptions-about-the-brain-dangerous</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Landmark CollegeNeuromyths: are misconceptions about the brain dangerous?31 Jan 2020 — Neuromyths lead teachers to adopt ineffective teac...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd/9789264029132-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd/9789264029132-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd/9789264029132-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd/9789264029132-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Brain: The Birth of a Learning ScienceThis has led to the instigation of many national initiatives in OECD countries to...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html](https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html)  
+   Link: <a href="https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Brain: The Birth of a Learning ScienceThis book provides new insights about learning by synthesising existing and emerg...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/understanding-the-brain-the-birth-of-a-learning-science_9789264029132-en.html](https://www.oecd.org/en/publications/understanding-the-brain-the-birth-of-a-learning-science_9789264029132-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/understanding-the-brain-the-birth-of-a-learning-science_9789264029132-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/understanding-the-brain-the-birth-of-a-learning-science_9789264029132-en.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Brain: The Birth of a Learning ScienceThis book provides new insights about learning by synthesising existing and emerg...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0742051X2600020X](https://www.sciencedirect.com/science/article/abs/pii/S0742051X2600020X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0742051X2600020X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0742051X2600020X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuromyths in education: Comparing perceptions between...by E Wauthia · 2026 — Some of the most widespread neuromyths include statements...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sites.harvard.edu  
-   Link: [https://sites.harvard.edu/schacter-memory/files/2022/01/b978-0-12-809790-8.00010-8.pdf](https://sites.harvard.edu/schacter-memory/files/2022/01/b978-0-12-809790-8.00010-8.pdf)  
+   Link: <a href="https://sites.harvard.edu/schacter-memory/files/2022/01/b978-0-12-809790-8.00010-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.harvard.edu/schacter-memory/files/2022/01/b978-0-12-809790-8.00010-8.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>harvard.eduCreativity, Self-Generated Thought, and the Brain&#x27;s Default...by RE Beaty · 2017 · Cited by 19 — one such study explored the...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/srep10964](https://www.nature.com/articles/srep10964)  
+   Link: <a href="https://www.nature.com/articles/srep10964" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/srep10964</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Default and Executive Network Coupling Supports Creative...by RE Beaty · 2015 · Cited by 890 — A growing body of research suggests that...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: parisbraininstitute.org  
-   Link: [https://parisbraininstitute.org/brain-function-cards/creativity](https://parisbraininstitute.org/brain-function-cards/creativity)  
+   Link: <a href="https://parisbraininstitute.org/brain-function-cards/creativity" target="_blank" rel="noopener noreferrer nofollow">https://parisbraininstitute.org/brain-function-cards/creativity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CreativityThere are two main networks. The first, the executive control network, is usually involved in cognitive control processes that...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational NeuroscienceLeft brain versus right brain thinkersAccording to this view, the left brain is the analytical, logical, verbal h...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: scientificamerican.com  
    Title: is it true that creativit  
-   Link: [https://www.scientificamerican.com/article/is-it-true-that-creativit/](https://www.scientificamerican.com/article/is-it-true-that-creativit/)  
+   Link: <a href="https://www.scientificamerican.com/article/is-it-true-that-creativit/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/is-it-true-that-creativit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is, therefore, &quot;whole brained.&quot;Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: psychologytoday.com  
    Title: myths right brained creativity  
-   Link: [https://www.psychologytoday.com/gb/blog/tracking-wonder/201203/myths-right-brained-creativity](https://www.psychologytoday.com/gb/blog/tracking-wonder/201203/myths-right-brained-creativity)  
+   Link: <a href="https://www.psychologytoday.com/gb/blog/tracking-wonder/201203/myths-right-brained-creativity" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/tracking-wonder/201203/myths-right-brained-creativity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Myths of Right-Brained Creativity23 Mar 2012 — A recent study showed that a function of visual thinking is not solely a function of the r...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/27655932/](https://pubmed.ncbi.nlm.nih.gov/27655932/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedIndividual Creativity and Associative Priming in the Right...by KC Aberg · 2017 · Cited by 51 — The idea that creativity resides i...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/27655932/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27655932/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Individual Creativity and Associative Priming in the Right...by KC Aberg · 2017 · Cited by 51 — The idea that creativity resides i...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: scottbarrykaufman.com  
-   Link: [https://scottbarrykaufman.com/wp-content/uploads/2015/05/Beaty-et-al.-in-press-Creative-Networks.pdf](https://scottbarrykaufman.com/wp-content/uploads/2015/05/Beaty-et-al.-in-press-Creative-Networks.pdf)  
+   Link: <a href="https://scottbarrykaufman.com/wp-content/uploads/2015/05/Beaty-et-al.-in-press-Creative-Networks.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scottbarrykaufman.com/wp-content/uploads/2015/05/Beaty-et-al.-in-press-Creative-Networks.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CREATIVE NETWORKS Default and Executive Network...by RE Beaty · Cited by 884 — Such dynamic coupling suggests that divergent thinking in...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: executiveeducation.wharton.upenn.edu  
-   Link: [https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-at-work/2023/05/insights-from-neuroscience/](https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-at-work/2023/05/insights-from-neuroscience/)  
+   Link: <a href="https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-at-work/2023/05/insights-from-neuroscience/" target="_blank" rel="noopener noreferrer nofollow">https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-at-work/2023/05/insights-from-neuroscience/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wharton Executive EducationThe Right/Left Brain Myth and More Neuroscience InsightNeuroscience research reveals that there is an “innovat...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386](https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineBeyond Left and Right: Learning Is a Whole-Brain Processby DD Shin · 2022 · Cited by 12 — The OECD website outline...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/au/blog/the-athletes-way/202503/right-brain-vs-whole-brain-how-creativity-really-works](https://www.psychologytoday.com/au/blog/the-athletes-way/202503/right-brain-vs-whole-brain-how-creativity-really-works)  
+   Link: <a href="https://www.psychologytoday.com/au/blog/the-athletes-way/202503/right-brain-vs-whole-brain-how-creativity-really-works" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/au/blog/the-athletes-way/202503/right-brain-vs-whole-brain-how-creativity-really-works</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Where Creativity Actually Happens in the Brain1 Mar 2025 — The &quot;right brain = creativity&quot; equation is a myth; creativity involves the who...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Common misconceptions about the brainCommon misconceptions about the brain · Left brain versus right brain thinkers · Fish oils improve l...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40Gbgrow/unlocking-the-brains-creativity-how-1fd8f8861a2c](https://medium.com/%40Gbgrow/unlocking-the-brains-creativity-how-1fd8f8861a2c)  
+   Link: <a href="https://medium.com/%40Gbgrow/unlocking-the-brains-creativity-how-1fd8f8861a2c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Gbgrow/unlocking-the-brains-creativity-how-1fd8f8861a2c</a>  
 
 28. <a id="endnote-28"></a>
    Source: thomasramsoy.com  
    Title: creativity mind wandering and the default mode network of the brain  
-   Link: [https://thomasramsoy.com/index.php/2024/08/26/creativity-mind-wandering-and-the-default-mode-network-of-the-brain/](https://thomasramsoy.com/index.php/2024/08/26/creativity-mind-wandering-and-the-default-mode-network-of-the-brain/)  
+   Link: <a href="https://thomasramsoy.com/index.php/2024/08/26/creativity-mind-wandering-and-the-default-mode-network-of-the-brain/" target="_blank" rel="noopener noreferrer nofollow">https://thomasramsoy.com/index.php/2024/08/26/creativity-mind-wandering-and-the-default-mode-network-of-the-brain/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Creativity, Mind-Wandering, and the Default Mode Network...26 Aug 2024 — What&#x27;s the link between the Default Mode Network and creativity...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: irejournals.com  
-   Link: [https://www.irejournals.com/formatedpaper/1707069.pdf](https://www.irejournals.com/formatedpaper/1707069.pdf)  
+   Link: <a href="https://www.irejournals.com/formatedpaper/1707069.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.irejournals.com/formatedpaper/1707069.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e brain functions as a whole, with interconnections across both hemispheres (Nielsen et...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: [Debunking](&#123;&#123; 'debunking/' | relative_url &#125;&#125;) the Myth of the Left and Right Brain | Matthew Wang | TEDx Youth@MVHS  
-   Link: [http://www.youtube.com/watch?v=95lXUp3S3gw](http://www.youtube.com/watch?v=95lXUp3S3gw)  
+   Link: <a href="http://www.youtube.com/watch?v=95lXUp3S3gw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=95lXUp3S3gw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuroscience of creativity debunking right brain myth Truth or Myth: People are either right-brained, creative thinkers, or left-brained...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: arno.uvt.nl  
-   Link: [https://arno.uvt.nl/show.cgi?fid=161948](https://arno.uvt.nl/show.cgi?fid=161948)  
+   Link: <a href="https://arno.uvt.nl/show.cgi?fid=161948" target="_blank" rel="noopener noreferrer nofollow">https://arno.uvt.nl/show.cgi?fid=161948</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>httpby JMM Van Eekeren · 2023 — Although the concept creativity is multi-dimensional, researchers largely use divergent thinking as the m...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: cis.org.au  
-   Link: [https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/](https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/)  
+   Link: <a href="https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>so very common globally, and held by around half of Australian teachers.Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: ed.ted.com  
    Title: the left brain vs right brain myth elizabeth waters  
-   Link: [https://ed.ted.com/lessons/the-left-brain-vs-right-brain-myth-elizabeth-waters](https://ed.ted.com/lessons/the-left-brain-vs-right-brain-myth-elizabeth-waters)  
+   Link: <a href="https://ed.ted.com/lessons/the-left-brain-vs-right-brain-myth-elizabeth-waters" target="_blank" rel="noopener noreferrer nofollow">https://ed.ted.com/lessons/the-left-brain-vs-right-brain-myth-elizabeth-waters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>left brain vs. right brain myth - Elizabeth Waters24 Jul 2017 — The left side controls logic and the right side controls creativity. And...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MinddBox/posts/psychologist-says-neuroscience-suggests-creativity-and-certain-mental-health-str/1149727751548864/](https://www.facebook.com/MinddBox/posts/psychologist-says-neuroscience-suggests-creativity-and-certain-mental-health-str/1149727751548864/)  
+   Link: <a href="https://www.facebook.com/MinddBox/posts/psychologist-says-neuroscience-suggests-creativity-and-certain-mental-health-str/1149727751548864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MinddBox/posts/psychologist-says-neuroscience-suggests-creativity-and-certain-mental-health-str/1149727751548864/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ork, the salience network, and the executive control network—that...Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/radionational/posts/youve-probably-been-told-youre-either-left-brain-analytical-or-right-brain-creat/1276901630772373/](https://www.facebook.com/radionational/posts/youve-probably-been-told-youre-either-left-brain-analytical-or-right-brain-creat/1276901630772373/)  
+   Link: <a href="https://www.facebook.com/radionational/posts/youve-probably-been-told-youre-either-left-brain-analytical-or-right-brain-creat/1276901630772373/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/radionational/posts/youve-probably-been-told-youre-either-left-brain-analytical-or-right-brain-creat/1276901630772373/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You&#x27;ve probably been told you&#x27;re either left brain: analytical...The left brain is analytical, numerical, logical, scientific, systemati...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: bigthink.com  
-   Link: [https://bigthink.com/surprising-science/study-right-brainleft-brain-is-a-myth-creativity-exists-in-both-hemispheres/](https://bigthink.com/surprising-science/study-right-brainleft-brain-is-a-myth-creativity-exists-in-both-hemispheres/)  
+   Link: <a href="https://bigthink.com/surprising-science/study-right-brainleft-brain-is-a-myth-creativity-exists-in-both-hemispheres/" target="_blank" rel="noopener noreferrer nofollow">https://bigthink.com/surprising-science/study-right-brainleft-brain-is-a-myth-creativity-exists-in-both-hemispheres/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Right-Brain/Left-Brain is a Myth, Creativity Exists in Both...22 Nov 2014 — It turns out that creativity resides within your brain&#x27;s lef...</p></details>

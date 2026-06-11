@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_flashbulb_memory_ill_e4eff8
 - Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_repeated_retelling_m_3a2eb6
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - memory
 - leading-questions
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - memory
 - leading-questions
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Small wording changes after an event can steer what witnesses later remember without making them dishonest.
 hero_summary: Small wording changes after an event can steer what witnesses later remember without making them dishonest.
 layout: default
 permalink: /leading-questions/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /memory/
 nav_short_title: Leading Questions
 title: Can a Question Change a Memory?
-title_full: Can a Question Change a Memory? | Memory
+title_full: Can a Question Change a Memory?
 display_title_short: Leading Questions
 display_title: Leading Questions
 heading_title: Can a Question Change a Memory?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Memory Is Not a Video Recording | Mythcraft
+parent_title: Why Memory Is Not a Video Recording
 parent_permalink: /memory/
 parent_nav_short_title: Memory
 parent_heading_title: Why Memory Is Not a Video Recording
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Repeated Stories Feel More True
 up_link:
   basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
@@ -265,7 +265,7 @@ next_link:
   permalink: /retelling/
   short_title: Retelling
   heading_title: Why Repeated Stories Feel More True
-date: '2026-06-09 05:28:56 '
+date: '2026-06-11 22:33:51 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_leading_questions_me_06cb8a-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_leading_questions_me_06cb8a-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_le
 
 ## Introduction
 
-A witness does not need to be dishonest for a [memory]({{ 'memory/' | relative_url }}) to change. One of the most important findings in memory research is that the wording of a question can alter what a person later remembers about an event. Small changes in language can influence which details people focus on, how they interpret what happened, and even whether they later remember seeing things that were never there. This is one reason psychologists reject the idea that memory works like a recording. Eyewitness recollection remains vulnerable after the event itself, especially during interviews, conversations and [repeated retellings]({{ 'retelling/' | relative_url }}). Research on leading questions has shown that suggestion can become woven into memory so thoroughly that witnesses often believe the altered version is their genuine recollection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">loftus palmer</span><span class="citation-popover-snippet">Simply PsychologyLoftus and Palmer 1974 | Car Crash Experimentby S McLeod · Cited by 2 — Loftus and Palmer (1974) asked people to estimat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nobaproject.com">[Noba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nobaproject.com</span><span class="citation-popover-snippet">NobaEyewitness Testimony and Memory BiasesIn other words, the misinformation in the leading question led to inaccurate memory. This pheno...</span></span></span>
-
+A witness does not need to be dishonest for a [memory]({{ 'memory/' | relative_url }}) to change. One of the most important findings in memory research is that the wording of a question can alter what a person later remembers about an event. Small changes in language can influence which details people focus on, how they interpret what happened, and even whether they later remember seeing things that were never there. This is one reason psychologists reject the idea that memory works like a recording. Eyewitness recollection remains vulnerable after the event itself, especially during interviews, conversations and repeated retellings. Research on leading questions has shown that suggestion can become woven into memory so thoroughly that witnesses often believe the altered version is their genuine recollection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">loftus palmer</span><span class="citation-popover-snippet">Simply PsychologyLoftus and Palmer 1974 &#124; Car Crash Experimentby S McLeod · Cited by 2 — Loftus and Palmer (1974) asked people to estimat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nobaproject.com">[Noba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nobaproject.com</span><span class="citation-popover-snippet">NobaEyewitness Testimony and Memory BiasesIn other words, the misinformation in the leading question led to inaccurate memory. This pheno...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_leading_questions_me_06cb8a-Illustration-1-dark.svg" | relative_url }}" alt="Leading Questions illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_leading_questions_me_06cb8a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_leading_questions_me_06cb8a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Can a Question Change a Memory?
@@ -284,7 +283,7 @@ A leading question contains information or assumptions that steer a person towar
 
 The crucial point is that a leading question can do more than influence a witness's immediate response. It can affect later memory. A witness who hears a suggested detail may later remember that detail as part of the original event rather than as information introduced afterwards. Psychologists call this the misinformation effect: exposure to misleading post-event information can distort later recall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nobaproject.com">[Noba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nobaproject.com</span><span class="citation-popover-snippet">NobaEyewitness Testimony and Memory BiasesIn other words, the misinformation in the leading question led to inaccurate memory. This pheno...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">Misinformation Effect - an overviewThe misinformation effect is the production of distorted, false, or other erroneous or misleading info...</span></span></span>
 
-This challenges a common assumption in courts and everyday life. People often think inaccurate testimony comes from lying, carelessness or poor observation. Research suggests a different possibility: sincere witnesses can become less accurate because later questioning changes the way the event is remembered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">PMCby R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetition increased...</span></span></span>
+This challenges a common assumption in courts and everyday life. People often think inaccurate testimony comes from lying, carelessness or poor observation. Research suggests a different possibility: sincere witnesses can become less accurate because later questioning changes the way the event is remembered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">by R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetition increased...</span></span></span>
 
 ## The Car-Crash Wording Experiments
 
@@ -292,10 +291,9 @@ The best-known demonstration comes from psychologist Elizabeth Loftus and collea
 
 The wording changed participants' estimates. People who heard “smashed” reported higher speeds than those who heard milder terms such as “hit” or “contacted”. The event itself was identical for all participants. Only the question changed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">Misinformation Effect - an overviewThe misinformation effect is the production of distorted, false, or other erroneous or misleading info...</span></span></span>
 
-The more striking result came later. In a follow-up experiment, participants returned about a week after viewing the crash footage and were asked whether they had seen broken glass. No broken glass had appeared in the film. Yet participants exposed to the word “smashed” were more likely to report seeing it. A brief linguistic suggestion had influenced not just interpretation but later memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">loftus palmer</span><span class="citation-popover-snippet">Simply PsychologyLoftus and Palmer 1974 | Car Crash Experimentby S McLeod · Cited by 2 — Loftus and Palmer (1974) asked people to estimat...</span></span></span>
+The more striking result came later. In a follow-up experiment, participants returned about a week after viewing the crash footage and were asked whether they had seen broken glass. No broken glass had appeared in the film. Yet participants exposed to the word “smashed” were more likely to report seeing it. A brief linguistic suggestion had influenced not just interpretation but later memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">loftus palmer</span><span class="citation-popover-snippet">Simply PsychologyLoftus and Palmer 1974 &#124; Car Crash Experimentby S McLeod · Cited by 2 — Loftus and Palmer (1974) asked people to estimat...</span></span></span>
 
-The experiment became famous because it illustrated how easily memory can be reshaped. A witness may not merely change an answer to satisfy an interviewer. The witness may genuinely come to remember a more severe collision than the one originally observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">loftus palmer</span><span class="citation-popover-snippet">Simply PsychologyLoftus and Palmer 1974 | Car Crash Experimentby S McLeod · Cited by 2 — Loftus and Palmer (1974) asked people to estimat...</span></span></span>
-
+The experiment became famous because it illustrated how easily memory can be reshaped. A witness may not merely change an answer to satisfy an interviewer. The witness may genuinely come to remember a more severe collision than the one originally observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">loftus palmer</span><span class="citation-popover-snippet">Simply PsychologyLoftus and Palmer 1974 &#124; Car Crash Experimentby S McLeod · Cited by 2 — Loftus and Palmer (1974) asked people to estimat...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-tbwrUYqytQ" title="EYE WITNESS TESTIMONY - Loftus &amp; Palmer (1974) Car Crash Experiment - Cognitive Psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-tbwrUYqytQ" target="_blank" rel="noopener noreferrer">EYE WITNESS TESTIMONY - Loftus &amp; Palmer (1974) Car Crash Experiment - Cognitive Psychology</a></p><p class="youtube-embed-meta">Channel: Psychology Unlocked &middot; Views: 45.3K &middot; Uploaded: February 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-tbwrUYqytQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-tbwrUYqytQ">Open on YouTube</a></p></div></div></div>
 
@@ -305,21 +303,20 @@ The experiment became famous because it illustrated how easily memory can be res
 
 One explanation involves source monitoring, the process of identifying where a memory originated. People constantly combine information from perception, conversations, news reports, photographs and imagination. Later, they must determine which source produced a particular memory.
 
-Problems arise when a witness remembers a detail but forgets where it came from. The suggested information introduced by an interviewer may later feel indistinguishable from the original experience. Instead of remembering, “The officer mentioned broken glass,” the witness may remember, “I saw broken glass.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">PMCby R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetition increased...</span></span></span>
+Problems arise when a witness remembers a detail but forgets where it came from. The suggested information introduced by an interviewer may later feel indistinguishable from the original experience. Instead of remembering, “The officer mentioned broken glass,” the witness may remember, “I saw broken glass.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">by R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetition increased...</span></span></span>
 
-This source confusion is especially likely when the suggestion fits naturally with the event. Broken glass seems plausible after a serious crash. Because it matches expectations, it can be incorporated into the memory reconstruction process with little resistance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">PMCby R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetition increased...</span></span></span>
+This source confusion is especially likely when the suggestion fits naturally with the event. Broken glass seems plausible after a serious crash. Because it matches expectations, it can be incorporated into the memory reconstruction process with little resistance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">by R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetition increased...</span></span></span>
 
 ### Memory reconstruction fills gaps
 
 Memories rarely contain every detail of an event. When recalling what happened, people reconstruct missing pieces using general knowledge and expectations.
 
-Leading questions can shape this reconstruction. If a witness hears language implying aggression, danger or a particular sequence of events, that implication can become part of the reconstructed memory. The witness is not necessarily inventing details consciously. Rather, the memory system is building a coherent story from available information. Noba <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">PMCby R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetition increased...</span></span></span> The effect is often strongest when the original memory is incomplete. Poor lighting, brief exposure, stress or distraction leave gaps. Suggestions can then provide material that fills those gaps during later recall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">PMCby R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetition increased...</span></span></span>
-
+Leading questions can shape this reconstruction. If a witness hears language implying aggression, danger or a particular sequence of events, that implication can become part of the reconstructed memory. The witness is not necessarily inventing details consciously. Rather, the memory system is building a coherent story from available information. Noba <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">by R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetition increased...</span></span></span> The effect is often strongest when the original memory is incomplete. Poor lighting, brief exposure, stress or distraction leave gaps. Suggestions can then provide material that fills those gaps during later recall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">by R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetition increased...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_leading_questions_me_06cb8a-Illustration-2-dark.svg" | relative_url }}" alt="Leading Questions illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_leading_questions_me_06cb8a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_leading_questions_me_06cb8a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Repetition can strengthen misinformation
 
-Research has also found that repeated exposure to misleading information can increase suggestibility. When misinformation is encountered multiple times, it can become more familiar and therefore more likely to be accepted as true. Familiarity may be mistaken for evidence that the information came from the original event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">PMCby R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetition increased...</span></span></span>
+Research has also found that repeated exposure to misleading information can increase suggestibility. When misinformation is encountered multiple times, it can become more familiar and therefore more likely to be accepted as true. Familiarity may be mistaken for evidence that the information came from the original event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">by R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetition increased...</span></span></span>
 
 Repeated questioning can create a related problem. Witnesses may begin to assume that details repeatedly mentioned by interviewers must be important or accurate. Over time, the distinction between the witnessed event and the later discussion can blur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">Misinformation Effect - an overviewThe misinformation effect is the production of distorted, false, or other erroneous or misleading info...</span></span></span>
 
@@ -329,8 +326,7 @@ One reason leading questions are so concerning is that altered memories can feel
 
 Once misinformation becomes integrated into a memory, the resulting recollection can carry the same feeling of certainty as an accurate memory. Witnesses may describe false details confidently because they are reporting what they sincerely believe they remember. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabThe Misinformation EffectSince Loftus&#x27;s research, many legal scholars have questioned the validity of eyewitness testimon...</span></span></span>
 
-This helps explain why eyewitness confidence alone can be misleading. A confident witness may be recalling a memory that has already been reshaped by post-event suggestion. The confidence reflects belief in the memory, not necessarily the memory's accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/48568428" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">JSTORRethinking the Reliability of Eyewitness Memoryby JT Wixted · 2018 · Cited by 235 — Thus, we would expect to find that training poli...</span></span></span>
-
+This helps explain why eyewitness confidence alone can be misleading. A confident witness may be recalling a memory that has already been reshaped by post-event suggestion. The confidence reflects belief in the memory, not necessarily the memory's accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/48568428" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Rethinking the Reliability of Eyewitness Memoryby JT Wixted · 2018 · Cited by 235 — Thus, we would expect to find that training poli...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-hha1bAtV5c" title="Loftus and Palmer (1974) Leading Questions and EWT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-hha1bAtV5c" target="_blank" rel="noopener noreferrer">Loftus and Palmer (1974) Leading Questions and EWT</a></p><p class="youtube-embed-meta">Channel: Super Psychology &middot; Views: 58.4K &middot; Uploaded: January 2018 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-hha1bAtV5c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-hha1bAtV5c">Open on YouTube</a></p></div></div></div>
 
@@ -338,8 +334,7 @@ This helps explain why eyewitness confidence alone can be misleading. A confiden
 
 Police questioning is not the only source of memory distortion. Witnesses can encounter misleading information through conversations with other witnesses, [media coverage]({{ 'media-coverage/' | relative_url }}), social media posts or repeated public discussion of an event.
 
-Studies continue to find that post-event information delivered through modern channels can influence recall. Researchers have shown that misleading information presented through interview transcripts, videos and social-media-style formats can reduce eyewitness accuracy and increase acceptance of false details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">PMCby R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetition increased...</span></span></span> PubMed The mechanism remains similar. New information arrives after the event <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[thedecisionlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabThe Misinformation EffectSince Loftus&#x27;s research, many legal scholars have questioned the validity of eyewitness testimon...</span></span></span>, becomes mixed with the original memory and later feels familiar enough to be remembered as something personally observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2294692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Journal of Experimental...Read more...</span></span></span>
-
+Studies continue to find that post-event information delivered through modern channels can influence recall. Researchers have shown that misleading information presented through interview transcripts, videos and social-media-style formats can reduce eyewitness accuracy and increase acceptance of false details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">by R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetition increased...</span></span></span> PubMed The mechanism remains similar. New information arrives after the event <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[thedecisionlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabThe Misinformation EffectSince Loftus&#x27;s research, many legal scholars have questioned the validity of eyewitness testimon...</span></span></span>, becomes mixed with the original memory and later feels familiar enough to be remembered as something personally observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2294692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Journal of Experimental...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p5mPKkYwfWY" title="How to explain Loftus and Palmer (1974) PROPERLY!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p5mPKkYwfWY" target="_blank" rel="noopener noreferrer">How to explain Loftus and Palmer (1974) PROPERLY!</a></p><p class="youtube-embed-meta">Channel: Themantic Education &middot; Views: 34.5K &middot; Uploaded: October 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p5mPKkYwfWY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p5mPKkYwfWY">Open on YouTube</a></p></div></div></div>
 
@@ -348,7 +343,6 @@ Studies continue to find that post-event information delivered through modern ch
 Because memory can be altered by suggestion, investigators have developed interviewing approaches designed to minimise contamination.
 
 Several principles are widely recommended:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -363,13 +357,12 @@ Several principles are widely recommended:
 
 The goal is not merely to obtain more information. It is to protect the memory from alteration during the retrieval process itself.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_leading_questions_me_06cb8a-Illustration-3-dark.svg" | relative_url }}" alt="Leading Questions illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_leading_questions_me_06cb8a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_leading_questions_me_06cb8a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Real Lesson of Leading Questions
 
-The research on leading questions does not show that eyewitnesses are useless or that every memory is false. Instead, it reveals a more specific and unsettling reality: remembering is an active process. Memories can be reshaped by information encountered after an event, and subtle wording changes can become part of what a witness later experiences as a genuine recollection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nobaproject.com">[Noba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nobaproject.com</span><span class="citation-popover-snippet">NobaEyewitness Testimony and Memory BiasesIn other words, the misinformation in the leading question led to inaccurate memory. This pheno...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3699 — Two experiments are reported i...</span></span></span>
+The research on leading questions does not show that eyewitnesses are useless or that every memory is false. Instead, it reveals a more specific and unsettling reality: remembering is an active process. Memories can be reshaped by information encountered after an event, and subtle wording changes can become part of what a witness later experiences as a genuine recollection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nobaproject.com">[Noba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nobaproject.com</span><span class="citation-popover-snippet">NobaEyewitness Testimony and Memory BiasesIn other words, the misinformation in the leading question led to inaccurate memory. This pheno...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Reconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3699 — Two experiments are reported i...</span></span></span>
 
-That is why a question can sometimes change a memory. The danger is not that witnesses are deliberately inventing events. The danger is that the human memory system is reconstructive, and suggestions introduced after the fact can become woven into the story that the witness honestly believes is true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">loftus palmer</span><span class="citation-popover-snippet">Simply PsychologyLoftus and Palmer 1974 | Car Crash Experimentby S McLeod · Cited by 2 — Loftus and Palmer (1974) asked people to estimat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">PMCby R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetition increased...</span></span></span>
+That is why a question can sometimes change a memory. The danger is not that witnesses are deliberately inventing events. The danger is that the human memory system is reconstructive, and suggestions introduced after the fact can become woven into the story that the witness honestly believes is true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">loftus palmer</span><span class="citation-popover-snippet">Simply PsychologyLoftus and Palmer 1974 &#124; Car Crash Experimentby S McLeod · Cited by 2 — Loftus and Palmer (1974) asked people to estimat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">by R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that repetition increased...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -768,193 +761,193 @@ That is why a question can sometimes change a memory. The danger is not that wit
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Misinformation Effect  
-   Link: [https://www.sciencedirect.com/topics/psychology/misinformation-effect](https://www.sciencedirect.com/topics/psychology/misinformation-effect)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/misinformation-effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect - an overviewThe misinformation effect is the production of distorted, false, or other erroneous or misleading info...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8076587/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8076587/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8076587/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8076587/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These failures and distortions are influenced by several...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113](https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectReconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3699 — Two experiments are reported i...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022537174800113</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstruction of automobile destruction: An example...by EF Loftus · 1974 · Cited by 3699 — Two experiments are reported i...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10567586/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10567586/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCCognitive and neural mechanisms underlying false memoriesby AG Lentoor · 2023 · Cited by 13 — This theory proposed that false memory o...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10567586/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10567586/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive and neural mechanisms underlying false memoriesby AG Lentoor · 2023 · Cited by 13 — This theory proposed that false memory o...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExperimental and meta-analytic evidence that source  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that [repetition](&amp;#123;&amp;#123; &#x27;repetition/&#x27; | relative_url &amp;#125;&amp;#125;) increased...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by R O’Donnell · 2023 — Experiment 1 used written interview transcripts to deliver misinformation and showed that [repetition](&amp;#123;&amp;#123; &#x27;repetition/&#x27; | relative_url &amp;#125;&amp;#125;) increased...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2211368117300724](https://www.sciencedirect.com/science/article/abs/pii/S2211368117300724)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectRetrieval-Enhanced Suggestibility: A Retrospective and a...by JCK Chan · 2017 · Cited by 62 — Taking a memory test before b...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211368117300724" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211368117300724</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval-Enhanced Suggestibility: A Retrospective and a...by JCK Chan · 2017 · Cited by 62 — Taking a memory test before b...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/48568428](https://www.jstor.org/stable/48568428)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JSTORRethinking the Reliability of Eyewitness Memoryby JT Wixted · 2018 · Cited by 235 — Thus, we would expect to find that training poli...</p></details>
+   Link: <a href="https://www.jstor.org/stable/48568428" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/48568428</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking the Reliability of Eyewitness Memoryby JT Wixted · 2018 · Cited by 235 — Thus, we would expect to find that training poli...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: Misinformation Effect  
-   Link: [https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect)  
+   Link: <a href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewResearch on the misinformation effect has a long and rich history in the human memory literature, beginning with the pioneerin...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: Misinformation Effect  
-   Link: [https://www.sciencedirect.com/topics/social-sciences/misinformation-effect](https://www.sciencedirect.com/topics/social-sciences/misinformation-effect)  
+   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/misinformation-effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewThe misinformation effect is particularly useful for understanding factors that can influence eyewitness memory; eyewitnesses...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: simplypsychology.org  
    Title: loftus palmer  
-   Link: [https://www.simplypsychology.org/loftus-palmer.html](https://www.simplypsychology.org/loftus-palmer.html)  
+   Link: <a href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/loftus-palmer.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyLoftus and Palmer 1974 | Car Crash Experimentby S McLeod · Cited by 2 — Loftus and Palmer (1974) asked people to estimat...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/18891/chapter/6](https://www.nationalacademies.org/read/18891/chapter/6)  
+   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/6" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 4 Basic Research on Vision and MemoryAccurate eyewitness identification requires that a witness to a crime correctly sense, perc...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA Behavioral Account of the Misinformation Effect  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby DM Challies · 2011 · Cited by 33 — However, a few studies have shown that participants&#x27; reports may also be influenced by ind...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby DM Challies · 2011 · Cited by 33 — However, a few studies have shown that participants&#x27; reports may also be influenced by ind...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2294692](https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2294692)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2294692" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2294692</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Experimental...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect](https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabThe Misinformation EffectSince Loftus&#x27;s research, many legal scholars have questioned the validity of eyewitness testimon...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38146968/](https://pubmed.ncbi.nlm.nih.gov/38146968/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38146968/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38146968/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govWitnesses&#x27; susceptibility to misleading post-event...by SJ Sharman · 2024 · Cited by 4 — This study examined the effect of mislea...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901](https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineNews as a form of post-event information: the effect of...by Z Crittenden · 2026 — Decades of research into the m...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/13218719.2013.803276](https://www.tandfonline.com/doi/abs/10.1080/13218719.2013.803276)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/13218719.2013.803276" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/13218719.2013.803276</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineA Review of the Impact of Different Types of Leading...by PV Bowles · 2014 · Cited by 60 — We examined the litera...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11928514/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11928514/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby N Dilevski · 2025 · Cited by 3 — The outcomes of the study suggest that investigative interviewers should avoid asking misleading q...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11928514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11928514/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by N Dilevski · 2025 · Cited by 3 — The outcomes of the study suggest that investigative interviewers should avoid asking misleading q...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3143501/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3143501/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MF Mendez · 2010 · Cited by 44 — Studies using the Deese/Roedinger–McDermott experimental paradigm indicate that false memories are...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3143501/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3143501/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by MF Mendez · 2010 · Cited by 44 — Studies using the Deese/Roedinger–McDermott experimental paradigm indicate that false memories are...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK549791/](https://www.ncbi.nlm.nih.gov/books/NBK549791/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK549791/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK549791/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govPhysiology, Long Term Memory - StatPearls - NCBI Bookshelfby A Almaraz-Espinoza · 2023 · Cited by 14 — Memory is a complex brain f...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Memory](https://en.wikipedia.org/wiki/Memory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Memory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MemoryMemory is the faculty of the mind by which data or information is encoded, stored, and retrieved when needed.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: health.harvard.edu  
-   Link: [https://www.health.harvard.edu/topics/memory](https://www.health.harvard.edu/topics/memory)  
+   Link: <a href="https://www.health.harvard.edu/topics/memory" target="_blank" rel="noopener noreferrer nofollow">https://www.health.harvard.edu/topics/memory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>harvard.eduMemory20 Apr 2026 — In many ways, our memories shape who we are. They make up our internal biographies - the stories we tell o...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect](https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect)  
+   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: my.clevelandclinic.org  
-   Link: [https://my.clevelandclinic.org/health/articles/memory](https://my.clevelandclinic.org/health/articles/memory)  
+   Link: <a href="https://my.clevelandclinic.org/health/articles/memory" target="_blank" rel="noopener noreferrer nofollow">https://my.clevelandclinic.org/health/articles/memory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>clevelandclinic.orgMemory: What It Is, How It Works &amp; Types16 Sept 2024 — Memory is the ability to recall learned information. Many parts...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/au/basics/memory](https://www.psychologytoday.com/au/basics/memory)  
+   Link: <a href="https://www.psychologytoday.com/au/basics/memory" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/au/basics/memory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology Today Australia13 Nov 2025 — Memory is the faculty by which the brain encodes, stores, and retrieves information. It is a reco...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: resource.download.wjec.co.uk  
    Title: loftus and palmer  
-   Link: [https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf](https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf)  
+   Link: <a href="https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstruction of automobile...Another 50 participants were asked the same question but with the word hit replacing the word smashed. Th...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: massolit.io  
    Title: loftus and palmer 1974  
-   Link: [https://massolit.io/options/loftus-and-palmer-1974](https://massolit.io/options/loftus-and-palmer-1974)  
+   Link: <a href="https://massolit.io/options/loftus-and-palmer-1974" target="_blank" rel="noopener noreferrer nofollow">https://massolit.io/options/loftus-and-palmer-1974</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus and Palmer (1974) Eye Witness Testimony Dr Evelyn Svingen. Loftus and...Read more...</p></details>
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: app.nova.edu  
-   Link: [https://app.nova.edu/toolbox/instructionalproducts/edd8124/articles/1975-Loftus.pdf](https://app.nova.edu/toolbox/instructionalproducts/edd8124/articles/1975-Loftus.pdf)  
+   Link: <a href="https://app.nova.edu/toolbox/instructionalproducts/edd8124/articles/1975-Loftus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://app.nova.edu/toolbox/instructionalproducts/edd8124/articles/1975-Loftus.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Leading Questions and the Eyewitness ReportIn one study (Loftus, unpublished), 40 people were interviewed about their headaches and about...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/679835923/internal-assesment](https://www.scribd.com/document/679835923/internal-assesment)  
+   Link: <a href="https://www.scribd.com/document/679835923/internal-assesment" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/679835923/internal-assesment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus and Palmer Car Crash Study Insights | PDF | MemoryThe verb used significantly affected participants&#x27; estimates of the vehicles&#x27; sp...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: nobaproject.com  
-   Link: [https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases](https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases)  
+   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NobaEyewitness Testimony and Memory BiasesIn other words, the misinformation in the leading question led to inaccurate memory. This pheno...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: labs.la.utexas.edu  
-   Link: [https://labs.la.utexas.edu/gilden/files/2016/04/Loftus_Palmer.pdf](https://labs.la.utexas.edu/gilden/files/2016/04/Loftus_Palmer.pdf)  
+   Link: <a href="https://labs.la.utexas.edu/gilden/files/2016/04/Loftus_Palmer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://labs.la.utexas.edu/gilden/files/2016/04/Loftus_Palmer.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>utexas.edu108 / William SternelleLoftus and J. C. Palmer, Reconstruction of automobile destruction: An example of the interaction between...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: themantic-education.com  
-   Link: [https://www.themantic-education.com/ibpsych/2019/02/25/key-study-leading-questions-and-the-misinformation-effect-the-car-crash-study-loftus-and-palmer-1974/](https://www.themantic-education.com/ibpsych/2019/02/25/key-study-leading-questions-and-the-misinformation-effect-the-car-crash-study-loftus-and-palmer-1974/)  
+   Link: <a href="https://www.themantic-education.com/ibpsych/2019/02/25/key-study-leading-questions-and-the-misinformation-effect-the-car-crash-study-loftus-and-palmer-1974/" target="_blank" rel="noopener noreferrer nofollow">https://www.themantic-education.com/ibpsych/2019/02/25/key-study-leading-questions-and-the-misinformation-effect-the-car-crash-study-loftus-and-palmer-1974/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Key Study: Leading questions and the misinformation effect25 Feb 2019 — Loftus and Palmer&#x27;s first experiment showed how leading questions...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/memory](https://www.merriam-webster.com/dictionary/memory)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/memory" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/memory</a>  
 
 34. <a id="endnote-34"></a>
    Source: guide.fariaedu.com  
-   Link: [https://guide.fariaedu.com/psychology-teacher-articles/cognitive-approach-1/reliability-of-cognitive-processes/the-reliability-of-cognitive-processes-additional-information-on-loftus-and-palmer-1974](https://guide.fariaedu.com/psychology-teacher-articles/cognitive-approach-1/reliability-of-cognitive-processes/the-reliability-of-cognitive-processes-additional-information-on-loftus-and-palmer-1974)  
+   Link: <a href="https://guide.fariaedu.com/psychology-teacher-articles/cognitive-approach-1/reliability-of-cognitive-processes/the-reliability-of-cognitive-processes-additional-information-on-loftus-and-palmer-1974" target="_blank" rel="noopener noreferrer nofollow">https://guide.fariaedu.com/psychology-teacher-articles/cognitive-approach-1/reliability-of-cognitive-processes/the-reliability-of-cognitive-processes-additional-information-on-loftus-and-palmer-1974</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation effect. Loftus and Palmer experiments were done on reconstructive memory and the impact of how asking questions to witness...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: mayoclinic.org  
-   Link: [https://www.mayoclinic.org/healthy-lifestyle/healthy-aging/in-depth/memory-loss/art-20046518](https://www.mayoclinic.org/healthy-lifestyle/healthy-aging/in-depth/memory-loss/art-20046518)  
+   Link: <a href="https://www.mayoclinic.org/healthy-lifestyle/healthy-aging/in-depth/memory-loss/art-20046518" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/healthy-aging/in-depth/memory-loss/art-20046518</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Be physically active every day · 2. Stay mentally active · 3. Spend time with others · 4. Stay organized · 5.Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Yq6u_4xtVh0](https://www.youtube.com/watch?v=Yq6u_4xtVh0)  
+   Link: <a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yq6u_4xtVh0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Law S4 E8: The Psychology of Eyewitness MemoryPsychologist Elizabeth F. Loftus, a leading expert on memory, discusses how her rese...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: innocenceproject.org  
-   Link: [https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf](https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf)  
+   Link: <a href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12... E. F. Loftus and H. G. Hoffman, “Misinformation and Memory, the Creation of New.Read more...</p></details>

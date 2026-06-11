@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - vaccines
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - vaccines
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: The MMR-autism claim shows why corrections need to explain discredited origins, later evidence and timing confusion.
 hero_summary: The MMR-autism claim shows why corrections need to explain discredited origins, later evidence and timing confusion.
 layout: default
 permalink: /vaccines/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Vaccines
 title: What the Vaccine Autism Myth Teaches Debunkers
-title_full: What the Vaccine Autism Myth Teaches Debunkers | Mythcraft
+title_full: What the Vaccine Autism Myth Teaches Debunkers
 display_title_short: Vaccines
 display_title: Vaccines
 heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
@@ -478,15 +478,15 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
-date: '2026-06-09 04:20:21 '
+date: '2026-06-11 21:59:37 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-overview.webp
@@ -495,14 +495,10 @@ image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-ov
 
 ## Introduction
 
-The vaccine-autism claim is one of the clearest modern examples of why correcting a myth requires more than repeating “that is false”. The claim became influential because it offered a simple explanation for a frightening and emotionally loaded experience: parents often notice developmental differences or regression in the same broad toddler years when routine vaccines are given. But the claim’s origin was unusually weak and later discredited, while [large studies]({{ 'large-studies/' | relative_url }}) and reviews have not found a causal link between vaccines and autism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.autismspeaks.org/do-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: autismspeaks.org">[Autism Speaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">autismspeaks.org</span><span class="citation-popover-title">Autism Speaks Do vaccines cause autism?</span><span class="citation-popover-snippet">Autism Speaks Do vaccines cause autism?</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/autism/about/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Open source on cdc.gov.</span></span></span>
-
+The vaccine-autism claim is one of the clearest modern examples of why correcting a myth requires more than repeating that is false. The claim became influential because it offered a simple explanation for a frightening and emotionally loaded experience: parents often notice developmental differences or regression in the same broad toddler years when routine vaccines are given. But the claims origin was unusually weak and later discredited, while [large studies]({{ 'large-studies/' | relative_url }}) and reviews have not found a causal link between vaccines and autism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.autismspeaks.org/do-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: autismspeaks.org">[Autism Speaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">autismspeaks.org</span><span class="citation-popover-title">Autism Speaks Do vaccines cause autism?</span><span class="citation-popover-snippet">Autism Speaks Do vaccines cause autism?</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/autism/about/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Open source on cdc.gov.</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-overview.webp" | relative_url }}" alt="Overview image for Vaccines" loading="eager" decoding="sync" fetchpriority="high">
-As a [correction]({{ 'correction/' | relative_url }}) case study, the MMR-autism myth teaches three linked lessons. First, a correction should explain the original source and why it failed. Second, it should show what later, stronger evidence found. Third, it should replace the misleading story of “after this, therefore because of this” with a clearer explanation of [timing]({{ 'timing/' | relative_url }}), diagnosis and developmental observation. Without those pieces, the myth can survive as a personal story even after the headline claim has been debunked.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8lCqecbR4UI" title="UK autism-vaccine study was &#x27;fraud&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8lCqecbR4UI" target="_blank" rel="noopener noreferrer">UK autism-vaccine study was &#x27;fraud&#x27;</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8lCqecbR4UI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8lCqecbR4UI">Open on YouTube</a></p></div></div></div>
+As a [correction]({{ 'correction/' | relative_url }}) case study, the MMR-autism myth teaches three linked lessons. First, a correction should explain the original source and why it failed. Second, it should show what later, stronger evidence found. Third, it should replace the misleading story of after this, therefore because of this with a clearer explanation of [timing]({{ 'timing/' | relative_url }}), diagnosis and developmental observation. Without those pieces, the myth can survive as a personal story even after the headline claim has been debunked.
 
 ## The discredited origin
 
@@ -512,58 +508,48 @@ The public impact came not only from the paper but from the way the claim was am
 
 The paper later collapsed under scientific, ethical and investigative scrutiny. *The Lancet* fully retracted it in 2010 after the UK General Medical Council found serious misconduct connected with the research. Reporting and analysis in *The BMJ* then described how the appearance of a link had been manufactured, including problems with case histories and undisclosed conflicts of interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/342/bmj.c5347" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Open source on bmj.com.</span></span></span>
 
-This matters for [debunking]({{ 'debunking/' | relative_url }}) because “the study was retracted” is too compressed to be satisfying. A careful correction explains the kind of evidence the original paper was, why that kind of evidence could not prove causation, and why later scrutiny made it unreliable as a foundation for public health decisions. The correction is not simply “one bad paper was wrong”; it is “a weak, small and later discredited origin story was overtaken by much stronger evidence”.
-
+This matters for [debunking]({{ 'debunking/' | relative_url }}) because the study was retracted is too compressed to be satisfying. A careful correction explains the kind of evidence the original paper was, why that kind of evidence could not prove causation, and why later scrutiny made it unreliable as a foundation for public health decisions. The correction is not simply one bad paper was wrong; it is a weak, small and later discredited origin story was overtaken by much stronger evidence.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-1-dark.svg" | relative_url }}" alt="Vaccines illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Timing and mistaken causation
 
-The myth’s emotional power comes from timing. In the UK, children receive protection against measles, mumps and rubella in early childhood; current NHS and UK government information places the first routine dose at about 12 months, with a second dose later in early childhood depending on the schedule and cohort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/vaccinations/mmr-vaccine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-title">MM R (measles, mumps and rubella) vaccine</span><span class="citation-popover-snippet">MM R (measles, mumps and rubella) vaccine</span></span></span> Autism signs, meanwhile, often become clearer in the same early years. The CDC describes autism spectrum disorder as beginning before age three, with some children showing signs in the first 12 months and others showing symptoms later, including possible loss of skills around 18 to 24 months. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/autism/diagnosis/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Open source on cdc.gov.</span></span></span>
+The myths emotional power comes from timing. In the UK, children receive protection against measles, mumps and rubella in early childhood; current NHS and UK government information places the first routine dose at about 12 months, with a second dose later in early childhood depending on the schedule and cohort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/vaccinations/mmr-vaccine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-title">MM R (measles, mumps and rubella) vaccine</span><span class="citation-popover-snippet">MM R (measles, mumps and rubella) vaccine</span></span></span> Autism signs, meanwhile, often become clearer in the same early years. The CDC describes autism spectrum disorder as beginning before age three, with some children showing signs in the first 12 months and others showing symptoms later, including possible loss of skills around 18 to 24 months. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/autism/diagnosis/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Open source on cdc.gov.</span></span></span>
 
 That overlap creates a classic misconception trap. A parent may remember a child receiving a vaccine and later noticing changes in speech, eye contact, play or social response. The sequence is real in [memory]({{ 'memory/' | relative_url }}): vaccination happened, then concern sharpened. But a sequence is not the same as a cause. Many developmental differences become easier to see when children are expected to use more language, social attention and flexible behaviour. The timing can make a vaccine feel like the turning point even when autism was emerging along its own developmental path.
 
-This is why simply saying “correlation is not causation” is often ineffective. It can sound dismissive, especially to parents who are describing a sincere and frightening experience. A better correction acknowledges the observation first: yes, the timing can coincide; yes, regression or clearer signs can be noticed in toddlerhood; yes, parents are often the first people to notice something important. Then it separates observation from explanation: large studies can compare vaccinated and unvaccinated or differently timed groups to see whether autism is actually more common after vaccination. Those studies do not support the causal claim.
+This is why simply saying correlation is not causation is often ineffective. It can sound dismissive, especially to parents who are describing a sincere and frightening experience. A better correction acknowledges the observation first: yes, the timing can coincide; yes, regression or clearer signs can be noticed in toddlerhood; yes, parents are often the first people to notice something important. Then it separates observation from explanation: large studies can compare vaccinated and unvaccinated or differently timed groups to see whether autism is actually more common after vaccination. Those studies do not support the causal claim.
 
-Researchers have tested the timing hypothesis directly. A 2001 study using a self-controlled case-series design found no support for the idea that MMR or measles-containing vaccines caused autism at any time after vaccination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X01000974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Later research into regression and autism also failed to find evidence that onset or regression was related to MMR vaccination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bu.edu/autism/files/2010/03/2006-Richler-et-al-MMR-Vaccine1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-title">Boston University Is There a &#x27;Regressive Phenotype&#x27; of Autism Spectrum</span><span class="citation-popover-snippet">Boston University Is There a &#x27;Regressive Phenotype&#x27; of Autism Spectrum</span></span></span> These studies are important for correction because they address the myth at its strongest point: not just “do vaccinated children have more autism?”, but “does autism begin or regress in a suspicious window after MMR?”
+Researchers have tested the timing hypothesis directly. A 2001 study using a self-controlled case-series design found no support for the idea that MMR or measles-containing vaccines caused autism at any time after vaccination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X01000974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Later research into regression and autism also failed to find evidence that onset or regression was related to MMR vaccination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bu.edu/autism/files/2010/03/2006-Richler-et-al-MMR-Vaccine1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-title">Boston University Is There a &#x27;Regressive Phenotype&#x27; of Autism Spectrum</span><span class="citation-popover-snippet">Boston University Is There a &#x27;Regressive Phenotype&#x27; of Autism Spectrum</span></span></span> These studies are important for correction because they address the myth at its strongest point: not just do vaccinated children have more autism?, but does autism begin or regress in a suspicious window after MMR?
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/koWCSUX1uFg" title="📢 Does the MMR Vaccine Cause Autism? Let’s Talk Science." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=koWCSUX1uFg" target="_blank" rel="noopener noreferrer">📢 Does the MMR Vaccine Cause Autism? Let’s Talk Science.</a></p><p class="youtube-embed-meta">Channel: The Whole Human Health and Wellbeing</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=koWCSUX1uFg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=koWCSUX1uFg">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-2-dark.svg" | relative_url }}" alt="Vaccines illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later evidence changed the scale of the question
 
 The evidence that followed the [Wakefield paper]({{ 'wakefield-paper/' | relative_url }}) was not a matter of one expert opinion replacing another. It changed the scale of the question from 12 selected children to hundreds of thousands and, across reviews, millions of children. A major Danish nationwide cohort study published in 2019 followed 657,461 children born between 1999 and 2010 and found that MMR vaccination did not increase autism risk, did not trigger autism in susceptible children and was not associated with clustering of autism cases after vaccination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acpjournals.org/doi/10.7326/M18-2101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acpjournals.org">[ACP Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acpjournals.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A 2014 meta-analysis in *Vaccine* reviewed case-control and cohort studies and found that vaccinations were not associated with autism or autism spectrum disorder; it also found no association for MMR, thimerosal or mercury exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30831578/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Cochrane’s review of measles, mumps, rubella and varicella vaccines likewise reported that MMR, MMRV and MMR plus varicella vaccines were not associated with increased autism risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cochrane.org/about-us/news/cochrane-review-confirms-effectiveness-mmr-vaccines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">review confirms effectiveness mmr vaccines</span><span class="citation-popover-snippet">review confirms effectiveness mmr vaccines</span></span></span>
+A 2014 meta-analysis in *Vaccine* reviewed case-control and cohort studies and found that vaccinations were not associated with autism or autism spectrum disorder; it also found no association for MMR, thimerosal or mercury exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30831578/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Cochranes review of measles, mumps, rubella and varicella vaccines likewise reported that MMR, MMRV and MMR plus varicella vaccines were not associated with increased autism risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cochrane.org/about-us/news/cochrane-review-confirms-effectiveness-mmr-vaccines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">review confirms effectiveness mmr vaccines</span><span class="citation-popover-snippet">review confirms effectiveness mmr vaccines</span></span></span>
 
-The World Health Organization’s Global Advisory Committee on Vaccine Safety reviewed newer evidence in 2025, including studies published from 2010 to August 2025, and reaffirmed that available evidence does not support a causal link between vaccines and autism spectrum disorder. The committee also addressed recurring claims about vaccine components, including thiomersal and aluminium adjuvants, and concluded that vaccines, including those with those components, do not cause autism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The World Health Organizations Global Advisory Committee on Vaccine Safety reviewed newer evidence in 2025, including studies published from 2010 to August 2025, and reaffirmed that available evidence does not support a causal link between vaccines and autism spectrum disorder. The committee also addressed recurring claims about vaccine components, including thiomersal and aluminium adjuvants, and concluded that vaccines, including those with those components, do not cause autism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-For debunkers, the key point is not to overwhelm readers with study names. It is to explain the direction and quality of the evidence. The original claim rested on a tiny, flawed and later retracted case series. The later evidence includes large population studies, systematic reviews and repeated expert safety reviews. That contrast helps readers understand why “there are studies on both sides” is not an accurate summary.
+For debunkers, the key point is not to overwhelm readers with study names. It is to explain the direction and quality of the evidence. The original claim rested on a tiny, flawed and later retracted case series. The later evidence includes large population studies, systematic reviews and repeated expert safety reviews. That contrast helps readers understand why there are studies on both sides is not an accurate summary.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-2-dark.svg" | relative_url }}" alt="Vaccines illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-3-dark.svg" | relative_url }}" alt="Vaccines illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How careful corrections help
 
-A good correction of the vaccine-autism myth has to do three things at once: protect factual accuracy, respect parental concern and avoid leaving a blank space where the myth used to be. The most useful correction is therefore not a slogan but a short [replacement story]({{ 'better-story-524703/' | relative_url }}): autism is a developmental condition whose signs often become more visible in early childhood; routine vaccination also happens in early childhood; that timing can create a powerful mistaken impression; large studies do not show that vaccines cause autism.
+A good correction of the vaccine-autism myth has to do three things at once: protect factual accuracy, respect parental concern and avoid leaving a blank space where the myth used to be. The most useful correction is therefore not a slogan but a short replacement story: autism is a developmental condition whose signs often become more visible in early childhood; routine vaccination also happens in early childhood; that timing can create a powerful mistaken impression; large studies do not show that vaccines cause autism.
 
-This approach avoids two common failure modes. The first is the “fact dump”, where a correction lists studies but never explains why the original belief felt plausible. The second is the “myth sandwich” done badly, where the false claim is repeated so often that it becomes the memorable part. A stronger version names the myth briefly, explains the origin and timing confusion, and then spends most of the space on the better explanation.
+This approach avoids two common failure modes. The first is the fact dump, where a correction lists studies but never explains why the original belief felt plausible. The second is the myth sandwich done badly, where the false claim is repeated so often that it becomes the memorable part. A stronger version names the myth briefly, explains the origin and timing confusion, and then spends most of the space on the better explanation.
 
-The MMR case also shows why [corrections]({{ 'corrections/' | relative_url }}) should be specific about what was tested. Many people shift from “MMR causes autism” to “maybe thimerosal causes autism” or “maybe too many vaccines cause autism”. But MMR vaccines did not contain thimerosal, and broader reviews have examined vaccines and vaccine components without finding a causal link to autism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/vaccine-safety/about/thimerosal.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Open source on cdc.gov.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X01000974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span> Addressing those shifts matters because a myth can survive by changing its wording while keeping the same emotional conclusion.
+The [MMR case]({{ 'mmr-case/' | relative_url }}) also shows why [corrections]({{ 'corrections/' | relative_url }}) should be specific about what was tested. Many people shift from MMR causes autism to maybe thimerosal causes autism or maybe too many vaccines cause autism. But MMR vaccines did not contain thimerosal, and broader reviews have examined vaccines and vaccine components without finding a causal link to autism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/vaccine-safety/about/thimerosal.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Open source on cdc.gov.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X01000974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span> Addressing those shifts matters because a myth can survive by changing its wording while keeping the same emotional conclusion.
 
 The most respectful correction also avoids using autistic people as proof of harm. False vaccine-autism claims can imply that autism is a catastrophe to be blamed on someone, rather than a developmental disability for which people and families deserve support, services and accurate information. The American Academy of Pediatrics has warned that misinformation about autistic children and false vaccine links can harm both public health and autistic people and their families. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.healthychildren.org/english/safety-prevention/immunizations/pages/vaccine-studies-examine-the-evidence.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthychildren.org">[HealthyChildren.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthychildren.org</span><span class="citation-popover-title">vaccine studies examine the evidence.aspx</span><span class="citation-popover-snippet">vaccine studies examine the evidence.aspx</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_gkotivG2Iw" title="Vaccines and Autism: Debunking the Myths with Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_gkotivG2Iw" target="_blank" rel="noopener noreferrer">Vaccines and Autism: Debunking the Myths with Science</a></p><p class="youtube-embed-meta">Channel: Latest Stories from People</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_gkotivG2Iw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_gkotivG2Iw">Open on YouTube</a></p></div></div></div>
 
 ## What this case teaches about myths and misconceptions
 
 The vaccine-autism claim endured because it joined three forces: a dramatic published origin, emotionally compelling parent narratives and a real developmental timing overlap. That combination made the myth feel more personal than an abstract scientific claim. A correction that ignores any one of those forces is weaker than it needs to be.
 
-The case also shows why retractions are necessary but not sufficient. *The Lancet* retraction and the GMC findings removed the original paper’s credibility, but they did not automatically erase the story from public memory. Once a myth becomes a social explanation, it can continue through anecdotes, campaign groups, celebrity endorsement, social media and mistrust of institutions. Research on the Wakefield paper’s public effects has linked its publication and subsequent media coverage with increased vaccine scepticism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0256395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case also shows why retractions are necessary but not sufficient. *The Lancet* retraction and the GMC findings removed the original papers credibility, but they did not automatically erase the story from public memory. Once a myth becomes a social explanation, it can continue through anecdotes, campaign groups, celebrity endorsement, social media and mistrust of institutions. Research on the Wakefield papers public effects has linked its publication and subsequent media coverage with increased vaccine scepticism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0256395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The practical lesson for debunkers is to correct the whole causal story, not just the headline. In this case, that means saying: the original MMR-autism claim came from a small and discredited paper; later large studies and reviews do not support a link; the apparent timing is understandable because autism signs often become clearer in the same early years when vaccines are scheduled; and protecting children against measles, mumps and rubella remains a public health goal because those infections can cause serious harm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acpjournals.org/doi/10.7326/M18-2101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acpjournals.org">[ACP Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acpjournals.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochranelibrary.com">[Cochrane Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochranelibrary.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-3-dark.svg" | relative_url }}" alt="Vaccines illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -682,11 +668,11 @@ The practical lesson for debunkers is to correct the whole causal story, not jus
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Phonetic Alphabet Poster â€“ Tactical Survival Communication Chart"><img src="{{ '/assets/images/marketplace-covers/75e30d286484f400ab90.jpg' | relative_url }}" alt="Listing image for Military Phonetic Alphabet Poster â€“ Tactical Survival Communication Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Phonetic Alphabet Poster – Tactical Survival Communication Chart"><img src="{{ '/assets/images/marketplace-covers/75e30d286484f400ab90.jpg' | relative_url }}" alt="Listing image for Military Phonetic Alphabet Poster – Tactical Survival Communication Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer">Military Phonetic Alphabet Poster â€“ Tactical Survival Communication Chart</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer">Military Phonetic Alphabet Poster – Tactical Survival Communication Chart</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science communication poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science communication poster</a>
         <div class="fr-book-actions">
@@ -929,211 +915,211 @@ The practical lesson for debunkers is to correct the whole causal story, not jus
 
 1. <a id="endnote-1"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/autism/about/index.html](https://www.cdc.gov/autism/about/index.html)  
+   Link: <a href="https://www.cdc.gov/autism/about/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/autism/about/index.html</a>  
 
 2. <a id="endnote-2"></a>
    Source: who.int  
-   Link: [https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism](https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism)  
+   Link: <a href="https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism</a>  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/</a>  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/</a>  
 
 5. <a id="endnote-5"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/342/bmj.c5347](https://www.bmj.com/content/342/bmj.c5347)  
+   Link: <a href="https://www.bmj.com/content/342/bmj.c5347" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/342/bmj.c5347</a>  
 
 6. <a id="endnote-6"></a>
    Source: nhs.uk  
    Title: MM R (measles, mumps and rubella) vaccine  
-   Link: [https://www.nhs.uk/vaccinations/mmr-vaccine/](https://www.nhs.uk/vaccinations/mmr-vaccine/)  
+   Link: <a href="https://www.nhs.uk/vaccinations/mmr-vaccine/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/mmr-vaccine/</a>  
 
 7. <a id="endnote-7"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/autism/diagnosis/index.html](https://www.cdc.gov/autism/diagnosis/index.html)  
+   Link: <a href="https://www.cdc.gov/autism/diagnosis/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/autism/diagnosis/index.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0264410X01000974](https://www.sciencedirect.com/science/article/abs/pii/S0264410X01000974)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X01000974" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X01000974</a>  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0264410X14006367](https://www.sciencedirect.com/science/article/abs/pii/S0264410X14006367)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X14006367" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X14006367</a>  
 
 10. <a id="endnote-10"></a>
    Source: cochrane.org  
    Title: review confirms effectiveness mmr vaccines  
-   Link: [https://www.cochrane.org/about-us/news/cochrane-review-confirms-effectiveness-mmr-vaccines](https://www.cochrane.org/about-us/news/cochrane-review-confirms-effectiveness-mmr-vaccines)  
+   Link: <a href="https://www.cochrane.org/about-us/news/cochrane-review-confirms-effectiveness-mmr-vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/news/cochrane-review-confirms-effectiveness-mmr-vaccines</a>  
 
 11. <a id="endnote-11"></a>
    Source: cdn.who.int  
-   Link: [https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&sfvrsn=daab5374_1](https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&sfvrsn=daab5374_1)  
+   Link: <a href="https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1</a>  
 
 12. <a id="endnote-12"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/vaccine-safety/about/thimerosal.html](https://www.cdc.gov/vaccine-safety/about/thimerosal.html)  
+   Link: <a href="https://www.cdc.gov/vaccine-safety/about/thimerosal.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/about/thimerosal.html</a>  
 
 13. <a id="endnote-13"></a>
    Source: healthychildren.org  
    Title: vaccine studies examine the evidence.aspx  
-   Link: [https://www.healthychildren.org/english/safety-prevention/immunizations/pages/vaccine-studies-examine-the-evidence.aspx](https://www.healthychildren.org/english/safety-prevention/immunizations/pages/vaccine-studies-examine-the-evidence.aspx)  
+   Link: <a href="https://www.healthychildren.org/english/safety-prevention/immunizations/pages/vaccine-studies-examine-the-evidence.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.healthychildren.org/english/safety-prevention/immunizations/pages/vaccine-studies-examine-the-evidence.aspx</a>  
 
 14. <a id="endnote-14"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0256395](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0256395)  
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0256395" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0256395</a>  
 
 15. <a id="endnote-15"></a>
    Source: bmj.com  
    Title: rapid responses  
-   Link: [https://www.bmj.com/content/342/bmj.c7452/rapid-responses](https://www.bmj.com/content/342/bmj.c7452/rapid-responses)  
+   Link: <a href="https://www.bmj.com/content/342/bmj.c7452/rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/342/bmj.c7452/rapid-responses</a>  
 
 16. <a id="endnote-16"></a>
    Source: bmj.com  
    Title: section pdf  
-   Link: [https://www.bmj.com/bmj/section-pdf/186183?path=%2Fbmj%2F342%2F7788%2FFeature.full.pdf](https://www.bmj.com/bmj/section-pdf/186183?path=%2Fbmj%2F342%2F7788%2FFeature.full.pdf)  
+   Link: <a href="https://www.bmj.com/bmj/section-pdf/186183?path=%2Fbmj%2F342%2F7788%2FFeature.full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/bmj/section-pdf/186183?path=%2Fbmj%2F342%2F7788%2FFeature.full.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/340/bmj.c2803](https://www.bmj.com/content/340/bmj.c2803)  
+   Link: <a href="https://www.bmj.com/content/340/bmj.c2803" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/340/bmj.c2803</a>  
 
 18. <a id="endnote-18"></a>
    Source: bmj.com  
    Title: mmr and conflicts interest  
-   Link: [https://www.bmj.com/rapid-response/2011/10/30/mmr-and-conflicts-interest](https://www.bmj.com/rapid-response/2011/10/30/mmr-and-conflicts-interest)  
+   Link: <a href="https://www.bmj.com/rapid-response/2011/10/30/mmr-and-conflicts-interest" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/rapid-response/2011/10/30/mmr-and-conflicts-interest</a>  
 
 19. <a id="endnote-19"></a>
    Source: iris.who.int  
-   Link: [https://iris.who.int/server/api/core/bitstreams/1d93815d-e311-43b7-9188-b996f0b079b3/content](https://iris.who.int/server/api/core/bitstreams/1d93815d-e311-43b7-9188-b996f0b079b3/content)  
+   Link: <a href="https://iris.who.int/server/api/core/bitstreams/1d93815d-e311-43b7-9188-b996f0b079b3/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/1d93815d-e311-43b7-9188-b996f0b079b3/content</a>  
 
 20. <a id="endnote-20"></a>
    Source: who.int  
    Title: Pharmacovigilance WHO  
-   Link: [https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance](https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance)  
+   Link: <a href="https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance</a>  
 
 21. <a id="endnote-21"></a>
    Source: cdn.who.int  
    Title: who rpq annualreport2025  
-   Link: [https://cdn.who.int/media/docs/default-source/medicines/regulatory-updates/rpq/who_rpq_annualreport2025.pdf?download=true&sfvrsn=afe3907_3](https://cdn.who.int/media/docs/default-source/medicines/regulatory-updates/rpq/who_rpq_annualreport2025.pdf?download=true&sfvrsn=afe3907_3)  
+   Link: <a href="https://cdn.who.int/media/docs/default-source/medicines/regulatory-updates/rpq/who_rpq_annualreport2025.pdf?download=true&amp;sfvrsn=afe3907_3" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/medicines/regulatory-updates/rpq/who_rpq_annualreport2025.pdf?download=true&amp;sfvrsn=afe3907_3</a>  
 
 22. <a id="endnote-22"></a>
    Source: apps.who.int  
-   Link: [https://apps.who.int/gb/ebwha/pdf_files/wha67-rec1/a67_2014_rec1-en.pdf](https://apps.who.int/gb/ebwha/pdf_files/wha67-rec1/a67_2014_rec1-en.pdf)  
+   Link: <a href="https://apps.who.int/gb/ebwha/pdf_files/wha67-rec1/a67_2014_rec1-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://apps.who.int/gb/ebwha/pdf_files/wha67-rec1/a67_2014_rec1-en.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0167629619302450](https://www.sciencedirect.com/science/article/abs/pii/S0167629619302450)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167629619302450" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167629619302450</a>  
 
 24. <a id="endnote-24"></a>
    Source: cc4c.imperial.nhs.uk  
-   Link: [https://www.cc4c.imperial.nhs.uk/-/media/cc4c/documents/mmr-questions-answered.pdf?hash=C15AB62CDC69D6399C643FC8ED927F07&rev=8e05618c739a4e749a09ec98bd3314fc](https://www.cc4c.imperial.nhs.uk/-/media/cc4c/documents/mmr-questions-answered.pdf?hash=C15AB62CDC69D6399C643FC8ED927F07&rev=8e05618c739a4e749a09ec98bd3314fc)  
+   Link: <a href="https://www.cc4c.imperial.nhs.uk/-/media/cc4c/documents/mmr-questions-answered.pdf?hash=C15AB62CDC69D6399C643FC8ED927F07&amp;rev=8e05618c739a4e749a09ec98bd3314fc" target="_blank" rel="noopener noreferrer nofollow">https://www.cc4c.imperial.nhs.uk/-/media/cc4c/documents/mmr-questions-answered.pdf?hash=C15AB62CDC69D6399C643FC8ED927F07&amp;rev=8e05618c739a4e749a09ec98bd3314fc</a>  
 
 25. <a id="endnote-25"></a>
    Source: archive.cdc.gov  
-   Link: [https://archive.cdc.gov/www_cdc_gov/vaccinesafety/concerns/thimerosal/timeline.html](https://archive.cdc.gov/www_cdc_gov/vaccinesafety/concerns/thimerosal/timeline.html)  
+   Link: <a href="https://archive.cdc.gov/www_cdc_gov/vaccinesafety/concerns/thimerosal/timeline.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.cdc.gov/www_cdc_gov/vaccinesafety/concerns/thimerosal/timeline.html</a>  
 
 26. <a id="endnote-26"></a>
    Source: england.nhs.uk  
    Title: 20240201 MMR SW Eligibilty Schedule Guide for HCP v.1.0  
-   Link: [https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/02/20240201-MMR-SW-Eligibilty_Schedule-Guide-for-HCP-v.1.0.pdf](https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/02/20240201-MMR-SW-Eligibilty_Schedule-Guide-for-HCP-v.1.0.pdf)  
+   Link: <a href="https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/02/20240201-MMR-SW-Eligibilty_Schedule-Guide-for-HCP-v.1.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/02/20240201-MMR-SW-Eligibilty_Schedule-Guide-for-HCP-v.1.0.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/](https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/)  
+   Link: <a href="https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/</a>  
 
 28. <a id="endnote-28"></a>
    Source: autismspeaks.org  
    Title: Autism Speaks Do vaccines cause autism?  
-   Link: [https://www.autismspeaks.org/do-vaccines-cause-autism](https://www.autismspeaks.org/do-vaccines-cause-autism)  
+   Link: <a href="https://www.autismspeaks.org/do-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.autismspeaks.org/do-vaccines-cause-autism</a>  
 
 29. <a id="endnote-29"></a>
    Source: bu.edu  
    Title: Boston University Is There a 'Regressive Phenotype' of Autism Spectrum  
-   Link: [https://www.bu.edu/autism/files/2010/03/2006-Richler-et-al-MMR-Vaccine1.pdf](https://www.bu.edu/autism/files/2010/03/2006-Richler-et-al-MMR-Vaccine1.pdf)  
+   Link: <a href="https://www.bu.edu/autism/files/2010/03/2006-Richler-et-al-MMR-Vaccine1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/autism/files/2010/03/2006-Richler-et-al-MMR-Vaccine1.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: acpjournals.org  
-   Link: [https://www.acpjournals.org/doi/10.7326/M18-2101](https://www.acpjournals.org/doi/10.7326/M18-2101)  
+   Link: <a href="https://www.acpjournals.org/doi/10.7326/M18-2101" target="_blank" rel="noopener noreferrer nofollow">https://www.acpjournals.org/doi/10.7326/M18-2101</a>  
 
 31. <a id="endnote-31"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/30831578/](https://pubmed.ncbi.nlm.nih.gov/30831578/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30831578/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30831578/</a>  
 
 32. <a id="endnote-32"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/24814559/](https://pubmed.ncbi.nlm.nih.gov/24814559/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24814559/</a>  
 
 33. <a id="endnote-33"></a>
    Source: cochranelibrary.com  
-   Link: [https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full)  
+   Link: <a href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full" target="_blank" rel="noopener noreferrer nofollow">https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full</a>  
 
 34. <a id="endnote-34"></a>
    Source: autismspeaks.org  
-   Link: [https://www.autismspeaks.org/signs-autism](https://www.autismspeaks.org/signs-autism)  
+   Link: <a href="https://www.autismspeaks.org/signs-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.autismspeaks.org/signs-autism</a>  
 
 35. <a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Andrew Wakefield  
-   Link: [https://en.wikipedia.org/wiki/Andrew_Wakefield](https://en.wikipedia.org/wiki/Andrew_Wakefield)  
+   Link: <a href="https://en.wikipedia.org/wiki/Andrew_Wakefield" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Andrew_Wakefield</a>  
 
 36. <a id="endnote-36"></a>
    Source: cdphe.colorado.gov  
    Title: vaccines and autism  
-   Link: [https://cdphe.colorado.gov/immunization/vaccines-and-autism](https://cdphe.colorado.gov/immunization/vaccines-and-autism)  
+   Link: <a href="https://cdphe.colorado.gov/immunization/vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow">https://cdphe.colorado.gov/immunization/vaccines-and-autism</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cochranecollab/posts/cochrane-review-confirms-effectiveness-of-mmr-vaccines-new-evidence-published-in/10158232725604153/](https://www.facebook.com/cochranecollab/posts/cochrane-review-confirms-effectiveness-of-mmr-vaccines-new-evidence-published-in/10158232725604153/)  
+   Link: <a href="https://www.facebook.com/cochranecollab/posts/cochrane-review-confirms-effectiveness-of-mmr-vaccines-new-evidence-published-in/10158232725604153/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cochranecollab/posts/cochrane-review-confirms-effectiveness-of-mmr-vaccines-new-evidence-published-in/10158232725604153/</a>  
 
 38. <a id="endnote-38"></a>
    Source: chop.edu  
-   Link: [https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/autism](https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/autism)  
+   Link: <a href="https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/autism" target="_blank" rel="noopener noreferrer nofollow">https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/autism</a>  
 
 39. <a id="endnote-39"></a>
    Source: restoredcdc.org  
-   Link: [https://www.restoredcdc.org/www.cdc.gov/vaccine-safety/about/autism.html](https://www.restoredcdc.org/www.cdc.gov/vaccine-safety/about/autism.html)  
+   Link: <a href="https://www.restoredcdc.org/www.cdc.gov/vaccine-safety/about/autism.html" target="_blank" rel="noopener noreferrer nofollow">https://www.restoredcdc.org/www.cdc.gov/vaccine-safety/about/autism.html</a>  
 
 ### Additional References
 
 40. <a id="endnote-40"></a>
    Source: asatonline.org  
-   Link: [https://asatonline.org/for-parents/becoming-a-savvy-consumer/learn-the-signs-act-early/](https://asatonline.org/for-parents/becoming-a-savvy-consumer/learn-the-signs-act-early/)  
+   Link: <a href="https://asatonline.org/for-parents/becoming-a-savvy-consumer/learn-the-signs-act-early/" target="_blank" rel="noopener noreferrer nofollow">https://asatonline.org/for-parents/becoming-a-savvy-consumer/learn-the-signs-act-early/</a>  
 
 41. <a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/262231006_Vaccines_are_not_associated_with_autism_An_evidence-based_meta-analysis_of_case-control_and_cohort_studies](https://www.researchgate.net/publication/262231006_Vaccines_are_not_associated_with_autism_An_evidence-based_meta-analysis_of_case-control_and_cohort_studies)  
+   Link: <a href="https://www.researchgate.net/publication/262231006_Vaccines_are_not_associated_with_autism_An_evidence-based_meta-analysis_of_case-control_and_cohort_studies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/262231006_Vaccines_are_not_associated_with_autism_An_evidence-based_meta-analysis_of_case-control_and_cohort_studies</a>  
 
 42. <a id="endnote-42"></a>
    Source: briandeer.com  
-   Link: [https://briandeer.com/mmr/lancet-summary.htm](https://briandeer.com/mmr/lancet-summary.htm)  
+   Link: <a href="https://briandeer.com/mmr/lancet-summary.htm" target="_blank" rel="noopener noreferrer nofollow">https://briandeer.com/mmr/lancet-summary.htm</a>  
 
 43. <a id="endnote-43"></a>
    Source: autismsciencefoundation.org  
-   Link: [https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/](https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/)  
+   Link: <a href="https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/" target="_blank" rel="noopener noreferrer nofollow">https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/</a>  
 
 44. <a id="endnote-44"></a>
    Source: harbornemedical.co.uk  
-   Link: [https://harbornemedical.co.uk/health-and-wellbeing-at-harborne-medical/children-and-young-people/childhood-immunisations](https://harbornemedical.co.uk/health-and-wellbeing-at-harborne-medical/children-and-young-people/childhood-immunisations)  
+   Link: <a href="https://harbornemedical.co.uk/health-and-wellbeing-at-harborne-medical/children-and-young-people/childhood-immunisations" target="_blank" rel="noopener noreferrer nofollow">https://harbornemedical.co.uk/health-and-wellbeing-at-harborne-medical/children-and-young-people/childhood-immunisations</a>  
 
 45. <a id="endnote-45"></a>
    Source: hcplive.com  
-   Link: [https://www.hcplive.com/view/autism_doctor](https://www.hcplive.com/view/autism_doctor)  
+   Link: <a href="https://www.hcplive.com/view/autism_doctor" target="_blank" rel="noopener noreferrer nofollow">https://www.hcplive.com/view/autism_doctor</a>  
 
 46. <a id="endnote-46"></a>
    Source: vaccinesafety.edu  
-   Link: [https://www.vaccinesafety.edu/do-vaccines-cause-autism/](https://www.vaccinesafety.edu/do-vaccines-cause-autism/)  
+   Link: <a href="https://www.vaccinesafety.edu/do-vaccines-cause-autism/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaccinesafety.edu/do-vaccines-cause-autism/</a>  
 
 47. <a id="endnote-47"></a>
    Source: dr2kids.com  
-   Link: [https://www.dr2kids.com/blog/does-an-early-diagnosis-of-autism-improve-symptoms](https://www.dr2kids.com/blog/does-an-early-diagnosis-of-autism-improve-symptoms)  
+   Link: <a href="https://www.dr2kids.com/blog/does-an-early-diagnosis-of-autism-improve-symptoms" target="_blank" rel="noopener noreferrer nofollow">https://www.dr2kids.com/blog/does-an-early-diagnosis-of-autism-improve-symptoms</a>  
 
 48. <a id="endnote-48"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/49731521_How_the_case_against_the_MMR_vaccine_was_fixed](https://www.researchgate.net/publication/49731521_How_the_case_against_the_MMR_vaccine_was_fixed)  
+   Link: <a href="https://www.researchgate.net/publication/49731521_How_the_case_against_the_MMR_vaccine_was_fixed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49731521_How_the_case_against_the_MMR_vaccine_was_fixed</a>  
 
 49. <a id="endnote-49"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Nemours/posts/autismawarenessmonth-did-you-know-there-is-no-connection-between-vaccines-and-au/10159355126311092/](https://www.facebook.com/Nemours/posts/autismawarenessmonth-did-you-know-there-is-no-connection-between-vaccines-and-au/10159355126311092/)  
+   Link: <a href="https://www.facebook.com/Nemours/posts/autismawarenessmonth-did-you-know-there-is-no-connection-between-vaccines-and-au/10159355126311092/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nemours/posts/autismawarenessmonth-did-you-know-there-is-no-connection-between-vaccines-and-au/10159355126311092/</a>

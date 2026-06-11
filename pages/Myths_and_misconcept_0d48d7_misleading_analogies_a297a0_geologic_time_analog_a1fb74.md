@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_plumbing_blood_analo_e410b9
 - Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - analogies
 - geologic-time
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - analogies
 - geologic-time
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Compressing billions of years into a spatial diagram can lead learners to misjudge the timing of evolutionary events.
 hero_summary: Compressing billions of years into a spatial diagram can lead learners to misjudge the timing of evolutionary events.
 layout: default
 permalink: /geologic-time/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /analogies/
 nav_short_title: Geologic Time
 title: Why Spatial Metaphors Mislead About Geological Timelines
-title_full: Why Spatial Metaphors Mislead About Geological Timelines | Analogies
+title_full: Why Spatial Metaphors Mislead About Geological Timelines
 display_title_short: Geologic Time
 display_title: Geologic Time
 heading_title: Why Spatial Metaphors Mislead About Geological Timelines
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Helpful Analogies Teach the Wrong Lesson | Mythcraft
+parent_title: When Helpful Analogies Teach the Wrong Lesson
 parent_permalink: /analogies/
 parent_nav_short_title: Analogies
 parent_heading_title: When Helpful Analogies Teach the Wrong Lesson
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
@@ -236,7 +236,7 @@ sibling_links:
   title: Historical Metaphors | Analogies
   permalink: /historical-metaphors/
   short_title: Historical Metaphors
-  heading_title: How 19th Century Analogies Skewed Scientific Thinking
+  heading_title: How 19 th Century Analogies Skewed Scientific Thinking
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_plumbing_blood_analo_e410b9
   title: Plumbing Analogy | Analogies
   permalink: /plumbing-analogy/
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Clear Framing Prevents Misleading Analogies in Education
 up_link:
   basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
@@ -264,8 +264,8 @@ next_link:
   title: Historical Metaphors | Analogies
   permalink: /historical-metaphors/
   short_title: Historical Metaphors
-  heading_title: How 19th Century Analogies Skewed Scientific Thinking
-date: '2026-06-09 05:33:10 '
+  heading_title: How 19 th Century Analogies Skewed Scientific Thinking
+date: '2026-06-11 22:35:52 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-1.webp
@@ -274,18 +274,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_ge
 
 ## Introduction
 
-Spatial metaphors are among the most common tools used to explain geological time. Teachers, museums, textbooks, and science communicators often compress Earth’s 4.54-billion-year history into a football field, a calendar year, a road trip, or a long line marked with key events. These [analogies]({{ 'analogies/' | relative_url }}) can be powerful because they translate an almost unimaginable timescale into something visible and familiar. However, they also create a recurring misconception: learners may mistake a spatial representation for the actual structure of time and develop distorted ideas about when major evolutionary and geological events occurred. Research in geoscience education has repeatedly shown that understanding “deep time” is difficult, and that poorly designed spatial analogies can reinforce rather than reduce confusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">PMCby P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">PMCby P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span>
-
+Spatial metaphors are among the most common tools used to explain geological time. Teachers, museums, textbooks, and science communicators often compress Earth’s 4.54-billion-year history into a football field, a calendar year, a road trip, or a long line marked with key events. These [analogies]({{ 'analogies/' | relative_url }}) can be powerful because they translate an almost unimaginable timescale into something visible and familiar. However, they also create a recurring misconception: learners may mistake a spatial representation for the actual structure of time and develop distorted ideas about when major evolutionary and geological events occurred. Research in geoscience education has repeatedly shown that understanding “deep time” is difficult, and that poorly designed spatial analogies can reinforce rather than reduce confusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-1-dark.svg" | relative_url }}" alt="Geologic Time illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Spatial Compression Pitfalls
 
 The central problem is that geological time is not naturally experienced on human scales. To make it understandable, educators frequently convert time into distance. A billion years may become a kilometre of road, a metre of tape, or several months on a calendar. Although this helps communicate magnitude, it can also conceal crucial proportional relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-can-u-s-interstate-highway-15-be-used-as-a-metaphor-for-geologic-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geology.utah.gov">[Utah Geological Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geology.utah.gov</span><span class="citation-popover-title">Geological Survey Can U.S</span><span class="citation-popover-snippet">Interstate Highway 15 Be Used as a Metaphor for...3 Sept 2024 — One approach to getting a better grasp of the scale of geologic time is...</span></span></span>
 
-When billions of years are compressed into a short physical space, most of Earth's history occupies large regions of the model while many familiar events are squeezed into tiny segments at the end. Humans, dinosaurs, flowering plants, and even many major evolutionary transitions occurred relatively recently compared with the age of the Earth. On a true-to-scale timeline, these events may occupy only millimetres. Learners often struggle to interpret such compressed regions accurately and may mentally spread them out, creating false impressions about duration and sequence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">PMCby P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://serc.carleton.edu/files/serc/dodickorion-fin.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: serc.carleton.edu">[SERC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">serc.carleton.edu</span><span class="citation-popover-snippet">SERCBuilding an Understanding of Geological Time: A Cognitive...by J Dodick · Cited by 72 — Our event-based study focuses on the problem...</span></span></span>
+When billions of years are compressed into a short physical space, most of Earth's history occupies large regions of the model while many familiar events are squeezed into tiny segments at the end. Humans, dinosaurs, flowering plants, and even many major evolutionary transitions occurred relatively recently compared with the age of the Earth. On a true-to-scale timeline, these events may occupy only millimetres. Learners often struggle to interpret such compressed regions accurately and may mentally spread them out, creating false impressions about duration and sequence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://serc.carleton.edu/files/serc/dodickorion-fin.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: serc.carleton.edu">[SERC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">serc.carleton.edu</span><span class="citation-popover-snippet">Building an Understanding of Geological Time: A Cognitive...by J Dodick · Cited by 72 — Our event-based study focuses on the problem...</span></span></span>
 
 Another difficulty is that people naturally interpret space differently from time. Distance can be revisited, scanned, and compared simultaneously, whereas time unfolds sequentially. When a geological timeline is presented as a line or path, learners may focus on the visual spacing between labels rather than on the actual numerical intervals represented. This can lead to overestimating the importance or duration of some events and underestimating others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://semken.asu.edu/pubs/semken09_tatex.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semken.asu.edu">[semken.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semken.asu.edu</span><span class="citation-popover-snippet">used in formal and informal learning settings to teach about geologic time; nonetheless, their.Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rWp5ZpJAIAE" title="A Brief History of Geologic Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rWp5ZpJAIAE" target="_blank" rel="noopener noreferrer">A Brief History of Geologic Time</a></p><p class="youtube-embed-meta">Channel: PBS Eons &middot; Views: 4.7M &middot; Uploaded: November 2017 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rWp5ZpJAIAE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rWp5ZpJAIAE">Open on YouTube</a></p></div></div></div>
 
@@ -293,7 +291,7 @@ Another difficulty is that people naturally interpret space differently from tim
 
 ### Assuming Evolution Happened Gradually Across Equal Segments
 
-One frequent misconception is that evolutionary milestones are distributed relatively evenly across Earth's history. Spatial timelines often show a sequence of labelled events placed along a line, encouraging learners to perceive a steady progression toward modern life. In reality, long periods of relative stability are interrupted by episodes of rapid diversification, extinction, and environmental change. A visually uniform timeline can unintentionally imply a regular pace that did not exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://serc.carleton.edu/files/serc/dodickorion-fin.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: serc.carleton.edu">[SERC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">serc.carleton.edu</span><span class="citation-popover-snippet">SERCBuilding an Understanding of Geological Time: A Cognitive...by J Dodick · Cited by 72 — Our event-based study focuses on the problem...</span></span></span>
+One frequent misconception is that evolutionary milestones are distributed relatively evenly across Earth's history. Spatial timelines often show a sequence of labelled events placed along a line, encouraging learners to perceive a steady progression toward modern life. In reality, long periods of relative stability are interrupted by episodes of rapid diversification, extinction, and environmental change. A visually uniform timeline can unintentionally imply a regular pace that did not exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://serc.carleton.edu/files/serc/dodickorion-fin.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: serc.carleton.edu">[SERC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">serc.carleton.edu</span><span class="citation-popover-snippet">Building an Understanding of Geological Time: A Cognitive...by J Dodick · Cited by 72 — Our event-based study focuses on the problem...</span></span></span>
 
 ### Misplacing Humans in Geological History
 
@@ -303,7 +301,6 @@ Calendar and distance analogies are often used to show how recently humans appea
 
 A timeline may successfully communicate that Event A occurred before Event B while still failing to communicate how much time separated them. Students often remember the sequence correctly but misunderstand the scale. Research on geological-time learning has found that learners can identify ordering relationships yet remain unable to reason accurately about the immense intervals involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://semken.asu.edu/pubs/semken09_tatex.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semken.asu.edu">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semken.asu.edu</span><span class="citation-popover-snippet">used in formal and informal learning settings to teach about geologic time; nonetheless, their.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-2-dark.svg" | relative_url }}" alt="Geologic Time illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Treating Empty Space as “Nothing Happened”
 
@@ -311,32 +308,28 @@ Large stretches of geological history may contain few labels because educators c
 
 ## Why Deep Time Is Especially Vulnerable to Misleading Analogies
 
-Deep time differs from many scientific concepts because there is no direct human experience against which to calibrate it. People can imagine large buildings, long journeys, or extended lifetimes, but billions of years lie far beyond ordinary intuition. Educational researchers describe this as a scale problem: learners must reason about magnitudes that exceed familiar experience by many orders of magnitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">PMCby P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dr.lib.iastate.edu/bitstreams/fc73c9be-49cc-493b-87dd-fb6aae36fbb5/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dr.lib.iastate.edu">[2dr.lib.iastate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dr.lib.iastate.edu</span><span class="citation-popover-snippet">Less appreciated, however, is the...Read more...</span></span></span>
+Deep time differs from many scientific concepts because there is no direct human experience against which to calibrate it. People can imagine large buildings, long journeys, or extended lifetimes, but billions of years lie far beyond ordinary intuition. Educational researchers describe this as a scale problem: learners must reason about magnitudes that exceed familiar experience by many orders of magnitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dr.lib.iastate.edu/bitstreams/fc73c9be-49cc-493b-87dd-fb6aae36fbb5/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dr.lib.iastate.edu">[2dr.lib.iastate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dr.lib.iastate.edu</span><span class="citation-popover-snippet">Less appreciated, however, is the...Read more...</span></span></span>
 
-Because of this cognitive challenge, even accurate analogies can be overextended. Students may remember the metaphor itself more clearly than the quantitative relationships it was designed to illustrate. A road, ruler, staircase, or calendar becomes the mental model, and properties of the metaphor begin to replace properties of geological time. Researchers studying analogy-based instruction have identified this tendency as a recurring risk whenever learners transfer features from the familiar model that do not actually belong to the target concept. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">PMCby P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span>
+Because of this cognitive challenge, even accurate analogies can be overextended. Students may remember the metaphor itself more clearly than the quantitative relationships it was designed to illustrate. A road, ruler, staircase, or calendar becomes the mental model, and properties of the metaphor begin to replace properties of geological time. Researchers studying analogy-based instruction have identified this tendency as a recurring risk whenever learners transfer features from the familiar model that do not actually belong to the target concept. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span>
 
-The problem is not that spatial metaphors are inherently wrong. Rather, they encourage interpretations that educators may not intend. A visual device that successfully communicates one aspect of deep time can simultaneously create misconceptions about another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">PMCby P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span>
-
+The problem is not that spatial metaphors are inherently wrong. Rather, they encourage interpretations that educators may not intend. A visual device that successfully communicates one aspect of deep time can simultaneously create misconceptions about another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M8V_glRW1hA" title="Earth&#x27;s Entire History (Visualized On A Football Field)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M8V_glRW1hA" target="_blank" rel="noopener noreferrer">Earth&#x27;s Entire History (Visualized On A Football Field)</a></p><p class="youtube-embed-meta">Channel: NPR&#x27;s Skunk Bear &middot; Views: 959.0K &middot; Uploaded: November 2016 &middot; Length: 4 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M8V_glRW1hA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M8V_glRW1hA">Open on YouTube</a></p></div></div></div>
 
 ## Teaching Correct Temporal Scale
 
-Educational research suggests that the most effective approaches do not rely on a single metaphor. Instead, they use multiple representations that make scale relationships explicit and encourage comparison across different magnitudes. Learners benefit when timelines include numerical values, proportional distances, and opportunities to calculate intervals rather than merely observe them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">PMCby P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://serc.carleton.edu/files/serc/dodickorion-fin.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: serc.carleton.edu">[SERC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">serc.carleton.edu</span><span class="citation-popover-snippet">SERCBuilding an Understanding of Geological Time: A Cognitive...by J Dodick · Cited by 72 — Our event-based study focuses on the problem...</span></span></span>
+Educational research suggests that the most effective approaches do not rely on a single metaphor. Instead, they use multiple representations that make scale relationships explicit and encourage comparison across different magnitudes. Learners benefit when timelines include numerical values, proportional distances, and opportunities to calculate intervals rather than merely observe them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://serc.carleton.edu/files/serc/dodickorion-fin.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: serc.carleton.edu">[SERC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">serc.carleton.edu</span><span class="citation-popover-snippet">Building an Understanding of Geological Time: A Cognitive...by J Dodick · Cited by 72 — Our event-based study focuses on the problem...</span></span></span>
 
-Several studies have also found that carefully designed analogies can improve understanding when their limitations are discussed openly. Rather than presenting a timeline as a literal picture of history, educators can explain exactly what the analogy captures and what it leaves out. This helps prevent learners from transferring inappropriate assumptions from the spatial model to geological time itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">PMCby P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span>
+Several studies have also found that carefully designed analogies can improve understanding when their limitations are discussed openly. Rather than presenting a timeline as a literal picture of history, educators can explain exactly what the analogy captures and what it leaves out. This helps prevent learners from transferring inappropriate assumptions from the spatial model to geological time itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span>
 
-Modern deep-time visualisation projects increasingly focus on proportional reasoning rather than simple compression. Interactive displays allow users to zoom between scales, revealing how apparently tiny segments can contain hundreds of millions of years. Such approaches aim to preserve the usefulness of spatial representation while reducing the distortions caused by extreme compression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.01488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDeLVE into Earth&#x27;s Past: A Visualization-Based Exhibit Deployed Across Multiple Museum ContextsApril 1, 2024...</span><span class="citation-popover-meta">Published: April 1, 2024</span></span></span>
-
+Modern deep-time visualisation projects increasingly focus on proportional reasoning rather than simple compression. Interactive displays allow users to zoom between scales, revealing how apparently tiny segments can contain hundreds of millions of years. Such approaches aim to preserve the usefulness of spatial representation while reducing the distortions caused by extreme compression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.01488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">DeLVE into Earth&#x27;s Past: A Visualization-Based Exhibit Deployed Across Multiple Museum ContextsApril 1, 2024...</span><span class="citation-popover-meta">Published: April 1, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-3-dark.svg" | relative_url }}" alt="Geologic Time illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Key Misconception to Avoid
 
-The myth is not that geological timelines are inaccurate; it is that a spatial timeline automatically produces an accurate understanding of geological time. Spatial analogies are valuable teaching tools, but they simplify an immense temporal reality into a manageable visual form. When learners focus on the metaphor rather than its scale relationships, they may misjudge the [timing]({{ 'timing/' | relative_url }}), duration, and significance of major evolutionary events. Understanding this limitation is essential for developing a more accurate sense of Earth's deep history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">PMCby P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://semken.asu.edu/pubs/semken09_tatex.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semken.asu.edu">[2semken.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semken.asu.edu</span><span class="citation-popover-snippet">used in formal and informal learning settings to teach about geologic time; nonetheless, their.Read more...</span></span></span>
-
+The myth is not that geological timelines are inaccurate; it is that a spatial timeline automatically produces an accurate understanding of geological time. Spatial analogies are valuable teaching tools, but they simplify an immense temporal reality into a manageable visual form. When learners focus on the metaphor rather than its scale relationships, they may misjudge the [timing]({{ 'timing/' | relative_url }}), duration, and significance of major evolutionary events. Understanding this limitation is essential for developing a more accurate sense of Earth's deep history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://semken.asu.edu/pubs/semken09_tatex.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semken.asu.edu">[2semken.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semken.asu.edu</span><span class="citation-popover-snippet">used in formal and informal learning settings to teach about geologic time; nonetheless, their.Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hhzja0zBoNw" title="4.5 Billion Years in 24 Hours" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hhzja0zBoNw" target="_blank" rel="noopener noreferrer">4.5 Billion Years in 24 Hours</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 143.0K &middot; Uploaded: July 2021 &middot; Length: 4 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hhzja0zBoNw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hhzja0zBoNw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -734,135 +727,135 @@ The myth is not that geological timelines are inaccurate; it is that a spatial t
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5357664/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5357664/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5357664/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5357664/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These findings add to our...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCollege Student Conceptions about Changes to Earth  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: serc.carleton.edu  
-   Link: [https://serc.carleton.edu/files/serc/dodickorion-fin.pdf](https://serc.carleton.edu/files/serc/dodickorion-fin.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SERCBuilding an Understanding of Geological Time: A Cognitive...by J Dodick · Cited by 72 — Our event-based study focuses on the problem...</p></details>
+   Link: <a href="https://serc.carleton.edu/files/serc/dodickorion-fin.pdf" target="_blank" rel="noopener noreferrer nofollow">https://serc.carleton.edu/files/serc/dodickorion-fin.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Building an Understanding of Geological Time: A Cognitive...by J Dodick · Cited by 72 — Our event-based study focuses on the problem...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: geology.utah.gov  
    Title: Geological Survey Can U.S  
-   Link: [https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-can-u-s-interstate-highway-15-be-used-as-a-metaphor-for-geologic-time/](https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-can-u-s-interstate-highway-15-be-used-as-a-metaphor-for-geologic-time/)  
+   Link: <a href="https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-can-u-s-interstate-highway-15-be-used-as-a-metaphor-for-geologic-time/" target="_blank" rel="noopener noreferrer nofollow">https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-can-u-s-interstate-highway-15-be-used-as-a-metaphor-for-geologic-time/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interstate Highway 15 Be Used as a Metaphor for...3 Sept 2024 — One approach to getting a better grasp of the scale of geologic time is...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: semken.asu.edu  
-   Link: [https://semken.asu.edu/pubs/semken09_tatex.pdf](https://semken.asu.edu/pubs/semken09_tatex.pdf)  
+   Link: <a href="https://semken.asu.edu/pubs/semken09_tatex.pdf" target="_blank" rel="noopener noreferrer nofollow">https://semken.asu.edu/pubs/semken09_tatex.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>used in formal and informal learning settings to teach about geologic time; nonetheless, their.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: files.eric.ed.gov  
    Title: ERICGeological time, biological events and the learning transfer  
-   Link: [https://files.eric.ed.gov/fulltext/EJ1043880.pdf](https://files.eric.ed.gov/fulltext/EJ1043880.pdf)  
+   Link: <a href="https://files.eric.ed.gov/fulltext/EJ1043880.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1043880.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 24, 2014 — by CC Johnson · 2014 · Cited by 19 — This project investigated the potential success of two teaching interventions tha...</p></details>
    Published: October 24, 2014  
 
 7. <a id="endnote-7"></a>
    Source: files.eric.ed.gov  
-   Link: [https://files.eric.ed.gov/fulltext/EJ1164772.pdf](https://files.eric.ed.gov/fulltext/EJ1164772.pdf)  
+   Link: <a href="https://files.eric.ed.gov/fulltext/EJ1164772.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1164772.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICStudents&#x27; Geocognition of Deep Time, Conceptualized in...September 17, 2009 — by RM Clary · 2009 · Cited by 29 — Geologic time facil...</p></details>
    Published: September 17, 2009  
 
 8. <a id="endnote-8"></a>
    Source: dr.lib.iastate.edu  
-   Link: [https://dr.lib.iastate.edu/bitstreams/fc73c9be-49cc-493b-87dd-fb6aae36fbb5/download](https://dr.lib.iastate.edu/bitstreams/fc73c9be-49cc-493b-87dd-fb6aae36fbb5/download)  
+   Link: <a href="https://dr.lib.iastate.edu/bitstreams/fc73c9be-49cc-493b-87dd-fb6aae36fbb5/download" target="_blank" rel="noopener noreferrer nofollow">https://dr.lib.iastate.edu/bitstreams/fc73c9be-49cc-493b-87dd-fb6aae36fbb5/download</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Less appreciated, however, is the...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2404.01488](https://arxiv.org/abs/2404.01488)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDeLVE into Earth&#x27;s Past: A Visualization-Based Exhibit Deployed Across Multiple Museum ContextsApril 1, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2404.01488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.01488</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>DeLVE into Earth&#x27;s Past: A Visualization-Based Exhibit Deployed Across Multiple Museum ContextsApril 1, 2024...</p></details>
    Published: April 1, 2024  
 
 10. <a id="endnote-10"></a>
    Source: jamesriverpark.org  
-   Link: [https://jamesriverpark.org/wp-content/uploads/2022/05/Geologic-Timeline-Fall-Zone.pdf](https://jamesriverpark.org/wp-content/uploads/2022/05/Geologic-Timeline-Fall-Zone.pdf)  
+   Link: <a href="https://jamesriverpark.org/wp-content/uploads/2022/05/Geologic-Timeline-Fall-Zone.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jamesriverpark.org/wp-content/uploads/2022/05/Geologic-Timeline-Fall-Zone.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Friends of James River ParkGeologic Time Scale AnalogyPURPOSE: To show students the order of events and time periods in geologic time and...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nps.gov  
    Title: time scale  
-   Link: [https://www.nps.gov/subjects/geology/time-scale.htm](https://www.nps.gov/subjects/geology/time-scale.htm)  
+   Link: <a href="https://www.nps.gov/subjects/geology/time-scale.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/geology/time-scale.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geologic Time Scale5 Oct 2021 — The geologic time scale grew out of necessity: organizing the immensity of geologic time and correlating...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: germanic.osu.edu  
    Title: deep time  
-   Link: [https://germanic.osu.edu/deep-time](https://germanic.osu.edu/deep-time)  
+   Link: <a href="https://germanic.osu.edu/deep-time" target="_blank" rel="noopener noreferrer nofollow">https://germanic.osu.edu/deep-time</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Time | Department of Germanic Languages and...In a broad sense, the term deep time refers to these cosmological, geological and evolutio...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Deep time  
-   Link: [https://en.wikipedia.org/wiki/Deep_time](https://en.wikipedia.org/wiki/Deep_time)  
+   Link: <a href="https://en.wikipedia.org/wiki/Deep_time" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Deep_time</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deep timeDeep time is the concept of geological time that spans billions of years, far beyond the scale of human experience.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: igws.iu.edu  
-   Link: [https://igws.iu.edu/outreach/lessonplans/demonstrating](https://igws.iu.edu/outreach/lessonplans/demonstrating)  
+   Link: <a href="https://igws.iu.edu/outreach/lessonplans/demonstrating" target="_blank" rel="noopener noreferrer nofollow">https://igws.iu.edu/outreach/lessonplans/demonstrating</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geologic Time - IGWS - Indiana UniversityGeologic time—a chronological list of events in Earth&#x27;s history using subdivided units of time...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: nps.gov  
-   Link: [https://www.nps.gov/subjects/geology/geotime.htm](https://www.nps.gov/subjects/geology/geotime.htm)  
+   Link: <a href="https://www.nps.gov/subjects/geology/geotime.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/geology/geotime.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geologic TimeGeologists start counting “geologic time” from Earth&#x27;s surface downward; that is, starting with younger surficial deposits a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: earthsciweek.org  
-   Link: [https://www.earthsciweek.org/resources/classroom-activities/geologic-time-scale-analogy/](https://www.earthsciweek.org/resources/classroom-activities/geologic-time-scale-analogy/)  
+   Link: <a href="https://www.earthsciweek.org/resources/classroom-activities/geologic-time-scale-analogy/" target="_blank" rel="noopener noreferrer nofollow">https://www.earthsciweek.org/resources/classroom-activities/geologic-time-scale-analogy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geologic Time Scale AnalogyTo better understand the concept of geologic time, have students produce a time-scale metaphor to share with t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/292936523_What_is_deep_time_and_why_should_anyone_care](https://www.researchgate.net/publication/292936523_What_is_deep_time_and_why_should_anyone_care)  
+   Link: <a href="https://www.researchgate.net/publication/292936523_What_is_deep_time_and_why_should_anyone_care" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292936523_What_is_deep_time_and_why_should_anyone_care</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Deep Time and Why Should Anyone Care?The concept of deep time resulted directly from observations of nature and forms a cornersto...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: extinctblog.org  
    Title: stop the clocks and the other geologic timescale metaphors too  
-   Link: [https://www.extinctblog.org/extinct/2017/10/23/stop-the-clocks-and-the-other-geologic-timescale-metaphors-too](https://www.extinctblog.org/extinct/2017/10/23/stop-the-clocks-and-the-other-geologic-timescale-metaphors-too)  
+   Link: <a href="https://www.extinctblog.org/extinct/2017/10/23/stop-the-clocks-and-the-other-geologic-timescale-metaphors-too" target="_blank" rel="noopener noreferrer nofollow">https://www.extinctblog.org/extinct/2017/10/23/stop-the-clocks-and-the-other-geologic-timescale-metaphors-too</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ExtinctStop the Clocks (and the Other Geologic Timescale Metaphors...23 Oct 2017 — Do we need to change the metaphors we use to understa...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Examples-of-analogies-for-the-geologic-time-scale-and-potential-barriers-to-alignment_fig2_303377285](https://www.researchgate.net/figure/Examples-of-analogies-for-the-geologic-time-scale-and-potential-barriers-to-alignment_fig2_303377285)  
+   Link: <a href="https://www.researchgate.net/figure/Examples-of-analogies-for-the-geologic-time-scale-and-potential-barriers-to-alignment_fig2_303377285" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Examples-of-analogies-for-the-geologic-time-scale-and-potential-barriers-to-alignment_fig2_303377285</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lightest gray = Phanerozoic, light gray = Proterozoic, dark gray =...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pbslearningmedia.org  
    Title: PBS Learning Media Good Thinking!  
-   Link: [https://www.pbslearningmedia.org/resource/ssecgoodthinking13/good-thinking-time-its-like-so-deep/](https://www.pbslearningmedia.org/resource/ssecgoodthinking13/good-thinking-time-its-like-so-deep/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>— Time: It&#x27;s Like, So Deep | Grades K-2, 3-5, 6...Time: It&#x27;s Like, So Deep explores common difficulties with understanding the immensity...</p></details>
+   Link: <a href="https://www.pbslearningmedia.org/resource/ssecgoodthinking13/good-thinking-time-its-like-so-deep/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbslearningmedia.org/resource/ssecgoodthinking13/good-thinking-time-its-like-so-deep/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time: It&#x27;s Like, So Deep | Grades K-2, 3-5, 6...Time: It&#x27;s Like, So Deep explores common difficulties with understanding the immensity...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/geology/comments/1d2yc5r/how_do_you_conceptualize_geologic_time/](https://www.reddit.com/r/geology/comments/1d2yc5r/how_do_you_conceptualize_geologic_time/)  
+   Link: <a href="https://www.reddit.com/r/geology/comments/1d2yc5r/how_do_you_conceptualize_geologic_time/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/geology/comments/1d2yc5r/how_do_you_conceptualize_geologic_time/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and lepidodendron fossils in the roof. I’ve always...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10899995.2026.2642793](https://www.tandfonline.com/doi/full/10.1080/10899995.2026.2642793)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10899995.2026.2642793" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10899995.2026.2642793</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Body Timeline Analogy – a new tool for teaching deep...by B Norsted · 2026 — Here we introduce a new method, the Body Timeline Analo...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Geologic time scale  
-   Link: [https://en.wikipedia.org/wiki/Geologic_time_scale](https://en.wikipedia.org/wiki/Geologic_time_scale)  
+   Link: <a href="https://en.wikipedia.org/wiki/Geologic_time_scale" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Geologic_time_scale</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geologic time scaleThe geologic time scale or geological time scale describes how geologic time is divided into standardised intervals...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Earth's Entire History (Visualized On A Football Field)  
-   Link: [http://www.youtube.com/watch?v=M8V_glRW1hA](http://www.youtube.com/watch?v=M8V_glRW1hA)  
+   Link: <a href="http://www.youtube.com/watch?v=M8V_glRW1hA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=M8V_glRW1hA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is The Geologic Time Scale? 🌎⏳⚖ The Geologic Time Scale with Events...</p></details>

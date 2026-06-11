@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_prebunking_tactics_930652
 - Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_sift_claim_checking_3d2e80
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - media-literacy
 - lateral-reading
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - media-literacy
 - lateral-reading
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Lateral reading helps readers check who is behind a claim before polished design or confident wording makes it feel credible.
 hero_summary: Lateral reading helps readers check who is behind a claim before polished design or confident wording makes it feel credible.
 layout: default
 permalink: /lateral-reading/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /media-literacy/
 nav_short_title: Lateral reading
 title: Why leaving the page can reveal more
-title_full: Why leaving the page can reveal more | Media Literacy
+title_full: Why leaving the page can reveal more
 display_title_short: Lateral reading
 display_title: Lateral reading
 heading_title: Why leaving the page can reveal more
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Media Literacy Prevents Myths | Mythcraft
+parent_title: How Media Literacy Prevents Myths
 parent_permalink: /media-literacy/
 parent_nav_short_title: Media Literacy
 parent_heading_title: How Media Literacy Prevents Myths
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: A simple checklist for suspicious claims
 up_link:
   basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
@@ -265,7 +265,7 @@ next_link:
   permalink: /practice-limits/
   short_title: Practice limits
   heading_title: Why one lesson is rarely enough
-date: '2026-06-09 05:26:33 '
+date: '2026-06-11 22:32:31 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_lateral_reading_sour_b1df5f-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_lateral_reading_sour_b1df5f-Illustration-1.webp
@@ -276,18 +276,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_la
 
 False claims rarely announce themselves as false. More often, they arrive wrapped in professional design, confident language, institutional-sounding names, and selective evidence. In the context of myth prevention, one of the most effective habits is to check who is behind a claim before deciding whether the claim deserves attention. This habit is known as lateral reading.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_lateral_reading_sour_b1df5f-Illustration-1-dark.svg" | relative_url }}" alt="Lateral reading illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_lateral_reading_sour_b1df5f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_lateral_reading_sour_b1df5f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Lateral reading reverses a common instinct. Instead of staying on a page and judging its appearance, readers leave the page and investigate the source elsewhere. Research comparing professional fact-checkers with students and academics found that fact-checkers consistently opened new tabs, searched for independent information about a source, and checked reputation before evaluating content. This approach helped them reach more reliable conclusions more quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/016146811912101102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsReading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 604 — Fact checkers read laterally...</span></span></span>
 
-For preventing [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}), the [timing]({{ 'timing/' | relative_url }}) matters. Source checking works best before trust settles in. Once a source feels credible, people often become less critical of the claims that follow.
+For preventing myths and misconceptions, the [timing]({{ 'timing/' | relative_url }}) matters. Source checking works best before trust settles in. Once a source feels credible, people often become less critical of the claims that follow.
 
 ## What lateral reading means in practice
 
 Lateral reading is a practical verification technique rather than a theory. The central idea is simple: when encountering an unfamiliar source, do not let the source define itself.
 
-A reader using lateral reading might: <span class="citation-chip-wrap"><a class="citation-chip" href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cor.inquirygroup.org">[cor.inquirygroup.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cor.inquirygroup.org</span><span class="citation-popover-title">teaching lateral reading</span><span class="citation-popover-snippet">Lateral Reading | CORThese lessons also introduce students to resources they can use when laterally reading: Wikipedia, news stories, and...</span></span></span>
-
+A reader using lateral reading might: <span class="citation-chip-wrap"><a class="citation-chip" href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cor.inquirygroup.org">[cor.inquirygroup.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cor.inquirygroup.org</span><span class="citation-popover-title">teaching lateral reading</span><span class="citation-popover-snippet">Lateral Reading &#124; CORThese lessons also introduce students to resources they can use when laterally reading: Wikipedia, news stories, and...</span></span></span>
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -303,7 +301,6 @@ This differs from what researchers call “vertical reading”, where people sta
 
 The practical insight is that credibility is often easier to assess from outside a source than from inside it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/97JbluMfNng" title="How to Spot Misinformation Without Losing Your Mind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=97JbluMfNng" target="_blank" rel="noopener noreferrer">How to Spot Misinformation Without Losing Your Mind</a></p><p class="youtube-embed-meta">Channel: Dr. Whitney Kosters &middot; Views: 491 &middot; Uploaded: January 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=97JbluMfNng" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=97JbluMfNng">Open on YouTube</a></p></div></div></div>
 
 ## Why visual credibility can mislead readers
@@ -313,7 +310,6 @@ Humans are highly responsive to cues that suggest authority. A polished website,
 Researchers studying online information evaluation found that participants were frequently influenced by superficial features such as domain names, logos, organisational titles, and professional presentation. Fact-checkers, by contrast, treated these cues as insufficient and sought independent confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/016146811912101102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsReading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 604 — Fact checkers read laterally...</span></span></span>
 
 This matters because misinformation often imitates the appearance of expertise. Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -327,7 +323,6 @@ This matters because misinformation often imitates the appearance of expertise. 
 A reader who remains on the page may see only the source's self-description. A reader who leaves the page may discover funding relationships, political affiliations, previous fact-checks, or a lack of recognised expertise.
 
 The difference is not merely academic. Many myths spread because audiences evaluate presentation quality instead of source reputation. Lateral reading interrupts that process before credibility becomes attached to the message.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SHNprb2hgzU" title="Sort Fact from Fiction Online with Lateral Reading" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SHNprb2hgzU" target="_blank" rel="noopener noreferrer">Sort Fact from Fiction Online with Lateral Reading</a></p><p class="youtube-embed-meta">Channel: Digital Inquiry Group &middot; Views: 294.9K &middot; Uploaded: January 2020 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SHNprb2hgzU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SHNprb2hgzU">Open on YouTube</a></p></div></div></div>
 
@@ -347,7 +342,7 @@ Search for independent reporting or background information about the organisatio
 
 Determine whether the people behind the content possess recognised qualifications or experience relevant to the subject. Expertise is domain-specific; expertise in one field does not automatically transfer to another.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.pub/introtocollegeresearch/chapter/the-sift-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.pub">[**Finding better coverage**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.pub</span><span class="citation-popover-title">The SIFT Method –</span><span class="citation-popover-snippet">Investigate the source. Find better coverage. Trace claims, quotes and media to the original context.Read more...</span></span></span>
+**Finding better coverage** <span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.pub/introtocollegeresearch/chapter/the-sift-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.pub">[pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.pub</span><span class="citation-popover-title">The SIFT Method –</span><span class="citation-popover-snippet">Investigate the source. Find better coverage. Trace claims, quotes and media to the original context.Read more...</span></span></span>
 
 Instead of asking whether a single source is trustworthy, fact-checkers ask whether multiple credible sources report the same information. Independent corroboration is often more informative than evaluating one page in isolation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.uchicago.edu">[guides.lib.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.uchicago.edu</span><span class="citation-popover-title">The SIFT Method</span><span class="citation-popover-snippet">Evaluating Resources and Misinformation30 Jun 2025 — The SIFT method is an evaluation strategy developed by digital literacy expert, Mike...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://wisconsin.pressbooks.pub/info-lit/chapter/evaluating-sources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsin.pressbooks.pub">[2wisconsin.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsin.pressbooks.pub</span><span class="citation-popover-snippet">Evaluating Sources – Information Literacy: A Practical GuideDescribe the four steps of the SIFT method (Stop, Investigate the source, Fin...</span></span></span>
 
@@ -355,8 +350,7 @@ Instead of asking whether a single source is trustworthy, fact-checkers ask whet
 
 Statistics, quotations, and images are frequently detached from their original context. Following a claim back to the original study, document, interview, or dataset often reveals omissions or distortions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.pub/introtocollegeresearch/chapter/the-sift-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.pub">[pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.pub</span><span class="citation-popover-title">The SIFT Method –</span><span class="citation-popover-snippet">Investigate the source. Find better coverage. Trace claims, quotes and media to the original context.Read more...</span></span></span>
 
-Researchers have described this strategy as one reason professional fact-checkers frequently outperform other highly educated groups when evaluating online information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNReading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — Wineburg, Sam and mcgrew, sarah, Later...</span></span></span>
-
+Researchers have described this strategy as one reason professional fact-checkers frequently outperform other highly educated groups when evaluating online information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Reading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — Wineburg, Sam and mcgrew, sarah, Later...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_lateral_reading_sour_b1df5f-Illustration-2-dark.svg" | relative_url }}" alt="Lateral reading illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_lateral_reading_sour_b1df5f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_lateral_reading_sour_b1df5f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The SIFT framework as a practical routine
@@ -375,7 +369,6 @@ Find out who is behind the information and what others say about them. This is t
 
 Look for reporting or analysis from established sources with transparent editorial standards or recognised expertise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wisconsin.pressbooks.pub/info-lit/chapter/evaluating-sources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsin.pressbooks.pub">[wisconsin.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsin.pressbooks.pub</span><span class="citation-popover-snippet">Evaluating Sources – Information Literacy: A Practical GuideDescribe the four steps of the SIFT method (Stop, Investigate the source, Fin...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qsrXJGpxwIE" title="Using SIFT to Evaluate Sources for Credibility Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qsrXJGpxwIE" target="_blank" rel="noopener noreferrer">Using SIFT to Evaluate Sources for Credibility Tutorial</a></p><p class="youtube-embed-meta">Channel: Vanderbilt Libraries Teaching &amp; Learning &middot; Views: 22.6K &middot; Uploaded: February 2023 &middot; Length: 2 minutes 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qsrXJGpxwIE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qsrXJGpxwIE">Open on YouTube</a></p></div></div></div>
 
 ### Trace claims to the original context
@@ -392,7 +385,6 @@ The goal is not to dismiss new voices or unconventional information. Many import
 
 <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scienceofboosting.org">[Lateral Reading]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scienceofboosting.org</span><span class="citation-popover-snippet">Boosting4 May 2023 — Wineburg and McGrew (2017, 2019) conducted a study with Stanford undergraduates, university professors, and professi...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> asks questions such as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Who created this information?
@@ -403,7 +395,6 @@ The goal is not to dismiss new voices or unconventional information. Many import
 </div>
 
 A source may prove highly reliable after this process. The difference is that trust is earned through verification rather than appearance.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_lateral_reading_sour_b1df5f-Illustration-3-dark.svg" | relative_url }}" alt="Lateral reading illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_lateral_reading_sour_b1df5f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_lateral_reading_sour_b1df5f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why lateral reading helps prevent myths
@@ -810,232 +801,232 @@ Within [media literacy]({{ 'media-literacy/' | relative_url }}), this makes late
 
 1. <a id="endnote-1"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNReading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — Wineburg, Sam and mcgrew, sarah, Later...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — Wineburg, Sam and mcgrew, sarah, Later...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: stacks.stanford.edu  
    Title: Wineburg Mc Grew Lateral Reading and the Nature of Expertise  
-   Link: [https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf](https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf)  
+   Link: <a href="https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/druid%3Ayk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lateral Reading and the Nature of Expertise28 Jul 2018 — 1 or 2 sentence description of article: This study compares how professional fac...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: news.stanford.edu  
    Title: fact checkers outperform historians evaluating online information  
-   Link: [https://news.stanford.edu/stories/2017/10/fact-checkers-outperform-historians-evaluating-online-information](https://news.stanford.edu/stories/2017/10/fact-checkers-outperform-historians-evaluating-online-information)  
+   Link: <a href="https://news.stanford.edu/stories/2017/10/fact-checkers-outperform-historians-evaluating-online-information" target="_blank" rel="noopener noreferrer nofollow">https://news.stanford.edu/stories/2017/10/fact-checkers-outperform-historians-evaluating-online-information</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford NewsFact checkers outperform historians when evaluating online...Oct 24, 2017 — Wineburg and McGrew observed that even historia...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/105805/html/](https://committees.parliament.uk/writtenevidence/105805/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/105805/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/105805/html/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesDAD0080 - Evidence on Democracy and Digital...Our approach, in contrast, is based on research we&#x27;ve done with pr...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: guides.lib.uchicago.edu  
    Title: The SIFT Method  
-   Link: [https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322](https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322)  
+   Link: <a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Resources and Misinformation30 Jun 2025 — The SIFT method is an evaluation strategy developed by digital literacy expert, Mike...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wisconsin.pressbooks.pub  
-   Link: [https://wisconsin.pressbooks.pub/info-lit/chapter/evaluating-sources/](https://wisconsin.pressbooks.pub/info-lit/chapter/evaluating-sources/)  
+   Link: <a href="https://wisconsin.pressbooks.pub/info-lit/chapter/evaluating-sources/" target="_blank" rel="noopener noreferrer nofollow">https://wisconsin.pressbooks.pub/info-lit/chapter/evaluating-sources/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Sources – Information Literacy: A Practical GuideDescribe the four steps of the SIFT method (Stop, Investigate the source, Fin...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: mediahelpingmedia.org  
    Title: sift for fact checking  
-   Link: [https://mediahelpingmedia.org/basics/sift-for-fact-checking/](https://mediahelpingmedia.org/basics/sift-for-fact-checking/)  
+   Link: <a href="https://mediahelpingmedia.org/basics/sift-for-fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://mediahelpingmedia.org/basics/sift-for-fact-checking/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT for fact-checking30 Mar 2025 — It encourages journalists to apply “lateral reading,” which means looking at what other sources say a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pressbooks.pub  
    Title: The SIFT Method –  
-   Link: [https://pressbooks.pub/introtocollegeresearch/chapter/the-sift-method/](https://pressbooks.pub/introtocollegeresearch/chapter/the-sift-method/)  
+   Link: <a href="https://pressbooks.pub/introtocollegeresearch/chapter/the-sift-method/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/introtocollegeresearch/chapter/the-sift-method/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigate the source. Find better coverage. Trace claims, quotes and media to the original context.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: guides.lib.virginia.edu  
-   Link: [https://guides.lib.virginia.edu/c.php?g=1483059&p=11057026](https://guides.lib.virginia.edu/c.php?g=1483059&p=11057026)  
+   Link: <a href="https://guides.lib.virginia.edu/c.php?g=1483059&amp;p=11057026" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.virginia.edu/c.php?g=1483059&amp;p=11057026</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT - Source Evaluation - LibGuides at UVa LibrarySep 30, 2025 — The SIFT method was developed by digital literacy expert, Mike Caulfiel...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ecampusontario.pressbooks.pub  
    Title: Lateral Reading – Western Libraries Tutorials SIFT  
-   Link: [https://ecampusontario.pressbooks.pub/westernlibrariestutorials/chapter/lateral-reading/](https://ecampusontario.pressbooks.pub/westernlibrariestutorials/chapter/lateral-reading/)  
+   Link: <a href="https://ecampusontario.pressbooks.pub/westernlibrariestutorials/chapter/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/westernlibrariestutorials/chapter/lateral-reading/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mike Caulfield (Washington State University) developed the Four Moves or SIFT to support lateral reading evaluation. STOP: stop and take...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ed.stanford.edu  
-   Link: [https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds](https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds)  
+   Link: <a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It doesn&#x27;t take long to learn how to spot misinformation online...19 Apr 2022 — It doesn&#x27;t take long to learn how to spot misinformation...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cor.inquirygroup.org  
-   Link: [https://cor.inquirygroup.org/research/lateral-reading-on-the-open-internet/](https://cor.inquirygroup.org/research/lateral-reading-on-the-open-internet/)  
+   Link: <a href="https://cor.inquirygroup.org/research/lateral-reading-on-the-open-internet/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/research/lateral-reading-on-the-open-internet/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lateral Reading on the Open Internet | Civic Online ReasoningStudents practiced the heuristic of lateral reading: leaving an unfamiliar w...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: stacks.stanford.edu  
    Title: Civic Online Reasoning  
-   Link: [https://stacks.stanford.edu/file/druid%3Axr124mv4805/COR%20Curriculum%20Evaluation.pdf](https://stacks.stanford.edu/file/druid%3Axr124mv4805/COR%20Curriculum%20Evaluation.pdf)  
+   Link: <a href="https://stacks.stanford.edu/file/druid%3Axr124mv4805/COR%20Curriculum%20Evaluation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.stanford.edu/file/druid%3Axr124mv4805/COR%20Curriculum%20Evaluation.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stacks are the StanfordTo develop a roadmap, we observed fact checkers at the nation&#x27;s leading news outlets and distilled their strategie...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cor.inquirygroup.org  
-   Link: [https://cor.inquirygroup.org/](https://cor.inquirygroup.org/)  
+   Link: <a href="https://cor.inquirygroup.org/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Online Reasoning - Digital Inquiry GroupFree lessons and assessments that help you teach students to evaluate online information that aff...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cor.inquirygroup.org  
    Title: teaching lateral reading  
-   Link: [https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/](https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/)  
+   Link: <a href="https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lateral Reading | CORThese lessons also introduce students to resources they can use when laterally reading: Wikipedia, news stories, and...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: papers.ssrn.com  
    Title: SSRN ID4104750 code2785140  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4104750_code2785140.pdf?abstractid=3936112](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4104750_code2785140.pdf?abstractid=3936112)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4104750_code2785140.pdf?abstractid=3936112" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4104750_code2785140.pdf?abstractid=3936112</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Open InternetThe research team introduced the Civic Online Reasoning curriculum and provided teachers with six lesson plans. Afte...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Lateral Reading: How to verify information online  
-   Link: [https://www.youtube.com/watch?v=N6O3xm8_9aY](https://www.youtube.com/watch?v=N6O3xm8_9aY)  
+   Link: <a href="https://www.youtube.com/watch?v=N6O3xm8_9aY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N6O3xm8_9aY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How fact-checkers verify sources...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: SIFT: The four moves to digital literacy  
-   Link: [https://www.youtube.com/watch?v=h8c1S-qL-wY](https://www.youtube.com/watch?v=h8c1S-qL-wY)  
+   Link: <a href="https://www.youtube.com/watch?v=h8c1S-qL-wY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h8c1S-qL-wY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lateral reading: A key strategy for avoiding misinformation...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Lateral reading: A key strategy for avoiding misinformation  
-   Link: [https://www.youtube.com/watch?v=0LCzu8pEN4M](https://www.youtube.com/watch?v=0LCzu8pEN4M)  
+   Link: <a href="https://www.youtube.com/watch?v=0LCzu8pEN4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0LCzu8pEN4M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why you should leave the page: The power of lateral reading...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/016146811912101102](https://journals.sagepub.com/doi/10.1177/016146811912101102)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/016146811912101102" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/016146811912101102</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsReading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 604 — Fact checkers read laterally...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/lateral](https://dictionary.cambridge.org/dictionary/english/lateral)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge DictionaryLATERAL definition: 1. relating to the sides of an object or plant or to sideways movement: 2. A...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/lateral" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/lateral</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryLATERAL definition: 1. relating to the sides of an object or plant or to sideways movement: 2. A...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nwtc.libguides.com  
-   Link: [https://nwtc.libguides.com/evaluating_resources/sift](https://nwtc.libguides.com/evaluating_resources/sift)  
+   Link: <a href="https://nwtc.libguides.com/evaluating_resources/sift" target="_blank" rel="noopener noreferrer nofollow">https://nwtc.libguides.com/evaluating_resources/sift</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Resources: SIFT Method13 Apr 2026 — SIFT is a series of actions you can take to determine the validity and reliability of claims and sour...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: uscupstate.libguides.com  
-   Link: [https://uscupstate.libguides.com/LateralReading/sift](https://uscupstate.libguides.com/LateralReading/sift)  
+   Link: <a href="https://uscupstate.libguides.com/LateralReading/sift" target="_blank" rel="noopener noreferrer nofollow">https://uscupstate.libguides.com/LateralReading/sift</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;SIFT&quot; in research stands for &quot;Stop, Investigate, Find, Trace&quot; and is a method developed by digital literacy...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: oprfhs.libguides.com  
-   Link: [https://oprfhs.libguides.com/c.php?g=947109&p=6828489](https://oprfhs.libguides.com/c.php?g=947109&p=6828489)  
+   Link: <a href="https://oprfhs.libguides.com/c.php?g=947109&amp;p=6828489" target="_blank" rel="noopener noreferrer nofollow">https://oprfhs.libguides.com/c.php?g=947109&amp;p=6828489</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Process: Civic Online Reasoning - Oak ParkMar 9, 2026 — Professional fact checkers do something called lateral reading...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: [https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/](https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/lateral-reading-college-students-learn-to-critically-evaluate-internet-sources-in-an-online-course/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reading: College students learn to critically...23 Feb 2021 — A small body of research suggests that students in face-to-face settings c...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: library.nwacc.edu  
-   Link: [https://library.nwacc.edu/lateralreading/sift](https://library.nwacc.edu/lateralreading/sift)  
+   Link: <a href="https://library.nwacc.edu/lateralreading/sift" target="_blank" rel="noopener noreferrer nofollow">https://library.nwacc.edu/lateralreading/sift</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nwacc.eduLibGuides: Lateral Reading: SIFT It9 Mar 2026 — Lateral reading is a key piece of the SIFT method developed by Mike Caulfield. O...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: scienceofboosting.org  
    Title: Lateral Reading  
-   Link: [https://www.scienceofboosting.org/project/lateral-reading/](https://www.scienceofboosting.org/project/lateral-reading/)  
+   Link: <a href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceofboosting.org/project/lateral-reading/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boosting4 May 2023 — Wineburg and McGrew (2017, 2019) conducted a study with Stanford undergraduates, university professors, and professi...</p></details>
    Published: May 2023  
 
 28. <a id="endnote-28"></a>
    Source: guides.skylinecollege.edu  
-   Link: [https://guides.skylinecollege.edu/fakenews/readinglaterally](https://guides.skylinecollege.edu/fakenews/readinglaterally)  
+   Link: <a href="https://guides.skylinecollege.edu/fakenews/readinglaterally" target="_blank" rel="noopener noreferrer nofollow">https://guides.skylinecollege.edu/fakenews/readinglaterally</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Laterally - Evaluating news: [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; BeyondJan 28, 2025 — Lateral reading is basically searching for information about a site or an a...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Lateral](https://en.wikipedia.org/wiki/Lateral)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lateral" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lateral</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LateralBiology and healthcare · Lateral (anatomy), a term of location meaning &quot;towards the side&quot; · Lateral cricoarytenoid muscle, an i...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: openlearninglibrary.mit.edu  
-   Link: [https://openlearninglibrary.mit.edu/courses/course-v1%3AMITx%2B0.504x%2B3T2020/about](https://openlearninglibrary.mit.edu/courses/course-v1%3AMITx%2B0.504x%2B3T2020/about)  
+   Link: <a href="https://openlearninglibrary.mit.edu/courses/course-v1%3AMITx%2B0.504x%2B3T2020/about" target="_blank" rel="noopener noreferrer nofollow">https://openlearninglibrary.mit.edu/courses/course-v1%3AMITx%2B0.504x%2B3T2020/about</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Truth From Fiction: Civic Online ReasoningThe Stanford History Education Group has distilled these practices from observations with profe...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: kenhub.com  
-   Link: [https://www.kenhub.com/en/library/anatomy/lateral](https://www.kenhub.com/en/library/anatomy/lateral)  
+   Link: <a href="https://www.kenhub.com/en/library/anatomy/lateral" target="_blank" rel="noopener noreferrer nofollow">https://www.kenhub.com/en/library/anatomy/lateral</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Directional terminologyThe term lateral is a directional term that is used to describe the position of a structure relative to the median...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: guides.lib.jmu.edu  
-   Link: [https://guides.lib.jmu.edu/caamppadl/lateralreading](https://guides.lib.jmu.edu/caamppadl/lateralreading)  
+   Link: <a href="https://guides.lib.jmu.edu/caamppadl/lateralreading" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.jmu.edu/caamppadl/lateralreading</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>jmu.eduCAAMP-PADL Source Evaluation: Lateral ReadingFeb 16, 2026 — In addition to the guiding questions above, you can also use the SIFT...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: libguides.cmich.edu  
-   Link: [https://libguides.cmich.edu/web_research/lateral](https://libguides.cmich.edu/web_research/lateral)  
+   Link: <a href="https://libguides.cmich.edu/web_research/lateral" target="_blank" rel="noopener noreferrer nofollow">https://libguides.cmich.edu/web_research/lateral</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research: Lateral Reading and SIFT12 Dec 2024 — SIFT stands for Stop; Investigate the source; Find better coverage; and Trace claims, quo...</p></details>
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/364346213400333/posts/793834313784852/](https://www.facebook.com/groups/364346213400333/posts/793834313784852/)  
+   Link: <a href="https://www.facebook.com/groups/364346213400333/posts/793834313784852/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/364346213400333/posts/793834313784852/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning lateral reading from credible sourcesStanford&#x27;s Sam Wineburg and Sarah McGrew observed “10 Ph.D. historians, 10 professional fac...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: aft.org  
-   Link: [https://www.aft.org/ae/fall2017/mcgrew_ortega_breakstone_wineburg](https://www.aft.org/ae/fall2017/mcgrew_ortega_breakstone_wineburg)  
+   Link: <a href="https://www.aft.org/ae/fall2017/mcgrew_ortega_breakstone_wineburg" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/fall2017/mcgrew_ortega_breakstone_wineburg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Challenge That&#x27;s Bigger Than Fake NewsSarah McGrew co-directs the Civic Online Reasoning project at the Stanford History Education Gr...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/lateral](https://www.merriam-webster.com/dictionary/lateral)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/lateral" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/lateral</a>  
 
 37. <a id="endnote-37"></a>
    Source: smu.ca  
    Title: “SIFT”: A Method for Evaluating Information Sources Read laterally instead  
-   Link: [https://www.smu.ca/webfiles/SIFT_Method_final.pdf](https://www.smu.ca/webfiles/SIFT_Method_final.pdf)  
+   Link: <a href="https://www.smu.ca/webfiles/SIFT_Method_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.smu.ca/webfiles/SIFT_Method_final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This means leaving the source to investigate what others are saying about the source, its author(s), or the publication or organization...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SHNprb2hgzU](https://www.youtube.com/watch?v=SHNprb2hgzU)  
+   Link: <a href="https://www.youtube.com/watch?v=SHNprb2hgzU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SHNprb2hgzU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sort Fact from Fiction Online with Lateral ReadingBased on research with professional fact checkers, the Civic Online Reasoning curriculu...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qsrXJGpxwIE](https://www.youtube.com/watch?v=qsrXJGpxwIE)  
+   Link: <a href="https://www.youtube.com/watch?v=qsrXJGpxwIE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qsrXJGpxwIE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using SIFT to Evaluate Sources for Credibility TutorialThis tutorial explores evaluating sources for credibility using Mike Caulfield&#x27;s S...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: hendrix.edu  
-   Link: [https://www.hendrix.edu/uploadedFiles/Academics/Faculty_Resources/Teaching_and_Learning/EvaluatingDigitalInformation.pdf](https://www.hendrix.edu/uploadedFiles/Academics/Faculty_Resources/Teaching_and_Learning/EvaluatingDigitalInformation.pdf)  
+   Link: <a href="https://www.hendrix.edu/uploadedFiles/Academics/Faculty_Resources/Teaching_and_Learning/EvaluatingDigitalInformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hendrix.edu/uploadedFiles/Academics/Faculty_Resources/Teaching_and_Learning/EvaluatingDigitalInformation.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In contrast, fact checkers read laterally, leaving a site after a quick scan and...Read more...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: researchgate.net  
    Title: (PDF) Lateral reading: College students learn to critically  
-   Link: [https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course](https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course)  
+   Link: <a href="https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wineburg &amp; McGrew, 2017, 2019). This study. tested... Lateral reading allowed fact checkers to evaluate the credibility of online conten...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: collinsdictionary.com  
-   Link: [https://www.collinsdictionary.com/dictionary/english/lateral](https://www.collinsdictionary.com/dictionary/english/lateral)  
+   Link: <a href="https://www.collinsdictionary.com/dictionary/english/lateral" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/lateral</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LATERAL definition and meaning | Collins English DictionaryLateral means relating to the sides of something, or moving in a sideways dire...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: getlateral.com  
-   Link: [https://getlateral.com/](https://getlateral.com/)  
+   Link: <a href="https://getlateral.com/" target="_blank" rel="noopener noreferrer nofollow">https://getlateral.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>g Legal, Government, Finance, Contact Center and Collections Departments and...Read more...</p></details>

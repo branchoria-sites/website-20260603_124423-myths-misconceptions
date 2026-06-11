@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_condescending_correc_7062df_public_correction_sh_e43b0f
 - Myths_and_misconcept_0d48d7_condescending_correc_7062df_replacement_explanat_3e144b
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - tone
 - reactance
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - tone
 - reactance
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A correction framed as contempt or pressure can make people defend their autonomy instead of reconsidering the claim.
 hero_summary: A correction framed as contempt or pressure can make people defend their autonomy instead of reconsidering the claim.
 layout: default
 permalink: /reactance/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /tone/
 nav_short_title: Reactance
 title: Why Harsh Corrections Can Trigger Defiance
-title_full: Why Harsh Corrections Can Trigger Defiance | Tone
+title_full: Why Harsh Corrections Can Trigger Defiance
 display_title_short: Reactance
 display_title: Reactance
 heading_title: Why Harsh Corrections Can Trigger Defiance
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Shaming People Makes Corrections Harder | Mythcraft
+parent_title: Why Shaming People Makes Corrections Harder
 parent_permalink: /tone/
 parent_nav_short_title: Tone
 parent_heading_title: Why Shaming People Makes Corrections Harder
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The Missing Piece in Many Corrections
 up_link:
   basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
@@ -265,7 +265,7 @@ next_link:
   permalink: /replacements/
   short_title: Replacements
   heading_title: The Missing Piece in Many Corrections
-date: '2026-06-09 05:09:05 '
+date: '2026-06-11 22:23:32 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_reactance_shaming_co_0ba2e1-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_reactance_shaming_co_0ba2e1-Illustration-1.webp
@@ -274,54 +274,48 @@ image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_re
 
 ## Introduction
 
-When a [correction]({{ 'correction/' | relative_url }}) sounds contemptuous, mocking or controlling, people may resist it for reasons that have little to do with the facts themselves. This reaction is known as psychological reactance: a motivational response that occurs when people feel their freedom of judgement, choice or self-direction is being threatened. Rather than evaluating the evidence, they become focused on defending their autonomy. In discussions about [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}), this means that a factually correct correction can become less persuasive if it feels like an attempt to dominate, shame or humiliate the person receiving it. Research across communication, health, education and behaviour-change settings consistently finds that perceived threats to freedom increase resistance, counter-arguing and negative emotional reactions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4675534/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUnderstanding Psychological Reactance</span><span class="citation-popover-snippet">PMC - NIHby C Steindl · 2015 · Cited by 812 — Reactance – the motivation to regain a freedom after it has been lost or threatened – leads...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4870279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">to Freedom and the Detrimental Effect of Avoidance...by DN Kayser · 2016 · Cited by 30 — Likewise, reactance occurs when the message con...</span></span></span>
-
+When a [correction]({{ 'correction/' | relative_url }}) sounds contemptuous, mocking or controlling, people may resist it for reasons that have little to do with the facts themselves. This reaction is known as psychological reactance: a motivational response that occurs when people feel their freedom of judgement, choice or self-direction is being threatened. Rather than evaluating the evidence, they become focused on defending their autonomy. In discussions about myths and misconceptions, this means that a factually correct correction can become less persuasive if it feels like an attempt to dominate, shame or humiliate the person receiving it. Research across communication, health, education and behaviour-change settings consistently finds that perceived threats to freedom increase resistance, counter-arguing and negative emotional reactions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4675534/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUnderstanding Psychological Reactance</span><span class="citation-popover-snippet">NIHby C Steindl  2015  Cited by 812  Reactance  the motivation to regain a freedom after it has been lost or threatened  leads...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4870279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">to Freedom and the Detrimental Effect of Avoidance...by DN Kayser  2016  Cited by 30  Likewise, reactance occurs when the message con...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_reactance_shaming_co_0ba2e1-Illustration-1-dark.svg" | relative_url }}" alt="Reactance illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_reactance_shaming_co_0ba2e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_reactance_shaming_co_0ba2e1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Reactance Means in Correction Settings
 
-Psychological reactance was originally developed to explain why people sometimes push back against influence attempts. The core idea is simple: when individuals perceive that someone is trying to restrict their freedom to think, choose or act, they become motivated to restore that freedom. That motivation can appear as anger, scepticism, argument, avoidance or even stronger commitment to the challenged belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9936178/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCHow Misinformation and Rebuttals in Online Comments Affect...by Y Sun · 2022 · Cited by 37 — Given that psychological reactance is co...</span></span></span>
+Psychological reactance was originally developed to explain why people sometimes push back against influence attempts. The core idea is simple: when individuals perceive that someone is trying to restrict their freedom to think, choose or act, they become motivated to restore that freedom. That motivation can appear as anger, scepticism, argument, avoidance or even stronger commitment to the challenged belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9936178/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">How Misinformation and Rebuttals in Online Comments Affect...by Y Sun  2022  Cited by 37  Given that psychological reactance is co...</span></span></span>
 
-In correction settings, reactance often emerges when a message implies more than “this claim is inaccurate”. The recipient may instead hear:
-
+In correction settings, reactance often emerges when a message implies more than this claim is inaccurate. The recipient may instead hear:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* “You are not competent enough to judge this.”
-* “You must accept my view.”
-* “A reasonable person would already know this.”
-* “You should be embarrassed for believing that.”
+* You are not competent enough to judge this.
+* You must accept my view.
+* A reasonable person would already know this.
+* You should be embarrassed for believing that.
 
 </div>
 
-Once the interaction is interpreted in these terms, the disagreement is no longer only about evidence. It becomes a struggle over status, independence and self-respect. Reactance theory predicts that people will often try to reassert their autonomy by resisting the message, dismissing the source or defending the original belief more strongly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6393822/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCShould or could?</span><span class="citation-popover-snippet">Testing the use of autonomy-supportive...by MB Altendorf · 2019 · Cited by 30 — Many health messages have not been formulated in an auto...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govSelf-determination theory: its application to health behavior...by H Patrick · 2012 · Cited by 839 — As the science of behavior c...</span></span></span>
+Once the interaction is interpreted in these terms, the disagreement is no longer only about evidence. It becomes a struggle over status, independence and self-respect. Reactance theory predicts that people will often try to reassert their autonomy by resisting the message, dismissing the source or defending the original belief more strongly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6393822/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCShould or could?</span><span class="citation-popover-snippet">Testing the use of autonomy-supportive...by MB Altendorf  2019  Cited by 30  Many health messages have not been formulated in an auto...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govSelf-determination theory: its application to health behavior...by H Patrick  2012  Cited by 839  As the science of behavior c...</span></span></span>
 
 Importantly, reactance is not limited to deeply ideological topics. It can appear in everyday conversations whenever a correction feels coercive or degrading.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7KepQX1tBvI" title="How to Stop the SHAME Spiral &quot;Am I a Bad Person?&quot;- Shame vs. Guilt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7KepQX1tBvI" target="_blank" rel="noopener noreferrer">How to Stop the SHAME Spiral &quot;Am I a Bad Person?&quot;- Shame vs. Guilt</a></p><p class="youtube-embed-meta">Channel: Therapy in a Nutshell</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7KepQX1tBvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7KepQX1tBvI">Open on YouTube</a></p></div></div></div>
 
 ## How Contempt Changes the Message People Hear
 
 Shaming [corrections]({{ 'corrections/' | relative_url }}) create a double message. The factual content may be accurate, but the social signal communicates disapproval, superiority or ridicule.
 
-Research on reactance increasingly treats emotional responses as part of the mechanism rather than as a side effect. Reactance commonly includes both negative thoughts and feelings such as anger. When people perceive a correction as hostile or personally attacking, these emotional responses can compete with attention to the evidence itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self‐Determination Theory Into Practice - PMC - NIHby A Neufeld · 2025 · Cited by 16 — Self‐determination theory (SDT) is a well‐establis...</span></span></span>
+Research on reactance increasingly treats emotional responses as part of the mechanism rather than as a side effect. Reactance commonly includes both negative thoughts and feelings such as anger. When people perceive a correction as hostile or personally attacking, these emotional responses can compete with attention to the evidence itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">SelfDetermination Theory Into Practice - PMC - NIHby A Neufeld  2025  Cited by 16  Selfdetermination theory (SDT) is a wellestablis...</span></span></span>
 
 Consider the difference between two responses to the same misconception:
 
-* “That statistic is outdated. Newer data show a different result.”
-* “Anyone who still believes that clearly has not done basic research.”
+* That statistic is outdated. Newer data show a different result.
+* Anyone who still believes that clearly has not done basic research.
 
 The informational content is similar: the claim is wrong. The social content is radically different. The second version challenges competence and invites a defence of self-image. The recipient may spend more effort rebutting the insult than reconsidering the evidence.
 
-This helps explain a common misunderstanding about misinformation correction. People do not always reject corrections because they are attached to the myth itself. Sometimes they reject the correction because accepting it appears to require accepting humiliation. The stronger the perception that a correction is intended to control, belittle or shame, the more likely reactance becomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4675534/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUnderstanding Psychological Reactance</span><span class="citation-popover-snippet">PMC - NIHby C Steindl · 2015 · Cited by 812 — Reactance – the motivation to regain a freedom after it has been lost or threatened – leads...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4870279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">to Freedom and the Detrimental Effect of Avoidance...by DN Kayser · 2016 · Cited by 30 — Likewise, reactance occurs when the message con...</span></span></span>
+This helps explain a common misunderstanding about misinformation correction. People do not always reject corrections because they are attached to the myth itself. Sometimes they reject the correction because accepting it appears to require accepting humiliation. The stronger the perception that a correction is intended to control, belittle or shame, the more likely reactance becomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4675534/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUnderstanding Psychological Reactance</span><span class="citation-popover-snippet">NIHby C Steindl  2015  Cited by 812  Reactance  the motivation to regain a freedom after it has been lost or threatened  leads...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4870279/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">to Freedom and the Detrimental Effect of Avoidance...by DN Kayser  2016  Cited by 30  Likewise, reactance occurs when the message con...</span></span></span>
 
 ## Why Defiance Can Look Like Belief Persistence
 
 Reactance can make it appear that people are irrationally clinging to false beliefs when something more specific is happening.
 
 The sequence often follows a recognisable pattern:
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_reactance_shaming_co_0ba2e1-Illustration-2-dark.svg" | relative_url }}" alt="Reactance illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_reactance_shaming_co_0ba2e1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_reactance_shaming_co_0ba2e1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -335,21 +329,17 @@ The sequence often follows a recognisable pattern:
 
 </div>
 
-In studies of online misinformation and corrective messages, psychological reactance has been identified as an important factor shaping responses to rebuttals and fact-checks. Higher reactance is associated with greater counter-arguing and lower receptiveness to corrective information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36814707/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe Roles of Psychological Reactance and Misperceptionsby Y Sun · 2023 · Cited by 37 — This study investigated how exposure to nega...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholars.cityu.edu.hk/en/publications/how-misinformation-and-its-rebuttals-in-online-comments-affect-pe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholars.cityu.edu.hk">[CityU Scholars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholars.cityu.edu.hk</span><span class="citation-popover-title">how misinformation and its rebuttals in online comments affect pe</span><span class="citation-popover-snippet">CityU ScholarsThe Role of Psychological Reactance and Misperceptionsby Y Sun · 2021 — This study investigated the mechanisms by which exp...</span></span></span>
+In studies of online misinformation and corrective messages, psychological reactance has been identified as an important factor shaping responses to rebuttals and fact-checks. Higher reactance is associated with greater counter-arguing and lower receptiveness to corrective information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36814707/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Roles of Psychological Reactance and Misperceptionsby Y Sun  2023  Cited by 37  This study investigated how exposure to nega...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholars.cityu.edu.hk/en/publications/how-misinformation-and-its-rebuttals-in-online-comments-affect-pe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholars.cityu.edu.hk">[CityU Scholars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholars.cityu.edu.hk</span><span class="citation-popover-title">how misinformation and its rebuttals in online comments affect pe</span><span class="citation-popover-snippet">CityU ScholarsThe Role of Psychological Reactance and Misperceptionsby Y Sun  2021  This study investigated the mechanisms by which exp...</span></span></span>
 
-This does not mean every correction produces a “[backfire]({{ 'backfire/' | relative_url }}) effect”, nor that corrections are generally ineffective. Large bodies of correction research show that [debunking]({{ 'debunking/' | relative_url }}) often works. The point is narrower: unnecessary threats to autonomy can reduce the effectiveness of an otherwise sound correction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://socialactionlab.org/wp-content/uploads/2024/01/Chan_Debunking-A-Meta-Analysis-of-the-Psychological-Efficacy-of-Messages-Countering-Misinformation_2017.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socialactionlab.org">[The Social Action Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socialactionlab.org</span><span class="citation-popover-title">The Social Action Lab Debunking: A Meta-Analysis of the Psychological Efficacy</span><span class="citation-popover-snippet">This meta-analysis investigated the factors underlying effective messages to counter attitudes and beliefs based on misinformation. Becau...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KO6bbZOc2B4" title="How to deal with rejection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KO6bbZOc2B4" target="_blank" rel="noopener noreferrer">How to deal with rejection</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KO6bbZOc2B4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KO6bbZOc2B4">Open on YouTube</a></p></div></div></div>
+This does not mean every correction produces a [backfire]({{ 'backfire/' | relative_url }}) effect, nor that corrections are generally ineffective. Large bodies of correction research show that [debunking]({{ 'debunking/' | relative_url }}) often works. The point is narrower: unnecessary threats to autonomy can reduce the effectiveness of an otherwise sound correction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://socialactionlab.org/wp-content/uploads/2024/01/Chan_Debunking-A-Meta-Analysis-of-the-Psychological-Efficacy-of-Messages-Countering-Misinformation_2017.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socialactionlab.org">[The Social Action Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socialactionlab.org</span><span class="citation-popover-title">The Social Action Lab Debunking: A Meta-Analysis of the Psychological Efficacy</span><span class="citation-popover-snippet">This meta-analysis investigated the factors underlying effective messages to counter attitudes and beliefs based on misinformation. Becau...</span></span></span>
 
 ## How Autonomy-Supportive Language Lowers Resistance
 
 One of the most consistent findings across reactance research is that communication can influence whether people experience a message as a threat to freedom.
 
-Autonomy-supportive communication does not avoid disagreement. Instead, it presents information in ways that preserve the recipient's sense of agency. Research in health communication and self-determination theory has repeatedly found that autonomy-supportive language tends to generate less reactance than controlling language. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://econtent.hogrefe.com/doi/10.1027/2512-8442/a000159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econtent.hogrefe.com">[Hogrefe eContent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econtent.hogrefe.com</span><span class="citation-popover-snippet">Hogrefe eContentThe Effects of Choice and Autonomy-Supportive Language...27 Sept 2024 — Specifically, using autonomy-supportive language...</span></span></span>
+Autonomy-supportive communication does not avoid disagreement. Instead, it presents information in ways that preserve the recipient's sense of agency. Research in health communication and self-determination theory has repeatedly found that autonomy-supportive language tends to generate less reactance than controlling language. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://econtent.hogrefe.com/doi/10.1027/2512-8442/a000159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econtent.hogrefe.com">[Hogrefe eContent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econtent.hogrefe.com</span><span class="citation-popover-snippet">Hogrefe eContentThe Effects of Choice and Autonomy-Supportive Language...27 Sept 2024  Specifically, using autonomy-supportive language...</span></span></span>
 
 Common features include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -357,27 +347,22 @@ Common features include:
 * Explaining reasons rather than issuing commands.
 * Avoiding insults, ridicule and moral grandstanding.
 * Recognising uncertainty where it genuinely exists.
-* Inviting consideration rather than demanding submission. PMC+2Self Determination Theory <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self‐Determination Theory Into Practice - PMC - NIHby A Neufeld · 2025 · Cited by 16 — Self‐determination theory (SDT) is a well‐establis...</span></span></span>
+* Inviting consideration rather than demanding submission. PMC+2Self Determination Theory <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">SelfDetermination Theory Into Practice - PMC - NIHby A Neufeld  2025  Cited by 16  Selfdetermination theory (SDT) is a wellestablis...</span></span></span>
 
 </div>
 
-For example, “You may want to look at this newer study because it addresses the issue directly” generally preserves more autonomy than “You need to stop believing this immediately”.
+For example, You may want to look at this newer study because it addresses the issue directly generally preserves more autonomy than You need to stop believing this immediately.
 
-Evidence from multiple domains suggests that messages perceived as autonomy-supportive are less likely to trigger defensive backlash and more likely to support genuine attitude change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://econtent.hogrefe.com/doi/10.1027/2512-8442/a000159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econtent.hogrefe.com">[Hogrefe eContent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econtent.hogrefe.com</span><span class="citation-popover-snippet">Hogrefe eContentThe Effects of Choice and Autonomy-Supportive Language...27 Sept 2024 — Specifically, using autonomy-supportive language...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://centaur.reading.ac.uk/109350/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centaur.reading.ac.uk">[CentAUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centaur.reading.ac.uk</span><span class="citation-popover-snippet">role of perceived autonomy‐supportive...by N Weinstein · 2022 · Cited by 7 — The role of perceived autonomy‐supportive communications fo...</span></span></span>
-
+Evidence from multiple domains suggests that messages perceived as autonomy-supportive are less likely to trigger defensive backlash and more likely to support genuine attitude change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://econtent.hogrefe.com/doi/10.1027/2512-8442/a000159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econtent.hogrefe.com">[Hogrefe eContent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econtent.hogrefe.com</span><span class="citation-popover-snippet">Hogrefe eContentThe Effects of Choice and Autonomy-Supportive Language...27 Sept 2024  Specifically, using autonomy-supportive language...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://centaur.reading.ac.uk/109350/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centaur.reading.ac.uk">[CentAUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centaur.reading.ac.uk</span><span class="citation-popover-snippet">role of perceived autonomysupportive...by N Weinstein  2022  Cited by 7  The role of perceived autonomysupportive communications fo...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_reactance_shaming_co_0ba2e1-Illustration-3-dark.svg" | relative_url }}" alt="Reactance illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_reactance_shaming_co_0ba2e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_reactance_shaming_co_0ba2e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Practical Lesson for Correcting Misconceptions
 
 The key mechanism is not that people enjoy being wrong. It is that people often resist messages that seem to threaten their independence or dignity.
 
-A correction framed as “here is better information” leaves room for reconsideration. A correction framed as “submit to my judgement or be ashamed” risks activating reactance. Once that happens, the conversation can shift away from the misconception and towards a contest over autonomy and status.
+A correction framed as here is better information leaves room for reconsideration. A correction framed as submit to my judgement or be ashamed risks activating reactance. Once that happens, the conversation can shift away from the misconception and towards a contest over autonomy and status.
 
-For anyone trying to correct myths and misconceptions, this distinction matters. Accuracy remains essential, but the social framing of the correction influences whether people hear a factual update or a challenge to their freedom. When corrections avoid contempt and preserve agency, they reduce one of the most common psychological barriers to changing one's mind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2019.00056/pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Psychological Reactance and Persuasive Health...by T Reynolds-Tylus · 2019 · Cited by 362 — Psychological reactance theory is a commonly...</span></span></span> [3PMC 3PMC]
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9Y17YaZRRvY" title="Cognitive Dissonance Theory: A Crash Course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9Y17YaZRRvY" target="_blank" rel="noopener noreferrer">Cognitive Dissonance Theory: A Crash Course</a></p><p class="youtube-embed-meta">Channel: Opinion Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9Y17YaZRRvY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9Y17YaZRRvY">Open on YouTube</a></p></div></div></div>
-
+For anyone trying to correct myths and misconceptions, this distinction matters. Accuracy remains essential, but the social framing of the correction influences whether people hear a factual update or a challenge to their freedom. When corrections avoid contempt and preserve agency, they reduce one of the most common psychological barriers to changing one's mind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2019.00056/pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Psychological Reactance and Persuasive Health...by T Reynolds-Tylus  2019  Cited by 362  Psychological reactance theory is a commonly...</span></span></span> [3PMC 3PMC]
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -496,11 +481,11 @@ For anyone trying to correct myths and misconceptions, this distinction matters.
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reactance-why-harsh-corrections-can-trigger-defiance-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="reactance-why-harsh-corrections-can-trigger-defiance-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Posters â€“ England &amp; Wales, Educational Wall Art, Framed, Canvas, Print"><img src="{{ '/assets/images/marketplace-covers/d35735397948982a1832.jpg' | relative_url }}" alt="Listing image for UK Map Posters â€“ England &amp; Wales, Educational Wall Art, Framed, Canvas, Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reactance-why-harsh-corrections-can-trigger-defiance-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="reactance-why-harsh-corrections-can-trigger-defiance-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print"><img src="{{ '/assets/images/marketplace-covers/d35735397948982a1832.jpg' | relative_url }}" alt="Listing image for UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reactance-why-harsh-corrections-can-trigger-defiance-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="reactance-why-harsh-corrections-can-trigger-defiance-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK Map Posters â€“ England &amp; Wales, Educational Wall Art, Framed, Canvas, Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reactance-why-harsh-corrections-can-trigger-defiance-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="reactance-why-harsh-corrections-can-trigger-defiance-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reactance-why-harsh-corrections-can-trigger-defiance-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="reactance-why-harsh-corrections-can-trigger-defiance-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
         <div class="fr-book-actions">
@@ -776,169 +761,169 @@ For anyone trying to correct myths and misconceptions, this distinction matters.
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCUnderstanding Psychological Reactance  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4675534/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4675534/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby C Steindl · 2015 · Cited by 812 — Reactance – the motivation to regain a freedom after it has been lost or threatened – leads...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4675534/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4675534/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby C Steindl  2015  Cited by 812  Reactance  the motivation to regain a freedom after it has been lost or threatened  leads...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4870279/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4870279/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to Freedom and the Detrimental Effect of Avoidance...by DN Kayser · 2016 · Cited by 30 — Likewise, reactance occurs when the message con...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4870279/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4870279/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>to Freedom and the Detrimental Effect of Avoidance...by DN Kayser  2016  Cited by 30  Likewise, reactance occurs when the message con...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9936178/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9936178/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCHow Misinformation and Rebuttals in Online Comments Affect...by Y Sun · 2022 · Cited by 37 — Given that psychological reactance is co...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9936178/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9936178/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Misinformation and Rebuttals in Online Comments Affect...by Y Sun  2022  Cited by 37  Given that psychological reactance is co...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCShould or could?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6393822/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6393822/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing the use of autonomy-supportive...by MB Altendorf · 2019 · Cited by 30 — Many health messages have not been formulated in an auto...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6393822/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6393822/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing the use of autonomy-supportive...by MB Altendorf  2019  Cited by 30  Many health messages have not been formulated in an auto...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: econtent.hogrefe.com  
-   Link: [https://econtent.hogrefe.com/doi/10.1027/2512-8442/a000159](https://econtent.hogrefe.com/doi/10.1027/2512-8442/a000159)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hogrefe eContentThe Effects of Choice and Autonomy-Supportive Language...27 Sept 2024 — Specifically, using autonomy-supportive language...</p></details>
+   Link: <a href="https://econtent.hogrefe.com/doi/10.1027/2512-8442/a000159" target="_blank" rel="noopener noreferrer nofollow">https://econtent.hogrefe.com/doi/10.1027/2512-8442/a000159</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hogrefe eContentThe Effects of Choice and Autonomy-Supportive Language...27 Sept 2024  Specifically, using autonomy-supportive language...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-determination theory: its application to health behavior...by H Patrick · 2012 · Cited by 839 — As the science of behavior c...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-determination theory: its application to health behavior...by H Patrick  2012  Cited by 839  As the science of behavior c...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2019.00056/pdf](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2019.00056/pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Reactance and Persuasive Health...by T Reynolds-Tylus · 2019 · Cited by 362 — Psychological reactance theory is a commonly...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2019.00056/pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2019.00056/pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Reactance and Persuasive Health...by T Reynolds-Tylus  2019  Cited by 362  Psychological reactance theory is a commonly...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36814707/](https://pubmed.ncbi.nlm.nih.gov/36814707/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe Roles of Psychological Reactance and Misperceptionsby Y Sun · 2023 · Cited by 37 — This study investigated how exposure to nega...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36814707/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36814707/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roles of Psychological Reactance and Misperceptionsby Y Sun  2023  Cited by 37  This study investigated how exposure to nega...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: scholars.cityu.edu.hk  
    Title: how misinformation and its rebuttals in online comments affect pe  
-   Link: [https://scholars.cityu.edu.hk/en/publications/how-misinformation-and-its-rebuttals-in-online-comments-affect-pe/](https://scholars.cityu.edu.hk/en/publications/how-misinformation-and-its-rebuttals-in-online-comments-affect-pe/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CityU ScholarsThe Role of Psychological Reactance and Misperceptionsby Y Sun · 2021 — This study investigated the mechanisms by which exp...</p></details>
+   Link: <a href="https://scholars.cityu.edu.hk/en/publications/how-misinformation-and-its-rebuttals-in-online-comments-affect-pe/" target="_blank" rel="noopener noreferrer nofollow">https://scholars.cityu.edu.hk/en/publications/how-misinformation-and-its-rebuttals-in-online-comments-affect-pe/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CityU ScholarsThe Role of Psychological Reactance and Misperceptionsby Y Sun  2021  This study investigated the mechanisms by which exp...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: socialactionlab.org  
    Title: The Social Action Lab Debunking: A Meta-Analysis of the Psychological Efficacy  
-   Link: [https://socialactionlab.org/wp-content/uploads/2024/01/Chan_Debunking-A-Meta-Analysis-of-the-Psychological-Efficacy-of-Messages-Countering-Misinformation_2017.pdf](https://socialactionlab.org/wp-content/uploads/2024/01/Chan_Debunking-A-Meta-Analysis-of-the-Psychological-Efficacy-of-Messages-Countering-Misinformation_2017.pdf)  
+   Link: <a href="https://socialactionlab.org/wp-content/uploads/2024/01/Chan_Debunking-A-Meta-Analysis-of-the-Psychological-Efficacy-of-Messages-Countering-Misinformation_2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://socialactionlab.org/wp-content/uploads/2024/01/Chan_Debunking-A-Meta-Analysis-of-the-Psychological-Efficacy-of-Messages-Countering-Misinformation_2017.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This meta-analysis investigated the factors underlying effective messages to counter attitudes and beliefs based on misinformation. Becau...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1430953/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1430953/full)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Processing of misinformation as motivational and cognitive...by Y Zhou · 2024 · Cited by 21 — In this article, we examine the persistenc...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1430953/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1430953/full</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Processing of misinformation as motivational and cognitive...by Y Zhou  2024  Cited by 21  In this article, we examine the persistenc...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: selfdeterminationtheory.org  
    Title: 2022 MorbeeVansteenkisteEtAl RoleofComm  
-   Link: [https://selfdeterminationtheory.org/wp-content/uploads/2022/10/2022_MorbeeVansteenkisteEtAl_RoleofComm.pdf](https://selfdeterminationtheory.org/wp-content/uploads/2022/10/2022_MorbeeVansteenkisteEtAl_RoleofComm.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Communication Style and External Motivators...by S Morbée · 2022 · Cited by 6 — Self-Determination Theory converges on the a...</p></details>
+   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2022/10/2022_MorbeeVansteenkisteEtAl_RoleofComm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2022/10/2022_MorbeeVansteenkisteEtAl_RoleofComm.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Communication Style and External Motivators...by S Morbe  2022  Cited by 6  Self-Determination Theory converges on the a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: selfdeterminationtheory.org  
-   Link: [https://selfdeterminationtheory.org/research/autonomy-supportive-practices/](https://selfdeterminationtheory.org/research/autonomy-supportive-practices/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy-Supportive Practices – Page ArrayExploring the pathways through which teacher support predicts changes in students&#x27; academic cop...</p></details>
+   Link: <a href="https://selfdeterminationtheory.org/research/autonomy-supportive-practices/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/research/autonomy-supportive-practices/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy-Supportive Practices  Page ArrayExploring the pathways through which teacher support predicts changes in students&#x27; academic cop...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: centaur.reading.ac.uk  
-   Link: [https://centaur.reading.ac.uk/109350/](https://centaur.reading.ac.uk/109350/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>role of perceived autonomy‐supportive...by N Weinstein · 2022 · Cited by 7 — The role of perceived autonomy‐supportive communications fo...</p></details>
+   Link: <a href="https://centaur.reading.ac.uk/109350/" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/109350/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>role of perceived autonomysupportive...by N Weinstein  2022  Cited by 7  The role of perceived autonomysupportive communications fo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/psychological](https://dictionary.cambridge.org/dictionary/english/psychological)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/psychological" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/psychological</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He claims that the constant aircraft noise has a bad psychological effect on the residents.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self‐Determination Theory Into Practice - PMC - NIHby A Neufeld · 2025 · Cited by 16 — Self‐determination theory (SDT) is a well‐establis...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>SelfDetermination Theory Into Practice - PMC - NIHby A Neufeld  2025  Cited by 16  Selfdetermination theory (SDT) is a wellestablis...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: frontiersin.org  
    Title: Do Counter-Narratives Reduce Support for ISIS?  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01059/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01059/full)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yes, but...by JJ Bélanger · 2020 · Cited by 60 — The present work is grounded in psychological reactance theory (Brehm, 1966), which pos...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01059/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01059/full</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yes, but...by JJ Blanger  2020  Cited by 60  The present work is grounded in psychological reactance theory (Brehm, 1966), which pos...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2019.00056/full](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2019.00056/full)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Reactance and Persuasive Health...by T Reynolds-Tylus · 2019 · Cited by 335 — Psychological reactance theory is a commonly...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2019.00056/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2019.00056/full</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Reactance and Persuasive Health...by T Reynolds-Tylus  2019  Cited by 335  Psychological reactance theory is a commonly...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: centaur.reading.ac.uk  
    Title: Motivation communication police JASP  
-   Link: [https://centaur.reading.ac.uk/109350/1/Motivation_communication_police_JASP.pdf](https://centaur.reading.ac.uk/109350/1/Motivation_communication_police_JASP.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>communications for motivating prejudice reduction...by N Weinstein · 2022 · Cited by 6 — The current paper tests a conceptual model info...</p></details>
+   Link: <a href="https://centaur.reading.ac.uk/109350/1/Motivation_communication_police_JASP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/109350/1/Motivation_communication_police_JASP.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>communications for motivating prejudice reduction...by N Weinstein  2022  Cited by 6  The current paper tests a conceptual model info...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: yukaichou.com  
    Title: self determination theory guide to ryan and decis motivation framework  
-   Link: [https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/](https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: All 6 Mini-Theories6 May 2026 — Autonomy-supportive teachers take the student&#x27;s perspective, offer choices wit...</p></details>
+   Link: <a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: All 6 Mini-Theories6 May 2026  Autonomy-supportive teachers take the student&#x27;s perspective, offer choices wit...</p></details>
    Published: May 2026  
 
 21. <a id="endnote-21"></a>
    Source: open.ncl.ac.uk  
    Title: self determination theory  
-   Link: [https://open.ncl.ac.uk/theories/20/self-determination-theory/](https://open.ncl.ac.uk/theories/20/self-determination-theory/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ncl.ac.ukSelf-Determination Theory: A review14 Mar 2026 — Autonomy: At the core of SDT is the principle of autonomy, which highlights the...</p></details>
+   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ncl.ac.ukSelf-Determination Theory: A review14 Mar 2026  Autonomy: At the core of SDT is the principle of autonomy, which highlights the...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/350518751_Autonomy_supportive_and_reactance_supportive_inoculations_both_boost_resistance_to_propaganda_as_mediated_by_state_autonomy_but_not_state_reactance](https://www.researchgate.net/publication/350518751_Autonomy_supportive_and_reactance_supportive_inoculations_both_boost_resistance_to_propaganda_as_mediated_by_state_autonomy_but_not_state_reactance)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Autonomy supportive and reactance...31 Mar 2021 — We tested two counter-propaganda strategies for boosting peo- ples&#x27; resistance t...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/350518751_Autonomy_supportive_and_reactance_supportive_inoculations_both_boost_resistance_to_propaganda_as_mediated_by_state_autonomy_but_not_state_reactance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350518751_Autonomy_supportive_and_reactance_supportive_inoculations_both_boost_resistance_to_propaganda_as_mediated_by_state_autonomy_but_not_state_reactance</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Autonomy supportive and reactance...31 Mar 2021  We tested two counter-propaganda strategies for boosting peo- ples&#x27; resistance t...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Jason-Siegel-2/publication/392286092_Psychological_Reactance_Theory_An_Introduction_and_Overview/links/686be41e92697d42903d9df7/Psychological-Reactance-Theory-An-Introduction-and-Overview.pdf?origin=journalDetail](https://www.researchgate.net/profile/Jason-Siegel-2/publication/392286092_Psychological_Reactance_Theory_An_Introduction_and_Overview/links/686be41e92697d42903d9df7/Psychological-Reactance-Theory-An-Introduction-and-Overview.pdf?origin=journalDetail)  
+   Link: <a href="https://www.researchgate.net/profile/Jason-Siegel-2/publication/392286092_Psychological_Reactance_Theory_An_Introduction_and_Overview/links/686be41e92697d42903d9df7/Psychological-Reactance-Theory-An-Introduction-and-Overview.pdf?origin=journalDetail" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Jason-Siegel-2/publication/392286092_Psychological_Reactance_Theory_An_Introduction_and_Overview/links/686be41e92697d42903d9df7/Psychological-Reactance-Theory-An-Introduction-and-Overview.pdf?origin=journalDetail</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Reactance TheoryThere has been a recent surge in psychological reactance theory (PRT) scholarship. After nearly 60 years, t...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/reactance-theory](https://thedecisionlab.com/reference-guide/psychology/reactance-theory)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/reactance-theory" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/reactance-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reactance TheoryReactance theory suggests that when individuals perceive their freedom of choice is being restricted, they experience psy...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/359644415_How_Misinformation_and_Rebuttals_in_Online_Comments_Affect_People%27s_Intention_to_Receive_COVID-19_Vaccines_The_Roles_of_Psychological_Reactance_and_Misperceptions](https://www.researchgate.net/publication/359644415_How_Misinformation_and_Rebuttals_in_Online_Comments_Affect_People%27s_Intention_to_Receive_COVID-19_Vaccines_The_Roles_of_Psychological_Reactance_and_Misperceptions)  
+   Link: <a href="https://www.researchgate.net/publication/359644415_How_Misinformation_and_Rebuttals_in_Online_Comments_Affect_People%27s_Intention_to_Receive_COVID-19_Vaccines_The_Roles_of_Psychological_Reactance_and_Misperceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359644415_How_Misinformation_and_Rebuttals_in_Online_Comments_Affect_People%27s_Intention_to_Receive_COVID-19_Vaccines_The_Roles_of_Psychological_Reactance_and_Misperceptions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roles of Psychological Reactance and MisperceptionsPsychological reactance plays a significant role in how people react to attempts t...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/SocialAnxiety_Ideas/comments/1mur8cs/psychological_reactance/](https://www.reddit.com/r/SocialAnxiety_Ideas/comments/1mur8cs/psychological_reactance/)  
+   Link: <a href="https://www.reddit.com/r/SocialAnxiety_Ideas/comments/1mur8cs/psychological_reactance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SocialAnxiety_Ideas/comments/1mur8cs/psychological_reactance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological reactance: r/SocialAnxiety_IdeasInstead we go along with CBT explanation - where we convince ourselves that we are imagini...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: psychologicalscience.org  
    Title: counterarguments are critical to debunking misinformation  
-   Link: [https://www.psychologicalscience.org/news/releases/counterarguments-are-critical-to-debunking-misinformation.html](https://www.psychologicalscience.org/news/releases/counterarguments-are-critical-to-debunking-misinformation.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Sept 2017 — A detailed counter-message is better at persuading people to change their minds than merely labeling misinformation as wro...</p></details>
+   Link: <a href="https://www.psychologicalscience.org/news/releases/counterarguments-are-critical-to-debunking-misinformation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/counterarguments-are-critical-to-debunking-misinformation.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Sept 2017  A detailed counter-message is better at persuading people to change their minds than merely labeling misinformation as wro...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: sweetinstitute.com  
    Title: the self determination theory in behavior change and motivation  
-   Link: [https://sweetinstitute.com/the-self-determination-theory-in-behavior-change-and-motivation/](https://sweetinstitute.com/the-self-determination-theory-in-behavior-change-and-motivation/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Self-Determination Theory in Behavior Change and...17 Sept 2024 — Ryan, SDT posits that for individuals to thrive, they must satisfy...</p></details>
+   Link: <a href="https://sweetinstitute.com/the-self-determination-theory-in-behavior-change-and-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://sweetinstitute.com/the-self-determination-theory-in-behavior-change-and-motivation/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Self-Determination Theory in Behavior Change and...17 Sept 2024  Ryan, SDT posits that for individuals to thrive, they must satisfy...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: crestresearch.ac.uk  
    Title: psychological interventions to combat misinformation  
-   Link: [https://crestresearch.ac.uk/comment/psychological-interventions-to-combat-misinformation/](https://crestresearch.ac.uk/comment/psychological-interventions-to-combat-misinformation/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Oct 2023 — Exploring misinformation&#x27;s impact, resistance to correction, and the psychological strategies for debunking false informati...</p></details>
+   Link: <a href="https://crestresearch.ac.uk/comment/psychological-interventions-to-combat-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://crestresearch.ac.uk/comment/psychological-interventions-to-combat-misinformation/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Oct 2023  Exploring misinformation&#x27;s impact, resistance to correction, and the psychological strategies for debunking false informati...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: reaktanz.ifkw.lmu.de  
-   Link: [https://reaktanz.ifkw.lmu.de/the-pschological-reactance-process-model-a-new-perspective-on-resistance/](https://reaktanz.ifkw.lmu.de/the-pschological-reactance-process-model-a-new-perspective-on-resistance/)  
+   Link: <a href="https://reaktanz.ifkw.lmu.de/the-pschological-reactance-process-model-a-new-perspective-on-resistance/" target="_blank" rel="noopener noreferrer nofollow">https://reaktanz.ifkw.lmu.de/the-pschological-reactance-process-model-a-new-perspective-on-resistance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nsists of two distinct sub-appraisal sets: Evaluating the freedom...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40atticusli/reactance-theory-why-aggressive-pop-ups-backfire-and-what-to-do-instead-529bc031764f](https://medium.com/%40atticusli/reactance-theory-why-aggressive-pop-ups-backfire-and-what-to-do-instead-529bc031764f)  
+   Link: <a href="https://medium.com/%40atticusli/reactance-theory-why-aggressive-pop-ups-backfire-and-what-to-do-instead-529bc031764f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40atticusli/reactance-theory-why-aggressive-pop-ups-backfire-and-what-to-do-instead-529bc031764f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tion, and it produces more durable behavior change than any...Read more...</p></details>

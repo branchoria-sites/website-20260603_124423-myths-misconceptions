@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835
 - Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_vaccine_parental_pro_92a806
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - health-claims
 - cancer-stories
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - health-claims
 - cancer-stories
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Personal cancer recovery stories can offer hope while hiding treatment details that make a cure claim unsafe.
 hero_summary: Personal cancer recovery stories can offer hope while hiding treatment details that make a cure claim unsafe.
 layout: default
 permalink: /cancer-stories/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /health-claims/
 nav_short_title: Cancer Stories
 title: When Cancer Cure Stories Leave Out Treatment
-title_full: When Cancer Cure Stories Leave Out Treatment | Health Claims
+title_full: When Cancer Cure Stories Leave Out Treatment
 display_title_short: Cancer Stories
 display_title: Cancer Stories
 heading_title: When Cancer Cure Stories Leave Out Treatment
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Helpful Health Advice Can Be Wrong | Mythcraft
+parent_title: Why Helpful Health Advice Can Be Wrong
 parent_permalink: /health-claims/
 parent_nav_short_title: Health Claims
 parent_heading_title: Why Helpful Health Advice Can Be Wrong
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Vaccine Myths Feel Protective to Parents
 up_link:
   basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
@@ -259,7 +259,7 @@ next_link:
   permalink: /kind-corrections/
   short_title: Kind Corrections
   heading_title: How to Correct Health Myths Kindly
-date: '2026-06-09 04:31:42 '
+date: '2026-06-11 22:05:39 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-1.webp
@@ -270,16 +270,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_can
 
 Cancer recovery stories can be powerful. They offer hope during frightening diagnoses, make complex medical experiences feel personal, and often spread faster than scientific explanations. The problem is not that survivor stories exist. Many are genuine and meaningful. The problem is that a story about someone who improved after cancer treatment can easily become a story about what supposedly cured them, even when crucial details are missing.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-1-dark.svg" | relative_url }}" alt="Cancer Stories illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In cancer misinformation, personal testimony often carries more emotional weight than evidence. A social media post may credit a special diet, supplement, detox, prayer practice or alternative therapy for a recovery while barely mentioning surgery, chemotherapy, radiotherapy, immunotherapy or years of medical monitoring. Readers may come away believing that the alternative approach caused the recovery. For some patients, that misunderstanding can encourage delays in proven treatment or create false expectations about what is realistically known to work. Cancer organisations and researchers have repeatedly warned that misinformation about cancer treatments can influence decisions in ways that worsen outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-snippet">The Challenges of Cancer Misinformation on Social MediaSep 9, 2021 — Misinformation about cancer is pervasive on the Internet and social...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCCancer Misinformation and Harmful Information on Facebook...by SB Johnson · 2021 · Cited by 240 — Health misinformation threatens pub...</span></span></span>
+In cancer misinformation, personal testimony often carries more emotional weight than evidence. A social media post may credit a special diet, supplement, detox, prayer practice or alternative therapy for a recovery while barely mentioning surgery, chemotherapy, radiotherapy, immunotherapy or years of medical monitoring. Readers may come away believing that the alternative approach caused the recovery. For some patients, that misunderstanding can encourage delays in proven treatment or create false expectations about what is realistically known to work. Cancer organisations and researchers have repeatedly warned that misinformation about cancer treatments can influence decisions in ways that worsen outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-snippet">The Challenges of Cancer Misinformation on Social MediaSep 9, 2021 — Misinformation about cancer is pervasive on the Internet and social...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Cancer Misinformation and Harmful Information on Facebook...by SB Johnson · 2021 · Cited by 240 — Health misinformation threatens pub...</span></span></span>
 
 ## Why Survivor Stories Feel More Convincing Than Statistics
 
 Human beings naturally learn through stories. A single detailed account of a person who says, “I had cancer and this cured me,” often feels more persuasive than population-level evidence showing treatment outcomes across thousands of patients.
 
 Several psychological factors make these stories especially influential:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -290,9 +288,9 @@ Several psychological factors make these stories especially influential:
 
 </div>
 
-Researchers studying cancer misinformation have found that false claims about alternative cures spread widely online and are often amplified through emotionally engaging content rather than strong evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11648589/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCCancer misinformation on social media - PMC - NIHby S Loeb · 2024 · Cited by 58 — This should be distinguished from disinformation, wh...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10422174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCExposure and Reactions to Cancer Treatment Misinformation...by AJ Lazard · 2023 · Cited by 30 — Cancer treatment misinformation, or f...</span></span></span>
+Researchers studying cancer misinformation have found that false claims about alternative cures spread widely online and are often amplified through emotionally engaging content rather than strong evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11648589/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Cancer misinformation on social media - PMC - NIHby S Loeb · 2024 · Cited by 58 — This should be distinguished from disinformation, wh...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10422174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Exposure and Reactions to Cancer Treatment Misinformation...by AJ Lazard · 2023 · Cited by 30 — Cancer treatment misinformation, or f...</span></span></span>
 
-The persuasive power of testimony does not mean the testimony is false. A person may honestly believe a particular diet, supplement or wellness practice saved their life. The difficulty is that [personal experience]({{ 'anecdotes/' | relative_url }}) alone cannot reliably show which part of a treatment journey caused the outcome.
+The persuasive power of testimony does not mean the testimony is false. A person may honestly believe a particular diet, supplement or wellness practice saved their life. The difficulty is that personal experience alone cannot reliably show which part of a treatment journey caused the outcome.
 
 ## What Cure Claims Often Leave Out
 
@@ -305,7 +303,6 @@ One of the most common omissions is established medical treatment. A person may 
 A widely discussed example involved model Elle Macpherson's account of recovering from breast cancer. [Media coverage]({{ 'media-coverage/' | relative_url }}) often highlighted alternative approaches she adopted, but medical experts noted that she had also undergone a lumpectomy, a standard cancer treatment that may have played a central role in removing the cancer. Critics argued that framing the story primarily around alternative therapies risked creating a misleading impression about what caused the successful outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/elle-macpherson-breast-cancer-treatment-lumpectomy-misleading-2024-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">Doctors say that&#x27;s misleading and potentially dangerous.September 4, 2024 — Elle Macpherson, an Australian supermodel, revealed she was d...</span><span class="citation-popover-meta">Published: September 4, 2024</span></span></span>
 
 This pattern appears frequently in online testimonials. The visible story centres on the unusual intervention, while the routine medical treatment receives little attention because it is less novel and less likely to attract clicks.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jr_Y0yqAi_c" title="Real Lives: Cancer Stories of Indigenous People presented by the American Cancer Society" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jr_Y0yqAi_c" target="_blank" rel="noopener noreferrer">Real Lives: Cancer Stories of Indigenous People presented by the American Cancer Society</a></p><p class="youtube-embed-meta">Channel: American Cancer Society &middot; Views: 1.6K &middot; Uploaded: May 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jr_Y0yqAi_c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jr_Y0yqAi_c">Open on YouTube</a></p></div></div></div>
 
@@ -335,7 +332,6 @@ As a result, audiences see a filtered sample. They encounter the apparent succes
 
 This is one reason why medicine relies on controlled studies rather than individual testimonials. Clinical research attempts to count both positive and negative outcomes rather than only the stories that attract attention.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-2-dark.svg" | relative_url }}" alt="Cancer Stories illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Hope Becomes a Reason to Delay Treatment
 
@@ -343,7 +339,7 @@ The most serious risk arises when hopeful stories encourage patients to postpone
 
 Researchers have repeatedly found links between reliance on alternative cancer treatments and worse outcomes when those treatments are used instead of conventional care. One widely cited study found that cancer patients who chose alternative medicine as their initial treatment experienced substantially poorer survival than comparable patients who received standard treatment. For some cancer types, mortality risks were dramatically higher. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-title">alternative medicine cancer survival</span><span class="citation-popover-snippet">Alternative Medicine for Cancer Treatment Raises Mortality...Sep 12, 2017 — Choosing alternative medicine as an initial cancer treatment...</span></span></span>
 
-Another study found that patients using complementary medicine were more likely to refuse conventional treatment, a decision associated with higher mortality. Researchers suggested that the survival difference was strongly connected to whether patients completed recommended medical therapies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6233773/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCComplementary Medicine, Refusal of Conventional Cancer...by SB Johnson · 2018 · Cited by 432 — Patients who received complementary me...</span></span></span>
+Another study found that patients using complementary medicine were more likely to refuse conventional treatment, a decision associated with higher mortality. Researchers suggested that the survival difference was strongly connected to whether patients completed recommended medical therapies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6233773/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Complementary Medicine, Refusal of Conventional Cancer...by SB Johnson · 2018 · Cited by 432 — Patients who received complementary me...</span></span></span>
 
 This distinction matters. Complementary approaches such as mindfulness, exercise programmes, counselling, massage, acupuncture for symptom management or nutritional support may sometimes help patients cope with treatment side effects and improve quality of life. The danger arises when alternative approaches are presented as [replacements]({{ 'replacements/' | relative_url }}) for treatment rather than additions to supportive care. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">em inappropriately can be harmful. For your safety:.Read more...</span></span></span>
 
@@ -353,19 +349,17 @@ A cancer survivor speaking to friends and family is not the same thing as a canc
 
 On social media, recovery stories often undergo a process of simplification:
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zKp-ZmNYHjY" title="Can You Trust Cancer Advice Online? #misinformation #podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zKp-ZmNYHjY" target="_blank" rel="noopener noreferrer">Can You Trust Cancer Advice Online? #misinformation #podcast</a></p><p class="youtube-embed-meta">Channel: Cancer Research UK &middot; Views: 2.7K &middot; Uploaded: April 2026 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zKp-ZmNYHjY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zKp-ZmNYHjY">Open on YouTube</a></p></div></div></div>
-
 1. A patient shares a complex personal experience.
 2. Followers focus on the most unusual element.
 3. Reposts remove medical context.
 4. [Headlines]({{ 'headlines/' | relative_url }}) emphasise the surprising intervention.
 5. Audiences receive a simplified message: "This cured cancer."
 
-Researchers and cancer organisations have warned that social [platforms]({{ 'platforms/' | relative_url }}) can accelerate the spread of cancer misinformation because emotionally engaging claims often attract more attention than careful scientific explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCCancer Misinformation and Harmful Information on Facebook...by SB Johnson · 2021 · Cited by 240 — Health misinformation threatens pub...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cancer.org/cancer/managing-cancer/how-to-interpret-news-about-new-cancer-treatments.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.org">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.org</span><span class="citation-popover-title">how to interpret news about new cancer treatments</span><span class="citation-popover-snippet">American Cancer SocietyUnderstanding Information About New Cancer TreatmentsAug 8, 2025 — Before a new medicine or device can be marketed...</span></span></span>
+Researchers and cancer organisations have warned that social [platforms]({{ 'platforms/' | relative_url }}) can accelerate the spread of cancer misinformation because emotionally engaging claims often attract more attention than careful scientific explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Cancer Misinformation and Harmful Information on Facebook...by SB Johnson · 2021 · Cited by 240 — Health misinformation threatens pub...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cancer.org/cancer/managing-cancer/how-to-interpret-news-about-new-cancer-treatments.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.org">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.org</span><span class="citation-popover-title">how to interpret news about new cancer treatments</span><span class="citation-popover-snippet">American Cancer SocietyUnderstanding Information About New Cancer TreatmentsAug 8, 2025 — Before a new medicine or device can be marketed...</span></span></span>
 
 The result is a distorted information environment in which dramatic [anecdotes]({{ 'anecdotes/' | relative_url }}) compete directly with evidence gathered from thousands of patients.
 
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-3-dark.svg" | relative_url }}" alt="Cancer Stories illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Wellness Influencer Problem
 
 Some of the most influential cancer cure narratives emerge from wellness culture.
@@ -374,8 +368,6 @@ The Australian influencer Belle Gibson became one of the most notorious examples
 
 Most misleading stories are not deliberate frauds on that scale. Nevertheless, the case showed how emotionally compelling recovery claims can spread long before their factual basis is examined.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-3-dark.svg" | relative_url }}" alt="Cancer Stories illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Good Intentions Do Not Make a Story Reliable
 
 Many people sharing cancer recovery stories genuinely want to help.
@@ -386,14 +378,15 @@ The problem is that sincerity does not create evidence.
 
 A patient may honestly believe a particular supplement cured their cancer. Another may sincerely credit a strict diet. A third may feel certain that positive thinking changed the course of their illness. Yet personal conviction cannot separate what caused a recovery from what merely accompanied it.
 
-Cancer organisations consistently caution against treating individual testimonials as proof of effectiveness. Unproven therapies may sound persuasive because they are attached to real people, but [personal experiences]({{ 'anecdotes/' | relative_url }}) cannot substitute for clinical evidence showing that a treatment works consistently and safely across many patients. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mskcc.org/news/truth-behind-three-natural-cures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mskcc.org">[Memorial Sloan Kettering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mskcc.org</span><span class="citation-popover-snippet">Memorial Sloan KetteringThe Truth Behind Four Natural Cancer “Cures”Jun 25, 2024 — “Natural” cancer therapies should be regarded with gre...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">em inappropriately can be harmful. For your safety:.Read more...</span></span></span>
+Cancer organisations consistently caution against treating individual testimonials as proof of effectiveness. Unproven therapies may sound persuasive because they are attached to real people, but personal experiences cannot substitute for clinical evidence showing that a treatment works consistently and safely across many patients. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mskcc.org/news/truth-behind-three-natural-cures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mskcc.org">[Memorial Sloan Kettering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mskcc.org</span><span class="citation-popover-snippet">Memorial Sloan KetteringThe Truth Behind Four Natural Cancer “Cures”Jun 25, 2024 — “Natural” cancer therapies should be regarded with gre...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">em inappropriately can be harmful. For your safety:.Read more...</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zKp-ZmNYHjY" title="Can You Trust Cancer Advice Online? #misinformation #podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zKp-ZmNYHjY" target="_blank" rel="noopener noreferrer">Can You Trust Cancer Advice Online? #misinformation #podcast</a></p><p class="youtube-embed-meta">Channel: Cancer Research UK &middot; Views: 2.7K &middot; Uploaded: April 2026 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zKp-ZmNYHjY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zKp-ZmNYHjY">Open on YouTube</a></p></div></div></div>
 
 ## How to Respect Hope While Checking the Evidence
 
 Patients do not need to reject hopeful stories altogether. Survivor experiences can provide comfort, practical advice and emotional support. The challenge is learning how to separate inspiration from evidence.
 
 Useful questions include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -409,10 +402,6 @@ Useful questions include:
 Reliable cancer organisations stress that promising treatments should be evaluated through research, regulatory review and clinical trials rather than anecdotal success stories alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cancer.org/cancer/managing-cancer/how-to-interpret-news-about-new-cancer-treatments.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.org">[American Cancer Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.org</span><span class="citation-popover-title">how to interpret news about new cancer treatments</span><span class="citation-popover-snippet">American Cancer SocietyUnderstanding Information About New Cancer TreatmentsAug 8, 2025 — Before a new medicine or device can be marketed...</span></span></span>
 
 Hope and evidence are not opposites. Patients often need both. Survivor stories can remind people that treatment is worth enduring and that life after cancer is possible. Problems arise when stories stop being sources of encouragement and start being treated as proof that an unverified cure works. In those moments, a reassuring narrative can become a form of misinformation, even when everyone involved believes they are helping.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h2rR77VsF5c" title="Why is it so hard to cure cancer? - Kyuson Yun" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h2rR77VsF5c" target="_blank" rel="noopener noreferrer">Why is it so hard to cure cancer? - Kyuson Yun</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h2rR77VsF5c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h2rR77VsF5c">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -810,149 +799,149 @@ Hope and evidence are not opposites. Patients often need both. Survivor stories 
 
 1. <a id="endnote-1"></a>
    Source: cancer.gov  
-   Link: [https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media](https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media)  
+   Link: <a href="https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Challenges of Cancer Misinformation on Social MediaSep 9, 2021 — Misinformation about cancer is pervasive on the Internet and social...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCCancer Misinformation and Harmful Information on Facebook...by SB Johnson · 2021 · Cited by 240 — Health misinformation threatens pub...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer Misinformation and Harmful Information on Facebook...by SB Johnson · 2021 · Cited by 240 — Health misinformation threatens pub...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11648589/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11648589/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCCancer misinformation on social media - PMC - NIHby S Loeb · 2024 · Cited by 58 — This should be distinguished from disinformation, wh...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11648589/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11648589/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer misinformation on social media - PMC - NIHby S Loeb · 2024 · Cited by 58 — This should be distinguished from disinformation, wh...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10422174/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10422174/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCExposure and Reactions to Cancer Treatment Misinformation...by AJ Lazard · 2023 · Cited by 30 — Cancer treatment misinformation, or f...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10422174/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10422174/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposure and Reactions to Cancer Treatment Misinformation...by AJ Lazard · 2023 · Cited by 30 — Cancer treatment misinformation, or f...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cancer.gov  
    Title: alternative medicine cancer survival  
-   Link: [https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival](https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival)  
+   Link: <a href="https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alternative Medicine for Cancer Treatment Raises Mortality...Sep 12, 2017 — Choosing alternative medicine as an initial cancer treatment...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6233773/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6233773/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCComplementary Medicine, Refusal of Conventional Cancer...by SB Johnson · 2018 · Cited by 432 — Patients who received complementary me...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6233773/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6233773/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Complementary Medicine, Refusal of Conventional Cancer...by SB Johnson · 2018 · Cited by 432 — Patients who received complementary me...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nccih.nih.gov  
-   Link: [https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know](https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know)  
+   Link: <a href="https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>em inappropriately can be harmful. For your safety:.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: time.com  
    Title: Can Complementary Therapies Ease Cancer Treatment Symptoms?  
-   Link: [https://time.com/6171230/complementary-integrative-therapies-cancer/](https://time.com/6171230/complementary-integrative-therapies-cancer/)  
+   Link: <a href="https://time.com/6171230/complementary-integrative-therapies-cancer/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6171230/complementary-integrative-therapies-cancer/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the Science SaysComplementary therapies can ease the side effects of cancer treatment, such as anxiety, depression, and pain, althou...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: people.com  
    Title: Did Belle Gibson Actually Have Cancer?  
-   Link: [https://people.com/apple-cider-vinegar-true-story-8786382](https://people.com/apple-cider-vinegar-true-story-8786382)  
+   Link: <a href="https://people.com/apple-cider-vinegar-true-story-8786382" target="_blank" rel="noopener noreferrer nofollow">https://people.com/apple-cider-vinegar-true-story-8786382</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the &quot;Apple Cider Vinegar&quot; True Story and the Influencer&#x27;s Real-Life Disease-Curing ScamFebruary 6, 2025 — Belle Gibson, a former A...</p></details>
    Published: February 6, 2025  
 
 10. <a id="endnote-10"></a>
    Source: cancer.org  
    Title: how to interpret news about new cancer treatments  
-   Link: [https://www.cancer.org/cancer/managing-cancer/how-to-interpret-news-about-new-cancer-treatments.html](https://www.cancer.org/cancer/managing-cancer/how-to-interpret-news-about-new-cancer-treatments.html)  
+   Link: <a href="https://www.cancer.org/cancer/managing-cancer/how-to-interpret-news-about-new-cancer-treatments.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.org/cancer/managing-cancer/how-to-interpret-news-about-new-cancer-treatments.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Cancer SocietyUnderstanding Information About New Cancer TreatmentsAug 8, 2025 — Before a new medicine or device can be marketed...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cancer.org  
    Title: how to use safely  
-   Link: [https://www.cancer.org/cancer/supportive-care/integrative-medicine/how-to-use-safely.html](https://www.cancer.org/cancer/supportive-care/integrative-medicine/how-to-use-safely.html)  
+   Link: <a href="https://www.cancer.org/cancer/supportive-care/integrative-medicine/how-to-use-safely.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.org/cancer/supportive-care/integrative-medicine/how-to-use-safely.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use Integrative (Holistic) Therapies SafelyJul 11, 2025 — Like any treatment, certain integrative (holistic) therapies may pose ri...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cancer.org  
-   Link: [https://www.cancer.org/about-us/what-we-do/cancer-stories.html](https://www.cancer.org/about-us/what-we-do/cancer-stories.html)  
+   Link: <a href="https://www.cancer.org/about-us/what-we-do/cancer-stories.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.org/about-us/what-we-do/cancer-stories.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer StoriesRead stories of real people who have survived cancer – and the positive impact the American Cancer Society had on their can...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cancer.ca  
-   Link: [https://cancer.ca/en/about-us/stories](https://cancer.ca/en/about-us/stories)  
+   Link: <a href="https://cancer.ca/en/about-us/stories" target="_blank" rel="noopener noreferrer nofollow">https://cancer.ca/en/about-us/stories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our storiesDiscover stories about the impact of cancer on the lives of Canadians. Learn more about cancer research, support programs, hea...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/elle-macpherson-breast-cancer-treatment-lumpectomy-misleading-2024-9](https://www.businessinsider.com/elle-macpherson-breast-cancer-treatment-lumpectomy-misleading-2024-9)  
+   Link: <a href="https://www.businessinsider.com/elle-macpherson-breast-cancer-treatment-lumpectomy-misleading-2024-9" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/elle-macpherson-breast-cancer-treatment-lumpectomy-misleading-2024-9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Doctors say that&#x27;s misleading and potentially dangerous.September 4, 2024 — Elle Macpherson, an Australian supermodel, revealed she was d...</p></details>
    Published: September 4, 2024  
 
 15. <a id="endnote-15"></a>
    Source: mskcc.org  
-   Link: [https://www.mskcc.org/news/truth-behind-three-natural-cures](https://www.mskcc.org/news/truth-behind-three-natural-cures)  
+   Link: <a href="https://www.mskcc.org/news/truth-behind-three-natural-cures" target="_blank" rel="noopener noreferrer nofollow">https://www.mskcc.org/news/truth-behind-three-natural-cures</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Memorial Sloan KetteringThe Truth Behind Four Natural Cancer “Cures”Jun 25, 2024 — “Natural” cancer therapies should be regarded with gre...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: mskcc.org  
    Title: Memorial Sloan Kettering Alternative Cancer Treatments: The Science vs  
-   Link: [https://www.mskcc.org/podcasts/cancer-straight-talk/alternative-cancer-treatments-science-vs-hype](https://www.mskcc.org/podcasts/cancer-straight-talk/alternative-cancer-treatments-science-vs-hype)  
+   Link: <a href="https://www.mskcc.org/podcasts/cancer-straight-talk/alternative-cancer-treatments-science-vs-hype" target="_blank" rel="noopener noreferrer nofollow">https://www.mskcc.org/podcasts/cancer-straight-talk/alternative-cancer-treatments-science-vs-hype</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The HypeFeb 19, 2025 — Many widely discussed alternative treatments lack scientific evidence for treating cancer. For example, Ivermectin...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: macmillan.org.uk  
-   Link: [https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation](https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation)  
+   Link: <a href="https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wrong information can increase worry and delay people seeing their doctor or...Read more...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: ecancer.org  
-   Link: [https://ecancer.org/en/news/27083-study-finds-most-cancer-patients-exposed-to-misinformation-researchers-pilot-information-prescription](https://ecancer.org/en/news/27083-study-finds-most-cancer-patients-exposed-to-misinformation-researchers-pilot-information-prescription)  
+   Link: <a href="https://ecancer.org/en/news/27083-study-finds-most-cancer-patients-exposed-to-misinformation-researchers-pilot-information-prescription" target="_blank" rel="noopener noreferrer nofollow">https://ecancer.org/en/news/27083-study-finds-most-cancer-patients-exposed-to-misinformation-researchers-pilot-information-prescription</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Study finds most cancer patients exposed to misinformation...25 Sept 2025 — Ninety-three percent of patients with a new cancer diagnosis...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ecancer.org  
-   Link: [https://ecancer.org/en/news/15035-surprising-number-of-americans-believe-alternative-therapies-can-cure-cancer](https://ecancer.org/en/news/15035-surprising-number-of-americans-believe-alternative-therapies-can-cure-cancer)  
+   Link: <a href="https://ecancer.org/en/news/15035-surprising-number-of-americans-believe-alternative-therapies-can-cure-cancer" target="_blank" rel="noopener noreferrer nofollow">https://ecancer.org/en/news/15035-surprising-number-of-americans-believe-alternative-therapies-can-cure-cancer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Surprising number of Americans believe alternative...1 Nov 2018 — Nearly four in 10 Americans (39%) believe cancer can be cured solely t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/about-fda/conversations-cancer/conversations-cancer-cancer-misinformation-truth-or-consequences](https://www.fda.gov/about-fda/conversations-cancer/conversations-cancer-cancer-misinformation-truth-or-consequences)  
+   Link: <a href="https://www.fda.gov/about-fda/conversations-cancer/conversations-cancer-cancer-misinformation-truth-or-consequences" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/about-fda/conversations-cancer/conversations-cancer-cancer-misinformation-truth-or-consequences</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conversations on Cancer: Cancer Misinformation: Truth or...Nov 6, 2024 — Rapid evolution of social media platforms on the internet has f...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: oncologynewscentral.com  
    Title: interest in ivermectin for cancer has spread like wildfire oncologists say  
-   Link: [https://www.oncologynewscentral.com/oncology/interest-in-ivermectin-for-cancer-has-spread-like-wildfire-oncologists-say](https://www.oncologynewscentral.com/oncology/interest-in-ivermectin-for-cancer-has-spread-like-wildfire-oncologists-say)  
+   Link: <a href="https://www.oncologynewscentral.com/oncology/interest-in-ivermectin-for-cancer-has-spread-like-wildfire-oncologists-say" target="_blank" rel="noopener noreferrer nofollow">https://www.oncologynewscentral.com/oncology/interest-in-ivermectin-for-cancer-has-spread-like-wildfire-oncologists-say</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Interest in Ivermectin for Cancer “Has Spread Like Wildfire,”...Jun 13, 2025 — “There is currently no evidence in humans, or in patients...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ilcn.org  
-   Link: [https://www.ilcn.org/cancer-misinformation-its-impact-on-patients-and-mitigation-strategies/](https://www.ilcn.org/cancer-misinformation-its-impact-on-patients-and-mitigation-strategies/)  
+   Link: <a href="https://www.ilcn.org/cancer-misinformation-its-impact-on-patients-and-mitigation-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.ilcn.org/cancer-misinformation-its-impact-on-patients-and-mitigation-strategies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ing the delivery of evidence-based therapies, but it threatens public health by eroding trust.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: hhs.gov  
    Title: surgeon general misinformation advisory  
-   Link: [https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf](https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf)  
+   Link: <a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health MisinformationJul 14, 2021 — Social media, political polarization and political disinformation: A review of the scient...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: List of unproven and disproven cancer treatments  
-   Link: [https://en.wikipedia.org/wiki/List_of_unproven_and_disproven_cancer_treatments](https://en.wikipedia.org/wiki/List_of_unproven_and_disproven_cancer_treatments)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_unproven_and_disproven_cancer_treatments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_unproven_and_disproven_cancer_treatments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of unproven and disproven cancer treatmentsMany alternative cancer treatments are considered disproven because they have been inv...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cancerresearchuk/posts/anyone-can-give-you-cancer-advice-online-but-the-consequences-could-be-seriousin/1438189448342826/](https://www.facebook.com/cancerresearchuk/posts/anyone-can-give-you-cancer-advice-online-but-the-consequences-could-be-seriousin/1438189448342826/)  
+   Link: <a href="https://www.facebook.com/cancerresearchuk/posts/anyone-can-give-you-cancer-advice-online-but-the-consequences-could-be-seriousin/1438189448342826/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cancerresearchuk/posts/anyone-can-give-you-cancer-advice-online-but-the-consequences-could-be-seriousin/1438189448342826/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>what&#x27;s not, and why it matters. We&#x27;re joined by breast...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: cancerresearchuk.org  
-   Link: [https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/essiac](https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/essiac)  
+   Link: <a href="https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/essiac" target="_blank" rel="noopener noreferrer nofollow">https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/essiac</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s use as a treatment for cancer. Essiac can have side effects...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Understanding the Science Behind Cancer Treatment  
-   Link: [https://www.youtube.com/watch?v=Xh0YyQW1VqQ](https://www.youtube.com/watch?v=Xh0YyQW1VqQ)  
+   Link: <a href="https://www.youtube.com/watch?v=Xh0YyQW1VqQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xh0YyQW1VqQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos are relevant because they explore how emotional testimonials and unverified claims about &quot;miracle cures&quot; can distract from e...</p></details>

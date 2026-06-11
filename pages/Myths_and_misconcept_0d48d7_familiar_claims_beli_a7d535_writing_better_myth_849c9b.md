@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8
 - Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_repeated_climate_cla_d86c1d
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - familiarity
 - better-corrections
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - familiarity
 - better-corrections
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Good corrections lead with the truth, identify the trap carefully, and give readers a clearer explanation to remember.
 hero_summary: Good corrections lead with the truth, identify the trap carefully, and give readers a clearer explanation to remember.
 layout: default
 permalink: /better-corrections/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /familiarity/
 nav_short_title: Better Corrections
 title: How to correct a myth without boosting it
-title_full: How to correct a myth without boosting it | Familiarity
+title_full: How to correct a myth without boosting it
 display_title_short: Better Corrections
 display_title: Better Corrections
 heading_title: How to correct a myth without boosting it
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Repetition Makes Claims Feel True | Mythcraft
+parent_title: Why Repetition Makes Claims Feel True
 parent_permalink: /familiarity/
 parent_nav_short_title: Familiarity
 parent_heading_title: Why Repetition Makes Claims Feel True
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why one headline can feel familiar enough
 up_link:
   basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
@@ -265,7 +265,7 @@ next_link:
   permalink: /climate-claims/
   short_title: Climate Claims
   heading_title: When repeated climate claims feel established
-date: '2026-06-09 04:48:34 '
+date: '2026-06-11 22:13:40 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_writing_better_myth_849c9b-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_writing_better_myth_849c9b-Illustration-1.webp
@@ -274,17 +274,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_wr
 
 ## Introduction
 
-Correcting a myth is not simply a matter of stating that it is wrong. Research on misinformation shows that people often remember the general idea of a claim long after they forget where they heard it or whether it was later corrected. Because familiar statements can feel more believable, a poorly written [correction]({{ 'correction/' | relative_url }}) can accidentally strengthen the [memory]({{ 'memory/' | relative_url }}) of the myth it is trying to remove. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire · Cited by 139 — Even after people receive clear and credible cor...</span></span></span>
-
+Correcting a myth is not simply a matter of stating that it is wrong. Research on misinformation shows that people often remember the general idea of a claim long after they forget where they heard it or whether it was later corrected. Because familiar statements can feel more believable, a poorly written [correction]({{ 'correction/' | relative_url }}) can accidentally strengthen the [memory]({{ 'memory/' | relative_url }}) of the myth it is trying to remove. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker  2022  Cited by 1916  In this Review, we describe the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire  Cited by 139  Even after people receive clear and credible cor...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_writing_better_myth_849c9b-Illustration-1-dark.svg" | relative_url }}" alt="Better Corrections illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_writing_better_myth_849c9b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_writing_better_myth_849c9b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Effective [corrections]({{ 'corrections/' | relative_url }}) work differently. They make the accurate information more memorable than the false claim. Instead of centring the myth, they lead with the truth, signal clearly that the false claim is incorrect, and replace it with a better explanation that readers can hold onto. This approach has become a core recommendation in misinformation research and practical fact-checking guidance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">The Debunking HandbookNovember 25, 2011 — by S Lewandowsky — To avoid these “backfire effects”, an effective debunking requires three maj...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookBecause a myth is necessarily repeated when it is debunked, the risk arises that...</span></span></span>
+Effective [corrections]({{ 'corrections/' | relative_url }}) work differently. They make the accurate information more memorable than the false claim. Instead of centring the myth, they lead with the truth, signal clearly that the false claim is incorrect, and replace it with a better explanation that readers can hold onto. This approach has become a core recommendation in misinformation research and practical fact-checking guidance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">The Debunking HandbookNovember 25, 2011  by S Lewandowsky  To avoid these backfire effects, an effective debunking requires three maj...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookBecause a myth is necessarily repeated when it is debunked, the risk arises that...</span></span></span>
 
 ## Lead with the accurate claim
 
 The first information readers encounter often becomes the anchor for everything that follows. If a correction opens by repeating a myth in a headline or first sentence, the myth receives the most attention. If it opens with the factual claim, the fact becomes the anchor instead.
 
-This is the logic behind the widely used "truth sandwich" approach. Rather than beginning with the falsehood, communicators start with what is known to be true, briefly address the misinformation, and then return to the factual explanation. The aim is not merely stylistic. It reflects evidence that repeated exposure can increase familiarity and perceived truthfulness, even when people later learn that the claim is false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[2ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">The Debunking HandbookNovember 25, 2011 — by S Lewandowsky — To avoid these “backfire effects”, an effective debunking requires three maj...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span>
+This is the logic behind the widely used "truth sandwich" approach. Rather than beginning with the falsehood, communicators start with what is known to be true, briefly address the misinformation, and then return to the factual explanation. The aim is not merely stylistic. It reflects evidence that repeated exposure can increase familiarity and perceived truthfulness, even when people later learn that the claim is false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[2ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">The Debunking HandbookNovember 25, 2011  by S Lewandowsky  To avoid these backfire effects, an effective debunking requires three maj...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span>
 
 Consider the difference:
 
@@ -293,15 +292,15 @@ Consider the difference:
 
 Both contain the same factual content, but the second version gives readers a true statement to remember before they encounter the myth.
 
-This principle also applies to [headlines]({{ 'headlines/' | relative_url }}), social posts and presentation slides. A headline such as "The Earth is warming because greenhouse gases trap heat" is generally safer than "No, climate change is not a hoax". The factual frame appears first and remains the dominant message. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[KSJ Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-title">KSJ Handbook Structuring Your Argument</span><span class="citation-popover-snippet">KSJ HandbookStructuring Your Argument - MisinformationThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting...</span></span></span>
+This principle also applies to [headlines]({{ 'headlines/' | relative_url }}), social posts and presentation slides. A headline such as "The Earth is warming because greenhouse gases trap heat" is generally safer than "No, climate change is not a hoax". The factual frame appears first and remains the dominant message. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[KSJ Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-title">KSJ Handbook Structuring Your Argument</span><span class="citation-popover-snippet">KSJ HandbookStructuring Your Argument - MisinformationThe fact-myth-fallacy structure when debunking a claim. This involves presenting...</span></span></span>
 
 ### Why leading with facts matters
 
 People often retain the "gist" of information rather than its exact wording. Over time, they may remember that a topic was discussed without remembering whether the original claim was true or false.
 
-That creates a risk for corrections built around myth [repetition]({{ 'repetition/' | relative_url }}). A reader may later recall the familiar claim but forget the correction attached to it. Leading with the factual explanation increases the chance that the remembered gist is accurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire · Cited by 139 — Even after people receive clear and credible cor...</span></span></span>
+That creates a risk for corrections built around myth [repetition]({{ 'repetition/' | relative_url }}). A reader may later recall the familiar claim but forget the correction attached to it. Leading with the factual explanation increases the chance that the remembered gist is accurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire  Cited by 139  Even after people receive clear and credible cor...</span></span></span>
 
-Researchers once worried that repeating a myth during correction could routinely produce a strong "familiarity backfire effect". More recent reviews suggest that this effect is less robust than originally feared, and corrections usually help more than they harm. However, familiarity still matters, which is why communicators are encouraged to keep the factual information central rather than making the myth the star of the message. Brown Climate Social Science Network <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCby B Swire-Thompson · 2021 · Cited by 79 — This suggests that the standard format of leading with and then correcting a myth may be pr...</span></span></span>
+Researchers once worried that repeating a myth during correction could routinely produce a strong "familiarity backfire effect". More recent reviews suggest that this effect is less robust than originally feared, and corrections usually help more than they harm. However, familiarity still matters, which is why communicators are encouraged to keep the factual information central rather than making the myth the star of the message. Brown Climate Social Science Network <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">by B Swire-Thompson  2021  Cited by 79  This suggests that the standard format of leading with and then correcting a myth may be pr...</span></span></span>
 
 ## Warn before naming the myth
 
@@ -310,7 +309,6 @@ Sometimes a myth must be mentioned. Readers may not understand a correction if t
 The key is to signal clearly that misinformation is coming before introducing it. A warning helps readers process the statement as something to reject rather than something to absorb.
 
 A correction can use simple cues such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,8 +319,7 @@ A correction can use simple cues such as:
 
 </div>
 
-These warnings act as mental labels. They help separate the myth from the factual explanation and reduce the chance that readers later remember the claim without remembering its status. This recommendation appears repeatedly in debunking guidance produced by misinformation researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">The Debunking HandbookNovember 25, 2011 — by S Lewandowsky — To avoid these “backfire effects”, an effective debunking requires three maj...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span>
-
+These warnings act as mental labels. They help separate the myth from the factual explanation and reduce the chance that readers later remember the claim without remembering its status. This recommendation appears repeatedly in debunking guidance produced by misinformation researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">The Debunking HandbookNovember 25, 2011  by S Lewandowsky  To avoid these backfire effects, an effective debunking requires three maj...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CwR18pY_brM" title="8 Tips for Debunking Fake News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CwR18pY_brM" target="_blank" rel="noopener noreferrer">8 Tips for Debunking Fake News</a></p><p class="youtube-embed-meta">Channel: THIRTEEN &middot; Views: 11.8K &middot; Uploaded: December 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CwR18pY_brM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CwR18pY_brM">Open on YouTube</a></p></div></div></div>
 
@@ -331,7 +328,6 @@ These warnings act as mental labels. They help separate the myth from the factua
 One of the most common mistakes in journalism and public communication is placing the myth in the headline and the correction in the article body.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -343,13 +339,13 @@ Examples include:
 
 These formats give the false claim prominent visibility before readers encounter the correction. Some readers may only see the headline, while others may remember the myth more clearly than the explanation.
 
-Fact-checking specialists increasingly recommend making the factual point itself the headline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[KSJ Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-title">KSJ Handbook Structuring Your Argument</span><span class="citation-popover-snippet">KSJ HandbookStructuring Your Argument - MisinformationThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting...</span></span></span>
+Fact-checking specialists increasingly recommend making the factual point itself the headline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[KSJ Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-title">KSJ Handbook Structuring Your Argument</span><span class="citation-popover-snippet">KSJ HandbookStructuring Your Argument - MisinformationThe fact-myth-fallacy structure when debunking a claim. This involves presenting...</span></span></span>
 
 ## Replace the myth with a better explanation
 
 One reason myths survive is that they often provide a simple story. Merely removing that story can leave a gap.
 
-Research on misinformation correction has repeatedly found that effective debunking does more than deny a false claim. It provides an alternative account that explains the same event or observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire · Cited by 139 — Even after people receive clear and credible cor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[2ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">The Debunking HandbookNovember 25, 2011 — by S Lewandowsky — To avoid these “backfire effects”, an effective debunking requires three maj...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span>
+Research on misinformation correction has repeatedly found that effective debunking does more than deny a false claim. It provides an alternative account that explains the same event or observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire  Cited by 139  Even after people receive clear and credible cor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[2ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">The Debunking HandbookNovember 25, 2011  by S Lewandowsky  To avoid these backfire effects, an effective debunking requires three maj...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span>
 
 For example:
 
@@ -358,8 +354,7 @@ For example:
 
 The second version gives readers somewhere to place their attention after the myth is removed.
 
-This matters because people prefer coherent explanations. If a correction destroys a misconception without supplying a replacement, the original story may continue to influence reasoning even after it has been rejected intellectually. Psychologists describe this persistence as the continued influence effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire · Cited by 139 — Even after people receive clear and credible cor...</span></span></span>
-
+This matters because people prefer coherent explanations. If a correction destroys a misconception without supplying a replacement, the original story may continue to influence reasoning even after it has been rejected intellectually. Psychologists describe this persistence as the continued influence effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire  Cited by 139  Even after people receive clear and credible cor...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_writing_better_myth_849c9b-Illustration-2-dark.svg" | relative_url }}" alt="Better Corrections illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_writing_better_myth_849c9b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_writing_better_myth_849c9b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Explain the trap, not just the error
@@ -378,21 +373,17 @@ Explaining the mechanism behind the misunderstanding gives readers a more durabl
 
 The Debunking Handbook refers to this as identifying the flaw in the misinformation and replacing it with a coherent alternative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookBecause a myth is necessarily repeated when it is debunked, the risk arises that...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nHz3SXsJb_E" title="Ep4: Stephan Lewandowsky: Sticky Lies And Engineered Beliefs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nHz3SXsJb_E" target="_blank" rel="noopener noreferrer">Ep4: Stephan Lewandowsky: Sticky Lies And Engineered Beliefs</a></p><p class="youtube-embed-meta">Channel: Bad Boy of Science &middot; Views: 577 &middot; Uploaded: March 2026 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nHz3SXsJb_E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nHz3SXsJb_E">Open on YouTube</a></p></div></div></div>
-
 ## What recent research says about correction formats
 
 The popularity of the truth sandwich has led researchers to test whether the order of information actually changes outcomes.
 
-Recent studies suggest the picture is more nuanced than early guidance sometimes implied. Several experiments have found that corrections can be effective whether they begin with the truth or begin by identifying the misinformation, provided the correction is clear and detailed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCby B Swire-Thompson · 2021 · Cited by 79 — This suggests that the standard format of leading with and then correcting a myth may be pr...</span></span></span>
+Recent studies suggest the picture is more nuanced than early guidance sometimes implied. Several experiments have found that corrections can be effective whether they begin with the truth or begin by identifying the misinformation, provided the correction is clear and detailed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">by B Swire-Thompson  2021  Cited by 79  This suggests that the standard format of leading with and then correcting a myth may be pr...</span></span></span>
 
-A 2021 study found limited evidence that leading with factual information produced substantially stronger belief correction than more traditional formats. In some situations, corrections that first identified the myth performed similarly or even slightly better. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCby B Swire-Thompson · 2021 · Cited by 79 — This suggests that the standard format of leading with and then correcting a myth may be pr...</span></span></span>
+A 2021 study found limited evidence that leading with factual information produced substantially stronger belief correction than more traditional formats. In some situations, corrections that first identified the myth performed similarly or even slightly better. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">by B Swire-Thompson  2021  Cited by 79  This suggests that the standard format of leading with and then correcting a myth may be pr...</span></span></span>
 
-A 2025 study likewise found that the truth sandwich format did not consistently outperform alternative correction structures in reducing belief in misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCby B Swire-Thompson · 2021 · Cited by 79 — This suggests that the standard format of leading with and then correcting a myth may be pr...</span></span></span>
+A 2025 study likewise found that the truth sandwich format did not consistently outperform alternative correction structures in reducing belief in misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">by B Swire-Thompson  2021  Cited by 79  This suggests that the standard format of leading with and then correcting a myth may be pr...</span></span></span>
 
 These findings do not mean correction structure is irrelevant. Instead, they suggest that several elements matter simultaneously:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -404,8 +395,7 @@ These findings do not mean correction structure is irrelevant. Instead, they sug
 
 </div>
 
-In practice, the safest lesson is not "never mention the myth". It is "do not let the myth dominate the message". <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookBecause a myth is necessarily repeated when it is debunked, the risk arises that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cssn.org">[Brown Climate Social Science Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cssn.org</span><span class="citation-popover-title">DB2020paper 1</span><span class="citation-popover-snippet">The familiarity backfire effect—corrections that repeat misinformation can ironically strengthen misconceptions—is not a robust phenomeno...</span></span></span>
-
+In practice, the safest lesson is not "never mention the myth". It is "do not let the myth dominate the message". <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookBecause a myth is necessarily repeated when it is debunked, the risk arises that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cssn.org">[Brown Climate Social Science Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cssn.org</span><span class="citation-popover-title">DB2020paper 1</span><span class="citation-popover-snippet">The familiarity backfire effectcorrections that repeat misinformation can ironically strengthen misconceptionsis not a robust phenomeno...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_writing_better_myth_849c9b-Illustration-3-dark.svg" | relative_url }}" alt="Better Corrections illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_writing_better_myth_849c9b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_writing_better_myth_849c9b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common mistakes that make myths stick
@@ -422,17 +412,15 @@ A statement such as "This is misleading" is often weaker than a correction that 
 
 Data alone may not dislodge a misconception. Readers often need an explanation that links the evidence to a meaningful narrative.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rxrzug6A6T0" title="Messengers of Evil by Marcel Allain and Pierre Souvestre | Full Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rxrzug6A6T0" target="_blank" rel="noopener noreferrer">Messengers of Evil by Marcel Allain and Pierre Souvestre | Full Audiobook</a></p><p class="youtube-embed-meta">Channel: Vivid Audio Library</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rxrzug6A6T0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rxrzug6A6T0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nHz3SXsJb_E" title="Ep4: Stephan Lewandowsky: Sticky Lies And Engineered Beliefs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nHz3SXsJb_E" target="_blank" rel="noopener noreferrer">Ep4: Stephan Lewandowsky: Sticky Lies And Engineered Beliefs</a></p><p class="youtube-embed-meta">Channel: Bad Boy of Science &middot; Views: 577 &middot; Uploaded: March 2026 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nHz3SXsJb_E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nHz3SXsJb_E">Open on YouTube</a></p></div></div></div>
 
 ### Making the correction harder to process than the myth
 
-Many myths succeed because they are short and simple. If the correction is full of jargon, caveats and technical language, readers may retain the easier message instead. Clear language improves the chances that accurate information will be remembered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Familiarity backfire effects?</span><span class="citation-popover-snippet">Disentangling the competing...by IN Nibat · 2026 — This research finds no evidence of a familiarity backfire effect: in none of the stud...</span></span></span>
+Many myths succeed because they are short and simple. If the correction is full of jargon, caveats and technical language, readers may retain the easier message instead. Clear language improves the chances that accurate information will be remembered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Familiarity backfire effects?</span><span class="citation-popover-snippet">Disentangling the competing...by IN Nibat  2026  This research finds no evidence of a familiarity backfire effect: in none of the stud...</span></span></span>
 
 ## A practical template for better corrections
 
 A useful correction can often be built in four steps:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -449,7 +437,7 @@ For example:
 
 The factual explanation receives the most attention, the myth is clearly labelled as false, and readers leave with an alternative account that makes sense of the evidence.
 
-That combination is what separates a correction that merely argues from a correction that helps replace a misconception with a more accurate understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[KSJ Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-title">KSJ Handbook Structuring Your Argument</span><span class="citation-popover-snippet">KSJ HandbookStructuring Your Argument - MisinformationThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[2ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">The Debunking HandbookNovember 25, 2011 — by S Lewandowsky — To avoid these “backfire effects”, an effective debunking requires three maj...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span>
+That combination is what separates a correction that merely argues from a correction that helps replace a misconception with a more accurate understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[KSJ Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-title">KSJ Handbook Structuring Your Argument</span><span class="citation-popover-snippet">KSJ HandbookStructuring Your Argument - MisinformationThe fact-myth-fallacy structure when debunking a claim. This involves presenting...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[2ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">The Debunking HandbookNovember 25, 2011  by S Lewandowsky  To avoid these backfire effects, an effective debunking requires three maj...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -504,7 +492,7 @@ That combination is what separates a correction that merely argues from a correc
         </h4>
         <p class="fr-book-author">By William Strunk, Jr., E. B. White et al.</p>
         
-        <p class="fr-book-desc">First published 1920. Subjects: reference, Report writing, Rhetoric, Open Syllabus Project, Art d&#x27;Ã©crire.</p>
+        <p class="fr-book-desc">First published 1920. Subjects: reference, Report writing, Rhetoric, Open Syllabus Project, Art d&#x27;écrire.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Elements+of+Style+William+Strunk%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -568,15 +556,15 @@ That combination is what separates a correction that merely argues from a correc
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BBC NEWS vintage style solid wood sign Wall Plaque antique old retro"><img src="{{ '/assets/images/marketplace-covers/8ef6f0bea5d9c4e1eb0e.jpg' | relative_url }}" alt="Listing image for BBC NEWS vintage style solid wood sign Wall Plaque antique old retro" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-correct-a-myth-without-boosting-it-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-to-correct-a-myth-without-boosting-it-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6"><img src="https://i.ebayimg.com/images/g/vkgAAeSwna5oZGvr/s-l225.jpg" alt="Listing image for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer">BBC NEWS vintage style solid wood sign Wall Plaque antique old retro</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-correct-a-myth-without-boosting-it-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-to-correct-a-myth-without-boosting-it-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for newsroom sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: newsroom sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-correct-a-myth-without-boosting-it-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-to-correct-a-myth-without-boosting-it-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-correct-a-myth-without-boosting-it-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-to-correct-a-myth-without-boosting-it-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,47 +572,15 @@ That combination is what separates a correction that merely argues from a correc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Wall Sign- Breaking News Toilet Seats Go Down -Novelty Home Decor Bathroom"><img src="{{ '/assets/images/marketplace-covers/2efcef8f52506f8f74c0.jpg' | relative_url }}" alt="Listing image for Metal Wall Sign- Breaking News Toilet Seats Go Down -Novelty Home Decor Bathroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-correct-a-myth-without-boosting-it-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-to-correct-a-myth-without-boosting-it-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TITIKEI by IshiKei Paperback Self Help Business"><img src="https://i.ebayimg.com/images/g/X5YAAeSw~F1qEbNR/s-l225.jpg" alt="Listing image for TITIKEI by IshiKei Paperback Self Help Business" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer">Metal Wall Sign- Breaking News Toilet Seats Go Down -Novelty Home Decor Bathroom</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-correct-a-myth-without-boosting-it-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-to-correct-a-myth-without-boosting-it-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">TITIKEI by IshiKei Paperback Self Help Business</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for newsroom sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: newsroom sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-correct-a-myth-without-boosting-it-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-to-correct-a-myth-without-boosting-it-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for JEFF DANIELS SIGNED THE NEWSROOM 12x18 POSTER PHOTO TV SERIES DUMB DUMBER BAS"><img src="{{ '/assets/images/marketplace-covers/7a756697fa7d0e39d9cf.jpg' | relative_url }}" alt="Listing image for JEFF DANIELS SIGNED THE NEWSROOM 12x18 POSTER PHOTO TV SERIES DUMB DUMBER BAS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer">JEFF DANIELS SIGNED THE NEWSROOM 12x18 POSTER PHOTO TV SERIES DUMB DUMBER BAS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for newsroom sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: newsroom sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE NEWSROOM CAST SIGNED X2 AUTOGRAPHED 12X18 PHOTO POSTER MORTIMER GALLAGHER"><img src="{{ '/assets/images/marketplace-covers/38acb9564eabf2ba93df.jpg' | relative_url }}" alt="Listing image for THE NEWSROOM CAST SIGNED X2 AUTOGRAPHED 12X18 PHOTO POSTER MORTIMER GALLAGHER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer">THE NEWSROOM CAST SIGNED X2 AUTOGRAPHED 12X18 PHOTO POSTER MORTIMER GALLAGHER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for newsroom sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: newsroom sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-correct-a-myth-without-boosting-it-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-to-correct-a-myth-without-boosting-it-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -632,7 +588,7 @@ That combination is what separates a correction that merely argues from a correc
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="better-corrections-how-to-correct-a-myth-without-boosting-it-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-correct-a-myth-without-boosting-it-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-to-correct-a-myth-without-boosting-it-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -847,130 +803,130 @@ That combination is what separates a correction that merely argues from a correc
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker  2022  Cited by 1916  In this Review, we describe the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ltrr.arizona.edu  
-   Link: [https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf](https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking HandbookNovember 25, 2011 — by S Lewandowsky — To avoid these “backfire effects”, an effective debunking requires three maj...</p></details>
+   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking HandbookNovember 25, 2011  by S Lewandowsky  To avoid these backfire effects, an effective debunking requires three maj...</p></details>
    Published: November 25, 2011  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Truth sandwich  
-   Link: [https://en.wikipedia.org/wiki/Truth_sandwich](https://en.wikipedia.org/wiki/Truth_sandwich)  
+   Link: <a href="https://en.wikipedia.org/wiki/Truth_sandwich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Truth_sandwich</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: [https://en.wikipedia.org/wiki/Illusory_truth_effect](https://en.wikipedia.org/wiki/Illusory_truth_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is when a...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>backfire effect after correcting misinformation is strongly...by B Swire-Thompson  2022  Cited by 111  The backfire effect is when a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Familiarity backfire effects?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167811626000261](https://www.sciencedirect.com/science/article/pii/S0167811626000261)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disentangling the competing...by IN Nibat · 2026 — This research finds no evidence of a familiarity backfire effect: in none of the stud...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disentangling the competing...by IN Nibat  2026  This research finds no evidence of a familiarity backfire effect: in none of the stud...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0950329325002794](https://www.sciencedirect.com/science/article/pii/S0950329325002794)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectDebunking meat myths using the truth sandwichby AE Seffen · 2025 · Cited by 2 — First, a detailed refutation is advantageous...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0950329325002794" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0950329325002794</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking meat myths using the truth sandwichby AE Seffen  2025  Cited by 2  First, a detailed refutation is advantageous...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrection format has a limited role when debunking  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby B Swire-Thompson · 2021 · Cited by 79 — This suggests that the standard format of leading with and then correcting a myth may be pr...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson  2021  Cited by 79  This suggests that the standard format of leading with and then correcting a myth may be pr...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe truth sandwich format does not enhance the correction of...by B Swire-Thompson · 2025 · Cited by 2 — The misinformation was then...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth sandwich format does not enhance the correction of...by B Swire-Thompson  2025  Cited by 2  The misinformation was then...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: emc-lab.org  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire · Cited by 139 — Even after people receive clear and credible cor...</p></details>
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire  Cited by 139  Even after people receive clear and credible cor...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: climatechangecommunication.org  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookBecause a myth is necessarily repeated when it is debunked, the risk arises that...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ksjhandbook.org  
    Title: KSJ Handbook Structuring Your Argument  
-   Link: [https://ksjhandbook.org/misinformation/structuring-your-argument/](https://ksjhandbook.org/misinformation/structuring-your-argument/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KSJ HandbookStructuring Your Argument - MisinformationThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting...</p></details>
+   Link: <a href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow">https://ksjhandbook.org/misinformation/structuring-your-argument/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>KSJ HandbookStructuring Your Argument - MisinformationThe fact-myth-fallacy structure when debunking a claim. This involves presenting...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: climatecommunication.gmu.edu  
    Title: the debunking handbook 2020  
-   Link: [https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/](https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationThe Debunking Handbook 2020Sep 13, 2023 — The Debunking Handbook 2020 summarizes the current state...</p></details>
+   Link: <a href="https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/" target="_blank" rel="noopener noreferrer nofollow">https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationThe Debunking Handbook 2020Sep 13, 2023  The Debunking Handbook 2020 summarizes the current state...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cssn.org  
    Title: DB2020paper 1  
-   Link: [https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf](https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The familiarity backfire effect—corrections that repeat misinformation can ironically strengthen misconceptions—is not a robust phenomeno...</p></details>
+   Link: <a href="https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The familiarity backfire effectcorrections that repeat misinformation can ironically strengthen misconceptionsis not a robust phenomeno...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: fullfact.org  
-   Link: [https://fullfact.org/training/misinformation-response-training/](https://fullfact.org/training/misinformation-response-training/)  
+   Link: <a href="https://fullfact.org/training/misinformation-response-training/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/training/misinformation-response-training/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation response trainingFor up to 90 minute sessions, we do short workshops on understanding misinformation. These provide an ove...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: caad.info  
-   Link: [https://caad.info/wp-content/uploads/2022/10/Journalist-Field-Guide-3pager.pdf](https://caad.info/wp-content/uploads/2022/10/Journalist-Field-Guide-3pager.pdf)  
+   Link: <a href="https://caad.info/wp-content/uploads/2022/10/Journalist-Field-Guide-3pager.pdf" target="_blank" rel="noopener noreferrer nofollow">https://caad.info/wp-content/uploads/2022/10/Journalist-Field-Guide-3pager.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NaviGatiNG Climate misiNFormatioNClimate Action Against Disinformation (CAAD), defines climate dis/misinformation as content which underm...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/us/basics/illusory-truth-effect](https://www.psychologytoday.com/us/basics/illusory-truth-effect)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectThe illusory truth effect is the tendency for any statement that is repeated frequently—whether it is factually true...</p></details>
+   Link: <a href="https://www.psychologytoday.com/us/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/illusory-truth-effect</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectThe illusory truth effect is the tendency for any statement that is repeated frequentlywhether it is factually true...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/](https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/)  
+   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
 
 19. <a id="endnote-19"></a>
    Source: fullfact.org  
-   Link: [https://fullfact.org/toolkit/](https://fullfact.org/toolkit/)  
+   Link: <a href="https://fullfact.org/toolkit/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/toolkit/</a>  
 
 20. <a id="endnote-20"></a>
    Source: shapingtomorrowsworld.org  
    Title: Ideally, avoid mentioning the myth altogether while correcting it. When seeking  
-   Link: [https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-backfire-effect.html](https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-backfire-effect.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook Part 2: The Familiarity Backfire Effect18 Nov 2011 — How does one avoid causing the Familiarity Backfire Effect?...</p></details>
+   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-backfire-effect.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-backfire-effect.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook Part 2: The Familiarity Backfire Effect18 Nov 2011  How does one avoid causing the Familiarity Backfire Effect?...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: archive.thinkprogress.org  
    Title: the debunking handbook part 1 the first myth about debunking 7f2eac1cb33f  
-   Link: [https://archive.thinkprogress.org/the-debunking-handbook-part-1-the-first-myth-about-debunking-7f2eac1cb33f/](https://archive.thinkprogress.org/the-debunking-handbook-part-1-the-first-myth-about-debunking-7f2eac1cb33f/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Handbook Part 1: The First Myth About...26 Dec 2011 — The evidence indicates that no matter how vigorously and repeatedly we c...</p></details>
+   Link: <a href="https://archive.thinkprogress.org/the-debunking-handbook-part-1-the-first-myth-about-debunking-7f2eac1cb33f/" target="_blank" rel="noopener noreferrer nofollow">https://archive.thinkprogress.org/the-debunking-handbook-part-1-the-first-myth-about-debunking-7f2eac1cb33f/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Handbook Part 1: The First Myth About...26 Dec 2011  The evidence indicates that no matter how vigorously and repeatedly we c...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: firstdraftnews.org  
    Title: a guide to prebunking a promising way to inoculate against misinformation  
-   Link: [https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/](https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A guide to prebunking: a promising way to inoculate against...29 Jun 2021 — Countering Misinformation and [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) Through Inoculation...</p></details>
+   Link: <a href="https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A guide to prebunking: a promising way to inoculate against...29 Jun 2021  Countering Misinformation and [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) Through Inoculation...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: commonslibrary.org  
-   Link: [https://commonslibrary.org/from-elephants-to-sandwiches-countering-false-information/](https://commonslibrary.org/from-elephants-to-sandwiches-countering-false-information/)  
+   Link: <a href="https://commonslibrary.org/from-elephants-to-sandwiches-countering-false-information/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.org/from-elephants-to-sandwiches-countering-false-information/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you know how to counter misinformation? Here is a decision tree framework and templates...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How to debunk misinformation?  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/37263771/](https://pubmed.ncbi.nlm.nih.gov/37263771/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An experimental online...by J Kotz · 2023 · Cited by 26 — How to debunk misinformation? An experimental online study investigating... I...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37263771/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37263771/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>An experimental online...by J Kotz  2023  Cited by 26  How to debunk misinformation? An experimental online study investigating... I...</p></details>

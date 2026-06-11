@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_continued_influence_15b78f_replacement_explanat_3e144b
 - Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - old-stories
 - old-causes
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - old-stories
 - old-causes
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A false cause can keep guiding people's explanations even after they remember that it was corrected.
 hero_summary: A false cause can keep guiding people's explanations even after they remember that it was corrected.
 layout: default
 permalink: /old-causes/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /old-stories/
 nav_short_title: Old Causes
 title: Why corrected causes still feel useful
-title_full: Why corrected causes still feel useful | Old Stories
+title_full: Why corrected causes still feel useful
 display_title_short: Old Causes
 display_title: Old Causes
 heading_title: Why corrected causes still feel useful
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Corrected Myths Still Linger | Mythcraft
+parent_title: Why Corrected Myths Still Linger
 parent_permalink: /old-stories/
 parent_nav_short_title: Old Stories
 parent_heading_title: Why Corrected Myths Still Linger
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The missing piece in stronger corrections
 up_link:
   basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
@@ -265,7 +265,7 @@ next_link:
   permalink: /replacement/
   short_title: Replacement
   heading_title: The missing piece in stronger corrections
-date: '2026-06-09 04:22:17 '
+date: '2026-06-11 22:00:45 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-1.webp
@@ -274,11 +274,10 @@ image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_ret
 
 ## Introduction
 
-A corrected cause can continue shaping later explanations even when people know it was withdrawn. This happens because the original cause often became part of a working explanation rather than a standalone fact. Once people have used a claim to answer questions such as “Why did this happen?” or “Who was responsible?”, removing that claim leaves a hole in the story. The [correction]({{ 'correction/' | relative_url }}) may be remembered, yet the old cause remains mentally useful because it still connects events together. Research on the [continued influence]({{ 'old-stories/' | relative_url }}) effect repeatedly finds that people can recall a retraction and still rely on the retracted information when drawing inferences or explaining outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span>
-
+A corrected cause can continue shaping later explanations even when people know it was withdrawn. This happens because the original cause often became part of a working explanation rather than a standalone fact. Once people have used a claim to answer questions such as “Why did this happen?” or “Who was responsible?”, removing that claim leaves a hole in the story. The [correction]({{ 'correction/' | relative_url }}) may be remembered, yet the old cause remains mentally useful because it still connects events together. Research on the continued influence effect repeatedly finds that people can recall a retraction and still rely on the retracted information when drawing inferences or explaining outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-1-dark.svg" | relative_url }}" alt="Old Causes illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key issue is not simple forgetfulness. The false cause often survives because it performed explanatory work. It helped organise events into a coherent sequence, and later reasoning can reactivate that structure even after the claim has been labelled false. Understanding this mechanism helps explain why [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) are difficult to fully remove once they have become part of a person's understanding of an event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
+The key issue is not simple forgetfulness. The false cause often survives because it performed explanatory work. It helped organise events into a coherent sequence, and later reasoning can reactivate that structure even after the claim has been labelled false. Understanding this mechanism helps explain why myths and misconceptions are difficult to fully remove once they have become part of a person's understanding of an event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
 
 ## How false causes enter a mental model
 
@@ -286,16 +285,15 @@ People rarely store information as disconnected statements. As new information a
 
 Consider a report about a major fire. If people hear that flammable chemicals were stored inside the building, that detail does more than add a fact. It explains the intensity of the fire, the smoke, the explosions and the emergency response. Multiple later details become linked to that single cause. When a correction later announces that the chemicals were never there, the correction removes the cause but does not automatically rebuild all the connections that depended on it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span>
 
-This is why causal misinformation is especially persistent. A false claim about a date, a name or a minor detail may be easy to replace. A false claim that explains an outcome occupies a more central position in the mental model. Because it links many pieces of information together, it becomes easier to retrieve whenever the event is recalled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
+This is why causal misinformation is especially persistent. A false claim about a date, a name or a minor detail may be easy to replace. A false claim that explains an outcome occupies a more central position in the mental model. Because it links many pieces of information together, it becomes easier to retrieve whenever the event is recalled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
 
 Researchers studying the continued influence effect have repeatedly found that misinformation embedded within a causal explanation remains influential even [after correction]({{ 'after-correction/' | relative_url }}). Participants often acknowledge that the information was retracted while still using it to answer questions about what happened and why. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: classes.cs.uchicago.edu">[classes.cs.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">classes.cs.uchicago.edu</span><span class="citation-popover-snippet">Explicit warnings reduce but do not eliminate the continued...by UKH ECKER · 2010 · Cited by 741 — correction, implying that the continu...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gmPPAUWEQxs" title="Misinformation, Fake News, Conspiracy Theories, and Pseudoscientific BS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gmPPAUWEQxs" target="_blank" rel="noopener noreferrer">Misinformation, Fake News, Conspiracy Theories, and Pseudoscientific BS</a></p><p class="youtube-embed-meta">Channel: Northwestern Univ. Feinberg School of Medicine &middot; Views: 9.0K &middot; Uploaded: March 2024 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gmPPAUWEQxs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gmPPAUWEQxs">Open on YouTube</a></p></div></div></div>
 
 ## Why retractions leave explanatory gaps
 
-The most influential account of this phenomenon focuses on explanatory gaps. A correction can successfully tell people that a cause was false while failing to answer the questions that the cause previously resolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
+The most influential account of this phenomenon focuses on explanatory gaps. A correction can successfully tell people that a cause was false while failing to answer the questions that the cause previously resolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
 
 Imagine a story that initially attributes an economic problem to a particular policy failure. If that explanation is later withdrawn without a replacement, readers are left with an unresolved puzzle. The outcome still needs a cause. The original explanation may have been discredited, but it remains the most complete answer available. In later reasoning, people can drift back towards it because it continues to satisfy the need for causal coherence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span>
 
@@ -303,31 +301,28 @@ Research consistently shows that [corrections]({{ 'corrections/' | relative_url 
 
 This helps explain a common communication mistake. Many corrections focus exclusively on proving that a claim is false. From a factual perspective, that seems sufficient. From a cognitive perspective, it may not be. If the correction destroys a causal explanation without supplying another one, the audience still faces the original explanatory problem. The old cause can therefore continue influencing later judgements despite being officially rejected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-repository.uwa.edu.au/en/publications/misinformation-and-its-correction-continued-influence-and-success/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-repository.uwa.edu.au">[the UWA Profiles and Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-repository.uwa.edu.au</span><span class="citation-popover-title">Seifert ·, N. Schwarz ·, J. Cook.Read more</span><span class="citation-popover-snippet">the UWA Profiles and Research RepositoryMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-2-dark.svg" | relative_url }}" alt="Old Causes illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later questions reactivate the old cause
 
-A retracted cause often returns when people are asked to explain events rather than merely recall facts. Explanation tasks encourage retrieval of the broader mental model, including the relationships between events. During that retrieval process, the old causal link can become active again. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe rational continued influence of misinformationby SAC Desai · 2020 · Cited by 70 — Studies on the &#x27;Continued Influence Ef...</span></span></span>
+A retracted cause often returns when people are asked to explain events rather than merely recall facts. Explanation tasks encourage retrieval of the broader mental model, including the relationships between events. During that retrieval process, the old causal link can become active again. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The rational continued influence of misinformationby SAC Desai · 2020 · Cited by 70 — Studies on the &#x27;Continued Influence Ef...</span></span></span>
 
 This creates a striking pattern in experiments. Participants may correctly answer a direct question such as “Was that information retracted?” yet still rely on the retracted information when asked why an event occurred. The correction exists in [memory]({{ 'memory/' | relative_url }}), but it competes with a previously established explanatory structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: classes.cs.uchicago.edu">[classes.cs.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">classes.cs.uchicago.edu</span><span class="citation-popover-snippet">Explicit warnings reduce but do not eliminate the continued...by UKH ECKER · 2010 · Cited by 741 — correction, implying that the continu...</span></span></span>
 
-Some researchers describe this as a retrieval problem. Both the misinformation and the correction may be stored in memory, but the original cause can be more accessible when people are constructing an explanation. The false cause is often connected to many other details, giving it multiple paths back into awareness. The correction may be remembered as a separate statement yet fail to dominate the reasoning process at the moment an explanation is needed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0271566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOSExamining the role of information integration in the continued...by JA Sanderson · 2022 · Cited by 10 — Thus, overall, results provi...</span></span></span>
+Some researchers describe this as a retrieval problem. Both the misinformation and the correction may be stored in memory, but the original cause can be more accessible when people are constructing an explanation. The false cause is often connected to many other details, giving it multiple paths back into awareness. The correction may be remembered as a separate statement yet fail to dominate the reasoning process at the moment an explanation is needed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0271566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Examining the role of information integration in the continued...by JA Sanderson · 2022 · Cited by 10 — Thus, overall, results provi...</span></span></span>
 
 The effect becomes especially visible after delays. As memory for specific wording fades, people often retain the overall narrative structure. If the original cause helped define that structure, later questions can reactivate it even when the correction itself has not been completely forgotten. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NoI8QzUAeiA" title="Decoding Deception: The Psychology of Combating Misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NoI8QzUAeiA" target="_blank" rel="noopener noreferrer">Decoding Deception: The Psychology of Combating Misinformation</a></p><p class="youtube-embed-meta">Channel: PNAS &middot; Views: 12.4K &middot; Uploaded: October 2024 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NoI8QzUAeiA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NoI8QzUAeiA">Open on YouTube</a></p></div></div></div>
 
 ## Why the old cause can feel more satisfying than the correction
 
-Explanations do more than convey information. They create a sense that events make sense. A correction that simply removes a cause can leave an account feeling incomplete or unstable. Researchers have argued that people may experience discomfort when a previously coherent mental model becomes causally incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
+Explanations do more than convey information. They create a sense that events make sense. A correction that simply removes a cause can leave an account feeling incomplete or unstable. Researchers have argued that people may experience discomfort when a previously coherent mental model becomes causally incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
 
-In this situation, the old cause offers an immediate solution. Even though it has been discredited, it restores coherence. It reconnects the events, resolves unanswered questions and reduces uncertainty. The attraction is therefore not always a matter of believing the misinformation outright. Sometimes it is a matter of explanatory convenience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
+In this situation, the old cause offers an immediate solution. Even though it has been discredited, it restores coherence. It reconnects the events, resolves unanswered questions and reduces uncertainty. The attraction is therefore not always a matter of believing the misinformation outright. Sometimes it is a matter of explanatory convenience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
 
-Recent work has explored whether this discomfort contributes to continued reliance on misinformation. The findings suggest that when a retraction creates a causal gap, people can be motivated to preserve or return to the earlier explanation because it maintains a complete account of the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
+Recent work has explored whether this discomfort contributes to continued reliance on misinformation. The findings suggest that when a retraction creates a causal gap, people can be motivated to preserve or return to the earlier explanation because it maintains a complete account of the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
 
 This helps explain why myths often survive in subtle forms. People may publicly accept the correction while privately continuing to use the old cause as a background explanation. The myth no longer appears as an explicit belief, yet it still shapes how later events are interpreted.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-3-dark.svg" | relative_url }}" alt="Old Causes illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why replacement explanations matter
@@ -336,11 +331,9 @@ The strongest lesson from this research is that causal misinformation is not rem
 
 Replacement explanations work because they preserve coherence while updating the facts. Instead of leaving a gap, they offer a new account that explains the same outcome. This reduces the need to fall back on the original cause and gives later reasoning a different path to follow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Digital CommonsA Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A more effective correcti...</span></span></span>
 
-The continued influence effect therefore reveals something important about how misconceptions persist. People are not always clinging to false causes because they missed the correction or refused to believe it. Often the retracted cause survives because it remains the most useful explanation available. Until another explanation takes its place, the old one can continue shaping answers to the simple question that drives much human reasoning: “Why did that happen?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
-
+The continued influence effect therefore reveals something important about how misconceptions persist. People are not always clinging to false causes because they missed the correction or refused to believe it. Often the retracted cause survives because it remains the most useful explanation available. Until another explanation takes its place, the old one can continue shaping answers to the simple question that drives much human reasoning: “Why did that happen?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H_dHJVH5hPU" title="The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020 )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer">The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020 )</a></p><p class="youtube-embed-meta">Channel: Complex Human Data Hub &middot; Views: 214 &middot; Uploaded: September 2020 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H_dHJVH5hPU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -738,111 +731,111 @@ The continued influence effect therefore reveals something important about how m
 
 1. <a id="endnote-1"></a>
    Source: classes.cs.uchicago.edu  
-   Link: [https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf](https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf)  
+   Link: <a href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explicit warnings reduce but do not eliminate the continued...by UKH ECKER · 2010 · Cited by 741 — correction, implying that the continu...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: research-repository.uwa.edu.au  
    Title: Seifert ·, N. Schwarz ·, J. Cook.Read more  
-   Link: [https://research-repository.uwa.edu.au/en/publications/misinformation-and-its-correction-continued-influence-and-success/](https://research-repository.uwa.edu.au/en/publications/misinformation-and-its-correction-continued-influence-and-success/)  
+   Link: <a href="https://research-repository.uwa.edu.au/en/publications/misinformation-and-its-correction-continued-influence-and-success/" target="_blank" rel="noopener noreferrer nofollow">https://research-repository.uwa.edu.au/en/publications/misinformation-and-its-correction-continued-influence-and-success/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the UWA Profiles and Research RepositoryMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729](https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe rational continued influence of misinformationby SAC Desai · 2020 · Cited by 70 — Studies on the &#x27;Continued Influence Ef...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The rational continued influence of misinformationby SAC Desai · 2020 · Cited by 70 — Studies on the &#x27;Continued Influence Ef...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9292086/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9292086/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCExamining the role of information integration in the continued...by JA Sanderson · 2022 · Cited by 10 — Thus, overall, results provid...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9292086/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9292086/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the role of information integration in the continued...by JA Sanderson · 2022 · Cited by 10 — Thus, overall, results provid...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0271566](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0271566)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOSExamining the role of information integration in the continued...by JA Sanderson · 2022 · Cited by 10 — Thus, overall, results provi...</p></details>
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0271566" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0271566</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the role of information integration in the continued...by JA Sanderson · 2022 · Cited by 10 — Thus, overall, results provi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Decoding Deception: The Psychology of Combating Misinformation  
-   Link: [https://www.youtube.com/watch?v=NoI8QzUAeiA](https://www.youtube.com/watch?v=NoI8QzUAeiA)  
+   Link: <a href="https://www.youtube.com/watch?v=NoI8QzUAeiA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NoI8QzUAeiA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Continued Influence Effect - Why do memories of misinformation persist in our minds?...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Continued Influence Effect  
-   Link: [https://www.youtube.com/watch?v=eZ_hcf01EFw](https://www.youtube.com/watch?v=eZ_hcf01EFw)  
+   Link: <a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZ_hcf01EFw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Continued Influence of Misinformation — Ullrich Ecker...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/1529100612451018](https://journals.sagepub.com/doi/10.1177/1529100612451018)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100612451018</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: digitalcommons.chapman.edu  
-   Link: [https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&context=comm_articles](https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&context=comm_articles)  
+   Link: <a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsA Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A more effective correcti...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Misinformation](https://en.wikipedia.org/wiki/Misinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MisinformationMisinformation can include inaccurate, incomplete, misleading, or false information as well as selective or half-truths...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: un.org  
-   Link: [https://www.un.org/en/countering-disinformation](https://www.un.org/en/countering-disinformation)  
+   Link: <a href="https://www.un.org/en/countering-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/en/countering-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering DisinformationWhile misinformation refers to the accidental spread of inaccurate information, disinformation is not only inacc...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: psychology.hku.hk  
-   Link: [https://www.psychology.hku.hk/scnlab/files/publications/preprint/Guo%20et%20al.%2C%202023%2C%20Preprint.pdf](https://www.psychology.hku.hk/scnlab/files/publications/preprint/Guo%20et%20al.%2C%202023%2C%20Preprint.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HKU - Department of PsychologyHow does an alternative explanation reduce the continued...by S Guo — The outdated misinformation often co...</p></details>
+   Link: <a href="https://www.psychology.hku.hk/scnlab/files/publications/preprint/Guo%20et%20al.%2C%202023%2C%20Preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.psychology.hku.hk/scnlab/files/publications/preprint/Guo%20et%20al.%2C%202023%2C%20Preprint.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of PsychologyHow does an alternative explanation reduce the continued...by S Guo — The outdated misinformation often co...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aec.gov.au  
-   Link: [https://www.aec.gov.au/About_AEC/files/eiat/eiat-disinformation-factsheet.pdf](https://www.aec.gov.au/About_AEC/files/eiat/eiat-disinformation-factsheet.pdf)  
+   Link: <a href="https://www.aec.gov.au/About_AEC/files/eiat/eiat-disinformation-factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aec.gov.au/About_AEC/files/eiat/eiat-disinformation-factsheet.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation and MisinformationDisinformation and Misinformation. What is disinformation and misinformation? Misinformation is false in...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: emc-lab.org  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire · Cited by 137 — Even after people receive clear and credible cor...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/topics/journalism-facts/misinformation-disinformation](https://www.apa.org/topics/journalism-facts/misinformation-disinformation)  
+   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE](https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE)  
+   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: research-information.bris.ac.uk  
-   Link: [https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf](https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: unhcr.org  
-   Link: [https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf](https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf)  
+   Link: <a href="https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation. Misinformation is false or inaccurate information. Examples include rumors, insults and pranks. Disinformation is...Read...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26173286/](https://pubmed.ncbi.nlm.nih.gov/26173286/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173286/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4641 — We first examine the mechanisms by which such mi...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Continued Influence of Misinformation — Ullrich Ecker  
-   Link: [https://www.youtube.com/watch?v=H_dHJVH5hPU](https://www.youtube.com/watch?v=H_dHJVH5hPU)  
+   Link: <a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_dHJVH5hPU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain the psychological mechanisms behind the continued influence effect, detailing how retracted information functions as...</p></details>

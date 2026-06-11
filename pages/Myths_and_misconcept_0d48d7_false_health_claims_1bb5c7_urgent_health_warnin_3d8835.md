@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_natural_remedies_evi_8be102
 - Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_vaccine_parental_pro_92a806
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - health-claims
 - urgent-warnings
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - health-claims
 - urgent-warnings
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Urgent health warnings can feel like protection, but speed often beats verification when fear and care are mixed together.
 hero_summary: Urgent health warnings can feel like protection, but speed often beats verification when fear and care are mixed together.
 layout: default
 permalink: /urgent-warnings/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /health-claims/
 nav_short_title: Urgent Warnings
 title: Why Urgent Health Warnings Spread So Fast
-title_full: Why Urgent Health Warnings Spread So Fast | Health Claims
+title_full: Why Urgent Health Warnings Spread So Fast
 display_title_short: Urgent Warnings
 display_title: Urgent Warnings
 heading_title: Why Urgent Health Warnings Spread So Fast
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Helpful Health Advice Can Be Wrong | Mythcraft
+parent_title: Why Helpful Health Advice Can Be Wrong
 parent_permalink: /health-claims/
 parent_nav_short_title: Health Claims
 parent_heading_title: Why Helpful Health Advice Can Be Wrong
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Vaccine Myths Feel Protective to Parents
 up_link:
   basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
@@ -265,7 +265,7 @@ next_link:
   permalink: /vaccine-fears/
   short_title: Vaccine Fears
   heading_title: Why Vaccine Myths Feel Protective to Parents
-date: '2026-06-09 04:47:37 '
+date: '2026-06-11 22:13:10 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835-Illustration-1.webp
@@ -276,16 +276,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urg
 
 Urgent health warnings spread quickly because they trigger a powerful social instinct: protect people first, verify later. When a message claims that a food causes cancer, a vaccine is harming children, a medicine has been secretly recalled or a new disease is spreading, many people feel a responsibility to warn friends and family immediately. In that moment, sharing can feel less like passing on information and more like preventing harm.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835-Illustration-1-dark.svg" | relative_url }}" alt="Urgent Warnings illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is one reason [false health claims]({{ 'health-claims/' | relative_url }}) often travel through caring social networks rather than through obvious bad actors alone. Fear, uncertainty and concern for others create a sense that delay is risky. Verification takes time, while forwarding a warning takes seconds. As a result, emotional urgency can outrun evidence, especially during outbreaks, medical scares and periods of intense public anxiety. Research on health misinformation repeatedly finds that strong emotions, social pressure and information overload all weaken careful evaluation and increase the spread of misleading claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/reports/health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationUsing psychological science to understand and fight health...This report describes the best available...</span></span></span>
+This is one reason false [health claims]({{ 'health-claims/' | relative_url }}) often travel through caring social networks rather than through obvious bad actors alone. Fear, uncertainty and concern for others create a sense that delay is risky. Verification takes time, while forwarding a warning takes seconds. As a result, emotional urgency can outrun evidence, especially during outbreaks, medical scares and periods of intense public anxiety. Research on health misinformation repeatedly finds that strong emotions, social pressure and information overload all weaken careful evaluation and increase the spread of misleading claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/reports/health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationUsing psychological science to understand and fight health...This report describes the best available...</span></span></span>
 
 ## How Fear Turns Sharing Into a Duty
 
 Many urgent health rumours are framed as warnings rather than arguments. They do not ask people to weigh evidence. They ask people to act.
 
 A typical message follows a familiar pattern:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -300,8 +298,7 @@ This structure changes the psychology of sharing. Instead of asking, “Is this 
 
 The fear of missing a genuine danger can feel stronger than the fear of spreading incorrect information. A parent who forwards an alarming claim about a child's health risk may believe that being wrong is less damaging than failing to warn another parent. The emotional calculation becomes precautionary rather than evidential.
 
-Researchers studying misinformation have found that emotional responses increase willingness to share content, particularly when messages provoke fear, anger or anxiety. During health crises, emotional reactions can make people perceive claims as more credible and more worthy of distribution, even before careful scrutiny occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">Misinformation Review Anger contributes to the spread of COVID-19 misinformation</span><span class="citation-popover-snippet">Misinformation ReviewAnger contributes to the spread of COVID-19 misinformationSeptember 17, 2020 — by J Han · 2020 · Cited by 108 — A su...</span><span class="citation-popover-meta">Published: September 17, 2020</span></span></span> ResearchGate The language used in many viral warnings deliberately reinforces this feeling of duty: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/360117527_The_application_of_emotions_sharing_motivations_and_psychological_distance_in_examining_the_intention_to_share_COVID-19-related_fake_news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateThe application of emotions, sharing motivations, and...This study uses appraisal theory to analyze the impact of such rumor...</span></span></span>
-
+Researchers studying misinformation have found that emotional responses increase willingness to share content, particularly when messages provoke fear, anger or anxiety. During health crises, emotional reactions can make people perceive claims as more credible and more worthy of distribution, even before careful scrutiny occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">Misinformation Review Anger contributes to the spread of COVID-19 misinformation</span><span class="citation-popover-snippet">Misinformation ReviewAnger contributes to the spread of COVID-19 misinformationSeptember 17, 2020 — by J Han · 2020 · Cited by 108 — A su...</span><span class="citation-popover-meta">Published: September 17, 2020</span></span></span> ResearchGate The language used in many viral warnings deliberately reinforces this feeling of duty: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/360117527_The_application_of_emotions_sharing_motivations_and_psychological_distance_in_examining_the_intention_to_share_COVID-19-related_fake_news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The application of emotions, sharing motivations, and...This study uses appraisal theory to analyze the impact of such rumor...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -314,14 +311,13 @@ Researchers studying misinformation have found that emotional responses increase
 
 These phrases create a moral frame. Passing the message on becomes a sign of care. Not sharing can feel irresponsible.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XV_B96fAzKs" title="Steven Bartlett sharing harmful health misinformation in Diary of CEO podcast | BBC News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XV_B96fAzKs" target="_blank" rel="noopener noreferrer">Steven Bartlett sharing harmful health misinformation in Diary of CEO podcast | BBC News</a></p><p class="youtube-embed-meta">Channel: BBC News &middot; Views: 1.8M &middot; Uploaded: December 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XV_B96fAzKs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XV_B96fAzKs">Open on YouTube</a></p></div></div></div>
 
 ## Why Urgency Weakens Source Checking
 
 Source checking is a slow process. Urgent warnings are designed to feel fast.
 
-Verifying a health claim often requires comparing multiple sources, checking dates, looking for [expert consensus]({{ 'false-balance-0e8d1b/' | relative_url }}) and understanding scientific uncertainty. Most people do not do that in everyday conversation, especially when a message arrives from someone they trust.
+Verifying a health claim often requires comparing multiple sources, checking dates, looking for expert consensus and understanding scientific uncertainty. Most people do not do that in everyday conversation, especially when a message arrives from someone they trust.
 
 Instead, urgency pushes people towards shortcuts.
 
@@ -331,8 +327,7 @@ Another shortcut is treating [repetition]({{ 'repetition/' | relative_url }}) as
 
 Urgency also discourages waiting. A message that says “Act now” or “Share immediately” frames verification itself as a potential danger. Checking sources can start to feel like wasting valuable time.
 
-This effect became highly visible during the COVID-19 pandemic. Researchers and public-health organisations documented how rapidly changing information, uncertainty and constant social media updates created an environment where rumours, speculation and unverified claims travelled alongside legitimate guidance. The speed of communication often exceeded the speed of verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930461-X/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelancet.com">[The Lancet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelancet.com</span><span class="citation-popover-snippet">How to fight an infodemicby J Zarocostas · 2020 · Cited by 3513 — a global epidemic of misinformation—spreading rapidly through social me...</span></span></span>
-
+This effect became highly visible during the COVID-19 pandemic. Researchers and public-health organisations documented how rapidly changing information, uncertainty and constant social media updates created an environment where rumours, speculation and unverified claims travelled alongside legitimate guidance. The speed of communication often exceeded the speed of verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930461-X/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelancet.com">[The Lancet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelancet.com</span><span class="citation-popover-snippet">How to fight an infodemicby J Zarocostas · 2020 · Cited by 3513 — a global epidemic of misinformation—spreading rapidly through social me...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ckCbmbLb0VY" title="Growing Concerns Over Impact Of Medical Misinformation On Public Health" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ckCbmbLb0VY" target="_blank" rel="noopener noreferrer">Growing Concerns Over Impact Of Medical Misinformation On Public Health</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 15.8K &middot; Uploaded: December 2022 &middot; Length: 2 minutes 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ckCbmbLb0VY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ckCbmbLb0VY">Open on YouTube</a></p></div></div></div>
 
@@ -341,7 +336,6 @@ This effect became highly visible during the COVID-19 pandemic. Researchers and 
 A common misconception is that misinformation spreads mainly because people are careless or deceptive. In reality, some of the most effective distributors of false health warnings are conscientious people who genuinely want to help.
 
 Several factors make these individuals influential:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -354,12 +348,11 @@ Several factors make these individuals influential:
 
 A message from an unknown account can be ignored. The same message from a trusted neighbour or family member may be taken seriously.
 
-This is why false health warnings often move through close social networks. The credibility comes from the relationship, not the evidence. Researchers examining health misinformation have repeatedly identified social influence, emotional engagement and [identity]({{ 'identity/' | relative_url }})-based trust as major drivers of sharing behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/reports/health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationUsing psychological science to understand and fight health...This report describes the best available...</span></span></span>
+This is why false health warnings often move through close social networks. The credibility comes from the relationship, not the evidence. Researchers examining health misinformation have repeatedly identified social influence, emotional engagement and [identity]({{ 'identity/' | relative_url }})-based trust as major drivers of sharing behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/reports/health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationUsing psychological science to understand and fight health...This report describes the best available...</span></span></span>
 
 In some cases, people share without fully believing the claim themselves. They may be uncertain but decide that forwarding it is the safer option. The logic resembles: “I'm not sure if this is true, but just in case.”
 
 That mindset can be enough to keep a rumour circulating long after fact-checkers have addressed it.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835-Illustration-2-dark.svg" | relative_url }}" alt="Urgent Warnings illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Information Overload Makes Verification Harder
@@ -369,7 +362,6 @@ People often imagine misinformation spreading because information is scarce. Mod
 WHO describes an infodemic as an overabundance of information, including false and misleading material, during a health event. In these conditions, people must process a constant stream of updates, [corrections]({{ 'corrections/' | relative_url }}), expert disagreements, news reports and social media posts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span>
 
 When information volume becomes overwhelming, many people rely on mental shortcuts:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -383,7 +375,6 @@ When information volume becomes overwhelming, many people rely on mental shortcu
 A dramatic warning can therefore outperform a careful explanation. Scientific communication often includes uncertainty, limitations and evolving evidence. Viral warnings tend to offer certainty and immediate instructions.
 
 That difference in style matters. A post saying “Researchers are still studying the evidence” competes against one saying “Stop using this immediately before it's too late.” The second message creates a stronger sense of urgency, even when the evidence is weak or false.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835-Illustration-3-dark.svg" | relative_url }}" alt="Urgent Warnings illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Happens When Warnings Outrun Evidence
@@ -404,7 +395,6 @@ A more effective response is often to slow the process rather than attack the pe
 
 Useful approaches include:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Asking where the information came from.
@@ -421,9 +411,7 @@ One practical habit is replacing immediate forwarding with a brief pause. Even a
 
 The key insight is that urgency itself is not evidence. A message may feel important precisely because it is designed to trigger concern. Treating urgency as a signal to verify, rather than a signal to share, is one of the simplest ways to reduce the spread of false health warnings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cma.ca/healthcare-for-real/why-health-misinformation-social-media-dangerous" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cma.ca">[cma.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cma.ca</span><span class="citation-popover-snippet">how simple fact‑checking steps can help you avoid spreading misleading or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/spot-fake-health-articles-misinformation/art-20587692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[2mayoclinic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">art 20587692</span><span class="citation-popover-snippet">Can you spot a fake health article?16 Aug 2025 — If you see a post that stirs fear without solid evidence, it&#x27;s worth checking a trusted...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QdI2kEivaRk" title="What to know about the rise of mental health misinformation on social media" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QdI2kEivaRk" target="_blank" rel="noopener noreferrer">What to know about the rise of mental health misinformation on social media</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 19.7K &middot; Uploaded: July 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QdI2kEivaRk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QdI2kEivaRk">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -821,110 +809,110 @@ The key insight is that urgency itself is not evidence. A message may feel impor
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCInfodemics and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 695 — This phenomenon, called a...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemics and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 695 — This phenomenon, called a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/360117527_The_application_of_emotions_sharing_motivations_and_psychological_distance_in_examining_the_intention_to_share_COVID-19-related_fake_news](https://www.researchgate.net/publication/360117527_The_application_of_emotions_sharing_motivations_and_psychological_distance_in_examining_the_intention_to_share_COVID-19-related_fake_news)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateThe application of emotions, sharing motivations, and...This study uses appraisal theory to analyze the impact of such rumor...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/360117527_The_application_of_emotions_sharing_motivations_and_psychological_distance_in_examining_the_intention_to_share_COVID-19-related_fake_news" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360117527_The_application_of_emotions_sharing_motivations_and_psychological_distance_in_examining_the_intention_to_share_COVID-19-related_fake_news</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The application of emotions, sharing motivations, and...This study uses appraisal theory to analyze the impact of such rumor...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: who.int  
-   Link: [https://www.who.int/health-topics/infodemic](https://www.who.int/health-topics/infodemic)  
+   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: who.int  
-   Link: [https://www.who.int/health-topics/infodemic/understanding-the-infodemic-and-misinformation-in-the-fight-against-covid-19](https://www.who.int/health-topics/infodemic/understanding-the-infodemic-and-misinformation-in-the-fight-against-covid-19)  
+   Link: <a href="https://www.who.int/health-topics/infodemic/understanding-the-infodemic-and-misinformation-in-the-fight-against-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic/understanding-the-infodemic-and-misinformation-in-the-fight-against-covid-19</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationUnderstanding the infodemic and misinformation...Conducting visual network analyses to better understand the ec...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8088318/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8088318/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8088318/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8088318/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation infodemic during public health...by N Chowdhury · 2021 · Cited by 130 — This rapid integrative review will draw on knowle...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9217148/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9217148/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCUnderstanding How and by Whom COVID-19 Misinformation...by Y Zhao · 2022 · Cited by 29 — We propose an elaboration likelihood model–b...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9217148/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9217148/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding How and by Whom COVID-19 Misinformation...by Y Zhao · 2022 · Cited by 29 — We propose an elaboration likelihood model–b...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: who.int  
-   Link: [https://www.who.int/health-topics/infodemic/the-covid-19-infodemic](https://www.who.int/health-topics/infodemic/the-covid-19-infodemic)  
+   Link: <a href="https://www.who.int/health-topics/infodemic/the-covid-19-infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic/the-covid-19-infodemic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationThe COVID-19 infodemicAn infodemic is too much information including false or misleading information in digital...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: who.int  
-   Link: [https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds](https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds)  
+   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemics and misinformation negatively affect people&#x27;s...1 Sept 2022 — The systematic review of published stu...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reuters.com  
    Title: Fake rumors, real killings: Inside Congo's deadly health misinformation crisis  
-   Link: [https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/](https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The panic led to violence, including the killing of four health workers conducting vaccination surveys. The WHO and Africa Infodemic Resp...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: hhs.gov  
-   Link: [https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf](https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf)  
+   Link: <a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health MisinformationJuly 2, 2021 — 14 Jul 2021 — Verify accuracy of information by checking with trustworthy and credible so...</p></details>
    Published: July 2, 2021  
 
 12. <a id="endnote-12"></a>
    Source: cma.ca  
-   Link: [https://www.cma.ca/healthcare-for-real/why-health-misinformation-social-media-dangerous](https://www.cma.ca/healthcare-for-real/why-health-misinformation-social-media-dangerous)  
+   Link: <a href="https://www.cma.ca/healthcare-for-real/why-health-misinformation-social-media-dangerous" target="_blank" rel="noopener noreferrer nofollow">https://www.cma.ca/healthcare-for-real/why-health-misinformation-social-media-dangerous</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>how simple fact‑checking steps can help you avoid spreading misleading or...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: mayoclinic.org  
    Title: art 20587692  
-   Link: [https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/spot-fake-health-articles-misinformation/art-20587692](https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/spot-fake-health-articles-misinformation/art-20587692)  
+   Link: <a href="https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/spot-fake-health-articles-misinformation/art-20587692" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/spot-fake-health-articles-misinformation/art-20587692</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Can you spot a fake health article?16 Aug 2025 — If you see a post that stirs fear without solid evidence, it&#x27;s worth checking a trusted...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: who.int  
-   Link: [https://www.who.int/](https://www.who.int/)  
+   Link: <a href="https://www.who.int/" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/</a>  
 
 15. <a id="endnote-15"></a>
    Source: who.int  
    Title: disinformation and public health  
-   Link: [https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health](https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health)  
+   Link: <a href="https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Feb 2024 — This WHO questions and answers page looks at how health-related disinformation has emerged as a threat to public health and...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: who.int  
-   Link: [https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve](https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve)  
+   Link: <a href="https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve</a>  
 
 17. <a id="endnote-17"></a>
    Source: who.int  
-   Link: [https://www.who.int/teams/digital-health-and-innovation/digital-channels/combatting-misinformation-online](https://www.who.int/teams/digital-health-and-innovation/digital-channels/combatting-misinformation-online)  
+   Link: <a href="https://www.who.int/teams/digital-health-and-innovation/digital-channels/combatting-misinformation-online" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/digital-health-and-innovation/digital-channels/combatting-misinformation-online</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Combatting misinformation onlineWHO and partners recognize that misinformation online has the potential to travel further, faster and som...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/pubs/reports/health-misinformation](https://www.apa.org/pubs/reports/health-misinformation)  
+   Link: <a href="https://www.apa.org/pubs/reports/health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/reports/health-misinformation</a>  
 
 19. <a id="endnote-19"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: Misinformation Review Anger contributes to the spread of COVID-19 misinformation  
-   Link: [https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/](https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewAnger contributes to the spread of COVID-19 misinformationSeptember 17, 2020 — by J Han · 2020 · Cited by 108 — A su...</p></details>
    Published: September 17, 2020  
 
 20. <a id="endnote-20"></a>
    Source: thelancet.com  
-   Link: [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930461-X/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930461-X/fulltext)  
+   Link: <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930461-X/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930461-X/fulltext</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to fight an infodemicby J Zarocostas · 2020 · Cited by 3513 — a global epidemic of misinformation—spreading rapidly through social me...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reutersinstitute.[politics](&#123;&#123; 'politics/' | relative_url &#125;&#125;). ox.ac.uk  
-   Link: [https://reutersinstitute.politics.ox.ac.uk/infodemic-how-people-six-countries-access-and-rate-news-and-information-about-coronavirus](https://reutersinstitute.politics.ox.ac.uk/infodemic-how-people-six-countries-access-and-rate-news-and-information-about-coronavirus)  
+   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/infodemic-how-people-six-countries-access-and-rate-news-and-information-about-coronavirus" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/infodemic-how-people-six-countries-access-and-rate-news-and-information-about-coronavirus</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the &#x27;infodemic&#x27;: how people in six countries access...15 Apr 2020 — It is clear that both information and various kinds of misinformatio...</p></details>
 
 ### Additional References
@@ -932,56 +920,56 @@ The key insight is that urgency itself is not evidence. A message may feel impor
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Growing Concerns Over Impact Of Medical Misinformation On Public Health  
-   Link: [http://www.youtube.com/watch?v=ckCbmbLb0VY](http://www.youtube.com/watch?v=ckCbmbLb0VY)  
+   Link: <a href="http://www.youtube.com/watch?v=ckCbmbLb0VY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ckCbmbLb0VY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why we share health misinformation urgency Steven Bartlett sharing harmful health misinformation in Diary of CEO podcast | BBC News BBC News...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: centerforhealthsecurity.org  
    Title: Addressing Misleading and Purposefully Manipulated  
-   Link: [https://centerforhealthsecurity.org/our-work/research-projects/addressing-misleading-and-purposefully-manipulated-health-related-information](https://centerforhealthsecurity.org/our-work/research-projects/addressing-misleading-and-purposefully-manipulated-health-related-information)  
+   Link: <a href="https://centerforhealthsecurity.org/our-work/research-projects/addressing-misleading-and-purposefully-manipulated-health-related-information" target="_blank" rel="noopener noreferrer nofollow">https://centerforhealthsecurity.org/our-work/research-projects/addressing-misleading-and-purposefully-manipulated-health-related-information</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Pandemic · National Priorities to Combat Misinformation and Disinformation for COVID-19 and Future Public Health Threats: A Call...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: apa.org  
    Title: misinformation mental health  
-   Link: [https://www.apa.org/topics/journalism-facts/misinformation-mental-health](https://www.apa.org/topics/journalism-facts/misinformation-mental-health)  
+   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-mental-health" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-mental-health</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Addressing misinformation about mental health with patients6 Nov 2024 — Mental health misinformation on social media often spreads inaccu...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=fTgJB6Bg97I](https://www.youtube.com/watch?v=fTgJB6Bg97I)  
+   Link: <a href="https://www.youtube.com/watch?v=fTgJB6Bg97I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fTgJB6Bg97I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>social media, with a new study finding more than half of...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Steven Bartlett sharing harmful health misinformation in Diary of CEO podcast  
-   Link: [http://www.youtube.com/watch?v=XV_B96fAzKs](http://www.youtube.com/watch?v=XV_B96fAzKs)  
+   Link: <a href="http://www.youtube.com/watch?v=XV_B96fAzKs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=XV_B96fAzKs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What to know about the rise of mental health misinformation on social media...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: piftick.org.uk  
    Title: False health information – the warning signs  
-   Link: [https://piftick.org.uk/guide/false-health-information-the-warning-signs/](https://piftick.org.uk/guide/false-health-information-the-warning-signs/)  
+   Link: <a href="https://piftick.org.uk/guide/false-health-information-the-warning-signs/" target="_blank" rel="noopener noreferrer nofollow">https://piftick.org.uk/guide/false-health-information-the-warning-signs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scroll down for translated guides and audio. Health information helps us to stay well.Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: What to know about the rise of mental health misinformation on social media  
-   Link: [http://www.youtube.com/watch?v=QdI2kEivaRk](http://www.youtube.com/watch?v=QdI2kEivaRk)  
+   Link: <a href="http://www.youtube.com/watch?v=QdI2kEivaRk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QdI2kEivaRk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Growing Concerns Over Impact Of Medical Misinformation On Public Health...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: news.cancerresearchuk.org  
    Title: sorting fact from fiction a guide to spotting health misinformation  
-   Link: [https://news.cancerresearchuk.org/2024/02/16/sorting-fact-from-fiction-a-guide-to-spotting-health-misinformation/](https://news.cancerresearchuk.org/2024/02/16/sorting-fact-from-fiction-a-guide-to-spotting-health-misinformation/)  
+   Link: <a href="https://news.cancerresearchuk.org/2024/02/16/sorting-fact-from-fiction-a-guide-to-spotting-health-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://news.cancerresearchuk.org/2024/02/16/sorting-fact-from-fiction-a-guide-to-spotting-health-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here are 5 ways to help you spot health misinformation...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10546230/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10546230/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10546230/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10546230/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>structured literature review of the health infodemic on social...by C Hove · 2023 · Cited by 11 — This strategic review described the ro...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK585504/](https://www.ncbi.nlm.nih.gov/books/NBK585504/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBIWHO defines an infodemic as “too much information, including false or misleading information, in digital and physical environments du...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK585504/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK585504/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO defines an infodemic as “too much information, including false or misleading information, in digital and physical environments du...</p></details>

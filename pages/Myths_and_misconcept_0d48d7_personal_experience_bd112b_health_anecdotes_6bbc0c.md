@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_personal_experience_bd112b_timing_vs_cause_444a87
 - Myths_and_misconcept_0d48d7_personal_experience_bd112b_using_stories_well_99349c
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - anecdotes
 - health-stories
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - anecdotes
 - health-stories
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Health stories can feel more convincing than stronger evidence because fear, pain and hope make single cases easier to trust.
 hero_summary: Health stories can feel more convincing than stronger evidence because fear, pain and hope make single cases easier to trust.
 layout: default
 permalink: /health-stories/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /anecdotes/
 nav_short_title: Health stories
 title: Why one health story can overpower numbers
-title_full: Why one health story can overpower numbers | Anecdotes
+title_full: Why one health story can overpower numbers
 display_title_short: Health stories
 display_title: Health stories
 heading_title: Why one health story can overpower numbers
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Personal Experience Becomes a Myth | Mythcraft
+parent_title: When Personal Experience Becomes a Myth
 parent_permalink: /anecdotes/
 parent_nav_short_title: Anecdotes
 parent_heading_title: When Personal Experience Becomes a Myth
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Did it work, or did time pass?
 up_link:
   basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
@@ -259,7 +259,7 @@ next_link:
   permalink: /safety-reports/
   short_title: Safety reports
   heading_title: What safety reports can and cannot prove
-date: '2026-06-09 04:23:10 '
+date: '2026-06-11 22:01:11 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_health_anecdotes_6bbc0c-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_health_anecdotes_6bbc0c-Illustration-1.webp
@@ -270,17 +270,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_hea
 
 A single health story can feel more convincing than thousands of patient records. Someone says a treatment cured their pain, a relative describes a frightening side effect, or a social media post shows a dramatic recovery. Even when stronger evidence exists, many people find these stories harder to ignore than statistics.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_health_anecdotes_6bbc0c-Illustration-1-dark.svg" | relative_url }}" alt="Health stories illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_health_anecdotes_6bbc0c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_health_anecdotes_6bbc0c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is not simply a failure of logic. Health decisions involve fear, hope, uncertainty and personal risk. When the topic is cancer treatment, [vaccines]({{ 'vaccines/' | relative_url }}), chronic pain, fertility or a child's health, people naturally focus on information that feels immediate and human. Research shows that [anecdotes]({{ 'anecdotes/' | relative_url }}) often become especially persuasive when emotional engagement is high, including in health-related situations where the stakes feel personal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0749597819301633" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA meta-analysis of the anecdotal biasby TH Freling · 2020 · Cited by 109 — We find anecdotal evidence to be more persuasive...</span></span></span>
+This is not simply a failure of logic. Health decisions involve fear, hope, uncertainty and personal risk. When the topic is cancer treatment, [vaccines]({{ 'vaccines/' | relative_url }}), chronic pain, fertility or a child's health, people naturally focus on information that feels immediate and human. Research shows that [anecdotes]({{ 'anecdotes/' | relative_url }}) often become especially persuasive when emotional engagement is high, including in health-related situations where the stakes feel personal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0749597819301633" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A meta-analysis of the anecdotal biasby TH Freling · 2020 · Cited by 109 — We find anecdotal evidence to be more persuasive...</span></span></span>
 
-Understanding why health stories overpower numbers helps explain how misconceptions spread and why [personal experience]({{ 'anecdotes/' | relative_url }}) is often overgeneralised into broad claims about what “works” or “doesn't work”.
+Understanding why health stories overpower numbers helps explain how misconceptions spread and why personal experience is often overgeneralised into broad claims about what “works” or “doesn't work”.
 
 ## Why health choices raise emotional stakes
 
 Health decisions differ from many other decisions because the consequences feel intensely personal. Choosing a treatment is not like choosing a mobile phone or a holiday destination. The outcome may affect pain, disability, quality of life or survival.
 
-When people feel vulnerable, they tend to rely more heavily on information that is emotionally meaningful and easy to imagine. Studies of anecdotal persuasion have found that statistical evidence loses some of its advantage when an issue involves severe threats, health concerns or matters affecting oneself directly. In these situations, stories can become more influential than data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0749597819301633" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA meta-analysis of the anecdotal biasby TH Freling · 2020 · Cited by 109 — We find anecdotal evidence to be more persuasive...</span></span></span>
+When people feel vulnerable, they tend to rely more heavily on information that is emotionally meaningful and easy to imagine. Studies of anecdotal persuasion have found that statistical evidence loses some of its advantage when an issue involves severe threats, health concerns or matters affecting oneself directly. In these situations, stories can become more influential than data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0749597819301633" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A meta-analysis of the anecdotal biasby TH Freling · 2020 · Cited by 109 — We find anecdotal evidence to be more persuasive...</span></span></span>
 
 A vivid account also creates a concrete mental image. Readers can imagine the patient, the symptoms and the outcome. A statistic such as “2% experienced this side effect” requires abstract reasoning, while a detailed story supplies a ready-made picture. Cognitive research on risk perception has repeatedly shown that people's judgements are shaped by feelings and by the ease with which examples come to mind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16834623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Because affect may also increase the availability of risks.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/2372732217720223" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHealth Risk Perception and Risk CommunicationAug 24, 2017 — Specifically, we discuss the key role of intuitive processes for...</span></span></span>
 
@@ -296,9 +295,6 @@ Research on risk judgement suggests that recalling examples can significantly in
 
 As a result, one memorable story about a treatment failure may feel more informative than evidence collected from thousands of patients.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jjISO-juArY" title="Anecdotal Fallacy: A Data Point of One Is Not Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jjISO-juArY" target="_blank" rel="noopener noreferrer">Anecdotal Fallacy: A Data Point of One Is Not Evidence</a></p><p class="youtube-embed-meta">Channel: Beyond UX Design</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jjISO-juArY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jjISO-juArY">Open on YouTube</a></p></div></div></div>
-
 ## How anecdotes shift beliefs about treatments
 
 The influence of anecdotes is not merely theoretical. Experimental research has shown that stories can change medical beliefs even when statistical evidence is presented alongside them.
@@ -306,7 +302,6 @@ The influence of anecdotes is not merely theoretical. Experimental research has 
 A 2024 study found that reading anecdotes about medical treatments altered participants' beliefs about treatment effectiveness. Importantly, negative anecdotes reduced [confidence]({{ 'confidence/' | relative_url }}) in treatments even when participants were also shown strong statistical evidence from clinical trials. In some cases, a single unfavourable story caused people to discount compelling numerical evidence. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9292208/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow do People Judge Risk?</span><span class="citation-popover-snippet">Availability may Upstage Affect in...by E Efendić · 2021 · Cited by 15 — We found that availability‐by‐recall had a stronger impact in c...</span></span></span>
 
 This matters because many health misconceptions begin with a true story that is interpreted too broadly. Consider the following pattern:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -320,7 +315,6 @@ This matters because many health misconceptions begin with a true story that is 
 The story may be sincere and accurate about that individual's experience. What it cannot show by itself is whether the same outcome is typical, whether another factor caused the improvement, or whether most patients experience the same result.
 
 The reverse can happen as well. One person may experience a side effect or treatment failure and share a compelling account. Listeners may then conclude that the treatment is generally ineffective or dangerous, despite evidence showing that the experience is uncommon.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_health_anecdotes_6bbc0c-Illustration-2-dark.svg" | relative_url }}" alt="Health stories illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_health_anecdotes_6bbc0c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_health_anecdotes_6bbc0c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why negative stories often hit harder
@@ -343,7 +337,6 @@ The problem is that anecdotes create an illusion of representativeness. The pati
 
 Stories also create causal narratives. Humans are naturally drawn to explanations with a beginning, middle and end:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * A symptom appeared.
@@ -354,7 +347,6 @@ Stories also create causal narratives. Humans are naturally drawn to explanation
 
 The sequence feels convincing. Yet many medical conditions fluctuate naturally, improve over time or respond to multiple influences at once. A story can reveal what happened to one person, but it often cannot establish why it happened.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_health_anecdotes_6bbc0c-Illustration-3-dark.svg" | relative_url }}" alt="Health stories illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_health_anecdotes_6bbc0c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_health_anecdotes_6bbc0c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a story should prompt a better question
 
@@ -363,7 +355,6 @@ Health anecdotes are not worthless. In medicine, unusual patient experiences can
 The mistake is treating a story as the final answer rather than the starting point.
 
 A useful response to a striking health anecdote is not immediately to accept or reject it. Instead, ask:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -378,10 +369,6 @@ A useful response to a striking health anecdote is not immediately to accept or 
 These questions shift attention from a memorable case to the broader pattern.
 
 That distinction is crucial because the goal of evidence-based medicine is not to dismiss personal experience. It is to place personal experience in context. Individual stories show what can happen. Well-conducted studies help estimate what usually happens. When health decisions carry serious consequences, confusing those two forms of evidence can allow a vivid exception to overpower a more reliable picture of reality.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IupVRw6BjZ4" title="Science of decision-making 💪🙂" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IupVRw6BjZ4" target="_blank" rel="noopener noreferrer">Science of decision-making 💪🙂</a></p><p class="youtube-embed-meta">Channel: The Knowledge Knot</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IupVRw6BjZ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IupVRw6BjZ4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -779,126 +766,126 @@ That distinction is crucial because the goal of evidence-based medicine is not t
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0749597819301633](https://www.sciencedirect.com/science/article/abs/pii/S0749597819301633)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectA meta-analysis of the anecdotal biasby TH Freling · 2020 · Cited by 109 — We find anecdotal evidence to be more persuasive...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749597819301633" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749597819301633</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the anecdotal biasby TH Freling · 2020 · Cited by 109 — We find anecdotal evidence to be more persuasive...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Availability Heuristic  
-   Link: [https://www.sciencedirect.com/topics/computer-science/availability-heuristic](https://www.sciencedirect.com/topics/computer-science/availability-heuristic)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAvailability Heuristic - an overviewThe availability heuristic refers to the tendency to assess the probability of an event...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/computer-science/availability-heuristic</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability Heuristic - an overviewThe availability heuristic refers to the tendency to assess the probability of an event...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10078638/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10078638/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCBehavioral biases and heuristics in perceptions of COVID‐19...by WJW Botzen · 2022 · Cited by 40 — The availability heuristic posits...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10078638/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10078638/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral biases and heuristics in perceptions of COVID‐19...by WJW Botzen · 2022 · Cited by 40 — The availability heuristic posits...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHow do People Judge Risk?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9292208/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9292208/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9292208/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9292208/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability may Upstage Affect in...by E Efendić · 2021 · Cited by 15 — We found that availability‐by‐recall had a stronger impact in c...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact medical decisions even when presented...by EN Line · 2024 · Cited by 8 — We found that reading anecdotes for either artificial or...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/behavioural-public-policy/article/negative-anecdotes-reduce-policy-support-evidence-from-three-experimental-studies-on-[communicating](https://www.cambridge.org/core/journals/behavioural-public-policy/article/negative-anecdotes-reduce-policy-support-evidence-from-three-experimental-studies-on-[communicating)  
+   Link: <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/negative-anecdotes-reduce-policy-support-evidence-from-three-experimental-studies-on-[communicating" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-public-policy/article/negative-anecdotes-reduce-policy-support-evidence-from-three-experimental-studies-on-[communicating</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentNegative anecdotes reduce policy support: evidence from...by A Rodger · Cited by 2 — Results show...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0738399125006202](https://www.sciencedirect.com/science/article/pii/S0738399125006202)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0738399125006202" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0738399125006202</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effectiveness and determinants of narrative-based...by T Okuhara · 2025 · Cited by 3 — Narrative-based [corrections](&amp;#123;&amp;#123; &#x27;corrections/&#x27; | relative_url &amp;#125;&amp;#125;) show the potential fo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/16834623/](https://pubmed.ncbi.nlm.nih.gov/16834623/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16834623/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16834623/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Because affect may also increase the availability of risks.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/2372732217720223](https://journals.sagepub.com/doi/10.1177/2372732217720223)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/2372732217720223" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2372732217720223</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsHealth Risk Perception and Risk CommunicationAug 24, 2017 — Specifically, we discuss the key role of intuitive processes for...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Availability Heuristic  
-   Link: [https://thedecisionlab.com/biases/availability-heuristic](https://thedecisionlab.com/biases/availability-heuristic)  
+   Link: <a href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/availability-heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easiest for us to re...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39183199/](https://pubmed.ncbi.nlm.nih.gov/39183199/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedAnecdotes impact medical decisions even when presented...by EN Line · 2024 · Cited by 8 — We found that reading anecdotes for eith...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39183199/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39183199/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotes impact medical decisions even when presented...by EN Line · 2024 · Cited by 8 — We found that reading anecdotes for eith...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Availability heuristic  
-   Link: [https://en.wikipedia.org/wiki/Availability_heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Availability_heuristic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Availability_heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability heuristicThe availability heuristic, also known as availability bias, is a mental shortcut that relies on immediate examp...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bwgela.com  
    Title: availability heuristic  
-   Link: [https://www.bwgela.com/blog/availability-heuristic](https://www.bwgela.com/blog/availability-heuristic)  
+   Link: <a href="https://www.bwgela.com/blog/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://www.bwgela.com/blog/availability-heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What can we Learn15 Jan 2025 — The availability heuristic is a cognitive shortcut that influences how individuals make judgments and deci...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/340313878_When_poignant_stories_outweigh_cold_hard_facts_A_meta-analysis_of_the_anecdotal_bias](https://www.researchgate.net/publication/340313878_When_poignant_stories_outweigh_cold_hard_facts_A_meta-analysis_of_the_anecdotal_bias)  
+   Link: <a href="https://www.researchgate.net/publication/340313878_When_poignant_stories_outweigh_cold_hard_facts_A_meta-analysis_of_the_anecdotal_bias" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340313878_When_poignant_stories_outweigh_cold_hard_facts_A_meta-analysis_of_the_anecdotal_bias</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the anecdotal biasThe objective of this paper is to resolve mixed findings about which type of evidence is more persua...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: annualreviews.org  
-   Link: [https://www.annualreviews.org/doi/pdf/10.1146/annurev.pu.14.050193.001151](https://www.annualreviews.org/doi/pdf/10.1146/annurev.pu.14.050193.001151)  
+   Link: <a href="https://www.annualreviews.org/doi/pdf/10.1146/annurev.pu.14.050193.001151" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/doi/pdf/10.1146/annurev.pu.14.050193.001151</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RISK PERCEPTION AND COMMUNICATIONEffective risk communications can help people to reduce their health risks... Availability: a heuristi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management](https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management)  
+   Link: <a href="https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Availability in Risk Perception and ManagementThe Availability Heuristic Theory describes how individuals make decisions base...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: osf.io  
-   Link: [https://osf.io/preprints/psyarxiv/sq5c9](https://osf.io/preprints/psyarxiv/sq5c9)  
+   Link: <a href="https://osf.io/preprints/psyarxiv/sq5c9" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/psyarxiv/sq5c9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>or real medical treatments shifted participants&#x27; beliefs about the efficacy of a medical...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: premierscience.com  
-   Link: [https://premierscience.com/pjph-24-353/](https://premierscience.com/pjph-24-353/)  
+   Link: <a href="https://premierscience.com/pjph-24-353/" target="_blank" rel="noopener noreferrer nofollow">https://premierscience.com/pjph-24-353/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>al health risks, especially in networks where peers have a lot of power.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: medicalxpress.com  
    Title: 2020 04 crisis people facts  
-   Link: [https://medicalxpress.com/news/2020-04-crisis-people-facts.html](https://medicalxpress.com/news/2020-04-crisis-people-facts.html)  
+   Link: <a href="https://medicalxpress.com/news/2020-04-crisis-people-facts.html" target="_blank" rel="noopener noreferrer nofollow">https://medicalxpress.com/news/2020-04-crisis-people-facts.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In crisis, people trust feelings over facts2 Apr 2020 — People are more likely to base decisions on anecdotal information instead of fact...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: psychologytoday.com  
    Title: is statistical evidence the antidote to anecdotes  
-   Link: [https://www.psychologytoday.com/us/blog/a-hovercraft-full-of-eels/202004/is-statistical-evidence-the-antidote-to-anecdotes](https://www.psychologytoday.com/us/blog/a-hovercraft-full-of-eels/202004/is-statistical-evidence-the-antidote-to-anecdotes)  
+   Link: <a href="https://www.psychologytoday.com/us/blog/a-hovercraft-full-of-eels/202004/is-statistical-evidence-the-antidote-to-anecdotes" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/a-hovercraft-full-of-eels/202004/is-statistical-evidence-the-antidote-to-anecdotes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2020), though, offers some potential insight. The meta-analysis examined several factors...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/09638288.2024.2420833](https://www.tandfonline.com/doi/full/10.1080/09638288.2024.2420833)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09638288.2024.2420833" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09638288.2024.2420833</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trust, belief and transitions: people&#x27;s experiences of...by H Lewis · 2025 · Cited by 1 — This study aimed to explore how people with pe...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
    Title: 339107956 The impact of anecdotal information on medical decision making  
-   Link: [https://www.researchgate.net/publication/339107956_The_impact_of_anecdotal_information_on_medical_decision-making](https://www.researchgate.net/publication/339107956_The_impact_of_anecdotal_information_on_medical_decision-making)  
+   Link: <a href="https://www.researchgate.net/publication/339107956_The_impact_of_anecdotal_information_on_medical_decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339107956_The_impact_of_anecdotal_information_on_medical_decision-making</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 2024 · Cognitive Research...Read more...</p></details>
    Published: August 2024  
 
 23. <a id="endnote-23"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-026-40021-8](https://www.nature.com/articles/s41598-026-40021-8)  
+   Link: <a href="https://www.nature.com/articles/s41598-026-40021-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-40021-8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the mediating role of learning engagement in...by G Hamidkholgh · 2026 — This study emphasizes the role of self-efficacy i...</p></details>

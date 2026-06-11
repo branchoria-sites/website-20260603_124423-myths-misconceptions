@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea
 - Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - common-sense
 - prediction-test
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - common-sense
 - prediction-test
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A claim becomes stronger when it says what should happen, what should not happen, and what evidence would count against it.
 hero_summary: A claim becomes stronger when it says what should happen, what should not happen, and what evidence would count against it.
 layout: default
 permalink: /prediction-test/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /common-sense/
 nav_short_title: Prediction test
 title: What would we see if it were true?
-title_full: What would we see if it were true? | Common Sense
+title_full: What would we see if it were true?
 display_title_short: Prediction test
 display_title: Prediction test
 heading_title: What would we see if it were true?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Common Sense Leads US Wrong | Mythcraft
+parent_title: When Common Sense Leads US Wrong
 parent_permalink: /common-sense/
 parent_nav_short_title: Common Sense
 parent_heading_title: When Common Sense Leads US Wrong
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Do learning styles actually improve learning?
 up_link:
   basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
@@ -259,7 +259,7 @@ prev_link:
   permalink: /learning-styles-cb868a/
   short_title: Learning styles
   heading_title: Do learning styles actually improve learning?
-date: '2026-06-09 04:39:55 '
+date: '2026-06-11 22:09:33 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_te
 
 A plausible claim becomes stronger when it stops being merely a satisfying story and starts making risky predictions. The key question is not whether an idea sounds reasonable, but what we would expect to observe if it were true — and what evidence would count against it. That shift matters because many myths survive on flexibility. They can explain almost any outcome after the fact, which makes them feel convincing while protecting them from serious testing.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-1-dark.svg" | relative_url }}" alt="Prediction test illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In debates about misconceptions, the strongest claims are usually the ones that take the biggest risk. They specify what should happen, what should not happen, and what result would force supporters to reconsider. A claim that cannot be challenged by evidence may remain attractive, but it cannot be meaningfully tested. Philosophers of science such as Karl Popper argued that useful theories expose themselves to possible failure by making predictions that could be contradicted by observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/karl-popper.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">karl popper</span><span class="citation-popover-snippet">Simply PsychologyKarl Popper: Falsification Theory31 Jul 2023 — Karl Popper&#x27;s theory of falsification contends that scientific inquiry sh...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/criterion-of-falsifiability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">criterion of falsifiability</span><span class="citation-popover-snippet">Encyclopedia BritannicaCriterion of falsifiability | Falsificationism, Popper, Hypotheses19 Mar 2026 — Scientific theories are instead in...</span></span></span>
+In debates about misconceptions, the strongest claims are usually the ones that take the biggest risk. They specify what should happen, what should not happen, and what result would force supporters to reconsider. A claim that cannot be challenged by evidence may remain attractive, but it cannot be meaningfully tested. Philosophers of science such as Karl Popper argued that useful theories expose themselves to possible failure by making predictions that could be contradicted by observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/karl-popper.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">karl popper</span><span class="citation-popover-snippet">Simply PsychologyKarl Popper: Falsification Theory31 Jul 2023 — Karl Popper&#x27;s theory of falsification contends that scientific inquiry sh...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/criterion-of-falsifiability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">criterion of falsifiability</span><span class="citation-popover-snippet">Encyclopedia BritannicaCriterion of falsifiability &#124; Falsificationism, Popper, Hypotheses19 Mar 2026 — Scientific theories are instead in...</span></span></span>
 
 ## Define the claim before judging it
 
@@ -281,7 +280,6 @@ Many myths survive because the original claim remains vague. Before asking wheth
 Consider the common learning-styles idea. People often begin with a broad statement such as “everyone learns differently”. That observation is largely uncontroversial. People do have different experiences, interests and study preferences. The problem is that this statement is too broad to test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evidencebased.education">[Evidence Based Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evidencebased.education</span><span class="citation-popover-title">the lingering learning styles myth</span><span class="citation-popover-snippet">The truth with this myth is that individuals will have different study techniques...Read more...</span></span></span>
 
 To make the claim testable, it must become more specific:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,9 +299,7 @@ A common-sense explanation often sounds persuasive because it points to a plausi
 
 The process can be surprisingly simple:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhgwIhB58PA" title="The Biggest Myth In Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer">The Biggest Myth In Education</a></p><p class="youtube-embed-meta">Channel: Veritasium &middot; Views: 15.4M &middot; Uploaded: July 2021 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhgwIhB58PA">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -332,7 +328,6 @@ A stronger approach is to specify failure conditions in advance.
 
 Before looking at evidence, ask:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What result would surprise me if the claim were true?
@@ -345,7 +340,6 @@ This is one reason scientific testing often requires pre-specified hypotheses. R
 
 The more clearly a claim defines its own failure conditions, the easier it becomes to distinguish evidence from rationalisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/karl-popper.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">karl popper</span><span class="citation-popover-snippet">Simply PsychologyKarl Popper: Falsification Theory31 Jul 2023 — Karl Popper&#x27;s theory of falsification contends that scientific inquiry sh...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-2-dark.svg" | relative_url }}" alt="Prediction test illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Look for comparisons that anecdotes leave out
 
@@ -354,7 +348,6 @@ The more clearly a claim defines its own failure conditions, the easier it becom
 Suppose someone says, “Every time I use this method, it works.” That statement sounds persuasive until a comparison appears.
 
 Questions that improve testability include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -367,19 +360,16 @@ Questions that improve testability include:
 
 A hospital worker may remember unusual events during a full moon because those nights are memorable. The test is not whether unusual events happened. The test is whether they happened more often than on comparable nights. The comparison, not the anecdote, carries most of the evidential weight.
 
-This is why controlled studies often produce results that feel counterintuitive. They include the background rate that [personal experience]({{ 'anecdotes/' | relative_url }}) tends to overlook.
+This is why controlled studies often produce results that feel counterintuitive. They include the background rate that personal experience tends to overlook.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wf-sGqBsWv4" title="Karl Popper&#x27;s Falsification" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wf-sGqBsWv4" target="_blank" rel="noopener noreferrer">Karl Popper&#x27;s Falsification</a></p><p class="youtube-embed-meta">Channel: BBC Radio 4 &middot; Views: 576.1K &middot; Uploaded: August 2015 &middot; Length: 1 minute 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wf-sGqBsWv4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wf-sGqBsWv4">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-3-dark.svg" | relative_url }}" alt="Prediction test illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why confirmation feels easier than testing
 
-People naturally search for examples that fit their expectations. Psychologists refer to this tendency as confirmation bias: the habit of noticing, remembering and favouring information that supports existing beliefs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12332 — Confi...</span><span class="citation-popover-meta">Published: October 6, 2004</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/criterion-of-falsifiability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">criterion of falsifiability</span><span class="citation-popover-snippet">Encyclopedia BritannicaCriterion of falsifiability | Falsificationism, Popper, Hypotheses19 Mar 2026 — Scientific theories are instead in...</span></span></span>
+People naturally search for examples that fit their expectations. Psychologists refer to this tendency as confirmation bias: the habit of noticing, remembering and favouring information that supports existing beliefs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12332 — Confi...</span><span class="citation-popover-meta">Published: October 6, 2004</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/criterion-of-falsifiability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">criterion of falsifiability</span><span class="citation-popover-snippet">Encyclopedia BritannicaCriterion of falsifiability &#124; Falsificationism, Popper, Hypotheses19 Mar 2026 — Scientific theories are instead in...</span></span></span>
 
 That tendency creates a trap when evaluating plausible claims. If someone believes a myth, examples supporting it become easy to find.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -394,8 +384,8 @@ Turning a claim into a testable prediction helps counter this bias because it fo
 
 Instead of asking, “Can I find evidence for this?”, the better question becomes, “What evidence should appear if this is true, and does it appear more often than the alternatives predict?”
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wf-sGqBsWv4" title="Karl Popper&#x27;s Falsification" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wf-sGqBsWv4" target="_blank" rel="noopener noreferrer">Karl Popper&#x27;s Falsification</a></p><p class="youtube-embed-meta">Channel: BBC Radio 4 &middot; Views: 576.1K &middot; Uploaded: August 2015 &middot; Length: 1 minute 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wf-sGqBsWv4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wf-sGqBsWv4">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-3-dark.svg" | relative_url }}" alt="Prediction test illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The difference between a story and a prediction
 
 Many misconceptions begin as stories that organise experience. Stories are useful because they compress complexity into something memorable. The problem comes when a story is mistaken for evidence.
@@ -411,10 +401,6 @@ A prediction says:
 That second form is harder to create, but it is also more informative. It creates a path by which evidence can strengthen, weaken or overturn the claim.
 
 Testing myths therefore begins with a simple transformation. Instead of asking whether an explanation sounds sensible, ask what the world should look like if the explanation is true. Once a claim commits itself to observable consequences, it stops being merely plausible and becomes something evidence can genuinely challenge.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-X8Xfl0JdTQ" title="Karl Popper, Science, &amp; Pseudoscience: Crash Course Philosophy #8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-X8Xfl0JdTQ" target="_blank" rel="noopener noreferrer">Karl Popper, Science, &amp; Pseudoscience: Crash Course Philosophy #8</a></p><p class="youtube-embed-meta">Channel: CrashCourse</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-X8Xfl0JdTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-X8Xfl0JdTQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -813,120 +799,120 @@ Testing myths therefore begins with a simple transformation. Instead of asking w
 1. <a id="endnote-1"></a>
    Source: britannica.com  
    Title: criterion of falsifiability  
-   Link: [https://www.britannica.com/topic/criterion-of-falsifiability](https://www.britannica.com/topic/criterion-of-falsifiability)  
+   Link: <a href="https://www.britannica.com/topic/criterion-of-falsifiability" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/criterion-of-falsifiability</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaCriterion of falsifiability | Falsificationism, Popper, Hypotheses19 Mar 2026 — Scientific theories are instead in...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)  
+   Link: <a href="https://en.wikipedia.org/wiki/Falsifiability" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falsifiability</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FalsifiabilityFalsifiability is a standard of evaluation of scientific statements, including theories and hypotheses. A statement is f...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Learning Styles Myth is Thriving in Higher Education  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles Myth is Thriving in Higher Education - PMCby PM Newton · 2015 · Cited by 476 — The existence of &#x27;Learning Styles&#x27; is a co...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/science/confirmation-bias](https://www.britannica.com/science/confirmation-bias)  
+   Link: <a href="https://www.britannica.com/science/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/confirmation-bias</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaConfirmation bias | Definition, Examples, Psychology, &amp; FactsConfirmation bias is a person&#x27;s tendency to process i...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link: [https://en.wikipedia.org/wiki/Confirmation_bias](https://en.wikipedia.org/wiki/Confirmation_bias)  
+   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasConfirmation bias is the tendency to search for, interpret, favor and recall information in a way that confirms or su...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: simplypsychology.org  
    Title: karl popper  
-   Link: [https://www.simplypsychology.org/karl-popper.html](https://www.simplypsychology.org/karl-popper.html)  
+   Link: <a href="https://www.simplypsychology.org/karl-popper.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/karl-popper.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyKarl Popper: Falsification Theory31 Jul 2023 — Karl Popper&#x27;s theory of falsification contends that scientific inquiry sh...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: evidencebased.education  
    Title: the lingering learning styles myth  
-   Link: [https://evidencebased.education/resource/the-lingering-learning-styles-myth/](https://evidencebased.education/resource/the-lingering-learning-styles-myth/)  
+   Link: <a href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow">https://evidencebased.education/resource/the-lingering-learning-styles-myth/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth with this myth is that individuals will have different study techniques...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: carlhendrick.substack.com  
    Title: The Learning Dispatch Why The Learning Styles Myth Persists And How It Damages  
-   Link: [https://carlhendrick.substack.com/p/the-learning-styles-illusion-[debunking](https://carlhendrick.substack.com/p/the-learning-styles-illusion-[debunking)  
+   Link: <a href="https://carlhendrick.substack.com/p/the-learning-styles-illusion-[debunking" target="_blank" rel="noopener noreferrer nofollow">https://carlhendrick.substack.com/p/the-learning-styles-illusion-[debunking</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning DispatchWhy The Learning Styles Myth Persists And How It Damages...April 4, 2025 — The central myth of learning styles is s...</p></details>
    Published: April 4, 2025  
 
 9. <a id="endnote-9"></a>
    Source: pages.ucsd.edu  
    Title: UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many  
-   Link: [https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf](https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf)  
+   Link: <a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12332 — Confi...</p></details>
    Published: October 6, 2004  
 
 10. <a id="endnote-10"></a>
    Source: apa.org  
    Title: learning styles myth  
-   Link: [https://www.apa.org/news/press/releases/2019/05/learning-styles-myth](https://www.apa.org/news/press/releases/2019/05/learning-styles-myth)  
+   Link: <a href="https://www.apa.org/news/press/releases/2019/05/learning-styles-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/press/releases/2019/05/learning-styles-myth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Belief in learning styles myth may be detrimental30 May 2019 — Many people, including educators, believe learning styles are set at birth...</p></details>
    Published: May 2019  
 
 11. <a id="endnote-11"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/popper/](https://plato.stanford.edu/entries/popper/)  
+   Link: <a href="https://plato.stanford.edu/entries/popper/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/popper/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby S Thornton · 1997 · Cited by 444 — In later years Popper came under philosophical criticism for his...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers](https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers)  
+   Link: <a href="https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Biases and Their Influence on Critical Thinking...21 Jul 2023 — Researchers have discovered 200 cognitive biases that result i...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/falsifiability-rule](https://www.ebsco.com/research-starters/religion-and-philosophy/falsifiability-rule)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/falsifiability-rule" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/falsifiability-rule</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Falsifiability rule | Religion and PhilosophyAustrian-born British philosopher Karl Popper proposed that ideas could be regarded as legit...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/biases/confirmation-bias](https://thedecisionlab.com/biases/confirmation-bias)  
+   Link: <a href="https://thedecisionlab.com/biases/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/confirmation-bias</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasConfirmation bias describes our underlying tendency to notice, focus on, and provide greater credence to evidence that f...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: fs.blog  
-   Link: [https://fs.blog/the-uses-of-being-wrong/](https://fs.blog/the-uses-of-being-wrong/)  
+   Link: <a href="https://fs.blog/the-uses-of-being-wrong/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/the-uses-of-being-wrong/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Uses Of Being WrongPopper&#x27;s falsifiability criterion ignores the tenacity of scientific theories, even in the face of disconfirming e...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: gc-bs.org  
-   Link: [https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/](https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/)  
+   Link: <a href="https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Learning Styles Myth and Embracing...12 Jan 2026 — At the heart of nearly all learning style theories lies a single, core...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/research-hub/why-is-the-myth-of-learning-styles-so-hard-to-slay/](https://my.chartered.college/research-hub/why-is-the-myth-of-learning-styles-so-hard-to-slay/)  
+   Link: <a href="https://my.chartered.college/research-hub/why-is-the-myth-of-learning-styles-so-hard-to-slay/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/research-hub/why-is-the-myth-of-learning-styles-so-hard-to-slay/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is the myth of &#x27;learning styles&#x27; so hard to slay?One reason is likely that it feels a very compelling and convincing idea – that we have...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=rhgwIhB58PA](https://www.youtube.com/watch?v=rhgwIhB58PA)  
+   Link: <a href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rhgwIhB58PA</a>  
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Clinicians might apply the same notion to understand  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8140582/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8140582/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8140582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8140582/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in medicine: what clinicians can learn from Karl...by S Taran · 2021 · Cited by 18 — Popper applied the notion of falsifiability to dist...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: whyevolutionistrue.com  
    Title: is falsifiability a good criterion for a scientific theory  
-   Link: [https://whyevolutionistrue.com/2012/04/29/is-falsifiability-a-good-criterion-for-a-scientific-theory/](https://whyevolutionistrue.com/2012/04/29/is-falsifiability-a-good-criterion-for-a-scientific-theory/)  
+   Link: <a href="https://whyevolutionistrue.com/2012/04/29/is-falsifiability-a-good-criterion-for-a-scientific-theory/" target="_blank" rel="noopener noreferrer nofollow">https://whyevolutionistrue.com/2012/04/29/is-falsifiability-a-good-criterion-for-a-scientific-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?29 Apr 2012 — Testability is falsifiability; but there are degrees of testability: some theories are more testable, more exposed to refu...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: hamzatzortzis.com  
    Title: What is Karl Popper's View of the Scientific Method?  
-   Link: [https://www.hamzatzortzis.com/what-is-karl-poppers-view-of-the-scientific-method-is-that-view-satisfactory/](https://www.hamzatzortzis.com/what-is-karl-poppers-view-of-the-scientific-method-is-that-view-satisfactory/)  
+   Link: <a href="https://www.hamzatzortzis.com/what-is-karl-poppers-view-of-the-scientific-method-is-that-view-satisfactory/" target="_blank" rel="noopener noreferrer nofollow">https://www.hamzatzortzis.com/what-is-karl-poppers-view-of-the-scientific-method-is-that-view-satisfactory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is That...12 May 2020 — Popper&#x27;s view was that a scientific claim was only valid if it can be falsified; he maintains that “the possibil...</p></details>
-   Published: May 2020  
+   Published: May 2020

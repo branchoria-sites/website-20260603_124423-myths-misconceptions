@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_left_right_brain_lab_f1b4e4
 - Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_teacher_training_rub_152f08
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - neuromyths
 - brain-gym
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - neuromyths
 - brain-gym
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Movement breaks can help classrooms, but Brain Gym-style claims about hemispheric integration go beyond the evidence.
 hero_summary: Movement breaks can help classrooms, but Brain Gym-style claims about hemispheric integration go beyond the evidence.
 layout: default
 permalink: /brain-gym-e79dce/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /neuromyths/
 nav_short_title: Brain Gym
 title: When movement breaks become brain myths
-title_full: When movement breaks become brain myths | Neuromyths
+title_full: When movement breaks become brain myths
 display_title_short: Brain Gym
 display_title: Brain Gym
 heading_title: When movement breaks become brain myths
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Brain Myths Spread in Schools | Mythcraft
+parent_title: Why Brain Myths Spread in Schools
 parent_permalink: /neuromyths/
 parent_nav_short_title: Neuromyths
 parent_heading_title: Why Brain Myths Spread in Schools
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How teacher training can preserve myths
 up_link:
   basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
@@ -259,7 +259,7 @@ next_link:
   permalink: /brain-labels/
   short_title: Brain labels
   heading_title: Why left brain labels mislead teachers
-date: '2026-06-09 05:36:52 '
+date: '2026-06-11 22:37:35 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_brain_gym_movement_c_9aabda-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_brain_gym_movement_c_9aabda-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_br
 
 Movement breaks are one of the clearest examples of how a useful classroom practice can become mixed with a misleading explanation. There is good evidence that children benefit from opportunities to move during the school day. Short bouts of physical activity can reduce sedentary time, improve alertness and sometimes support attention and classroom behaviour. What is far less supported is the claim that particular movements “integrate” the brain, activate underused neural pathways or unlock learning through specialised neurological mechanisms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersReview on the Prevalence and Persistence of Neuromyths...by F Grospietsch · 2021 · Cited by 84 — Numerous empirical studies rev...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_brain_gym_movement_c_9aabda-Illustration-1-dark.svg" | relative_url }}" alt="Brain Gym illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_brain_gym_movement_c_9aabda-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_brain_gym_movement_c_9aabda-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Brain Gym sits at the centre of this distinction. The programme promotes structured movement routines and presents them as a way to improve learning through brain-based processes. Critics do not generally object to children stretching, standing up or moving around. The controversy concerns the neurological explanations attached to those activities and the educational claims built on them. Brain Gym has therefore become a common case study in discussions of [neuromyths]({{ 'neuromyths/' | relative_url }}) in teacher training and classroom practice. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://eric.ed.gov/?id=EJ881037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-title">ERICIs Brain Gym[R] an Effective Educational Intervention?</span><span class="citation-popover-snippet">ERICby LS Spaulding · 2010 · Cited by 164 — While BGI&#x27;s claims are persuasive, to date there is little empirical evidence validating the...</span></span></span>
+Brain Gym sits at the centre of this distinction. The programme promotes structured movement routines and presents them as a way to improve learning through brain-based processes. Critics do not generally object to children stretching, standing up or moving around. The controversy concerns the neurological explanations attached to those activities and the educational claims built on them. Brain Gym has therefore become a common case study in discussions of [neuromyths]({{ 'neuromyths/' | relative_url }}) in teacher training and classroom practice. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://eric.ed.gov/?id=EJ881037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-title">ERICIs Brain Gym[R] an Effective Educational Intervention?</span><span class="citation-popover-snippet">by LS Spaulding · 2010 · Cited by 164 — While BGI&#x27;s claims are persuasive, to date there is little empirical evidence validating the...</span></span></span>
 
 ## What Brain Gym-style programmes promise
 
@@ -282,23 +281,17 @@ These claims sound scientific because they borrow language from neuroscience. Te
 
 Part of the programme's appeal comes from the fact that teachers often observe a genuine effect after movement. A restless class may become calmer after standing up and stretching. Pupils who have been sitting for a long period may appear more alert after physical activity. Brain Gym attributes these observations to specialised neurological processes, but the same observations can often be explained by ordinary changes in arousal, attention and physical comfort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersReview on the Prevalence and Persistence of Neuromyths...by F Grospietsch · 2021 · Cited by 84 — Numerous empirical studies rev...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ATWUEibShYE" title="The Learning Styles Neuromyth &amp; What To Do About It | Varun Pabreja | TEDxYouth@GEMSModernAcademy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ATWUEibShYE" target="_blank" rel="noopener noreferrer">The Learning Styles Neuromyth &amp; What To Do About It | Varun Pabreja | TEDxYouth@GEMSModernAcademy</a></p><p class="youtube-embed-meta">Channel: TEDx Talks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ATWUEibShYE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ATWUEibShYE">Open on YouTube</a></p></div></div></div>
-
 ## Why researchers remain sceptical
 
 Academic criticism of Brain Gym has focused on two issues: weak theoretical foundations and limited evidence that the programme produces the educational benefits claimed for it.
 
 A frequently cited review in *Exceptionality* concluded that Brain Gym makes extensive claims about intellectual and physical development but that there is little empirical evidence validating those claims. The authors argued that many of the programme's underlying assumptions were inconsistent with established neuroscience and educational research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/09362830903462508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineIs Brain Gym® an Effective Educational Intervention?by LS Spaulding · 2010 · Cited by 165 — Making extravagant cla...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://facultyshare.liberty.edu/en/publications/is-brain-gym-an-effective-educational-intervention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facultyshare.liberty.edu">[LU Faculty SHARE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facultyshare.liberty.edu</span><span class="citation-popover-snippet">LU Faculty SHAREIs Brain Gym an Effective Educational Intervention?Jan 1, 2010 — While BGI&#x27;s claims are persuasive, to date there is litt...</span></span></span>
 
-Other reviews have raised similar concerns. Researchers have repeatedly noted problems such as small sample sizes, lack of proper control groups, inconsistent outcome measures and reliance on anecdotal reports. Even studies reporting positive outcomes often test different outcomes under different conditions, making it difficult to determine whether Brain Gym itself is responsible for observed changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aasep.org/article/view/308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aasep.org">[AASEP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aasep.org</span><span class="citation-popover-snippet">AASEPBrain Gym: Pseudoscientific Practiceby K Kroeze · 2016 · Cited by 16 — This paper will provide a brief review of Brain Gym which is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eric.ed.gov/?id=EJ881037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-title">ERICIs Brain Gym[R] an Effective Educational Intervention?</span><span class="citation-popover-snippet">ERICby LS Spaulding · 2010 · Cited by 164 — While BGI&#x27;s claims are persuasive, to date there is little empirical evidence validating the...</span></span></span>
+Other reviews have raised similar concerns. Researchers have repeatedly noted problems such as small sample sizes, lack of proper control groups, inconsistent outcome measures and reliance on anecdotal reports. Even studies reporting positive outcomes often test different outcomes under different conditions, making it difficult to determine whether Brain Gym itself is responsible for observed changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aasep.org/article/view/308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aasep.org">[AASEP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aasep.org</span><span class="citation-popover-snippet">Brain Gym: Pseudoscientific Practiceby K Kroeze · 2016 · Cited by 16 — This paper will provide a brief review of Brain Gym which is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eric.ed.gov/?id=EJ881037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-title">ERICIs Brain Gym[R] an Effective Educational Intervention?</span><span class="citation-popover-snippet">by LS Spaulding · 2010 · Cited by 164 — While BGI&#x27;s claims are persuasive, to date there is little empirical evidence validating the...</span></span></span>
 
-A useful example comes from research comparing Brain Gym with ordinary physical activity. In one study involving children with developmental disabilities, Brain Gym was tested against an alternative intervention consisting of simple physical activity that did not follow Brain Gym principles. Neither approach consistently improved academic engagement, and the findings did not support claims that Brain Gym offered a distinctive advantage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eric.ed.gov/?id=EJ881037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-title">ERICIs Brain Gym[R] an Effective Educational Intervention?</span><span class="citation-popover-snippet">ERICby LS Spaulding · 2010 · Cited by 164 — While BGI&#x27;s claims are persuasive, to date there is little empirical evidence validating the...</span></span></span>
+A useful example comes from research comparing Brain Gym with ordinary physical activity. In one study involving children with developmental disabilities, Brain Gym was tested against an alternative intervention consisting of simple physical activity that did not follow Brain Gym principles. Neither approach consistently improved academic engagement, and the findings did not support claims that Brain Gym offered a distinctive advantage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eric.ed.gov/?id=EJ881037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-title">ERICIs Brain Gym[R] an Effective Educational Intervention?</span><span class="citation-popover-snippet">by LS Spaulding · 2010 · Cited by 164 — While BGI&#x27;s claims are persuasive, to date there is little empirical evidence validating the...</span></span></span>
 
 The criticism has extended beyond academic journals. In the United Kingdom, scientific organisations publicly challenged Brain Gym's educational claims, arguing that the programme relied on pseudoscientific explanations and unsupported accounts of how the brain functions. The debate became notable because Brain Gym had already achieved substantial uptake in schools despite concerns from neuroscientists and science educators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2008/apr/03/brain.gym" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianExperts dismiss educational claims of Brain Gym programme3 Apr 2008 — A programme of exercises being promoted to help child l...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8zfKtJF0aA4" title="The Science Behind Brain Breaks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8zfKtJF0aA4" target="_blank" rel="noopener noreferrer">The Science Behind Brain Breaks</a></p><p class="youtube-embed-meta">Channel: Edutopia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8zfKtJF0aA4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8zfKtJF0aA4">Open on YouTube</a></p></div></div></div>
 
 ## Why some positive findings do not settle the debate
 
@@ -306,10 +299,9 @@ Supporters of Brain Gym often point to studies reporting improvements in attenti
 
 These findings do not automatically validate the programme's central claims.
 
-A key question is whether the benefit comes from the unique Brain Gym framework or from more general factors. Many interventions involve additional adult attention, novelty, structured breaks from classroom work, increased physical activity or greater student engagement. If a pupil benefits after moving, it does not follow that the improvement occurred because a movement integrated brain hemispheres or activated a specialised neurological pathway. Demonstrating that claim would require strong evidence showing that Brain Gym exercises outperform simpler alternatives that provide comparable movement and attention. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://eric.ed.gov/?id=EJ881037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-title">ERICIs Brain Gym[R] an Effective Educational Intervention?</span><span class="citation-popover-snippet">ERICby LS Spaulding · 2010 · Cited by 164 — While BGI&#x27;s claims are persuasive, to date there is little empirical evidence validating the...</span></span></span>
+A key question is whether the benefit comes from the unique Brain Gym framework or from more general factors. Many interventions involve additional adult attention, novelty, structured breaks from classroom work, increased physical activity or greater student engagement. If a pupil benefits after moving, it does not follow that the improvement occurred because a movement integrated brain hemispheres or activated a specialised neurological pathway. Demonstrating that claim would require strong evidence showing that Brain Gym exercises outperform simpler alternatives that provide comparable movement and attention. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://eric.ed.gov/?id=EJ881037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-title">ERICIs Brain Gym[R] an Effective Educational Intervention?</span><span class="citation-popover-snippet">by LS Spaulding · 2010 · Cited by 164 — While BGI&#x27;s claims are persuasive, to date there is little empirical evidence validating the...</span></span></span>
 
 This distinction is important because educational interventions are judged not only by whether something changes, but by whether the proposed explanation is supported and whether the intervention offers benefits beyond less complicated alternatives.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_brain_gym_movement_c_9aabda-Illustration-2-dark.svg" | relative_url }}" alt="Brain Gym illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_brain_gym_movement_c_9aabda-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_brain_gym_movement_c_9aabda-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What ordinary movement breaks can still do
@@ -319,7 +311,6 @@ Rejecting Brain Gym's neurological explanations does not mean rejecting movement
 Children spend large portions of the school day sitting. Brief movement breaks can interrupt long periods of inactivity, help pupils reset attention and provide a change of pace between demanding tasks. Reviews of educational neuromyths often emphasise that movement and exercise can support learning-related conditions such as mood, alertness and engagement even when exaggerated brain-based explanations are removed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersReview on the Prevalence and Persistence of Neuromyths...by F Grospietsch · 2021 · Cited by 84 — Numerous empirical studies rev...</span></span></span>
 
 The practical classroom benefits are usually straightforward:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -335,9 +326,7 @@ None of these benefits requires a theory about hemispheric integration. They can
 
 This is a recurring pattern in neuromyths. A real phenomenon exists — in this case, movement can be helpful — but a much stronger claim is added without sufficient evidence. The practical success of the underlying activity can then make the unsupported explanation seem more credible than it really is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersReview on the Prevalence and Persistence of Neuromyths...by F Grospietsch · 2021 · Cited by 84 — Numerous empirical studies rev...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhgwIhB58PA" title="The Biggest Myth In Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer">The Biggest Myth In Education</a></p><p class="youtube-embed-meta">Channel: Veritasium</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhgwIhB58PA">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_brain_gym_movement_c_9aabda-Illustration-3-dark.svg" | relative_url }}" alt="Brain Gym illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_brain_gym_movement_c_9aabda-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_brain_gym_movement_c_9aabda-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How schools can keep activity without the pseudoscience
 
 Schools do not face a choice between Brain Gym and inactivity. A more evidence-informed approach is to separate movement from unsupported neurological claims.
@@ -348,14 +337,11 @@ When evaluating programmes marketed as “brain-based”, teachers and school le
 * Are the proposed neurological mechanisms accepted by mainstream neuroscience?
 * Would similar benefits be expected from ordinary physical activity?
 * Is the evidence based on independent research rather than promotional material?
-* Are improvements measured through objective outcomes rather than testimonials alone? Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://eric.ed.gov/?id=EJ881037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-title">ERICIs Brain Gym[R] an Effective Educational Intervention?</span><span class="citation-popover-snippet">ERICby LS Spaulding · 2010 · Cited by 164 — While BGI&#x27;s claims are persuasive, to date there is little empirical evidence validating the...</span></span></span>
+* Are improvements measured through objective outcomes rather than testimonials alone? Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://eric.ed.gov/?id=EJ881037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-title">ERICIs Brain Gym[R] an Effective Educational Intervention?</span><span class="citation-popover-snippet">by LS Spaulding · 2010 · Cited by 164 — While BGI&#x27;s claims are persuasive, to date there is little empirical evidence validating the...</span></span></span>
 
 In practice, many schools can achieve the benefits associated with movement by using simple activity breaks, classroom stretching, outdoor learning opportunities, active transitions or physical education without adopting claims about rewiring the brain. This allows educators to retain a potentially useful classroom tool while avoiding misleading scientific explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersReview on the Prevalence and Persistence of Neuromyths...by F Grospietsch · 2021 · Cited by 84 — Numerous empirical studies rev...</span></span></span>
 
-For teacher training, the lesson is broader than Brain Gym itself. Educators do not have to choose between neuroscience and scepticism. The more useful distinction is between evidence-supported applications of research and programmes that borrow scientific language to make stronger claims than the evidence can justify. Brain Gym remains a prominent example because it combines a sensible idea — children often benefit from moving — with a set of neurological explanations that researchers have repeatedly found difficult to support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://efsupit.ro/images/stories/july2024/Art%20190.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsupit.ro">[efsupit.ro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsupit.ro</span><span class="citation-popover-snippet">neuromyth by the scientific community due to a lack of evidence to support its claims (Gleichgerrcht...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/09362830903462508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineIs Brain Gym® an Effective Educational Intervention?by LS Spaulding · 2010 · Cited by 165 — Making extravagant cla...</span></span></span>
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_brain_gym_movement_c_9aabda-Illustration-3-dark.svg" | relative_url }}" alt="Brain Gym illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_brain_gym_movement_c_9aabda-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_brain_gym_movement_c_9aabda-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+For teacher training, the lesson is broader than Brain Gym itself. Educators do not have to choose between neuroscience and scepticism. The more useful distinction is between evidence-supported applications of research and programmes that borrow scientific language to make stronger claims than the evidence can justify. Brain Gym remains a prominent example because it combines a sensible idea — children often benefit from moving — with a set of neurological explanations that researchers have repeatedly found difficult to support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://efsupit.ro/images/stories/july2024/Art%20190.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsupit.ro">[efsupit.ro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsupit.ro</span><span class="citation-popover-snippet">neuromyth by the scientific community due to a lack of evidence to support its claims (Gleichgerrcht...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/09362830903462508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineIs Brain Gym® an Effective Educational Intervention?by LS Spaulding · 2010 · Cited by 165 — Making extravagant cla...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -753,149 +739,149 @@ For teacher training, the lesson is broader than Brain Gym itself. Educators do 
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: eric.ed.gov  
    Title: ERICIs Brain Gym[R] an Effective Educational Intervention?  
-   Link: [https://eric.ed.gov/?id=EJ881037](https://eric.ed.gov/?id=EJ881037)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICby LS Spaulding · 2010 · Cited by 164 — While BGI&#x27;s claims are persuasive, to date there is little empirical evidence validating the...</p></details>
+   Link: <a href="https://eric.ed.gov/?id=EJ881037" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ881037</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by LS Spaulding · 2010 · Cited by 164 — While BGI&#x27;s claims are persuasive, to date there is little empirical evidence validating the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aasep.org  
-   Link: [https://www.aasep.org/article/view/308](https://www.aasep.org/article/view/308)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AASEPBrain Gym: Pseudoscientific Practiceby K Kroeze · 2016 · Cited by 16 — This paper will provide a brief review of Brain Gym which is...</p></details>
+   Link: <a href="https://www.aasep.org/article/view/308" target="_blank" rel="noopener noreferrer nofollow">https://www.aasep.org/article/view/308</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brain Gym: Pseudoscientific Practiceby K Kroeze · 2016 · Cited by 16 — This paper will provide a brief review of Brain Gym which is...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: breakthroughsinternational.org  
-   Link: [https://breakthroughsinternational.org/wp-content/uploads/securepdfs/2022/11/bg_research.pdf](https://breakthroughsinternational.org/wp-content/uploads/securepdfs/2022/11/bg_research.pdf)  
+   Link: <a href="https://breakthroughsinternational.org/wp-content/uploads/securepdfs/2022/11/bg_research.pdf" target="_blank" rel="noopener noreferrer nofollow">https://breakthroughsinternational.org/wp-content/uploads/securepdfs/2022/11/bg_research.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e. ♢ The full publication is...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: soundsory.com  
-   Link: [https://soundsory.com/brain-gym/](https://soundsory.com/brain-gym/)  
+   Link: <a href="https://soundsory.com/brain-gym/" target="_blank" rel="noopener noreferrer nofollow">https://soundsory.com/brain-gym/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brain Gym® Program: 26 Exercises to Boost Focus &amp; MemoryThe program claims that specific physical movements and exercises can help indivi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Brain Gym International  
-   Link: [https://en.wikipedia.org/wiki/Brain_Gym_International](https://en.wikipedia.org/wiki/Brain_Gym_International)  
+   Link: <a href="https://en.wikipedia.org/wiki/Brain_Gym_International" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brain_Gym_International</a>  
 
 7. <a id="endnote-7"></a>
    Source: facultyshare.liberty.edu  
-   Link: [https://facultyshare.liberty.edu/en/publications/is-brain-gym-an-effective-educational-intervention/](https://facultyshare.liberty.edu/en/publications/is-brain-gym-an-effective-educational-intervention/)  
+   Link: <a href="https://facultyshare.liberty.edu/en/publications/is-brain-gym-an-effective-educational-intervention/" target="_blank" rel="noopener noreferrer nofollow">https://facultyshare.liberty.edu/en/publications/is-brain-gym-an-effective-educational-intervention/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LU Faculty SHAREIs Brain Gym an Effective Educational Intervention?Jan 1, 2010 — While BGI&#x27;s claims are persuasive, to date there is litt...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>37, Students have a predominant intelligence profile...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 440 — These findings suggest that training in educati...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: efsupit.ro  
-   Link: [https://efsupit.ro/images/stories/july2024/Art%20190.pdf](https://efsupit.ro/images/stories/july2024/Art%20190.pdf)  
+   Link: <a href="https://efsupit.ro/images/stories/july2024/Art%20190.pdf" target="_blank" rel="noopener noreferrer nofollow">https://efsupit.ro/images/stories/july2024/Art%20190.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>neuromyth by the scientific community due to a lack of evidence to support its claims (Gleichgerrcht...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Brain](https://en.wikipedia.org/wiki/Brain)  
+   Link: <a href="https://en.wikipedia.org/wiki/Brain" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brain</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BrainThe brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. It consist...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full)  
+   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersReview on the Prevalence and Persistence of Neuromyths...by F Grospietsch · 2021 · Cited by 84 — Numerous empirical studies rev...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/09362830903462508](https://www.tandfonline.com/doi/abs/10.1080/09362830903462508)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/09362830903462508" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/09362830903462508</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineIs Brain Gym® an Effective Educational Intervention?by LS Spaulding · 2010 · Cited by 165 — Making extravagant cla...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: hopkinsmedicine.org  
-   Link: [https://www.hopkinsmedicine.org/health/conditions-and-diseases/anatomy-of-the-brain](https://www.hopkinsmedicine.org/health/conditions-and-diseases/anatomy-of-the-brain)  
+   Link: <a href="https://www.hopkinsmedicine.org/health/conditions-and-diseases/anatomy-of-the-brain" target="_blank" rel="noopener noreferrer nofollow">https://www.hopkinsmedicine.org/health/conditions-and-diseases/anatomy-of-the-brain</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Johns Hopkins MedicineBrain Anatomy and How the Brain WorksThe brain is a complex organ that controls thought, memory, [emotion](&amp;#123;&amp;#123; &#x27;emotion/&#x27; | relative_url &amp;#125;&amp;#125;), touch, mo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2008/apr/03/brain.gym](https://www.theguardian.com/science/2008/apr/03/brain.gym)  
+   Link: <a href="https://www.theguardian.com/science/2008/apr/03/brain.gym" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2008/apr/03/brain.gym</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianExperts dismiss educational claims of Brain Gym programme3 Apr 2008 — A programme of exercises being promoted to help child l...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1045567/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1045567/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1045567/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1045567/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe intervention of Brain Gym in the mathematical abilities...by C Ramos-Galarza · 2023 · Cited by 14 — This article is reporti...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: rcsdevelopment.org  
-   Link: [https://www.rcsdevelopment.org/index.php/edutrend/article/download/649/329](https://www.rcsdevelopment.org/index.php/edutrend/article/download/649/329)  
+   Link: <a href="https://www.rcsdevelopment.org/index.php/edutrend/article/download/649/329" target="_blank" rel="noopener noreferrer nofollow">https://www.rcsdevelopment.org/index.php/edutrend/article/download/649/329</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Student Focus by Implementing Brain Gym...by A Prodyanatasari · 2025 · Cited by 2 — These findings indicate that Brain Gym is...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.773659/full](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.773659/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.773659/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.773659/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational kinesiology was developed by Paul...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/brain](https://academic.oup.com/brain)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Oxford AcademicBrain Communications is the open access sister journal to Brain, publishing high-quality preclinical and clinical studie...</p></details>
+   Link: <a href="https://academic.oup.com/brain" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/brain</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford AcademicBrain Communications is the open access sister journal to Brain, publishing high-quality preclinical and clinical studie...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/327146804_The_Effectiveness_of_Brain_Gym_and_Brain_Training_Intervention_on_Working_Memory_Performance_of_Student_with_Learning_Disability](https://www.researchgate.net/publication/327146804_The_Effectiveness_of_Brain_Gym_and_Brain_Training_Intervention_on_Working_Memory_Performance_of_Student_with_Learning_Disability)  
+   Link: <a href="https://www.researchgate.net/publication/327146804_The_Effectiveness_of_Brain_Gym_and_Brain_Training_Intervention_on_Working_Memory_Performance_of_Student_with_Learning_Disability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327146804_The_Effectiveness_of_Brain_Gym_and_Brain_Training_Intervention_on_Working_Memory_Performance_of_Student_with_Learning_Disability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Effectiveness of Brain Gym and Brain Training...2 Mar 2026 — This study aims to identify the effective approaches that could e...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: documentinghope.com  
-   Link: [https://documentinghope.com/education-kinesiology-brain-gym-and-autism-other-challenges/](https://documentinghope.com/education-kinesiology-brain-gym-and-autism-other-challenges/)  
+   Link: <a href="https://documentinghope.com/education-kinesiology-brain-gym-and-autism-other-challenges/" target="_blank" rel="noopener noreferrer nofollow">https://documentinghope.com/education-kinesiology-brain-gym-and-autism-other-challenges/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Education Kinesiology, Brain Gym and Autism and Other...Brain Gym stimulates the nervous system equally in all brain parts, minimizes on...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/287045402_The_effect_of_brain_GymR_on_academic_engagement_for_children_with_developmental_disabilities](https://www.researchgate.net/publication/287045402_The_effect_of_brain_GymR_on_academic_engagement_for_children_with_developmental_disabilities)  
+   Link: <a href="https://www.researchgate.net/publication/287045402_The_effect_of_brain_GymR_on_academic_engagement_for_children_with_developmental_disabilities" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/287045402_The_effect_of_brain_GymR_on_academic_engagement_for_children_with_developmental_disabilities</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of brain Gym® on academic engagement for...Based on these findings, it is questionable whether Brain Gym® can successfully be...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: parliament.uk  
-   Link: [https://www.parliament.uk/documents/upload/091125-evidence-check-government-responses-to-questions-from-the-iuss-committee.pdf](https://www.parliament.uk/documents/upload/091125-evidence-check-government-responses-to-questions-from-the-iuss-committee.pdf)  
+   Link: <a href="https://www.parliament.uk/documents/upload/091125-evidence-check-government-responses-to-questions-from-the-iuss-committee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/documents/upload/091125-evidence-check-government-responses-to-questions-from-the-iuss-committee.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons Science and Technology Select...Brain Gym has been criticised as being unscientific in a wide-ranging and authoritative...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/51916029/bRAIN-gYM](https://www.scribd.com/document/51916029/bRAIN-gYM)  
+   Link: <a href="https://www.scribd.com/document/51916029/bRAIN-gYM" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51916029/bRAIN-gYM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bRAIN gYM | PDF | Teachers | CurriculumDoes Brain Gym® International have research on the effects of the Brain Gym activities? Yes, we of...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: journal2.um.ac.id  
-   Link: [https://journal2.um.ac.id/index.php/icsar/article/view/2234](https://journal2.um.ac.id/index.php/icsar/article/view/2234)  
+   Link: <a href="https://journal2.um.ac.id/index.php/icsar/article/view/2234" target="_blank" rel="noopener noreferrer nofollow">https://journal2.um.ac.id/index.php/icsar/article/view/2234</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effectiveness of Brain Gym and Brain Training...This study aims to identify the effective approaches that could enhance the working memo...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: psychologicalscience.org  
-   Link: [https://www.psychologicalscience.org/uncategorized/myth-brain-training-will-make-you-smarter.html](https://www.psychologicalscience.org/uncategorized/myth-brain-training-will-make-you-smarter.html)  
+   Link: <a href="https://www.psychologicalscience.org/uncategorized/myth-brain-training-will-make-you-smarter.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/uncategorized/myth-brain-training-will-make-you-smarter.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Myth: Brain Training Will Make You Smarterby P Kowalski · Cited by 1 — The claims made by brain training sites are not supported by the data...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0742051X2600020X](https://www.sciencedirect.com/science/article/abs/pii/S0742051X2600020X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0742051X2600020X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0742051X2600020X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuromyths in education: Comparing perceptions between...by E Wauthia · 2026 — Pre-service teachers show adherence to neuromyths before...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
    Title: 42802004 Is Brain GymR an Effective Educational Intervention  
-   Link: [https://www.researchgate.net/publication/42802004_Is_Brain_GymR_an_Effective_Educational_Intervention](https://www.researchgate.net/publication/42802004_Is_Brain_GymR_an_Effective_Educational_Intervention)  
+   Link: <a href="https://www.researchgate.net/publication/42802004_Is_Brain_GymR_an_Effective_Educational_Intervention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/42802004_Is_Brain_GymR_an_Effective_Educational_Intervention</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Brain Gym® an Effective Educational Intervention?by LS Spaulding · 2010 · Cited by 163 — Brain Gym International (BGI) is a program pu...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: publisher.stipas.ac.id  
-   Link: [https://publisher.stipas.ac.id/index.php/pbs/article/download/16/16/221](https://publisher.stipas.ac.id/index.php/pbs/article/download/16/16/221)  
+   Link: <a href="https://publisher.stipas.ac.id/index.php/pbs/article/download/16/16/221" target="_blank" rel="noopener noreferrer nofollow">https://publisher.stipas.ac.id/index.php/pbs/article/download/16/16/221</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>that discuss the effectiveness of Brain Gym in improving students&#x27; learning abilities and...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_platform_behavior_ru_c5df69
 - Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_prebunking_manipulat_26878d
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - campaigns
 - media-coverage
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - campaigns
 - media-coverage
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Careful reporting can explain a rumour's origin, uncertainty and amplification pattern without making the false claim more memorable.
 hero_summary: Careful reporting can explain a rumour's origin, uncertainty and amplification pattern without making the false claim more memorable.
 layout: default
 permalink: /media-coverage/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /campaigns/
 nav_short_title: Media Coverage
 title: Reporting Rumours Without Spreading Them
-title_full: Reporting Rumours Without Spreading Them | Campaigns
+title_full: Reporting Rumours Without Spreading Them
 display_title_short: Media Coverage
 display_title: Media Coverage
 heading_title: Reporting Rumours Without Spreading Them
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Falsehoods Are Spread on Purpose | Mythcraft
+parent_title: When Falsehoods Are Spread on Purpose
 parent_permalink: /campaigns/
 parent_nav_short_title: Campaigns
 parent_heading_title: When Falsehoods Are Spread on Purpose
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Learning the Trick Before the Lie
 up_link:
   basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
@@ -265,7 +265,7 @@ next_link:
   permalink: /platform-rules/
   short_title: Platform Rules
   heading_title: Can Platforms Stop Manipulation, Not Debate?
-date: '2026-06-09 05:41:27 '
+date: '2026-06-11 22:40:05 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_reporting_viral_fals_915704-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_reporting_viral_fals_915704-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_re
 ## Introduction
 
 When a false claim becomes viral, journalists face a dilemma. Ignoring it may leave audiences exposed to a misleading narrative, but repeating it can help the claim reach people who would never have encountered it otherwise. Organised disinformation [campaigns]({{ 'campaigns/' | relative_url }}) often exploit this tension. Their goal is not always to persuade everyone that a falsehood is true; sometimes it is enough to make the claim unavoidable, ensuring that news coverage carries it further.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_reporting_viral_fals_915704-Illustration-1-dark.svg" | relative_url }}" alt="Media Coverage illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_reporting_viral_fals_915704-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_reporting_viral_fals_915704-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research and journalism guidance increasingly emphasise that reporting should focus on what is known, how the rumour emerged, and how it spread, rather than treating the false claim itself as the centre of the story. Responsible coverage can inform the public about a disinformation effort without serving as an additional distribution channel for it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO Documentation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-snippet">UNESCO DocumentationJournalism, fake news &amp; disinformation - UNESCO.orgJournalism, fake news &amp; disinformation: handbook for journalism ed...</span></span></span>
@@ -288,14 +287,13 @@ This creates a reporting challenge. A story framed around the popularity of a fa
 
 The key question is not “How many people shared this?” but “What does the audience need to understand?” In many cases, the most important story is the manipulation effort itself rather than the rumour's content.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GcfbPAgQOgQ" title="How Reporters Can Get Ahead of Misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GcfbPAgQOgQ" target="_blank" rel="noopener noreferrer">How Reporters Can Get Ahead of Misinformation</a></p><p class="youtube-embed-meta">Channel: USC Center for Health Journalism &middot; Views: 129 &middot; Uploaded: January 2026 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GcfbPAgQOgQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GcfbPAgQOgQ">Open on YouTube</a></p></div></div></div>
 
 ## Safer headline and context choices
 
 [Headlines]({{ 'headlines/' | relative_url }}) matter because many people read only the headline, social preview, or notification alert. If a misleading claim appears prominently in those formats, the [correction]({{ 'correction/' | relative_url }}) may never reach part of the audience.
 
-Journalism guidance therefore recommends leading with verified information rather than the false allegation. Instead of centring the claim, the headline can centre the established fact, the uncertainty, or the investigation. The goal is to ensure that readers encounter the accurate frame first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/standards/blogs/standards-articles/what-is-a-truth-sandwich/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">what is a truth sandwich</span><span class="citation-popover-snippet">PBSWhat is a &#x27;Truth Sandwich&#x27;?22 Apr 2020 — And then fact-check the misinformation and repeat the truth. “That&#x27;s the truth sandwich—reali...</span></span></span>
+Journalism guidance therefore recommends leading with verified information rather than the false allegation. Instead of centring the claim, the headline can centre the established fact, the uncertainty, or the investigation. The goal is to ensure that readers encounter the accurate frame first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/standards/blogs/standards-articles/what-is-a-truth-sandwich/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">what is a truth sandwich</span><span class="citation-popover-snippet">What is a &#x27;Truth Sandwich&#x27;?22 Apr 2020 — And then fact-check the misinformation and repeat the truth. “That&#x27;s the truth sandwich—reali...</span></span></span>
 
 For example, safer reporting practices often include:
 
@@ -305,12 +303,11 @@ For example, safer reporting practices often include:
 * Avoiding sensational language that mirrors the wording used by disinformation promoters.
 * Linking claims to their source and context rather than presenting them as independent observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commission.europa.eu/strategy-and-policy/coronavirus-response/fighting-disinformation/identifying-conspiracy-theories_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commission.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commission.europa.eu</span><span class="citation-popover-title">European Commission Identifying conspiracy theories</span><span class="citation-popover-snippet">Reliable sources of information are essential to counter the spread of conspiracy theories and disinformation...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO Documentation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-snippet">UNESCO DocumentationJournalism, fake news &amp; disinformation - UNESCO.orgJournalism, fake news &amp; disinformation: handbook for journalism ed...</span></span></span>
 
-Many journalists have adopted versions of the so-called “truth sandwich” approach: begin with the verified fact, briefly describe the false claim, then return to the verified evidence. The reasoning is that audiences are less likely to remember misinformation if factual information frames the discussion from the start and the finish. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/standards/blogs/standards-articles/what-is-a-truth-sandwich/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">what is a truth sandwich</span><span class="citation-popover-snippet">PBSWhat is a &#x27;Truth Sandwich&#x27;?22 Apr 2020 — And then fact-check the misinformation and repeat the truth. “That&#x27;s the truth sandwich—reali...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/it/podcast/the-truth-sandwich-george-lakoff/id1334328470?i=1000475369554" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Apple PodcastsThe Truth Sandwich: George LakoffThe Truth Sandwich formula of truth-lie-truth is key to combatting lies and fake news. Tru...</span></span></span>
+Many journalists have adopted versions of the so-called “truth sandwich” approach: begin with the verified fact, briefly describe the false claim, then return to the verified evidence. The reasoning is that audiences are less likely to remember misinformation if factual information frames the discussion from the start and the finish. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/standards/blogs/standards-articles/what-is-a-truth-sandwich/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">what is a truth sandwich</span><span class="citation-popover-snippet">What is a &#x27;Truth Sandwich&#x27;?22 Apr 2020 — And then fact-check the misinformation and repeat the truth. “That&#x27;s the truth sandwich—reali...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/it/podcast/the-truth-sandwich-george-lakoff/id1334328470?i=1000475369554" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Apple PodcastsThe Truth Sandwich: George LakoffThe Truth Sandwich formula of truth-lie-truth is key to combatting lies and fake news. Tru...</span></span></span>
 
-However, recent research suggests that the precise order of correction may matter less than some advocates originally claimed. Studies comparing different correction formats found little evidence that truth sandwiches consistently outperform other well-designed [corrections]({{ 'corrections/' | relative_url }}). What appears most important is that the misinformation is clearly corrected and placed within an accurate evidential context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe truth sandwich format does not enhance the correction of...by B Swire-Thompson · 2025 · Cited by 2 — In this case, placing the mi...</span></span></span>
+However, recent research suggests that the precise order of correction may matter less than some advocates originally claimed. Studies comparing different correction formats found little evidence that truth sandwiches consistently outperform other well-designed [corrections]({{ 'corrections/' | relative_url }}). What appears most important is that the misinformation is clearly corrected and placed within an accurate evidential context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The truth sandwich format does not enhance the correction of...by B Swire-Thompson · 2025 · Cited by 2 — In this case, placing the mi...</span></span></span>
 
 For journalists, the practical lesson is that format alone is not a solution. A careful headline, clear evidence, and accurate framing remain more important than any single template.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_reporting_viral_fals_915704-Illustration-2-dark.svg" | relative_url }}" alt="Media Coverage illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_reporting_viral_fals_915704-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_reporting_viral_fals_915704-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Explain the rumour, not just the claim
@@ -335,7 +332,6 @@ This approach treats disinformation as an observable phenomenon rather than a st
 
 A story that says, in effect, “Here is how this narrative spread through a coordinated network and why evidence does not support it” informs the public without turning the falsehood into the headline attraction.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mE-vtjW2Y0I" title="Future Hindsight: George Lakoff: The Truth Sandwich" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mE-vtjW2Y0I" target="_blank" rel="noopener noreferrer">Future Hindsight: George Lakoff: The Truth Sandwich</a></p><p class="youtube-embed-meta">Channel: Future Hindsight &middot; Views: 1.3K &middot; Uploaded: September 2020 &middot; Length: 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mE-vtjW2Y0I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mE-vtjW2Y0I">Open on YouTube</a></p></div></div></div>
 
 ## When network evidence belongs in the story
@@ -348,11 +344,10 @@ Not every rumour requires this level of analysis. But when a falsehood appears t
 
 The emphasis shifts from “Look at this shocking allegation” to “Look at how this allegation was promoted.” That change in focus can significantly reduce the risk of acting as an unwitting participant in a disinformation campaign.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_reporting_viral_fals_915704-Illustration-3-dark.svg" | relative_url }}" alt="Media Coverage illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_reporting_viral_fals_915704-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_reporting_viral_fals_915704-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The limits of debunking alone
 
-Fact-checking remains essential, but evidence suggests that correcting individual claims has limits. Fact-checks often work best on the specific falsehood they address, while broader media-literacy approaches can help people evaluate new misinformation more effectively in the future. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectDebunking “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 16 — Debunking “fake news” on social...</span></span></span>
+Fact-checking remains essential, but evidence suggests that correcting individual claims has limits. Fact-checks often work best on the specific falsehood they address, while broader media-literacy approaches can help people evaluate new misinformation more effectively in the future. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Debunking “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 16 — Debunking “fake news” on social...</span></span></span>
 
 For journalists, this means that responsible reporting should do more than label a claim true or false. It should also help audiences understand uncertainty, verification, sourcing, and amplification. Explaining these processes builds resilience against future rumours, including those that have not yet appeared.
 
@@ -362,9 +357,7 @@ This is particularly important in organised disinformation campaigns, where new 
 
 The central challenge is not whether journalists should report on viral falsehoods, but how they do so. Coverage is least likely to amplify a rumour when it leads with verified facts, clearly signals uncertainty, avoids sensational repetition, and investigates the mechanisms of amplification rather than merely describing online popularity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO Documentation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-snippet">UNESCO DocumentationJournalism, fake news &amp; disinformation - UNESCO.orgJournalism, fake news &amp; disinformation: handbook for journalism ed...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalism.stanford.edu/news/stanford-playbook-outlines-how-journalists-can-avoid-spreading-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalism.stanford.edu">[journalism]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalism.stanford.edu</span><span class="citation-popover-title">playbook outlines how journalists can avoid spreading disinformation</span><span class="citation-popover-snippet">Journalism ProgramStanford playbook outlines how journalists can avoid...4 Aug 2022 — Their playbook was designed to help journalists na...</span></span></span> Organised disinformation campaigns depend on attention. Responsible journalism can expose those campaigns while denying them one of their most valuable resources: additional reach. By making the reporting process itself part of the story, journalists can help the public understand both the falsehood and the machinery that tried to make it spread. Journalism Program <span class="citation-chip-wrap"><a class="citation-chip" href="https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/full_report_download_-_how_to_report_responsibly_on_hacks_and_disinformation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fsi9-prod.s3.us-west-1.amazonaws.com">[2fsi9-prod.s3.us-west-1.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fsi9-prod.s3.us-west-1.amazonaws.com</span><span class="citation-popover-snippet">How to Report Responsibly on Hacks and DisinformationAdopt a playbook—we present one below—of core principles and standards for reporting...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/emzSie9CJco" title="Tom Trewinnard - Correcting the record, the truth sandwich" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=emzSie9CJco" target="_blank" rel="noopener noreferrer">Tom Trewinnard - Correcting the record, the truth sandwich</a></p><p class="youtube-embed-meta">Channel: purnatt &middot; Views: 79 &middot; Uploaded: November 2020 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=emzSie9CJco" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=emzSie9CJco">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -762,163 +755,163 @@ The central challenge is not whether journalists should report on viral falsehoo
 
 1. <a id="endnote-1"></a>
    Source: unesdoc.unesco.org  
-   Link: [https://unesdoc.unesco.org/ark%3A/48223/pf0000265552](https://unesdoc.unesco.org/ark%3A/48223/pf0000265552)  
+   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000265552</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO DocumentationJournalism, fake news &amp; disinformation - UNESCO.orgJournalism, fake news &amp; disinformation: handbook for journalism ed...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: fsi9-prod.s3.us-west-1.amazonaws.com  
-   Link: [https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/full_report_download_-_how_to_report_responsibly_on_hacks_and_disinformation.pdf](https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/full_report_download_-_how_to_report_responsibly_on_hacks_and_disinformation.pdf)  
+   Link: <a href="https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/full_report_download_-_how_to_report_responsibly_on_hacks_and_disinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/full_report_download_-_how_to_report_responsibly_on_hacks_and_disinformation.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Report Responsibly on Hacks and DisinformationAdopt a playbook—we present one below—of core principles and standards for reporting...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pen.org  
-   Link: [https://pen.org/combat-election-misinformation-with-your-reporting/](https://pen.org/combat-election-misinformation-with-your-reporting/)  
+   Link: <a href="https://pen.org/combat-election-misinformation-with-your-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://pen.org/combat-election-misinformation-with-your-reporting/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PEN AmericaThe &#x27;Truth Sandwich&#x27; and 11 Other Ways to Combat...5 Sept 2024 — Disinformation isn&#x27;t always worth covering, the experts said...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pbs.org  
    Title: what is a truth sandwich  
-   Link: [https://www.pbs.org/standards/blogs/standards-articles/what-is-a-truth-sandwich/](https://www.pbs.org/standards/blogs/standards-articles/what-is-a-truth-sandwich/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PBSWhat is a &#x27;Truth Sandwich&#x27;?22 Apr 2020 — And then fact-check the misinformation and repeat the truth. “That&#x27;s the truth sandwich—reali...</p></details>
+   Link: <a href="https://www.pbs.org/standards/blogs/standards-articles/what-is-a-truth-sandwich/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/standards/blogs/standards-articles/what-is-a-truth-sandwich/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a &#x27;Truth Sandwich&#x27;?22 Apr 2020 — And then fact-check the misinformation and repeat the truth. “That&#x27;s the truth sandwich—reali...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/it/podcast/the-truth-sandwich-george-lakoff/id1334328470?i=1000475369554](https://podcasts.apple.com/it/podcast/the-truth-sandwich-george-lakoff/id1334328470?i=1000475369554)  
+   Link: <a href="https://podcasts.apple.com/it/podcast/the-truth-sandwich-george-lakoff/id1334328470?i=1000475369554" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/it/podcast/the-truth-sandwich-george-lakoff/id1334328470?i=1000475369554</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsThe Truth Sandwich: George LakoffThe Truth Sandwich formula of truth-lie-truth is key to combatting lies and fake news. Tru...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe truth sandwich format does not enhance the correction of...by B Swire-Thompson · 2025 · Cited by 2 — In this case, placing the mi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth sandwich format does not enhance the correction of...by B Swire-Thompson · 2025 · Cited by 2 — In this case, placing the mi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S004727272500043X](https://www.sciencedirect.com/science/article/pii/S004727272500043X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectDebunking “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 16 — Debunking “fake news” on social...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 16 — Debunking “fake news” on social...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil](https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil)  
+   Link: <a href="https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Canva. Action Plan on Combatting Disinformation and Misinformation through Media and Information Literacy (MIL). Advocating for informati...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt](https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt)  
+   Link: <a href="https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Bridges the Gap Between Journalists and26 Jan 2026 — UNESCO convenes journalists, fact-checkers, &amp; influencers to confront disinfo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/media-crisis/terrorism-media](https://www.unesco.org/en/media-crisis/terrorism-media)  
+   Link: <a href="https://www.unesco.org/en/media-crisis/terrorism-media" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/media-crisis/terrorism-media</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrorism and the MediaAccurate reporting on terrorism and violent extremism can disarm narratives that may arouse hate and create misinf...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/journalism-fake-news-disinformation](https://www.unesco.org/en/articles/journalism-fake-news-disinformation)  
+   Link: <a href="https://www.unesco.org/en/articles/journalism-fake-news-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/journalism-fake-news-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journalism, Fake News &amp; DisinformationJournalism, Fake News &amp; Disinformation. Handbook for Journalism Education and Training. 12 June 201...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: unesdoc.unesco.org  
-   Link: [https://unesdoc.unesco.org/ark%3A/48223/pf0000380037.locale%3Den](https://unesdoc.unesco.org/ark%3A/48223/pf0000380037.locale%3Den)  
+   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000380037.locale%3Den" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000380037.locale%3Den</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>b. Avoid gendered disinformation to ensure respect for all genders Journalists should not engage in the dissemination of any information...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/journalism-fake-news-and-disinformation-handbook-journalism-education-and-training](https://www.unesco.org/en/articles/journalism-fake-news-and-disinformation-handbook-journalism-education-and-training)  
+   Link: <a href="https://www.unesco.org/en/articles/journalism-fake-news-and-disinformation-handbook-journalism-education-and-training" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/journalism-fake-news-and-disinformation-handbook-journalism-education-and-training</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journalism, &#x27;Fake News&#x27; and Disinformation: A Handbook...Amman, 3 May 2020 - On World Press Freedom Day, UNESCO is fighting back against...</p></details>
    Published: May 2020  
 
 14. <a id="endnote-14"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/mil4teachers/en/toolkit-media/indicator-6/content-ideas/case-studies/case-study-1](https://www.unesco.org/mil4teachers/en/toolkit-media/indicator-6/content-ideas/case-studies/case-study-1)  
+   Link: <a href="https://www.unesco.org/mil4teachers/en/toolkit-media/indicator-6/content-ideas/case-studies/case-study-1" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/toolkit-media/indicator-6/content-ideas/case-studies/case-study-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>information online and if we want to curb the spread of dis- and misinformation, we...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: unesdoc.unesco.org  
-   Link: [https://unesdoc.unesco.org/ark%3A/48223/pf0000390291](https://unesdoc.unesco.org/ark%3A/48223/pf0000390291)  
+   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000390291" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000390291</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>guide to counter fake newsA user manual and serves as a guide to educate print, audio and online journalists on how to fight misinformati...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: journalism.stanford.edu  
    Title: playbook outlines how journalists can avoid spreading disinformation  
-   Link: [https://journalism.stanford.edu/news/stanford-playbook-outlines-how-journalists-can-avoid-spreading-disinformation](https://journalism.stanford.edu/news/stanford-playbook-outlines-how-journalists-can-avoid-spreading-disinformation)  
+   Link: <a href="https://journalism.stanford.edu/news/stanford-playbook-outlines-how-journalists-can-avoid-spreading-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://journalism.stanford.edu/news/stanford-playbook-outlines-how-journalists-can-avoid-spreading-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journalism ProgramStanford playbook outlines how journalists can avoid...4 Aug 2022 — Their playbook was designed to help journalists na...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: commission.europa.eu  
    Title: European Commission Identifying conspiracy theories  
-   Link: [https://commission.europa.eu/strategy-and-policy/coronavirus-response/fighting-disinformation/identifying-conspiracy-theories_en](https://commission.europa.eu/strategy-and-policy/coronavirus-response/fighting-disinformation/identifying-conspiracy-theories_en)  
+   Link: <a href="https://commission.europa.eu/strategy-and-policy/coronavirus-response/fighting-disinformation/identifying-conspiracy-theories_en" target="_blank" rel="noopener noreferrer nofollow">https://commission.europa.eu/strategy-and-policy/coronavirus-response/fighting-disinformation/identifying-conspiracy-theories_en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reliable sources of information are essential to counter the spread of conspiracy theories and disinformation...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Truth sandwich  
-   Link: [https://en.wikipedia.org/wiki/Truth_sandwich](https://en.wikipedia.org/wiki/Truth_sandwich)  
+   Link: <a href="https://en.wikipedia.org/wiki/Truth_sandwich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Truth_sandwich</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Truth sandwich... misinformation or disinformation, repetition of the claims can amplify them and increase their harm. Sometimes lies...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: publicmediaalliance.org  
-   Link: [https://www.publicmediaalliance.org/publications/journalism-fake-news-and-disinformation-a-handbook-for-journalism-education-and-training/](https://www.publicmediaalliance.org/publications/journalism-fake-news-and-disinformation-a-handbook-for-journalism-education-and-training/)  
+   Link: <a href="https://www.publicmediaalliance.org/publications/journalism-fake-news-and-disinformation-a-handbook-for-journalism-education-and-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.publicmediaalliance.org/publications/journalism-fake-news-and-disinformation-a-handbook-for-journalism-education-and-training/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journalism, &#x27;Fake News&#x27; and Disinformation: A Handbook...Journalism, &#x27;Fake News&#x27; and Disinformation: A Handbook for Journalism Education...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: journalism.co.uk  
-   Link: [https://www.journalism.co.uk/truth-sandwich-how-to-report-falsehoods-from-official-sources-journalism-misinformation/](https://www.journalism.co.uk/truth-sandwich-how-to-report-falsehoods-from-official-sources-journalism-misinformation/)  
+   Link: <a href="https://www.journalism.co.uk/truth-sandwich-how-to-report-falsehoods-from-official-sources-journalism-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.journalism.co.uk/truth-sandwich-how-to-report-falsehoods-from-official-sources-journalism-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth sandwich: how to cover falsehoods from official...2 Feb 2022 — The point is, there is no easy or foolproof way to report on fa...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: ohchr.org  
-   Link: [https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx](https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx)  
+   Link: <a href="https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unescoRecognise that if health disinformation and misinformation can be quickly dealt with in a pandemic on the basis that it poses a ser...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: europeanjournalists.org  
-   Link: [https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/](https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/)  
+   Link: <a href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO report highlights urgent need for [media literacy](&amp;#123;&amp;#123; &#x27;media-literacy/&#x27; | relative_url &amp;#125;&amp;#125;)...Dec 6, 2024 — This lack of rigour “can be particularly problematic in times of...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/394196375_The_Truth_Sandwich_Format_Does_Not_Enhance_the_Correction_of_Misinformation](https://www.researchgate.net/publication/394196375_The_Truth_Sandwich_Format_Does_Not_Enhance_the_Correction_of_Misinformation)  
+   Link: <a href="https://www.researchgate.net/publication/394196375_The_Truth_Sandwich_Format_Does_Not_Enhance_the_Correction_of_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394196375_The_Truth_Sandwich_Format_Does_Not_Enhance_the_Correction_of_Misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Truth Sandwich Format Does Not Enhance...25 Jan 2026 — The misinformation was then corrected using the truth sandwich, correct...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: coe.int  
    Title: council of europe calls on states to support quality journalism new guidelines  
-   Link: [https://www.coe.int/en/web/freedom-expression/media-literacy/-/asset_publisher/fFKaKTHt3yHb/content/council-of-europe-calls-on-states-to-support-quality-journalism-new-guidelines](https://www.coe.int/en/web/freedom-expression/media-literacy/-/asset_publisher/fFKaKTHt3yHb/content/council-of-europe-calls-on-states-to-support-quality-journalism-new-guidelines)  
+   Link: <a href="https://www.coe.int/en/web/freedom-expression/media-literacy/-/asset_publisher/fFKaKTHt3yHb/content/council-of-europe-calls-on-states-to-support-quality-journalism-new-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.coe.int/en/web/freedom-expression/media-literacy/-/asset_publisher/fFKaKTHt3yHb/content/council-of-europe-calls-on-states-to-support-quality-journalism-new-guidelines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Council of Europe calls on states to support quality journalism17 Mar 2022 — One of the responses to the phenomenon of information disord...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: icfj.org  
    Title: short guide history fake news and disinformation new icfj learning module  
-   Link: [https://www.icfj.org/news/short-guide-history-fake-news-and-disinformation-new-icfj-learning-module](https://www.icfj.org/news/short-guide-history-fake-news-and-disinformation-new-icfj-learning-module)  
+   Link: <a href="https://www.icfj.org/news/short-guide-history-fake-news-and-disinformation-new-icfj-learning-module" target="_blank" rel="noopener noreferrer nofollow">https://www.icfj.org/news/short-guide-history-fake-news-and-disinformation-new-icfj-learning-module</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide to the History of &#x27;Fake News&#x27; and Disinformation23 Jul 2018 —... falsehoods peddled by anti-democratic governments, populist...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: firstdraftnews.org  
    Title: a guide to prebunking a promising way to inoculate against misinformation  
-   Link: [https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/](https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/)  
+   Link: <a href="https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A guide to prebunking: a promising way to inoculate against...29 Jun 2021 — Countering Misinformation and Fake News Through Inoculation...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: theguardian.com  
    Title: online influencers need urgent fact checking training warns unesco  
-   Link: [https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco](https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco)  
+   Link: <a href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Online influencers need &#x27;urgent&#x27; fact-checking training...26 Nov 2024 — “The low prevalence of factchecking highlights their vulnerabili...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: projects.uni-foundation.eu  
    Title: unesco handbook for journalism education and training  
-   Link: [https://projects.uni-foundation.eu/erum/unesco-handbook-for-journalism-education-and-training/](https://projects.uni-foundation.eu/erum/unesco-handbook-for-journalism-education-and-training/)  
+   Link: <a href="https://projects.uni-foundation.eu/erum/unesco-handbook-for-journalism-education-and-training/" target="_blank" rel="noopener noreferrer nofollow">https://projects.uni-foundation.eu/erum/unesco-handbook-for-journalism-education-and-training/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook for Journalism Education and Training26 Oct 2020 — In this context, the UNESCO published in 2018 a comprehensive handbook entitl...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: mediadefence.org  
    Title: module 5 false news misinformation propaganda 2024  
-   Link: [https://www.mediadefence.org/ereader/wp-content/uploads/sites/2/2024/06/module-5-false-news-misinformation-propaganda-2024.pdf](https://www.mediadefence.org/ereader/wp-content/uploads/sites/2/2024/06/module-5-false-news-misinformation-propaganda-2024.pdf)  
+   Link: <a href="https://www.mediadefence.org/ereader/wp-content/uploads/sites/2/2024/06/module-5-false-news-misinformation-propaganda-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mediadefence.org/ereader/wp-content/uploads/sites/2/2024/06/module-5-false-news-misinformation-propaganda-2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Module 5: &#x27;False News&#x27;, Misinformation &amp; Propaganda1 UNESCO, &#x27;Journalism, “Fake News” and Disinformation: Handbook for Journalism Educati...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: commonslibrary.org  
-   Link: [https://commonslibrary.org/from-elephants-to-sandwiches-countering-false-information/](https://commonslibrary.org/from-elephants-to-sandwiches-countering-false-information/)  
+   Link: <a href="https://commonslibrary.org/from-elephants-to-sandwiches-countering-false-information/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.org/from-elephants-to-sandwiches-countering-false-information/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Commons LibraryFrom Elephants to Sandwiches: Countering False Information11 Dec 2024 — The second layer of the truth sandwich involves ad...</p></details>

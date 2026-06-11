@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce
 - Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_when_to_name_myth_5af42b
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - debunking
 - the-trick
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - debunking
 - the-trick
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A strong correction shows the trick behind a claim, such as cherry-picking, false context, edited media, or source confusion.
 hero_summary: A strong correction shows the trick behind a claim, such as cherry-picking, false context, edited media, or source confusion.
 layout: default
 permalink: /the-trick/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /debunking/
 nav_short_title: The trick
 title: Show the trick that made the myth plausible
-title_full: Show the trick that made the myth plausible | Debunking
+title_full: Show the trick that made the myth plausible
 display_title_short: The trick
 display_title: The trick
 heading_title: Show the trick that made the myth plausible
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: The Three Parts of a Better Debunk | Mythcraft
+parent_title: The Three Parts of a Better Debunk
 parent_permalink: /debunking/
 parent_nav_short_title: Debunking
 parent_heading_title: The Three Parts of a Better Debunk
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why a better story beats a bare denial
 up_link:
   basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
@@ -259,7 +259,7 @@ prev_link:
   permalink: /replacement-beb36b/
   short_title: Replacement
   heading_title: Why a better story beats a bare denial
-date: '2026-06-09 05:14:05 '
+date: '2026-06-11 22:25:59 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_mi
 ## Introduction
 
 A strong debunk does more than replace a false claim with a correct fact. It also shows the reader why the claim looked convincing in the first place. Many myths survive because they use a recognisable persuasive trick: a chart that hides part of the data, a genuine photo paired with the wrong caption, a quote stripped of context, or a single expert presented as if they outweigh an entire field. When a [correction]({{ 'correction/' | relative_url }}) exposes that mechanism, readers gain something more durable than a fact-check. They learn how the deception worked.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-1-dark.svg" | relative_url }}" alt="The trick illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on misinformation correction increasingly emphasises that explaining misleading techniques can make people more resistant to similar claims in the future. Rather than treating every rumour as a unique problem, effective debunks reveal recurring patterns such as cherry-picking, false context, conspiracy framing, and fake expertise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Fake news: False information, often of a sensational nature, that mimics news media...Read more...</span></span></span>
@@ -411,7 +410,6 @@ Deliberate multi-step deception → walk through the process step by step.
 
 The explanation should be long enough to make the correction feel complete, but not so detailed that the reader loses track of the main fact.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-2-dark.svg" | relative_url }}" alt="The trick illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples from charts
 
@@ -427,15 +425,13 @@ A chart that starts the vertical axis at 90 instead of zero can make a small dif
 
 The correction should explain that the visual effect comes from the scale, not from a large change in the underlying numbers.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Uq-FOOQ1TpE" title="Forget what you know | Jacob Barnett | TEDxTeen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Uq-FOOQ1TpE" target="_blank" rel="noopener noreferrer">Forget what you know | Jacob Barnett | TEDxTeen</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 10.3M &middot; Uploaded: April 2012 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Uq-FOOQ1TpE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Uq-FOOQ1TpE">Open on YouTube</a></p></div></div></div>
-
 ## Selective time ranges
 
 A graph might begin during an unusually high or low year.
 
 The correction should explain why that starting point was chosen and what happens when the full dataset is displayed.
 
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-3-dark.svg" | relative_url }}" alt="The trick illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Comparing incompatible measures
 
 Two lines may appear comparable even though they represent different units, populations, or time periods.
@@ -444,8 +440,6 @@ The debunk should identify the mismatch explicitly.
 
 When readers understand the design choice that produced the misleading impression, they become less likely to be persuaded by similar charts in the future.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-3-dark.svg" | relative_url }}" alt="The trick illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples from images and video
 
 Visual misinformation often succeeds because people assume seeing is believing.
@@ -464,7 +458,7 @@ The original location.
 
 The original subject.
 
-Research on visual misinformation increasingly highlights out-of-context imagery as one of the most common forms of deceptive content online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2112.00061" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivOpen-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online ResourcesNovember 30, 2021...</span><span class="citation-popover-meta">Published: November 30, 2021</span></span></span>
+Research on visual misinformation increasingly highlights out-of-context imagery as one of the most common forms of deceptive content online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2112.00061" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online ResourcesNovember 30, 2021...</span><span class="citation-popover-meta">Published: November 30, 2021</span></span></span>
 
 ## Cropping
 
@@ -472,8 +466,7 @@ A photograph may exclude relevant people, objects, or surroundings.
 
 The correction should compare the cropped image with the wider scene and explain what information disappeared.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JB3oxye8Kd8" title="Debunking the 4 most dangerous self help myths" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JB3oxye8Kd8" target="_blank" rel="noopener noreferrer">Debunking the 4 most dangerous self help myths</a></p><p class="youtube-embed-meta">Channel: Bite Size Psych</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JB3oxye8Kd8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JB3oxye8Kd8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Uq-FOOQ1TpE" title="Forget what you know | Jacob Barnett | TEDxTeen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Uq-FOOQ1TpE" target="_blank" rel="noopener noreferrer">Forget what you know | Jacob Barnett | TEDxTeen</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 10.3M &middot; Uploaded: April 2012 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Uq-FOOQ1TpE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Uq-FOOQ1TpE">Open on YouTube</a></p></div></div></div>
 
 ## Edited video
 
@@ -912,104 +905,104 @@ SDM Lab <span class="citation-chip-wrap"><a class="citation-chip" href="https://
 
 1. <a id="endnote-1"></a>
    Source: rcmediafreedom.eu  
-   Link: [https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder](https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder)  
+   Link: <a href="https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder" target="_blank" rel="noopener noreferrer nofollow">https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Media Freedom Resource Centre OBCTUnderstanding Information DisorderAn essential guide by Claire Draft, First Draft US director and co-fo...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2112.00061](https://arxiv.org/abs/2112.00061)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivOpen-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online ResourcesNovember 30, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2112.00061" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2112.00061</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online ResourcesNovember 30, 2021...</p></details>
    Published: November 30, 2021  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2408.09939](https://arxiv.org/abs/2408.09939)  
+   Link: <a href="https://arxiv.org/abs/2408.09939" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.09939</a>  
 
 4. <a id="endnote-4"></a>
    Source: climatechangecommunication.org  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;): False information, often of a sensational nature, that mimics news media...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ltrr.arizona.edu  
    Title: Laboratory of Tree-Ring Research The Debunking Handbookby S Lewandowsky — 20  
-   Link: [https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf](https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf)  
+   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Handbookby S Lewandowsky — 20. The techniques include cherry picking, conspiracy theories and fake experts. Another alternative...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: skepticalscience.com  
    Title: Debunking Handbook Part 5 Filling gap with alternative explanation  
-   Link: [https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html](https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html)  
+   Link: <a href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation. The Handbook will be available as a free... The techniques include cherry picking, conspiracy theories and fake experts...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aft.org  
-   Link: [https://www.aft.org/ae/winter2021-2022/cook](https://www.aft.org/ae/winter2021-2022/cook)  
+   Link: <a href="https://www.aft.org/ae/winter2021-2022/cook" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/winter2021-2022/cook</a>  
 
 8. <a id="endnote-8"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/sciadv.abo6254](https://www.science.org/doi/10.1126/sciadv.abo6254)  
+   Link: <a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inoculation c...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/d41586-023-00899-0](https://www.nature.com/articles/d41586-023-00899-0)  
+   Link: <a href="https://www.nature.com/articles/d41586-023-00899-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-00899-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to battle misinformation with Sander van der Linden14 Apr 2023 — Psychologist Sander van der Linden talks to Nature about the science...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: inoculation.science  
-   Link: [https://inoculation.science/the-debunking-handbook/](https://inoculation.science/the-debunking-handbook/)  
+   Link: <a href="https://inoculation.science/the-debunking-handbook/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/the-debunking-handbook/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking HandbookMisinformation is false information that is spread either by mistake or with [intent](&amp;#123;&amp;#123; &#x27;intent/&#x27; | relative_url &amp;#125;&amp;#125;) to mislead. When there is inten...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reteclima.it  
-   Link: [https://www.reteclima.it/wp-content/uploads/Cook_2019_climate_misinformation-1.pdf](https://www.reteclima.it/wp-content/uploads/Cook_2019_climate_misinformation-1.pdf)  
+   Link: <a href="https://www.reteclima.it/wp-content/uploads/Cook_2019_climate_misinformation-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reteclima.it/wp-content/uploads/Cook_2019_climate_misinformation-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In Chiluwa, I. &amp; Samoilenko, S. (Eds.). Handbook of Research on Deception, Fake News, and...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: geoethics.org  
    Title: resources to give facts a fighting chance against misinformation  
-   Link: [https://www.geoethics.org/post/resources-to-give-facts-a-fighting-chance-against-misinformation](https://www.geoethics.org/post/resources-to-give-facts-a-fighting-chance-against-misinformation)  
+   Link: <a href="https://www.geoethics.org/post/resources-to-give-facts-a-fighting-chance-against-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.geoethics.org/post/resources-to-give-facts-a-fighting-chance-against-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>expert advice about debunking misinformation. It contains... The five general tactics were conspiracy, selectivity (cherry-picking), fak...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thegreatsimplification.com  
-   Link: [https://www.thegreatsimplification.com/episode/212-john-cook](https://www.thegreatsimplification.com/episode/212-john-cook)  
+   Link: <a href="https://www.thegreatsimplification.com/episode/212-john-cook" target="_blank" rel="noopener noreferrer nofollow">https://www.thegreatsimplification.com/episode/212-john-cook</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake Experts · Logical Fallacies · Impossible Expectations · Cherry-Picking · Conspiracy Theories...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: research-information.bris.ac.uk  
    Title: University of Bristol Lewandowsky, S., & Van Der Linden, S  
-   Link: [https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf](https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2021). Counteringby S Lewandowsky · 2021 · Cited by 1108 — We review a number of techniques that can boost people&#x27;s resilience to misinf...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: education.umd.edu  
    Title: 10 14 20 debunking handbook 2020 countering misinformation  
-   Link: [https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation](https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation)  
+   Link: <a href="https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook 2020: Countering MisinformationOct 14, 2020 — The Debunking Handbook 2020 aims to do just that by summarizing the current state...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: crankyuncle.com  
    Title: a history of flicc the 5 techniques of science denial  
-   Link: [https://crankyuncle.com/a-history-of-flicc-the-5-techniques-of-science-denial/](https://crankyuncle.com/a-history-of-flicc-the-5-techniques-of-science-denial/)  
+   Link: <a href="https://crankyuncle.com/a-history-of-flicc-the-5-techniques-of-science-denial/" target="_blank" rel="noopener noreferrer nofollow">https://crankyuncle.com/a-history-of-flicc-the-5-techniques-of-science-denial/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cranky UncleA history of FLICC: the 5 techniques of science denialMar 24, 2020 — The five general tactics were conspiracy, selectivity (c...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: commonslibrary.org  
    Title: disinformation and 7 common forms of information disorder  
-   Link: [https://commonslibrary.org/disinformation-and-7-common-forms-of-information-disorder/](https://commonslibrary.org/disinformation-and-7-common-forms-of-information-disorder/)  
+   Link: <a href="https://commonslibrary.org/disinformation-and-7-common-forms-of-information-disorder/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.org/disinformation-and-7-common-forms-of-information-disorder/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Jul 2024 — Disinformation is false or misleading piece of information spread with the intention to deceive or cause harm.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AmericanPsychologicalAssociation/posts/some-of-the-same-tricks-keep-showing-up-in-misinformation-no-matter-the-topic-dr/1230824229079246/](https://www.facebook.com/AmericanPsychologicalAssociation/posts/some-of-the-same-tricks-keep-showing-up-in-misinformation-no-matter-the-topic-dr/1230824229079246/)  
+   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/some-of-the-same-tricks-keep-showing-up-in-misinformation-no-matter-the-topic-dr/1230824229079246/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/some-of-the-same-tricks-keep-showing-up-in-misinformation-no-matter-the-topic-dr/1230824229079246/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>defined as information that&#x27;s either false or misleading, and...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: firstdraftnews.org  
    Title: First Draft Understanding Information disorder  
-   Link: [https://firstdraftnews.org/long-form-article/understanding-information-disorder/](https://firstdraftnews.org/long-form-article/understanding-information-disorder/)  
+   Link: <a href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/long-form-article/understanding-information-disorder/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First DraftUnderstanding Information disorder - First Draft NewsThe challenge in this age of information disorder is that satire is used...</p></details>

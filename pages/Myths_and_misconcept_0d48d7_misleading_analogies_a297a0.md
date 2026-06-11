@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - analogies
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - analogies
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Analogies can make difficult ideas easier, but they can also leave learners with the wrong model.
 hero_summary: Analogies can make difficult ideas easier, but they can also leave learners with the wrong model.
 layout: default
 permalink: /analogies/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Analogies
 title: When Helpful Analogies Teach the Wrong Lesson
-title_full: When Helpful Analogies Teach the Wrong Lesson | Mythcraft
+title_full: When Helpful Analogies Teach the Wrong Lesson
 display_title_short: Analogies
 display_title: Analogies
 heading_title: When Helpful Analogies Teach the Wrong Lesson
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -464,7 +464,7 @@ child_links:
   title: Historical Metaphors | Analogies
   permalink: /historical-metaphors/
   short_title: Historical Metaphors
-  heading_title: How 19th Century Analogies Skewed Scientific Thinking
+  heading_title: How 19 th Century Analogies Skewed Scientific Thinking
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_plumbing_blood_analo_e410b9
   title: Plumbing Analogy | Analogies
   permalink: /plumbing-analogy/
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 next_link:
   basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
-date: '2026-06-09 04:14:40 '
+date: '2026-06-11 21:56:42 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0-overview.webp
@@ -501,16 +501,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0-ov
 
 ## Introduction
 
-Analogies are ubiquitous in communication and education because they map what is unfamiliar onto something familiar, making complex ideas feel accessible. However, this very strength can become a weakness: **misleading analogies can create misconceptions by implying inappropriate or incomplete similarities** between the comparison and the target concept, embedding distorted mental models that persist even [after correction]({{ 'after-correction/' | relative_url }}). In the context of *[Myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }})*, understanding how analogies mislead is crucial because they don’t just decorate thinking — they actively shape it. Readers will learn why analogies seduce our cognition, where they break down, and how to signal their limits to avoid reinforcing false beliefs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Analogies in science and science teaching</span><span class="citation-popover-snippet">PubMedAnalogies in science and science teaching - PubMed...</span></span></span>
-
+Analogies are ubiquitous in communication and education because they map what is unfamiliar onto something familiar, making complex ideas feel accessible. However, this very strength can become a weakness: **misleading analogies can create misconceptions by implying inappropriate or incomplete similarities** between the comparison and the target concept, embedding distorted [mental models]({{ 'mental-models/' | relative_url }}) that persist even [after correction]({{ 'after-correction/' | relative_url }}). In the context of *Myths and misconceptions*, understanding how analogies mislead is crucial because they don’t just decorate thinking — they actively shape it. Readers will learn why analogies seduce our cognition, where they break down, and how to signal their limits to avoid reinforcing false beliefs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Analogies in science and science teaching</span><span class="citation-popover-snippet">Analogies in science and science teaching - PubMed...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0-overview.webp" | relative_url }}" alt="Overview image for Analogies" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Analogies Often Feel Convincing
 
-Analogies work by aligning the **structure** or relational patterns between a familiar “source” domain and a less familiar “target” domain. When the parts match in a meaningful way, they help learners infer properties of the unfamiliar by reference to the known. This mechanism — often termed *structure‑mapping* — explains why analogies are such powerful cognitive tools in science, education and everyday reasoning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Analogies in science and science teaching</span><span class="citation-popover-snippet">PubMedAnalogies in science and science teaching - PubMed...</span></span></span>
+Analogies work by aligning the **structure** or relational patterns between a familiar “source” domain and a less familiar “target” domain. When the parts match in a meaningful way, they help learners infer properties of the unfamiliar by reference to the known. This mechanism — often termed *structure‑mapping* — explains why analogies are such powerful cognitive tools in science, education and everyday reasoning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Analogies in science and science teaching</span><span class="citation-popover-snippet">Analogies in science and science teaching - PubMed...</span></span></span>
 
-The same appeal that draws learners in, however, also invites oversimplification. Because analogies rely on selective mapping, they emphasise some features at the expense of others. People naturally focus on familiar alignable features and ignore unaligned but critical aspects of the target, which can lead to overextension of the analogy and **superficial thinking that feels like understanding but isn’t**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475217303067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect When analogies harm: The effects of analogies on metacomprehension</span><span class="citation-popover-snippet">ScienceDirectWhen analogies harm: The effects of analogies on metacomprehension - ScienceDirectJune 1, 2018...</span><span class="citation-popover-meta">Published: June 1, 2018</span></span></span>
-
+The same appeal that draws learners in, however, also invites oversimplification. Because analogies rely on selective mapping, they emphasise some features at the expense of others. People naturally focus on familiar alignable features and ignore unaligned but critical aspects of the target, which can lead to overextension of the analogy and **superficial thinking that feels like understanding but isn’t**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475217303067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect When analogies harm: The effects of analogies on metacomprehension</span><span class="citation-popover-snippet">When analogies harm: The effects of analogies on metacomprehension - ScienceDirectJune 1, 2018...</span><span class="citation-popover-meta">Published: June 1, 2018</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0-Illustration-1-dark.svg" | relative_url }}" alt="Analogies illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Comparisons Break and Mislead
@@ -521,20 +519,18 @@ An analogy can mislead when the source domain doesn’t adequately represent the
 
 Similarly, geology education researchers have noted that spatial analogies of [geologic time]({{ 'geologic-time/' | relative_url }}) — compressing billions of years into an intuitive spatial diagram — can mislead learners into believing that certain biological events happened earlier than they did, merely because the spatial metaphor suggested such an ordering.[Springer]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pO0WZsN8Oiw" title="Why Every Brain Metaphor in History Has Been Wrong [SPECIAL EDITION]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pO0WZsN8Oiw" target="_blank" rel="noopener noreferrer">Why Every Brain Metaphor in History Has Been Wrong [SPECIAL EDITION]</a></p><p class="youtube-embed-meta">Channel: Machine Learning Street Talk &middot; Views: 19.2K &middot; Uploaded: January 2026 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pO0WZsN8Oiw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pO0WZsN8Oiw">Open on YouTube</a></p></div></div></div>
 
 ### Overextension and Missing Structure
 
-Another common pitfall is **overextension**, where learners apply aspects of the source domain that aren’t relevant to the target concept. Analogies may highlight a few shared features but ignore deep causal mechanisms that actually define the target. When this happens, learners build *partial models* anchored on the analogy and fail to integrate essential properties that lie outside the comparison. Studies find that, in educational contexts, students can experience a *misleading sense of understanding* — believing they grasp a concept because the analogy feels familiar — even when their real comprehension is shallow.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475217303067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect When analogies harm: The effects of analogies on metacomprehension</span><span class="citation-popover-snippet">ScienceDirectWhen analogies harm: The effects of analogies on metacomprehension - ScienceDirectJune 1, 2018...</span><span class="citation-popover-meta">Published: June 1, 2018</span></span></span>
+Another common pitfall is **overextension**, where learners apply aspects of the source domain that aren’t relevant to the target concept. Analogies may highlight a few shared features but ignore deep causal mechanisms that actually define the target. When this happens, learners build *partial models* anchored on the analogy and fail to integrate essential properties that lie outside the comparison. Studies find that, in educational contexts, students can experience a *misleading sense of understanding* — believing they grasp a concept because the analogy feels familiar — even when their real comprehension is shallow.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475217303067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect When analogies harm: The effects of analogies on metacomprehension</span><span class="citation-popover-snippet">When analogies harm: The effects of analogies on metacomprehension - ScienceDirectJune 1, 2018...</span><span class="citation-popover-meta">Published: June 1, 2018</span></span></span>
 
-This dynamic can be particularly pernicious in text comprehension: readers judge their understanding based on the ease and familiarity of an analogy rather than the accuracy of the conceptual mapping. In experiments with expository science texts, the presence of analogies lowered the accuracy of readers’ metacognitive judgments about what they truly understood, especially when they relied on superficial cues like familiarity instead of deeper structural alignment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475217303067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect When analogies harm: The effects of analogies on metacomprehension</span><span class="citation-popover-snippet">ScienceDirectWhen analogies harm: The effects of analogies on metacomprehension - ScienceDirectJune 1, 2018...</span><span class="citation-popover-meta">Published: June 1, 2018</span></span></span>
-
+This dynamic can be particularly pernicious in text comprehension: readers judge their understanding based on the ease and familiarity of an analogy rather than the accuracy of the conceptual mapping. In experiments with expository science texts, the presence of analogies lowered the accuracy of readers’ metacognitive judgments about what they truly understood, especially when they relied on superficial cues like familiarity instead of deeper structural alignment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475217303067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect When analogies harm: The effects of analogies on metacomprehension</span><span class="citation-popover-snippet">When analogies harm: The effects of analogies on metacomprehension - ScienceDirectJune 1, 2018...</span><span class="citation-popover-meta">Published: June 1, 2018</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0-Illustration-2-dark.svg" | relative_url }}" alt="Analogies illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Entrenchment in Scientific Discourse
 
-Analogies not only affect novices. Historical analysis of scientific practice shows that entrenched analogies can shape entire research agendas by directing attention to certain features and away from others. When metaphorical correspondences become embedded, scientists may unconsciously treat them as literal truths, embedding *model‑laden descriptions* into the conceptual core of a discipline rather than as provisional tools. This phenomenon has been documented in historical studies of 19th‑century scientific discourse, where unexamined metaphors about human variation influenced research methods and interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: direct.mit.edu">[MIT Press Direct]</a><span class="citation-popover" role="note"><span class="citation-popover-source">direct.mit.edu</span><span class="citation-popover-snippet">MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy | Perspectives on Science | MIT PressApril 1, 2019...</span><span class="citation-popover-meta">Published: April 1, 2019</span></span></span>
+Analogies not only affect novices. Historical analysis of scientific practice shows that entrenched analogies can shape entire research agendas by directing attention to certain features and away from others. When metaphorical correspondences become embedded, scientists may unconsciously treat them as literal truths, embedding *model‑laden descriptions* into the conceptual core of a discipline rather than as provisional tools. This phenomenon has been documented in historical studies of 19th‑century scientific discourse, where unexamined metaphors about human variation influenced research methods and interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: direct.mit.edu">[MIT Press Direct]</a><span class="citation-popover" role="note"><span class="citation-popover-source">direct.mit.edu</span><span class="citation-popover-snippet">MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy &#124; Perspectives on Science &#124; MIT PressApril 1, 2019...</span><span class="citation-popover-meta">Published: April 1, 2019</span></span></span>
 
 ## Teaching the Limits Clearly
 
@@ -544,20 +540,17 @@ One key way to mitigate analogy‑induced misconceptions is to **explicitly teac
 
 Educational research also suggests that warning learners about the conditions and constraints of analogies — for example, indicating when certain properties do *not* transfer — reduces the risk of misconception. Analogies should be accompanied by **scaffolding** that helps learners check which inferences are valid and which are not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://researchonline.jcu.edu.au/53036/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchonline.jcu.edu.au">[researchonline.jcu.edu.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchonline.jcu.edu.au</span><span class="citation-popover-title">Analogies in science and science teaching</span><span class="citation-popover-snippet">Analogies in science and science teaching</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X5kaelEdszg" title="How to Think Using Analogies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X5kaelEdszg" target="_blank" rel="noopener noreferrer">How to Think Using Analogies</a></p><p class="youtube-embed-meta">Channel: Phil McKinney &middot; Views: 1.1K &middot; Uploaded: October 2025 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X5kaelEdszg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X5kaelEdszg">Open on YouTube</a></p></div></div></div>
 
 ### Use Multiple Analogies Strategically
 
 Relying on a single analogy can be risky because no comparison captures all facets of a complex concept. Introducing **multiple analogies** that emphasise different structural aspects can create a more robust mental model, helping learners see where one analogy leaves gaps that another fills. However, care is needed: research shows that multiple metaphors can also confuse if presented without clear context and critical framing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">Taylor &amp; Francis Online Full article: Analogy competence for science teachers</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Analogy competence for science teachersDecember 5, 2024...</span><span class="citation-popover-meta">Published: December 5, 2024</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LnTVzB5S8m4" title="Analogy as the Core of Cognition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LnTVzB5S8m4" target="_blank" rel="noopener noreferrer">Analogy as the Core of Cognition</a></p><p class="youtube-embed-meta">Channel: Center for Advanced Study, University of Illinois at Urbana-Champaign &middot; Views: 4.9K &middot; Uploaded: November 2013 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LnTVzB5S8m4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LnTVzB5S8m4">Open on YouTube</a></p></div></div></div>
 
 ### Foster Analogy Discrimination Skills
 
-Finally, learners benefit from developing **analogy discrimination skills** — the ability to identify which features of a source domain are truly relevant and which are superficial. Instruction that helps students compare and contrast different analogical mappings strengthens their capacity to avoid superficial inferences and supports deeper conceptual transfer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475217303067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect When analogies harm: The effects of analogies on metacomprehension</span><span class="citation-popover-snippet">ScienceDirectWhen analogies harm: The effects of analogies on metacomprehension - ScienceDirectJune 1, 2018...</span><span class="citation-popover-meta">Published: June 1, 2018</span></span></span>
-
+Finally, learners benefit from developing **analogy discrimination skills** — the ability to identify which features of a source domain are truly relevant and which are superficial. Instruction that helps students compare and contrast different analogical mappings strengthens their capacity to avoid superficial inferences and supports deeper conceptual transfer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475217303067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect When analogies harm: The effects of analogies on metacomprehension</span><span class="citation-popover-snippet">When analogies harm: The effects of analogies on metacomprehension - ScienceDirectJune 1, 2018...</span><span class="citation-popover-meta">Published: June 1, 2018</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0-Illustration-3-dark.svg" | relative_url }}" alt="Analogies illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Final Reflection
@@ -961,74 +954,74 @@ Analogies are both a cognitive crutch and a cognitive trap. They can gently illu
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRelational Reasoning and Educational Applications  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12938770/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12938770/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12938770/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12938770/</a>  
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect When analogies harm: The effects of analogies on metacomprehension  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0959475217303067](https://www.sciencedirect.com/science/article/abs/pii/S0959475217303067)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectWhen analogies harm: The effects of analogies on metacomprehension - ScienceDirectJune 1, 2018...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475217303067" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475217303067</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>When analogies harm: The effects of analogies on metacomprehension - ScienceDirectJune 1, 2018...</p></details>
    Published: June 1, 2018  
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-017-0054-7](https://link.springer.com/article/10.1186/s41235-017-0054-7)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerUsing analogy to learn about phenomena at scales outside human perception | Cognitive Research: Principles and Implications | Spr...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-017-0054-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-017-0054-7</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Using analogy to learn about phenomena at scales outside human perception | Cognitive Research: Principles and Implications | Spr...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: direct.mit.edu  
-   Link: [https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained](https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained)  
+   Link: <a href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy | Perspectives on Science | MIT PressApril 1, 2019...</p></details>
    Published: April 1, 2019  
 
 5. <a id="endnote-5"></a>
    Source: link.springer.com  
    Title: Good Use of a ‘Bad’ Metaphor | Science & Education | Springer Nature Link  
-   Link: [https://link.springer.com/article/10.1007/s11191-017-9892-4](https://link.springer.com/article/10.1007/s11191-017-9892-4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerGood Use of a ‘Bad’ Metaphor | Science &amp; Education | Springer Nature LinkApril 27, 2017...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s11191-017-9892-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11191-017-9892-4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Good Use of a ‘Bad’ Metaphor | Science &amp; Education | Springer Nature LinkApril 27, 2017...</p></details>
    Published: April 27, 2017  
 
 6. <a id="endnote-6"></a>
    Source: researchonline.jcu.edu.au  
    Title: Analogies in science and science teaching  
-   Link: [https://researchonline.jcu.edu.au/53036/](https://researchonline.jcu.edu.au/53036/)  
+   Link: <a href="https://researchonline.jcu.edu.au/53036/" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.jcu.edu.au/53036/</a>  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Learning by analogy: Discriminating between potential analogs  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0361476X09000381](https://www.sciencedirect.com/science/article/abs/pii/S0361476X09000381)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectLearning by analogy: Discriminating between potential analogs - ScienceDirectJanuary 1, 2010...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X09000381" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0361476X09000381</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning by analogy: Discriminating between potential analogs - ScienceDirectJanuary 1, 2010...</p></details>
    Published: January 1, 2010  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5969428/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5969428/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMarch 30, 2018...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5969428/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5969428/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 30, 2018...</p></details>
    Published: March 30, 2018  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Title: Fostering [conceptual change](&#123;&#123; 'concept-change/' | relative_url &#125;&#125;) by analogies—between Scylla and Charybdis  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0959475200000347](https://www.sciencedirect.com/science/article/abs/pii/S0959475200000347)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAugust 1, 2001 — LEARNING AND INSTRUCTION Volume 11, Issues 4–5, August–October 2001, Pages 283-303 FOSTERING CONCEPTUAL CHA...</p></details>
+   Title: Fostering conceptual change by analogies—between Scylla and Charybdis  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000347" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475200000347</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 1, 2001 — LEARNING AND INSTRUCTION Volume 11, Issues 4–5, August–October 2001, Pages 283-303 FOSTERING CONCEPTUAL CHA...</p></details>
    Published: August 1, 2001  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0361476X23000267](https://www.sciencedirect.com/science/article/pii/S0361476X23000267)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectCONTEMPORARY EDUCATIONAL PSYCHOLOGY Volume 73, April 2023, 102172 LEARNING FROM [REFUTATION TEXTS](&amp;#123;&amp;#123; &#x27;refutation-texts/&#x27; | relative_url &amp;#125;&amp;#125;) ABOUT SCIENTIFIC TOPICS WIT...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0361476X23000267" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0361476X23000267</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CONTEMPORARY EDUCATIONAL PSYCHOLOGY Volume 73, April 2023, 102172 LEARNING FROM [REFUTATION TEXTS](&amp;#123;&amp;#123; &#x27;refutation-texts/&#x27; | relative_url &amp;#125;&amp;#125;) ABOUT SCIENTIFIC TOPICS WIT...</p></details>
    Published: April 2023  
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Analogies in science and science teaching  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/21098382/](https://pubmed.ncbi.nlm.nih.gov/21098382/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedAnalogies in science and science teaching - PubMed...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21098382/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analogies in science and science teaching - PubMed...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: tandfonline.com  
    Title: Taylor & Francis Online Full article: Analogy competence for science teachers  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797](https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Analogy competence for science teachersDecember 5, 2024...</p></details>
    Published: December 5, 2024  
 
@@ -1036,57 +1029,57 @@ Analogies are both a cognitive crutch and a cognitive trap. They can gently illu
 
 13. <a id="endnote-13"></a>
    Source: zgd-journal.de  
-   Link: [https://www.zgd-journal.de/index.php/zgd/en/article/view/220](https://www.zgd-journal.de/index.php/zgd/en/article/view/220)  
+   Link: <a href="https://www.zgd-journal.de/index.php/zgd/en/article/view/220" target="_blank" rel="noopener noreferrer nofollow">https://www.zgd-journal.de/index.php/zgd/en/article/view/220</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>December 31, 2007 — MISLEADING ANALOGIES THAT LEAD TO THE BELIEF THAT THE MANTLE OF THE EARTH IS LIQUID AUTHORS * José Sellés-Martínez DO...</p></details>
    Published: December 31, 2007  
 
 14. <a id="endnote-14"></a>
    Source: nzcer.org.nz  
-   Link: [https://www.nzcer.org.nz/nzcerpress/curriculum-matters/articles/linguistic-threats-associated-metaphors-about-evolution](https://www.nzcer.org.nz/nzcerpress/curriculum-matters/articles/linguistic-threats-associated-metaphors-about-evolution)  
+   Link: <a href="https://www.nzcer.org.nz/nzcerpress/curriculum-matters/articles/linguistic-threats-associated-metaphors-about-evolution" target="_blank" rel="noopener noreferrer nofollow">https://www.nzcer.org.nz/nzcerpress/curriculum-matters/articles/linguistic-threats-associated-metaphors-about-evolution</a>  
 
 15. <a id="endnote-15"></a>
    Source: portal.research.lu.se  
-   Link: [https://portal.research.lu.se/en/publications/analogy-use-in-textbook-introductions-to-isostasy-presentations-p](https://portal.research.lu.se/en/publications/analogy-use-in-textbook-introductions-to-isostasy-presentations-p)  
+   Link: <a href="https://portal.research.lu.se/en/publications/analogy-use-in-textbook-introductions-to-isostasy-presentations-p" target="_blank" rel="noopener noreferrer nofollow">https://portal.research.lu.se/en/publications/analogy-use-in-textbook-introductions-to-isostasy-presentations-p</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dunnett, Thomas J. Barnes, A. Mattias Lundmark * National Resource Centre for Physics Education * Unive...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: portal.research.lu.se  
-   Link: [https://portal.research.lu.se/sv/publications/analogy-use-in-textbook-introductions-to-isostasy-presentations-p](https://portal.research.lu.se/sv/publications/analogy-use-in-textbook-introductions-to-isostasy-presentations-p)  
+   Link: <a href="https://portal.research.lu.se/sv/publications/analogy-use-in-textbook-introductions-to-isostasy-presentations-p" target="_blank" rel="noopener noreferrer nofollow">https://portal.research.lu.se/sv/publications/analogy-use-in-textbook-introductions-to-isostasy-presentations-p</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dunnett, Thomas J. Barnes, A. Mattias Lundmark SAMMANFATTNING In teaching, analogies can be used to su...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: lunduniversity.lu.se  
    Title: Dunnett * Thomas J. Barnes * A. Mattias Lundmark  
-   Link: [https://www.lunduniversity.lu.se/lup/publication/855f0c42-d510-4a20-91f3-12befd4426ca](https://www.lunduniversity.lu.se/lup/publication/855f0c42-d510-4a20-91f3-12befd4426ca)  
+   Link: <a href="https://www.lunduniversity.lu.se/lup/publication/855f0c42-d510-4a20-91f3-12befd4426ca" target="_blank" rel="noopener noreferrer nofollow">https://www.lunduniversity.lu.se/lup/publication/855f0c42-d510-4a20-91f3-12befd4426ca</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>use in textbook introductions to isostasy: Presentations, perceptions and physics | Lund UniversityANALOGY USE IN TEXTBOOK INTRODUCTIONS...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Misconceptions and Education with David Butler  
-   Link: [https://www.youtube.com/watch?v=JbVSDmERpxw](https://www.youtube.com/watch?v=JbVSDmERpxw)  
+   Link: <a href="https://www.youtube.com/watch?v=JbVSDmERpxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JbVSDmERpxw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This selection of videos is relevant because it explores how cognitive shortcuts and metaphorical thinking can lead to flawed reasoning...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: research-portal.uea.ac.uk  
    Title: uea.ac.uk Mind the metaphor!  
-   Link: [https://research-portal.uea.ac.uk/en/publications/mind-the-metaphor-a-systematic-fallacy-in-analogical-reasoning](https://research-portal.uea.ac.uk/en/publications/mind-the-metaphor-a-systematic-fallacy-in-analogical-reasoning)  
+   Link: <a href="https://research-portal.uea.ac.uk/en/publications/mind-the-metaphor-a-systematic-fallacy-in-analogical-reasoning" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/en/publications/mind-the-metaphor-a-systematic-fallacy-in-analogical-reasoning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A systematic fallacy in analogical reasoning - University of East AngliaJanuary 1, 2015 — MIND THE METAPHOR! A SYSTEMATIC FALLACY IN ANAL...</p></details>
    Published: January 1, 2015  
 
 20. <a id="endnote-20"></a>
    Source: ueaeprints.uea.ac.uk  
    Title: uea.ac.uk Mind the metaphor!  
-   Link: [https://ueaeprints.uea.ac.uk/id/eprint/51714/](https://ueaeprints.uea.ac.uk/id/eprint/51714/)  
+   Link: <a href="https://ueaeprints.uea.ac.uk/id/eprint/51714/" target="_blank" rel="noopener noreferrer nofollow">https://ueaeprints.uea.ac.uk/id/eprint/51714/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A systematic fallacy in analogical reasoning - UEA Digital RepositoryJanuary 9, 2015 — MIND THE METAPHOR! A SYSTEMATIC FALLACY IN ANALOGI...</p></details>
    Published: January 9, 2015  
 
 21. <a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5357664/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5357664/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5357664/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5357664/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Although novices are sometimes reasonably accurate at ranking phenomena in a correct sequence, they have diffic...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/03057640220147577](https://www.tandfonline.com/doi/abs/10.1080/03057640220147577)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/03057640220147577" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/03057640220147577</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Place of Analogies in Science Education: Cambridge Journal of Education: Vol 32, No 2July 1, 2010 — Cambridge Journal of Education Vo...</p></details>
-   Published: July 1, 2010  
+   Published: July 1, 2010

@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef
 - Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - influencers
 - local-voices
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - influencers
 - local-voices
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Corrections work better when accurate information comes from people the audience already recognizes and trusts.
 hero_summary: Corrections work better when accurate information comes from people the audience already recognizes and trusts.
 layout: default
 permalink: /local-voices/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /influencers/
 nav_short_title: Local Voices
 title: Who Can Correct Influencer Myths?
-title_full: Who Can Correct Influencer Myths? | Influencers
+title_full: Who Can Correct Influencer Myths?
 display_title_short: Local Voices
 display_title: Local Voices
 heading_title: Who Can Correct Influencer Myths?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Authority Shortcuts Spread Myths | Mythcraft
+parent_title: When Authority Shortcuts Spread Myths
 parent_permalink: /influencers/
 parent_nav_short_title: Influencers
 parent_heading_title: When Authority Shortcuts Spread Myths
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Likes Make Myths Look True
 up_link:
   basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
@@ -265,7 +265,7 @@ next_link:
   permalink: /viral-proof/
   short_title: Viral Proof
   heading_title: When Likes Make Myths Look True
-date: '2026-06-09 04:36:21 '
+date: '2026-06-11 22:07:45 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_community_messengers_cd448f-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_community_messengers_cd448f-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_com
 
 When myths spread through influencers, a [correction]({{ 'correction/' | relative_url }}) from a distant expert is not always enough. People often accept information through relationships as much as through evidence. If a misleading claim has travelled through a trusted creator, celebrity, faith leader, neighbourhood figure or online community, audiences may be more receptive when accurate information comes from someone they already know and trust. This is why many misinformation-response programmes increasingly rely on trusted community messengers: people who combine local credibility with access to reliable information. Research across public health, community engagement and misinformation studies suggests that trust is often built locally, through shared experience, familiarity and ongoing relationships rather than through credentials alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrusted messengers and trusted messages</span><span class="citation-popover-snippet">messengers and trusted messages - PMC - NIHby AK Shen · 2023 · Cited by 104 — We sought to explore the trust and influence community-base...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrusted messengers and trusted messages</span><span class="citation-popover-snippet">messengers and trusted messages - PMC - NIHby AK Shen · 2023 · Cited by 104 — We sought to explore the trust and influence community-base...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_community_messengers_cd448f-Illustration-1-dark.svg" | relative_url }}" alt="Local Voices illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_community_messengers_cd448f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_community_messengers_cd448f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader problem of influencer-driven myths, the key governance question is not simply how to produce accurate information, but who is best placed to deliver it. Effective correction often depends on connecting expert knowledge with trusted local voices rather than treating those as competing sources of authority. NCBI <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforhealthsecurity.org/our-work/research-projects/trust-in-public-health/tackling-rumors/trust-approaches-to-counter-rumors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforhealthsecurity.org">[Johns Hopkins Center for Health Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforhealthsecurity.org</span><span class="citation-popover-snippet">Johns Hopkins Center for Health SecurityTRUST Approaches to counter rumorsThis section provides an overview of tools and approaches to ma...</span></span></span>
 
@@ -284,11 +283,11 @@ Within the broader problem of influencer-driven myths, the key governance questi
 
 Influencer myths frequently spread through networks built on [identity]({{ 'identity/' | relative_url }}), familiarity and belonging. Followers may feel that a creator understands their lifestyle, values or concerns in a way that institutions do not. When an expert from outside that community arrives with a correction, audiences may interpret the message as technically accurate but socially disconnected.
 
-Studies of [trusted messengers]({{ 'trusted-fixes/' | relative_url }}) consistently find that information is more persuasive when recipients believe the communicator understands their circumstances and shares their concerns. Community-based organisations often succeed because they already have established relationships with residents, allowing them to translate expert information into language and examples that feel relevant rather than imposed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrusted messengers and trusted messages</span><span class="citation-popover-snippet">messengers and trusted messages - PMC - NIHby AK Shen · 2023 · Cited by 104 — We sought to explore the trust and influence community-base...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrusted messengers and trusted messages</span><span class="citation-popover-snippet">messengers and trusted messages - PMC - NIHby AK Shen · 2023 · Cited by 104 — We sought to explore the trust and influence community-base...</span></span></span>
+Studies of trusted messengers consistently find that information is more persuasive when recipients believe the communicator understands their circumstances and shares their concerns. Community-based organisations often succeed because they already have established relationships with residents, allowing them to translate expert information into language and examples that feel relevant rather than imposed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrusted messengers and trusted messages</span><span class="citation-popover-snippet">messengers and trusted messages - PMC - NIHby AK Shen · 2023 · Cited by 104 — We sought to explore the trust and influence community-base...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrusted messengers and trusted messages</span><span class="citation-popover-snippet">messengers and trusted messages - PMC - NIHby AK Shen · 2023 · Cited by 104 — We sought to explore the trust and influence community-base...</span></span></span>
 
 This does not mean expertise is unimportant. The challenge is that expertise and trust are different forms of authority. An epidemiologist may understand disease transmission better than anyone in a community, but a local nurse, faith leader, youth mentor or neighbourhood organiser may be better positioned to explain that expertise in a way that people will actually hear. The World Health Organization has increasingly described health and care workers as community anchors and trusted messengers because of this bridging role. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — The toolkit recognizes that HCWs are not jus...</span></span></span>
 
-Research on information environments also shows that misinformation thrives when people distrust institutions or feel excluded from decision-making. Under those conditions, [corrections]({{ 'corrections/' | relative_url }}) delivered solely from central authorities can be ignored or even trigger resistance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0277953625006033" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMisinformation, trust, and health: The case for information...by A Palmer · 2025 · Cited by 27 — We present empirical evide...</span></span></span>
+Research on information environments also shows that misinformation thrives when people distrust institutions or feel excluded from decision-making. Under those conditions, [corrections]({{ 'corrections/' | relative_url }}) delivered solely from central authorities can be ignored or even trigger resistance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0277953625006033" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Misinformation, trust, and health: The case for information...by A Palmer · 2025 · Cited by 27 — We present empirical evide...</span></span></span>
 
 ## How Community Messengers Build Credibility
 
@@ -296,15 +295,14 @@ Trusted community messengers are not simply smaller-scale influencers. Their cre
 
 Several characteristics appear repeatedly in successful programmes:
 
-* **Shared identity or experience:** People trust communicators who understand local realities because they live or work within the same community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.purpose.com/the-power-of-trusted-messengers-beyond-traditional-influence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purpose.com">[Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purpose.com</span><span class="citation-popover-snippet">Purpose | Global Social ImpactThe Power of Trusted Messengers: Beyond Traditional...Trusted Messengers derive their impact from genuine...</span></span></span> | Global Social Impact <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlocalepidemiologist.substack.com/p/find-the-trusted-messengers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlocalepidemiologist.substack.com">[Your Local Epidemiologist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlocalepidemiologist.substack.com</span><span class="citation-popover-title">Your Local Epidemiologist Find the Trusted Messengers</span><span class="citation-popover-snippet">They understand pain points, reality, and tradeoffs people must make daily.Read more...</span></span></span>
+* **Shared identity or experience:** People trust communicators who understand local realities because they live or work within the same community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.purpose.com/the-power-of-trusted-messengers-beyond-traditional-influence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purpose.com">[Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purpose.com</span><span class="citation-popover-snippet">Global Social ImpactThe Power of Trusted Messengers: Beyond Traditional...Trusted Messengers derive their impact from genuine...</span></span></span> | Global Social Impact <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlocalepidemiologist.substack.com/p/find-the-trusted-messengers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlocalepidemiologist.substack.com">[Your Local Epidemiologist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlocalepidemiologist.substack.com</span><span class="citation-popover-title">Your Local Epidemiologist Find the Trusted Messengers</span><span class="citation-popover-snippet">They understand pain points, reality, and tradeoffs people must make daily.Read more...</span></span></span>
 * **Existing relationships:** Trust often predates the correction effort. The messenger is already known as a neighbour, volunteer, teacher, community organiser or local professional. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrusted messengers and trusted messages</span><span class="citation-popover-snippet">messengers and trusted messages - PMC - NIHby AK Shen · 2023 · Cited by 104 — We sought to explore the trust and influence community-base...</span></span></span>
-* **Accessibility:** Community figures are easier to question than distant institutions. Residents can have conversations rather than merely consume messages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: local.gov.uk">[Local Government Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">local.gov.uk</span><span class="citation-popover-title">leeds importance messenger not just message</span><span class="citation-popover-snippet">Local Government AssociationThe importance of the messenger, not just the message10 Mar 2022 — The work programme aimed to ensure that th...</span></span></span>
+* **Accessibility:** Community figures are easier to question than distant institutions. Residents can have conversations rather than merely consume messages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: local.gov.uk">[Local Government Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">local.gov.uk</span><span class="citation-popover-title">leeds importance messenger not just message</span><span class="citation-popover-snippet">ernment AssociationThe importance of the messenger, not just the message10 Mar 2022 — The work programme aimed to ensure that th...</span></span></span>
 * **Translation of expertise:** Effective messengers convert technical information into practical guidance relevant to local concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrusted messengers and trusted messages</span><span class="citation-popover-snippet">messengers and trusted messages - PMC - NIHby AK Shen · 2023 · Cited by 104 — We sought to explore the trust and influence community-base...</span></span></span>
 
 Importantly, trust does not arise because community messengers replace experts. Rather, they often act as intermediaries between formal expertise and local audiences. Research on vaccine communication found that community organisations were particularly effective when they partnered with healthcare systems and public-health experts rather than operating independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrusted messengers and trusted messages</span><span class="citation-popover-snippet">messengers and trusted messages - PMC - NIHby AK Shen · 2023 · Cited by 104 — We sought to explore the trust and influence community-base...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrusted messengers and trusted messages</span><span class="citation-popover-snippet">messengers and trusted messages - PMC - NIHby AK Shen · 2023 · Cited by 104 — We sought to explore the trust and influence community-base...</span></span></span>
 
-This distinction matters for governance. A [trusted messenger]({{ 'trusted-fixes/' | relative_url }}) model works best when credibility flows in both directions: experts provide evidence, while community figures provide context, interpretation and feedback about local concerns.
-
+This distinction matters for governance. A trusted messenger model works best when credibility flows in both directions: experts provide evidence, while community figures provide context, interpretation and feedback about local concerns.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_community_messengers_cd448f-Illustration-2-dark.svg" | relative_url }}" alt="Local Voices illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_community_messengers_cd448f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_community_messengers_cd448f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Responsible Correction Looks Like in Practice
@@ -317,12 +315,11 @@ Guidance from WHO and public-health communication programmes emphasises several 
 * Acknowledge concerns rather than dismiss them.
 * Use clear, accessible language.
 * Show both competence and empathy.
-* Provide practical actions alongside factual information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[WHO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — The toolkit recognizes that HCWs are not jus...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iris.who.int/bitstream/handle/10665/208263/9789290617464_eng.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[Iris]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-title">Iris Vaccine Safety communication</span><span class="citation-popover-snippet">IrisVaccine Safety communication - IRISby World Health Organization · 2016 · Cited by 3 — The guide also covers prompt and effective comm...</span></span></span>
+* Provide practical actions alongside factual information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[WHO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — The toolkit recognizes that HCWs are not jus...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iris.who.int/bitstream/handle/10665/208263/9789290617464_eng.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[Iris]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-title">Iris Vaccine Safety communication</span><span class="citation-popover-snippet">Vaccine Safety communication - IRISby World Health Organization · 2016 · Cited by 3 — The guide also covers prompt and effective comm...</span></span></span>
 
 In rural vaccine outreach programmes, trusted local participants were often able to identify specific rumours, misunderstandings and access barriers that outside communicators had overlooked. Their reports helped organisations adapt messaging and respond to concerns in real time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1059067/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAddressing COVID-19 vaccine hesitancy in rural...by M Reichelt · 2023 · Cited by 19 — The following three cases will present a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0264410X25007716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Engaging trusted messengers in public health responseby E Stiehl · 2025 · Cited by 2 — CDC&#x27;s SoVC provided best practices for addressing...</span></span></span>
 
 Another important lesson is that correction is not a one-off event. Trust is usually accumulated through repeated interactions. Programmes that attempt to recruit trusted messengers only after a misinformation crisis begins often struggle because relationships have not yet been established. Building community partnerships before misinformation spreads is consistently identified as a better strategy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforhealthsecurity.org/our-work/research-projects/trust-in-public-health/tackling-rumors/trust-approaches-to-counter-rumors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforhealthsecurity.org">[Johns Hopkins Center for Health Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforhealthsecurity.org</span><span class="citation-popover-snippet">Johns Hopkins Center for Health SecurityTRUST Approaches to counter rumorsThis section provides an overview of tools and approaches to ma...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrusted messengers and trusted messages</span><span class="citation-popover-snippet">messengers and trusted messages - PMC - NIHby AK Shen · 2023 · Cited by 104 — We sought to explore the trust and influence community-base...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R3pCAhm41ao" title="How communicators can identify and respond to vaccine misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R3pCAhm41ao" target="_blank" rel="noopener noreferrer">How communicators can identify and respond to vaccine misinformation</a></p><p class="youtube-embed-meta">Channel: PAHO TV &middot; Views: 187 &middot; Uploaded: May 2025 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R3pCAhm41ao" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R3pCAhm41ao">Open on YouTube</a></p></div></div></div>
 
@@ -343,7 +340,6 @@ There is also a risk of treating trust as a substitute for evidence. A messenger
 Another challenge is that communities are rarely uniform. Different groups may trust different voices. Research on trusted messengers has found significant variation across demographic, cultural and political communities regarding whom they consider credible. A messenger who is persuasive within one network may have little influence in another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adcouncil.org/how-we-work/ad-council-research-institute/research-studies/2022-trusted-messengers-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adcouncil.org">[Ad Council Org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adcouncil.org</span><span class="citation-popover-title">2022 trusted messengers study</span><span class="citation-popover-snippet">Ad Council Org2022 Trusted Messengers StudyThe 2022 Trusted Messengers Study looks at current topics and issues to identify who Americans...</span></span></span>
 
 For that reason, governance strategies increasingly emphasise networks of trusted messengers rather than a single spokesperson. The goal is not to find one universally trusted authority but to ensure that accurate information can travel through multiple trusted relationships.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_community_messengers_cd448f-Illustration-3-dark.svg" | relative_url }}" alt="Local Voices illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_community_messengers_cd448f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_community_messengers_cd448f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Local Voices Matter in Influencer-Driven Myth Correction
@@ -748,176 +744,176 @@ Evidence from public-health communication, community engagement and misinformati
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10939007/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10939007/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCCommunity-Based Organizations as Trusted Messengers in...by MM Chau · 2023 · Cited by 25 — In this essay, we explore the role of comm...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10939007/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10939007/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community-Based Organizations as Trusted Messengers in...by MM Chau · 2023 · Cited by 25 — In this essay, we explore the role of comm...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCTrusted messengers and trusted messages  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>messengers and trusted messages - PMC - NIHby AK Shen · 2023 · Cited by 104 — We sought to explore the trust and influence community-base...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: who.int  
-   Link: [https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis](https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis)  
+   Link: <a href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — The toolkit recognizes that HCWs are not jus...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: urban.org  
-   Link: [https://www.urban.org/urban-wire/communities-can-combat-vaccine-misinformation-through-trusted-messengers](https://www.urban.org/urban-wire/communities-can-combat-vaccine-misinformation-through-trusted-messengers)  
+   Link: <a href="https://www.urban.org/urban-wire/communities-can-combat-vaccine-misinformation-through-trusted-messengers" target="_blank" rel="noopener noreferrer nofollow">https://www.urban.org/urban-wire/communities-can-combat-vaccine-misinformation-through-trusted-messengers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Urban InstituteCommunities Can Combat Vaccine Misinformation through...26 Apr 2024 — Through trusted messengers, CBOs can best combat mi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cdn.who.int  
-   Link: [https://cdn.who.int/media/docs/default-source/covid-19-[vaccines](https://cdn.who.int/media/docs/default-source/covid-19-[vaccines)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHOCOVID-19 vaccine safety communicationUsing personal language and showing concern helps build trust. • Identify spokespeople communicat...</p></details>
+   Link: <a href="https://cdn.who.int/media/docs/default-source/covid-19-[vaccines" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/covid-19-[vaccines</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 vaccine safety communicationUsing personal language and showing concern helps build trust. • Identify spokespeople communicat...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0277953625006033](https://www.sciencedirect.com/science/article/pii/S0277953625006033)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectMisinformation, trust, and health: The case for information...by A Palmer · 2025 · Cited by 27 — We present empirical evide...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0277953625006033" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0277953625006033</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, trust, and health: The case for information...by A Palmer · 2025 · Cited by 27 — We present empirical evide...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: purpose.com  
-   Link: [https://www.purpose.com/the-power-of-trusted-messengers-beyond-traditional-influence/](https://www.purpose.com/the-power-of-trusted-messengers-beyond-traditional-influence/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purpose | Global Social ImpactThe Power of Trusted Messengers: Beyond Traditional...Trusted Messengers derive their impact from genuine...</p></details>
+   Link: <a href="https://www.purpose.com/the-power-of-trusted-messengers-beyond-traditional-influence/" target="_blank" rel="noopener noreferrer nofollow">https://www.purpose.com/the-power-of-trusted-messengers-beyond-traditional-influence/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Social ImpactThe Power of Trusted Messengers: Beyond Traditional...Trusted Messengers derive their impact from genuine...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12184151/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12184151/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCBuilding trust and equity in vaccine communication through...by T Sommers · 2025 · Cited by 22 — Community engagement (CE) strategies...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12184151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12184151/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Building trust and equity in vaccine communication through...by T Sommers · 2025 · Cited by 22 — Community engagement (CE) strategies...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: publichealthcollaborative.org  
-   Link: [https://publichealthcollaborative.org/wp-content/uploads/2024/11/The-Public-Health-Communicators-Guide-to-Misinformation.pdf](https://publichealthcollaborative.org/wp-content/uploads/2024/11/The-Public-Health-Communicators-Guide-to-Misinformation.pdf)  
+   Link: <a href="https://publichealthcollaborative.org/wp-content/uploads/2024/11/The-Public-Health-Communicators-Guide-to-Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publichealthcollaborative.org/wp-content/uploads/2024/11/The-Public-Health-Communicators-Guide-to-Misinformation.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Public Health Communicators Guide to MisinformationBuilding continued trust in public health requires communicators to learn how to i...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: iris.who.int  
    Title: Iris Vaccine Safety communication  
-   Link: [https://iris.who.int/bitstream/handle/10665/208263/9789290617464_eng.pdf](https://iris.who.int/bitstream/handle/10665/208263/9789290617464_eng.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IrisVaccine Safety communication - IRISby World Health Organization · 2016 · Cited by 3 — The guide also covers prompt and effective comm...</p></details>
+   Link: <a href="https://iris.who.int/bitstream/handle/10665/208263/9789290617464_eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/bitstream/handle/10665/208263/9789290617464_eng.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccine Safety communication - IRISby World Health Organization · 2016 · Cited by 3 — The guide also covers prompt and effective comm...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0264410X25007716](https://www.sciencedirect.com/science/article/pii/S0264410X25007716)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0264410X25007716" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0264410X25007716</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Engaging trusted messengers in public health responseby E Stiehl · 2025 · Cited by 2 — CDC&#x27;s SoVC provided best practices for addressing...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: p3rc.uic.edu  
-   Link: [https://p3rc.uic.edu/wp-content/uploads/sites/561/2025/07/Brief_142_COVID_TM_508_v2-1.pdf](https://p3rc.uic.edu/wp-content/uploads/sites/561/2025/07/Brief_142_COVID_TM_508_v2-1.pdf)  
+   Link: <a href="https://p3rc.uic.edu/wp-content/uploads/sites/561/2025/07/Brief_142_COVID_TM_508_v2-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://p3rc.uic.edu/wp-content/uploads/sites/561/2025/07/Brief_142_COVID_TM_508_v2-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tactics trusted messengers employed to rebuild trust with the...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: who.int  
-   Link: [https://www.who.int/health-topics/infodemic](https://www.who.int/health-topics/infodemic)  
+   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>InfodemicAn infodemic is too much information including false or misleading information in digital and physical environments during a dis...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: centerforhealthsecurity.org  
    Title: 2025 05 CDC practical playbook v3  
-   Link: [https://centerforhealthsecurity.org/sites/default/files/2025-06/2025-05-CDC-practical-playbook-v3.pdf](https://centerforhealthsecurity.org/sites/default/files/2025-06/2025-05-CDC-practical-playbook-v3.pdf)  
+   Link: <a href="https://centerforhealthsecurity.org/sites/default/files/2025-06/2025-05-CDC-practical-playbook-v3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforhealthsecurity.org/sites/default/files/2025-06/2025-05-CDC-practical-playbook-v3.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These relationships...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1560936/full](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1560936/full)  
+   Link: <a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1560936/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1560936/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unravelling the infodemic: a systematic review of...by S Bhattacharya · 2025 · Cited by 18 — This study explores the factors driving COV...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: yourlocalepidemiologist.substack.com  
    Title: Your Local Epidemiologist Find the Trusted Messengers  
-   Link: [https://yourlocalepidemiologist.substack.com/p/find-the-trusted-messengers](https://yourlocalepidemiologist.substack.com/p/find-the-trusted-messengers)  
+   Link: <a href="https://yourlocalepidemiologist.substack.com/p/find-the-trusted-messengers" target="_blank" rel="noopener noreferrer nofollow">https://yourlocalepidemiologist.substack.com/p/find-the-trusted-messengers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They understand pain points, reality, and tradeoffs people must make daily.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: local.gov.uk  
    Title: leeds importance messenger not just message  
-   Link: [https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message](https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Local Government AssociationThe importance of the messenger, not just the message10 Mar 2022 — The work programme aimed to ensure that th...</p></details>
+   Link: <a href="https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ernment AssociationThe importance of the messenger, not just the message10 Mar 2022 — The work programme aimed to ensure that th...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1059067/full](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1059067/full)  
+   Link: <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1059067/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1059067/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersAddressing COVID-19 vaccine hesitancy in rural...by M Reichelt · 2023 · Cited by 19 — The following three cases will present a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2025/feb/03/immigration-misinformation-local-journalists](https://www.theguardian.com/us-news/2025/feb/03/immigration-misinformation-local-journalists)  
+   Link: <a href="https://www.theguardian.com/us-news/2025/feb/03/immigration-misinformation-local-journalists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2025/feb/03/immigration-misinformation-local-journalists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False reports of border patrol presence and ICE raids have appeared on social media and even prompted official warnings, which were later...</p></details>
    Published: February 3, 2025  
 
 20. <a id="endnote-20"></a>
    Source: centerforhealthsecurity.org  
-   Link: [https://centerforhealthsecurity.org/our-work/research-projects/trust-in-public-health/tackling-rumors/trust-approaches-to-counter-rumors](https://centerforhealthsecurity.org/our-work/research-projects/trust-in-public-health/tackling-rumors/trust-approaches-to-counter-rumors)  
+   Link: <a href="https://centerforhealthsecurity.org/our-work/research-projects/trust-in-public-health/tackling-rumors/trust-approaches-to-counter-rumors" target="_blank" rel="noopener noreferrer nofollow">https://centerforhealthsecurity.org/our-work/research-projects/trust-in-public-health/tackling-rumors/trust-approaches-to-counter-rumors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Johns Hopkins Center for Health SecurityTRUST Approaches to counter rumorsThis section provides an overview of tools and approaches to ma...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: adcouncil.org  
    Title: 2022 trusted messengers study  
-   Link: [https://www.adcouncil.org/how-we-work/ad-council-research-institute/research-studies/2022-trusted-messengers-study](https://www.adcouncil.org/how-we-work/ad-council-research-institute/research-studies/2022-trusted-messengers-study)  
+   Link: <a href="https://www.adcouncil.org/how-we-work/ad-council-research-institute/research-studies/2022-trusted-messengers-study" target="_blank" rel="noopener noreferrer nofollow">https://www.adcouncil.org/how-we-work/ad-council-research-institute/research-studies/2022-trusted-messengers-study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Council Org2022 Trusted Messengers StudyThe 2022 Trusted Messengers Study looks at current topics and issues to identify who Americans...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: adcouncil.org  
    Title: 2021 trusted messengers study  
-   Link: [https://www.adcouncil.org/how-we-work/ad-council-research-institute/research-studies/2021-trusted-messengers-study](https://www.adcouncil.org/how-we-work/ad-council-research-institute/research-studies/2021-trusted-messengers-study)  
+   Link: <a href="https://www.adcouncil.org/how-we-work/ad-council-research-institute/research-studies/2021-trusted-messengers-study" target="_blank" rel="noopener noreferrer nofollow">https://www.adcouncil.org/how-we-work/ad-council-research-institute/research-studies/2021-trusted-messengers-study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Council Org2021 Trusted Messengers StudyThis inaugural Trusted Messenger Study was designed to identify the trusted messengers America...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Since the inception of the current pandemic, COVID-19 related misinformation has played a role in defaulting control of the situation.Rea...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: cochrane.org  
    Title: role trusted evidence fighting vaccine disinformation  
-   Link: [https://www.cochrane.org/about-us/news/role-trusted-evidence-fighting-vaccine-disinformation](https://www.cochrane.org/about-us/news/role-trusted-evidence-fighting-vaccine-disinformation)  
+   Link: <a href="https://www.cochrane.org/about-us/news/role-trusted-evidence-fighting-vaccine-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/news/role-trusted-evidence-fighting-vaccine-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of trusted evidence in fighting vaccine disinformation16 Oct 2025 — Our unbiased evidence synthesis is vital but must be complem...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: bmj.com  
    Title: bmj 2023 076542  
-   Link: [https://www.bmj.com/content/384/bmj-2023-076542](https://www.bmj.com/content/384/bmj-2023-076542)  
+   Link: <a href="https://www.bmj.com/content/384/bmj-2023-076542" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/384/bmj-2023-076542</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural interventions to reduce vaccine hesitancy...by K Ruggeri · 2024 · Cited by 115 — Raising the quality and visibility of relia...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/eurpub/article/35/Supplement_2/ii9/8092276](https://academic.oup.com/eurpub/article/35/Supplement_2/ii9/8092276)  
+   Link: <a href="https://academic.oup.com/eurpub/article/35/Supplement_2/ii9/8092276" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/eurpub/article/35/Supplement_2/ii9/8092276</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lessons from person-centered health careby R Steiner · 2025 · Cited by 2 — Public health leaders can regain trust by applying three princ...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: publications.parliament.uk  
    Title: uk Trusted voices  
-   Link: [https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/175/report.html](https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/175/report.html)  
+   Link: <a href="https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/175/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/175/report.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>voices - Culture, Media and Sport Committee12 Apr 2024 — We launched this inquiry in July 2022 to seek to understand what contributes to...</p></details>
    Published: July 2022  
 
 28. <a id="endnote-28"></a>
    Source: polioeradication.org  
-   Link: [https://polioeradication.org/wp-content/uploads/2021/10/VACCINE-MISINFORMATION-FIELD-GUIDE-V2B-AT.pdf](https://polioeradication.org/wp-content/uploads/2021/10/VACCINE-MISINFORMATION-FIELD-GUIDE-V2B-AT.pdf)  
+   Link: <a href="https://polioeradication.org/wp-content/uploads/2021/10/VACCINE-MISINFORMATION-FIELD-GUIDE-V2B-AT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://polioeradication.org/wp-content/uploads/2021/10/VACCINE-MISINFORMATION-FIELD-GUIDE-V2B-AT.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VACCINE MISINFORMATION MANAGEMENT FIELD GUIDEHealth professionals are among the most trusted sources of health information and a provider...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12889-025-23470-0](https://link.springer.com/article/10.1186/s12889-025-23470-0)  
+   Link: <a href="https://link.springer.com/article/10.1186/s12889-025-23470-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12889-025-23470-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in doctors, social support, and belief in COVID-19...by UA Horoszko · 2025 · Cited by 7 — Doctors are well-positioned to play the role o...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIWE CAN TAKE ACTION  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK572168/](https://www.ncbi.nlm.nih.gov/books/NBK572168/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK572168/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, work with health and medical professionals to reach target audiences.Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=R3pCAhm41ao](https://www.youtube.com/watch?v=R3pCAhm41ao)  
+   Link: <a href="https://www.youtube.com/watch?v=R3pCAhm41ao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R3pCAhm41ao</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mbat it. It highlights the importance of strategies to...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: pen.org  
    Title: trusted messengers  
-   Link: [https://pen.org/trusted-messengers/](https://pen.org/trusted-messengers/)  
+   Link: <a href="https://pen.org/trusted-messengers/" target="_blank" rel="noopener noreferrer nofollow">https://pen.org/trusted-messengers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PEN AmericaTrusted Messengers: How Community Engagement...31 Mar 2023 — Community engagement journalism is an antidote to the distrust a...</p></details>

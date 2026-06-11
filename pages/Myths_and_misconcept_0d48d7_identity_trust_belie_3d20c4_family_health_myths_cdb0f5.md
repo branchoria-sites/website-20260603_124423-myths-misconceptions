@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_influencer_source_cr_0dc5b4
 - Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_trusted_messenger_co_ba3df3
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - identity
 - family-advice
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - identity
 - family-advice
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Health myths can feel safest when they come from parents or relatives who shaped a person's earliest ideas about care and risk.
 hero_summary: Health myths can feel safest when they come from parents or relatives who shaped a person's earliest ideas about care and risk.
 layout: default
 permalink: /family-advice/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /identity/
 nav_short_title: Family Advice
 title: Why family health myths feel so convincing
-title_full: Why family health myths feel so convincing | Identity
+title_full: Why family health myths feel so convincing
 display_title_short: Family Advice
 display_title: Family Advice
 heading_title: Why family health myths feel so convincing
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Trusted People Make Myths Stick | Mythcraft
+parent_title: Why Trusted People Make Myths Stick
 parent_permalink: /identity/
 parent_nav_short_title: Identity
 parent_heading_title: Why Trusted People Make Myths Stick
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How corrections avoid sounding like attacks
 up_link:
   basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
@@ -265,7 +265,7 @@ next_link:
   permalink: /group-loyalty/
   short_title: Group Loyalty
   heading_title: When a myth becomes a loyalty test
-date: '2026-06-09 04:49:01 '
+date: '2026-06-11 22:13:52 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_family_health_myths_cdb0f5-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_family_health_myths_cdb0f5-Illustration-1.webp
@@ -276,9 +276,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_fa
 
 [Health myths]({{ 'health-myths/' | relative_url }}) often survive not because the information is strong, but because the relationship behind it is strong. Advice from parents, grandparents, siblings and other relatives is usually learned early, repeated often and delivered by people who are closely associated with safety, care and survival. When a family member says that a cold must be “sweated out”, that a particular food cures illness, or that a vaccine is risky, the claim can feel different from the same statement coming from a stranger.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_family_health_myths_cdb0f5-Illustration-1-dark.svg" | relative_url }}" alt="Family Advice illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_family_health_myths_cdb0f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_family_health_myths_cdb0f5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This helps explain why some health misconceptions remain surprisingly resistant to [correction]({{ 'correction/' | relative_url }}). The issue is not simply a lack of scientific evidence. Family advice often carries emotional authority, personal history and a sense of loyalty. Rejecting the advice can feel like questioning the judgement of people who provided comfort, protection and practical help throughout life. Research on health misinformation consistently finds that trust, familiarity and social relationships influence which [health claims]({{ 'health-claims/' | relative_url }}) people accept and how willing they are to revise them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nam.edu">[NAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nam.edu</span><span class="citation-popover-snippet">NAMIdentifying Credible Sources of Health Information in Social...by RS Kington · Cited by 278 — People seek, share, and receive health...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIWE CAN TAKE ACTION</span><span class="citation-popover-snippet">Confronting Health MisinformationBecause it pollutes our information environment, misinformation is harmful to individual and public heal...</span></span></span>
+This helps explain why some health misconceptions remain surprisingly resistant to [correction]({{ 'correction/' | relative_url }}). The issue is not simply a lack of scientific evidence. Family advice often carries emotional authority, personal history and a sense of loyalty. Rejecting the advice can feel like questioning the judgement of people who provided comfort, protection and practical help throughout life. Research on health misinformation consistently finds that trust, familiarity and social relationships influence which [health claims]({{ 'health-claims/' | relative_url }}) people accept and how willing they are to revise them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nam.edu">[NAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nam.edu</span><span class="citation-popover-snippet">Identifying Credible Sources of Health Information in Social...by RS Kington · Cited by 278 — People seek, share, and receive health...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIWE CAN TAKE ACTION</span><span class="citation-popover-snippet">Confronting Health MisinformationBecause it pollutes our information environment, misinformation is harmful to individual and public heal...</span></span></span>
 
 ## How affection becomes credibility
 
@@ -286,7 +285,7 @@ People learn their earliest health habits from family long before they learn how
 
 A child who repeatedly hears that antibiotics are needed for every cold, that “natural” remedies are always safer than medicine, or that certain foods prevent disease may not store these ideas as isolated facts. Instead, the ideas become woven into memories of care and protection. The advice is associated with someone who was trusted during vulnerable moments.
 
-Psychologists sometimes describe this as source-based credibility. People do not assess every claim independently. They rely on cues about who is speaking and whether that person has been dependable in the past. Family members score highly on perceived trustworthiness even when they have no special expertise in medicine. Research from the US National Academy of Medicine notes that people regularly obtain health information from family and friends alongside professional and institutional sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nam.edu">[NAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nam.edu</span><span class="citation-popover-snippet">NAMIdentifying Credible Sources of Health Information in Social...by RS Kington · Cited by 278 — People seek, share, and receive health...</span></span></span>
+Psychologists sometimes describe this as source-based credibility. People do not assess every claim independently. They rely on cues about who is speaking and whether that person has been dependable in the past. Family members score highly on perceived trustworthiness even when they have no special expertise in medicine. Research from the US National Academy of Medicine notes that people regularly obtain health information from family and friends alongside professional and institutional sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nam.edu">[NAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nam.edu</span><span class="citation-popover-snippet">Identifying Credible Sources of Health Information in Social...by RS Kington · Cited by 278 — People seek, share, and receive health...</span></span></span>
 
 This is one reason myths can feel emotionally true even after they have been factually challenged. The correction competes not only with the claim itself but also with years of accumulated trust.
 
@@ -303,9 +302,6 @@ This mismatch helps myths survive. A family story feels concrete. A clinical stu
 Health misinformation researchers have repeatedly found that anecdotal evidence and personal testimony can increase the perceived credibility of unsupported claims. Emotional narratives are easier to remember and share than nuanced explanations that include uncertainty or statistical reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asm.org">[ASM.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asm.org</span><span class="citation-popover-title">This article offers tips for how to recognize and combat misinformation,</span><span class="citation-popover-snippet">How to Spot and Combat Health MisinformationSeptember 9, 2022 — 9 Sept 2022 — The spread of health misinformation has dangerous consequences...</span><span class="citation-popover-meta">Published: September 9, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.healthpolicypartnership.com/rebuilding-trust-in-public-health-the-battle-against-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthpolicypartnership.com">[The Health Policy Partnership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthpolicypartnership.com</span><span class="citation-popover-title">rebuilding trust in public health the battle against misinformation</span><span class="citation-popover-snippet">The Health Policy PartnershipRebuilding trust in public health: the battle against...27 Feb 2025 — Health misinformation is often develo...</span></span></span>
 
 The result is that a single family experience can sometimes outweigh decades of accumulated medical evidence in a person's mind.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KdXaUsNvntY" title="Truth, Trust, and TikTok: How Disinformation and Digital Harm Threaten Child Health" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KdXaUsNvntY" target="_blank" rel="noopener noreferrer">Truth, Trust, and TikTok: How Disinformation and Digital Harm Threaten Child Health</a></p><p class="youtube-embed-meta">Channel: Children&#x27;s Healthcare Canada &middot; Views: 293 &middot; Uploaded: July 2025 &middot; Length: 1 hour 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KdXaUsNvntY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KdXaUsNvntY">Open on YouTube</a></p></div></div></div>
 
 ## When family experience outranks outside evidence
 
@@ -326,9 +322,6 @@ Yet family knowledge often gains authority precisely because it appears to come 
 
 In everyday life, "I've seen it myself" can feel more convincing than "research shows otherwise".
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yvHt42uxoI8" title="Communicating Science (in a science-skeptical world)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yvHt42uxoI8" target="_blank" rel="noopener noreferrer">Communicating Science (in a science-skeptical world)</a></p><p class="youtube-embed-meta">Channel: Commonwealth Club World Affairs of California</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yvHt42uxoI8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yvHt42uxoI8">Open on YouTube</a></p></div></div></div>
-
 ## Why correcting a myth can feel like betraying someone
 
 One overlooked reason family health myths persist is that changing a belief can carry social costs.
@@ -342,7 +335,6 @@ This is particularly visible when health practices are linked to family traditio
 Research on misinformation correction suggests that people can resist updates when new information appears to threaten trusted relationships or social belonging. [Corrections]({{ 'corrections/' | relative_url }}) are often less successful when they are experienced as attacks rather than invitations to reconsider evidence. NCBI <span class="citation-chip-wrap"><a class="citation-chip" href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asm.org">[ASM.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asm.org</span><span class="citation-popover-title">This article offers tips for how to recognize and combat misinformation,</span><span class="citation-popover-snippet">How to Spot and Combat Health MisinformationSeptember 9, 2022 — 9 Sept 2022 — The spread of health misinformation has dangerous consequences...</span><span class="citation-popover-meta">Published: September 9, 2022</span></span></span>
 
 In families, this dynamic is amplified because the relationship usually matters more than winning an argument.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_family_health_myths_cdb0f5-Illustration-2-dark.svg" | relative_url }}" alt="Family Advice illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_family_health_myths_cdb0f5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_family_health_myths_cdb0f5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The role of repetition inside families
@@ -363,12 +355,11 @@ People often assume that once someone encounters accurate information, the myth 
 
 A person may intellectually accept that a family health belief is unsupported while still feeling emotionally attached to it. They may continue following parts of the advice "just in case". Others may compartmentalise, trusting medical professionals for major decisions while preserving family remedies for minor illnesses.
 
-This helps explain why misinformation can remain influential even after correction. Researchers studying misinformation describe a "[continued influence]({{ 'old-stories/' | relative_url }})" effect, where previously learned claims continue shaping judgement after being disproved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asm.org">[ASM.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asm.org</span><span class="citation-popover-title">This article offers tips for how to recognize and combat misinformation,</span><span class="citation-popover-snippet">How to Spot and Combat Health MisinformationSeptember 9, 2022 — 9 Sept 2022 — The spread of health misinformation has dangerous consequences...</span><span class="citation-popover-meta">Published: September 9, 2022</span></span></span>
+This helps explain why misinformation can remain influential even [after correction]({{ 'after-correction/' | relative_url }}). Researchers studying misinformation describe a "continued influence" effect, where previously learned claims continue shaping judgement after being disproved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asm.org">[ASM.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asm.org</span><span class="citation-popover-title">This article offers tips for how to recognize and combat misinformation,</span><span class="citation-popover-snippet">How to Spot and Combat Health MisinformationSeptember 9, 2022 — 9 Sept 2022 — The spread of health misinformation has dangerous consequences...</span><span class="citation-popover-meta">Published: September 9, 2022</span></span></span>
 
 Family myths are especially vulnerable to this effect because they are embedded in routines, memories and relationships. The factual correction may succeed, but the emotional residue remains.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eu8WzvY_vLg" title="Why Facts Don&#x27;t Change Our Mind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eu8WzvY_vLg" target="_blank" rel="noopener noreferrer">Why Facts Don&#x27;t Change Our Mind</a></p><p class="youtube-embed-meta">Channel: FunFlix</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eu8WzvY_vLg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eu8WzvY_vLg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KdXaUsNvntY" title="Truth, Trust, and TikTok: How Disinformation and Digital Harm Threaten Child Health" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KdXaUsNvntY" target="_blank" rel="noopener noreferrer">Truth, Trust, and TikTok: How Disinformation and Digital Harm Threaten Child Health</a></p><p class="youtube-embed-meta">Channel: Children&#x27;s Healthcare Canada &middot; Views: 293 &middot; Uploaded: July 2025 &middot; Length: 1 hour 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KdXaUsNvntY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KdXaUsNvntY">Open on YouTube</a></p></div></div></div>
 
 ## How to correct without insulting the relationship
 
@@ -402,13 +393,12 @@ Deeply rooted beliefs rarely disappear after a single discussion. Small shifts i
 
 The goal is not merely to replace false information with correct information. It is to do so without damaging the trust that makes family relationships valuable in the first place.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_family_health_myths_cdb0f5-Illustration-3-dark.svg" | relative_url }}" alt="Family Advice illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_family_health_myths_cdb0f5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_family_health_myths_cdb0f5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why family myths remain one of the hardest forms of misinformation
 
 Many health myths survive because they are carried by the people who first taught individuals how to navigate illness, safety and risk. Family advice arrives wrapped in affection, familiarity and personal history. It is reinforced by stories, repetition and loyalty, then protected by the desire to maintain important relationships.
 
-That combination makes family-based misconceptions unusually durable. The myth is rarely standing alone. It is supported by memories of care, a trusted source and a sense of belonging. Understanding that emotional structure helps explain why correcting health misinformation is often as much a social challenge as an informational one. The strongest corrections do not merely present better evidence; they find ways to preserve trust while making room for new understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nam.edu">[NAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nam.edu</span><span class="citation-popover-snippet">NAMIdentifying Credible Sources of Health Information in Social...by RS Kington · Cited by 278 — People seek, share, and receive health...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIWE CAN TAKE ACTION</span><span class="citation-popover-snippet">Confronting Health MisinformationBecause it pollutes our information environment, misinformation is harmful to individual and public heal...</span></span></span>
+That combination makes family-based misconceptions unusually durable. The myth is rarely standing alone. It is supported by memories of care, a trusted source and a sense of belonging. Understanding that emotional structure helps explain why correcting health misinformation is often as much a social challenge as an informational one. The strongest corrections do not merely present better evidence; they find ways to preserve trust while making room for new understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nam.edu">[NAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nam.edu</span><span class="citation-popover-snippet">Identifying Credible Sources of Health Information in Social...by RS Kington · Cited by 278 — People seek, share, and receive health...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIWE CAN TAKE ACTION</span><span class="citation-popover-snippet">Confronting Health MisinformationBecause it pollutes our information environment, misinformation is harmful to individual and public heal...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -806,100 +796,100 @@ That combination makes family-based misconceptions unusually durable. The myth i
 
 1. <a id="endnote-1"></a>
    Source: nam.edu  
-   Link: [https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/](https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NAMIdentifying Credible Sources of Health Information in Social...by RS Kington · Cited by 278 — People seek, share, and receive health...</p></details>
+   Link: <a href="https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/" target="_blank" rel="noopener noreferrer nofollow">https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Credible Sources of Health Information in Social...by RS Kington · Cited by 278 — People seek, share, and receive health...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: asm.org  
    Title: This article offers tips for how to recognize and combat misinformation,  
-   Link: [https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation](https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation)  
+   Link: <a href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Spot and Combat Health MisinformationSeptember 9, 2022 — 9 Sept 2022 — The spread of health misinformation has dangerous consequences...</p></details>
    Published: September 9, 2022  
 
 3. <a id="endnote-3"></a>
    Source: infodemiology.jmir.org  
-   Link: [https://infodemiology.jmir.org/2025/1/e67464](https://infodemiology.jmir.org/2025/1/e67464)  
+   Link: <a href="https://infodemiology.jmir.org/2025/1/e67464" target="_blank" rel="noopener noreferrer nofollow">https://infodemiology.jmir.org/2025/1/e67464</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the General Public Navigates Health Misinformation on...by S Sathianathan · 2025 · Cited by 13 — This study aims to explore the appr...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: apa.org  
    Title: ending health misinformation  
-   Link: [https://www.apa.org/monitor/2024/07/ending-health-misinformation](https://www.apa.org/monitor/2024/07/ending-health-misinformation)  
+   Link: <a href="https://www.apa.org/monitor/2024/07/ending-health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/monitor/2024/07/ending-health-misinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to reverse the alarming trend of health misinformation1 Jul 2024 — Experts are studying how false information spreads, who is most vu...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: apa.org  
    Title: hea hea0000978  
-   Link: [https://www.apa.org/pubs/journals/releases/hea-hea0000978.pdf](https://www.apa.org/pubs/journals/releases/hea-hea0000978.pdf)  
+   Link: <a href="https://www.apa.org/pubs/journals/releases/hea-hea0000978.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/hea-hea0000978.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Who Is Susceptible to Online Health Misinformation?by LD Scherer · 2021 · Cited by 227 — Misinformation susceptibility across all three t...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: who.int  
-   Link: [https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds](https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds)  
+   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemics and misinformation negatively affect people&#x27;s...1 Sept 2022 — The systematic review found that people feel mental, social, po...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: healthpolicypartnership.com  
    Title: rebuilding trust in public health the battle against misinformation  
-   Link: [https://www.healthpolicypartnership.com/rebuilding-trust-in-public-health-the-battle-against-misinformation/](https://www.healthpolicypartnership.com/rebuilding-trust-in-public-health-the-battle-against-misinformation/)  
+   Link: <a href="https://www.healthpolicypartnership.com/rebuilding-trust-in-public-health-the-battle-against-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.healthpolicypartnership.com/rebuilding-trust-in-public-health-the-battle-against-misinformation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Health Policy PartnershipRebuilding trust in public health: the battle against...27 Feb 2025 — Health misinformation is often develo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: guides.library.ubc.ca  
-   Link: [https://guides.library.ubc.ca/healthmisinformation/communication](https://guides.library.ubc.ca/healthmisinformation/communication)  
+   Link: <a href="https://guides.library.ubc.ca/healthmisinformation/communication" target="_blank" rel="noopener noreferrer nofollow">https://guides.library.ubc.ca/healthmisinformation/communication</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UBC Library GuidesEvaluating Health Misinformation7 Mar 2025 — Below are some guidelines for the “Do&#x27;s” and “Don&#x27;ts” for addressing misin...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: rch.org.au  
-   Link: [https://www.rch.org.au/kidsinfo/fact_sheets/How_to_find_health_information_you_can_trust/](https://www.rch.org.au/kidsinfo/fact_sheets/How_to_find_health_information_you_can_trust/)  
+   Link: <a href="https://www.rch.org.au/kidsinfo/fact_sheets/How_to_find_health_information_you_can_trust/" target="_blank" rel="noopener noreferrer nofollow">https://www.rch.org.au/kidsinfo/fact_sheets/How_to_find_health_information_you_can_trust/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation is false information spread on purpose to harm or trick others. Mis and disinformation can stop you from...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=KdXaUsNvntY](https://www.youtube.com/watch?v=KdXaUsNvntY)  
+   Link: <a href="https://www.youtube.com/watch?v=KdXaUsNvntY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KdXaUsNvntY</a>  
 
 11. <a id="endnote-11"></a>
    Source: europarl.europa.eu  
    Title: eu How to reduce the impact of disinformation on Europeans' health  
-   Link: [https://www.europarl.europa.eu/RegData/etudes/STUD/2024/754205/IPOL_STU%282024%29754205_EN.pdf](https://www.europarl.europa.eu/RegData/etudes/STUD/2024/754205/IPOL_STU%282024%29754205_EN.pdf)  
+   Link: <a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2024/754205/IPOL_STU%282024%29754205_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/STUD/2024/754205/IPOL_STU%282024%29754205_EN.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This paper provides a broad overview of the emerging challenges connected with disinformation in the area of health, how it spreads and t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ballardbrief.byu.edu  
    Title: the effects of medical misinformation on the american public  
-   Link: [https://ballardbrief.byu.edu/issue-briefs/the-effects-of-medical-misinformation-on-the-american-public](https://ballardbrief.byu.edu/issue-briefs/the-effects-of-medical-misinformation-on-the-american-public)  
+   Link: <a href="https://ballardbrief.byu.edu/issue-briefs/the-effects-of-medical-misinformation-on-the-american-public" target="_blank" rel="noopener noreferrer nofollow">https://ballardbrief.byu.edu/issue-briefs/the-effects-of-medical-misinformation-on-the-american-public</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ballard BriefThe Effects of Medical Misinformation on the American Public15 Mar 2024 — Medical misinformation causes higher rates of deat...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: premierscience.com  
-   Link: [https://premierscience.com/pjph-24-353/](https://premierscience.com/pjph-24-353/)  
+   Link: <a href="https://premierscience.com/pjph-24-353/" target="_blank" rel="noopener noreferrer nofollow">https://premierscience.com/pjph-24-353/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>al health risks, especially in networks where peers have a lot of power.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIWE CAN TAKE ACTION  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK572168/](https://www.ncbi.nlm.nih.gov/books/NBK572168/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK572168/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health MisinformationBecause it pollutes our information environment, misinformation is harmful to individual and public heal...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: rch.org.au  
-   Link: [https://www.rch.org.au/kidsinfo/healthinfo/](https://www.rch.org.au/kidsinfo/healthinfo/)  
+   Link: <a href="https://www.rch.org.au/kidsinfo/healthinfo/" target="_blank" rel="noopener noreferrer nofollow">https://www.rch.org.au/kidsinfo/healthinfo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kids Health Info: How to find health information you can trustMis and disinformation can stop you from making safe decisions about your...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: gov.scot  
    Title: www.gov.scot Footnotes  
-   Link: [https://www.gov.scot/publications/scottish-health-information-integrity-strategy/pages/19/](https://www.gov.scot/publications/scottish-health-information-integrity-strategy/pages/19/)  
+   Link: <a href="https://www.gov.scot/publications/scottish-health-information-integrity-strategy/pages/19/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/publications/scottish-health-information-integrity-strategy/pages/19/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scottish Health Information Integrity Strategy31 Oct 2025 — Sets out the framework for safe, coherent, evidence-based and ethical approac...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11369541/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11369541/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby D Kbaier · 2024 · Cited by 105 — This scoping review underscores the significance of addressing online health misinformation, parti...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11369541/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11369541/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by D Kbaier · 2024 · Cited by 105 — This scoping review underscores the significance of addressing online health misinformation, parti...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12412888/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12412888/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12412888/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12412888/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Misinformation on Social Media and Public...by JP Stimpson · 2025 · Cited by 13 — This study examines the role of healthcare visi...</p></details>

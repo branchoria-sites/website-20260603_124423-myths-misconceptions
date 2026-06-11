@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_learning_styles_matc_6c54f1
 - Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_left_right_brain_lab_f1b4e4
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - neuromyths
 - training-rubrics
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - neuromyths
 - training-rubrics
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Neuromyths spread when training templates and observation rubrics treat weak brain claims as professional standards.
 hero_summary: Neuromyths spread when training templates and observation rubrics treat weak brain claims as professional standards.
 layout: default
 permalink: /training-rubrics/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /neuromyths/
 nav_short_title: Training rubrics
 title: How teacher training can preserve myths
-title_full: How teacher training can preserve myths | Neuromyths
+title_full: How teacher training can preserve myths
 display_title_short: Training rubrics
 display_title: Training rubrics
 heading_title: How teacher training can preserve myths
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Brain Myths Spread in Schools | Mythcraft
+parent_title: Why Brain Myths Spread in Schools
 parent_permalink: /neuromyths/
 parent_nav_short_title: Neuromyths
 parent_heading_title: Why Brain Myths Spread in Schools
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Do learning styles really improve lessons?
 up_link:
   basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
@@ -259,7 +259,7 @@ prev_link:
   permalink: /learning-styles-17c40a/
   short_title: Learning styles
   heading_title: Do learning styles really improve lessons?
-date: '2026-06-09 05:39:08 '
+date: '2026-06-11 22:38:48 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_teacher_training_rub_152f08-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_teacher_training_rub_152f08-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_te
 
 Teacher education does not usually spread [neuromyths]({{ 'neuromyths/' | relative_url }}) through dramatic claims about the brain. More often, myths survive because they are woven into ordinary professional routines: lesson-plan templates, observation forms, continuing professional development (CPD) materials and assessment rubrics. When trainee teachers are praised for identifying “visual learners”, criticised for not matching activities to learning styles, or encouraged to justify decisions with weak neuroscience language, the myth becomes part of professional judgement rather than a fringe belief.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_teacher_training_rub_152f08-Illustration-1-dark.svg" | relative_url }}" alt="Training rubrics illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_teacher_training_rub_152f08-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_teacher_training_rub_152f08-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because training systems do more than transmit information. They define what counts as good teaching. Research on neuromyths repeatedly finds that educators can possess substantial neuroscience knowledge while still endorsing misconceptions such as learning styles, hemispheric dominance or other “brain-based” classroom claims. The problem is therefore not simply ignorance. It is that institutional habits can reward the language of neuromyths even when evidence for the underlying practice is weak. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28848461/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedDispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 453 — These findings suggest that tr...</span></span></span>
+This matters because training systems do more than transmit information. They define what counts as good teaching. Research on neuromyths repeatedly finds that educators can possess substantial neuroscience knowledge while still endorsing misconceptions such as learning styles, hemispheric dominance or other “brain-based” classroom claims. The problem is therefore not simply ignorance. It is that institutional habits can reward the language of neuromyths even when evidence for the underlying practice is weak. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28848461/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 453 — These findings suggest that tr...</span></span></span>
 
 ## Where neuromyth language appears in training
 
@@ -288,7 +287,7 @@ A common example is the learning-styles framework. Researchers have repeatedly f
 
 In these situations, a trainee teacher may encounter conflicting messages. Research literature may question the effectiveness of learning-style matching, yet assessment systems may still reward its use. The result is a powerful incentive structure: teachers learn not only the myth itself but also its institutional value.
 
-Higher education research has highlighted this problem. Analyses of educational literature have found that learning-styles concepts continue to appear positively in many educational publications and teacher-training resources even after major evidence reviews challenged their scientific basis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span>
+Higher education research has highlighted this problem. Analyses of educational literature have found that learning-styles concepts continue to appear positively in many educational publications and teacher-training resources even after major evidence reviews challenged their scientific basis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span>
 
 ### When observation frameworks mistake variety for validation
 
@@ -300,18 +299,15 @@ This creates a subtle but important confusion. Diverse teaching methods can supp
 
 Researchers studying the persistence of learning-styles beliefs note that teachers often observe engagement when using varied activities and then interpret that engagement through a learning-styles framework. The successful lesson reinforces the myth even though the mechanism behind the success may be entirely different. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00444/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Visual, Auditory, Converger) and that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00444/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Visual, Auditory, Converger) and that...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xp805f-j1VI" title="Why People with ADHD Procrastinate (And 4 Brain-Based Ways to Get Started)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xp805f-j1VI" target="_blank" rel="noopener noreferrer">Why People with ADHD Procrastinate (And 4 Brain-Based Ways to Get Started)</a></p><p class="youtube-embed-meta">Channel: Dr. Tracey Marks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xp805f-j1VI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xp805f-j1VI">Open on YouTube</a></p></div></div></div>
-
 ## Why enthusiasm for neuroscience is not enough
 
 Many teacher educators are motivated by a legitimate goal: connecting classroom practice with modern science. The difficulty is that neuroscience findings do not translate directly into teaching methods.
 
-Studies examining neuromyth beliefs have repeatedly found that educators with greater interest in neuroscience are not automatically protected from misconceptions. In some cases, exposure to brain-related information can coexist with strong endorsement of myths. Researchers have suggested that partial knowledge may even increase [confidence]({{ 'confidence/' | relative_url }}) in oversimplified claims when educators lack tools for evaluating evidence quality. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28848461/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedDispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 453 — These findings suggest that tr...</span></span></span>
+Studies examining neuromyth beliefs have repeatedly found that educators with greater interest in neuroscience are not automatically protected from misconceptions. In some cases, exposure to brain-related information can coexist with strong endorsement of myths. Researchers have suggested that partial knowledge may even increase [confidence]({{ 'confidence/' | relative_url }}) in oversimplified claims when educators lack tools for evaluating evidence quality. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28848461/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 453 — These findings suggest that tr...</span></span></span>
 
 This helps explain why neuromyth language survives in professional training. Brain terminology carries authority. Terms such as:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[* “left-brain versus right-brain learners”]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-title">neuromyths about special educational needs what should teachers know</span><span class="citation-popover-snippet">about Special Educational Needs20 Sept 2022 — Some of the most common neuromyths include the beliefs that humans only use 10 per cent of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/nature-index/topics/l4/educational-neuroscience-and-teacher-practices" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[* “brain-compatible learning”]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Educational Neuroscience and Teacher PracticesNeuromyth: A widely held but unfounded belief about brain function and its application to t...</span></span></span>
+* “left-brain versus right-brain learners” <span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[my.chartered.college]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-title">neuromyths about special educational needs what should teachers know</span><span class="citation-popover-snippet">about Special Educational Needs20 Sept 2022 — Some of the most common neuromyths include the beliefs that humans only use 10 per cent of...</span></span></span> * “brain-compatible learning” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/nature-index/topics/l4/educational-neuroscience-and-teacher-practices" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Educational Neuroscience and Teacher PracticesNeuromyth: A widely held but unfounded belief about brain function and its application to t...</span></span></span>
 * “rewiring pathways”
 * “critical learning windows”
 * “kinaesthetic brain preference”
@@ -326,7 +322,6 @@ Neuromyths are especially resilient when they can be converted into simple check
 
 A rubric can easily record whether a trainee:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * identified learning styles; <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10212-020-00485-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">learning styles neuromyth: when the same term means...by M Papadatou-Pastou · 2021 · Cited by 134 — A study into neuromyths in education...</span></span></span>
@@ -339,7 +334,6 @@ A rubric can easily record whether a trainee:
 By contrast, more evidence-informed questions are harder to score quickly. Assessing whether an explanation reduced cognitive load, whether retrieval opportunities were effective or whether misconceptions were successfully addressed often requires deeper professional judgement.
 
 The governance challenge is therefore structural. Simplified myths can become attractive because they are easier to standardise and observe than complex evidence-based reasoning.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_teacher_training_rub_152f08-Illustration-2-dark.svg" | relative_url }}" alt="Training rubrics illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_teacher_training_rub_152f08-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_teacher_training_rub_152f08-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How training materials can accidentally normalise myths
@@ -356,12 +350,10 @@ Legitimate educational concernNeuromyth versionLearners differ in prior knowledg
 
 When rubrics fail to distinguish between these ideas, myths can gain institutional legitimacy.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c7UZP3irJ3I" title="Reading Wars | Phonics vs. Whole Word" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c7UZP3irJ3I" target="_blank" rel="noopener noreferrer">Reading Wars | Phonics vs. Whole Word</a></p><p class="youtube-embed-meta">Channel: Jared Cooney Horvath</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c7UZP3irJ3I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c7UZP3irJ3I">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_teacher_training_rub_152f08-Illustration-3-dark.svg" | relative_url }}" alt="Training rubrics illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_teacher_training_rub_152f08-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_teacher_training_rub_152f08-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How evidence checks can improve professional judgement
 
-Reducing neuromyths in teacher education does not require removing neuroscience from training. In fact, several researchers argue for better neuroscience education rather than less of it. The key difference is teaching future teachers how to evaluate claims instead of asking them to accept brain-based explanations at face value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28848461/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedDispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 453 — These findings suggest that tr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00444/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Visual, Auditory, Converger) and that...</span></span></span>
+Reducing neuromyths in teacher education does not require removing neuroscience from training. In fact, several researchers argue for better neuroscience education rather than less of it. The key difference is teaching future teachers how to evaluate claims instead of asking them to accept brain-based explanations at face value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28848461/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 453 — These findings suggest that tr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00444/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Visual, Auditory, Converger) and that...</span></span></span>
 
 One practical change is shifting assessment language away from myth-based categories and towards evidence questions.
 
@@ -370,7 +362,6 @@ Instead of asking:
 * "How did the lesson address visual, auditory and kinaesthetic learners?"
 
 A rubric could ask:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -384,9 +375,6 @@ A rubric could ask:
 These questions focus attention on observable learning processes rather than speculative brain claims.
 
 Another useful safeguard is requiring evidence chains. Trainees can be encouraged to explain:
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_teacher_training_rub_152f08-Illustration-3-dark.svg" | relative_url }}" alt="Training rubrics illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_teacher_training_rub_152f08-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_teacher_training_rub_152f08-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -411,9 +399,6 @@ Several recurring warning signs appear across neuromyth research and professiona
 * Assessment rubrics that reward neuroscience terminology more than evidence of learning.
 
 Reviews of neuromyth research consistently point to the need for stronger critical evaluation skills, better communication between researchers and educators, and higher-quality evidence literacy within teacher preparation programmes. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00444/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Visual, Auditory, Converger) and that...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhgwIhB58PA" title="The Biggest Myth In Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer">The Biggest Myth In Education</a></p><p class="youtube-embed-meta">Channel: Veritasium</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhgwIhB58PA">Open on YouTube</a></p></div></div></div>
 
 ## Professional standards shape what survives
 
@@ -819,148 +804,148 @@ The persistence of learning-styles beliefs illustrates this dynamic. Despite dec
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 259 — The findings present neuromyths...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 259 — The findings present neuromyths...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10212-020-00485-2](https://link.springer.com/article/10.1007/s10212-020-00485-2)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10212-020-00485-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10212-020-00485-2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>learning styles neuromyth: when the same term means...by M Papadatou-Pastou · 2021 · Cited by 134 — A study into neuromyths in education...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Learning Styles Myth is Thriving in Higher Education  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby PM Newton · 2015 · Cited by 473 — The existence of &#x27;Learning Styles&#x27; is a common &#x27;neuromyth&#x27;, and their use in all forms of educati...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by PM Newton · 2015 · Cited by 473 — The existence of &#x27;Learning Styles&#x27; is a common &#x27;neuromyth&#x27;, and their use in all forms of educati...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: dana.org  
-   Link: [https://dana.org/article/when-the-myth-is-the-message-neuromyths-and-education/](https://dana.org/article/when-the-myth-is-the-message-neuromyths-and-education/)  
+   Link: <a href="https://dana.org/article/when-the-myth-is-the-message-neuromyths-and-education/" target="_blank" rel="noopener noreferrer nofollow">https://dana.org/article/when-the-myth-is-the-message-neuromyths-and-education/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dana FoundationWhen the Myth is the Message: Neuromyths and EducationWe investigate some of the most common neuromyths that pervade the e...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCIs it really a neuromyth?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 22 — The purpose of this study was to conduct a meta-anal...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: bps.org.uk  
    Title: learning styles myth still prevalent among educators and it shows no sign going  
-   Link: [https://www.bps.org.uk/research-digest/learning-styles-myth-still-prevalent-among-educators-and-it-shows-no-sign-going](https://www.bps.org.uk/research-digest/learning-styles-myth-still-prevalent-among-educators-and-it-shows-no-sign-going)  
+   Link: <a href="https://www.bps.org.uk/research-digest/learning-styles-myth-still-prevalent-among-educators-and-it-shows-no-sign-going" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/research-digest/learning-styles-myth-still-prevalent-among-educators-and-it-shows-no-sign-going</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The “learning styles” myth is still prevalent among educators4 Feb 2021 — The idea that people learn better when taught in a way that mat...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/28848461/](https://pubmed.ncbi.nlm.nih.gov/28848461/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedDispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 453 — These findings suggest that tr...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28848461/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28848461/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 453 — These findings suggest that tr...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00444/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00444/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00444/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00444/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual, Auditory, Converger) and that...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full)  
+   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe persistence of matching teaching and learning stylesby SBRE Brown · 2023 · Cited by 35 — One such neuromyth claims that matc...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There is no evidence to back up that some people are “auditory learners” or “visual learners” etc.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — These findings suggest that training...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full)  
+   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersReview on the Prevalence and Persistence of Neuromyths...by F Grospietsch · 2021 · Cited by 87 — This review article provides a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 273 — After two decades of publications o...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/34973019/](https://pubmed.ncbi.nlm.nih.gov/34973019/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34973019/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34973019/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Neuromyth of Learning Styleby A Yfanti · 2021 · Cited by 13 — In this study, neuromyths and the problems leading to education are ini...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: frontiersin.org  
    Title: Is it really a neuromyth?  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1428732/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1428732/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1428732/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1428732/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the learning...by V Clinton-Lisell · 2024 · Cited by 27 — The purpose of this study was to conduct a meta-analysis of...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: boldscience.org  
    Title: Neuromyths in education  
-   Link: [https://boldscience.org/neuromyths-in-education/](https://boldscience.org/neuromyths-in-education/)  
+   Link: <a href="https://boldscience.org/neuromyths-in-education/" target="_blank" rel="noopener noreferrer nofollow">https://boldscience.org/neuromyths-in-education/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BOLD16 Oct 2017 — Surveys of neuromyths tell us about teacher beliefs, we are lacking information about how these have a real impact in t...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/](https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/)  
+   Link: <a href="https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>role for educational neuroscience in teacher training.20 Sept 2022 — The current study aimed to understand the degree to which practising...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
    Title: teachers neuromyth learning styles scientists neuroscience education  
-   Link: [https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education](https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education)  
+   Link: <a href="https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Teachers must ditch &#x27;neuromyth&#x27; of learning styles, say...12 Mar 2017 — Teaching children according to their individual “learning style”...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: my.chartered.college  
    Title: neuromyths about special educational needs what should teachers know  
-   Link: [https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/](https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/)  
+   Link: <a href="https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>about Special Educational Needs20 Sept 2022 — Some of the most common neuromyths include the beliefs that humans only use 10 per cent of...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: educationalneuroscience.org.uk  
    Title: children have different learning styles  
-   Link: [https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/](https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/)  
+   Link: <a href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A survey from 2012 found that up to 93% of UK teachers believed in learning styles [v], and as recently as 2021, learning styles continue...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/educational-neuroscience-and-teacher-practices](https://www.nature.com/nature-index/topics/l4/educational-neuroscience-and-teacher-practices)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/educational-neuroscience-and-teacher-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/educational-neuroscience-and-teacher-practices</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational Neuroscience and Teacher PracticesNeuromyth: A widely held but unfounded belief about brain function and its application to t...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: cis.org.au  
    Title: knowledge is power what do teachers believe about learning  
-   Link: [https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/](https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/)  
+   Link: <a href="https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge is power: What do teachers believe about...30 Oct 2025 — Specific studies on certain neuromyths such as learning styles and he...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: discovery.ucl.ac.uk  
    Title: Tolmie Issue paper Chartered College of Teaching  
-   Link: [https://discovery.ucl.ac.uk/id/eprint/10156236/1/Tolmie_Issue%20paper-Chartered%20College%20of%20Teaching.pdf](https://discovery.ucl.ac.uk/id/eprint/10156236/1/Tolmie_Issue%20paper-Chartered%20College%20of%20Teaching.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10156236/1/Tolmie_Issue%20paper-Chartered%20College%20of%20Teaching.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10156236/1/Tolmie_Issue%20paper-Chartered%20College%20of%20Teaching.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryTeachers&#x27; understanding of neuromyths: A role for educational...by Y Arslan · 2022 · Cited by 8 — [Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) neuromyths thro...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: nifdi.org  
-   Link: [https://www.nifdi.org/what-is-di/88-news/kerry-hempenstall/814-neuroscience-and-education-where-to.html](https://www.nifdi.org/what-is-di/88-news/kerry-hempenstall/814-neuroscience-and-education-where-to.html)  
+   Link: <a href="https://www.nifdi.org/what-is-di/88-news/kerry-hempenstall/814-neuroscience-and-education-where-to.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/what-is-di/88-news/kerry-hempenstall/814-neuroscience-and-education-where-to.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cline over the past decade. Potential adverse effects of...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: niot.org.uk  
    Title: neuromyths in the classroom and the role of critical thinking  
-   Link: [https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking](https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking)  
+   Link: <a href="https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Dec 2025 — Discover what our study of 570 teacher trainees revealed about widespread neuromyths in education...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: bera.ac.uk  
-   Link: [https://www.bera.ac.uk/blog/neuromyths-in-schools](https://www.bera.ac.uk/blog/neuromyths-in-schools)  
+   Link: <a href="https://www.bera.ac.uk/blog/neuromyths-in-schools" target="_blank" rel="noopener noreferrer nofollow">https://www.bera.ac.uk/blog/neuromyths-in-schools</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VAK learning styles (Dinham, 2016). It might lead...Read more...</p></details>

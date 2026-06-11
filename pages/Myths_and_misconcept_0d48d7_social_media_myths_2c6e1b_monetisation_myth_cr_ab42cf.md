@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449
 - Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - algorithms
 - creator-rewards
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - algorithms
 - creator-rewards
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: When attention can become followers, revenue or influence, creators have incentives to package myths in repeatable, engaging forms.
 hero_summary: When attention can become followers, revenue or influence, creators have incentives to package myths in repeatable, engaging forms.
 layout: default
 permalink: /creator-rewards/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /algorithms/
 nav_short_title: Creator Rewards
 title: When Myths Become a Business Model
-title_full: When Myths Become a Business Model | Algorithms
+title_full: When Myths Become a Business Model
 display_title_short: Creator Rewards
 display_title: Creator Rewards
 heading_title: When Myths Become a Business Model
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Platforms Help Myths Travel Faster | Mythcraft
+parent_title: How Platforms Help Myths Travel Faster
 parent_permalink: /algorithms/
 parent_nav_short_title: Algorithms
 parent_heading_title: How Platforms Help Myths Travel Faster
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Small Rumours Become Mass Myths
 up_link:
   basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
@@ -259,7 +259,7 @@ next_link:
   permalink: /feed-fixes/
   short_title: Feed Fixes
   heading_title: Are Chronological Feeds Enough?
-date: '2026-06-09 04:34:22 '
+date: '2026-06-11 22:06:44 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-1.webp
@@ -270,14 +270,12 @@ image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_mone
 
 Online myths do not spread only because people believe them. They also spread because, on many [platforms]({{ 'platforms/' | relative_url }}), attention can be converted into followers, advertising revenue, sponsorship deals, subscriptions, affiliate sales and political influence. When creators discover that sensational claims reliably attract views, they may begin producing them repeatedly, turning myth-making from an occasional activity into a predictable content strategy.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-1-dark.svg" | relative_url }}" alt="Creator Rewards illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean every creator who discusses controversial topics is acting in bad faith. However, research on misinformation, influencer marketing and platform incentives shows that a relatively small number of highly active accounts often account for a disproportionate share of misleading content, while financial and status rewards can encourage continued production. The result is a feedback loop: myths generate engagement, engagement increases visibility, and visibility can create income and influence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-title">how social media rewards misinformation</span><span class="citation-popover-snippet">A majority of false stories are spread by a small number of frequent users, suggests a new study co-...Read more...</span></span></span>
 
 ## How Visibility Converts into Money and Status
 
 The creator economy rewards attention. On platforms such as YouTube, TikTok, Facebook and Instagram, visibility can be monetised through several channels:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,7 +299,6 @@ Status can be as important as money. Large audiences create social authority. A 
 Many successful myth-based creators do not rely on a single false claim. Instead, they develop repeatable formats that can be applied again and again.
 
 Typical templates include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -327,7 +324,6 @@ Recent reporting and research have raised concerns that creator reward programme
 
 The concern is not merely theoretical. Investigations have identified networks of channels producing large volumes of misleading or fabricated content while attracting substantial audiences and, in some cases, monetisation opportunities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2025/dec/13/fake-anti-labour-video-billion-views-youtube-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">fake anti labour video billion views youtube 2025</span><span class="citation-popover-snippet">A study by nonprofit Reset Tech revealed these channels collectively amassed 5.3 million subscribers and produced 56,000 videos, with Sta...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-2-dark.svg" | relative_url }}" alt="Creator Rewards illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Audiences Reward Myth-Making
 
@@ -350,13 +346,11 @@ Research on misinformation sharing suggests that repeated engagement can become 
 
 For creators, this can produce a gradual shift in incentives. Even individuals who begin with genuine curiosity may discover that dramatic claims outperform nuanced explanations. Over time, content strategies can evolve towards what attracts attention rather than what best reflects available evidence.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 ## Governance Problems Around Ads, Creators and Unreliable Material
 
 The monetisation of myth-making creates a governance challenge because responsibility is distributed across multiple actors.
 
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-3-dark.svg" | relative_url }}" alt="Creator Rewards illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Platforms
 
 Platforms typically argue that they do not wish to reward harmful misinformation. Many have introduced policies that remove, reduce or demonetise certain categories of false content. YouTube, for example, maintains misinformation policies covering areas such as elections, public health and other topics associated with significant harm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/youtube/answer/10834785?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">Help Misinformation policies</span><span class="citation-popover-snippet">Google HelpMisinformation policies - YouTube HelpCertain types of misleading or deceptive content with serious risk of egregious harm are...</span></span></span>
@@ -369,8 +363,6 @@ Many advertisers do not intentionally support misinformation. Yet programmatic a
 
 This creates a market failure: brands may unknowingly finance content they would not publicly endorse.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-3-dark.svg" | relative_url }}" alt="Creator Rewards illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Creators
 
 Creators occupy a complicated position. Some deliberately exploit myths because they are profitable. Others may sincerely believe the claims they promote. Governance becomes difficult because platforms must distinguish between deception, opinion, speculation, error and legitimate dissent.
@@ -382,7 +374,6 @@ A system that punishes every controversial claim risks suppressing legitimate de
 The central governance issue is whether platforms should continue allowing attention alone to determine financial rewards.
 
 Several approaches have been proposed:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -794,188 +785,187 @@ Supporters argue these measures would weaken the business incentives behind myth
 1. <a id="endnote-1"></a>
    Source: insights.som.yale.edu  
    Title: how social media rewards misinformation  
-   Link: [https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation](https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation)  
+   Link: <a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A majority of false stories are spread by a small number of frequent users, suggests a new study co-...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: siepr.stanford.edu  
-   Link: [https://siepr.stanford.edu/publications/working-paper/role-advertisers-and-platforms-monetizing-misinformation-descriptive-and](https://siepr.stanford.edu/publications/working-paper/role-advertisers-and-platforms-monetizing-misinformation-descriptive-and)  
+   Link: <a href="https://siepr.stanford.edu/publications/working-paper/role-advertisers-and-platforms-monetizing-misinformation-descriptive-and" target="_blank" rel="noopener noreferrer nofollow">https://siepr.stanford.edu/publications/working-paper/role-advertisers-and-platforms-monetizing-misinformation-descriptive-and</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ned via advertising,examine how financing misinformation affects the advertisers...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: edmo.eu  
    Title: What is the Disinformation Economy?  
-   Link: [https://edmo.eu/blog/what-is-the-disinformation-economy-and-how-to-counter-it/](https://edmo.eu/blog/what-is-the-disinformation-economy-and-how-to-counter-it/)  
+   Link: <a href="https://edmo.eu/blog/what-is-the-disinformation-economy-and-how-to-counter-it/" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/blog/what-is-the-disinformation-economy-and-how-to-counter-it/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(And how to counter it)13 Jun 2025 — The financial incentives of the disinformation economy are staggering; [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) websites rake in re...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: blogs.hanken.fi  
    Title: the disinformation economy  
-   Link: [https://blogs.hanken.fi/research/2025/06/04/the-disinformation-economy/](https://blogs.hanken.fi/research/2025/06/04/the-disinformation-economy/)  
+   Link: <a href="https://blogs.hanken.fi/research/2025/06/04/the-disinformation-economy/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.hanken.fi/research/2025/06/04/the-disinformation-economy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Jun 2025 — My research on the overlap between digital advertising and fake news suggests that the financial incentives of the disinform...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cmpf.eui.eu  
    Title: demonetisation of disinformation  
-   Link: [https://cmpf.eui.eu/demonetisation-of-disinformation/](https://cmpf.eui.eu/demonetisation-of-disinformation/)  
+   Link: <a href="https://cmpf.eui.eu/demonetisation-of-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://cmpf.eui.eu/demonetisation-of-disinformation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(De)monetisation of Disinformation: Can the actions of large...26 Mar 2024 — This blog explores the business of disinformation and expos...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: opb.org  
    Title: think out loud uw study social media influencers misinformation  
-   Link: [https://www.opb.org/article/2024/03/18/think-out-loud-uw-study-social-media-influencers-misinformation/](https://www.opb.org/article/2024/03/18/think-out-loud-uw-study-social-media-influencers-misinformation/)  
+   Link: <a href="https://www.opb.org/article/2024/03/18/think-out-loud-uw-study-social-media-influencers-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.opb.org/article/2024/03/18/think-out-loud-uw-study-social-media-influencers-misinformation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UW study reveals how social media influencers profit from...Mar 18, 2024 — The study looked at three Instagram influencers who spread va...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0305048325001537](https://www.sciencedirect.com/science/article/abs/pii/S0305048325001537)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0305048325001537" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0305048325001537</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>creators would incorporate controversial content to strategically generate engagement [1], [2]. As underlined by the case of disinformati...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: axios.com  
    Title: With Tik Tok creator program, AI-sped misinformation pays  
-   Link: [https://www.axios.com/2024/03/26/tik-tok-creator-program-ai-misinformation](https://www.axios.com/2024/03/26/tik-tok-creator-program-ai-misinformation)  
+   Link: <a href="https://www.axios.com/2024/03/26/tik-tok-creator-program-ai-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/03/26/tik-tok-creator-program-ai-misinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The program pays creators based on &quot;qualified views&quot; and RPM (revenue per thousand views), incentivizing high engagement — something ofte...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: today.usc.edu  
-   Link: [https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/](https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/)  
+   Link: <a href="https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>USC TodayStudy reveals key reason why fake news spreads on social...Jan 17, 2023 — Experimenting with different scenarios to see why fak...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: support.google.com  
    Title: Help Misinformation policies  
-   Link: [https://support.google.com/youtube/answer/10834785?hl=en](https://support.google.com/youtube/answer/10834785?hl=en)  
+   Link: <a href="https://support.google.com/youtube/answer/10834785?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/youtube/answer/10834785?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google HelpMisinformation policies - YouTube HelpCertain types of misleading or deceptive content with serious risk of egregious harm are...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0267364922000814](https://www.sciencedirect.com/science/article/pii/S0267364922000814)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0267364922000814" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0267364922000814</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The curious case of regulating false news on Googleby C Tan · 2022 · Cited by 19 — In this article, I highlight key features of selected...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
    Title: Do you believe it?  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0040162524007480](https://www.sciencedirect.com/science/article/abs/pii/S0040162524007480)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0040162524007480" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0040162524007480</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining user engagement with fake...by N Chaudhuri · 2025 · Cited by 13 — However, not all users engage with fake news similarly; thos...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Business of Misinformation: How Falsehoods Become Profitable  
-   Link: [https://www.youtube.com/watch?v=0hKqC5D4-7A](https://www.youtube.com/watch?v=0hKqC5D4-7A)  
+   Link: <a href="https://www.youtube.com/watch?v=0hKqC5D4-7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0hKqC5D4-7A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Rage-Bait and Misinformation Are So Profitable for Creators...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Why Rage-Bait and Misinformation Are So Profitable for Creators  
-   Link: [https://www.youtube.com/watch?v=2x34m-i722o](https://www.youtube.com/watch?v=2x34m-i722o)  
+   Link: <a href="https://www.youtube.com/watch?v=2x34m-i722o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2x34m-i722o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Creator Economy Incentivizes Sensationalism...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: How the Creator Economy Incentivizes Sensationalism  
-   Link: [https://www.youtube.com/watch?v=l4gH14J121k](https://www.youtube.com/watch?v=l4gH14J121k)  
+   Link: <a href="https://www.youtube.com/watch?v=l4gH14J121k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l4gH14J121k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Economics of Conspiracy Theories on Social Media...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Economics of Conspiracy Theories on Social Media  
-   Link: [https://www.youtube.com/watch?v=O15e6x8W8pE](https://www.youtube.com/watch?v=O15e6x8W8pE)  
+   Link: <a href="https://www.youtube.com/watch?v=O15e6x8W8pE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O15e6x8W8pE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Platforms Struggle to Stop Profitable Misinformation...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Why Platforms Struggle to Stop Profitable Misinformation  
-   Link: [https://www.youtube.com/watch?v=Xh0Yp_X5D8k](https://www.youtube.com/watch?v=Xh0Yp_X5D8k)  
+   Link: <a href="https://www.youtube.com/watch?v=Xh0Yp_X5D8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xh0Yp_X5D8k</a>  
 
 18. <a id="endnote-18"></a>
    Source: darden.virginia.edu  
-   Link: [https://www.darden.virginia.edu/sites/default/files/inline-files/2415%20Eesley%2C%20Chuck.pdf](https://www.darden.virginia.edu/sites/default/files/inline-files/2415%20Eesley%2C%20Chuck.pdf)  
+   Link: <a href="https://www.darden.virginia.edu/sites/default/files/inline-files/2415%20Eesley%2C%20Chuck.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.darden.virginia.edu/sites/default/files/inline-files/2415%20Eesley%2C%20Chuck.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UVA Darden School of BusinessThe Role of Advertisers and Platforms in Monetizing...by W Ahmad · Cited by 22 — The financial motivation t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: heinz.cmu.edu  
-   Link: [https://www.heinz.cmu.edu/media/2024/June/firms-desire-for-ad-revenue-tied-to-inadvertently-financing-online-misinformation-outlets](https://www.heinz.cmu.edu/media/2024/June/firms-desire-for-ad-revenue-tied-to-inadvertently-financing-online-misinformation-outlets)  
+   Link: <a href="https://www.heinz.cmu.edu/media/2024/June/firms-desire-for-ad-revenue-tied-to-inadvertently-financing-online-misinformation-outlets" target="_blank" rel="noopener noreferrer nofollow">https://www.heinz.cmu.edu/media/2024/June/firms-desire-for-ad-revenue-tied-to-inadvertently-financing-online-misinformation-outlets</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Heinz CollegeFirms&#x27; Desire for Ad Revenue Tied to Inadvertently...The study found that advertising on misinformation websites is pervasi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ijoc.org  
-   Link: [https://ijoc.org/index.php/ijoc/article/view/21128/4494](https://ijoc.org/index.php/ijoc/article/view/21128/4494)  
+   Link: <a href="https://ijoc.org/index.php/ijoc/article/view/21128/4494" target="_blank" rel="noopener noreferrer nofollow">https://ijoc.org/index.php/ijoc/article/view/21128/4494</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of CommunicationView of Vaccine Misinformation for Profitby RE Moran · 2024 · Cited by 31 — Vaccine Misinformation...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
    Title: fake anti labour video billion views youtube 2025  
-   Link: [https://www.theguardian.com/technology/2025/dec/13/fake-anti-labour-video-billion-views-youtube-2025](https://www.theguardian.com/technology/2025/dec/13/fake-anti-labour-video-billion-views-youtube-2025)  
+   Link: <a href="https://www.theguardian.com/technology/2025/dec/13/fake-anti-labour-video-billion-views-youtube-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/dec/13/fake-anti-labour-video-billion-views-youtube-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A study by nonprofit Reset Tech revealed these channels collectively amassed 5.3 million subscribers and produced 56,000 videos, with Sta...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: digitallyright.org  
    Title: Other platforms, such as.Read more  
-   Link: [https://digitallyright.org/wp-content/uploads/2025/09/Misinformation-on-YouTube-High-Profits-Low-Moderation.pdf](https://digitallyright.org/wp-content/uploads/2025/09/Misinformation-on-YouTube-High-Profits-Low-Moderation.pdf)  
+   Link: <a href="https://digitallyright.org/wp-content/uploads/2025/09/Misinformation-on-YouTube-High-Profits-Low-Moderation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitallyright.org/wp-content/uploads/2025/09/Misinformation-on-YouTube-High-Profits-Low-Moderation.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digitally RightMisinformation on YouTube: High Profits, Low ModerationIt is not always necessary to remove all misinformation; however, u...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: transparency.meta.com  
-   Link: [https://transparency.meta.com/en-gb/policies/community-standards/misinformation/](https://transparency.meta.com/en-gb/policies/community-standards/misinformation/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Transparency CentreMeta regularly publishes reports to give our community visibility into Community Standards enforcement, government r...</p></details>
+   Link: <a href="https://transparency.meta.com/en-gb/policies/community-standards/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/en-gb/policies/community-standards/misinformation/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transparency CentreMeta regularly publishes reports to give our community visibility into Community Standards enforcement, government r...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: thecjid.org  
-   Link: [https://thecjid.org/wp-content/uploads/2024/12/Impact-of-Financial-Incentives.DAIDAC.pdf](https://thecjid.org/wp-content/uploads/2024/12/Impact-of-Financial-Incentives.DAIDAC.pdf)  
+   Link: <a href="https://thecjid.org/wp-content/uploads/2024/12/Impact-of-Financial-Incentives.DAIDAC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thecjid.org/wp-content/uploads/2024/12/Impact-of-Financial-Incentives.DAIDAC.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: sydney.edu.au  
    Title: influencers promoting overwhelmingly misleading information  
-   Link: [https://www.sydney.edu.au/news-opinion/news/2025/02/27/--influencers-promoting--overwhelmingly--misleading-information-.html](https://www.sydney.edu.au/news-opinion/news/2025/02/27/--influencers-promoting--overwhelmingly--misleading-information-.html)  
+   Link: <a href="https://www.sydney.edu.au/news-opinion/news/2025/02/27/--influencers-promoting--overwhelmingly--misleading-information-.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sydney.edu.au/news-opinion/news/2025/02/27/--influencers-promoting--overwhelmingly--misleading-information-.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>social media is an open sewer of medical misinformation. “This is a public health crisis that exacerbates overdiagnosis and threatens the...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament Disinformation and 'fake news': Final Report  
-   Link: [https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf](https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf)  
+   Link: <a href="https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentDisinformation and &#x27;fake news&#x27;: Final Report - Parliament UK18 Feb 2019 — This is the Final Report in an inquiry on disinfor...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: en.dismislab.com  
    Title: misinformation on youtube high profits low moderation  
-   Link: [https://en.dismislab.com/misinformation-on-youtube-high-profits-low-moderation/](https://en.dismislab.com/misinformation-on-youtube-high-profits-low-moderation/)  
+   Link: <a href="https://en.dismislab.com/misinformation-on-youtube-high-profits-low-moderation/" target="_blank" rel="noopener noreferrer nofollow">https://en.dismislab.com/misinformation-on-youtube-high-profits-low-moderation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on YouTube: High profits, low moderation10 Jul 2024 — This research further investigates how YouTube allows the monetization of misinform...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: carlosdiazruiz.com  
    Title: how do digital platforms profit from disinformation  
-   Link: [https://www.carlosdiazruiz.com/blog/how-do-digital-platforms-profit-from-disinformation](https://www.carlosdiazruiz.com/blog/how-do-digital-platforms-profit-from-disinformation)  
+   Link: <a href="https://www.carlosdiazruiz.com/blog/how-do-digital-platforms-profit-from-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.carlosdiazruiz.com/blog/how-do-digital-platforms-profit-from-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Dec 2025 — A research paper published in the journal New Media &amp; Society shows the digital market for online advertising produces the f...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2227-7390/13/23/3815](https://www.mdpi.com/2227-7390/13/23/3815)  
+   Link: <a href="https://www.mdpi.com/2227-7390/13/23/3815" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7390/13/23/3815</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Content Value Dynamics in Digital Platforms: Strategic...by B Bian · 2025 — A high advertising intensity will reduce user experience and...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSocial media and the spread of misinformation  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: misinformation, social media, disinformation...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: rmit.edu.au  
    Title: tiktok information  
-   Link: [https://www.rmit.edu.au/news/media-releases-and-expert-comments/2023/october/tiktok-information](https://www.rmit.edu.au/news/media-releases-and-expert-comments/2023/october/tiktok-information)  
+   Link: <a href="https://www.rmit.edu.au/news/media-releases-and-expert-comments/2023/october/tiktok-information" target="_blank" rel="noopener noreferrer nofollow">https://www.rmit.edu.au/news/media-releases-and-expert-comments/2023/october/tiktok-information</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>People increasingly turn to influencers for information, and...16 Oct 2023 — “There have been reports of disinformation and fake news be...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/heapro/article/40/2/daaf023/8100645](https://academic.oup.com/heapro/article/40/2/daaf023/8100645)  
+   Link: <a href="https://academic.oup.com/heapro/article/40/2/daaf023/8100645" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/heapro/article/40/2/daaf023/8100645</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>media and the spread of misinformationby E Denniss · 2025 · Cited by 114 — Third, internet robots or &#x27;bots&#x27; are known to automate the pub...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10520039/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10520039/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby DA Broniatowski · 2023 · Cited by 7 — [https://www.bbc.com/future/article/20190528-i-was-a-macedonian-fake-news-writer](https://www.bbc.com/future/article/20190528-i-was-a-macedonian-fake-news-writer) (2019)...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10520039/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10520039/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by DA Broniatowski · 2023 · Cited by 7 — [https://www.bbc.com/future/article/20190528-i-was-a-macedonian-fake-news-writer](https://www.bbc.com/future/article/20190528-i-was-a-macedonian-fake-news-writer) (2019)...</p></details>
 
 2. Sz
-

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-expert/
 description: Focused pages that expand on Expert Trust.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-parent_title: Expert Trust | Myths And Misconceptions
+parent_title: Expert Trust
 parent_nav_short_title: Expert Trust
 parent_permalink: /expert-trust/
 ---

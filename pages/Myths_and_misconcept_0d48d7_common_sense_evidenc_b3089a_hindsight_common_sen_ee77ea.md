@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8
 - Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - common-sense
 - hindsight
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - common-sense
 - hindsight
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Hindsight bias lets people build convincing explanations after an outcome, even when the same logic could predict the opposite.
 hero_summary: Hindsight bias lets people build convincing explanations after an outcome, even when the same logic could predict the opposite.
 layout: default
 permalink: /hindsight/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /common-sense/
 nav_short_title: Hindsight
 title: Why outcomes seem obvious after they happen
-title_full: Why outcomes seem obvious after they happen | Common Sense
+title_full: Why outcomes seem obvious after they happen
 display_title_short: Hindsight
 display_title: Hindsight
 heading_title: Why outcomes seem obvious after they happen
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Common Sense Leads US Wrong | Mythcraft
+parent_title: When Common Sense Leads US Wrong
 parent_permalink: /common-sense/
 parent_nav_short_title: Common Sense
 parent_heading_title: When Common Sense Leads US Wrong
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: What would we see if it were true?
 up_link:
   basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
@@ -265,7 +265,7 @@ next_link:
   permalink: /learning-styles-cb868a/
   short_title: Learning styles
   heading_title: Do learning styles actually improve learning?
-date: '2026-06-09 05:03:33 '
+date: '2026-06-11 22:20:59 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea-Illustration-1.webp
@@ -276,17 +276,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hi
 
 Hindsight bias makes weak explanations feel stronger than they really are. Once an outcome is known, people often reconstruct the past so that the result appears predictable, sensible and even inevitable. A business failure suddenly looks like the obvious consequence of poor leadership. A political upset becomes easy to explain through one decisive factor. A medical treatment seems clearly effective because recovery followed it.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea-Illustration-1-dark.svg" | relative_url }}" alt="Hindsight illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) survive through backwards explanation rather than successful prediction. After an event happens, people can usually build a convincing story about why it happened. The danger is that a story that fits the known ending can feel like evidence, even when the same reasoning could have been used to explain a different ending. Psychologists call this hindsight bias, or the “knew-it-all-along” effect. Research beginning with Baruch Fischhoff's work in the 1970s showed that people consistently remember events as having been more predictable after learning the outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabHindsight BiasHindsight bias, or the knew-it-all-along, is the tendency to claim currents events were to happen even thou...</span></span></span>
+This matters because many myths and misconceptions survive through backwards explanation rather than successful prediction. After an event happens, people can usually build a convincing story about why it happened. The danger is that a story that fits the known ending can feel like evidence, even when the same reasoning could have been used to explain a different ending. Psychologists call this hindsight bias, or the knew-it-all-along effect. Research beginning with Baruch Fischhoff's work in the 1970s showed that people consistently remember events as having been more predictable after learning the outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabHindsight BiasHindsight bias, or the knew-it-all-along, is the tendency to claim currents events were to happen even thou...</span></span></span>
 
 ## How backwards stories gain false authority
 
 The power of hindsight comes from a simple psychological shift. Before an event, many outcomes are possible. After the event, only one outcome is visible. The alternatives fade into the background.
 
-Once the ending is known, people begin connecting facts that support it. Information that once seemed ambiguous becomes evidence that the result was bound to happen. Contradictory clues receive less attention or are forgotten entirely. Researchers describe this as a tendency to reconstruct previous beliefs in light of new knowledge, creating the feeling that the outcome was foreseeable all along. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hindsight_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hindsight bias</span><span class="citation-popover-snippet">Hindsight bias</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/83951/Doktorarbeit_Druckexemplar.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publikationen.uni-tuebingen.de">[2Universität Tübingen Publikationsserver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publikationen.uni-tuebingen.de</span><span class="citation-popover-title">Universität Tübingen Publikationsserver I knew it all along</span><span class="citation-popover-snippet">Universität Tübingen PublikationsserverI knew it all along - Hindsight bias before and after the fact.The author concluded that knowledge...</span></span></span>
+Once the ending is known, people begin connecting facts that support it. Information that once seemed ambiguous becomes evidence that the result was bound to happen. Contradictory clues receive less attention or are forgotten entirely. Researchers describe this as a tendency to reconstruct previous beliefs in light of new knowledge, creating the feeling that the outcome was foreseeable all along. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hindsight_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hindsight bias</span><span class="citation-popover-snippet">Hindsight bias</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/83951/Doktorarbeit_Druckexemplar.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publikationen.uni-tuebingen.de">[2Universitt Tbingen Publikationsserver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publikationen.uni-tuebingen.de</span><span class="citation-popover-title">Universitt Tbingen Publikationsserver I knew it all along</span><span class="citation-popover-snippet">Universitt Tbingen PublikationsserverI knew it all along - Hindsight bias before and after the fact.The author concluded that knowledge...</span></span></span>
 
-A classic example came from Fischhoff and Ruth Beyth's studies of political events. Participants estimated the likelihood of several possible outcomes before a major diplomatic trip by US President Richard Nixon. After the trip, people remembered the actual outcome as having seemed more likely than they had originally judged it to be. Knowledge of the ending changed their [memory]({{ 'memory/' | relative_url }}) of what they thought beforehand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hindsight_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hindsight bias</span><span class="citation-popover-snippet">Hindsight bias</span></span></span> ScienceDirect This creates a misleading impression of understanding. If an explanation fits the result neatly <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0749597801929760" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Certainty and Uncertainty: The Two Faces of the Hindsight...by L Werth · 2002 · Cited by 50 — “Hindsight Bias” is a person&#x27;s tendency, a...</span></span></span>, it feels informative. Yet the explanation may only appear powerful because the outcome is already known.
+A classic example came from Fischhoff and Ruth Beyth's studies of political events. Participants estimated the likelihood of several possible outcomes before a major diplomatic trip by US President Richard Nixon. After the trip, people remembered the actual outcome as having seemed more likely than they had originally judged it to be. Knowledge of the ending changed their [memory]({{ 'memory/' | relative_url }}) of what they thought beforehand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hindsight_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hindsight bias</span><span class="citation-popover-snippet">Hindsight bias</span></span></span> ScienceDirect This creates a misleading impression of understanding. If an explanation fits the result neatly <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0749597801929760" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Certainty and Uncertainty: The Two Faces of the Hindsight...by L Werth  2002  Cited by 50  Hindsight Bias is a person&#x27;s tendency, a...</span></span></span>, it feels informative. Yet the explanation may only appear powerful because the outcome is already known.
 
 Consider how sports commentary often works. After a team wins, analysts emphasise discipline, leadership and tactical intelligence. If the same team loses, the discussion may focus on complacency, poor decisions or lack of creativity. Many of the underlying facts remain unchanged. What changes is which facts are selected and arranged into a narrative.
 
@@ -300,7 +299,6 @@ When people know the ending, they often underestimate how much uncertainty exist
 
 After success, observers tend to identify a trait that supposedly caused it:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The entrepreneur succeeded because of vision.
@@ -310,7 +308,6 @@ After success, observers tend to identify a trait that supposedly caused it:
 </div>
 
 After failure, equally plausible stories appear:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -322,12 +319,11 @@ After failure, equally plausible stories appear:
 
 The explanations often sound persuasive because they connect real characteristics to a known result. Yet their persuasive force depends heavily on already knowing which result occurred.
 
-Duncan Watts has argued that many explanations of social behaviour confuse understandability with causality. Once people know what happened, they can usually generate a reasonable-sounding account of why it happened. The existence of such an account does not prove that the identified causes genuinely predicted the outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25811066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedCommon sense and sociological explanationsby DJ Watts · 2014 · Cited by 232 — Sociologists have long advocated a sociological appro...</span></span></span>
+Duncan Watts has argued that many explanations of social behaviour confuse understandability with causality. Once people know what happened, they can usually generate a reasonable-sounding account of why it happened. The existence of such an account does not prove that the identified causes genuinely predicted the outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25811066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Common sense and sociological explanationsby DJ Watts  2014  Cited by 232  Sociologists have long advocated a sociological appro...</span></span></span>
 
 This distinction is easy to miss because human beings are natural storytellers. Understanding a sequence of events feels very similar to having predicted it. Psychologically, the two experiences can become blurred.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0O6COXI0cx8" title="Prediction and Explanation in Social Science — Duncan Watts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0O6COXI0cx8" target="_blank" rel="noopener noreferrer">Prediction and Explanation in Social Science — Duncan Watts</a></p><p class="youtube-embed-meta">Channel: Cornell CSES &middot; Views: 3.3K &middot; Uploaded: February 2019 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0O6COXI0cx8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0O6COXI0cx8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0O6COXI0cx8" title="Prediction and Explanation in Social Science  Duncan Watts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0O6COXI0cx8" target="_blank" rel="noopener noreferrer">Prediction and Explanation in Social Science  Duncan Watts</a></p><p class="youtube-embed-meta">Channel: Cornell CSES &middot; Views: 3.3K &middot; Uploaded: February 2019 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0O6COXI0cx8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0O6COXI0cx8">Open on YouTube</a></p></div></div></div>
 
 ## The opposite-outcome test for weak explanations
 
@@ -343,7 +339,7 @@ The explanation might become:
 
 > The company failed because it took reckless risks.
 
-The same fact—risk-taking—supports opposite conclusions.
+The same factrisk-takingsupports opposite conclusions.
 
 This is the hallmark of a weak after-the-fact explanation. It adapts itself to the outcome rather than constraining expectations beforehand.
 
@@ -355,10 +351,9 @@ If the answer is yes, then the explanation may have little predictive value.
 
 This does not mean the explanation is necessarily false. Risk-taking may genuinely matter. The problem is that the explanation has not demonstrated why one outcome was more likely than another before the fact.
 
-Psychologists studying hindsight bias have found that considering alternative outcomes can reduce the feeling that what happened was inevitable. When people actively imagine realistic alternatives, the actual outcome appears less uniquely determined and less obviously predictable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carlsonschool.umn.edu">[Carlson School of Management]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carlsonschool.umn.edu</span><span class="citation-popover-title">vohs et al 2012 hindsight bias</span><span class="citation-popover-snippet">Carlson School of ManagementScience Perspectives on Psychologicalby NJ Roese · 2012 · Cited by 920 — This inverse relation between counte...</span></span></span>
+Psychologists studying hindsight bias have found that considering alternative outcomes can reduce the feeling that what happened was inevitable. When people actively imagine realistic alternatives, the actual outcome appears less uniquely determined and less obviously predictable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carlsonschool.umn.edu">[Carlson School of Management]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carlsonschool.umn.edu</span><span class="citation-popover-title">vohs et al 2012 hindsight bias</span><span class="citation-popover-snippet">Carlson School of ManagementScience Perspectives on Psychologicalby NJ Roese  2012  Cited by 920  This inverse relation between counte...</span></span></span>
 
 That is why good evidence usually requires prospective testing rather than retrospective storytelling. The crucial question is not whether a story can explain the result now. The question is whether it would have distinguished among possible outcomes before they occurred.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea-Illustration-2-dark.svg" | relative_url }}" alt="Hindsight illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why social behaviour is especially vulnerable to hindsight
@@ -368,7 +363,6 @@ Hindsight bias becomes particularly powerful in discussions of human behaviour b
 People's actions rarely have a single clear cause. Personality, incentives, social pressure, institutions, timing, chance encounters and broader cultural conditions all interact. Because there are so many possible influences, it is usually easy to find a set of factors that seem to fit whatever happened.
 
 This creates a recurring pattern in public discussion:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -382,13 +376,11 @@ This creates a recurring pattern in public discussion:
 
 The result is a feeling of certainty that did not exist beforehand.
 
-Watts has repeatedly argued that social outcomes often look more predictable in retrospect than they really are. His work on complex social systems suggests that even with extensive information, important outcomes can remain difficult to forecast because small differences and random variation can have large effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1602.01013" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Exploring limits to prediction in complex social systems</span><span class="citation-popover-snippet">arXivExploring limits to prediction in complex social systemsFebruary 2, 2016...</span><span class="citation-popover-meta">Published: February 2, 2016</span></span></span>
+Watts has repeatedly argued that social outcomes often look more predictable in retrospect than they really are. His work on complex social systems suggests that even with extensive information, important outcomes can remain difficult to forecast because small differences and random variation can have large effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1602.01013" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Exploring limits to prediction in complex social systems</span><span class="citation-popover-snippet">Exploring limits to prediction in complex social systemsFebruary 2, 2016...</span><span class="citation-popover-meta">Published: February 2, 2016</span></span></span>
 
 This helps explain why myths about social behaviour persist. People remember explanations that fit visible outcomes. They rarely compare those explanations against all the other plausible stories that could have been told had events unfolded differently.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aA3_7T18sH0" title="Why You Can&#x27;t Learn From Your Mistakes (Hindsight Bias)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aA3_7T18sH0" target="_blank" rel="noopener noreferrer">Why You Can&#x27;t Learn From Your Mistakes (Hindsight Bias)</a></p><p class="youtube-embed-meta">Channel: Scott D. Clary - Success Story Podcast &middot; Views: 1.3K &middot; Uploaded: October 2023 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aA3_7T18sH0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aA3_7T18sH0">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea-Illustration-3-dark.svg" | relative_url }}" alt="Hindsight illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How hindsight keeps misconceptions alive
 
 Many misconceptions survive because they are reinforced by memorable examples rather than systematic tests.
@@ -405,14 +397,13 @@ Hindsight bias encourages selective learning. Successful cases receive explanati
 
 The process is especially powerful because people do not experience hindsight bias as a bias. They experience it as understanding. The feeling that an outcome makes sense is mistaken for evidence that the outcome was predictable.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aA3_7T18sH0" title="Why You Can&#x27;t Learn From Your Mistakes (Hindsight Bias)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aA3_7T18sH0" target="_blank" rel="noopener noreferrer">Why You Can&#x27;t Learn From Your Mistakes (Hindsight Bias)</a></p><p class="youtube-embed-meta">Channel: Scott D. Clary - Success Story Podcast &middot; Views: 1.3K &middot; Uploaded: October 2023 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aA3_7T18sH0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aA3_7T18sH0">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea-Illustration-3-dark.svg" | relative_url }}" alt="Hindsight illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What separates explanation from evidence
 
 A useful explanation does more than make the past seem reasonable. It narrows expectations before events occur.
 
 The strongest safeguard against hindsight-driven misconceptions is to ask predictive questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -426,10 +417,6 @@ The strongest safeguard against hindsight-driven misconceptions is to ask predic
 These questions force a shift from storytelling to testing.
 
 The central lesson is not that explanations are worthless. Explanations are essential. The problem arises when explanation is judged only after the ending is known. Once outcomes are visible, almost any event can be made to look like [common sense]({{ 'common-sense/' | relative_url }}). That appearance of obviousness is precisely why hindsight bias is such a powerful engine of myths and misconceptions. It transforms uncertainty into apparent inevitability and turns weak explanations into stories that feel self-evidently true.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tjcjSsbjbGc" title="Cognitive Biases - The Hindsight Bias - I Knew It All Along Phenomenon - Psychology in 5 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tjcjSsbjbGc" target="_blank" rel="noopener noreferrer">Cognitive Biases - The Hindsight Bias - I Knew It All Along Phenomenon - Psychology in 5 Minutes</a></p><p class="youtube-embed-meta">Channel: 5 Minute Learnings</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tjcjSsbjbGc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tjcjSsbjbGc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -501,7 +488,7 @@ The central lesson is not that explanations are worthless. Explanations are esse
         </h4>
         <p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: nonfiction, psychology, Errors, DÃ©veloppement d&#x27;aptitudes, Prise de dÃ©cision (Relations humaines).</p>
+        <p class="fr-book-desc">First published 2013. Subjects: nonfiction, psychology, Errors, Développement d&#x27;aptitudes, Prise de décision (Relations humaines).</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -828,122 +815,122 @@ The central lesson is not that explanations are worthless. Explanations are esse
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Hindsight bias  
-   Link: [https://en.wikipedia.org/wiki/Hindsight_bias](https://en.wikipedia.org/wiki/Hindsight_bias)  
+   Link: <a href="https://en.wikipedia.org/wiki/Hindsight_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hindsight_bias</a>  
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0749597801929760](https://www.sciencedirect.com/science/article/pii/S0749597801929760)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Certainty and Uncertainty: The Two Faces of the Hindsight...by L Werth · 2002 · Cited by 50 — “Hindsight Bias” is a person&#x27;s tendency, a...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0749597801929760" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0749597801929760</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Certainty and Uncertainty: The Two Faces of the Hindsight...by L Werth  2002  Cited by 50  Hindsight Bias is a person&#x27;s tendency, a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Hindsight Bias  
-   Link: [https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/hindsight-bias](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/hindsight-bias)  
+   Link: <a href="https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/hindsight-bias</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias - an overviewIn the 1970s, Baruch Fischoff was concerned with professionals such as clinicians&#x27; or politicians exaggerated...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Exploring limits to prediction in complex social systems  
-   Link: [https://arxiv.org/abs/1602.01013](https://arxiv.org/abs/1602.01013)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExploring limits to prediction in complex social systemsFebruary 2, 2016...</p></details>
+   Link: <a href="https://arxiv.org/abs/1602.01013" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1602.01013</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring limits to prediction in complex social systemsFebruary 2, 2016...</p></details>
    Published: February 2, 2016  
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/074959789090020A](https://www.sciencedirect.com/science/article/pii/074959789090020A)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/074959789090020A" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/074959789090020A</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The...Re...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022103121000573](https://www.sciencedirect.com/science/article/abs/pii/S0022103121000573)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrospective and prospective hindsight bias: Replications...by J Chen · 2021 · Cited by 23 — In this study, we asked participants to pr...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103121000573" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103121000573</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrospective and prospective hindsight bias: Replications...by J Chen  2021  Cited by 23  In this study, we asked participants to pr...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/biases/hindsight-bias](https://thedecisionlab.com/biases/hindsight-bias)  
+   Link: <a href="https://thedecisionlab.com/biases/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/hindsight-bias</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabHindsight BiasHindsight bias, or the knew-it-all-along, is the tendency to claim currents events were to happen even thou...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: publikationen.uni-tuebingen.de  
-   Title: Universität Tübingen Publikationsserver I knew it all along  
-   Link: [https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/83951/Doktorarbeit_Druckexemplar.pdf?sequence=1](https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/83951/Doktorarbeit_Druckexemplar.pdf?sequence=1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Universität Tübingen PublikationsserverI knew it all along - Hindsight bias before and after the fact.The author concluded that knowledge...</p></details>
+   Title: Universitt Tbingen Publikationsserver I knew it all along  
+   Link: <a href="https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/83951/Doktorarbeit_Druckexemplar.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/83951/Doktorarbeit_Druckexemplar.pdf?sequence=1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Universitt Tbingen PublikationsserverI knew it all along - Hindsight bias before and after the fact.The author concluded that knowledge...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: lesswrong.com  
    Title: hindsight bias  
-   Link: [https://www.lesswrong.com/lw/il/hindsight_bias](https://www.lesswrong.com/lw/il/hindsight_bias)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Aug 2007 — Hindsight bias is sometimes called the I-knew-it-all-along effect. Fischhoff and Beyth (1975) presented students with histo...</p></details>
+   Link: <a href="https://www.lesswrong.com/lw/il/hindsight_bias" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/lw/il/hindsight_bias</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Aug 2007  Hindsight bias is sometimes called the I-knew-it-all-along effect. Fischhoff and Beyth (1975) presented students with histo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25811066/](https://pubmed.ncbi.nlm.nih.gov/25811066/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedCommon sense and sociological explanationsby DJ Watts · 2014 · Cited by 232 — Sociologists have long advocated a sociological appro...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25811066/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25811066/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common sense and sociological explanationsby DJ Watts  2014  Cited by 232  Sociologists have long advocated a sociological appro...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: carlsonschool.umn.edu  
    Title: vohs et al 2012 hindsight bias  
-   Link: [https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf](https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carlson School of ManagementScience Perspectives on Psychologicalby NJ Roese · 2012 · Cited by 920 — This inverse relation between counte...</p></details>
+   Link: <a href="https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carlson School of ManagementScience Perspectives on Psychologicalby NJ Roese  2012  Cited by 920  This inverse relation between counte...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Bookcafe04/posts/you-think-you-understand-why-things-happen-you-do-not-and-neither-does-anyone-el/122322355982329240/](https://www.facebook.com/Bookcafe04/posts/you-think-you-understand-why-things-happen-you-do-not-and-neither-does-anyone-el/122322355982329240/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Everything is Obvious (Once You Know...3 May 2026 — &quot;Everything is Obvious (Once You Know the Answer)&quot; is a book about why common sense...</p></details>
+   Link: <a href="https://www.facebook.com/Bookcafe04/posts/you-think-you-understand-why-things-happen-you-do-not-and-neither-does-anyone-el/122322355982329240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Bookcafe04/posts/you-think-you-understand-why-things-happen-you-do-not-and-neither-does-anyone-el/122322355982329240/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Everything is Obvious (Once You Know...3 May 2026  &quot;Everything is Obvious (Once You Know the Answer)&quot; is a book about why common sense...</p></details>
    Published: May 2026  
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/b5txsf/eli5_what_is_the_difference_between_outcome_bias/](https://www.reddit.com/r/explainlikeimfive/comments/b5txsf/eli5_what_is_the_difference_between_outcome_bias/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/b5txsf/eli5_what_is_the_difference_between_outcome_bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/b5txsf/eli5_what_is_the_difference_between_outcome_bias/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: What is the difference between Outcome Bias and...Hindsight bias makes people think that the event should have been predicted/pred...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232494530_The_knew-it-all-along_effect](https://www.researchgate.net/publication/232494530_The_knew-it-all-along_effect)  
+   Link: <a href="https://www.researchgate.net/publication/232494530_The_knew-it-all-along_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232494530_The_knew-it-all-along_effect</a>  
 
 15. <a id="endnote-15"></a>
    Source: fs.blog  
-   Link: [https://fs.blog/is-everything-obvious-once-you-know-the-answer/](https://fs.blog/is-everything-obvious-once-you-know-the-answer/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“In this way,” Watts says, “we deceive ourselves into believing that we can make predictions that are impossible.” “By providing...Read...</p></details>
+   Link: <a href="https://fs.blog/is-everything-obvious-once-you-know-the-answer/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/is-everything-obvious-once-you-know-the-answer/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>In this way, Watts says, we deceive ourselves into believing that we can make predictions that are impossible. By providing...Read...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchportal.port.ac.uk  
    Title: controllability and hindsight components understanding opposite h  
-   Link: [https://researchportal.port.ac.uk/en/publications/controllability-and-hindsight-components-understanding-opposite-h](https://researchportal.port.ac.uk/en/publications/controllability-and-hindsight-components-understanding-opposite-h)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>opposite hindsight biases for self-relevant...by H Blank · 2010 · Cited by 34 — The first points to an influence of perceived control ov...</p></details>
+   Link: <a href="https://researchportal.port.ac.uk/en/publications/controllability-and-hindsight-components-understanding-opposite-h" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/en/publications/controllability-and-hindsight-components-understanding-opposite-h</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>opposite hindsight biases for self-relevant...by H Blank  2010  Cited by 34  The first points to an influence of perceived control ov...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3084020/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3084020/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias from 3 to 95 Years of Age - PMCby DM Bernstein · 2011 · Cited by 183 — Upon learning the outcome to a problem, people tend to believ...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3084020/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3084020/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias from 3 to 95 Years of Age - PMCby DM Bernstein  2011  Cited by 183  Upon learning the outcome to a problem, people tend to believ...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1030279464977625/posts/1459905702014997/](https://www.facebook.com/groups/1030279464977625/posts/1459905702014997/)  
+   Link: <a href="https://www.facebook.com/groups/1030279464977625/posts/1459905702014997/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1030279464977625/posts/1459905702014997/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e can easily predict or explain social phenomena with simple...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: profrjstarr.com  
    Title: hindsight bias why we always knew it all along  
-   Link: [https://profrjstarr.com/cognitive-biases/hindsight-bias-why-we-always-knew-it-all-along](https://profrjstarr.com/cognitive-biases/hindsight-bias-why-we-always-knew-it-all-along)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias: Why We Always Knew It All AlongJan 27, 2025 — After something happens, it always seems obvious—because your mind rewrote...</p></details>
+   Link: <a href="https://profrjstarr.com/cognitive-biases/hindsight-bias-why-we-always-knew-it-all-along" target="_blank" rel="noopener noreferrer nofollow">https://profrjstarr.com/cognitive-biases/hindsight-bias-why-we-always-knew-it-all-along</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias: Why We Always Knew It All AlongJan 27, 2025  After something happens, it always seems obviousbecause your mind rewrote...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: penntoday.upenn.edu  
    Title: penn duncan watts commonalities common sense  
-   Link: [https://penntoday.upenn.edu/news/penn-duncan-watts-commonalities-common-sense](https://penntoday.upenn.edu/news/penn-duncan-watts-commonalities-common-sense)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>commonalities of common sense | Penn Today23 Jan 2024 — Researchers from Penn develop a framework for quantifying common sense, findings...</p></details>
+   Link: <a href="https://penntoday.upenn.edu/news/penn-duncan-watts-commonalities-common-sense" target="_blank" rel="noopener noreferrer nofollow">https://penntoday.upenn.edu/news/penn-duncan-watts-commonalities-common-sense</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>commonalities of common sense | Penn Today23 Jan 2024  Researchers from Penn develop a framework for quantifying common sense, findings...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: duncanjwatts.com  
-   Title: Explaining Explanation — Syllabus | DJW  
-   Link: [https://duncanjwatts.com/teaching/explaining-explanation-syllabus/](https://duncanjwatts.com/teaching/explaining-explanation-syllabus/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duncan WattsIn the social sciences we often use the word “explanation” as if (a) we know what we mean by it, and (b) we mean the same thi...</p></details>
+   Title: Explaining Explanation  Syllabus | DJW  
+   Link: <a href="https://duncanjwatts.com/teaching/explaining-explanation-syllabus/" target="_blank" rel="noopener noreferrer nofollow">https://duncanjwatts.com/teaching/explaining-explanation-syllabus/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duncan WattsIn the social sciences we often use the word explanation as if (a) we know what we mean by it, and (b) we mean the same thi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Title: Prediction and Explanation in Social Science — Duncan Watts"  
-   Link: [https://www.youtube.com/watch?v=0O6COXI0cx8](https://www.youtube.com/watch?v=0O6COXI0cx8)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract: Historically, social scientists have sought out explanations... Prediction and Explanation in Social Science — Duncan Watts...</p></details>
+   Title: Prediction and Explanation in Social Science  Duncan Watts"  
+   Link: <a href="https://www.youtube.com/watch?v=0O6COXI0cx8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0O6COXI0cx8</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract: Historically, social scientists have sought out explanations... Prediction and Explanation in Social Science  Duncan Watts...</p></details>

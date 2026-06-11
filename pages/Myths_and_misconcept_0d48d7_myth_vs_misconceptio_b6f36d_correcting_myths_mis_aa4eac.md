@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9
 - Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - key-terms
 - better-corrections
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - key-terms
 - better-corrections
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Myths often need public reframing, while misconceptions usually need a better explanation that fills the gap left behind.
 hero_summary: Myths often need public reframing, while misconceptions usually need a better explanation that fills the gap left behind.
 layout: default
 permalink: /better-corrections-e615f7/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /key-terms/
 nav_short_title: Better Corrections
 title: Correct the Story or Fix the Model?
-title_full: Correct the Story or Fix the Model? | Key Terms
+title_full: Correct the Story or Fix the Model?
 display_title_short: Better Corrections
 display_title: Better Corrections
 heading_title: Correct the Story or Fix the Model?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: 'Myth or Misconception: What Is the Difference? | Mythcraft'
+parent_title: 'Myth or Misconception: What Is the Difference?'
 parent_permalink: /key-terms/
 parent_nav_short_title: Key Terms
 parent_heading_title: 'Myth or Misconception: What Is the Difference?'
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Is It a Myth or a Misconception?
 up_link:
   basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
@@ -259,7 +259,7 @@ next_link:
   permalink: /cultural-myths/
   short_title: Cultural Myths
   heading_title: How False Claims Become Shared Stories
-date: '2026-06-09 05:34:46 '
+date: '2026-06-11 22:36:41 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_correcting_myths_mis_aa4eac-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_correcting_myths_mis_aa4eac-Illustration-1.webp
@@ -268,45 +268,35 @@ image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_co
 
 ## Introduction
 
-Correcting a false belief is not a single skill. The most effective response depends on whether the belief functions mainly as a myth or as a misconception. Myths spread through repetition, familiarity and social circulation. Misconceptions persist because they help people explain something, even if the explanation is wrong. When communicators treat both problems the same way, [corrections]({{ 'corrections/' | relative_url }}) often disappoint. A myth may survive because the correction accidentally repeats and amplifies it. A misconception may survive because the correction removes the error without supplying a better explanation. Research on misinformation, debunking and [conceptual change]({{ 'concept-change/' | relative_url }}) increasingly points to the same lesson: successful correction must match the reason the belief took hold in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEffective correction of misinformationby T Prike · 2023 · Cited by 67 — A longstanding concern has been that repeating misin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEffective correction of misinformationby T Prike · 2023 · Cited by 67 — A longstanding concern has been that repeating misin...</span></span></span>
-
+Correcting a false belief is not a single skill. The most effective response depends on whether the belief functions mainly as a myth or as a misconception. Myths spread through repetition, familiarity and social circulation. Misconceptions persist because they help people explain something, even if the explanation is wrong. When communicators treat both problems the same way, [corrections]({{ 'corrections/' | relative_url }}) often disappoint. A myth may survive because the [correction]({{ 'correction/' | relative_url }}) accidentally repeats and amplifies it. A misconception may survive because the correction removes the error without supplying a better explanation. Research on misinformation, debunking and conceptual change increasingly points to the same lesson: successful correction must match the reason the belief took hold in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Effective correction of misinformationby T Prike  2023  Cited by 67  A longstanding concern has been that repeating misin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Effective correction of misinformationby T Prike  2023  Cited by 67  A longstanding concern has been that repeating misin...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_correcting_myths_mis_aa4eac-Illustration-1-dark.svg" | relative_url }}" alt="Better Corrections illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_correcting_myths_mis_aa4eac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_correcting_myths_mis_aa4eac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Correct the Story or Fix the Model?
 
-The practical difference between [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) becomes most visible when someone tries to change a person's mind.
+The practical difference between myths and misconceptions becomes most visible when someone tries to change a person's mind.
 
 A myth behaves like a public narrative. People encounter it repeatedly through conversation, [headlines]({{ 'headlines/' | relative_url }}), social media posts or cultural sayings. The challenge is not only that the claim exists, but that it feels familiar. Familiarity itself can create a sense of truth, a phenomenon often called the illusory truth effect. Repeated statements become easier to process, and that ease can be mistaken for accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Illusory truth effect</span><span class="citation-popover-snippet">The Decision LabIllusory truth effect - The Decision...Illusory Truth Effect is the positive feeling when we hear information that we be...</span></span></span>
 
 A misconception behaves differently. It acts as a mental model. Someone may sincerely believe an incorrect explanation because it seems to fit their observations. In that case, the false belief is performing intellectual work. It helps organise experience and answer questions. Simply declaring it wrong leaves an explanatory gap. Mary Lou Fulton College <span class="citation-chip-wrap"><a class="citation-chip" href="https://takinglearningseriously.com/barriers-to-learning/misconceptions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: takinglearningseriously.com">[Taking Learning Seriously]</a><span class="citation-popover" role="note"><span class="citation-popover-source">takinglearningseriously.com</span><span class="citation-popover-snippet">Taking Learning SeriouslyMisconceptionsChanging students&#x27; misconceptions involves revising their conceptual understanding, and not simply...</span></span></span>
 
-The [correction]({{ 'correction/' | relative_url }}) strategy therefore changes:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+The correction strategy therefore changes:
 
 * Myth correction focuses on reframing a circulating story.
 * Misconception correction focuses on replacing a flawed explanation.
 * Myth correction often addresses public communication.
 * Misconception correction often addresses understanding and reasoning.
-* Myth correction must manage repetition carefully.
+* Myth correction must manage [repetition]({{ 'repetition/' | relative_url }}) carefully.
 * Misconception correction must provide a superior model, not just a contradiction.
-
-</div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hz6GULbowAk" title="Why people fall for misinformation - Joseph Isaac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hz6GULbowAk" target="_blank" rel="noopener noreferrer">Why people fall for misinformation - Joseph Isaac</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hz6GULbowAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hz6GULbowAk">Open on YouTube</a></p></div></div></div>
 
 ## Why Myth Corrections Target Repetition
 
 Many myths persist because they are memorable, socially reinforced and repeatedly encountered. The corrective task is therefore partly communicative rather than purely educational.
 
-Researchers studying misinformation have long examined whether repeating a false claim during a correction can accidentally strengthen it through familiarity. Early [debunking]({{ 'debunking/' | relative_url }}) guidance warned that excessive repetition of myths could make them feel more believable. This concern influenced the development of "fact-first" correction strategies that lead with accurate information before mentioning the false claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[Laboratory of Tree-Ring Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">Laboratory of Tree-Ring ResearchThe Debunking HandbookNovember 25, 2011 — by S Lewandowsky — However, this makes people more familiar wit...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/print.php?n=4890" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">The Debunking Handbook 2020: The elusive backfire effects22 Oct 2020 — Because a myth is necessarily repeated when it is debunked, the ri...</span></span></span>
+Researchers studying misinformation have long examined whether repeating a false claim during a correction can accidentally strengthen it through familiarity. Early [debunking]({{ 'debunking/' | relative_url }}) guidance warned that excessive repetition of myths could make them feel more believable. This concern influenced the development of "fact-first" correction strategies that lead with accurate information before mentioning the false claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[Laboratory of Tree-Ring Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">Laboratory of Tree-Ring ResearchThe Debunking HandbookNovember 25, 2011  by S Lewandowsky  However, this makes people more familiar wit...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/print.php?n=4890" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">The Debunking Handbook 2020: The elusive backfire effects22 Oct 2020  Because a myth is necessarily repeated when it is debunked, the ri...</span></span></span>
 
-A common recommendation is the "fact–myth–fallacy–fact" structure. The correction begins with the accurate information, briefly identifies the myth, explains why it is misleading, and ends by reinforcing the correct account. The goal is to ensure that the remembered takeaway is the fact rather than the false claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aclanthology.org/anthology-files/anthology-files/pdf/climatenlp/2024.climatenlp-1.4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-snippet">ACL AnthologyGenerative Debunking of Climate MisinformationJuly 7, 2024 — by FZYOJ Cook · Cited by 10 — Psychologically effective debunki...</span><span class="citation-popover-meta">Published: July 7, 2024</span></span></span>
+A common recommendation is the "factmythfallacyfact" structure. The correction begins with the accurate information, briefly identifies the myth, explains why it is misleading, and ends by reinforcing the correct account. The goal is to ensure that the remembered takeaway is the fact rather than the false claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aclanthology.org/anthology-files/anthology-files/pdf/climatenlp/2024.climatenlp-1.4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-snippet">ACL AnthologyGenerative Debunking of Climate MisinformationJuly 7, 2024  by FZYOJ Cook  Cited by 10  Psychologically effective debunki...</span><span class="citation-popover-meta">Published: July 7, 2024</span></span></span>
 
-However, the evidence has become more nuanced. Recent studies have found little support for strong familiarity backfire effects in many real-world settings. In other words, correcting misinformation usually helps more than it harms, even when the myth is mentioned. Researchers increasingly argue that the larger risk is often leaving myths unchallenged. PMC PubMed That does not mean repetition is irrelevant. It means repetition must be handled strategically. Effective myth correction typically: <span class="citation-chip-wrap"><a class="citation-chip" href="https://aclanthology.org/anthology-files/anthology-files/pdf/climatenlp/2024.climatenlp-1.4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[aclanthology.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-snippet">ACL AnthologyGenerative Debunking of Climate MisinformationJuly 7, 2024 — by FZYOJ Cook · Cited by 10 — Psychologically effective debunki...</span><span class="citation-popover-meta">Published: July 7, 2024</span></span></span>
-
+However, the evidence has become more nuanced. Recent studies have found little support for strong familiarity [backfire]({{ 'backfire/' | relative_url }}) effects in many real-world settings. In other words, correcting misinformation usually helps more than it harms, even when the myth is mentioned. Researchers increasingly argue that the larger risk is often leaving myths unchallenged. PMC PubMed That does not mean repetition is irrelevant. It means repetition must be handled strategically. Effective myth correction typically: <span class="citation-chip-wrap"><a class="citation-chip" href="https://aclanthology.org/anthology-files/anthology-files/pdf/climatenlp/2024.climatenlp-1.4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[aclanthology.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-snippet">ACL AnthologyGenerative Debunking of Climate MisinformationJuly 7, 2024  by FZYOJ Cook  Cited by 10  Psychologically effective debunki...</span><span class="citation-popover-meta">Published: July 7, 2024</span></span></span>
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -314,35 +304,32 @@ However, the evidence has become more nuanced. Recent studies have found little 
 * Clearly labels the false claim as false.
 * Explains why the myth spread or seems plausible.
 * Repeats the factual alternative more prominently than the myth itself.
-* Avoids catchy restatements that can circulate independently of the correction. Skeptical Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookFamiliarity backfire effect​​ Thus, while repeating misinformation generally inc...</span></span></span>
+* Avoids catchy restatements that can circulate independently of the correction. Skeptical Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookFamiliarity backfire effect Thus, while repeating misinformation generally inc...</span></span></span>
 
 </div>
 
 In this sense, myth correction resembles narrative competition. The aim is not merely to deny a claim but to make a better story more available and memorable.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_correcting_myths_mis_aa4eac-Illustration-2-dark.svg" | relative_url }}" alt="Better Corrections illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_correcting_myths_mis_aa4eac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_correcting_myths_mis_aa4eac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Misconception Corrections Need Replacement Explanations
 
 Misconceptions create a different challenge because people often rely on them to understand how something works.
 
-Educational research describes many misconceptions as coherent but incomplete mental models. A learner may not simply lack information; they may possess an internally consistent explanation that appears reasonable from their perspective. Correcting the error therefore requires conceptual change rather than fact substitution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[Mary Lou Fulton College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">chi concpetualchangechapter 0</span><span class="citation-popover-snippet">Mary Lou Fulton CollegeThree Types of Conceptual Change: Belief Revision, Mental...by MTH Chi · Cited by 1386 — Learning of complex mate...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">ScienceDirectConceptual Change Theory - an overviewConceptual change theory refers to frameworks that guide the design of educational int...</span></span></span>
+Educational research describes many misconceptions as coherent but incomplete mental models. A learner may not simply lack information; they may possess an internally consistent explanation that appears reasonable from their perspective. Correcting the error therefore requires conceptual change rather than fact substitution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[Mary Lou Fulton College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">chi concpetualchangechapter 0</span><span class="citation-popover-snippet">Mary Lou Fulton CollegeThree Types of Conceptual Change: Belief Revision, Mental...by MTH Chi  Cited by 1386  Learning of complex mate...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">Conceptual Change Theory - an overviewConceptual change theory refers to frameworks that guide the design of educational int...</span></span></span>
 
 Consider the common misconception that seasons occur because Earth moves closer to and farther from the Sun. Merely stating that this is false does not answer the learner's underlying question: why does summer happen at all? Unless a replacement explanation involving Earth's axial tilt and changing sunlight angles becomes understandable, the original misconception retains its usefulness. The old model continues to explain experience better than the new fragment of information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/education-career/k12/misconceptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association-Star learning experiences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationHow do I get my students over their alternative conceptions...Several instructional strategies have pr...</span></span></span>
 
 Research on conceptual change repeatedly shows that learners need an alternative framework that is:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Intelligible: they can understand it.
 * Plausible: it appears capable of explaining observations.
-* Productive: it helps answer future questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[Mary Lou Fulton College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">chi concpetualchangechapter 0</span><span class="citation-popover-snippet">Mary Lou Fulton CollegeThree Types of Conceptual Change: Belief Revision, Mental...by MTH Chi · Cited by 1386 — Learning of complex mate...</span></span></span>
+* Productive: it helps answer future questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[Mary Lou Fulton College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">chi concpetualchangechapter 0</span><span class="citation-popover-snippet">Mary Lou Fulton CollegeThree Types of Conceptual Change: Belief Revision, Mental...by MTH Chi  Cited by 1386  Learning of complex mate...</span></span></span>
 
 </div>
 
 This is why effective misconception correction often uses:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -356,9 +343,6 @@ This is why effective misconception correction often uses:
 
 The objective is not merely disbelief in the old idea. The objective is adoption of a more useful model.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gCfzeONu3Mo" title="How miscommunication happens (and how to avoid it) - Katherine Hampsten" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gCfzeONu3Mo" target="_blank" rel="noopener noreferrer">How miscommunication happens (and how to avoid it) - Katherine Hampsten</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gCfzeONu3Mo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gCfzeONu3Mo">Open on YouTube</a></p></div></div></div>
-
 ## How Mismatched Corrections Can Fail
 
 Many failed correction efforts come from treating myths like misconceptions or misconceptions like myths.
@@ -369,6 +353,7 @@ A public myth may survive because it is socially familiar, not because people ha
 
 In these cases, lengthy technical explanations can miss the problem entirely. A health myth circulating through social media may owe its influence to repetition, [identity]({{ 'identity/' | relative_url }}) signalling or emotional appeal. Responding with pages of technical detail may leave the myth's public visibility untouched while overwhelming the audience. The correction answers a question people were not asking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Health-related myths spread rapidly and can have a negative impact not only on individuals, but also on public health.Read more...</span></span></span>
 
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_correcting_myths_mis_aa4eac-Illustration-3-dark.svg" | relative_url }}" alt="Better Corrections illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_correcting_myths_mis_aa4eac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_correcting_myths_mis_aa4eac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When a misconception receives only a fact-check
 
 The opposite failure is common in classrooms and public communication.
@@ -377,11 +362,9 @@ Someone holding a misconception often receives a simple correction: "That is wro
 
 This creates the illusion of learning without genuine conceptual change.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_correcting_myths_mis_aa4eac-Illustration-3-dark.svg" | relative_url }}" alt="Better Corrections illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_correcting_myths_mis_aa4eac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_correcting_myths_mis_aa4eac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When debunking leaves a vacuum
 
-Research on misinformation also suggests that corrections work better when they provide an alternative explanation rather than merely retracting information. People naturally seek causal coherence. If a correction removes a claim without explaining what happened instead, fragments of the original belief often remain influential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2017.jarmac.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabRETRACTIONS, REMINDERS AND MISINFORMATIONOctober 26, 2017 — by UKH Ecker · Cited by 400 — Retractions that ex...</span><span class="citation-popover-meta">Published: October 26, 2017</span></span></span>
+Research on misinformation also suggests that corrections work better when they provide an alternative explanation rather than merely retracting information. People naturally seek causal coherence. If a correction removes a claim without explaining what happened instead, fragments of the original belief often remain influential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2017.jarmac.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabRETRACTIONS, REMINDERS AND MISINFORMATIONOctober 26, 2017  by UKH Ecker  Cited by 400  Retractions that ex...</span><span class="citation-popover-meta">Published: October 26, 2017</span></span></span>
 
 This principle sits at the boundary between myth correction and misconception correction. Even public myths often need a replacement account once the myth is challenged.
 
@@ -397,13 +380,9 @@ A simple diagnostic approach is:
 
 QuestionMore likely a myth problemMore likely a misconception problemWhy is it believed?Familiarity and repetitionExplanatory usefulnessWhat sustains it?Social circulationMental modelsMain corrective goalReplace a public storyReplace an internal explanationMost common failureRepeating the myth without reframingProviding facts without understandingStrongest correctionFact-centred debunking with alternative narrativeConceptual change with better explanatory model
 
-The distinction is not absolute. Some beliefs contain both elements. Vaccine misinformation, climate myths and health rumours can spread socially while also becoming embedded in people's explanations of how the world works. In such cases, effective correction combines both approaches: challenge the public narrative while supplying a coherent alternative account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEffective correction of misinformationby T Prike · 2023 · Cited by 67 — A longstanding concern has been that repeating misin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Health-related myths spread rapidly and can have a negative impact not only on individuals, but also on public health.Read more...</span></span></span>
+The distinction is not absolute. Some beliefs contain both elements. Vaccine misinformation, climate myths and health rumours can spread socially while also becoming embedded in people's explanations of how the world works. In such cases, effective correction combines both approaches: challenge the public narrative while supplying a coherent alternative account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Effective correction of misinformationby T Prike  2023  Cited by 67  A longstanding concern has been that repeating misin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Health-related myths spread rapidly and can have a negative impact not only on individuals, but also on public health.Read more...</span></span></span>
 
 The broader lesson is that false beliefs are not all maintained by the same mechanism. Corrections work best when they address the specific role the belief plays. A myth often requires a better story. A misconception usually requires a better model.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DhlRgwdDc-E" title="Debunking the myths of OCD - Natascha M. Santos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DhlRgwdDc-E" target="_blank" rel="noopener noreferrer">Debunking the myths of OCD - Natascha M. Santos</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DhlRgwdDc-E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DhlRgwdDc-E">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -554,11 +533,11 @@ The broader lesson is that false beliefs are not all maintained by the same mech
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-e615f7-correct-the-story-or-fix-the-model-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="better-corrections-e615f7-correct-the-story-or-fix-the-model-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Posters â€“ England &amp; Wales, Educational Wall Art, Framed, Canvas, Print"><img src="{{ '/assets/images/marketplace-covers/d35735397948982a1832.jpg' | relative_url }}" alt="Listing image for UK Map Posters â€“ England &amp; Wales, Educational Wall Art, Framed, Canvas, Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-e615f7-correct-the-story-or-fix-the-model-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="better-corrections-e615f7-correct-the-story-or-fix-the-model-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print"><img src="{{ '/assets/images/marketplace-covers/d35735397948982a1832.jpg' | relative_url }}" alt="Listing image for UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-e615f7-correct-the-story-or-fix-the-model-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="better-corrections-e615f7-correct-the-story-or-fix-the-model-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK Map Posters â€“ England &amp; Wales, Educational Wall Art, Framed, Canvas, Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-e615f7-correct-the-story-or-fix-the-model-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="better-corrections-e615f7-correct-the-story-or-fix-the-model-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-corrections-e615f7-correct-the-story-or-fix-the-model-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="better-corrections-e615f7-correct-the-story-or-fix-the-model-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
         <div class="fr-book-actions">
@@ -801,89 +780,89 @@ The broader lesson is that false beliefs are not all maintained by the same mech
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X23001574](https://www.sciencedirect.com/science/article/pii/S2352250X23001574)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectEffective correction of misinformationby T Prike · 2023 · Cited by 67 — A longstanding concern has been that repeating misin...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X23001574</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective correction of misinformationby T Prike  2023  Cited by 67  A longstanding concern has been that repeating misin...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Conceptual Change Theory  
-   Link: [https://www.sciencedirect.com/topics/psychology/conceptual-change-theory](https://www.sciencedirect.com/topics/psychology/conceptual-change-theory)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectConceptual Change Theory - an overviewConceptual change theory refers to frameworks that guide the design of educational int...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/conceptual-change-theory</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual Change Theory - an overviewConceptual change theory refers to frameworks that guide the design of educational int...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 102 — The backfire effect is...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson  2022  Cited by 102  The backfire effect is...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: Familiarity backfire effects?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167811626000261](https://www.sciencedirect.com/science/article/pii/S0167811626000261)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disentangling the competing...by IN Nibat · 2026 — Repetition reliably increases belief in misinformation (illusory truth effect), while...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disentangling the competing...by IN Nibat  2026  Repetition reliably increases belief in misinformation (illusory truth effect), while...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: education.asu.edu  
    Title: chi concpetualchangechapter 0  
-   Link: [https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf](https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mary Lou Fulton CollegeThree Types of Conceptual Change: Belief Revision, Mental...by MTH Chi · Cited by 1386 — Learning of complex mate...</p></details>
+   Link: <a href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mary Lou Fulton CollegeThree Types of Conceptual Change: Belief Revision, Mental...by MTH Chi  Cited by 1386  Learning of complex mate...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Illusory truth effect  
-   Link: [https://thedecisionlab.com/biases/illusory-truth-effect](https://thedecisionlab.com/biases/illusory-truth-effect)  
+   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabIllusory truth effect - The Decision...Illusory Truth Effect is the positive feeling when we hear information that we be...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: skepticalscience.com  
-   Link: [https://skepticalscience.com/print.php?n=4890](https://skepticalscience.com/print.php?n=4890)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: The elusive backfire effects22 Oct 2020 — Because a myth is necessarily repeated when it is debunked, the ri...</p></details>
+   Link: <a href="https://skepticalscience.com/print.php?n=4890" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=4890</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: The elusive backfire effects22 Oct 2020  Because a myth is necessarily repeated when it is debunked, the ri...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: takinglearningseriously.com  
-   Link: [https://takinglearningseriously.com/barriers-to-learning/misconceptions/](https://takinglearningseriously.com/barriers-to-learning/misconceptions/)  
+   Link: <a href="https://takinglearningseriously.com/barriers-to-learning/misconceptions/" target="_blank" rel="noopener noreferrer nofollow">https://takinglearningseriously.com/barriers-to-learning/misconceptions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taking Learning SeriouslyMisconceptionsChanging students&#x27; misconceptions involves revising their conceptual understanding, and not simply...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/education-career/k12/misconceptions](https://www.apa.org/education-career/k12/misconceptions)  
+   Link: <a href="https://www.apa.org/education-career/k12/misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/education-career/k12/misconceptions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationHow do I get my students over their alternative conceptions...Several instructional strategies have pr...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ltrr.arizona.edu  
-   Link: [https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf](https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laboratory of Tree-Ring ResearchThe Debunking HandbookNovember 25, 2011 — by S Lewandowsky — However, this makes people more familiar wit...</p></details>
+   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laboratory of Tree-Ring ResearchThe Debunking HandbookNovember 25, 2011  by S Lewandowsky  However, this makes people more familiar wit...</p></details>
    Published: November 25, 2011  
 
 11. <a id="endnote-11"></a>
    Source: skepticalscience.com  
-   Link: [https://skepticalscience.com/print.php?n=1105](https://skepticalscience.com/print.php?n=1105)  
+   Link: <a href="https://skepticalscience.com/print.php?n=1105" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=1105</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unless great care is taken, any effort to debunk misinformation can inadvertently reinforce the very myths one...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: climatechangecommunication.org  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookFamiliarity backfire effect​​ Thus, while repeating misinformation generally inc...</p></details>
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookFamiliarity backfire effect Thus, while repeating misinformation generally inc...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aclanthology.org  
-   Link: [https://aclanthology.org/anthology-files/anthology-files/pdf/climatenlp/2024.climatenlp-1.4.pdf](https://aclanthology.org/anthology-files/anthology-files/pdf/climatenlp/2024.climatenlp-1.4.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACL AnthologyGenerative Debunking of Climate MisinformationJuly 7, 2024 — by FZYOJ Cook · Cited by 10 — Psychologically effective debunki...</p></details>
+   Link: <a href="https://aclanthology.org/anthology-files/anthology-files/pdf/climatenlp/2024.climatenlp-1.4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/anthology-files/anthology-files/pdf/climatenlp/2024.climatenlp-1.4.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACL AnthologyGenerative Debunking of Climate MisinformationJuly 7, 2024  by FZYOJ Cook  Cited by 10  Psychologically effective debunki...</p></details>
    Published: July 7, 2024  
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/37043493/](https://pubmed.ncbi.nlm.nih.gov/37043493/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>failure to replicate familiarity or fear-driven backfire effectsby UKH Ecker · 2023 · Cited by 41 — It has been argued that correction ef...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37043493/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37043493/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>failure to replicate familiarity or fear-driven backfire effectsby UKH Ecker  2023  Cited by 41  It has been argued that correction ef...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508](https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Health-related myths spread rapidly and can have a negative impact not only on individuals, but also on public health.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: emc-lab.org  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2017.jarmac.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2017.jarmac.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker [Memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Cognition LabRETRACTIONS, REMINDERS AND MISINFORMATIONOctober 26, 2017 — by UKH Ecker · Cited by 400 — Retractions that ex...</p></details>
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2017.jarmac.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2017.jarmac.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker [Memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Cognition LabRETRACTIONS, REMINDERS AND MISINFORMATIONOctober 26, 2017  by UKH Ecker  Cited by 400  Retractions that ex...</p></details>
    Published: October 26, 2017  
 
 ### Additional References
@@ -891,55 +870,55 @@ The broader lesson is that false beliefs are not all maintained by the same mech
 17. <a id="endnote-17"></a>
    Source: pure.ed.ac.uk  
    Title: ed.ac.uk Parents' beliefs in misinformation about vaccines  
-   Link: [https://www.pure.ed.ac.uk/ws/files/82242964/Parents_belief_in_misinformation.pdf](https://www.pure.ed.ac.uk/ws/files/82242964/Parents_belief_in_misinformation.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accountby S Pluviano · Cited by 98 — A key problem with this technique is that repeating myths might contribute to increasing their accep...</p></details>
+   Link: <a href="https://www.pure.ed.ac.uk/ws/files/82242964/Parents_belief_in_misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pure.ed.ac.uk/ws/files/82242964/Parents_belief_in_misinformation.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>countby S Pluviano  Cited by 98  A key problem with this technique is that repeating myths might contribute to increasing their accep...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: tipsforteachers.co.uk  
-   Link: [https://tipsforteachers.co.uk/research-three-types-of-conceptual-change-belief-revision-mental-model-transformation-and-categorical-shift/](https://tipsforteachers.co.uk/research-three-types-of-conceptual-change-belief-revision-mental-model-transformation-and-categorical-shift/)  
+   Link: <a href="https://tipsforteachers.co.uk/research-three-types-of-conceptual-change-belief-revision-mental-model-transformation-and-categorical-shift/" target="_blank" rel="noopener noreferrer nofollow">https://tipsforteachers.co.uk/research-three-types-of-conceptual-change-belief-revision-mental-model-transformation-and-categorical-shift/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>articularly within science education: belief revision, mental model...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: research-information.bris.ac.uk  
    Title: bris.ac.uk Swire, B., Ecker, UKH, & Lewandowsky, S  
-   Link: [https://research-information.bris.ac.uk/ws/files/148088061/JEPLMCinpress.pdf](https://research-information.bris.ac.uk/ws/files/148088061/JEPLMCinpress.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2017). The role ofby B Swire — Some reports suggest that the familiarity boost associated with a correction can be so detrimental that i...</p></details>
+   Link: <a href="https://research-information.bris.ac.uk/ws/files/148088061/JEPLMCinpress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/ws/files/148088061/JEPLMCinpress.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2017). The role ofby B Swire  Some reports suggest that the familiarity boost associated with a correction can be so detrimental that i...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: normalcurves.com  
    Title: the backfire effect can fact checking make false beliefs stronger  
-   Link: [https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/](https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The “backfire effect” claims that debunking myths can actually make false beliefs stronger.Read more...</p></details>
+   Link: <a href="https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/" target="_blank" rel="noopener noreferrer nofollow">https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect claims that debunking myths can actually make false beliefs stronger.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: 3starlearningexperiences.wordpress.com  
-   Link: [https://3starlearningexperiences.wordpress.com/2019/07/10/tackling-misconceptions-through-conceptual-change-part-2/](https://3starlearningexperiences.wordpress.com/2019/07/10/tackling-misconceptions-through-conceptual-change-part-2/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3-Star learning experiencesTackling Misconceptions Through Conceptual Change – Part 210 Jul 2019 — Similar to beliefs, a mental model can...</p></details>
+   Link: <a href="https://3starlearningexperiences.wordpress.com/2019/07/10/tackling-misconceptions-through-conceptual-change-part-2/" target="_blank" rel="noopener noreferrer nofollow">https://3starlearningexperiences.wordpress.com/2019/07/10/tackling-misconceptions-through-conceptual-change-part-2/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>3-Star learning experiencesTackling Misconceptions Through Conceptual Change  Part 210 Jul 2019  Similar to beliefs, a mental model can...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: shapingtomorrowsworld.org  
    Title: debunking handbook part 2 familiarity backfire effect  
-   Link: [https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-backfire-effect.html](https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-backfire-effect.html)  
+   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-backfire-effect.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-backfire-effect.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The driving force is the fact that familiarity increases the chances of accepting information as true.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: absolutelymaybe.plos.org  
    Title: debunking advice debunked  
-   Link: [https://absolutelymaybe.plos.org/2017/04/05/debunking-advice-debunked/](https://absolutelymaybe.plos.org/2017/04/05/debunking-advice-debunked/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advice Debunked - Absolutely Maybe - PLOS5 Apr 2017 — The Handbook explores the surprising fact that debunking myths can sometimes reinfo...</p></details>
+   Link: <a href="https://absolutelymaybe.plos.org/2017/04/05/debunking-advice-debunked/" target="_blank" rel="noopener noreferrer nofollow">https://absolutelymaybe.plos.org/2017/04/05/debunking-advice-debunked/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advice Debunked - Absolutely Maybe - PLOS5 Apr 2017  The Handbook explores the surprising fact that debunking myths can sometimes reinfo...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: teacherhead.com  
    Title: mental models memory and misconceptions  
-   Link: [https://teacherhead.com/2016/05/08/mental-models-memory-and-misconceptions/](https://teacherhead.com/2016/05/08/mental-models-memory-and-misconceptions/)  
+   Link: <a href="https://teacherhead.com/2016/05/08/mental-models-memory-and-misconceptions/" target="_blank" rel="noopener noreferrer nofollow">https://teacherhead.com/2016/05/08/mental-models-memory-and-misconceptions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The challenge comes when students have an underdeveloped or incorrect model onto which they are...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41467-026-70041-x](https://www.nature.com/articles/s41467-026-70041-x)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic review and meta-analysis of the evidence for an...by S Ye · 2026 · Cited by 3 — The illusory truth effect, or repetition-indu...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41467-026-70041-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-70041-x</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic review and meta-analysis of the evidence for an...by S Ye  2026  Cited by 3  The illusory truth effect, or repetition-indu...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby B Swire-Thompson · 2021 · Cited by 79 — For myths, this was the fact-first condition. Third, in the facts-only format, all myths we...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson  2021  Cited by 79  For myths, this was the fact-first condition. Third, in the facts-only format, all myths we...</p></details>

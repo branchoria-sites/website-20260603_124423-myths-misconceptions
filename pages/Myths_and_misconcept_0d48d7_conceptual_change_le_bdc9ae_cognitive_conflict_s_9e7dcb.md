@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_private_universe_ast_4d78d6
 - Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - concept-change
 - conflict
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - concept-change
 - conflict
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Surprising evidence helps only when students compare predictions, evidence, and a stronger replacement explanation.
 hero_summary: Surprising evidence helps only when students compare predictions, evidence, and a stronger replacement explanation.
 layout: default
 permalink: /conflict/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /concept-change/
 nav_short_title: Conflict
 title: When Surprises Actually Change Thinking
-title_full: When Surprises Actually Change Thinking | Concept Change
+title_full: When Surprises Actually Change Thinking
 display_title_short: Conflict
 display_title: Conflict
 heading_title: When Surprises Actually Change Thinking
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Learners Replace Wrong Ideas | Mythcraft
+parent_title: How Learners Replace Wrong Ideas
 parent_permalink: /concept-change/
 parent_nav_short_title: Concept Change
 parent_heading_title: How Learners Replace Wrong Ideas
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Corrections Need Better Explanations
 up_link:
   basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
@@ -259,7 +259,7 @@ next_link:
   permalink: /diagnostics/
   short_title: Diagnostics
   heading_title: The Questions That Reveal Misconceptions
-date: '2026-06-09 05:04:36 '
+date: '2026-06-11 22:21:27 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-1.webp
@@ -268,34 +268,33 @@ image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_co
 
 ## Introduction
 
-Classroom surprises are often treated as a shortcut to better science learning. A teacher drops two objects and they hit the ground together. A metal ball and ring behave differently when heated. A candle under a jar goes out sooner than students expect. These moments can be memorable, but research on [conceptual change]({{ 'concept-change/' | relative_url }}) shows that surprise by itself rarely replaces a misconception. Students can watch a striking demonstration, enjoy it, and still leave with the same underlying explanation they had before. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span>
-
+Classroom surprises are often treated as a shortcut to better science learning. A teacher drops two objects and they hit the ground together. A metal ball and ring behave differently when heated. A candle under a jar goes out sooner than students expect. These moments can be memorable, but research on conceptual change shows that surprise by itself rarely replaces a misconception. Students can watch a striking demonstration, enjoy it, and still leave with the same underlying explanation they had before. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-1-dark.svg" | relative_url }}" alt="Conflict illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What matters is not simply creating cognitive conflict — the feeling that evidence clashes with an existing belief — but helping learners work through that conflict. The strongest results tend to appear when students first commit to a prediction, then compare that prediction with evidence, and finally construct a more powerful explanation that accounts for both the old intuition and the new observation. Cognitive conflict can open a door, but it does not tell students what to walk towards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.weber.edu">[faculty.weber.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.weber.edu</span><span class="citation-popover-snippet">Toward a Theory of Conceptual Changeby GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conception: Toward a Theory of Conceptu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/2158244015594662" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEffects of Cognitive Conflict Instructional Strategy on...by BC Madu · 2015 · Cited by 101 — Posner, Strike, Hewson, and Ge...</span></span></span>
 
 ## Why discrepant events can fail
 
-The classic conceptual change literature gave cognitive conflict a central role. Posner, Strike, Hewson and Gertzog argued that learners are more likely to replace an existing conception when they become dissatisfied with it and encounter a new idea that seems intelligible, plausible and fruitful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.weber.edu">[faculty.weber.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.weber.edu</span><span class="citation-popover-snippet">Toward a Theory of Conceptual Changeby GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conception: Toward a Theory of Conceptu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[2eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-snippet">eClass UOAAccommodation of a scientific conception: Toward a theory...by GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conc...</span></span></span>
+The classic conceptual change literature gave cognitive conflict a central role. Posner, Strike, Hewson and Gertzog argued that learners are more likely to replace an existing conception when they become dissatisfied with it and encounter a new idea that seems intelligible, plausible and fruitful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.weber.edu">[faculty.weber.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.weber.edu</span><span class="citation-popover-snippet">Toward a Theory of Conceptual Changeby GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conception: Toward a Theory of Conceptu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[2eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...by GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conc...</span></span></span>
 
 Many science lessons tried to create this dissatisfaction through discrepant events: demonstrations whose outcomes contradict student expectations. The assumption was straightforward. If students see evidence that their idea cannot explain, they will abandon it and adopt a scientific alternative.
 
 In practice, the process is far less reliable.
 
-Research reviews have repeatedly found that cognitive conflict interventions produce mixed results. Some students change their thinking, while others reinterpret the evidence, ignore the contradiction, or treat the event as a special case. A surprising result may challenge the teacher's understanding of the topic, yet fail to feel meaningful to the learner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span> ResearchGate Several recurring problems appear in classrooms: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateInconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</span></span></span>
+Research reviews have repeatedly found that cognitive conflict interventions produce mixed results. Some students change their thinking, while others reinterpret the evidence, ignore the contradiction, or treat the event as a special case. A surprising result may challenge the teacher's understanding of the topic, yet fail to feel meaningful to the learner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span> ResearchGate Several recurring problems appear in classrooms: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Inconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</span></span></span>
 
 * **Students may not notice the conflict.** If a learner's prediction was never made explicit, they may not recognise that the result contradicts their own thinking.
 * **The evidence may seem untrustworthy.** Students sometimes assume the equipment was faulty, the teacher manipulated the outcome, or unusual conditions produced an exception.
 * **The misconception may be deeply connected to everyday experience.** A learner who believes continuous force is needed for motion sees countless objects stop moving when pushes stop. One classroom demonstration may not outweigh years of observation.
-* **Students may memorise the result without changing the model.** They remember what happened but not why it happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span> DigitalCommons This helps explain a common teaching frustration. A lesson can feel highly engaging <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1412&amp;context=teachlearnfacpub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[digitalcommons.unl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">In this study, we defined and quantified the degree of cognitive conflict induced by a discrepant event from a cognitive perspective.Read...</span></span></span>, with visible surprise and discussion, yet later assessments show that many students still hold the original misconception.
+* **Students may memorise the result without changing the model.** They remember what happened but not why it happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span> DigitalCommons This helps explain a common teaching frustration. A lesson can feel highly engaging <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1412&amp;context=teachlearnfacpub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[digitalcommons.unl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">In this study, we defined and quantified the degree of cognitive conflict induced by a discrepant event from a cognitive perspective.Read...</span></span></span>, with visible surprise and discussion, yet later assessments show that many students still hold the original misconception.
 
 ### The danger of treating surprise as instruction
 
 Discrepant events are sometimes used as attention-grabbing performances. Students laugh, react and become curious. Attention is valuable, but conceptual change requires more than attention.
 
-Studies of cognitive conflict suggest that confusion can become productive only when learners actively try to resolve it. If the conflict remains unresolved, students may simply store the contradiction alongside their original belief. They end up with two competing explanations rather than a reorganised understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateInconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</span></span></span>
+Studies of cognitive conflict suggest that confusion can become productive only when learners actively try to resolve it. If the conflict remains unresolved, students may simply store the contradiction alongside their original belief. They end up with two competing explanations rather than a reorganised understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Inconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</span></span></span>
 
-This is one reason science education researchers increasingly distinguish between creating conflict and supporting knowledge reconstruction. The critical question is not whether students were surprised. It is whether they built a better explanatory model afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span>
+This is one reason science education researchers increasingly distinguish between creating conflict and supporting knowledge reconstruction. The critical question is not whether students were surprised. It is whether they built a better explanatory model afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span>
 
 ## Prediction, evidence and explanation routines
 
@@ -303,16 +302,13 @@ One of the most robust responses to the limits of pure cognitive conflict has be
 
 A widely used approach is the Predict–Observe–Explain sequence.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rnlHxAYwCbg" title="Forces for Kids | Balanced and Unbalanced | Science Lesson for Grades 3-5 | Mini-Clip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rnlHxAYwCbg" target="_blank" rel="noopener noreferrer">Forces for Kids | Balanced and Unbalanced | Science Lesson for Grades 3-5 | Mini-Clip</a></p><p class="youtube-embed-meta">Channel: GenerationGenius</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rnlHxAYwCbg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rnlHxAYwCbg">Open on YouTube</a></p></div></div></div>
-
 ### Why prediction matters
 
 Prediction changes a demonstration from passive viewing into a test of ideas.
 
 When students must commit to an outcome before seeing evidence, their existing model becomes visible. They are no longer watching a teacher's experiment. They are testing their own explanation of how the world works.
 
-This matters because misconceptions are often tacit. Students may not realise what assumptions they are using until they are asked to make a concrete prediction. Research on discrepant events repeatedly highlights the importance of exposing learners' prior conceptions before confronting them with contradictory evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateInconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</span></span></span>
+This matters because misconceptions are often tacit. Students may not realise what assumptions they are using until they are asked to make a concrete prediction. Research on discrepant events repeatedly highlights the importance of exposing learners' prior conceptions before confronting them with contradictory evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Inconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</span></span></span>
 
 For example, before demonstrating that objects of different masses fall at the same rate in the absence of significant air resistance, a teacher might ask students to predict which object will land first and explain why. The explanation is often more informative than the prediction itself. It reveals whether students are reasoning about weight, force, speed, momentum or everyday experience.
 
@@ -320,12 +316,11 @@ For example, before demonstrating that objects of different masses fall at the s
 
 Observation is commonly treated as the decisive step. Yet students do not simply record what they see.
 
-Research on science learning has shown that observation is influenced by prior beliefs. Learners may focus on different aspects of an event, interpret the same evidence differently, or remember outcomes selectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span>
+Research on science learning has shown that observation is influenced by prior beliefs. Learners may focus on different aspects of an event, interpret the same evidence differently, or remember outcomes selectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span>
 
 Because of this, effective instruction often slows down the observation phase. Students compare what happened with what they expected. They discuss discrepancies. They revisit initial reasoning rather than moving immediately to the correct answer.
 
 The conflict becomes an object of reflection rather than a fleeting surprise.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-2-dark.svg" | relative_url }}" alt="Conflict illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Explanation is where conceptual change happens
@@ -342,9 +337,6 @@ Without this explanatory reconstruction, students may experience dissatisfaction
 
 The strongest conceptual change interventions do not stop at contradiction. They help students build a model that can be used repeatedly across contexts.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZdyOwZ4_RnI" title="How Does Cognitive Behavioral Therapy Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZdyOwZ4_RnI" target="_blank" rel="noopener noreferrer">How Does Cognitive Behavioral Therapy Work?</a></p><p class="youtube-embed-meta">Channel: Psych Hub</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZdyOwZ4_RnI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZdyOwZ4_RnI">Open on YouTube</a></p></div></div></div>
-
 ### From anomaly to explanation
 
 Consider a student who believes that seasons occur because Earth moves closer to the Sun during summer.
@@ -355,6 +347,7 @@ The instructional challenge is helping students replace the distance model with 
 
 The replacement explanation succeeds because it explains more phenomena than the original one. It is not merely different. It is more powerful. This emphasis on explanatory fruitfulness appears throughout conceptual change research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.weber.edu">[faculty.weber.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.weber.edu</span><span class="citation-popover-snippet">Toward a Theory of Conceptual Changeby GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conception: Toward a Theory of Conceptu...</span></span></span>
 
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-3-dark.svg" | relative_url }}" alt="Conflict illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Revisiting the new model in multiple settings
 
 A common reason misconceptions return is that the new explanation remains tied to a single classroom example.
@@ -364,7 +357,6 @@ Students may correctly answer a question immediately after instruction yet rever
 Research on long-term conceptual change therefore emphasises repeated application. Learners need chances to use the new model across different problems, examples and contexts. The goal is not simply recognising a correct answer but reorganising how phenomena are interpreted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLong-Lasting Conceptual Change in Science Education</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory of conceptual change. Science Education. 1982;66(2):211–...Read more...</span></span></span>
 
 In practical terms, this means returning to the same underlying idea in new forms:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -378,13 +370,11 @@ In practical terms, this means returning to the same underlying idea in new form
 
 The model becomes useful rather than merely accepted.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-3-dark.svg" | relative_url }}" alt="Conflict illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When cognitive conflict backfires
 
 The phrase "cognitive conflict" can suggest that stronger contradiction produces stronger learning. Evidence does not support such a simple relationship.
 
-If the conflict is too weak, students may not notice it. If it is too strong, they may reject the evidence, disengage, or defend the original belief more vigorously. Researchers have argued that meaningful conflict depends on learners viewing the contradiction as relevant, understandable and solvable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1412&amp;context=teachlearnfacpub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">In this study, we defined and quantified the degree of cognitive conflict induced by a discrepant event from a cognitive perspective.Read...</span></span></span> ScienceDirect Motivation and beliefs about knowledge also matter. Students who see science as a collection of facts to memorise may respond differently fro <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span> m students who view explanations as models that can be tested and revised. Reviews of conceptual change instruction increasingly stress that emotional, motivational and epistemological factors influence whether conflict leads to learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span>
+If the conflict is too weak, students may not notice it. If it is too strong, they may reject the evidence, disengage, or defend the original belief more vigorously. Researchers have argued that meaningful conflict depends on learners viewing the contradiction as relevant, understandable and solvable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1412&amp;context=teachlearnfacpub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">In this study, we defined and quantified the degree of cognitive conflict induced by a discrepant event from a cognitive perspective.Read...</span></span></span> ScienceDirect Motivation and beliefs about knowledge also matter. Students who see science as a collection of facts to memorise may respond differently fro <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span> m students who view explanations as models that can be tested and revised. Reviews of conceptual change instruction increasingly stress that emotional, motivational and epistemological factors influence whether conflict leads to learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span>
 
 This helps explain why identical demonstrations can produce different outcomes in different classrooms. The effectiveness of cognitive conflict depends not only on the evidence presented but on how students interpret the task of learning itself.
 
@@ -394,11 +384,7 @@ Modern conceptual change research has moved away from a simple "prove students w
 
 Instead, conflict functions as a diagnostic and transitional tool. It reveals the limits of an existing explanation and creates a reason to search for a better one. The instructional work then shifts towards helping learners compare models, evaluate evidence and construct a more coherent account.
 
-In that sense, the key lesson from decades of research is surprisingly modest. Misconceptions are rarely overturned by a dramatic demonstration alone. Durable change is more likely when students publicly predict, encounter evidence that challenges those predictions, and then receive sustained support in building an explanation that does more explanatory work than the one they started with. Wiley Online Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateInconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1DmphC3Wozo" title="How Healthy People Regulate Their Emotions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1DmphC3Wozo" target="_blank" rel="noopener noreferrer">How Healthy People Regulate Their Emotions</a></p><p class="youtube-embed-meta">Channel: Psych2Go</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1DmphC3Wozo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1DmphC3Wozo">Open on YouTube</a></p></div></div></div>
-
+In that sense, the key lesson from decades of research is surprisingly modest. Misconceptions are rarely overturned by a dramatic demonstration alone. Durable change is more likely when students publicly predict, encounter evidence that challenges those predictions, and then receive sustained support in building an explanation that does more explanatory work than the one they started with. Wiley Online Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Inconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -796,118 +782,118 @@ In that sense, the key lesson from decades of research is surprisingly modest. M
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372](https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOn the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: faculty.weber.edu  
-   Link: [https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF](https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF)  
+   Link: <a href="https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF" target="_blank" rel="noopener noreferrer nofollow">https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Theory of Conceptual Changeby GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conception: Toward a Theory of Conceptu...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction](https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateInconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: eclass.uoa.gr  
-   Link: [https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf](https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eClass UOAAccommodation of a scientific conception: Toward a theory...by GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conc...</p></details>
+   Link: <a href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accommodation of a scientific conception: Toward a theory...by GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conc...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/200772791_On_the_cognitive_conflict_as_an_instructional_strategy_for_conceptual_change_A_critical_appraisal](https://www.researchgate.net/publication/200772791_On_the_cognitive_conflict_as_an_instructional_strategy_for_conceptual_change_A_critical_appraisal)  
+   Link: <a href="https://www.researchgate.net/publication/200772791_On_the_cognitive_conflict_as_an_instructional_strategy_for_conceptual_change_A_critical_appraisal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/200772791_On_the_cognitive_conflict_as_an_instructional_strategy_for_conceptual_change_A_critical_appraisal</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On the cognitive conflict as an instructional strategy for...One of the most common conceptual change instructional strategies implement...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: acquire.cqu.edu.au  
    Title: Students learning in science lessons Responses to discrepant events  
-   Link: [https://acquire.cqu.edu.au/articles/thesis/Students_learning_in_science_lessons_Responses_to_discrepant_events/13424681](https://acquire.cqu.edu.au/articles/thesis/Students_learning_in_science_lessons_Responses_to_discrepant_events/13424681)  
+   Link: <a href="https://acquire.cqu.edu.au/articles/thesis/Students_learning_in_science_lessons_Responses_to_discrepant_events/13424681" target="_blank" rel="noopener noreferrer nofollow">https://acquire.cqu.edu.au/articles/thesis/Students_learning_in_science_lessons_Responses_to_discrepant_events/13424681</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Students&#x27; learning in science lessons: Responses to...by K Appleton · 1993 · Cited by 5 — Discrepant events or counter-intuitive events...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1002/tea.21887](https://onlinelibrary.wiley.com/doi/10.1002/tea.21887)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/tea.21887" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/tea.21887</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of conceptual change strategies in science...8 Jul 2023 — The primary instructional implication of the original CCM is creating a cognit...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLong-Lasting Conceptual Change in Science Education  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accommodation of a scientific conception: Toward a theory of conceptual change. Science Education. 1982;66(2):211–...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
    Title: Conceptual Change in Science: A Process of Argumentation Posner, G  
-   Link: [https://www.researchgate.net/publication/228919537_Conceptual_Change_in_Science_A_Process_of_Argumentation](https://www.researchgate.net/publication/228919537_Conceptual_Change_in_Science_A_Process_of_Argumentation)  
+   Link: <a href="https://www.researchgate.net/publication/228919537_Conceptual_Change_in_Science_A_Process_of_Argumentation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228919537_Conceptual_Change_in_Science_A_Process_of_Argumentation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>J., Strike, K. A., Hewson, P. W., &amp; Gertzog, W. A.. (1982). Accommodation of a scientific conception: Toward a theory of conceptual chang...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: digitalcommons.unl.edu  
-   Link: [https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1412&context=teachlearnfacpub](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1412&context=teachlearnfacpub)  
+   Link: <a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1412&amp;context=teachlearnfacpub" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1412&amp;context=teachlearnfacpub</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In this study, we defined and quantified the degree of cognitive conflict induced by a discrepant event from a cognitive perspective.Read...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/2158244015594662](https://journals.sagepub.com/doi/10.1177/2158244015594662)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/2158244015594662" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2158244015594662</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsEffects of Cognitive Conflict Instructional Strategy on...by BC Madu · 2015 · Cited by 101 — Posner, Strike, Hewson, and Ge...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: tused.org  
-   Link: [https://www.tused.org/index.php/tused/article/view/917](https://www.tused.org/index.php/tused/article/view/917)  
+   Link: <a href="https://www.tused.org/index.php/tused/article/view/917" target="_blank" rel="noopener noreferrer nofollow">https://www.tused.org/index.php/tused/article/view/917</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of cognitive Conflict-Based Learning (CCBL)...by F Mufit · 2023 · Cited by 57 — This study aims to find out the effectiveness...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: research.ncl.ac.uk  
-   Link: [https://research.ncl.ac.uk/fasmed/positionpapers/Cognitive%2Bconflict_Nottingham_ude_revised.pdf](https://research.ncl.ac.uk/fasmed/positionpapers/Cognitive%2Bconflict_Nottingham_ude_revised.pdf)  
+   Link: <a href="https://research.ncl.ac.uk/fasmed/positionpapers/Cognitive%2Bconflict_Nottingham_ude_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.ncl.ac.uk/fasmed/positionpapers/Cognitive%2Bconflict_Nottingham_ude_revised.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive conflict is a term used to describe the psychological tension or perturbation that is created when an individual&#x27;s expectations...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchoutreach.org  
-   Link: [https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf](https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf)  
+   Link: <a href="https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual changeTHE COGNITIVE CONFLICT. PROCESS MODEL. From the many frameworks that appear in the literature, Potvin chose to frame his...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ejmste.com  
-   Link: [https://www.ejmste.com/article/fostering-conceptual-change-by-cognitive-conflict-based-instruction-on-students-understanding-of-4026](https://www.ejmste.com/article/fostering-conceptual-change-by-cognitive-conflict-based-instruction-on-students-understanding-of-4026)  
+   Link: <a href="https://www.ejmste.com/article/fostering-conceptual-change-by-cognitive-conflict-based-instruction-on-students-understanding-of-4026" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/article/fostering-conceptual-change-by-cognitive-conflict-based-instruction-on-students-understanding-of-4026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fostering Conceptual Change by Cognitive Conflict Based...by M Başer · 2006 · Cited by 271 — The purpose of this study was to investigat...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: dergipark.org.tr  
-   Link: [https://dergipark.org.tr/en/download/article-file/2349895](https://dergipark.org.tr/en/download/article-file/2349895)  
+   Link: <a href="https://dergipark.org.tr/en/download/article-file/2349895" target="_blank" rel="noopener noreferrer nofollow">https://dergipark.org.tr/en/download/article-file/2349895</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>effective tools that can be used to develop students&#x27; content knowledge, avoid and eliminate misconceptions...Read mo...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: per-central.org  
    Title: Toward a theory of conceptual change Journal Article Detail Page  
-   Link: [https://www.per-central.org/items/detail.cfm?ID=9832](https://www.per-central.org/items/detail.cfm?ID=9832)  
+   Link: <a href="https://www.per-central.org/items/detail.cfm?ID=9832" target="_blank" rel="noopener noreferrer nofollow">https://www.per-central.org/items/detail.cfm?ID=9832</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Education. Accommodation of a scientific conception: Toward a theory of conceptual change. written by George J. Posner...Read...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: eduhk.hk  
-   Link: [https://www.eduhk.hk/apfslt/v18_issue2/ates/page4.htm](https://www.eduhk.hk/apfslt/v18_issue2/ates/page4.htm)  
+   Link: <a href="https://www.eduhk.hk/apfslt/v18_issue2/ates/page4.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.eduhk.hk/apfslt/v18_issue2/ates/page4.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d T9, the students have become interesting and different because they have never...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ejmste.com  
    Title: conceptual change in sciencea process of argumentation 4180  
-   Link: [https://www.ejmste.com/download/conceptual-change-in-sciencea-process-of-argumentation-4180.pdf](https://www.ejmste.com/download/conceptual-change-in-sciencea-process-of-argumentation-4180.pdf)  
+   Link: <a href="https://www.ejmste.com/download/conceptual-change-in-sciencea-process-of-argumentation-4180.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/conceptual-change-in-sciencea-process-of-argumentation-4180.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Accommodation of a scientific conception: Toward a theory of conceptual change. Science Education. 66(2), 211-227. Redish, E. F. &amp; Stein...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: scirp.org  
    Title: Posner, G., Strike, K., Hewson, P., & Gertzog, W  
-   Link: [https://www.scirp.org/reference/referencespapers?referenceid=1093694](https://www.scirp.org/reference/referencespapers?referenceid=1093694)  
+   Link: <a href="https://www.scirp.org/reference/referencespapers?referenceid=1093694" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/reference/referencespapers?referenceid=1093694</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(1982)....Posner, G., Strike, K., Hewson, P., &amp; Gertzog, W. (1982). Accommodation of a scientific conception: Toward a theory of concept...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/131143653/Discrepant-Event](https://www.scribd.com/document/131143653/Discrepant-Event)  
+   Link: <a href="https://www.scribd.com/document/131143653/Discrepant-Event" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/131143653/Discrepant-Event</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>server. It is used in teaching to get students&#x27; attention...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: static.nsta.org  
-   Link: [https://static.nsta.org/pdfs/201201BookBeatStaticElectricity.pdf](https://static.nsta.org/pdfs/201201BookBeatStaticElectricity.pdf)  
+   Link: <a href="https://static.nsta.org/pdfs/201201BookBeatStaticElectricity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.nsta.org/pdfs/201201BookBeatStaticElectricity.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Learning With Discrepant Eventsby T O’Brien · 2010 · Cited by 25 — The three activities use science education [analogies](&amp;#123;&amp;#123; &#x27;analogies/&#x27; | relative_url &amp;#125;&amp;#125;) to challenge...</p></details>

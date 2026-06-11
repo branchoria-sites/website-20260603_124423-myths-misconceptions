@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9
 - Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - key-terms
 - cultural-myths
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - key-terms
 - cultural-myths
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Some false claims survive because they become familiar stories that people repeat before they ever check the evidence.
 hero_summary: Some false claims survive because they become familiar stories that people repeat before they ever check the evidence.
 layout: default
 permalink: /cultural-myths/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /key-terms/
 nav_short_title: Cultural Myths
 title: How False Claims Become Shared Stories
-title_full: How False Claims Become Shared Stories | Key Terms
+title_full: How False Claims Become Shared Stories
 display_title_short: Cultural Myths
 display_title: Cultural Myths
 heading_title: How False Claims Become Shared Stories
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: 'Myth or Misconception: What Is the Difference? | Mythcraft'
+parent_title: 'Myth or Misconception: What Is the Difference?'
 parent_permalink: /key-terms/
 parent_nav_short_title: Key Terms
 parent_heading_title: 'Myth or Misconception: What Is the Difference?'
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Is It a Myth or a Misconception?
 up_link:
   basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
@@ -265,7 +265,7 @@ next_link:
   permalink: /mistaken-models/
   short_title: Mistaken Models
   heading_title: Why Wrong Explanations Can Feel Right
-date: '2026-06-09 05:35:18 '
+date: '2026-06-11 22:36:55 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_fa
 
 ## Introduction
 
-A false belief becomes a cultural myth when it stops functioning as a simple mistake and starts functioning as a story that people share. At that point, its survival depends less on evidence and more on [repetition]({{ 'repetition/' | relative_url }}), familiarity and social usefulness. People encounter the claim through conversations, media, advertising, schools, family traditions or online networks long before they investigate whether it is true. Over time, the belief acquires a sense of obviousness: not because it has been verified, but because it has become culturally recognisable. Research on the “illusory truth effect” shows that repeated statements are often judged as more believable simply because they feel familiar. ScienceDirect PubMed This is one of the key differences between a misconception and a cultural myth. A misconception can remain private or limited to a small grou <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedA review of how repetition increases belief in misinformationby J Udry · 2024 · Cited by 100 — Repetition increases belief in infor...</span></span></span> p. A cultural myth becomes socially portable. It turns into a claim that people repeat, reference and recognise even when they cannot explain where it came from.
-
+A false belief becomes a cultural myth when it stops functioning as a simple mistake and starts functioning as a story that people share. At that point, its survival depends less on evidence and more on [repetition]({{ 'repetition/' | relative_url }}), familiarity and social usefulness. People encounter the claim through conversations, media, advertising, schools, family traditions or online networks long before they investigate whether it is true. Over time, the belief acquires a sense of obviousness: not because it has been verified, but because it has become culturally recognisable. Research on the “illusory truth effect” shows that repeated statements are often judged as more believable simply because they feel familiar. ScienceDirect PubMed This is one of the key differences between a misconception and a cultural myth. A misconception can remain private or limited to a small grou <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A review of how repetition increases belief in misinformationby J Udry · 2024 · Cited by 100 — Repetition increases belief in infor...</span></span></span> p. A cultural myth becomes socially portable. It turns into a claim that people repeat, reference and recognise even when they cannot explain where it came from.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-1-dark.svg" | relative_url }}" alt="Cultural Myths illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Makes a Belief Socially Repeatable?
@@ -283,7 +282,6 @@ A false belief becomes a cultural myth when it stops functioning as a simple mis
 Not every false claim becomes a myth. Many disappear because they are too complicated, too technical or too difficult to remember. Cultural myths tend to share a different set of characteristics.
 
 They are usually:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -300,7 +298,7 @@ The claim that people use only 10 per cent of their brains illustrates the patte
 
 Many cultural myths survive because they compress a complicated subject into a satisfying narrative. A claim that can be explained in one sentence often spreads more easily than a [correction]({{ 'correction/' | relative_url }}) requiring several paragraphs.
 
-Researchers who study cultural transmission note that ideas move through social groups in ways similar to other cultural practices. People do not transmit information purely because it is accurate. They also transmit information because it is memorable, emotionally engaging or socially valuable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4461798/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIf we are all cultural Darwinians what&#x27;s the fuss about</span><span class="citation-popover-snippet">PMCby A Acerbi · 2015 · Cited by 225 — Here, we examine a recent disagreement that concerns the extent to which cultural transmission sho...</span></span></span>
+Researchers who study cultural transmission note that ideas move through social groups in ways similar to other cultural practices. People do not transmit information purely because it is accurate. They also transmit information because it is memorable, emotionally engaging or socially valuable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4461798/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIf we are all cultural Darwinians what&#x27;s the fuss about</span><span class="citation-popover-snippet">by A Acerbi · 2015 · Cited by 225 — Here, we examine a recent disagreement that concerns the extent to which cultural transmission sho...</span></span></span>
 
 ## Why Familiarity Can Feel Like Evidence
 
@@ -315,10 +313,7 @@ Studies have found several striking features of this effect:
 * Repetition can increase belief in false statements as well as true ones.
 * The effect can occur even when people possess relevant knowledge.
 * Warnings that repetition is misleading often reduce the effect only partially.
-* Repeated misinformation can continue influencing judgement [after correction]({{ 'after-correction/' | relative_url }}). PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span> PubMed This helps explain why cultural myths often persist after being debunked. A correction may be encountered once <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedA review of how repetition increases belief in misinformationby J Udry · 2024 · Cited by 100 — Repetition increases belief in infor...</span></span></span>, while the original claim has been encountered dozens of times. The myth retains the advantage of familiarity.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6gvge2blhNk" title="Why Do People Believe Collective Misinformation So Easily? - Did Ya Know This" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6gvge2blhNk" target="_blank" rel="noopener noreferrer">Why Do People Believe Collective Misinformation So Easily? - Did Ya Know This</a></p><p class="youtube-embed-meta">Channel: Did Ya Know This</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6gvge2blhNk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6gvge2blhNk">Open on YouTube</a></p></div></div></div>
+* Repeated misinformation can continue influencing judgement [after correction]({{ 'after-correction/' | relative_url }}). PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span> PubMed This helps explain why cultural myths often persist after being debunked. A correction may be encountered once <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A review of how repetition increases belief in misinformationby J Udry · 2024 · Cited by 100 — Repetition increases belief in infor...</span></span></span>, while the original claim has been encountered dozens of times. The myth retains the advantage of familiarity.
 
 ## How Social Circulation Changes a Claim
 
@@ -331,10 +326,9 @@ Consider the difference between two beliefs:
 
 The first belief mainly survives because of an intuitive misunderstanding of physics. The second survives because people hear it repeatedly from others.
 
-As a claim spreads, people increasingly encounter it through secondary sources rather than [personal experience]({{ 'anecdotes/' | relative_url }}). Eventually the claim gains cultural momentum. Individuals may repeat it because “everyone knows” it, not because they have investigated it themselves.
+As a claim spreads, people increasingly encounter it through secondary sources rather than personal experience. Eventually the claim gains cultural momentum. Individuals may repeat it because “everyone knows” it, not because they have investigated it themselves.
 
 This social process creates a feedback loop:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -348,8 +342,7 @@ This social process creates a feedback loop:
 
 The original evidence becomes less important than the visibility of the claim itself. The belief survives through circulation.
 
-Modern social media can accelerate this process, but the mechanism is older than the internet. Rumours, folk wisdom, newspaper factoids and classroom [anecdotes]({{ 'anecdotes/' | relative_url }}) have long travelled through similar cycles. Digital platforms mainly increase the speed and scale of transmission.
-
+Modern social media can accelerate this process, but the mechanism is older than the internet. Rumours, folk wisdom, newspaper factoids and classroom [anecdotes]({{ 'anecdotes/' | relative_url }}) have long travelled through similar cycles. Digital [platforms]({{ 'platforms/' | relative_url }}) mainly increase the speed and scale of transmission.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-2-dark.svg" | relative_url }}" alt="Cultural Myths illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Cultural Myths Often Reflect Existing Values
@@ -358,8 +351,7 @@ Many successful myths do more than provide information. They reinforce values, i
 
 A belief is more likely to become culturally durable when it supports something people already want to believe.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1090513823000120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[Examples include myths that:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Cross-cultural forager myth transmission rulesby MS Sugiyama · 2023 · Cited by 11 — Telling myths to mixed-age audiences ensures that the...</span></span></span>
-
+Examples include myths that: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1090513823000120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Cross-cultural forager myth transmission rulesby MS Sugiyama · 2023 · Cited by 11 — Telling myths to mixed-age audiences ensures that the...</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -375,11 +367,9 @@ Because these myths serve a social function, factual correction may not fully ad
 
 This helps explain why some false beliefs survive despite abundant contradictory evidence. People are not always preserving the claim because of the evidence attached to it. They may be preserving the story because it fits a broader worldview.
 
-Research on motivated reasoning and misinformation suggests that people often evaluate information partly through the lens of existing commitments and identities. A claim that feels culturally comfortable can gain resilience beyond its factual strength. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2012.01663" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in NewsDecember 3, 2020...</span><span class="citation-popover-meta">Published: December 3, 2020</span></span></span>
+Research on motivated reasoning and misinformation suggests that people often evaluate information partly through the lens of existing commitments and identities. A claim that feels culturally comfortable can gain resilience beyond its factual strength. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2012.01663" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in NewsDecember 3, 2020...</span><span class="citation-popover-meta">Published: December 3, 2020</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e9-l34TcV_U" title="6 myths about the Middle Ages that everyone believes - Stephanie Honchell Smith" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e9-l34TcV_U" target="_blank" rel="noopener noreferrer">6 myths about the Middle Ages that everyone believes - Stephanie Honchell Smith</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e9-l34TcV_U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e9-l34TcV_U">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-3-dark.svg" | relative_url }}" alt="Cultural Myths illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples That Work Better as Myths Than Misconceptions
 
 Some false beliefs are best understood as cultural myths because their persistence depends primarily on social repetition.
@@ -396,8 +386,6 @@ The claim survives because it is catchy and easy to remember. It appears in joke
 
 This belief has circulated through families and everyday health advice for decades. Its persistence reflects social transmission more than scientific support. People often encounter the warning from parents or relatives before they ever encounter medical evidence.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-3-dark.svg" | relative_url }}" alt="Cultural Myths illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### “Lightning Never Strikes the Same Place Twice”
 
 The phrase functions almost like a proverb. Many people recognise it as a familiar saying before they think about its factual accuracy. The expression survives because it carries symbolic meaning about luck and rarity, not because it accurately describes meteorology.
@@ -410,10 +398,7 @@ Correcting a misconception often means helping someone replace a flawed explanat
 
 The challenge is not only informational but cultural. People may continue encountering the myth through friends, media, jokes, advertisements or public discussion even after learning that it is false.
 
-Researchers studying misinformation have found that repeating a myth during correction can sometimes unintentionally strengthen familiarity with the original claim. This does not mean myths cannot be debunked, but it highlights why repeated exposure matters so much. Effective correction often requires making accurate information just as visible and memorable as the myth itself. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</span></span></span> The problem is therefore not merely ignorance. A cultural myth can persist because the social environment keeps reproducing it.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2ZKM00Uo-t8" title="Why is the Hydra so hard to kill?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2ZKM00Uo-t8" target="_blank" rel="noopener noreferrer">Why is the Hydra so hard to kill?</a></p><p class="youtube-embed-meta">Channel: Mythos The Historian</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2ZKM00Uo-t8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2ZKM00Uo-t8">Open on YouTube</a></p></div></div></div>
+Researchers studying misinformation have found that repeating a myth during correction can sometimes unintentionally strengthen familiarity with the original claim. This does not mean myths cannot be debunked, but it highlights why repeated exposure matters so much. Effective correction often requires making accurate information just as visible and memorable as the myth itself. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Illusory truth effect &#124; Psychology &#124; Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</span></span></span> The problem is therefore not merely ignorance. A cultural myth can persist because the social environment keeps reproducing it.
 
 ## When a False Claim Becomes Part of Culture
 
@@ -817,132 +802,132 @@ Understanding this mechanism explains why some false claims seem impossible to e
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811](https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 122 — Repetition increases belief in in...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 122 — Repetition increases belief in in...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: [https://en.wikipedia.org/wiki/Illusory_truth_effect](https://en.wikipedia.org/wiki/Illusory_truth_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCIf we are all cultural Darwinians what's the fuss about  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4461798/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4461798/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby A Acerbi · 2015 · Cited by 225 — Here, we examine a recent disagreement that concerns the extent to which cultural transmission sho...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4461798/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4461798/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Acerbi · 2015 · Cited by 225 — Here, we examine a recent disagreement that concerns the extent to which cultural transmission sho...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11750381/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11750381/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11750381/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11750381/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>implications: incidental exposure to ideas can induce...by J Mikell · 2025 · Cited by 1 — Under many accounts of the illusory truth effe...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrection format has a limited role when [debunking](&#123;&#123; 'debunking/' | relative_url &#125;&#125;)  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2012.01663](https://arxiv.org/abs/2012.01663)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in NewsDecember 3, 2020...</p></details>
+   Link: <a href="https://arxiv.org/abs/2012.01663" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2012.01663</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in NewsDecember 3, 2020...</p></details>
    Published: December 3, 2020  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027723000550](https://www.sciencedirect.com/science/article/pii/S0010027723000550)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027723000550" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027723000550</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>To that end we...Read mor...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/psychology/illusory-truth-effect](https://www.ebsco.com/research-starters/psychology/illusory-truth-effect)  
+   Link: <a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X](https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect requires semantic coherence...by J Udry · 2023 · Cited by 14 — Repeated exposure to information increases its&#x27;...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1090513823000120](https://www.sciencedirect.com/science/article/abs/pii/S1090513823000120)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1090513823000120" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1090513823000120</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cross-cultural forager myth transmission rulesby MS Sugiyama · 2023 · Cited by 11 — Telling myths to mixed-age audiences ensures that the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027724000775](https://www.sciencedirect.com/science/article/pii/S0010027724000775)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027724000775" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027724000775</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This truth effect has been widely researched and is relevant for topics...R...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010027722001457](https://www.sciencedirect.com/science/article/abs/pii/S0010027722001457)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027722001457" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027722001457</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of repetition spacing on the illusory truth effectby J Udry · 2022 · Cited by 20 — These findings show that repetition is mos...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38113667/](https://pubmed.ncbi.nlm.nih.gov/38113667/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedA review of how repetition increases belief in misinformationby J Udry · 2024 · Cited by 100 — Repetition increases belief in infor...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38113667/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of how repetition increases belief in misinformationby J Udry · 2024 · Cited by 100 — Repetition increases belief in infor...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: journalofcognition.org  
-   Link: [https://journalofcognition.org/articles/10.5334/joc.161](https://journalofcognition.org/articles/10.5334/joc.161)  
+   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.161</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Longitudinal Study of the Illusory Truth Effectby EL Henderson · 2021 · Cited by 84 — Repeated statements are rated as subjectively tru...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Illusory truth effect  
-   Link: [https://thedecisionlab.com/biases/illusory-truth-effect](https://thedecisionlab.com/biases/illusory-truth-effect)  
+   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect - The Decision...Illusory Truth Effect is the positive feeling when we hear information that we believe to be true...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/](https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/)  
+   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationThat&#x27;s the Illusory Truth Effect at work—a powerful psychological bias where repeated information start...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/us/basics/illusory-truth-effect](https://www.psychologytoday.com/us/basics/illusory-truth-effect)  
+   Link: <a href="https://www.psychologytoday.com/us/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectStudies show that repetition increases the perception of validity—even when people start out knowing that the inform...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/gb/basics/illusory-truth-effect](https://www.psychologytoday.com/gb/basics/illusory-truth-effect)  
+   Link: <a href="https://www.psychologytoday.com/gb/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectThe illusory truth effect is the tendency for any statement that is repeated frequently—whether it is factually true...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: fs.blog  
-   Link: [https://fs.blog/illusory-truth-effect/](https://fs.blog/illusory-truth-effect/)  
+   Link: <a href="https://fs.blog/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/illusory-truth-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusory Truth EffectThe effect is so powerful that repetition can persuade us to believe information we know is false in the first p...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: news.vanderbilt.edu  
-   Link: [https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/](https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/)  
+   Link: <a href="https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanderbilt UniversityStudy shows that repeated statements are more often...6 Oct 2020 — When adults hear a statement repeated twice, the...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nifdi.org  
-   Link: [https://www.nifdi.org/what-is-di/common-myths-misconceptions.html](https://www.nifdi.org/what-is-di/common-myths-misconceptions.html)  
+   Link: <a href="https://www.nifdi.org/what-is-di/common-myths-misconceptions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/what-is-di/common-myths-misconceptions.html</a>  
 
 22. <a id="endnote-22"></a>
    Source: leadalchemists.com  
-   Link: [https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/](https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/)  
+   Link: <a href="https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/</a>  
 
 23. <a id="endnote-23"></a>
    Source: ncd.gov  
    Title: common myths about diversity and cultural competency  
-   Link: [https://www.ncd.gov/fact%20sheets/2006/06/01/common-myths-about-diversity-and-cultural-competency/](https://www.ncd.gov/fact%20sheets/2006/06/01/common-myths-about-diversity-and-cultural-competency/)  
+   Link: <a href="https://www.ncd.gov/fact%20sheets/2006/06/01/common-myths-about-diversity-and-cultural-competency/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncd.gov/fact%20sheets/2006/06/01/common-myths-about-diversity-and-cultural-competency/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Jun 2006 — Cultural competence is not a one-time, finite achievement. It is a life long process that is reapplied in every interaction...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchportal.hw.ac.uk  
    Title: cultural transmission of attitudes and behaviours from parents pe  
-   Link: [https://researchportal.hw.ac.uk/en/publications/cultural-transmission-of-attitudes-and-behaviours-from-parents-pe/](https://researchportal.hw.ac.uk/en/publications/cultural-transmission-of-attitudes-and-behaviours-from-parents-pe/)  
+   Link: <a href="https://researchportal.hw.ac.uk/en/publications/cultural-transmission-of-attitudes-and-behaviours-from-parents-pe/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.hw.ac.uk/en/publications/cultural-transmission-of-attitudes-and-behaviours-from-parents-pe/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Heriot-Watt Research PortalCultural transmission of attitudes and behaviours from...by M Tamariz · 2026 — This study investigates how at...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
    Title: 329992241 MYTH AS A PHENOMENON OF CULTURE  
-   Link: [https://www.researchgate.net/publication/329992241_MYTH_AS_A_PHENOMENON_OF_CULTURE](https://www.researchgate.net/publication/329992241_MYTH_AS_A_PHENOMENON_OF_CULTURE)  
+   Link: <a href="https://www.researchgate.net/publication/329992241_MYTH_AS_A_PHENOMENON_OF_CULTURE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329992241_MYTH_AS_A_PHENOMENON_OF_CULTURE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) MYTH AS A PHENOMENON OF CULTURE23 Jan 2019 — This paper aims at exploring myth as a phenomenon of culture. The authors have used an...</p></details>

@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - false-info
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - false-info
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: The difference between accidental falsehood and deliberate deception matters because each needs a different response.
 hero_summary: The difference between accidental falsehood and deliberate deception matters because each needs a different response.
 layout: default
 permalink: /false-info/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: False Info
 title: 'Misinformation or Disinformation: Why Intent Matters'
-title_full: 'Misinformation or Disinformation: Why Intent Matters | Mythcraft'
+title_full: 'Misinformation or Disinformation: Why Intent Matters'
 display_title_short: False Info
 display_title: False Info
 heading_title: 'Misinformation or Disinformation: Why Intent Matters'
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 next_link:
   basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
-date: '2026-06-09 04:14:23 '
+date: '2026-06-11 21:56:32 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-overview.webp
@@ -501,37 +501,32 @@ image: /assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-ov
 
 ## Introduction
 
-Misinformation and disinformation are both false or misleading information, but they differ in a crucial way: **[intent]({{ 'intent/' | relative_url }})**. Misinformation is wrong information shared without necessarily meaning to deceive; disinformation is false information created or spread deliberately to mislead, manipulate or cause harm. UNESCO, the American Psychological Association and the UK House of Commons Library all use this intent-based distinction, even though everyday debate often blurs the two. UNESCO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[APA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">APAMisinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false in...</span></span></span>
-
+Misinformation and disinformation are both false or misleading information, but they differ in a crucial way: **[intent]({{ 'intent/' | relative_url }})**. Misinformation is wrong information shared without necessarily meaning to deceive; disinformation is false information created or spread deliberately to mislead, manipulate or cause harm. UNESCO, the American Psychological Association and the UK House of Commons Library all use this intent-based distinction, even though everyday debate often blurs the two. UNESCO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[APA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false in...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-overview.webp" | relative_url }}" alt="Overview image for False Info" loading="eager" decoding="sync" fetchpriority="high">
 That difference matters because it changes the right response. A mistaken person may need a clear [correction]({{ 'correction/' | relative_url }}), better context and a trustworthy replacement explanation. An organised deception campaign may require investigation, platform transparency, disruption of manipulation tactics, sanctions, election safeguards or public-interest regulation. Treating every false claim as malicious can chill ordinary debate; treating deliberate deception as mere error can leave manipulation intact.
 
 ## False claims without intent
 
-Misinformation often begins with ordinary human error. Someone misremembers a statistic, shares a dramatic image without checking its date, repeats a health rumour from a friend, or misunderstands a scientific finding. The information is false or inaccurate, but the sharer may believe they are helping. UNESCO defines misinformation as false information shared inadvertently, and the APA frames it as “getting the facts wrong” rather than setting out to mislead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">UNESCOWhat is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</span></span></span>
+Misinformation often begins with ordinary human error. Someone misremembers a statistic, shares a dramatic image without checking its date, repeats a health rumour from a friend, or misunderstands a scientific finding. The information is false or inaccurate, but the sharer may believe they are helping. UNESCO defines misinformation as false information shared inadvertently, and the APA frames it as “getting the facts wrong” rather than setting out to mislead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</span></span></span>
 
-This is why misinformation is so common in [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}). A person repeating a myth is not always lying. They may be relying on familiarity, trust, urgency or a simple story that seems to explain something complicated. During a crisis, for example, people often forward unverified claims because speed feels more important than accuracy. In a public health setting, that could mean sharing a false remedy; in a local safety incident, it could mean circulating the wrong name or [identity]({{ 'identity/' | relative_url }}) of a suspect before official information is available.
+This is why misinformation is so common in myths and misconceptions. A person repeating a myth is not always lying. They may be relying on familiarity, trust, urgency or a simple story that seems to explain something complicated. During a crisis, for example, people often forward unverified claims because speed feels more important than accuracy. In a public health setting, that could mean sharing a false remedy; in a local safety incident, it could mean circulating the wrong name or [identity]({{ 'identity/' | relative_url }}) of a suspect before official information is available.
 
-The practical test is not simply “is this false?” but “why is this false claim moving?” In misinformation, the mechanism is often confusion, uncertainty, poor context, emotional salience or misplaced trust. A useful response therefore starts with repair: correct the claim, explain what went wrong, give a better source, and avoid shaming people who may have acted in good faith. Research on the [continued influence]({{ 'old-stories/' | relative_url }}) effect shows why this matters: false information can continue shaping [memory]({{ 'memory/' | relative_url }}) and reasoning even after a retraction, especially when the correction leaves a gap in the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The practical test is not simply “is this false?” but “why is this false claim moving?” In misinformation, the mechanism is often confusion, uncertainty, poor context, emotional salience or misplaced trust. A useful response therefore starts with repair: correct the claim, explain what went wrong, give a better source, and avoid shaming people who may have acted in good faith. Research on the continued influence effect shows why this matters: false information can continue shaping [memory]({{ 'memory/' | relative_url }}) and reasoning even after a retraction, especially when the correction leaves a gap in the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A correction works best when it does more than say “false”. It should provide a clear alternative explanation. If a rumour says a road closure was caused by a violent incident, a useful correction explains the actual cause, gives the source of that information, and updates the public as facts change. Without that replacement story, the original claim may remain mentally available because it still feels like the only complete explanation.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-Illustration-1-dark.svg" | relative_url }}" alt="False Info illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Deliberate deception
 
-Disinformation is different because deception is part of the design. It may use false claims, edited images, fake accounts, impersonation, fabricated documents, misleading websites or coordinated amplification. First Draft’s information disorder framework describes disinformation as intentionally false content designed to cause harm, and highlights motives such as political influence, profit or deliberate disruption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">First Draft Understanding Information disorder</span></span></span>
+Disinformation is different because deception is part of the design. It may use false claims, edited images, fake accounts, impersonation, fabricated documents, misleading websites or coordinated [amplification]({{ 'amplification/' | relative_url }}). First Draft’s information disorder framework describes disinformation as intentionally false content designed to cause harm, and highlights motives such as political influence, profit or deliberate disruption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">First Draft Understanding Information disorder</span></span></span>
 
 The same false claim can move between categories. A fabricated rumour may begin as disinformation when an actor invents it to mislead people. It may then become misinformation when ordinary users share it because they believe it. This is why judging intent at the level of every individual sharer is difficult. Governance responses usually need to look beyond a single post and examine patterns: who created the claim, whether accounts are coordinated, whether amplification is artificial, whether money is involved, and whether the claim is timed to exploit an election, emergency or social tension.
 
-This mechanism is especially important online. Disinformation [campaigns]({{ 'campaigns/' | relative_url }}) often do not need to persuade everyone. They may aim to confuse, polarise, exhaust attention, reduce trust in institutions, or make people feel that truth is unknowable. A campaign can succeed by flooding a discussion with competing falsehoods, not by getting the public to believe one single story. That is why the Council of Europe’s information disorder work warns against the vague term “fake news”: it can hide the wider system of manipulation, from misleading content to coordinated distribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coe.int/en/web/freedom-expression/information-disorder" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coe.int">[Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coe.int</span><span class="citation-popover-title">Portal Information Disorder</span><span class="citation-popover-snippet">Portal Information Disorder</span></span></span>
+This mechanism is especially important online. Disinformation [campaigns]({{ 'campaigns/' | relative_url }}) often do not need to persuade everyone. They may aim to confuse, polarise, exhaust attention, reduce trust in institutions, or make people feel that truth is unknowable. A campaign can succeed by flooding a discussion with competing falsehoods, not by getting the public to believe one single story. That is why the Council of Europe’s information disorder work warns against the vague term “[fake news]({{ 'fake-news/' | relative_url }})”: it can hide the wider system of manipulation, from misleading content to coordinated distribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coe.int/en/web/freedom-expression/information-disorder" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coe.int">[Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coe.int</span><span class="citation-popover-title">Portal Information Disorder</span><span class="citation-popover-snippet">Portal Information Disorder</span></span></span>
 
 Disinformation also creates a harder evidence problem. Intent is rarely visible from one screenshot. A false claim may be deliberate, negligent or sincere. Labelling something “disinformation” therefore carries a burden: the strongest cases involve evidence of planning, coordination, impersonation, covert funding, repeated correction-resistant behaviour, or deliberate use of known falsehoods. Without that evidence, “misinformation” may be the safer descriptive term, even when the claim is harmful.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-Illustration-1-dark.svg" | relative_url }}" alt="False Info illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why intent changes the response
 
 The distinction between misinformation and disinformation is not just semantic. It is a governance choice. A system designed only for accidental error will be too weak against organised deception; a system designed only for hostile manipulation may overreach into ordinary mistakes, satire, disagreement or developing news.
@@ -550,7 +545,6 @@ This is the logic behind many modern policy frameworks. The OECD argues for gove
 
 The UK approach also shows why intent matters legally. Under the Online Safety Act framework, Ofcom evidence to Parliament described a false communications offence focused on messages the sender knows to be false and intends to cause non-trivial psychological or physical harm; misinformation, where that knowledge and intent are absent, is not captured in the same way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/140786/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-Illustration-2-dark.svg" | relative_url }}" alt="False Info illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The grey zone between mistake and manipulation
 
@@ -566,9 +560,7 @@ That grey zone is why intent should guide responses without becoming the only qu
 
 A useful public vocabulary therefore separates content, intent and impact. “False” describes the content. “Misleading” describes how it may be understood. “Misinformation” describes falsehood without proven intent to deceive. “Disinformation” describes deliberate deception. “Harmful” describes consequences, which can arise from either misinformation or disinformation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-Illustration-3-dark.svg" | relative_url }}" alt="False Info illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical way to tell the difference
 
 No quick checklist can prove intent, but the following signals help readers, journalists, moderators and public bodies avoid overclaiming.
@@ -577,9 +569,6 @@ QuestionMore like misinformationMore like disinformationHow did it start?A misun
 
 The key caution is that being wrong is not the same as lying. A person can confidently share a falsehood without intending to deceive. Equally, a campaign can hide behind ordinary users, making deliberate deception look like grassroots confusion. Good governance has to hold both truths at once.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HD5MmuLDeFE" title="How to understand Misinformation, Disinformation and Malinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HD5MmuLDeFE" target="_blank" rel="noopener noreferrer">How to understand Misinformation, Disinformation and Malinformation</a></p><p class="youtube-embed-meta">Channel: Shout Out UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HD5MmuLDeFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HD5MmuLDeFE">Open on YouTube</a></p></div></div></div>
-
 ## Why this distinction protects better debate
 
 Public debate suffers when every error is treated as a plot. People become defensive, corrections feel like accusations, and institutions may appear to police opinion rather than accuracy. That can make myths more resilient, because communities interpret correction as hostility.
@@ -587,9 +576,6 @@ Public debate suffers when every error is treated as a plot. People become defen
 Public debate also suffers when deliberate deception is treated as just another viewpoint. Organised disinformation exploits the openness of democratic discussion while avoiding its norms: accountability, evidence, correction and good-faith disagreement. A fabricated claim does not deserve the same treatment as an honest mistake, especially when it is part of a coordinated effort to mislead voters, endanger public health or inflame violence.
 
 The most defensible approach is proportionate. Correct misinformation with clarity, patience and evidence. Investigate disinformation through patterns, incentives and coordination. Regulate systems where platform design, monetisation or opaque amplification repeatedly rewards deception. Protect space for uncertainty, satire, developing news and honest disagreement. Intent matters not because it makes false information harmless, but because it tells us what kind of problem we are dealing with — and what kind of response is likely to work.
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-Illustration-3-dark.svg" | relative_url }}" alt="False Info illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -708,15 +694,15 @@ The most defensible approach is proportionate. Correct misinformation with clari
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK (5th Album) with postcards &amp; stickers - FREEPOST KPOP"><img src="{{ '/assets/images/marketplace-covers/e84b72c3b91ba67d8d97.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK (5th Album) with postcards &amp; stickers - FREEPOST KPOP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misinformation-or-disinformation-why-intent-matters-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="misinformation-or-disinformation-why-intent-matters-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TITIKEI by IshiKei Paperback Self Help Business"><img src="https://i.ebayimg.com/images/g/X5YAAeSw~F1qEbNR/s-l225.jpg" alt="Listing image for TITIKEI by IshiKei Paperback Self Help Business" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK (5th Album) with postcards &amp; stickers - FREEPOST KPOP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misinformation-or-disinformation-why-intent-matters-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="misinformation-or-disinformation-why-intent-matters-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">TITIKEI by IshiKei Paperback Self Help Business</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misinformation-or-disinformation-why-intent-matters-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="misinformation-or-disinformation-why-intent-matters-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misinformation-or-disinformation-why-intent-matters-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="misinformation-or-disinformation-why-intent-matters-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -724,47 +710,15 @@ The most defensible approach is proportionate. Correct misinformation with clari
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT"><img src="{{ '/assets/images/marketplace-covers/352c61150a84d9a15ae7.jpg' | relative_url }}" alt="Listing image for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misinformation-or-disinformation-why-intent-matters-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="misinformation-or-disinformation-why-intent-matters-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6"><img src="https://i.ebayimg.com/images/g/vkgAAeSwna5oZGvr/s-l225.jpg" alt="Listing image for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misinformation-or-disinformation-why-intent-matters-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="misinformation-or-disinformation-why-intent-matters-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misinformation-or-disinformation-why-intent-matters-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="misinformation-or-disinformation-why-intent-matters-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Taeyong Fact Check Official Sticker"><img src="{{ '/assets/images/marketplace-covers/74937a61ca50bbfbb460.jpg' | relative_url }}" alt="Listing image for NCT 127 Taeyong Fact Check Official Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Taeyong Fact Check Official Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nct 127 Fact Check And Sticker Photocards"><img src="{{ '/assets/images/marketplace-covers/e19779c1afa40b68544f.jpg' | relative_url }}" alt="Listing image for Nct 127 Fact Check And Sticker Photocards" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">Nct 127 Fact Check And Sticker Photocards</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misinformation-or-disinformation-why-intent-matters-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="misinformation-or-disinformation-why-intent-matters-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -772,7 +726,7 @@ The most defensible approach is proportionate. Correct misinformation with clari
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="false-info-misinformation-or-disinformation-why-intent-matters-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misinformation-or-disinformation-why-intent-matters-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="misinformation-or-disinformation-why-intent-matters-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -987,134 +941,134 @@ The most defensible approach is proportionate. Correct misinformation with clari
 
 1. <a id="endnote-1"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/query-list/m/misinformation](https://www.unesco.org/en/query-list/m/misinformation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCOWhat is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
+   Link: <a href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/m/misinformation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/topics/journalism-facts/misinformation-disinformation](https://www.apa.org/topics/journalism-facts/misinformation-disinformation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>APAMisinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false in...</p></details>
+   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false in...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: commonslibrary.parliament.uk  
    Title: House of Commons Library What is misinformation?  
-   Link: [https://commonslibrary.parliament.uk/research-briefings/cbp-10815/](https://commonslibrary.parliament.uk/research-briefings/cbp-10815/)  
+   Link: <a href="https://commonslibrary.parliament.uk/research-briefings/cbp-10815/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/cbp-10815/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The House of Commons Library5 May 2026 — Misinformation is information that is false or inaccurate. Disinformation usually refers to fals...</p></details>
    Published: May 2026  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/</a>  
 
 5. <a id="endnote-5"></a>
    Source: oecd.org  
    Title: governance responses to disinformation 6285c78a  
-   Link: [https://www.oecd.org/en/publications/2020/08/governance-responses-to-disinformation_6285c78a.html](https://www.oecd.org/en/publications/2020/08/governance-responses-to-disinformation_6285c78a.html)  
+   Link: <a href="https://www.oecd.org/en/publications/2020/08/governance-responses-to-disinformation_6285c78a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2020/08/governance-responses-to-disinformation_6285c78a.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/good-practice-principles-for-public-communication-responses-to-mis-and-disinformation_6d141b44-en.html](https://www.oecd.org/en/publications/good-practice-principles-for-public-communication-responses-to-mis-and-disinformation_6d141b44-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/good-practice-principles-for-public-communication-responses-to-mis-and-disinformation_6d141b44-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/good-practice-principles-for-public-communication-responses-to-mis-and-disinformation_6d141b44-en.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/140786/html/](https://committees.parliament.uk/writtenevidence/140786/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/140786/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/140786/html/</a>  
 
 8. <a id="endnote-8"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/query-list/d/disinformation](https://www.unesco.org/en/query-list/d/disinformation)  
+   Link: <a href="https://www.unesco.org/en/query-list/d/disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/d/disinformation</a>  
 
 9. <a id="endnote-9"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/publications/51771/documents/287268/default/](https://committees.parliament.uk/publications/51771/documents/287268/default/)  
+   Link: <a href="https://committees.parliament.uk/publications/51771/documents/287268/default/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/publications/51771/documents/287268/default/</a>  
 
 10. <a id="endnote-10"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: oecd.org  
    Title: transparency of public information 60a963c4  
-   Link: [https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/transparency-of-public-information_60a963c4.html](https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/transparency-of-public-information_60a963c4.html)  
+   Link: <a href="https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/transparency-of-public-information_60a963c4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/transparency-of-public-information_60a963c4.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26173286/](https://pubmed.ncbi.nlm.nih.gov/26173286/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173286/</a>  
 
 13. <a id="endnote-13"></a>
    Source: firstdraftnews.org  
    Title: First Draft Understanding Information disorder  
-   Link: [https://firstdraftnews.org/long-form-article/understanding-information-disorder/](https://firstdraftnews.org/long-form-article/understanding-information-disorder/)  
+   Link: <a href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/long-form-article/understanding-information-disorder/</a>  
 
 14. <a id="endnote-14"></a>
    Source: firstdraftnews.org  
    Title: info Disorder glossary  
-   Link: [https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf](https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf)  
+   Link: <a href="https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: coe.int  
    Title: Portal Information Disorder  
-   Link: [https://www.coe.int/en/web/freedom-expression/information-disorder](https://www.coe.int/en/web/freedom-expression/information-disorder)  
+   Link: <a href="https://www.coe.int/en/web/freedom-expression/information-disorder" target="_blank" rel="noopener noreferrer nofollow">https://www.coe.int/en/web/freedom-expression/information-disorder</a>  
 
 16. <a id="endnote-16"></a>
    Source: digital-strategy.ec.europa.eu  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/digital-services-act](https://digital-strategy.ec.europa.eu/en/policies/digital-services-act)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/digital-services-act</a>  
 
 17. <a id="endnote-17"></a>
    Source: ofcom.org.uk  
    Title: misinformation and disinformation  
-   Link: [https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/foi/2025/april/misinformation-and-disinformation.pdf?v=396219](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/foi/2025/april/misinformation-and-disinformation.pdf?v=396219)  
+   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/foi/2025/april/misinformation-and-disinformation.pdf?v=396219" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/foi/2025/april/misinformation-and-disinformation.pdf?v=396219</a>  
 
 18. <a id="endnote-18"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: code practice disinformation  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation](https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation</a>  
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: What is the difference between misinformation and disinformation?  
-   Link: [https://www.youtube.com/watch?v=bV47t7Q2h_U](https://www.youtube.com/watch?v=bV47t7Q2h_U)  
+   Link: <a href="https://www.youtube.com/watch?v=bV47t7Q2h_U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bV47t7Q2h_U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation vs. Disinformation: What&#x27;s the Difference?...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Misinformation vs. Disinformation vs. Malinformation  
-   Link: [https://www.youtube.com/watch?v=A2Cg7lW5Y_M](https://www.youtube.com/watch?v=A2Cg7lW5Y_M)  
+   Link: <a href="https://www.youtube.com/watch?v=A2Cg7lW5Y_M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A2Cg7lW5Y_M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the difference between misinformation and disinformation?...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: How to Spot Misinformation and Disinformation  
-   Link: [https://www.youtube.com/watch?v=4Yv7r5a-Wk4](https://www.youtube.com/watch?v=4Yv7r5a-Wk4)  
+   Link: <a href="https://www.youtube.com/watch?v=4Yv7r5a-Wk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Yv7r5a-Wk4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The difference between misinformation, disinformation and malinformation...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Misinformation vs. Disinformation: What's the Difference?  
-   Link: [https://www.youtube.com/watch?v=S432rD7qg80](https://www.youtube.com/watch?v=S432rD7qg80)  
+   Link: <a href="https://www.youtube.com/watch?v=S432rD7qg80" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S432rD7qg80</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Spot Misinformation and Disinformation...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing](https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing)  
+   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
 
 24. <a id="endnote-24"></a>
    Source: boell.de  
-   Link: [https://www.boell.de/sites/default/files/2020-08/200825_E-Paper3_ENG.pdf](https://www.boell.de/sites/default/files/2020-08/200825_E-Paper3_ENG.pdf)  
+   Link: <a href="https://www.boell.de/sites/default/files/2020-08/200825_E-Paper3_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boell.de/sites/default/files/2020-08/200825_E-Paper3_ENG.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: eu-digital-services-act.com  
-   Link: [https://www.eu-digital-services-act.com/](https://www.eu-digital-services-act.com/)  
+   Link: <a href="https://www.eu-digital-services-act.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-digital-services-act.com/</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/EuropeanCommission/posts/online-platforms-have-always-held-all-the-cards-the-digital-services-act-is-chan/1318503833648076/](https://www.facebook.com/EuropeanCommission/posts/online-platforms-have-always-held-all-the-cards-the-digital-services-act-is-chan/1318503833648076/)  
+   Link: <a href="https://www.facebook.com/EuropeanCommission/posts/online-platforms-have-always-held-all-the-cards-the-digital-services-act-is-chan/1318503833648076/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EuropeanCommission/posts/online-platforms-have-always-held-all-the-cards-the-digital-services-act-is-chan/1318503833648076/</a>  
 
 27. <a id="endnote-27"></a>
    Source: un.org  
-   Link: [https://www.un.org/sites/un2.un.org/files/notohate_fact_sheets_en.pdf](https://www.un.org/sites/un2.un.org/files/notohate_fact_sheets_en.pdf)  
+   Link: <a href="https://www.un.org/sites/un2.un.org/files/notohate_fact_sheets_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/sites/un2.un.org/files/notohate_fact_sheets_en.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: stratcomcoe.org  
-   Link: [https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf](https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf)  
+   Link: <a href="https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf</a>

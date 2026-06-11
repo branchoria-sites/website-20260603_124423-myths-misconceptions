@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_leading_questions_me_06cb8a
 - Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_repeated_retelling_m_3a2eb6
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - memory
 - confidence
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - memory
 - confidence
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Confidence can matter most when recorded early under fair conditions, but later confidence may reflect contamination.
 hero_summary: Confidence can matter most when recorded early under fair conditions, but later confidence may reflect contamination.
 layout: default
 permalink: /confidence/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /memory/
 nav_short_title: Confidence
 title: When Should We Trust Witness Confidence?
-title_full: When Should We Trust Witness Confidence? | Memory
+title_full: When Should We Trust Witness Confidence?
 display_title_short: Confidence
 display_title: Confidence
 heading_title: When Should We Trust Witness Confidence?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Memory Is Not a Video Recording | Mythcraft
+parent_title: Why Memory Is Not a Video Recording
 parent_permalink: /memory/
 parent_nav_short_title: Memory
 parent_heading_title: Why Memory Is Not a Video Recording
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Repeated Stories Feel More True
 up_link:
   basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
@@ -259,7 +259,7 @@ next_link:
   permalink: /fair-lineups/
   short_title: Fair Lineups
   heading_title: What Makes an Eyewitness Lineup Fair?
-date: '2026-06-09 05:27:28 '
+date: '2026-06-11 22:33:03 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_eyewitness_confidenc_147bd0-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_eyewitness_confidenc_147bd0-Illustration-1.webp
@@ -268,22 +268,20 @@ image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_ey
 
 ## Introduction
 
-Courts and juries often assume that a confident eyewitness is probably right. That belief is partly true and partly misleading. Research over the past several decades shows that witness confidence can provide useful information about accuracy, but only under specific conditions. The crucial question is not simply how certain a witness sounds. It is when that confidence was measured, how the identification procedure was conducted, and whether the witness's [memory]({{ 'memory/' | relative_url }}) was later exposed to contamination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 805 — The US legal system increasingly accepts...</span></span></span>
-
+Courts and juries often assume that a confident eyewitness is probably right. That belief is partly true and partly misleading. Research over the past several decades shows that witness confidence can provide useful information about accuracy, but only under specific conditions. The crucial question is not simply how certain a witness sounds. It is when that confidence was measured, how the identification procedure was conducted, and whether the witness's [memory]({{ 'memory/' | relative_url }}) was later exposed to contamination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 805 — The US legal system increasingly accepts...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_eyewitness_confidenc_147bd0-Illustration-1-dark.svg" | relative_url }}" alt="Confidence illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_eyewitness_confidenc_147bd0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_eyewitness_confidenc_147bd0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because confidence is highly persuasive. Jurors tend to trust witnesses who appear certain, even when that certainty has grown after police interactions, repeated questioning, media exposure, or courtroom preparation. Modern eyewitness research increasingly argues that an initial confidence statement collected immediately after a fair identification procedure can be informative, while confidence expressed months later may reflect influences that occurred after the original memory was formed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 805 — The US legal system increasingly accepts...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">eyewitness confidence can predict accuracy of identifications researchers find</span><span class="citation-popover-snippet">Association for Psychological ScienceEyewitness Confidence Can Predict Accuracy of...31 Mar 2017 — Confidence is only informative at the...</span></span></span>
+This distinction matters because confidence is highly persuasive. Jurors tend to trust witnesses who appear certain, even when that certainty has grown after police interactions, repeated questioning, media exposure, or courtroom preparation. Modern eyewitness research increasingly argues that an initial confidence statement collected immediately after a fair identification procedure can be informative, while confidence expressed months later may reflect influences that occurred after the original memory was formed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 805 — The US legal system increasingly accepts...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">eyewitness confidence can predict accuracy of identifications researchers find</span><span class="citation-popover-snippet">Association for Psychological ScienceEyewitness Confidence Can Predict Accuracy of...31 Mar 2017 — Confidence is only informative at the...</span></span></span>
 
 ## Early Confidence Versus Courtroom Confidence
 
 One of the most important developments in eyewitness research is the distinction between initial confidence and later confidence.
 
-For many years, psychologists reported only a weak overall relationship between confidence and accuracy. This finding helped create the widespread belief that witness certainty is largely meaningless. More recent analyses, however, found that the picture changes when confidence is measured immediately after an identification and before contamination occurs. Under those conditions, highly confident identifications are often substantially more accurate than low-confidence identifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 805 — The US legal system increasingly accepts...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 805 — The US legal system increasingly accepts...</span></span></span>
+For many years, psychologists reported only a weak overall relationship between confidence and accuracy. This finding helped create the widespread belief that witness certainty is largely meaningless. More recent analyses, however, found that the picture changes when confidence is measured immediately after an identification and before contamination occurs. Under those conditions, highly confident identifications are often substantially more accurate than low-confidence identifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 805 — The US legal system increasingly accepts...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 805 — The US legal system increasingly accepts...</span></span></span>
 
 Researchers such as John Wixted and Gary Wells argue that earlier studies often mixed together very different situations. Some witnesses had been exposed to suggestive procedures, confirming feedback, repeated questioning, or other influences before their confidence was assessed. When researchers isolate the witness's first confidence judgment, the confidence–accuracy relationship becomes much stronger. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1529100616686966" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals A New Synthesis</span><span class="citation-popover-snippet">Wixted, Gary L. Wells, 2017by JT Wixted · 2017 · Cited by 830 — An investigation of the weapon focus effect and the confidence–accuracy r...</span></span></span>
 
 The [timing]({{ 'timing/' | relative_url }}) issue explains why courtroom confidence can be misleading. Criminal cases often reach trial months or years after the original event. During that period, witnesses may:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -297,7 +295,6 @@ The [timing]({{ 'timing/' | relative_url }}) issue explains why courtroom confid
 Each of these experiences can alter confidence without necessarily improving accuracy. By the time a witness testifies, their certainty may be very different from what it was during the first identification. The National Academies report on eyewitness identification noted that courtroom confidence often diverges substantially from the witness's original confidence level and can be inflated by factors unrelated to memory accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Expressions of confidence in the courtroom often deviat...</span></span></span>
 
 The practical lesson is simple: a witness who says "I'm absolutely certain" at trial is not providing the same kind of information as a witness who expressed high confidence immediately after a properly conducted lineup.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jx58TU_Rf04" title="Memory: L9 - Improving the Accuracy of Eyewitness Testimony - Cognitive Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jx58TU_Rf04" target="_blank" rel="noopener noreferrer">Memory: L9 - Improving the Accuracy of Eyewitness Testimony - Cognitive Interview</a></p><p class="youtube-embed-meta">Channel: NeoPsychology &middot; Views: 668 &middot; Uploaded: September 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jx58TU_Rf04" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jx58TU_Rf04">Open on YouTube</a></p></div></div></div>
 
@@ -313,19 +310,18 @@ The officer conducting the lineup should not know which person is the suspect. T
 
 ### Fair Lineup Construction
 
-A suspect should not stand out from the other people shown in the lineup. If one person uniquely matches the witness's description, confidence becomes harder to interpret because the procedure itself may be biased. Research finds that confidence is more informative when witnesses identify someone from a fair lineup rather than from a suggestive one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1516814112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">PNASEstimating the reliability of eyewitness identifications from...Our findings suggest that (i) confidence in an eyewitness identifica...</span></span></span>
+A suspect should not stand out from the other people shown in the lineup. If one person uniquely matches the witness's description, confidence becomes harder to interpret because the procedure itself may be biased. Research finds that confidence is more informative when witnesses identify someone from a fair lineup rather than from a suggestive one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1516814112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Estimating the reliability of eyewitness identifications from...Our findings suggest that (i) confidence in an eyewitness identifica...</span></span></span>
 
 ### Immediate Confidence Statements
 
-Best-practice recommendations emphasise recording the witness's confidence immediately after the identification decision. This captures the witness's original level of certainty before outside influences can alter it. Many experts consider this step essential because later confidence reports are more vulnerable to contamination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judicature.duke.edu">[Judicature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judicature.duke.edu</span><span class="citation-popover-snippet">JudicatureA Clearer View: The Impact of the National Academy of...These recommendations were: (1) training all law enforcement officers...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0010027724002038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectImproving the diagnostic value of lineup rejectionsby TM Seale-Carlisle · 2024 · Cited by 4 — Research shows that eyewitness...</span></span></span>
-
+Best-practice recommendations emphasise recording the witness's confidence immediately after the identification decision. This captures the witness's original level of certainty before outside influences can alter it. Many experts consider this step essential because later confidence reports are more vulnerable to contamination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judicature.duke.edu">[Judicature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judicature.duke.edu</span><span class="citation-popover-snippet">JudicatureA Clearer View: The Impact of the National Academy of...These recommendations were: (1) training all law enforcement officers...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0010027724002038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Improving the diagnostic value of lineup rejectionsby TM Seale-Carlisle · 2024 · Cited by 4 — Research shows that eyewitness...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_eyewitness_confidenc_147bd0-Illustration-2-dark.svg" | relative_url }}" alt="Confidence illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_eyewitness_confidenc_147bd0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_eyewitness_confidenc_147bd0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Proper Witness Instructions
 
 Witnesses should be told that the perpetrator may or may not be present in the lineup. Without this warning, some people feel pressured to choose someone even when they are unsure. Proper instructions reduce false identifications and make confidence judgments easier to interpret. <span class="citation-chip-wrap"><a class="citation-chip" href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judicature.duke.edu">[Judicature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judicature.duke.edu</span><span class="citation-popover-snippet">JudicatureA Clearer View: The Impact of the National Academy of...These recommendations were: (1) training all law enforcement officers...</span></span></span>
 
-When these safeguards are used together, high initial confidence can become a meaningful indicator of accuracy. This does not mean every confident witness is correct. It means that confidence contains useful information when collected under conditions designed to protect memory from distortion. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1516814112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">PNASEstimating the reliability of eyewitness identifications from...Our findings suggest that (i) confidence in an eyewitness identifica...</span></span></span>
+When these safeguards are used together, high initial confidence can become a meaningful indicator of accuracy. This does not mean every confident witness is correct. It means that confidence contains useful information when collected under conditions designed to protect memory from distortion. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1516814112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Estimating the reliability of eyewitness identifications from...Our findings suggest that (i) confidence in an eyewitness identifica...</span></span></span>
 
 ## How Feedback Can Inflate Certainty
 
@@ -339,25 +335,23 @@ Repeated questioning can have similar effects. Each [retelling]({{ 'retelling/' 
 
 Confidence can also rise because of social pressures. If investigators, prosecutors, family members, or journalists signal that a witness played an important role in solving a case, certainty may increase even when the underlying memory remains unchanged. The witness is not necessarily being dishonest. Rather, normal psychological processes can make a reconstructed memory feel increasingly convincing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Expressions of confidence in the courtroom often deviat...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UsI52BXJjlM" title="Using Confidence Judgements Provided During Versus After Memory Retrieval to Predict Eyewitness..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UsI52BXJjlM" target="_blank" rel="noopener noreferrer">Using Confidence Judgements Provided During Versus After Memory Retrieval to Predict Eyewitness...</a></p><p class="youtube-embed-meta">Channel: Applied Memory Lab &middot; Views: 61 &middot; Uploaded: June 2020 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UsI52BXJjlM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UsI52BXJjlM">Open on YouTube</a></p></div></div></div>
 
 ## Why the Debate Is More Nuanced Than "Confidence Doesn't Matter"
 
 Modern eyewitness research has moved away from two extreme positions.
 
-The older popular belief was that confident witnesses are usually correct. The later reaction was that confidence tells us almost nothing about accuracy. Increasingly, researchers argue that both claims are oversimplified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 805 — The US legal system increasingly accepts...</span></span></span>
+The older popular belief was that confident witnesses are usually correct. The later reaction was that confidence tells us almost nothing about accuracy. Increasingly, researchers argue that both claims are oversimplified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 805 — The US legal system increasingly accepts...</span></span></span>
 
 A growing body of evidence suggests that high confidence can be strongly associated with accuracy when:
 
 * The identification is the witness's first memory test.
-* The lineup is fair. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1516814112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[pnas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">PNASEstimating the reliability of eyewitness identifications from...Our findings suggest that (i) confidence in an eyewitness identifica...</span></span></span>
+* The lineup is fair. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1516814112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[pnas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Estimating the reliability of eyewitness identifications from...Our findings suggest that (i) confidence in an eyewitness identifica...</span></span></span>
 * The procedure is free from administrator influence.
 * Confidence is recorded immediately.
-* The witness positively identifies someone rather than simply rejecting a lineup. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy eyewitnesses fail</span><span class="citation-popover-snippet">PMC - NIHby TD Albright · 2017 · Cited by 133 — This National Academy of Sciences consensus report upon... eyewitness confidence reliabl...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0010027724002038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectImproving the diagnostic value of lineup rejectionsby TM Seale-Carlisle · 2024 · Cited by 4 — Research shows that eyewitness...</span></span></span>, researchers continue to debate how well this relationship holds under difficult viewing conditions, cross-racial identifications, high stress, long delays, and other real-world complications. Some recent studies caution that even highly confident initial identifications can contain meaningful error rates, especially when witnessing conditions are poor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psych.utah.edu">[University of Utah Psychology Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psych.utah.edu</span><span class="citation-popover-snippet">more...</span></span></span>
+* The witness positively identifies someone rather than simply rejecting a lineup. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy eyewitnesses fail</span><span class="citation-popover-snippet">NIHby TD Albright · 2017 · Cited by 133 — This National Academy of Sciences consensus report upon... eyewitness confidence reliabl...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0010027724002038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Improving the diagnostic value of lineup rejectionsby TM Seale-Carlisle · 2024 · Cited by 4 — Research shows that eyewitness...</span></span></span>, researchers continue to debate how well this relationship holds under difficult viewing conditions, cross-racial identifications, high stress, long delays, and other real-world complications. Some recent studies caution that even highly confident initial identifications can contain meaningful error rates, especially when witnessing conditions are poor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psych.utah.edu">[University of Utah Psychology Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psych.utah.edu</span><span class="citation-popover-snippet">more...</span></span></span>
 
 The most defensible conclusion is not that confidence should be ignored, nor that it should be accepted at face value. Confidence is evidence about memory, but it is evidence that must be interpreted in context.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_eyewitness_confidenc_147bd0-Illustration-3-dark.svg" | relative_url }}" alt="Confidence illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_eyewitness_confidenc_147bd0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_eyewitness_confidenc_147bd0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Jurors and Investigators Often Miss
@@ -368,11 +362,9 @@ A witness who immediately says, "I'm fairly sure that's him," may later become c
 
 For that reason, many reform proposals focus less on whether a witness is confident and more on documenting the original confidence statement. Recording the first identification, preserving exact confidence ratings, and using fair lineup procedures allow courts to evaluate confidence in the context where it is most informative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judicature.duke.edu">[Judicature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judicature.duke.edu</span><span class="citation-popover-snippet">JudicatureA Clearer View: The Impact of the National Academy of...These recommendations were: (1) training all law enforcement officers...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Expressions of confidence in the courtroom often deviat...</span></span></span>
 
-The key question is no longer "How confident is the witness?" but "How confident was the witness at the moment of the first uncontaminated identification?" Research suggests that the answer to that second question is often far more useful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 805 — The US legal system increasingly accepts...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">eyewitness confidence can predict accuracy of identifications researchers find</span><span class="citation-popover-snippet">Association for Psychological ScienceEyewitness Confidence Can Predict Accuracy of...31 Mar 2017 — Confidence is only informative at the...</span></span></span>
-
+The key question is no longer "How confident is the witness?" but "How confident was the witness at the moment of the first uncontaminated identification?" Research suggests that the answer to that second question is often far more useful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 805 — The US legal system increasingly accepts...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">eyewitness confidence can predict accuracy of identifications researchers find</span><span class="citation-popover-snippet">Association for Psychological ScienceEyewitness Confidence Can Predict Accuracy of...31 Mar 2017 — Confidence is only informative at the...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hx8my0lNyCg" title="Eyewitness Identification Error" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hx8my0lNyCg" target="_blank" rel="noopener noreferrer">Eyewitness Identification Error</a></p><p class="youtube-embed-meta">Channel: Kent_o0 &middot; Views: 60 &middot; Uploaded: March 2022 &middot; Length: 4 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hx8my0lNyCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hx8my0lNyCg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -770,191 +762,191 @@ The key question is no longer "How confident is the witness?" but "How confident
 
 1. <a id="endnote-1"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.1516814112](https://www.pnas.org/doi/10.1073/pnas.1516814112)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PNASEstimating the reliability of eyewitness identifications from...Our findings suggest that (i) confidence in an eyewitness identifica...</p></details>
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1516814112" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1516814112</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Estimating the reliability of eyewitness identifications from...Our findings suggest that (i) confidence in an eyewitness identifica...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027724002038](https://www.sciencedirect.com/science/article/pii/S0010027724002038)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectImproving the diagnostic value of lineup rejectionsby TM Seale-Carlisle · 2024 · Cited by 4 — Research shows that eyewitness...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027724002038" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027724002038</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving the diagnostic value of lineup rejectionsby TM Seale-Carlisle · 2024 · Cited by 4 — Research shows that eyewitness...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: resolve.cambridge.org  
-   Link: [https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/78721D9313DCB76A146034D8014AF911/9780511759192c16_p348-361_CBO.pdf/eyewitness_identification_confidence.pdf](https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/78721D9313DCB76A146034D8014AF911/9780511759192c16_p348-361_CBO.pdf/eyewitness_identification_confidence.pdf)  
+   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/78721D9313DCB76A146034D8014AF911/9780511759192c16_p348-361_CBO.pdf/eyewitness_identification_confidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/78721D9313DCB76A146034D8014AF911/9780511759192c16_p348-361_CBO.pdf/eyewitness_identification_confidence.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment16 Eyewitness identification confidenceFurthermore, our discussion is restricted to forensically r...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhy eyewitnesses fail  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby TD Albright · 2017 · Cited by 133 — This National Academy of Sciences consensus report upon... eyewitness confidence reliabl...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby TD Albright · 2017 · Cited by 133 — This National Academy of Sciences consensus report upon... eyewitness confidence reliabl...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10089327/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10089327/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe confidence-accuracy relationship for lineup decisions...by M Sauerland · 2023 · Cited by 2 — The post-decision confidence-accurac...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10089327/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10089327/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The confidence-accuracy relationship for lineup decisions...by M Sauerland · 2023 · Cited by 2 — The post-decision confidence-accurac...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: psych.utah.edu  
-   Link: [https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf](https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf)  
+   Link: <a href="https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661325000270](https://www.sciencedirect.com/science/article/pii/S1364661325000270)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661325000270" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661325000270</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The cognitive science of eyewitness memoryby L Mickes · 2025 · Cited by 17 — Using this new approach, it became clear that the confidence...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: We tested whether a new techn  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2211368119301561](https://www.sciencedirect.com/science/article/abs/pii/S2211368119301561)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211368119301561" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211368119301561</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence and Response Time as Indicators of...by TM Seale-Carlisle · 2019 · Cited by 72 — However, just as high confidence identificat...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000846](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000846)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000846" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000846</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Response bias changes more across confidence than across instruction...Read mo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/28395650/](https://pubmed.ncbi.nlm.nih.gov/28395650/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 805 — The US legal system increasingly accepts...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28395650/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 805 — The US legal system increasingly accepts...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/18891/chapter/8](https://www.nationalacademies.org/read/18891/chapter/8)  
+   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Expressions of confidence in the courtroom often deviat...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26348334/](https://pubmed.ncbi.nlm.nih.gov/26348334/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedInitial eyewitness confidence reliably predicts...by JT Wixted · 2015 · Cited by 289 — A considerable body of recent empirical wor...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26348334/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26348334/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Initial eyewitness confidence reliably predicts...by JT Wixted · 2015 · Cited by 289 — A considerable body of recent empirical wor...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: psychologicalscience.org  
    Title: eyewitness confidence can predict accuracy of identifications researchers find  
-   Link: [https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find](https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find)  
+   Link: <a href="https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceEyewitness Confidence Can Predict Accuracy of...31 Mar 2017 — Confidence is only informative at the...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals A New Synthesis  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/1529100616686966](https://journals.sagepub.com/doi/abs/10.1177/1529100616686966)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1529100616686966" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100616686966</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wixted, Gary L. Wells, 2017by JT Wixted · 2017 · Cited by 830 — An investigation of the weapon focus effect and the confidence–accuracy r...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/18891/chapter/2](https://www.nationalacademies.org/read/18891/chapter/2)  
+   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...For several decades, scientists have conducted research...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: judicature.duke.edu  
-   Link: [https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/](https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/)  
+   Link: <a href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/</a>  
 
 17. <a id="endnote-17"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/news/report-urges-caution-in-handling-and-relying-upon-eyewitness-identifications-in-criminal-cases-recommends-best-practices-for-law-enforcement-and-courts](https://www.nationalacademies.org/news/report-urges-caution-in-handling-and-relying-upon-eyewitness-identifications-in-criminal-cases-recommends-best-practices-for-law-enforcement-and-courts)  
+   Link: <a href="https://www.nationalacademies.org/news/report-urges-caution-in-handling-and-relying-upon-eyewitness-identifications-in-criminal-cases-recommends-best-practices-for-law-enforcement-and-courts" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/report-urges-caution-in-handling-and-relying-upon-eyewitness-identifications-in-criminal-cases-recommends-best-practices-for-law-enforcement-and-courts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report Urges Caution in Handling and Relying Upon...2 Oct 2014 — To increase the likelihood of accuracy in eyewitness identifications, t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: judicature.duke.edu  
-   Link: [https://judicature.duke.edu/articles/distinguishing-between-reliable-and-unreliable-eyewitnesses/](https://judicature.duke.edu/articles/distinguishing-between-reliable-and-unreliable-eyewitnesses/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JudicatureDistinguishing Between Reliable and Unreliable EyewitnessesIncreasing research shows that eyewitness confidence at the time of...</p></details>
+   Link: <a href="https://judicature.duke.edu/articles/distinguishing-between-reliable-and-unreliable-eyewitnesses/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/distinguishing-between-reliable-and-unreliable-eyewitnesses/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Distinguishing Between Reliable and Unreliable EyewitnessesIncreasing research shows that eyewitness confidence at the time of...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/18891](https://www.nationalacademies.org/read/18891)  
+   Link: <a href="https://www.nationalacademies.org/read/18891" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying the Culprit: Assessing Eyewitness Identification...Research of this category identifies principled and insurmountable limits...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nationalacademies.org  
    Title: using science to improve eyewitness testimony  
-   Link: [https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony](https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony)  
+   Link: <a href="https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Jan 2020 — Five years after a landmark National Academies report on eyewitness identification, a lead author reflects on its impact.Re...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/44653380](https://www.jstor.org/stable/44653380)  
+   Link: <a href="https://www.jstor.org/stable/44653380" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/44653380</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 804 — We go on to demonstrate that the confidence- a...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36757968/](https://pubmed.ncbi.nlm.nih.gov/36757968/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36757968/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36757968/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>confidence and decision time reflect...by A Quigley-McBride · 2023 · Cited by 49 — In two experiments, we examined confidence and decisi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38852371/](https://pubmed.ncbi.nlm.nih.gov/38852371/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38852371/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38852371/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>moderate-confidence eyewitness identificationsby TC Lebensfeld · 2024 · Cited by 7 — Recent research on the eyewitness confidence-accurac...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/16536656/](https://pubmed.ncbi.nlm.nih.gov/16536656/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16536656/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16536656/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of lineup instructions, foil similarity, and target-...by N Brewer · 2006 · Cited by 671 — This study examined whether eyewitness confid...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29716454/](https://pubmed.ncbi.nlm.nih.gov/29716454/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29716454/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29716454/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Reliability of Eyewitness MemoryEyewitnesses typically provide reliable evidence on an initial, uncontaminated memory test, and this...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: nationalcar.com  
-   Link: [https://www.nationalcar.com/en/home.html](https://www.nationalcar.com/en/home.html)  
+   Link: <a href="https://www.nationalcar.com/en/home.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalcar.com/en/home.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Car Rental: Fast &amp; Convenient Car Rental at 1500+...National Car Rental has worldwide locations in the United States, Canada, E...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/283506350_Confidence_and_Accuracy_of_Eyewitness_Identification](https://www.researchgate.net/publication/283506350_Confidence_and_Accuracy_of_Eyewitness_Identification)  
+   Link: <a href="https://www.researchgate.net/publication/283506350_Confidence_and_Accuracy_of_Eyewitness_Identification" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283506350_Confidence_and_Accuracy_of_Eyewitness_Identification</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Confidence and Accuracy of Eyewitness IdentificationThis chapter discusses perceptions of the confidence-accuracy (CA) relationship...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/326123552_The_Role_of_Estimator_Variables_in_Eyewitness_Identification](https://www.researchgate.net/publication/326123552_The_Role_of_Estimator_Variables_in_Eyewitness_Identification)  
+   Link: <a href="https://www.researchgate.net/publication/326123552_The_Role_of_Estimator_Variables_in_Eyewitness_Identification" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326123552_The_Role_of_Estimator_Variables_in_Eyewitness_Identification</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Estimator Variables in Eyewitness IdentificationEstimator variables are factors that can affect the accuracy of eyewitness id...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: ovid.com  
    Title: a0039510~initial eyewitness confidence reliably predicts eyewitness  
-   Link: [https://www.ovid.com/journals/ampsy/pdf/10.1037/a0039510~initial-eyewitness-confidence-reliably-predicts-eyewitness](https://www.ovid.com/journals/ampsy/pdf/10.1037/a0039510~initial-eyewitness-confidence-reliably-predicts-eyewitness)  
+   Link: <a href="https://www.ovid.com/journals/ampsy/pdf/10.1037/a0039510~initial-eyewitness-confidence-reliably-predicts-eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/ampsy/pdf/10.1037/a0039510~initial-eyewitness-confidence-reliably-predicts-eyewitness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Initial Eyewitness Confidence Reliably Predicts...by JT Wixted · 2015 · Cited by 295 — A considerable body of recent empirical work sugg...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: web.williams.edu  
    Title: Wixted & Wells (2017) Eyewitness accuracy and confidence  
-   Link: [https://web.williams.edu/Psychology/Faculty/Kassin/files/Wixted%20%26%20Wells%20%282017%29%20-%20Eyewitness%20accuracy%20and%20confidence.pdf](https://web.williams.edu/Psychology/Faculty/Kassin/files/Wixted%20%26%20Wells%20%282017%29%20-%20Eyewitness%20accuracy%20and%20confidence.pdf)  
+   Link: <a href="https://web.williams.edu/Psychology/Faculty/Kassin/files/Wixted%20%26%20Wells%20%282017%29%20-%20Eyewitness%20accuracy%20and%20confidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.williams.edu/Psychology/Faculty/Kassin/files/Wixted%20%26%20Wells%20%282017%29%20-%20Eyewitness%20accuracy%20and%20confidence.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 807 — Guilbert (2012): “Courts across the country now ac...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: Memory: L9  
-   Link: [http://www.youtube.com/watch?v=jx58TU_Rf04](http://www.youtube.com/watch?v=jx58TU_Rf04)  
+   Link: <a href="http://www.youtube.com/watch?v=jx58TU_Rf04" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jx58TU_Rf04</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness memory confidence accuracy relationship Eyewitness Memory Crisis: Why Confidence ≠ Accuracy Forensics and Psychology...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/315525817_The_Relationship_Between_Eyewitness_Confidence_and_Identification_Accuracy_A_New_Synthesis](https://www.researchgate.net/publication/315525817_The_Relationship_Between_Eyewitness_Confidence_and_Identification_Accuracy_A_New_Synthesis)  
+   Link: <a href="https://www.researchgate.net/publication/315525817_The_Relationship_Between_Eyewitness_Confidence_and_Identification_Accuracy_A_New_Synthesis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315525817_The_Relationship_Between_Eyewitness_Confidence_and_Identification_Accuracy_A_New_Synthesis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 2015 · American Psychologist. John T. Wixted · Laura...Read more...</p></details>
    Published: September 2015  
 
 33. <a id="endnote-33"></a>
    Source: archive.legmt.gov  
-   Link: [https://archive.legmt.gov/content/Committees/Interim/2015-2016/Law-and-Justice/Meetings/Sept-2015/Exhibits/eyewitness-nas-recommendations-summary.pdf](https://archive.legmt.gov/content/Committees/Interim/2015-2016/Law-and-Justice/Meetings/Sept-2015/Exhibits/eyewitness-nas-recommendations-summary.pdf)  
+   Link: <a href="https://archive.legmt.gov/content/Committees/Interim/2015-2016/Law-and-Justice/Meetings/Sept-2015/Exhibits/eyewitness-nas-recommendations-summary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.legmt.gov/content/Committees/Interim/2015-2016/Law-and-Justice/Meetings/Sept-2015/Exhibits/eyewitness-nas-recommendations-summary.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Culprit, Assessing Eyewitness IdentificationFor several decades, scientists have conducted research on the factors that affect the ac...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Confident Witness = Reliable?! 🤯 Think Again! (Memory LIES with Style) 🧠⚖️  
-   Link: [http://www.youtube.com/watch?v=cgr9EDPPaMU](http://www.youtube.com/watch?v=cgr9EDPPaMU)  
+   Link: <a href="http://www.youtube.com/watch?v=cgr9EDPPaMU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cgr9EDPPaMU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory: L9 - Improving the Accuracy of Eyewitness Testimony - Cognitive Interview...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: today.ucsd.edu  
-   Link: [https://today.ucsd.edu/story/confidence_counts_accuracy_of_eyewitness_ids_increases_with_degree_of_certa](https://today.ucsd.edu/story/confidence_counts_accuracy_of_eyewitness_ids_increases_with_degree_of_certa)  
+   Link: <a href="https://today.ucsd.edu/story/confidence_counts_accuracy_of_eyewitness_ids_increases_with_degree_of_certa" target="_blank" rel="noopener noreferrer nofollow">https://today.ucsd.edu/story/confidence_counts_accuracy_of_eyewitness_ids_increases_with_degree_of_certa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Counts: Accuracy of Eyewitness IDs Increases...21 Dec 2015 — The study estimates the accuracy of suspect identification using two distin...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-025-96224-y](https://www.nature.com/articles/s41598-025-96224-y)  
+   Link: <a href="https://www.nature.com/articles/s41598-025-96224-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-96224-y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparing the strength of the confidence-accuracy versus...by CA Carlson · 2025 · Cited by 7 — Research indicates that eyewitness identi...</p></details>

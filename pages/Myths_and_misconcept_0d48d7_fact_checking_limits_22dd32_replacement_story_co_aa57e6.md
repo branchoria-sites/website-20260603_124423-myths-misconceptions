@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_platform_design_fact_d363de
 - Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_prebunking_resists_m_940210
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - fact-checks
 - better-story
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - fact-checks
 - better-story
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Corrections are stronger when they do more than say what is false; they explain what really happened and why the myth seemed plausible.
 hero_summary: Corrections are stronger when they do more than say what is false; they explain what really happened and why the myth seemed plausible.
 layout: default
 permalink: /better-story-524703/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /fact-checks/
 nav_short_title: Better Story
 title: Why Debunking Needs a Replacement Story
-title_full: Why Debunking Needs a Replacement Story | Fact Checks
+title_full: Why Debunking Needs a Replacement Story
 display_title_short: Better Story
 display_title: Better Story
 heading_title: Why Debunking Needs a Replacement Story
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Fact Checking Is Not Enough | Mythcraft
+parent_title: Why Fact Checking Is Not Enough
 parent_permalink: /fact-checks/
 parent_nav_short_title: Fact Checks
 parent_heading_title: Why Fact Checking Is Not Enough
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Myths Move Faster Than Corrections
 up_link:
   basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
@@ -259,7 +259,7 @@ next_link:
   permalink: /mutation/
   short_title: Mutation
   heading_title: How Myths Survive After Being Debunked
-date: '2026-06-09 05:13:03 '
+date: '2026-06-11 22:25:30 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6-Illustration-1.webp
@@ -268,22 +268,18 @@ image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_re
 
 ## Introduction
 
-Fact-checking is often presented as a simple contest between truth and falsehood: identify the error, publish the [correction]({{ 'correction/' | relative_url }}), and the problem is solved. Research on misinformation suggests that reality is more complicated. People frequently continue to rely on a false claim even after accepting that it was inaccurate. One important reason is that myths often provide a coherent explanation of events, while many [corrections]({{ 'corrections/' | relative_url }}) merely remove that explanation without replacing it. When a correction creates a gap in understanding, people may drift back towards the original story because it still feels like the most complete account available. Effective debunking therefore does more than say what is wrong. It offers a credible replacement story that explains what really happened, why the mistaken claim arose, and how the evidence fits together. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1892 — In this Review, we describe the...</span></span></span>
-
+Fact-checking is often presented as a simple contest between truth and falsehood: identify the error, publish the [correction]({{ 'correction/' | relative_url }}), and the problem is solved. Research on misinformation suggests that reality is more complicated. People frequently continue to rely on a false claim even after accepting that it was inaccurate. One important reason is that myths often provide a coherent explanation of events, while many [corrections]({{ 'corrections/' | relative_url }}) merely remove that explanation without replacing it. When a correction creates a gap in understanding, people may drift back towards the original story because it still feels like the most complete account available. Effective debunking therefore does more than say what is wrong. It offers a credible replacement story that explains what really happened, why the mistaken claim arose, and how the evidence fits together. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1892 — In this Review, we describe the...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6-Illustration-1-dark.svg" | relative_url }}" alt="Better Story illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Causal Gaps Keep Myths Alive
 
 Human beings naturally organise information into narratives. When people hear about an event, they build a mental model that links causes, actions and outcomes. A myth often succeeds not because every detail is persuasive, but because it provides a simple and coherent account of why something happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Misinformation and Its Correction Continued</span><span class="citation-popover-snippet">ResearchGate(PDF) Misinformation and Its Correction Continued...December 1, 2012 — Debunking is a reactive strategy that addresses misin...</span><span class="citation-popover-meta">Published: December 1, 2012</span></span></span>
 
-A correction that merely says “this is false” can leave that mental model partly intact. Researchers studying the “[continued influence]({{ 'old-stories/' | relative_url }}) effect” have repeatedly found that misinformation can continue to shape reasoning even after it has been retracted. People may remember that a claim was corrected yet still use elements of it when explaining events or making judgments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">PMCby IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[2digitalcommons.chapman.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">A Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A meta-analysis was conducted to examine...</span></span></span>
+A correction that merely says “this is false” can leave that mental model partly intact. Researchers studying the “continued influence effect” have repeatedly found that misinformation can continue to shape reasoning even after it has been retracted. People may remember that a claim was corrected yet still use elements of it when explaining events or making judgments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[2digitalcommons.chapman.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">A Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A meta-analysis was conducted to examine...</span></span></span>
 
 One explanation is that the original misinformation filled an important explanatory role. If the correction removes that information without supplying an alternative, the person is left with an unresolved question. What caused the event? Why did people believe the claim? What actually happened instead? The mind tends to prefer a flawed explanation over no explanation at all. Research reviews have consistently found that corrections work better when they provide an alternative causal account that can replace the original misinformation in a person's understanding of events. Cambridge University Press & Assessment <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/print.php?n=4891" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">Skeptical ScienceThe Debunking Handbook 2020: Debunk often and properly26 Oct 2020 — Providing a factual alternative, that is an alternat...</span></span></span>
 
 This helps explain why myths can survive despite successful fact-checking. The factual error may be rejected, but the narrative structure that made the myth persuasive remains available and psychologically useful.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cSKGa_7XJkg" title="How false news can spread - Noah Tavlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer">How false news can spread - Noah Tavlin</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cSKGa_7XJkg">Open on YouTube</a></p></div></div></div>
 
 ## What Effective Corrections Include
 
@@ -301,7 +297,6 @@ Another useful element is explaining how the false claim emerged. Studies examin
 
 In practical terms, a correction is often stronger when it answers three questions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What claim is wrong?
@@ -312,42 +307,33 @@ In practical terms, a correction is often stronger when it answers three questio
 
 When all three questions are addressed, the correction becomes a substitute narrative rather than a simple denial.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6-Illustration-2-dark.svg" | relative_url }}" alt="Better Story illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples of Explanation-Based Debunking
 
 ### From Removal to Replacement
 
-A classic example from misinformation research involves event reports that initially attribute a disaster to a particular cause and later retract that information. Participants who are merely told that the original cause was incorrect often continue to rely on it when explaining the event. However, when researchers provide an alternative explanation, reliance on the misinformation decreases substantially. The replacement account gives people another way to make sense of what happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMisinformation and Its Correction (Chapter 8)24 Aug 2020 — Numerous studies find that corrections...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0278262625000302" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectProviding an alternative explanation improves...by S Guo · 2025 · Cited by 5 — Empirical findings have consistently shown t...</span></span></span>
+A classic example from misinformation research involves event reports that initially attribute a disaster to a particular cause and later retract that information. Participants who are merely told that the original cause was incorrect often continue to rely on it when explaining the event. However, when researchers provide an alternative explanation, reliance on the misinformation decreases substantially. The replacement account gives people another way to make sense of what happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMisinformation and Its Correction (Chapter 8)24 Aug 2020 — Numerous studies find that corrections...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0278262625000302" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Providing an alternative explanation improves...by S Guo · 2025 · Cited by 5 — Empirical findings have consistently shown t...</span></span></span>
 
 The lesson extends beyond laboratory experiments. Consider a viral claim that a photograph proves election fraud, public disorder or scientific misconduct. A weak correction might state that the claim is false. A stronger correction explains that the image came from a different location, date or event, describes how the misidentification occurred, and shows the genuine context. The reader receives not only a rejection of the myth but also a complete explanation of the evidence.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zxIaTE88ins" title="職場小透明意外睡了宿醉總裁，隔天被叫進辦公室，以為職業生涯完蛋卻沒想到被他抱在懷裡表白：老婆，孩子都有了，啥時候公開我們的關係？#短劇#甜寵#shortfilm #drama" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zxIaTE88ins" target="_blank" rel="noopener noreferrer">職場小透明意外睡了宿醉總裁，隔天被叫進辦公室，以為職業生涯完蛋卻沒想到被他抱在懷裡表白：老婆，孩子都有了，啥時候公開我們的關係？#短劇#甜寵#shortfilm #drama</a></p><p class="youtube-embed-meta">Channel: 楓念短剧TOPSHORT</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zxIaTE88ins" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zxIaTE88ins">Open on YouTube</a></p></div></div></div>
-
 ### Health and Science Communication
 
-Science-related myths often flourish because they offer simple causes for complex problems. Effective corrections therefore need to provide an equally understandable account of the actual mechanisms involved. Meta-analytic research on science misinformation shows that corrections can be effective, but success depends partly on whether people are given information that supports meaningful belief revision rather than a bare contradiction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">PMCby IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
+Science-related myths often flourish because they offer simple causes for complex problems. Effective corrections therefore need to provide an equally understandable account of the actual mechanisms involved. Meta-analytic research on science misinformation shows that corrections can be effective, but success depends partly on whether people are given information that supports meaningful belief revision rather than a bare contradiction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
 
 For example, correcting a false health claim is more persuasive when communicators explain the real causes of symptoms, risks or outcomes instead of merely stating that the viral claim is inaccurate. The correction competes with the myth at the level of explanation rather than only at the level of fact.
 
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6-Illustration-3-dark.svg" | relative_url }}" alt="Better Story illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Explaining the Error Itself
 
 Another increasingly common approach is to explain the mechanics of misinformation. Rather than only presenting correct facts, communicators describe how a misleading statistic was created, how an image was altered, or how a rumour spread through social media. Research exploring explanation-based corrections suggests that understanding the origins of misinformation can improve people's ability to incorporate the correction into their reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/28822/1/ConnorDesai%26Reimers2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[City Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-snippet">Misinformation often has a continuing influence on event-related reasoning even when it is clearly and credibly corrected;.Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6-Illustration-3-dark.svg" | relative_url }}" alt="Better Story illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Matters for Myth Reduction
 
-The need for a replacement story highlights a broader limitation of fact-checking. Myths are rarely just collections of incorrect facts. They are explanations that help people interpret uncertain events, assign blame, identify causes or reinforce existing beliefs. Because they function as narratives, they often survive purely factual rebuttals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1892 — In this Review, we describe the...</span></span></span>
+The need for a replacement story highlights a broader limitation of fact-checking. Myths are rarely just collections of incorrect facts. They are explanations that help people interpret uncertain events, assign blame, identify causes or reinforce existing beliefs. Because they function as narratives, they often survive purely factual rebuttals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1892 — In this Review, we describe the...</span></span></span>
 
-Research on the continued influence effect repeatedly shows that removing misinformation is harder than introducing it. However, evidence also indicates that corrections become more effective when they provide an alternative explanation capable of filling the gap left behind. The goal is not merely to negate a myth but to replace it with a more accurate and equally coherent understanding of events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0278262625000302" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectProviding an alternative explanation improves...by S Guo · 2025 · Cited by 5 — Empirical findings have consistently shown t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17470218251336232" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDo the protective effects last? The...9 Apr 2025 — The continued influence effect (CIE) refers to continued reliance on mis...</span></span></span>
+Research on the continued influence effect repeatedly shows that removing misinformation is harder than introducing it. However, evidence also indicates that corrections become more effective when they provide an alternative explanation capable of filling the gap left behind. The goal is not merely to negate a myth but to replace it with a more accurate and equally coherent understanding of events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0278262625000302" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Providing an alternative explanation improves...by S Guo · 2025 · Cited by 5 — Empirical findings have consistently shown t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17470218251336232" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDo the protective effects last? The...9 Apr 2025 — The continued influence effect (CIE) refers to continued reliance on mis...</span></span></span>
 
 For policymakers, journalists, educators and fact-checkers, this shifts the implementation challenge. The most successful interventions are often not those that say only “that claim is false”, but those that explain what really happened in a way that people can remember, understand and use when making sense of the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/print.php?n=4891" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">Skeptical ScienceThe Debunking Handbook 2020: Debunk often and properly26 Oct 2020 — Providing a factual alternative, that is an alternat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Debunking HandbookProvide a factual alternative that fills a causal “gap”, explaining what happened if the misinformation is corrected. R...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QhPNtBAwhvI" title="How To Combat Fake News And Disinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QhPNtBAwhvI" target="_blank" rel="noopener noreferrer">How To Combat Fake News And Disinformation</a></p><p class="youtube-embed-meta">Channel: Channels Television</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QhPNtBAwhvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QhPNtBAwhvI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -466,15 +452,15 @@ For policymakers, journalists, educators and fact-checkers, this shifts the impl
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT"><img src="{{ '/assets/images/marketplace-covers/352c61150a84d9a15ae7.jpg' | relative_url }}" alt="Listing image for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-debunking-needs-a-replacement-story-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-debunking-needs-a-replacement-story-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT"><img src="https://i.ebayimg.com/images/g/zKYAAOSwBEFlESPn/s-l225.jpg" alt="Listing image for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-debunking-needs-a-replacement-story-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-debunking-needs-a-replacement-story-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker+GIFT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-debunking-needs-a-replacement-story-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-debunking-needs-a-replacement-story-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-debunking-needs-a-replacement-story-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-debunking-needs-a-replacement-story-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -482,15 +468,15 @@ For policymakers, journalists, educators and fact-checkers, this shifts the impl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 [FACT CHECK] 5th Album EXHIBIT TAEIL Ver/CD+4 Post Card+Card+Sticker"><img src="{{ '/assets/images/marketplace-covers/36564e9179733ccf89e8.jpg' | relative_url }}" alt="Listing image for NCT 127 [FACT CHECK] 5th Album EXHIBIT TAEIL Ver/CD+4 Post Card+Card+Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-debunking-needs-a-replacement-story-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-debunking-needs-a-replacement-story-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop"><img src="https://i.ebayimg.com/images/g/waIAAOSweOFlKUAg/s-l225.jpg" alt="Listing image for NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 [FACT CHECK] 5th Album EXHIBIT TAEIL Ver/CD+4 Post Card+Card+Sticker</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-debunking-needs-a-replacement-story-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-debunking-needs-a-replacement-story-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check Poster version w Jungwoo Photocard Walmart I Heart Kpop</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-debunking-needs-a-replacement-story-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-debunking-needs-a-replacement-story-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-debunking-needs-a-replacement-story-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-debunking-needs-a-replacement-story-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +484,15 @@ For policymakers, journalists, educators and fact-checkers, this shifts the impl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check 5th Album YUTA JAEHYUN JUNGWON Sticker Nemo Smart Ver."><img src="{{ '/assets/images/marketplace-covers/459aa028ae0dfac1d68c.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check 5th Album YUTA JAEHYUN JUNGWON Sticker Nemo Smart Ver." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-debunking-needs-a-replacement-story-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-debunking-needs-a-replacement-story-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 The 5th Album &#x27;Fact Check&#x27; (CD) Exclusive Ver. / Poster"><img src="https://i.ebayimg.com/images/g/t5cAAeSw6f9qKN3b/s-l225.jpg" alt="Listing image for NCT 127 The 5th Album &#x27;Fact Check&#x27; (CD) Exclusive Ver. / Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check 5th Album YUTA JAEHYUN JUNGWON Sticker Nemo Smart Ver.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-debunking-needs-a-replacement-story-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-debunking-needs-a-replacement-story-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 The 5th Album &#x27;Fact Check&#x27; (CD) Exclusive Ver. / Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-debunking-needs-a-replacement-story-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-debunking-needs-a-replacement-story-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-debunking-needs-a-replacement-story-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-debunking-needs-a-replacement-story-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +500,15 @@ For policymakers, journalists, educators and fact-checkers, this shifts the impl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nct 127 Fact Check And Sticker Photocards"><img src="{{ '/assets/images/marketplace-covers/e19779c1afa40b68544f.jpg' | relative_url }}" alt="Listing image for Nct 127 Fact Check And Sticker Photocards" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-debunking-needs-a-replacement-story-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-debunking-needs-a-replacement-story-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker"><img src="https://i.ebayimg.com/images/g/~VIAAOSwWK5lETyT/s-l225.jpg" alt="Listing image for NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">Nct 127 Fact Check And Sticker Photocards</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-debunking-needs-a-replacement-story-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-debunking-needs-a-replacement-story-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK Album NEMO Ver/QR CARD+Poster+Photo Card+2 Card+Sticker</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-debunking-needs-a-replacement-story-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-debunking-needs-a-replacement-story-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-debunking-needs-a-replacement-story-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-debunking-needs-a-replacement-story-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,7 +516,7 @@ For policymakers, journalists, educators and fact-checkers, this shifts the impl
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="better-story-524703-why-debunking-needs-a-replacement-story-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-debunking-needs-a-replacement-story-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-debunking-needs-a-replacement-story-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -745,139 +731,139 @@ For policymakers, journalists, educators and fact-checkers, this shifts the impl
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1892 — In this Review, we describe the...</p></details>
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1892 — In this Review, we describe the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810](https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810)  
+   Link: <a href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentMisinformation and Its Correction (Chapter 8)24 Aug 2020 — Numerous studies find that corrections...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Misinformation and Its Correction Continued  
-   Link: [https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing](https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing)  
+   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Misinformation and Its Correction Continued...December 1, 2012 — Debunking is a reactive strategy that addresses misin...</p></details>
    Published: December 1, 2012  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExploring factors that mitigate the continued influence  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: digitalcommons.chapman.edu  
-   Link: [https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&context=comm_articles](https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&context=comm_articles)  
+   Link: <a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A meta-analysis was conducted to examine...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0278262625000302](https://www.sciencedirect.com/science/article/abs/pii/S0278262625000302)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectProviding an alternative explanation improves...by S Guo · 2025 · Cited by 5 — Empirical findings have consistently shown t...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0278262625000302" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0278262625000302</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Providing an alternative explanation improves...by S Guo · 2025 · Cited by 5 — Empirical findings have consistently shown t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691823002706](https://www.sciencedirect.com/science/article/pii/S0001691823002706)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectA replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691823002706</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729](https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The rational continued influence of misinformationby SAC Desai · 2020 · Cited by 71 — Studies on the &#x27;Continued Influence Effect&#x27; (CIE) s...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2211368116301838](https://www.sciencedirect.com/science/article/abs/pii/S2211368116301838)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211368116301838" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211368116301838</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reminders and [Repetition](&amp;#123;&amp;#123; &#x27;repetition/&#x27; | relative_url &amp;#125;&amp;#125;) of Misinformationby UKH Ecker · 2017 · Cited by 397 — People frequently rely on information even after it has be...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-[memory](https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-[memory)  
+   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-[memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-[memory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: skepticalscience.com  
-   Link: [https://skepticalscience.com/print.php?n=4891](https://skepticalscience.com/print.php?n=4891)  
+   Link: <a href="https://skepticalscience.com/print.php?n=4891" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=4891</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceThe Debunking Handbook 2020: Debunk often and properly26 Oct 2020 — Providing a factual alternative, that is an alternat...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: climatechangecommunication.org  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking HandbookProvide a factual alternative that fills a causal “gap”, explaining what happened if the misinformation is corrected. R...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: digitalcommons.unl.edu  
-   Link: [https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf](https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, misinformation often continues to influence people&#x27;s thinking even after they receive...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: openaccess.city.ac.uk  
-   Link: [https://openaccess.city.ac.uk/28822/1/ConnorDesai%26Reimers2022.pdf](https://openaccess.city.ac.uk/28822/1/ConnorDesai%26Reimers2022.pdf)  
+   Link: <a href="https://openaccess.city.ac.uk/28822/1/ConnorDesai%26Reimers2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/28822/1/ConnorDesai%26Reimers2022.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation often has a continuing influence on event-related reasoning even when it is clearly and credibly corrected;.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/17470218251336232](https://journals.sagepub.com/doi/10.1177/17470218251336232)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/17470218251336232" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218251336232</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDo the protective effects last? The...9 Apr 2025 — The continued influence effect (CIE) refers to continued reliance on mis...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: etd.ohiolink.edu  
-   Link: [https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&disposition=inline](https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&disposition=inline)  
+   Link: <a href="https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&amp;disposition=inline" target="_blank" rel="noopener noreferrer nofollow">https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&amp;disposition=inline</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ohiolink.edu1 Mechanisms in Continued Influence of Misinformationby VL Westbrook · 2022 · Cited by 1 — Research on the CIE has shown that...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf](https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf)  
+   Link: <a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The continued influence of misinformation in memoryIn the next sections, we consider several alternative explanations for the continued i...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: research-information.bris.ac.uk  
-   Link: [https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf](https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bris.ac.ukEcker, UKH, Lewandowsky, S., Cook, J., Schmid, P., Fazio...Because a simple retraction will create a gap in a person&#x27;s mental...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA meta-analysis of correction effects in science-relevant  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12397989/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12397989/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MS Chan · 2023 · Cited by 151 — However, corrections were more successful when the initial science-relevant belief concerned negati...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12397989/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12397989/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by MS Chan · 2023 · Cited by 151 — However, corrections were more successful when the initial science-relevant belief concerned negati...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: emc-lab.org  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2010). Explicit warnings reduce but do not eliminate the continued influence of misinformation. Memory &amp;...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26173286/](https://pubmed.ncbi.nlm.nih.gov/26173286/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — Misinformation and Its Corr...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173286/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — Misinformation and Its Corr...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Theoretical accounts of the CIE  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>function and the continued influence of misinformationby P McIlhiney · 2023 · Cited by 13 — Misinformation can continue to influence reas...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36988856/](https://pubmed.ncbi.nlm.nih.gov/36988856/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36988856/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36988856/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation corrections on source...by V Westbrook · 2023 · Cited by 26 — Research on the continued influence effect (CIE)...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: cliffsnotes.com  
-   Link: [https://www.cliffsnotes.com/study-notes/26918468](https://www.cliffsnotes.com/study-notes/26918468)  
+   Link: <a href="https://www.cliffsnotes.com/study-notes/26918468" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/26918468</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Continued-Influence Effect of Misinformation (docx)27 July 2024 — We conceptualize the knowledge revision process as incremental, conserv...</p></details>
    Published: July 2024  
 
 25. <a id="endnote-25"></a>
    Source: crankyuncle.com  
    Title: how to debunk misinformation  
-   Link: [https://crankyuncle.com/how-to-debunk-misinformation/](https://crankyuncle.com/how-to-debunk-misinformation/)  
+   Link: <a href="https://crankyuncle.com/how-to-debunk-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://crankyuncle.com/how-to-debunk-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Sept 2020 — An effective rebuttal requires three elements: fact, myth, fallacy. I&#x27;m going to explain how to tie these together into a...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/01296612.2017.1384145](https://www.tandfonline.com/doi/full/10.1080/01296612.2017.1384145)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/01296612.2017.1384145" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/01296612.2017.1384145</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why rebuttals may not work: the psychology of misinformationby UKH Ecker · 2017 · Cited by 55 — My research looks at ways in which misinf...</p></details>

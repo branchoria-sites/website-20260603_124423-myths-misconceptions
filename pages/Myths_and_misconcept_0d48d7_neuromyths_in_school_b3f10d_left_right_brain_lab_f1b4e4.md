@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_learning_styles_matc_6c54f1
 - Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_teacher_training_rub_152f08
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - neuromyths
 - brain-labels
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - neuromyths
 - brain-labels
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Left-brain and right-brain labels turn real hemispheric differences into misleading learner types that can narrow expectations.
 hero_summary: Left-brain and right-brain labels turn real hemispheric differences into misleading learner types that can narrow expectations.
 layout: default
 permalink: /brain-labels/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /neuromyths/
 nav_short_title: Brain labels
 title: Why left brain labels mislead teachers
-title_full: Why left brain labels mislead teachers | Neuromyths
+title_full: Why left brain labels mislead teachers
 display_title_short: Brain labels
 display_title: Brain labels
 heading_title: Why left brain labels mislead teachers
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Brain Myths Spread in Schools | Mythcraft
+parent_title: Why Brain Myths Spread in Schools
 parent_permalink: /neuromyths/
 parent_nav_short_title: Neuromyths
 parent_heading_title: Why Brain Myths Spread in Schools
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How teacher training can preserve myths
 up_link:
   basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
@@ -265,7 +265,7 @@ next_link:
   permalink: /critical-periods/
   short_title: Critical periods
   heading_title: Are children ever too late to learn?
-date: '2026-06-09 05:38:29 '
+date: '2026-06-11 22:38:30 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_left_right_brain_lab_f1b4e4-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_left_right_brain_lab_f1b4e4-Illustration-1.webp
@@ -276,18 +276,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_le
 
 The idea that some pupils are “left-brained” and others are “right-brained” is one of the most durable [neuromyths]({{ 'neuromyths/' | relative_url }}) in education. It survives because it begins with a real scientific observation: the two hemispheres of the brain do show some functional specialisation. Language is usually more strongly associated with networks in the left hemisphere, while some aspects of spatial processing show stronger right-hemisphere involvement. The mistake comes when those findings are turned into personality categories and classroom labels. Research does not support the claim that pupils can be divided into stable “logical left-brain learners” and “creative right-brain learners”, nor that teaching should be tailored around such categories. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">more...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_left_right_brain_lab_f1b4e4-Illustration-1-dark.svg" | relative_url }}" alt="Brain labels illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_left_right_brain_lab_f1b4e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_left_right_brain_lab_f1b4e4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In classrooms, the risk is not only scientific inaccuracy. Once a pupil is described as a “right-brain child” or a “left-brain thinker”, expectations can narrow. Teachers may unintentionally steer pupils towards some activities and away from others, turning a simplistic brain story into a self-fulfilling educational label.
 
 ## The real science behind brain lateralisation
 
-The myth persists because [brain lateralisation]({{ 'lateralisation/' | relative_url }}) is real. The two hemispheres are not identical, and neuroscientists have documented differences in how some functions are organised. Language processing, for example, is usually more strongly lateralised to the left hemisphere, although both hemispheres contribute to understanding and communication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLeft Brain, Right Brain: Facts and Fantasies</span><span class="citation-popover-snippet">PMC - NIHby MC Corballis · 2014 · Cited by 517 — Michael Corballis discusses in this essay how the asymmetry of the brain raises question...</span></span></span>
+The myth persists because brain [lateralisation]({{ 'lateralisation/' | relative_url }}) is real. The two hemispheres are not identical, and neuroscientists have documented differences in how some functions are organised. Language processing, for example, is usually more strongly lateralised to the left hemisphere, although both hemispheres contribute to understanding and communication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLeft Brain, Right Brain: Facts and Fantasies</span><span class="citation-popover-snippet">NIHby MC Corballis · 2014 · Cited by 517 — Michael Corballis discusses in this essay how the asymmetry of the brain raises question...</span></span></span>
 
-However, [lateralisation]({{ 'lateralisation/' | relative_url }}) is not the same thing as a learner type. A brain can show stronger involvement of one hemisphere for a particular task without that person becoming a globally “left-brained” or “right-brained” individual. Modern neuroscience describes cognition as the product of distributed networks that span both hemispheres and communicate continuously through extensive neural connections. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1302581110" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">the right cerebral hemisphere.Read more...</span></span></span>
+However, lateralisation is not the same thing as a learner type. A brain can show stronger involvement of one hemisphere for a particular task without that person becoming a globally “left-brained” or “right-brained” individual. Modern neuroscience describes cognition as the product of distributed networks that span both hemispheres and communicate continuously through extensive neural connections. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1302581110" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">the right cerebral hemisphere.Read more...</span></span></span>
 
 This distinction matters. Educational versions of the myth often imply:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,22 +297,19 @@ This distinction matters. Educational versions of the myth often imply:
 
 The evidence supports none of these claims. Researchers studying neuromyths repeatedly note that hemispheric dominance refers to the relative involvement of a hemisphere in a specific process, not to a person's overall intelligence, personality or learning capacity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">more...</span></span></span>
 
-Even activities popularly associated with one hemisphere typically involve large-scale cooperation across the brain. Reading, problem-solving, music, creativity and mathematical reasoning all recruit multiple networks distributed across both sides. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineBeyond left and right: Learning is a whole-brain processby DD Shin · 2022 · Cited by 12 — The argument of left- an...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4874870/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCChoosing words: left hemisphere, right hemisphere, or both...by SK Ries · 2016 · Cited by 190 — Language is considered to be one of t...</span></span></span>
+Even activities popularly associated with one hemisphere typically involve large-scale cooperation across the brain. Reading, problem-solving, music, creativity and mathematical reasoning all recruit multiple networks distributed across both sides. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineBeyond left and right: Learning is a whole-brain processby DD Shin · 2022 · Cited by 12 — The argument of left- an...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4874870/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Choosing words: left hemisphere, right hemisphere, or both...by SK Ries · 2016 · Cited by 190 — Language is considered to be one of t...</span></span></span>
 
 ## How personality labels enter classroom language
 
 The educational version of the myth often spreads through a subtle shift in language. Scientific findings about hemispheric specialisation become personality descriptions.
 
-A statement such as “language functions are often more left-lateralised” becomes “left-brain people are verbal”. A finding that some spatial processes involve stronger right-hemisphere activity becomes “right-brain people are creative”. From there, teachers, parents and pupils can begin using brain language as an [identity]({{ 'identity/' | relative_url }}) label. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.harvard.edu">[Harvard Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.harvard.edu</span><span class="citation-popover-title">right brainleft brain right 2017082512222</span><span class="citation-popover-snippet">Harvard HealthRight brain/left brain, right?24 Mar 2022 — According to conventional wisdom, people tend to have a personality, thinking s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5447089/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCBrain Knowledge and the Prevalence of Neuromyths among...by M Papadatou-Pastou · 2017 · Cited by 191 — The myth of right-brain and le...</span></span></span>
+A statement such as “language functions are often more left-lateralised” becomes “left-brain people are verbal”. A finding that some spatial processes involve stronger right-hemisphere activity becomes “right-brain people are creative”. From there, teachers, parents and pupils can begin using brain language as an [identity]({{ 'identity/' | relative_url }}) label. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.harvard.edu">[Harvard Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.harvard.edu</span><span class="citation-popover-title">right brainleft brain right 2017082512222</span><span class="citation-popover-snippet">Harvard HealthRight brain/left brain, right?24 Mar 2022 — According to conventional wisdom, people tend to have a personality, thinking s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5447089/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Brain Knowledge and the Prevalence of Neuromyths among...by M Papadatou-Pastou · 2017 · Cited by 191 — The myth of right-brain and le...</span></span></span>
 
 This translation is attractive because it offers a simple explanation for complex differences between learners. A pupil who struggles with writing but enjoys drawing can appear to fit the “right-brained” description. A pupil who enjoys structured tasks may seem “left-brained”. The label creates an apparently scientific story that feels intuitive even when the underlying evidence is weak.
 
-Surveys of teachers in multiple countries show that left-brain/right-brain beliefs remain common despite decades of criticism from researchers. Neuromyth studies repeatedly identify hemisphere-based learner categories among the most widely accepted misconceptions in education. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCDispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — Two of the most pervasive myths a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Dekker · 2012 · Cited by 1254 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span>
+Surveys of teachers in multiple countries show that left-brain/right-brain beliefs remain common despite decades of criticism from researchers. Neuromyth studies repeatedly identify hemisphere-based learner categories among the most widely accepted misconceptions in education. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — Two of the most pervasive myths a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1254 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span>
 
-The popularity of the myth reflects a broader pattern seen across educational neuromyths. A genuine finding from neuroscience becomes detached from its original limits and repackaged as a practical classroom typology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ldaustralia.org/research-papers/neuromyths-in-education-prevalence-and-predictors-of-misconceptions-among-teachers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ldaustralia.org">[Learning Difficulties Australia Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ldaustralia.org</span><span class="citation-popover-snippet">e and predictors of neuromyths among teachers in selected regions in the United Kingdom and the Netherlands.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S089662732400120X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectCross-hemispheric communication: Insights on lateralized...by S Ocklenburg · 2024 · Cited by 63 — Cross-hemispheric communi...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NB8gP3mWOuY" title="Hemispheric Lateralisation &amp; Split-Brain Research | Biopsychology | AQA Psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NB8gP3mWOuY" target="_blank" rel="noopener noreferrer">Hemispheric Lateralisation &amp; Split-Brain Research | Biopsychology | AQA Psychology</a></p><p class="youtube-embed-meta">Channel: Bear it in MIND &middot; Views: 34.2K &middot; Uploaded: January 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NB8gP3mWOuY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NB8gP3mWOuY">Open on YouTube</a></p></div></div></div>
+The popularity of the myth reflects a broader pattern seen across educational neuromyths. A genuine finding from neuroscience becomes detached from its original limits and repackaged as a practical classroom typology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ldaustralia.org/research-papers/neuromyths-in-education-prevalence-and-predictors-of-misconceptions-among-teachers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ldaustralia.org">[Learning Difficulties Australia Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ldaustralia.org</span><span class="citation-popover-snippet">e and predictors of neuromyths among teachers in selected regions in the United Kingdom and the Netherlands.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S089662732400120X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Cross-hemispheric communication: Insights on lateralized...by S Ocklenburg · 2024 · Cited by 63 — Cross-hemispheric communi...</span></span></span>
 
 ## Why labels can change teacher expectations
 
@@ -334,24 +329,22 @@ This is especially significant because many classroom abilities develop unevenly
 
 The language of “brain dominance” can also make expectations seem objective. A teacher who would hesitate to say “this child is not a maths person” may feel more comfortable saying “this child is right-brained”. The second statement sounds scientific, but it can have a similar limiting effect.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_left_right_brain_lab_f1b4e4-Illustration-2-dark.svg" | relative_url }}" alt="Brain labels illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_left_right_brain_lab_f1b4e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_left_right_brain_lab_f1b4e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why complex learning cannot be sorted by hemisphere
 
 One reason the myth fails scientifically is that school learning is rarely reducible to a single cognitive process.
 
-Consider creative writing. Popular accounts often classify creativity as a right-brain function. Yet writing also relies on vocabulary, grammar, [memory]({{ 'memory/' | relative_url }}), planning, self-monitoring and language production, all involving extensive activity across both hemispheres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLeft Brain, Right Brain: Facts and Fantasies</span><span class="citation-popover-snippet">PMC - NIHby MC Corballis · 2014 · Cited by 517 — Michael Corballis discusses in this essay how the asymmetry of the brain raises question...</span></span></span>
+Consider creative writing. Popular accounts often classify creativity as a right-brain function. Yet writing also relies on vocabulary, grammar, [memory]({{ 'memory/' | relative_url }}), planning, self-monitoring and language production, all involving extensive activity across both hemispheres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLeft Brain, Right Brain: Facts and Fantasies</span><span class="citation-popover-snippet">NIHby MC Corballis · 2014 · Cited by 517 — Michael Corballis discusses in this essay how the asymmetry of the brain raises question...</span></span></span>
 
-The same problem appears in mathematics. Arithmetic and symbolic reasoning are often described as left-brain activities, but mathematical thinking also involves visualisation, pattern recognition, estimation and spatial reasoning. These processes draw on networks distributed across the brain rather than a single hemisphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S089662732400120X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectCross-hemispheric communication: Insights on lateralized...by S Ocklenburg · 2024 · Cited by 63 — Cross-hemispheric communi...</span></span></span>
+The same problem appears in mathematics. Arithmetic and symbolic reasoning are often described as left-brain activities, but mathematical thinking also involves visualisation, pattern recognition, estimation and spatial reasoning. These processes draw on networks distributed across the brain rather than a single hemisphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S089662732400120X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Cross-hemispheric communication: Insights on lateralized...by S Ocklenburg · 2024 · Cited by 63 — Cross-hemispheric communi...</span></span></span>
 
 Even artistic activities undermine the stereotype. Music, painting and design involve perception, memory, attention, sequencing, motor control and evaluation. None can be neatly assigned to one side of the brain.
 
-Modern neuroscience increasingly describes learning as the coordinated activity of multiple specialised systems working together. The question is not which hemisphere a learner uses, but how networks communicate and adapt during learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S089662732400120X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectCross-hemispheric communication: Insights on lateralized...by S Ocklenburg · 2024 · Cited by 63 — Cross-hemispheric communi...</span></span></span>
+Modern neuroscience increasingly describes learning as the coordinated activity of multiple specialised systems working together. The question is not which hemisphere a learner uses, but how networks communicate and adapt during learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S089662732400120X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Cross-hemispheric communication: Insights on lateralized...by S Ocklenburg · 2024 · Cited by 63 — Cross-hemispheric communi...</span></span></span>
 
 This is one reason researchers argue that the popular left-brain/right-brain distinction oversimplifies a far more interconnected reality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineBeyond left and right: Learning is a whole-brain processby DD Shin · 2022 · Cited by 12 — The argument of left- an...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j1_UW-gD1jQ" title="The Myth of Left-Brain vs. Right-Brain Personalities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j1_UW-gD1jQ" target="_blank" rel="noopener noreferrer">The Myth of Left-Brain vs. Right-Brain Personalities</a></p><p class="youtube-embed-meta">Channel: Science Unbound</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j1_UW-gD1jQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j1_UW-gD1jQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NB8gP3mWOuY" title="Hemispheric Lateralisation &amp; Split-Brain Research | Biopsychology | AQA Psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NB8gP3mWOuY" target="_blank" rel="noopener noreferrer">Hemispheric Lateralisation &amp; Split-Brain Research | Biopsychology | AQA Psychology</a></p><p class="youtube-embed-meta">Channel: Bear it in MIND &middot; Views: 34.2K &middot; Uploaded: January 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NB8gP3mWOuY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NB8gP3mWOuY">Open on YouTube</a></p></div></div></div>
 
 ## The classroom appeal of brain labels
 
@@ -364,9 +357,6 @@ Second, the labels sound positive. Unlike older deficit-oriented classifications
 Third, the labels fit wider cultural ideas about personality. Popular books, websites and workplace training programmes have spent decades promoting the notion that people naturally belong to analytical or creative camps. Educational settings inherit those assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.harvard.edu">[Harvard Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.harvard.edu</span><span class="citation-popover-title">right brainleft brain right 2017082512222</span><span class="citation-popover-snippet">Harvard HealthRight brain/left brain, right?24 Mar 2022 — According to conventional wisdom, people tend to have a personality, thinking s...</span></span></span>
 
 The problem is that a flattering label can still become a restrictive one. A pupil repeatedly told they are a creative right-brain learner may begin to avoid tasks associated with analysis. Another told they are naturally left-brained may become reluctant to take risks in artistic or imaginative work.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZMSbDwpIyF4" title="The left brain vs. right brain myth - Elizabeth Waters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZMSbDwpIyF4" target="_blank" rel="noopener noreferrer">The left brain vs. right brain myth - Elizabeth Waters</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZMSbDwpIyF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZMSbDwpIyF4">Open on YouTube</a></p></div></div></div>
 
 ## A better way to talk about differences between pupils
 
@@ -395,7 +385,6 @@ A teacher can say:
 The second approach remains flexible. Skills can grow, interests can change and pupils are not trapped inside a biological category.
 
 That flexibility aligns more closely with what neuroscience actually suggests: learning emerges from highly connected, adaptable brain systems rather than from a competition between two separate learner types. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineBeyond left and right: Learning is a whole-brain processby DD Shin · 2022 · Cited by 12 — The argument of left- an...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2211949324000024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Educational neuromyths and instructional practicesby P Tsang · 2024 · Cited by 14 — As OECD warned, at the heart of these myths is a misi...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_left_right_brain_lab_f1b4e4-Illustration-3-dark.svg" | relative_url }}" alt="Brain labels illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_left_right_brain_lab_f1b4e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_left_right_brain_lab_f1b4e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -796,153 +785,153 @@ That flexibility aligns more closely with what neuroscience actually suggests: l
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLeft Brain, Right Brain: Facts and Fantasies  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby MC Corballis · 2014 · Cited by 517 — Michael Corballis discusses in this essay how the asymmetry of the brain raises question...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby MC Corballis · 2014 · Cited by 517 — Michael Corballis discusses in this essay how the asymmetry of the brain raises question...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4874870/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4874870/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCChoosing words: left hemisphere, right hemisphere, or both...by SK Ries · 2016 · Cited by 190 — Language is considered to be one of t...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4874870/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4874870/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Choosing words: left hemisphere, right hemisphere, or both...by SK Ries · 2016 · Cited by 190 — Language is considered to be one of t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S089662732400120X](https://www.sciencedirect.com/science/article/pii/S089662732400120X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectCross-hemispheric communication: Insights on lateralized...by S Ocklenburg · 2024 · Cited by 63 — Cross-hemispheric communi...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S089662732400120X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S089662732400120X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cross-hemispheric communication: Insights on lateralized...by S Ocklenburg · 2024 · Cited by 63 — Cross-hemispheric communi...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.1302581110](https://www.pnas.org/doi/10.1073/pnas.1302581110)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1302581110" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1302581110</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the right cerebral hemisphere.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5447089/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5447089/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCBrain Knowledge and the Prevalence of Neuromyths among...by M Papadatou-Pastou · 2017 · Cited by 191 — The myth of right-brain and le...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5447089/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5447089/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brain Knowledge and the Prevalence of Neuromyths among...by M Papadatou-Pastou · 2017 · Cited by 191 — The myth of right-brain and le...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: health.harvard.edu  
    Title: right brainleft brain right 2017082512222  
-   Link: [https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222](https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222)  
+   Link: <a href="https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222" target="_blank" rel="noopener noreferrer nofollow">https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard HealthRight brain/[left brain](&amp;#123;&amp;#123; &#x27;left-brain/&#x27; | relative_url &amp;#125;&amp;#125;), right?24 Mar 2022 — According to conventional wisdom, people tend to have a personality, thinking s...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCDispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — Two of the most pervasive myths a...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — Two of the most pervasive myths a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Dekker · 2012 · Cited by 1254 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker · 2012 · Cited by 1254 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2211949324000024](https://www.sciencedirect.com/science/article/pii/S2211949324000024)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211949324000024" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211949324000024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational neuromyths and instructional practicesby P Tsang · 2024 · Cited by 14 — As OECD warned, at the heart of these myths is a misi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2211949323000224](https://www.sciencedirect.com/science/article/pii/S2211949323000224)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211949323000224" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211949323000224</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuromyths: Misconceptions about neurodevelopment by...by E Bei · 2024 · Cited by 41 — Three examples of common neuromyths include: “Stu...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0742051X2600020X](https://www.sciencedirect.com/science/article/abs/pii/S0742051X2600020X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0742051X2600020X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0742051X2600020X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuromyths in education: Comparing perceptions between...by E Wauthia · 2026 — In this study, participants were presented with pedagogic...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183](https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Belief in neuromyths among primary school teachersby OC Adiguzel · 2025 · Cited by 2 — Neuromyths greatly impact teachers&#x27; instructional...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full)  
+   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Left brain versus right brain thinkersThe implication of the left brain/right brain myth is that some people are better than others, or m...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386](https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineBeyond left and right: Learning is a whole-brain processby DD Shin · 2022 · Cited by 12 — The argument of left- an...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ldaustralia.org  
-   Link: [https://ldaustralia.org/research-papers/neuromyths-in-education-prevalence-and-predictors-of-misconceptions-among-teachers/](https://ldaustralia.org/research-papers/neuromyths-in-education-prevalence-and-predictors-of-misconceptions-among-teachers/)  
+   Link: <a href="https://ldaustralia.org/research-papers/neuromyths-in-education-prevalence-and-predictors-of-misconceptions-among-teachers/" target="_blank" rel="noopener noreferrer nofollow">https://ldaustralia.org/research-papers/neuromyths-in-education-prevalence-and-predictors-of-misconceptions-among-teachers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e and predictors of neuromyths among teachers in selected regions in the United Kingdom and the Netherlands.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/](https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/)  
+   Link: <a href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It refers to two related ideas: firstly that students have different preferences...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 440 — These findings suggest that training...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: blogs.ucl.ac.uk  
    Title: ucl.ac.uk Neuromyths in Education  
-   Link: [https://blogs.ucl.ac.uk/cdld/2021/12/10/neuromyths-in-education/](https://blogs.ucl.ac.uk/cdld/2021/12/10/neuromyths-in-education/)  
+   Link: <a href="https://blogs.ucl.ac.uk/cdld/2021/12/10/neuromyths-in-education/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.ucl.ac.uk/cdld/2021/12/10/neuromyths-in-education/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Education - UCL Blogs10 Dec 2021 — General Neuromyth Questionnaire: 15 statements to test general knowledge about the brain: 9 correct...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html](https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html)  
+   Link: <a href="https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Brain: The Birth of a Learning ScienceThis book provides new insights about learning by synthesising existing and emerg...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/understanding-the-brain-the-birth-of-a-learning-science_9789264029132-en.html](https://www.oecd.org/en/publications/understanding-the-brain-the-birth-of-a-learning-science_9789264029132-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/understanding-the-brain-the-birth-of-a-learning-science_9789264029132-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/understanding-the-brain-the-birth-of-a-learning-science_9789264029132-en.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Brain: The Birth of a Learning ScienceThis book provides new insights about learning by synthesising existing and emerg...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: strath.ac.uk  
-   Link: [https://www.strath.ac.uk/humanities/education/blog/creativeneuroscience/](https://www.strath.ac.uk/humanities/education/blog/creativeneuroscience/)  
+   Link: <a href="https://www.strath.ac.uk/humanities/education/blog/creativeneuroscience/" target="_blank" rel="noopener noreferrer nofollow">https://www.strath.ac.uk/humanities/education/blog/creativeneuroscience/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of StrathclydeCreative Neuroscienceby W Strathclyde — The neuromyth which I will focus on here is the idea that one side of yo...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/gb/723499913/hemispheric-lateralisation-flash-cards/](https://quizlet.com/gb/723499913/hemispheric-lateralisation-flash-cards/)  
+   Link: <a href="https://quizlet.com/gb/723499913/hemispheric-lateralisation-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/723499913/hemispheric-lateralisation-flash-cards/</a>  
 
 24. <a id="endnote-24"></a>
    Source: educationhq.com  
-   Link: [https://educationhq.com/news/significant-proportion-of-aussie-teachers-back-discredited-neuromyths-study-201077/](https://educationhq.com/news/significant-proportion-of-aussie-teachers-back-discredited-neuromyths-study-201077/)  
+   Link: <a href="https://educationhq.com/news/significant-proportion-of-aussie-teachers-back-discredited-neuromyths-study-201077/" target="_blank" rel="noopener noreferrer nofollow">https://educationhq.com/news/significant-proportion-of-aussie-teachers-back-discredited-neuromyths-study-201077/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>teachers back the debunked &#x27;learning styles&#x27; neuromyth, and half believe the widely discredited &#x27;left-brain versus right-brain learners&#x27;...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: lthechat.com  
    Title: 186 [debunking](&#123;&#123; 'debunking/' | relative_url &#125;&#125;) neuromyths in education what psychology really tells us  
-   Link: [https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/](https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/)  
+   Link: <a href="https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/" target="_blank" rel="noopener noreferrer nofollow">https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#LTHEchat185: Debunking Neuromyths in Education...11 Oct 2020 — Recent research has suggested that among college-level staff, 97% and 77...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: innovationdistrict.childrensnational.org  
    Title: children use both brain hemispheres to understand language unlike adults  
-   Link: [https://innovationdistrict.childrensnational.org/children-use-both-brain-hemispheres-to-understand-language-unlike-adults/](https://innovationdistrict.childrensnational.org/children-use-both-brain-hemispheres-to-understand-language-unlike-adults/)  
+   Link: <a href="https://innovationdistrict.childrensnational.org/children-use-both-brain-hemispheres-to-understand-language-unlike-adults/" target="_blank" rel="noopener noreferrer nofollow">https://innovationdistrict.childrensnational.org/children-use-both-brain-hemispheres-to-understand-language-unlike-adults/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>use both brain hemispheres to understand language11 Sept 2020 — New research finds young children process language in both hemispheres of...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: onlinelibrary.wiley.com  
    Title: This study used an online survey to examine aspiring teachers'  
-   Link: [https://onlinelibrary.wiley.com/doi/full/10.1111/mbe.12426](https://onlinelibrary.wiley.com/doi/full/10.1111/mbe.12426)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mbe.12426" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/mbe.12426</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for Cognition, Neuromyths, and Knowledge about the...by E Boyle · 2024 · Cited by 4 — Neuromyths are widely held false beliefs about the...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: tutor2u.net  
    Title: biopsychology hemispheric lateralisation split brain research  
-   Link: [https://www.tutor2u.net/psychology/reference/biopsychology-hemispheric-lateralisation-split-brain-research?srsltid=AfmBOooatOM_qSeyb4JQxMtlji5FDsIGERD15UylXUFxCBlQpZ3uFKJy](https://www.tutor2u.net/psychology/reference/biopsychology-hemispheric-lateralisation-split-brain-research?srsltid=AfmBOooatOM_qSeyb4JQxMtlji5FDsIGERD15UylXUFxCBlQpZ3uFKJy)  
+   Link: <a href="https://www.tutor2u.net/psychology/reference/biopsychology-hemispheric-lateralisation-split-brain-research?srsltid=AfmBOooatOM_qSeyb4JQxMtlji5FDsIGERD15UylXUFxCBlQpZ3uFKJy" target="_blank" rel="noopener noreferrer nofollow">https://www.tutor2u.net/psychology/reference/biopsychology-hemispheric-lateralisation-split-brain-research?srsltid=AfmBOooatOM_qSeyb4JQxMtlji5FDsIGERD15UylXUFxCBlQpZ3uFKJy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hemispheric Lateralisation &amp; Split Brain Research10 Apr 2017 — Lateralisation is the idea that the two halves of the brain are functional...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: landmark.edu  
    Title: neuromyths are misconceptions about the brain dangerous  
-   Link: [https://www.landmark.edu/research-and-training/blog/neuromyths-are-misconceptions-about-the-brain-dangerous](https://www.landmark.edu/research-and-training/blog/neuromyths-are-misconceptions-about-the-brain-dangerous)  
+   Link: <a href="https://www.landmark.edu/research-and-training/blog/neuromyths-are-misconceptions-about-the-brain-dangerous" target="_blank" rel="noopener noreferrer nofollow">https://www.landmark.edu/research-and-training/blog/neuromyths-are-misconceptions-about-the-brain-dangerous</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuromyths: are misconceptions about the brain dangerous?31 Jan 2020 — Much of the research assumes the answer is “yes” and posits a stro...</p></details>

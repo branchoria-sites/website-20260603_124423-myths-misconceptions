@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_platform_systemic_ri_af9a23
 - Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_replacement_explanat_3e144b
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - false-info
 - overcalling
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - false-info
 - overcalling
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Calling a false claim disinformation requires evidence of deliberate deception, not just proof that the claim is wrong.
 hero_summary: Calling a false claim disinformation requires evidence of deliberate deception, not just proof that the claim is wrong.
 layout: default
 permalink: /overcalling/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /false-info/
 nav_short_title: Overcalling
 title: When disinformation is the wrong label
-title_full: When disinformation is the wrong label | False Info
+title_full: When disinformation is the wrong label
 display_title_short: Overcalling
 display_title: Overcalling
 heading_title: When disinformation is the wrong label
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: 'Misinformation or Disinformation: Why Intent Matters | Mythcraft'
+parent_title: 'Misinformation or Disinformation: Why Intent Matters'
 parent_permalink: /false-info/
 parent_nav_short_title: False Info
 parent_heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why platforms look beyond single posts
 up_link:
   basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
@@ -265,7 +265,7 @@ next_link:
   permalink: /platform-risk/
   short_title: Platform risk
   heading_title: Why platforms look beyond single posts
-date: '2026-06-09 05:29:49 '
+date: '2026-06-11 22:34:21 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_avoid_overcalling_di_bc6346-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_avoid_overcalling_di_bc6346-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_av
 
 Not every false claim is disinformation. A claim can be inaccurate, misleading, reckless, exaggerated or harmful without being part of a deliberate attempt to deceive. The distinction matters because the defining feature of disinformation is [intent]({{ 'intent/' | relative_url }}): someone knowingly creates or spreads false information in order to mislead, manipulate or cause harm. UNESCO, First Draft and many information-disorder frameworks use intent as the key dividing line between misinformation and disinformation. UNESCO <span class="citation-chip-wrap"><a class="citation-chip" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_avoid_overcalling_di_bc6346-Illustration-1-dark.svg" | relative_url }}" alt="Overcalling illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_avoid_overcalling_di_bc6346-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_avoid_overcalling_di_bc6346-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That creates a practical problem. Intent is often harder to prove than falsity. It is usually easier to show that a statement is wrong than to demonstrate that the speaker knew it was wrong and pushed it anyway. When the label “disinformation” is applied too quickly, ordinary mistakes, confusion, satire, disputed interpretations and good-faith disagreement can all be misclassified as organised deception. At the same time, overusing the term can make genuine influence operations harder to identify because everything starts to look like a coordinated campaign.
 
@@ -284,10 +283,9 @@ That creates a practical problem. Intent is often harder to prove than falsity. 
 
 The central question is not simply whether information is false. It is whether there is evidence that deception was deliberate.
 
-Many widely used definitions require more than factual inaccuracy. UNESCO describes misinformation as false information shared inadvertently, while disinformation involves an intention to deceive. First Draft similarly defines disinformation as intentionally false content designed to cause harm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/query-list/d/disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">UNESCOWhat is Disinformation? Meaning, Definition.Misinformation has a neutral or good underlying intent, whereas disinformation is defin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">UNESCOWhat is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</span></span></span>
+Many widely used definitions require more than factual inaccuracy. UNESCO describes misinformation as false information shared inadvertently, while disinformation involves an intention to deceive. First Draft similarly defines disinformation as intentionally false content designed to cause harm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/query-list/d/disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">What is Disinformation? Meaning, Definition.Misinformation has a neutral or good underlying intent, whereas disinformation is defin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</span></span></span>
 
 In practice, intent is usually inferred from behaviour rather than directly observed. Researchers, journalists and investigators often look for patterns such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -300,17 +298,13 @@ In practice, intent is usually inferred from behaviour rather than directly obse
 
 </div>
 
-A single false post rarely proves disinformation on its own. Evidence becomes stronger when multiple indicators point in the same direction. Academic work on information disorder repeatedly notes that intent is the most important distinction between misinformation and disinformation, but also one of the hardest elements to establish reliably. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.09343" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivFrameworks, Modeling and Simulations of Misinformation and Disinformation: A Systematic Literature ReviewJune 13, 2024...</span><span class="citation-popover-meta">Published: June 13, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://usher.ed.ac.uk/sites/default/files/2026-05/False%20and%20Misleading%20Information%3A%20An%20Evidence%20Summary%20and%20Map%20for%20Policy%20and%20Practice%20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usher.ed.ac.uk">[Usher Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usher.ed.ac.uk</span><span class="citation-popover-title">Usher Institute False and Misleading Information: An Evidence</span><span class="citation-popover-snippet">Usher InstituteFalse and Misleading Information: An Evidence Summary and...7 May 2026 — Cognitive intent: Terminology emphasising the as...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+A single false post rarely proves disinformation on its own. Evidence becomes stronger when multiple indicators point in the same direction. Academic work on information disorder repeatedly notes that intent is the most important distinction between misinformation and disinformation, but also one of the hardest elements to establish reliably. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.09343" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Frameworks, Modeling and Simulations of Misinformation and Disinformation: A Systematic Literature ReviewJune 13, 2024...</span><span class="citation-popover-meta">Published: June 13, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://usher.ed.ac.uk/sites/default/files/2026-05/False%20and%20Misleading%20Information%3A%20An%20Evidence%20Summary%20and%20Map%20for%20Policy%20and%20Practice%20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usher.ed.ac.uk">[Usher Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usher.ed.ac.uk</span><span class="citation-popover-title">Usher Institute False and Misleading Information: An Evidence</span><span class="citation-popover-snippet">Usher InstituteFalse and Misleading Information: An Evidence Summary and...7 May 2026 — Cognitive intent: Terminology emphasising the as...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 One reason for caution is that people often continue repeating false claims even [after corrections]({{ 'after-correction/' | relative_url }}) for reasons that do not necessarily involve conscious deception. Memory errors, [group loyalty]({{ 'group-loyalty/' | relative_url }}), ideological commitment and motivated reasoning can all contribute to persistence. A person may sincerely believe something that has been disproved.
 
 ### Why proving motive is harder than proving error
 
 Imagine three people sharing the same false claim:
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9MJFRr7mY-Y" title="Fact vs. Fake: A Quick Lesson in Media Literacy | CBC Kids" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9MJFRr7mY-Y" target="_blank" rel="noopener noreferrer">Fact vs. Fake: A Quick Lesson in Media Literacy | CBC Kids</a></p><p class="youtube-embed-meta">Channel: CBC Kids</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9MJFRr7mY-Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9MJFRr7mY-Y">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -322,7 +316,7 @@ Imagine three people sharing the same false claim:
 
 The content may be identical. The intent is not.
 
-This is why many scholars argue that content alone is often insufficient for classifying disinformation. Investigations increasingly examine networks, coordination, funding, [timing]({{ 'timing/' | relative_url }}) and [amplification]({{ 'amplification/' | relative_url }}) patterns rather than relying only on whether a statement is false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.09343" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivFrameworks, Modeling and Simulations of Misinformation and Disinformation: A Systematic Literature ReviewJune 13, 2024...</span><span class="citation-popover-meta">Published: June 13, 2024</span></span></span>
+This is why many scholars argue that content alone is often insufficient for classifying disinformation. Investigations increasingly examine networks, coordination, funding, [timing]({{ 'timing/' | relative_url }}) and [amplification]({{ 'amplification/' | relative_url }}) patterns rather than relying only on whether a statement is false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.09343" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Frameworks, Modeling and Simulations of Misinformation and Disinformation: A Systematic Literature ReviewJune 13, 2024...</span><span class="citation-popover-meta">Published: June 13, 2024</span></span></span>
 
 Calling all three actors disinformation agents would collapse important distinctions between error, negligence and deliberate manipulation.
 
@@ -346,7 +340,6 @@ Several categories are frequently confused with disinformation:
 
 These distinctions matter because accusations of disinformation carry moral and political weight. The label can imply not only that a claim is false but that the speaker acted with deceptive intent. Applying it without evidence risks turning factual disputes into accusations about motives.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_avoid_overcalling_di_bc6346-Illustration-2-dark.svg" | relative_url }}" alt="Overcalling illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_avoid_overcalling_di_bc6346-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_avoid_overcalling_di_bc6346-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When organised manipulation is easier to identify
 
@@ -362,19 +355,16 @@ Researchers investigating coordinated influence [campaigns]({{ 'campaigns/' | re
 
 In these situations, the strongest evidence often comes from the surrounding system rather than from any single statement. A misleading post may appear ordinary in isolation but look very different when connected to a broader campaign.
 
-This is one reason experts increasingly distinguish between false content and information operations. A false claim can exist without an organised campaign, while a campaign can involve manipulation techniques that extend beyond factual falsity, including impersonation, coordinated amplification and hidden sponsorship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.09343" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivFrameworks, Modeling and Simulations of Misinformation and Disinformation: A Systematic Literature ReviewJune 13, 2024...</span><span class="citation-popover-meta">Published: June 13, 2024</span></span></span>
+This is one reason experts increasingly distinguish between false content and information operations. A false claim can exist without an organised campaign, while a campaign can involve manipulation techniques that extend beyond factual falsity, including impersonation, coordinated amplification and hidden sponsorship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.09343" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Frameworks, Modeling and Simulations of Misinformation and Disinformation: A Systematic Literature ReviewJune 13, 2024...</span><span class="citation-popover-meta">Published: June 13, 2024</span></span></span>
 
 Overcalling disinformation can therefore create a paradox: focusing exclusively on whether a claim is wrong may distract attention from the more revealing evidence of coordination and strategic behaviour.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cSKGa_7XJkg" title="How false news can spread - Noah Tavlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer">How false news can spread - Noah Tavlin</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cSKGa_7XJkg">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_avoid_overcalling_di_bc6346-Illustration-3-dark.svg" | relative_url }}" alt="Overcalling illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_avoid_overcalling_di_bc6346-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_avoid_overcalling_di_bc6346-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Safer labels when intent is unclear
 
 When evidence of deliberate deception is missing, more precise language is usually preferable.
 
 Instead of immediately calling something disinformation, consider whether one of these descriptions fits better:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -391,12 +381,9 @@ Instead of immediately calling something disinformation, consider whether one of
 
 These labels focus on observable characteristics rather than assumptions about motive. They allow criticism of inaccurate information while avoiding claims that may be difficult to prove.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_avoid_overcalling_di_bc6346-Illustration-3-dark.svg" | relative_url }}" alt="Overcalling illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_avoid_overcalling_di_bc6346-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_avoid_overcalling_di_bc6346-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### A useful test before using the word
 
 Before calling something disinformation, ask:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -416,10 +403,6 @@ The temptation to use the strongest possible label is understandable, especially
 If every inaccurate statement becomes disinformation, the concept loses analytical value. It becomes harder to distinguish organised deception campaigns from ordinary human error. At the same time, broad accusations of disinformation can discourage legitimate disagreement by treating disputed claims as evidence of malicious intent rather than claims that require examination.
 
 The most useful approach is often a layered one: establish whether a claim is false, assess how it is spreading, examine available evidence about intent, and reserve the label disinformation for cases where deliberate deception is supported rather than merely suspected. That keeps attention on what makes disinformation distinctive in the first place: not just that people were wrong, but that someone appears to have intended to mislead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[APA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">having intention to deceive. Explore further with...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VGPG3oZ4ZDI" title="Signs Your Boss is Intimidated by You (How to Deal With An Insecure Manager)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VGPG3oZ4ZDI" target="_blank" rel="noopener noreferrer">Signs Your Boss is Intimidated by You (How to Deal With An Insecure Manager)</a></p><p class="youtube-embed-meta">Channel: EMMOTION by Marat</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VGPG3oZ4ZDI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VGPG3oZ4ZDI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -817,153 +800,153 @@ The most useful approach is often a layered one: establish whether a claim is fa
 
 1. <a id="endnote-1"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/query-list/d/disinformation](https://www.unesco.org/en/query-list/d/disinformation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCOWhat is Disinformation? Meaning, Definition.Misinformation has a neutral or good underlying intent, whereas disinformation is defin...</p></details>
+   Link: <a href="https://www.unesco.org/en/query-list/d/disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/d/disinformation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Disinformation? Meaning, Definition.Misinformation has a neutral or good underlying intent, whereas disinformation is defin...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/topics/journalism-facts/misinformation-disinformation](https://www.apa.org/topics/journalism-facts/misinformation-disinformation)  
+   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/query-list/m/misinformation](https://www.unesco.org/en/query-list/m/misinformation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCOWhat is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
+   Link: <a href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/m/misinformation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2406.09343](https://arxiv.org/abs/2406.09343)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivFrameworks, Modeling and Simulations of Misinformation and Disinformation: A Systematic Literature ReviewJune 13, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2406.09343" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.09343</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frameworks, Modeling and Simulations of Misinformation and Disinformation: A Systematic Literature ReviewJune 13, 2024...</p></details>
    Published: June 13, 2024  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2206.12915](https://arxiv.org/abs/2206.12915)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDisambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.12915</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</p></details>
    Published: June 26, 2022  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2603.25883](https://arxiv.org/abs/2603.25883)  
+   Link: <a href="https://arxiv.org/abs/2603.25883" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.25883</a>  
 
 7. <a id="endnote-7"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/tags/disinformation-0](https://www.unesco.org/en/tags/disinformation-0)  
+   Link: <a href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/disinformation-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>having intention to deceive. Explore further with...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: unesco.org  
    Title: What is Misinformation?  
-   Link: [https://www.unesco.org/en/tags/misinformation-0](https://www.unesco.org/en/tags/misinformation-0)  
+   Link: <a href="https://www.unesco.org/en/tags/misinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/misinformation-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to cause harm. The terms misinforma...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: en.unesco.org  
-   Link: [https://en.unesco.org/fightfakenews](https://en.unesco.org/fightfakenews)  
+   Link: <a href="https://en.unesco.org/fightfakenews" target="_blank" rel="noopener noreferrer nofollow">https://en.unesco.org/fightfakenews</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 April 2020. UNESCO handbook on “Journalism, [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Disinformation” to be...Read more...</p></details>
    Published: April 2020  
 
 10. <a id="endnote-10"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/mil4teachers/en/module4/unit2](https://www.unesco.org/mil4teachers/en/module4/unit2)  
+   Link: <a href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading content, i.e...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: firstdraftnews.org  
    Title: First Draft Understanding Information disorder  
-   Link: [https://firstdraftnews.org/long-form-article/understanding-information-disorder/](https://firstdraftnews.org/long-form-article/understanding-information-disorder/)  
+   Link: <a href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/long-form-article/understanding-information-disorder/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: usher.ed.ac.uk  
    Title: Usher Institute False and Misleading Information: An Evidence  
-   Link: [https://usher.ed.ac.uk/sites/default/files/2026-05/False%20and%20Misleading%20Information%3A%20An%20Evidence%20Summary%20and%20Map%20for%20Policy%20and%20Practice%20.pdf](https://usher.ed.ac.uk/sites/default/files/2026-05/False%20and%20Misleading%20Information%3A%20An%20Evidence%20Summary%20and%20Map%20for%20Policy%20and%20Practice%20.pdf)  
+   Link: <a href="https://usher.ed.ac.uk/sites/default/files/2026-05/False%20and%20Misleading%20Information%3A%20An%20Evidence%20Summary%20and%20Map%20for%20Policy%20and%20Practice%20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://usher.ed.ac.uk/sites/default/files/2026-05/False%20and%20Misleading%20Information%3A%20An%20Evidence%20Summary%20and%20Map%20for%20Policy%20and%20Practice%20.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Usher InstituteFalse and Misleading Information: An Evidence Summary and...7 May 2026 — Cognitive intent: Terminology emphasising the as...</p></details>
    Published: May 2026  
 
 13. <a id="endnote-13"></a>
    Source: commonslibrary.parliament.uk  
-   Link: [https://commonslibrary.parliament.uk/disinformation-and-its-effects-on-society/](https://commonslibrary.parliament.uk/disinformation-and-its-effects-on-society/)  
+   Link: <a href="https://commonslibrary.parliament.uk/disinformation-and-its-effects-on-society/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/disinformation-and-its-effects-on-society/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons LibraryDisinformation and its effects on societyJuly 16, 2024 — 16 Jul 2024 — Research indicates that disinformation can...</p></details>
    Published: July 16, 2024  
 
 14. <a id="endnote-14"></a>
    Source: firstdraftnews.org  
-   Link: [https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf](https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf)  
+   Link: <a href="https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Information Disorder: The Essential Glossary | First Draft Newsby C Wardle · 2018 · Cited by 196 — Disinformation Disinformation is false...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ohchr.org  
-   Link: [https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx](https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx)  
+   Link: <a href="https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unescoUNESCO&#x27;s use of the term “disinformation” as a chapeau covers false and misleading content as regards production, reception, transm...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/](https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/)  
+   Link: <a href="https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO PakistanDisinformation is false or inaccurate information that is spread with the deliberate intention to deceive, often for polit...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: britannica.com  
    Title: misinformation and disinformation  
-   Link: [https://www.britannica.com/topic/misinformation-and-disinformation](https://www.britannica.com/topic/misinformation-and-disinformation)  
+   Link: <a href="https://www.britannica.com/topic/misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/misinformation-and-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Differences...22 May 2026 — Misinformation is the inadvertent spread of false information without intent to harm, while disinf...</p></details>
    Published: May 2026  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Disinformation](https://en.wikipedia.org/wiki/Disinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DisinformationMisinformation can be used to create disinformation when known misinformation is purposefully and intentionally dissemin...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: boell.de  
-   Link: [https://www.boell.de/sites/default/files/2020-08/200825_E-Paper3_ENG.pdf](https://www.boell.de/sites/default/files/2020-08/200825_E-Paper3_ENG.pdf)  
+   Link: <a href="https://www.boell.de/sites/default/files/2020-08/200825_E-Paper3_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boell.de/sites/default/files/2020-08/200825_E-Paper3_ENG.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Causes, Trends, and Their Influence on DemocracyMisinformation, disinformation, and malinformation can be observed as a part of the infor...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/content/oa_chapter_monograph/10.16997/mpub.14614695.6](https://www.jstor.org/content/oa_chapter_monograph/10.16997/mpub.14614695.6)  
+   Link: <a href="https://www.jstor.org/content/oa_chapter_monograph/10.16997/mpub.14614695.6" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/content/oa_chapter_monograph/10.16997/mpub.14614695.6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake News, Misinformation and DisinformationOne indicator of a source&#x27;s possible intention to mislead may be the refusal to correct claim...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: medium.com  
-   Link: [https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3](https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3)  
+   Link: <a href="https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Information Disorder, Part 1: The Essential GlossaryThey are increasingly being used as powerful vehicles of disinformation. Misinformati...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: medium.com  
-   Link: [https://medium.com/1st-draft/information-disorder-part-3-useful-graphics-2446c7dbb485](https://medium.com/1st-draft/information-disorder-part-3-useful-graphics-2446c7dbb485)  
+   Link: <a href="https://medium.com/1st-draft/information-disorder-part-3-useful-graphics-2446c7dbb485" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/1st-draft/information-disorder-part-3-useful-graphics-2446c7dbb485</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Information Disorder, Part 3: Useful Graphics | by First DraftMisinformation · Disinformation · Fake News. 218. 218... Agents of disinfo...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: princetonlibrary.org  
-   Link: [https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/](https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/)  
+   Link: <a href="https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/" target="_blank" rel="noopener noreferrer nofollow">https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, Disinformation &amp; Malinformation: A GuideWardle cofounded First Draft News, a collaborative project to “fight misinformati...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: unric.org  
-   Link: [https://unric.org/en/unric-library-backgrounder-information-integrity/](https://unric.org/en/unric-library-backgrounder-information-integrity/)  
+   Link: <a href="https://unric.org/en/unric-library-backgrounder-information-integrity/" target="_blank" rel="noopener noreferrer nofollow">https://unric.org/en/unric-library-backgrounder-information-integrity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNRIC Library Backgrounder: Information IntegrityMisinformation can be rooted in disinformation as deliberate lies and misleading narrati...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: mediadefence.org  
-   Link: [https://www.mediadefence.org/ereader/publications/modules-digital-rights-europe/module-5-disinformation-misinformation/false-news/](https://www.mediadefence.org/ereader/publications/modules-digital-rights-europe/module-5-disinformation-misinformation/false-news/)  
+   Link: <a href="https://www.mediadefence.org/ereader/publications/modules-digital-rights-europe/module-5-disinformation-misinformation/false-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.mediadefence.org/ereader/publications/modules-digital-rights-europe/module-5-disinformation-misinformation/false-news/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is &#x27;False News&#x27;? | eReaderLastly, misinformation entails false or misleading content shared inadvertently, lacking the malicious int...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: europarl.europa.eu  
-   Link: [https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653635/EXPO_STU%282021%29653635_EN.pdf](https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653635/EXPO_STU%282021%29653635_EN.pdf)  
+   Link: <a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653635/EXPO_STU%282021%29653635_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653635/EXPO_STU%282021%29653635_EN.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of disinformation on democratic processes and...by C COLOMINA · Cited by 196 — Around the world, disinformation is spreading and...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: rcmediafreedom.eu  
    Title: Understanding Information Disorder We can distinguish: disinformation  
-   Link: [https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder](https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder)  
+   Link: <a href="https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder" target="_blank" rel="noopener noreferrer nofollow">https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Information DisorderWe can distinguish: disinformation - intentionally false content designed to cause harm;; misinformatio...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: wisconsinwatch.org  
    Title: misinformation disinformation a guide to sorting fiction from reality  
-   Link: [https://wisconsinwatch.org/2023/07/misinformation-disinformation-a-guide-to-sorting-fiction-from-reality/](https://wisconsinwatch.org/2023/07/misinformation-disinformation-a-guide-to-sorting-fiction-from-reality/)  
+   Link: <a href="https://wisconsinwatch.org/2023/07/misinformation-disinformation-a-guide-to-sorting-fiction-from-reality/" target="_blank" rel="noopener noreferrer nofollow">https://wisconsinwatch.org/2023/07/misinformation-disinformation-a-guide-to-sorting-fiction-from-reality/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, disinformation, malinformation: What to knowJul 20, 2023 — Information disorder takes many forms but can be broken down i...</p></details>

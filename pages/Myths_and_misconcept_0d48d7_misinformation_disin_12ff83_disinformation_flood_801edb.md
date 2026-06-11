@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_platform_systemic_ri_af9a23
 - Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_replacement_explanat_3e144b
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - false-info
 - flood-tactics
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - false-info
 - flood-tactics
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Organised deception can work by confusing and exhausting people, not just by making them believe one false claim.
 hero_summary: Organised deception can work by confusing and exhausting people, not just by making them believe one false claim.
 layout: default
 permalink: /flood-tactics/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /false-info/
 nav_short_title: Flood tactics
 title: How deception campaigns flood the truth
-title_full: How deception campaigns flood the truth | False Info
+title_full: How deception campaigns flood the truth
 display_title_short: Flood tactics
 display_title: Flood tactics
 heading_title: How deception campaigns flood the truth
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: 'Misinformation or Disinformation: Why Intent Matters | Mythcraft'
+parent_title: 'Misinformation or Disinformation: Why Intent Matters'
 parent_permalink: /false-info/
 parent_nav_short_title: False Info
 parent_heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why platforms look beyond single posts
 up_link:
   basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
@@ -265,7 +265,7 @@ next_link:
   permalink: /intent-test/
   short_title: Intent test
   heading_title: Why intent changes the right response
-date: '2026-06-09 05:30:20 '
+date: '2026-06-11 22:34:38 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_di
 ## Introduction
 
 Disinformation [campaigns]({{ 'campaigns/' | relative_url }}) do not always succeed by convincing people of one big lie. Often, their goal is to make it harder to know what is true at all. Instead of promoting a single false story, organisers may flood public discussion with many competing claims, rumours, edited images, fake experts, misleading statistics and coordinated social media activity. The result is confusion, exhaustion and distrust. People may stop believing reliable information not because they accepted a specific falsehood, but because the information environment itself starts to feel unreliable. Researchers have described this approach as a “firehose of falsehood” model: high-volume, repetitive messaging that overwhelms normal fact-checking and verification processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/perspectives/PE198.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">11] Disinformation, “Weekly Disinformation Review,”...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-1-dark.svg" | relative_url }}" alt="Flood tactics illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This tactic matters because it changes how deception works. Instead of asking “Did people believe the lie?”, a better question becomes “Did people become uncertain, distracted or cynical enough to disengage?” In many campaigns, confusion is not a side effect. It is part of the strategy.
@@ -291,7 +290,6 @@ This is one reason why disinformation frequently appears chaotic. Traditional pr
 The phrase “flood the zone” became widely discussed because it captures this mechanism. Rather than winning an argument point by point, the strategy overwhelms the public sphere with so many claims, controversies and distractions that meaningful scrutiny becomes harder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vox.com/policy-and-politics/2020/1/16/20991816/impeachment-trial-trump-bannon-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vox.com">[Vox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vox.com</span><span class="citation-popover-snippet">Vox“Flood the zone with shit”: How misinformation overwhelmed...January 16, 2020 — 16 Jan 2020 — “Flood the zone with shit”: How misinfo...</span><span class="citation-popover-meta">Published: January 16, 2020</span></span></span>
 
 The effect can be especially powerful during fast-moving crises. Elections, wars, natural disasters and public health emergencies create high demand for information. At the same time, facts are still emerging. Disinformation campaigns can exploit that uncertainty by injecting large amounts of misleading content before reliable reporting catches up.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gde6E9GtjCQ" title="How disinformation works | 3: Flooding the information space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gde6E9GtjCQ" target="_blank" rel="noopener noreferrer">How disinformation works | 3: Flooding the information space</a></p><p class="youtube-embed-meta">Channel: European Parliament &middot; Views: 142.6K &middot; Uploaded: April 2024 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gde6E9GtjCQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gde6E9GtjCQ">Open on YouTube</a></p></div></div></div>
 
@@ -309,10 +307,9 @@ Several recurring tactics appear across documented campaigns:
 * **Cross-platform coordination:** The same narratives appear simultaneously on multiple networks, websites and messaging services.
 * **Impersonation and fabricated communities:** Campaigns create fake groups or pages that mimic authentic organisations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disinfocode.eu/reports/facebook/8?chapterId=73&amp;commitmentId=357" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfocode.eu">[disinfocode.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfocode.eu</span><span class="citation-popover-snippet">Report March 2026 - Transparency CentreSuch behaviours and practices include: The creation and use of fake accounts, account takeovers an...</span><span class="citation-popover-meta">Published: March 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disinfocode.eu/reports/facebook/8/text" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfocode.eu">[disinfocode.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfocode.eu</span><span class="citation-popover-title">inauthentic behaviour by fake accounts at scale.Read more</span><span class="citation-popover-snippet">Report March 2026 - Transparency CenterInauthentic behaviour: We continue to investigate and take down coordinated adversarial networks o...</span><span class="citation-popover-meta">Published: March 2026</span></span></span>
 
-Researchers studying coordinated activity on social media have found that coordinated accounts often occupy influential positions in information cascades, spread messages more quickly and help push narratives into wider circulation. Their role is not always to persuade directly. Sometimes they help create the appearance that a claim is already widely accepted, encouraging real users and recommendation algorithms to amplify it further. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.15720" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Coordinated Inauthentic Behavior and Information Spreading on Twitter</span><span class="citation-popover-snippet">arXivCoordinated Inauthentic Behavior and Information Spreading on TwitterMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
+Researchers studying coordinated activity on social media have found that coordinated accounts often occupy influential positions in information cascades, spread messages more quickly and help push narratives into wider circulation. Their role is not always to persuade directly. Sometimes they help create the appearance that a claim is already widely accepted, encouraging real users and recommendation algorithms to amplify it further. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.15720" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Coordinated Inauthentic Behavior and Information Spreading on Twitter</span><span class="citation-popover-snippet">Coordinated Inauthentic Behavior and Information Spreading on TwitterMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
 
 The illusion of popularity matters because people often use social cues when deciding what deserves attention. A claim that appears to have thousands of supporters may seem more credible or important than the same claim posted by a single anonymous account.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-2-dark.svg" | relative_url }}" alt="Flood tactics illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When volume becomes the message
@@ -324,9 +321,6 @@ RAND's analysis of the “firehose of falsehood” model highlighted several cha
 This approach exploits practical limits on human attention. Fact-checkers, journalists and researchers usually need time to verify claims. Creating a false claim is often much faster than disproving it. If dozens of new allegations appear every day, [corrections]({{ 'corrections/' | relative_url }}) may never fully catch up.
 
 The imbalance resembles what debaters call a “Gish gallop”: overwhelming opponents with so many questionable claims that responding to each one becomes impossible. In large-scale disinformation campaigns, the same principle can operate across entire media ecosystems rather than individual debates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flood_the_zone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flood the zone</span><span class="citation-popover-snippet">Flood the zoneFirehose of falsehood – Propaganda technique; Gish gallop, a person in a... &quot;&quot;Flood the zone with shit&quot;: How misinforma...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pufwwViV2a4" title="Professor Jagolinzer discusses how some disinformation campaigns intend to confuse or fatigue" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pufwwViV2a4" target="_blank" rel="noopener noreferrer">Professor Jagolinzer discusses how some disinformation campaigns intend to confuse or fatigue</a></p><p class="youtube-embed-meta">Channel: Cambridge Disinformation Summit &middot; Views: 39 &middot; Uploaded: April 2026 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pufwwViV2a4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pufwwViV2a4">Open on YouTube</a></p></div></div></div>
 
 ## Why debunking one claim may not be enough
 
@@ -346,7 +340,6 @@ This shift reflects a broader understanding of how modern disinformation works. 
 
 Recent investigations have documented campaigns using networks of fake accounts, AI-generated content and coordinated advertising to inject narratives into public debate while concealing their origins. Some operations achieved large reach despite limited genuine audience engagement, showing that visibility alone can shape discussion even when persuasion is incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/tech/meta-takes-down-inauthentic-accounts-on-facebook-instagram-linked-to-israeli-firm-cb03821f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">These accounts masqueraded as U.S. and Canadian locals, including Jewish students and African-Americans. The comments were mainly in Engl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/article/2024/may/18/disappearing-ink-fake-polls-and-voter-eu-fears-as-russian-propaganda-ads-target-euro-elections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Los anuncios, que no estaban etiquetados como publicidad política, violan las normas de Meta y posiblemente la legislación de la UE. Esta...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-3-dark.svg" | relative_url }}" alt="Flood tactics illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The long-term target: trust itself
 
@@ -358,9 +351,7 @@ This is why analysts often describe modern disinformation campaigns as attacks o
 
 Understanding this mechanism helps explain why organised deception can remain effective even after specific falsehoods are exposed. When campaigns flood the truth with competing narratives, the central battle is often over attention, trust and clarity rather than any single claim.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nknYtlOvaQ0" title="Why obvious lies make great propaganda" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nknYtlOvaQ0" target="_blank" rel="noopener noreferrer">Why obvious lies make great propaganda</a></p><p class="youtube-embed-meta">Channel: Vox</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nknYtlOvaQ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nknYtlOvaQ0">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pufwwViV2a4" title="Professor Jagolinzer discusses how some disinformation campaigns intend to confuse or fatigue" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pufwwViV2a4" target="_blank" rel="noopener noreferrer">Professor Jagolinzer discusses how some disinformation campaigns intend to confuse or fatigue</a></p><p class="youtube-embed-meta">Channel: Cambridge Disinformation Summit &middot; Views: 39 &middot; Uploaded: April 2026 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pufwwViV2a4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pufwwViV2a4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -758,201 +749,201 @@ Understanding this mechanism helps explain why organised deception can remain ef
 
 1. <a id="endnote-1"></a>
    Source: rand.org  
-   Link: [https://www.rand.org/pubs/perspectives/PE198.html](https://www.rand.org/pubs/perspectives/PE198.html)  
+   Link: <a href="https://www.rand.org/pubs/perspectives/PE198.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/perspectives/PE198.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[11] Disinformation, “Weekly Disinformation Review,”...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: rand.org  
-   Link: [https://www.rand.org/content/dam/rand/pubs/perspectives/PE100/PE198/RAND_PE198.pdf](https://www.rand.org/content/dam/rand/pubs/perspectives/PE100/PE198/RAND_PE198.pdf)  
+   Link: <a href="https://www.rand.org/content/dam/rand/pubs/perspectives/PE100/PE198/RAND_PE198.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/perspectives/PE100/PE198/RAND_PE198.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e when the disinformation is consistent with narratives or preconceptions held by various audiences.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: rand.org  
    Title: beyond the [headlines](&#123;&#123; 'headlines/' | relative_url &#125;&#125;) rands christopher paul discusses  
-   Link: [https://www.rand.org/pubs/articles/2016/beyond-the-headlines-rands-christopher-paul-discusses.html](https://www.rand.org/pubs/articles/2016/beyond-the-headlines-rands-christopher-paul-discusses.html)  
+   Link: <a href="https://www.rand.org/pubs/articles/2016/beyond-the-headlines-rands-christopher-paul-discusses.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/articles/2016/beyond-the-headlines-rands-christopher-paul-discusses.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Firehose of Falsehood” propaganda model on Dec. 7 at the research... propaganda by getting good information out in advance of disinforma...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: vox.com  
-   Link: [https://www.vox.com/policy-and-politics/2020/1/16/20991816/impeachment-trial-trump-bannon-misinformation](https://www.vox.com/policy-and-politics/2020/1/16/20991816/impeachment-trial-trump-bannon-misinformation)  
+   Link: <a href="https://www.vox.com/policy-and-politics/2020/1/16/20991816/impeachment-trial-trump-bannon-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/policy-and-politics/2020/1/16/20991816/impeachment-trial-trump-bannon-misinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vox“Flood the zone with shit”: How misinformation overwhelmed...January 16, 2020 — 16 Jan 2020 — “Flood the zone with shit”: How misinfo...</p></details>
    Published: January 16, 2020  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Flood the zone  
-   Link: [https://en.wikipedia.org/wiki/Flood_the_zone](https://en.wikipedia.org/wiki/Flood_the_zone)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flood_the_zone" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flood_the_zone</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flood the zoneFirehose of falsehood – Propaganda technique; Gish gallop, a person in a... &quot;&quot;Flood the zone with shit&quot;: How misinforma...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: disinfocode.eu  
-   Link: [https://disinfocode.eu/reports/facebook/8?chapterId=73&commitmentId=357](https://disinfocode.eu/reports/facebook/8?chapterId=73&commitmentId=357)  
+   Link: <a href="https://disinfocode.eu/reports/facebook/8?chapterId=73&amp;commitmentId=357" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/facebook/8?chapterId=73&amp;commitmentId=357</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report March 2026 - Transparency CentreSuch behaviours and practices include: The creation and use of fake accounts, account takeovers an...</p></details>
    Published: March 2026  
 
 7. <a id="endnote-7"></a>
    Source: disinfocode.eu  
    Title: inauthentic behaviour by fake accounts at scale.Read more  
-   Link: [https://disinfocode.eu/reports/facebook/8/text](https://disinfocode.eu/reports/facebook/8/text)  
+   Link: <a href="https://disinfocode.eu/reports/facebook/8/text" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/facebook/8/text</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report March 2026 - Transparency CenterInauthentic behaviour: We continue to investigate and take down coordinated adversarial networks o...</p></details>
    Published: March 2026  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Coordinated Inauthentic Behavior and Information Spreading on Twitter  
-   Link: [https://arxiv.org/abs/2503.15720](https://arxiv.org/abs/2503.15720)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivCoordinated Inauthentic Behavior and Information Spreading on TwitterMarch 19, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2503.15720" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.15720</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coordinated Inauthentic Behavior and Information Spreading on TwitterMarch 19, 2025...</p></details>
    Published: March 19, 2025  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.07350](https://arxiv.org/abs/2305.07350)  
+   Link: <a href="https://arxiv.org/abs/2305.07350" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.07350</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Firehose of falsehood  
-   Link: [https://en.wikipedia.org/wiki/Firehose_of_falsehood](https://en.wikipedia.org/wiki/Firehose_of_falsehood)  
+   Link: <a href="https://en.wikipedia.org/wiki/Firehose_of_falsehood" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Firehose_of_falsehood</a>  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2410.22716](https://arxiv.org/abs/2410.22716)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExposing Cross-Platform Coordinated Inauthentic Activity in the Run-Up to the 2024 U.S. Election...</p></details>
+   Link: <a href="https://arxiv.org/abs/2410.22716" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.22716</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing Cross-Platform Coordinated Inauthentic Activity in the Run-Up to the 2024 U.S. Election...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: disinfocode.eu  
-   Link: [https://disinfocode.eu/reports/meta/8?chapterId=80&commitmentId=389](https://disinfocode.eu/reports/meta/8?chapterId=80&commitmentId=389)  
+   Link: <a href="https://disinfocode.eu/reports/meta/8?chapterId=80&amp;commitmentId=389" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/meta/8?chapterId=80&amp;commitmentId=389</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report March 2026 - Transparency CentreThe aim of this report is to provide an update on how Meta approached misinformation and disinform...</p></details>
    Published: March 2026  
 
 13. <a id="endnote-13"></a>
    Source: disinfocode.eu  
-   Link: [https://disinfocode.eu/reports/facebook/5?chapterId=43&commitmentId=214](https://disinfocode.eu/reports/facebook/5?chapterId=43&commitmentId=214)  
+   Link: <a href="https://disinfocode.eu/reports/facebook/5?chapterId=43&amp;commitmentId=214" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/facebook/5?chapterId=43&amp;commitmentId=214</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report March 2025 - Transparency CentreSuch behaviours and practices include: The creation and use of fake accounts, account takeovers an...</p></details>
    Published: March 2025  
 
 14. <a id="endnote-14"></a>
    Source: disinfocode.eu  
-   Link: [https://disinfocode.eu/reports/meta/8](https://disinfocode.eu/reports/meta/8)  
+   Link: <a href="https://disinfocode.eu/reports/meta/8" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/meta/8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report March 2026 - Transparency CentreThe aim of this report is to provide an update on how Meta approached misinformation and disinform...</p></details>
    Published: March 2026  
 
 15. <a id="endnote-15"></a>
    Source: transparency.meta.com  
    Title: integrity reports h1 2026  
-   Link: [https://transparency.meta.com/reports/integrity-reports-h1-2026/](https://transparency.meta.com/reports/integrity-reports-h1-2026/)  
+   Link: <a href="https://transparency.meta.com/reports/integrity-reports-h1-2026/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/reports/integrity-reports-h1-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports, H1 2026 - Transparency Center19 Mar 2026 — We published our H1 2026 Adversarial Threat Report on March 11, where we detailed res...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: transparency.meta.com  
    Title: inauthentic behavior  
-   Link: [https://transparency.meta.com/en-gb/policies/community-standards/inauthentic-behavior/](https://transparency.meta.com/en-gb/policies/community-standards/inauthentic-behavior/)  
+   Link: <a href="https://transparency.meta.com/en-gb/policies/community-standards/inauthentic-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/en-gb/policies/community-standards/inauthentic-behavior/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour | Transparency CentreInauthentic Behaviour refers to a variety of complex forms of deception, performed by a network of inauthe...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: time.com  
    Title: domestic disinformation growing menace america  
-   Link: [https://time.com/5860215/domestic-disinformation-growing-menace-america/](https://time.com/5860215/domestic-disinformation-growing-menace-america/)  
+   Link: <a href="https://time.com/5860215/domestic-disinformation-growing-menace-america/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5860215/domestic-disinformation-growing-menace-america/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation and outright lies. Yes, disinformation comes from... As Steve Bannon so eloquently put it, “Flood the zone with shit...R...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: about.fb.com  
    Title: march 2021 coordinated inauthentic behavior report  
-   Link: [https://about.fb.com/news/2021/04/march-2021-coordinated-inauthentic-behavior-report/](https://about.fb.com/news/2021/04/march-2021-coordinated-inauthentic-behavior-report/)  
+   Link: <a href="https://about.fb.com/news/2021/04/march-2021-coordinated-inauthentic-behavior-report/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2021/04/march-2021-coordinated-inauthentic-behavior-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>troll... We view CIB as coordinated efforts to manipulate public debate for a strategic goal where fake accounts are central to the oper...</p></details>
    Published: march 2021  
 
 19. <a id="endnote-19"></a>
    Source: about.fb.com  
    Title: july 2021 coordinated inauthentic behavior report  
-   Link: [https://about.fb.com/news/2021/08/july-2021-coordinated-inauthentic-behavior-report/](https://about.fb.com/news/2021/08/july-2021-coordinated-inauthentic-behavior-report/)  
+   Link: <a href="https://about.fb.com/news/2021/08/july-2021-coordinated-inauthentic-behavior-report/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2021/08/july-2021-coordinated-inauthentic-behavior-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookJuly 2021 Coordinated Inauthentic Behavior Report10 Aug 2021 — We view CIB as coordinated efforts to manipulate public debate for...</p></details>
    Published: july 2021  
 
 20. <a id="endnote-20"></a>
    Source: about.fb.com  
-   Link: [https://about.fb.com/news/2021/11/october-2021-coordinated-inauthentic-behavior-report/](https://about.fb.com/news/2021/11/october-2021-coordinated-inauthentic-behavior-report/)  
+   Link: <a href="https://about.fb.com/news/2021/11/october-2021-coordinated-inauthentic-behavior-report/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2021/11/october-2021-coordinated-inauthentic-behavior-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookOctober 2021 Coordinated Inauthentic Behavior ReportNov 1, 2021 — We view CIB as coordinated efforts to manipulate public debate...</p></details>
    Published: October 2021  
 
 21. <a id="endnote-21"></a>
    Source: about.fb.com  
    Title: Facebook Removing Coordinated Inauthentic Behavior  
-   Link: [https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior/](https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior/)  
+   Link: <a href="https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookRemoving Coordinated Inauthentic Behavior - About MetaJul 8, 2020 — Today, we removed four separate networks for violating our po...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/tech/meta-takes-down-inauthentic-accounts-on-facebook-instagram-linked-to-israeli-firm-cb03821f](https://www.wsj.com/tech/meta-takes-down-inauthentic-accounts-on-facebook-instagram-linked-to-israeli-firm-cb03821f)  
+   Link: <a href="https://www.wsj.com/tech/meta-takes-down-inauthentic-accounts-on-facebook-instagram-linked-to-israeli-firm-cb03821f" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/tech/meta-takes-down-inauthentic-accounts-on-facebook-instagram-linked-to-israeli-firm-cb03821f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These accounts masqueraded as U.S. and Canadian locals, including Jewish students and African-Americans. The comments were mainly in Engl...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/article/2024/may/18/disappearing-ink-fake-polls-and-voter-eu-fears-as-russian-propaganda-ads-target-euro-elections](https://www.theguardian.com/world/article/2024/may/18/disappearing-ink-fake-polls-and-voter-eu-fears-as-russian-propaganda-ads-target-euro-elections)  
+   Link: <a href="https://www.theguardian.com/world/article/2024/may/18/disappearing-ink-fake-polls-and-voter-eu-fears-as-russian-propaganda-ads-target-euro-elections" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/article/2024/may/18/disappearing-ink-fake-polls-and-voter-eu-fears-as-russian-propaganda-ads-target-euro-elections</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Los anuncios, que no estaban etiquetados como publicidad política, violan las normas de Meta y posiblemente la legislación de la UE. Esta...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: russiamatters.org  
-   Link: [https://www.russiamatters.org/analysis/russian-firehose-falsehood-propaganda-model](https://www.russiamatters.org/analysis/russian-firehose-falsehood-propaganda-model)  
+   Link: <a href="https://www.russiamatters.org/analysis/russian-firehose-falsehood-propaganda-model" target="_blank" rel="noopener noreferrer nofollow">https://www.russiamatters.org/analysis/russian-firehose-falsehood-propaganda-model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 11... Forewarn audiences of misinformation, or merely reach them first with the truth, rather...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: disinfo.eu  
    Title: disinfo update 15 07 2025  
-   Link: [https://www.disinfo.eu/disinfo-update-15-07-2025/](https://www.disinfo.eu/disinfo-update-15-07-2025/)  
+   Link: <a href="https://www.disinfo.eu/disinfo-update-15-07-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.disinfo.eu/disinfo-update-15-07-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinfo update: new reports, bots, and tensions15 Jul 2025 — The HEAT report also exposes Coordinated Inauthentic Behaviour on major plat...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/meta-russia-misinformation-ai-generated-news-stories-us-election-2024-8](https://www.businessinsider.com/meta-russia-misinformation-ai-generated-news-stories-us-election-2024-8)  
+   Link: <a href="https://www.businessinsider.com/meta-russia-misinformation-ai-generated-news-stories-us-election-2024-8" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/meta-russia-misinformation-ai-generated-news-stories-us-election-2024-8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Utilizing AI, Russia creates fake personas and publishes distorted news on fictitious sites. This campaign aims to sway US public opinion...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/miriam-matthews_the-firehose-of-falsehood-propaganda-model-activity-7463303382519283712-qeRF](https://www.linkedin.com/posts/miriam-matthews_the-firehose-of-falsehood-propaganda-model-activity-7463303382519283712-qeRF)  
+   Link: <a href="https://www.linkedin.com/posts/miriam-matthews_the-firehose-of-falsehood-propaganda-model-activity-7463303382519283712-qeRF" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/miriam-matthews_the-firehose-of-falsehood-propaganda-model-activity-7463303382519283712-qeRF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Miriam Matthews&#x27; PostRecently spoke on RAND&#x27;s &quot;Firehose of Falsehood&quot; propaganda model, including what it revealed about Russian disinfor...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: scienceopen.com  
-   Link: [https://www.scienceopen.com/book?vid=86a3c9af-13a7-4701-827f-0d1abcc3de8d](https://www.scienceopen.com/book?vid=86a3c9af-13a7-4701-827f-0d1abcc3de8d)  
+   Link: <a href="https://www.scienceopen.com/book?vid=86a3c9af-13a7-4701-827f-0d1abcc3de8d" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceopen.com/book?vid=86a3c9af-13a7-4701-827f-0d1abcc3de8d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Russian &quot;Firehose of Falsehood&quot; Propaganda ModelThe Russian &quot;Firehose of Falsehood&quot; Propaganda Model: Why It Might Work and Options t...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: wgcu.org  
    Title: the firehose of falsehood propaganda model that overwhelms facts with fiction  
-   Link: [https://www.wgcu.org/podcast/gulf-coast-life/2026-02-17/the-firehose-of-falsehood-propaganda-model-that-overwhelms-facts-with-fiction](https://www.wgcu.org/podcast/gulf-coast-life/2026-02-17/the-firehose-of-falsehood-propaganda-model-that-overwhelms-facts-with-fiction)  
+   Link: <a href="https://www.wgcu.org/podcast/gulf-coast-life/2026-02-17/the-firehose-of-falsehood-propaganda-model-that-overwhelms-facts-with-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.wgcu.org/podcast/gulf-coast-life/2026-02-17/the-firehose-of-falsehood-propaganda-model-that-overwhelms-facts-with-fiction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;Firehose of Falsehood Propaganda Model&#x27; that...17 Feb 2026 — In 2016 the nonpartisan global policy think tank RAND Corporation publ...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: ofcom.org.uk  
    Title: investigation into metas compliance with statutory requests for information  
-   Link: [https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/investigation-into-metas-compliance-with-statutory-requests-for-information](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/investigation-into-metas-compliance-with-statutory-requests-for-information)  
+   Link: <a href="https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/investigation-into-metas-compliance-with-statutory-requests-for-information" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/investigation-into-metas-compliance-with-statutory-requests-for-information</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation into Meta&#x27;s compliance with statutory requests...23 Jan 2026 — We are investigating whether Meta has failed to comply with...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: about.fb.com  
    Title: fighting scammers protecting people with new technology and partnerships  
-   Link: [https://about.fb.com/news/2026/03/fighting-scammers-protecting-people-with-new-technology-and-partnerships/](https://about.fb.com/news/2026/03/fighting-scammers-protecting-people-with-new-technology-and-partnerships/)  
+   Link: <a href="https://about.fb.com/news/2026/03/fighting-scammers-protecting-people-with-new-technology-and-partnerships/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2026/03/fighting-scammers-protecting-people-with-new-technology-and-partnerships/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scammers and Protecting People With New...11 Mar 2026 — In 2025, we removed over 159 million scam ads for violating our policies, and we...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271](https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From fake account trafficking to coordinated inauthentic...by M Mazza · 2022 · Cited by 50 — Ready-to-(ab)use: From fake account traffic...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7079108/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7079108/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7079108/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7079108/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and [communicating](&amp;#123;&amp;#123; &#x27;communicating/&#x27; | relative_url &amp;#125;&amp;#125;) “soft facts” after terrorismby M Innes · 2020 · Cited by 62 — Network propaganda: Manipulation, disinformation, and rad...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: smallwarsjournal.com  
    Title: rand report the russian firehose of falsehood propaganda model  
-   Link: [https://smallwarsjournal.com/2016/07/15/rand-report-the-russian-firehose-of-falsehood-propaganda-model/](https://smallwarsjournal.com/2016/07/15/rand-report-the-russian-firehose-of-falsehood-propaganda-model/)  
+   Link: <a href="https://smallwarsjournal.com/2016/07/15/rand-report-the-russian-firehose-of-falsehood-propaganda-model/" target="_blank" rel="noopener noreferrer nofollow">https://smallwarsjournal.com/2016/07/15/rand-report-the-russian-firehose-of-falsehood-propaganda-model/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Russian &quot;Firehose of Falsehood&quot; Propaganda Model15 Jul 2016 — Forewarn audiences of misinformation, or merely reach them first with t...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: atlantic-forum.com  
-   Link: [https://www.atlantic-forum.com/our-views/the-hidden-matryoshka-the-strategic-weaponization-of-russian-disinformation-campaigns-through-rts-nested-layers-of-influence-and-the-perils-of-the-firehose-of-falsehood-model-of-propaganda](https://www.atlantic-forum.com/our-views/the-hidden-matryoshka-the-strategic-weaponization-of-russian-disinformation-campaigns-through-rts-nested-layers-of-influence-and-the-perils-of-the-firehose-of-falsehood-model-of-propaganda)  
+   Link: <a href="https://www.atlantic-forum.com/our-views/the-hidden-matryoshka-the-strategic-weaponization-of-russian-disinformation-campaigns-through-rts-nested-layers-of-influence-and-the-perils-of-the-firehose-of-falsehood-model-of-propaganda" target="_blank" rel="noopener noreferrer nofollow">https://www.atlantic-forum.com/our-views/the-hidden-matryoshka-the-strategic-weaponization-of-russian-disinformation-campaigns-through-rts-nested-layers-of-influence-and-the-perils-of-the-firehose-of-falsehood-model-of-propaganda</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>paigns Through RT&#x27;s Nested Layers of Influence and the Perils of the &#x27;Firehose...Read more...</p></details>

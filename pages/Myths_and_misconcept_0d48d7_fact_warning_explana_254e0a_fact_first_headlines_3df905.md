@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_replacement_explanat_c2acce
 - Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_when_to_name_myth_5af42b
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - debunking
 - fact-first
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - debunking
 - fact-first
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A correction headline works best when it gives the true answer before briefly naming the false claim it replaces.
 hero_summary: A correction headline works best when it gives the true answer before briefly naming the false claim it replaces.
 layout: default
 permalink: /fact-first/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /debunking/
 nav_short_title: Fact first
 title: Why corrections should lead with the fact
-title_full: Why corrections should lead with the fact | Debunking
+title_full: Why corrections should lead with the fact
 display_title_short: Fact first
 display_title: Fact first
 heading_title: Why corrections should lead with the fact
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: The Three Parts of a Better Debunk | Mythcraft
+parent_title: The Three Parts of a Better Debunk
 parent_permalink: /debunking/
 parent_nav_short_title: Debunking
 parent_heading_title: The Three Parts of a Better Debunk
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Show the trick that made the myth plausible
 up_link:
   basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
@@ -259,7 +259,7 @@ next_link:
   permalink: /health-myths/
   short_title: Health myths
   heading_title: How public health corrections avoid repeating myths
-date: '2026-06-09 05:13:36 '
+date: '2026-06-11 22:25:43 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_fact_first_headlines_3df905-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_fact_first_headlines_3df905-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_fa
 
 A [correction]({{ 'correction/' | relative_url }}) headline has one job before anything else: stop the false claim from becoming the reader’s mental starting point. That is why many misinformation researchers and fact-checking guides recommend leading with the fact, then naming the myth only as much as necessary. A fact-first headline gives readers the correct frame before the false one takes hold. Instead of “No, [vaccines]({{ 'vaccines/' | relative_url }}) do not contain tracking chips”, a fact-first version begins with the reality: “Vaccines do not contain tracking chips”. The difference may look cosmetic, but it changes what readers encounter first, remember first, and often repeat later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[KSJ Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-title">KSJ Handbook Structuring Your Argument</span><span class="citation-popover-snippet">KSJ HandbookStructuring Your Argument - MisinformationThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_fact_first_headlines_3df905-Illustration-1-dark.svg" | relative_url }}" alt="Fact first illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_fact_first_headlines_3df905-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_fact_first_headlines_3df905-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This approach sits at the centre of the broader fact-warning-explanation correction structure. [Corrections]({{ 'corrections/' | relative_url }}) compete against simple, memorable stories, and the opening line often determines which story becomes the reference point. Research on misinformation persistence shows that false information can continue to influence reasoning even [after correction]({{ 'after-correction/' | relative_url }}), making the initial frame unusually important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">In the typical CIE laboratory paradigm, participants are presented with a...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analytic Examination of the Continued Influence...22 Jun 2019 — A negative r indicates stronger continued influence...</span></span></span>
 
@@ -280,7 +279,7 @@ A fact-first headline does more than avoid repeating a myth. It provides an imme
 
 When readers encounter a correction, they are often deciding between two competing explanations. A headline that starts with the verified information reduces ambiguity and gives the audience a stable reference point before introducing the disputed claim. The [Debunking]({{ 'debunking/' | relative_url }}) Handbook explicitly recommends stating the truth first because doing so allows communicators to frame the message around their own evidence rather than around someone else's misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/print.php?n=4891" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">If it&#x27;s easy to do in a few clear words... MYTH: Point to misinformation. Repeat the misinformation, only...</span></span></span>
 
-This matters because misinformation is not usually remembered as a detached sentence. It is often stored as part of a larger story about why something happened. The [continued influence]({{ 'old-stories/' | relative_url }}) effect describes the tendency for misinformation to keep shaping judgements even after it has been corrected. Researchers have repeatedly found that outdated information is not simply erased from memory when a correction appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">In the typical CIE laboratory paradigm, participants are presented with a...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analytic Examination of the Continued Influence...22 Jun 2019 — A negative r indicates stronger continued influence...</span></span></span>
+This matters because misinformation is not usually remembered as a detached sentence. It is often stored as part of a larger story about why something happened. The continued influence effect describes the tendency for misinformation to keep shaping judgements even after it has been corrected. Researchers have repeatedly found that outdated information is not simply erased from [memory]({{ 'memory/' | relative_url }}) when a correction appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">In the typical CIE laboratory paradigm, participants are presented with a...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analytic Examination of the Continued Influence...22 Jun 2019 — A negative r indicates stronger continued influence...</span></span></span>
 
 A fact-first opening helps counter that problem in three ways:
 
@@ -301,9 +300,6 @@ Communication guidance built around the fact-myth-fallacy structure warns agains
 The underlying psychology overlaps with what researchers call the illusory truth effect: repeated statements often feel more believable simply because they become more familiar. Modern misinformation research has complicated some early fears about dramatic “backfire effects”, and repeating a myth once within a clear correction can be useful. However, familiarity still matters. Repetition should serve the correction rather than become the correction's dominant feature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookThus, while repeating misinformation generally increases familiarity and truth r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Digital CommonsThe Debunking Handbook 2020 - DigitalCommons@UNLby S Lewandowsky · Cited by 502 — Thus, while repeating misinformation gen...</span></span></span>
 
 A fact-first headline therefore acts as a framing intervention. It increases the visibility and familiarity of the accurate claim while limiting the false claim's opportunity to define the discussion.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e9-l34TcV_U" title="6 myths about the Middle Ages that everyone believes - Stephanie Honchell Smith" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e9-l34TcV_U" target="_blank" rel="noopener noreferrer">6 myths about the Middle Ages that everyone believes - Stephanie Honchell Smith</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e9-l34TcV_U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e9-l34TcV_U">Open on YouTube</a></p></div></div></div>
 
 ## How myth-led headlines can backfire
 
@@ -342,7 +338,6 @@ The shift from myth-first to fact-first is often small in wording but large in e
 
 The second version delivers the answer before introducing the misinformation.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_fact_first_headlines_3df905-Illustration-2-dark.svg" | relative_url }}" alt="Fact first illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_fact_first_headlines_3df905-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_fact_first_headlines_3df905-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Climate misinformation
 
@@ -368,9 +363,7 @@ The fact-first version provides a complete explanation rather than only rejectin
 
 The correction begins with the verified finding instead of the allegation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hW772hOpRdw" title="How To Structure A Clear Misinformation Response?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hW772hOpRdw" target="_blank" rel="noopener noreferrer">How To Structure A Clear Misinformation Response?</a></p><p class="youtube-embed-meta">Channel: Crisis Response Coach</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hW772hOpRdw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hW772hOpRdw">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_fact_first_headlines_3df905-Illustration-3-dark.svg" | relative_url }}" alt="Fact first illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_fact_first_headlines_3df905-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_fact_first_headlines_3df905-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Mislabelled images and videos
 
 **Myth-led**
@@ -385,16 +378,13 @@ The factual version supplies a replacement explanation, making it easier to reme
 
 Across these examples, the strongest correction leads do not merely negate. They replace. Readers leave with a factual account rather than with a disputed claim and a denial.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_fact_first_headlines_3df905-Illustration-3-dark.svg" | relative_url }}" alt="Fact first illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_fact_first_headlines_3df905-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_fact_first_headlines_3df905-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fact-first does not mean fact-only
 
-A common misunderstanding is that communicators should never mention the myth. Most misinformation researchers do not recommend that. People often need to know exactly which rumour is being addressed, especially when the claim is already circulating widely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCby B Swire-Thompson · 2021 · Cited by 79 — Traditionally, most fact-checking has used a myth-first format to disseminate corrective in...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalscience.com/print.php?n=1105" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">Skeptical ScienceThe Debunking Handbook Part 1: The first myth about...16 Nov 2011 — First, the refutation must focus on core facts rath...</span></span></span>
+A common misunderstanding is that communicators should never mention the myth. Most misinformation researchers do not recommend that. People often need to know exactly which rumour is being addressed, especially when the claim is already circulating widely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">by B Swire-Thompson · 2021 · Cited by 79 — Traditionally, most fact-checking has used a myth-first format to disseminate corrective in...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalscience.com/print.php?n=1105" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">Skeptical ScienceThe Debunking Handbook Part 1: The first myth about...16 Nov 2011 — First, the refutation must focus on core facts rath...</span></span></span>
 
 The distinction is one of sequence and emphasis.
 
 A typical fact-first structure looks like this: <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[ksjhandbook.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-title">KSJ Handbook Structuring Your Argument</span><span class="citation-popover-snippet">KSJ HandbookStructuring Your Argument - MisinformationThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -408,9 +398,6 @@ A typical fact-first structure looks like this: <span class="citation-chip-wrap"
 This arrangement ensures that the myth appears inside a correction rather than functioning as the correction's headline. The audience receives a replacement frame before encountering the misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[KSJ Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-title">KSJ Handbook Structuring Your Argument</span><span class="citation-popover-snippet">KSJ HandbookStructuring Your Argument - MisinformationThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalscience.com/print.php?n=1105" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">Skeptical ScienceThe Debunking Handbook Part 1: The first myth about...16 Nov 2011 — First, the refutation must focus on core facts rath...</span></span></span>
 
 When misinformation has already become familiar, the goal is not to pretend it does not exist. The goal is to stop it from becoming the organising idea around which the entire correction is built.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/btWSFq1GvbY" title="The Fight Against Misinformation with Dr. Sander van der Linden (Podcast Episode)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=btWSFq1GvbY" target="_blank" rel="noopener noreferrer">The Fight Against Misinformation with Dr. Sander van der Linden (Podcast Episode)</a></p><p class="youtube-embed-meta">Channel: Opinion Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=btWSFq1GvbY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=btWSFq1GvbY">Open on YouTube</a></p></div></div></div>
 
 ## Why fact-first headlines fit the wider correction structure
 
@@ -537,15 +524,15 @@ In misinformation correction, framing is not a cosmetic choice. The opening sent
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z"><img src="{{ '/assets/images/marketplace-covers/03c19feac523071c9acd.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-corrections-should-lead-with-the-fact-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-corrections-should-lead-with-the-fact-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The 5th Album &#x27;Fact Check&#x27; (Poster Ver. CD)"><img src="https://i.ebayimg.com/images/g/bpwAAeSwNVJqDUfK/s-l225.jpg" alt="Listing image for The 5th Album &#x27;Fact Check&#x27; (Poster Ver. CD)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-corrections-should-lead-with-the-fact-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-corrections-should-lead-with-the-fact-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">The 5th Album &#x27;Fact Check&#x27; (Poster Ver. CD)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-corrections-should-lead-with-the-fact-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-corrections-should-lead-with-the-fact-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-corrections-should-lead-with-the-fact-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-corrections-should-lead-with-the-fact-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,15 +540,15 @@ In misinformation correction, framing is not a cosmetic choice. The opening sent
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)"><img src="{{ '/assets/images/marketplace-covers/6ef2bd31e5190e5492e9.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-corrections-should-lead-with-the-fact-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-corrections-should-lead-with-the-fact-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The 5th Album &#x27;Fact Check&#x27; (Poster Ver. CD)"><img src="https://i.ebayimg.com/images/g/dPcAAeSwqgJpYWHB/s-l225.jpg" alt="Listing image for The 5th Album &#x27;Fact Check&#x27; (Poster Ver. CD)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-corrections-should-lead-with-the-fact-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-corrections-should-lead-with-the-fact-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">The 5th Album &#x27;Fact Check&#x27; (Poster Ver. CD)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-corrections-should-lead-with-the-fact-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-corrections-should-lead-with-the-fact-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-corrections-should-lead-with-the-fact-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-corrections-should-lead-with-the-fact-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,15 +556,15 @@ In misinformation correction, framing is not a cosmetic choice. The opening sent
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT"><img src="{{ '/assets/images/marketplace-covers/352c61150a84d9a15ae7.jpg' | relative_url }}" alt="Listing image for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-corrections-should-lead-with-the-fact-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-corrections-should-lead-with-the-fact-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster"><img src="https://i.ebayimg.com/images/g/SSwAAOSw37BlETvP/s-l225.jpg" alt="Listing image for NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-corrections-should-lead-with-the-fact-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-corrections-should-lead-with-the-fact-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+Photo Book+Photo Card+Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-corrections-should-lead-with-the-fact-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-corrections-should-lead-with-the-fact-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-corrections-should-lead-with-the-fact-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-corrections-should-lead-with-the-fact-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -585,15 +572,15 @@ In misinformation correction, framing is not a cosmetic choice. The opening sent
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check Group Photo Modern Music Poster"><img src="{{ '/assets/images/marketplace-covers/d51b656a120d3000d4a4.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check Group Photo Modern Music Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-corrections-should-lead-with-the-fact-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-corrections-should-lead-with-the-fact-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The 5th Album Fact Check (Poster Ver. CD) by Nct 127 | CD | condition good"><img src="https://i.ebayimg.com/images/g/MJIAAeSwuN9pXmdk/s-l225.jpg" alt="Listing image for The 5th Album Fact Check (Poster Ver. CD) by Nct 127 | CD | condition good" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check Group Photo Modern Music Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-corrections-should-lead-with-the-fact-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-corrections-should-lead-with-the-fact-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">The 5th Album Fact Check (Poster Ver. CD) by Nct 127 | CD | condition good</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-corrections-should-lead-with-the-fact-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-corrections-should-lead-with-the-fact-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-corrections-should-lead-with-the-fact-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-corrections-should-lead-with-the-fact-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -601,7 +588,7 @@ In misinformation correction, framing is not a cosmetic choice. The opening sent
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-first-why-corrections-should-lead-with-the-fact-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-corrections-should-lead-with-the-fact-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-corrections-should-lead-with-the-fact-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -816,114 +803,114 @@ In misinformation correction, framing is not a cosmetic choice. The opening sent
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the typical CIE laboratory paradigm, participants are presented with a...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation can continue to influence reasoning after correction; this is known as the continued influence effect (CIE).Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrection format has a limited role when debunking  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby B Swire-Thompson · 2021 · Cited by 79 — Traditionally, most fact-checking has used a myth-first format to disseminate corrective in...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — Traditionally, most fact-checking has used a myth-first format to disseminate corrective in...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ksjhandbook.org  
    Title: KSJ Handbook Structuring Your Argument  
-   Link: [https://ksjhandbook.org/misinformation/structuring-your-argument/](https://ksjhandbook.org/misinformation/structuring-your-argument/)  
+   Link: <a href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow">https://ksjhandbook.org/misinformation/structuring-your-argument/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>KSJ HandbookStructuring Your Argument - MisinformationThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: skepticalscience.com  
-   Link: [https://skepticalscience.com/print.php?n=4891](https://skepticalscience.com/print.php?n=4891)  
+   Link: <a href="https://skepticalscience.com/print.php?n=4891" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=4891</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>If it&#x27;s easy to do in a few clear words... MYTH: Point to misinformation. Repeat the misinformation, only...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/0093650219854600](https://journals.sagepub.com/doi/10.1177/0093650219854600)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0093650219854600</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA Meta-Analytic Examination of the Continued Influence...22 Jun 2019 — A negative r indicates stronger continued influence...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: climatechangecommunication.org  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookThus, while repeating misinformation generally increases familiarity and truth r...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: skepticalscience.com  
-   Link: [https://skepticalscience.com/print.php?n=1105](https://skepticalscience.com/print.php?n=1105)  
+   Link: <a href="https://skepticalscience.com/print.php?n=1105" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=1105</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceThe Debunking Handbook Part 1: The first myth about...16 Nov 2011 — First, the refutation must focus on core facts rath...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: digitalcommons.unl.edu  
-   Link: [https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf](https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsThe Debunking Handbook 2020 - DigitalCommons@UNLby S Lewandowsky · Cited by 502 — Thus, while repeating misinformation gen...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/0956797620952797](https://journals.sagepub.com/doi/10.1177/0956797620952797)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/0956797620952797" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0956797620952797</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A challenge in using corrections effectively is that repeating misinformation can have negative consequences.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sherwinarnott.org  
-   Link: [https://www.sherwinarnott.org/2019/10/headlines-cognitive-processing-and-problematic-information/](https://www.sherwinarnott.org/2019/10/headlines-cognitive-processing-and-problematic-information/)  
+   Link: <a href="https://www.sherwinarnott.org/2019/10/headlines-cognitive-processing-and-problematic-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.sherwinarnott.org/2019/10/headlines-cognitive-processing-and-problematic-information/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sherwin ArnottHeadlines, cognitive processing, and problematic information15 Oct 2019 — Even when an article contradicts the headline, re...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: escholarship.org  
-   Link: [https://escholarship.org/content/qt8sb9k1kb/qt8sb9k1kb_noSplash_086317268511e6a8f7bc117f0c34ba68.pdf?t=ssy869](https://escholarship.org/content/qt8sb9k1kb/qt8sb9k1kb_noSplash_086317268511e6a8f7bc117f0c34ba68.pdf?t=ssy869)  
+   Link: <a href="https://escholarship.org/content/qt8sb9k1kb/qt8sb9k1kb_noSplash_086317268511e6a8f7bc117f0c34ba68.pdf?t=ssy869" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt8sb9k1kb/qt8sb9k1kb_noSplash_086317268511e6a8f7bc117f0c34ba68.pdf?t=ssy869</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An experiment on the continued influence effectFigure 1 Schematic diagram of the version of continued influence effect task used in the p...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: caad.info  
-   Link: [https://caad.info/wp-content/uploads/2022/10/Journalist-Field-Guide-3pager.pdf](https://caad.info/wp-content/uploads/2022/10/Journalist-Field-Guide-3pager.pdf)  
+   Link: <a href="https://caad.info/wp-content/uploads/2022/10/Journalist-Field-Guide-3pager.pdf" target="_blank" rel="noopener noreferrer nofollow">https://caad.info/wp-content/uploads/2022/10/Journalist-Field-Guide-3pager.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NaviGatiNG Climate misiNFormatioNLead with the facts, but only if it&#x27;s clear and sticky. Debunk often and properly. Framing is fixed. Myt...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ltrr.arizona.edu  
-   Link: [https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf](https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf)  
+   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Handbookby S Lewandowsky — When you debunk a myth, you create a gap in the person&#x27;s mind. To be effective, your debunking must...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: research-portal.uea.ac.uk  
    Title: keeping track of alternative facts the neural correlates of proce  
-   Link: [https://research-portal.uea.ac.uk/en/publications/keeping-track-of-alternative-facts-the-neural-correlates-of-proce/](https://research-portal.uea.ac.uk/en/publications/keeping-track-of-alternative-facts-the-neural-correlates-of-proce/)  
+   Link: <a href="https://research-portal.uea.ac.uk/en/publications/keeping-track-of-alternative-facts-the-neural-correlates-of-proce/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/en/publications/keeping-track-of-alternative-facts-the-neural-correlates-of-proce/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of East AngliaKeeping track of &#x27;alternative facts&#x27;: The neural correlates...by A Gordon · 2019 · Cited by 77 — Whereas some r...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: charitytoday.co.uk  
    Title: how misinformation can impact all of us  
-   Link: [https://www.charitytoday.co.uk/how-misinformation-can-impact-all-of-us/](https://www.charitytoday.co.uk/how-misinformation-can-impact-all-of-us/)  
+   Link: <a href="https://www.charitytoday.co.uk/how-misinformation-can-impact-all-of-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.charitytoday.co.uk/how-misinformation-can-impact-all-of-us/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact, Myth, Fallacy: Unraveling Misinformation in Climate...16 Oct 2023 — The &#x27;Fact, Myth, Fallacy&#x27; model was developed by academic John...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: shapingtomorrowsworld.org  
    Title: debunking handbook part 2 familiarity backfire effect  
-   Link: [https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-backfire-effect.html](https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-backfire-effect.html)  
+   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-backfire-effect.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-backfire-effect.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The driving force is the fact that familiarity increases the chances of accepting information as true.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810](https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810)  
+   Link: <a href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Its Correction (Chapter 8)24 Aug 2020 — There are two pathways through which misinformation might continue to shape at...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
    Title: Familiarity backfire effects?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167811626000261](https://www.sciencedirect.com/science/article/pii/S0167811626000261)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disentangling the competing...by IN Nibat · 2026 — Familiarity backfire effects? Disentangling the competing effects of repetition and f...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: papers.ssrn.com  
    Title: SSRN ID3742120 code1680361  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3742120_code1680361.pdf?abstractid=3742120](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3742120_code1680361.pdf?abstractid=3742120)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3742120_code1680361.pdf?abstractid=3742120" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3742120_code1680361.pdf?abstractid=3742120</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Labeling ProjectContinued Influence. The continued influence effect is where, despite corrections, original misperceptions still influenc...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11345346/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11345346/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345346/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11345346/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[fake news headlines](&amp;#123;&amp;#123; &#x27;headlines/&#x27; | relative_url &amp;#125;&amp;#125;) after repeated exposure - PMCby PL Kemp · 2024 · Cited by 5 — The available literature suggests that more exposure to...</p></details>

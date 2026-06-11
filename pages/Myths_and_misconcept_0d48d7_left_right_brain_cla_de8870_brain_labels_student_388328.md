@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f
 - Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_right_brain_creativi_4469c6
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - left-brain
 - learner-labels
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - left-brain
 - learner-labels
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Calling a child left-brained or right-brained can turn a temporary preference into a false limit on what they are expected to learn.
 hero_summary: Calling a child left-brained or right-brained can turn a temporary preference into a false limit on what they are expected to learn.
 layout: default
 permalink: /learner-labels-f9b3ab/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /left-brain/
 nav_short_title: Learner labels
 title: When brain labels shrink expectations
-title_full: When brain labels shrink expectations | Left Brain
+title_full: When brain labels shrink expectations
 display_title_short: Learner labels
 display_title: Learner labels
 heading_title: When brain labels shrink expectations
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Are People Really Left Brain or Right Brain? | Mythcraft
+parent_title: Are People Really Left Brain or Right Brain?
 parent_permalink: /left-brain/
 parent_nav_short_title: Left Brain
 parent_heading_title: Are People Really Left Brain or Right Brain?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why matching styles is not enough
 up_link:
   basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
@@ -265,7 +265,7 @@ next_link:
   permalink: /style-matching/
   short_title: Style matching
   heading_title: Why matching styles is not enough
-date: '2026-06-09 05:24:36 '
+date: '2026-06-11 22:31:23 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_labels_student_388328-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_labels_student_388328-Illustration-1.webp
@@ -274,46 +274,43 @@ image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_br
 
 ## Introduction
 
-Calling a pupil “left-brained” or “right-brained” may sound harmless, but classroom labels can quietly narrow expectations. The central problem is not only that the left-brain/right-brain learner idea lacks strong scientific support. It is also that labels can change how adults interpret ability, effort and potential. Once a child is seen as “the creative one” or “the logical one”, teachers may unconsciously offer different challenges, feedback and opportunities. Pupils can begin to absorb those expectations themselves.
-
+Calling a pupil left-brained or right-brained may sound harmless, but classroom labels can quietly narrow expectations. The central problem is not only that the left-brain/right-brain learner idea lacks strong scientific support. It is also that labels can change how adults interpret ability, effort and potential. Once a child is seen as the creative one or the logical one, teachers may unconsciously offer different challenges, feedback and opportunities. Pupils can begin to absorb those expectations themselves.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_labels_student_388328-Illustration-1-dark.svg" | relative_url }}" alt="Learner labels illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_labels_student_388328-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_labels_student_388328-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on teacher expectations has long shown that beliefs about students can influence classroom interactions and achievement. While the evidence does not support dramatic claims that labels permanently determine outcomes, it does show that expectations can shape motivation, [confidence]({{ 'confidence/' | relative_url }}) and access to learning opportunities. When brain-based learner labels are treated as fixed truths, they risk turning temporary preferences or strengths into artificial limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceLeft brain versus right brain thinkersThe implication of the left brain/right brain myth is that some people are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.wku.edu/steve.groce/RosenthalJacobson-PygmalionintheClassroom.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.wku.edu">[Western Kentucky University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.wku.edu</span><span class="citation-popover-snippet">Western Kentucky UniversityPygmalion in the ClassroomThe results of the Oak School experiment provide further evidence that one person&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/d/804/files/2017/02/Pygmalion-in-the-Classroom.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpb-us-e1.wpmucdn.com">[3Bpb Us E1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpb-us-e1.wpmucdn.com</span><span class="citation-popover-title">Bpb Us E1Pygmalion in the classroom</span><span class="citation-popover-snippet">Pygmalion in the classroom - CDNby R Rosenthal · Cited by 15636 — What Rosenthal and Jacobson hoped to determine by this experiment was t...</span></span></span>
+Research on teacher expectations has long shown that beliefs about students can influence classroom interactions and achievement. While the evidence does not support dramatic claims that labels permanently determine outcomes, it does show that expectations can shape motivation, [confidence]({{ 'confidence/' | relative_url }}) and access to learning opportunities. When brain-based learner labels are treated as fixed truths, they risk turning temporary preferences or strengths into artificial limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceLeft brain versus right brain thinkersThe implication of the left brain/right brain myth is that some people are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.wku.edu/steve.groce/RosenthalJacobson-PygmalionintheClassroom.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.wku.edu">[Western Kentucky University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.wku.edu</span><span class="citation-popover-snippet">Western Kentucky UniversityPygmalion in the ClassroomThe results of the Oak School experiment provide further evidence that one person&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/d/804/files/2017/02/Pygmalion-in-the-Classroom.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpb-us-e1.wpmucdn.com">[3Bpb Us E1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpb-us-e1.wpmucdn.com</span><span class="citation-popover-title">Bpb Us E1Pygmalion in the classroom</span><span class="citation-popover-snippet">Pygmalion in the classroom - CDNby R Rosenthal  Cited by 15636  What Rosenthal and Jacobson hoped to determine by this experiment was t...</span></span></span>
 
 ## How labels change teacher and pupil expectations
 
 The left-brain/right-brain myth encourages a subtle shift from describing behaviour to defining [identity]({{ 'identity/' | relative_url }}).
 
-A teacher might observe that one pupil currently enjoys drawing diagrams and another prefers written explanations. That observation can be useful. The problem begins when the observation becomes a stable category: “She is right-brained” or “He is left-brained.” At that point, a temporary learning preference can start to look like a biological destiny.
+A teacher might observe that one pupil currently enjoys drawing diagrams and another prefers written explanations. That observation can be useful. The problem begins when the observation becomes a stable category: She is right-brained or He is left-brained. At that point, a temporary learning preference can start to look like a biological destiny.
 
-Research on teacher expectations helps explain why this matters. The classic “Pygmalion” studies proposed that expectations can become self-fulfilling prophecies. When teachers expect higher achievement, they may provide more encouragement, richer feedback, extra wait time after questions and more challenging work. Students often respond to those signals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/education/pygmalion-effect-rosenthal-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">EBSCOPygmalion effect (Rosenthal effect) | EducationThe Pygmalion effect operates as a self-fulfilling prophecy, where positive expectati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.wku.edu/steve.groce/RosenthalJacobson-PygmalionintheClassroom.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.wku.edu">[Western Kentucky University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.wku.edu</span><span class="citation-popover-snippet">Western Kentucky UniversityPygmalion in the ClassroomThe results of the Oak School experiment provide further evidence that one person&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/d/804/files/2017/02/Pygmalion-in-the-Classroom.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpb-us-e1.wpmucdn.com">[3Bpb Us E1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpb-us-e1.wpmucdn.com</span><span class="citation-popover-title">Bpb Us E1Pygmalion in the classroom</span><span class="citation-popover-snippet">Pygmalion in the classroom - CDNby R Rosenthal · Cited by 15636 — What Rosenthal and Jacobson hoped to determine by this experiment was t...</span></span></span>
+Research on teacher expectations helps explain why this matters. The classic Pygmalion studies proposed that expectations can become self-fulfilling prophecies. When teachers expect higher achievement, they may provide more encouragement, richer feedback, extra wait time after questions and more challenging work. Students often respond to those signals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/education/pygmalion-effect-rosenthal-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Pygmalion effect (Rosenthal effect) &#124; EducationThe Pygmalion effect operates as a self-fulfilling prophecy, where positive expectati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.wku.edu/steve.groce/RosenthalJacobson-PygmalionintheClassroom.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.wku.edu">[Western Kentucky University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.wku.edu</span><span class="citation-popover-snippet">Western Kentucky UniversityPygmalion in the ClassroomThe results of the Oak School experiment provide further evidence that one person&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/d/804/files/2017/02/Pygmalion-in-the-Classroom.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpb-us-e1.wpmucdn.com">[3Bpb Us E1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpb-us-e1.wpmucdn.com</span><span class="citation-popover-title">Bpb Us E1Pygmalion in the classroom</span><span class="citation-popover-snippet">Pygmalion in the classroom - CDNby R Rosenthal  Cited by 15636  What Rosenthal and Jacobson hoped to determine by this experiment was t...</span></span></span>
 
 In a classroom shaped by [brain labels]({{ 'brain-labels/' | relative_url }}), the process can work in less obvious ways:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* A pupil labelled “creative” may receive praise for imagination but less encouragement in mathematics or analytical writing.
-* A pupil labelled “logical” may be pushed towards technical subjects while receiving fewer opportunities to develop artistic confidence.
-* Struggles may be interpreted as evidence that a task lies outside the learner's “brain type” rather than as a normal part of learning.
+* A pupil labelled creative may receive praise for imagination but less encouragement in mathematics or analytical writing.
+* A pupil labelled logical may be pushed towards technical subjects while receiving fewer opportunities to develop artistic confidence.
+* Struggles may be interpreted as evidence that a task lies outside the learner's brain type rather than as a normal part of learning.
 * Teachers may lower expectations without realising it, offering easier tasks or less demanding questions.
 
 </div>
 
 These decisions rarely appear as deliberate discrimination. They often emerge through hundreds of small classroom interactions that communicate what adults think a pupil can become.
 
-Educational neuroscience organisations have repeatedly warned that the left-brain/right-brain myth wrongly implies that some learners are naturally suited to particular tasks because of hemisphere dominance. The available evidence does not support that conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceLeft brain versus right brain thinkersThe implication of the left brain/right brain myth is that some people are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dana.org/article/when-the-myth-is-the-message-neuromyths-and-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dana.org">[Dana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dana.org</span><span class="citation-popover-title">when the myth is the message neuromyths and education</span><span class="citation-popover-snippet">Dana FoundationWhen the Myth is the Message: Neuromyths and EducationNeuromyth #3: Hemispheric dominance (whether you are “left-brained”...</span></span></span>
+Educational neuroscience organisations have repeatedly warned that the left-brain/right-brain myth wrongly implies that some learners are naturally suited to particular tasks because of hemisphere dominance. The available evidence does not support that conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceLeft brain versus right brain thinkersThe implication of the left brain/right brain myth is that some people are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dana.org/article/when-the-myth-is-the-message-neuromyths-and-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dana.org">[Dana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dana.org</span><span class="citation-popover-title">when the myth is the message neuromyths and education</span><span class="citation-popover-snippet">Dana FoundationWhen the Myth is the Message: Neuromyths and EducationNeuromyth #3: Hemispheric dominance (whether you are left-brained...</span></span></span>
 
 ### When pupils start believing the label
 
 Labels do not only affect teachers. Students often use adult descriptions to understand themselves.
 
-A child repeatedly told that they are “not a maths person” or that they are “a right-brained learner” may begin to interpret setbacks as proof that success is impossible in certain subjects. Instead of seeing difficulty as temporary, they may see it as confirmation of an underlying limitation.
+A child repeatedly told that they are not a maths person or that they are a right-brained learner may begin to interpret setbacks as proof that success is impossible in certain subjects. Instead of seeing difficulty as temporary, they may see it as confirmation of an underlying limitation.
 
 This overlaps with research on mindsets. Carol Dweck's work distinguishes between a fixed mindset, in which abilities are viewed as largely unchangeable, and a growth mindset, in which abilities are seen as developable through learning and practice. Although growth mindset research is often simplified in popular discussion, a consistent finding is that beliefs about whether abilities can change influence how students respond to challenge and failure. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://teachingcommons.stanford.edu/teaching-guides/foundations-course-design/learning-activities/growth-mindset-and-enhanced-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teachingcommons.stanford.edu">[Teaching Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teachingcommons.stanford.edu</span><span class="citation-popover-snippet">As discussed in their paper on academic tenacity...Read more...</span></span></span>
 
 A left-brain/right-brain label can easily function as a fixed-mindset message. It suggests that success flows from an inherited cognitive type rather than from practice, instruction and persistence.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hiiEeMN7vbQ" title="Developing a Growth Mindset with Carol Dweck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hiiEeMN7vbQ" target="_blank" rel="noopener noreferrer">Developing a Growth Mindset with Carol Dweck</a></p><p class="youtube-embed-meta">Channel: Stanford Alumni &middot; Views: 4.6M &middot; Uploaded: October 2014 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hiiEeMN7vbQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hiiEeMN7vbQ">Open on YouTube</a></p></div></div></div>
 
@@ -327,9 +324,9 @@ A pupil who writes well may genuinely find writing easier than drawing. Another 
 
 The distinction matters because learning often involves developing weaker areas rather than merely reinforcing existing ones. If a student is repeatedly directed towards what they already do well, they may never discover abilities that require more time to emerge.
 
-Consider a pupil who enjoys art and receives a “right-brained” label. Teachers and parents may unintentionally reinforce the idea that science, mathematics or formal reasoning are less suitable paths. Yet success in science frequently depends on creativity, visual thinking and imagination. Likewise, success in the arts often depends on planning, analysis and sustained practice. Real-world expertise rarely follows the neat division suggested by the myth. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strath.ac.uk/humanities/education/blog/creativeneuroscience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strath.ac.uk">[University of Strathclyde]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strath.ac.uk</span><span class="citation-popover-snippet">University of StrathclydeCreative Neuroscienceby W Strathclyde — The neuromyth which I will focus on here is the idea that one side of yo...</span></span></span>
+Consider a pupil who enjoys art and receives a right-brained label. Teachers and parents may unintentionally reinforce the idea that science, mathematics or formal reasoning are less suitable paths. Yet success in science frequently depends on creativity, visual thinking and imagination. Likewise, success in the arts often depends on planning, analysis and sustained practice. Real-world expertise rarely follows the neat division suggested by the myth. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strath.ac.uk/humanities/education/blog/creativeneuroscience/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strath.ac.uk">[University of Strathclyde]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strath.ac.uk</span><span class="citation-popover-snippet">University of StrathclydeCreative Neuroscienceby W Strathclyde  The neuromyth which I will focus on here is the idea that one side of yo...</span></span></span>
 
-The neuroscience itself points in the same direction. Research has found local patterns of hemispheric specialisation, but not evidence that people are globally “left-brained” or “right-brained” learners. Learning depends on networks distributed across the brain rather than a single dominant hemisphere controlling educational potential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceLeft brain versus right brain thinkersThe implication of the left brain/right brain myth is that some people are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.monash.edu/en/publications/the-myth-of-the-left-vs-right-brain-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.monash.edu">[Monash]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.monash.edu</span><span class="citation-popover-snippet">Monash UniversityThe myth of the left- Vs right-brain learningby KA Allen · 2019 · Cited by 34 — This paper explores the myth of hemisphe...</span></span></span>
+The neuroscience itself points in the same direction. Research has found local patterns of hemispheric specialisation, but not evidence that people are globally left-brained or right-brained learners. Learning depends on networks distributed across the brain rather than a single dominant hemisphere controlling educational potential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceLeft brain versus right brain thinkersThe implication of the left brain/right brain myth is that some people are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.monash.edu/en/publications/the-myth-of-the-left-vs-right-brain-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.monash.edu">[Monash]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.monash.edu</span><span class="citation-popover-snippet">Monash UniversityThe myth of the left- Vs right-brain learningby KA Allen  2019  Cited by 34  This paper explores the myth of hemisphe...</span></span></span>
 
 ### The opportunity cost of narrow expectations
 
@@ -343,19 +340,18 @@ Research on self-fulfilling prophecies suggests that expectation effects are usu
 
 The practical concern is therefore not a single label or comment. It is the gradual narrowing of possibilities.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_labels_student_388328-Illustration-2-dark.svg" | relative_url }}" alt="Learner labels illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_labels_student_388328-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_labels_student_388328-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Better questions when a pupil struggles
 
 When a learner has difficulty, a brain-type explanation often feels satisfying because it is simple. It appears to answer the question immediately.
 
-“She isn't analytical.”
+She isn't analytical.
 
-“He isn't creative.”
+He isn't creative.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unisc.edu.au/about/unisc-news/news-archive/2025/april/students-are-neither-left-nor-right-brained-how-some-early-childhood-educators-get-this-neuromyth-and-others-wrong" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unisc.edu.au">[“She is right-brained.”]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unisc.edu.au</span><span class="citation-popover-snippet">Students are neither left nor right brained: how some early...16 Apr 2025 — Students are neither left nor right brained: how some early...</span></span></span>
+<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unisc.edu.au/about/unisc-news/news-archive/2025/april/students-are-neither-left-nor-right-brained-how-some-early-childhood-educators-get-this-neuromyth-and-others-wrong" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unisc.edu.au">[She is right-brained.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unisc.edu.au</span><span class="citation-popover-snippet">Students are neither left nor right brained: how some early...16 Apr 2025  Students are neither left nor right brained: how some early...</span></span></span>
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://dana.org/article/when-the-myth-is-the-message-neuromyths-and-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dana.org">[“He is left-brained.”]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dana.org</span><span class="citation-popover-title">when the myth is the message neuromyths and education</span><span class="citation-popover-snippet">Dana FoundationWhen the Myth is the Message: Neuromyths and EducationNeuromyth #3: Hemispheric dominance (whether you are “left-brained”...</span></span></span>
+<span class="citation-chip-wrap"><a class="citation-chip" href="https://dana.org/article/when-the-myth-is-the-message-neuromyths-and-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dana.org">[He is left-brained.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dana.org</span><span class="citation-popover-title">when the myth is the message neuromyths and education</span><span class="citation-popover-snippet">Dana FoundationWhen the Myth is the Message: Neuromyths and EducationNeuromyth #3: Hemispheric dominance (whether you are left-brained...</span></span></span>
 
 The problem is that these explanations stop investigation too early.
 
@@ -378,7 +374,6 @@ These questions direct attention towards teaching, support and learning conditio
 
 A pupil struggling with algebra, for example, may need stronger foundations in arithmetic, more guided practice or different examples. A pupil struggling with creative writing may need exposure to models, planning techniques or confidence-building feedback. Neither difficulty requires a claim about hemisphere dominance.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R1Yl9nvXIE0" title="The Pygmalion Effect, Growth Mindset, &amp; Learning ft. Robert Rosenthal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R1Yl9nvXIE0" target="_blank" rel="noopener noreferrer">The Pygmalion Effect, Growth Mindset, &amp; Learning ft. Robert Rosenthal</a></p><p class="youtube-embed-meta">Channel: Trevor Ragan &middot; Views: 81.9K &middot; Uploaded: May 2021 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R1Yl9nvXIE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R1Yl9nvXIE0">Open on YouTube</a></p></div></div></div>
 
 ## What teachers can do instead of using brain-type labels
@@ -389,7 +384,7 @@ Several classroom habits can help:
 
 **Describe behaviours, not identities.**
 
-Instead of saying “You are a right-brained learner”, a teacher might say, “You seem to find diagrams helpful at the moment.”
+Instead of saying You are a right-brained learner, a teacher might say, You seem to find diagrams helpful at the moment.
 
 **Praise strategies and progress.**
 
@@ -407,19 +402,16 @@ A strength can be used to support learning elsewhere. Artistic skills can suppor
 
 Children often surprise adults when given sustained opportunity and support. Expectations should leave room for that possibility.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_labels_student_388328-Illustration-3-dark.svg" | relative_url }}" alt="Learner labels illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_labels_student_388328-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_labels_student_388328-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the myth matters beyond neuroscience
 
 The debate over left-brain and right-brain learners is sometimes presented as a technical dispute about brain science. In schools, however, the more important issue is often expectation.
 
-Even if the label seems positive, it can encourage teachers and pupils to see ability as fixed, specialised and biologically predetermined. Modern research does not support the idea that students belong to stable left-brained or right-brained learning categories. More importantly, the label can influence how opportunities are distributed and how students imagine their own futures. Monash University <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceLeft brain versus right brain thinkersThe implication of the left brain/right brain myth is that some people are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Review on the Prevalence and Persistence of Neuromyths...by F Grospietsch · 2021 · Cited by 90 — The neuromyth that logic is located in...</span></span></span>
+Even if the label seems positive, it can encourage teachers and pupils to see ability as fixed, specialised and biologically predetermined. Modern research does not support the idea that students belong to stable left-brained or right-brained learning categories. More importantly, the label can influence how opportunities are distributed and how students imagine their own futures. Monash University <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceLeft brain versus right brain thinkersThe implication of the left brain/right brain myth is that some people are...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Review on the Prevalence and Persistence of Neuromyths...by F Grospietsch  2021  Cited by 90  The neuromyth that logic is located in...</span></span></span>
 
 The safer approach is to recognise strengths without turning them into limits. A pupil may have preferences, interests and talents today, but those characteristics are not reliable maps of everything they will be capable of learning tomorrow.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4aN5TbGW5JA" title="The Pygmalion Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4aN5TbGW5JA" target="_blank" rel="noopener noreferrer">The Pygmalion Effect</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 19.3M &middot; Uploaded: May 2019 &middot; Length: 4 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4aN5TbGW5JA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4aN5TbGW5JA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -538,11 +530,11 @@ The safer approach is to recognise strengths without turning them into limits. A
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-f9b3ab-when-brain-labels-shrink-expectations-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="learner-labels-f9b3ab-when-brain-labels-shrink-expectations-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy Posters â€“ Skeleton, Muscles, Organs â€“ Framed or Unframed"><img src="{{ '/assets/images/marketplace-covers/9772fd9d8d1f64190d32.jpg' | relative_url }}" alt="Listing image for Human Anatomy Posters â€“ Skeleton, Muscles, Organs â€“ Framed or Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-f9b3ab-when-brain-labels-shrink-expectations-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="learner-labels-f9b3ab-when-brain-labels-shrink-expectations-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed"><img src="{{ '/assets/images/marketplace-covers/9772fd9d8d1f64190d32.jpg' | relative_url }}" alt="Listing image for Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-f9b3ab-when-brain-labels-shrink-expectations-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="learner-labels-f9b3ab-when-brain-labels-shrink-expectations-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy Posters â€“ Skeleton, Muscles, Organs â€“ Framed or Unframed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-f9b3ab-when-brain-labels-shrink-expectations-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="learner-labels-f9b3ab-when-brain-labels-shrink-expectations-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-f9b3ab-when-brain-labels-shrink-expectations-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="learner-labels-f9b3ab-when-brain-labels-shrink-expectations-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
         <div class="fr-book-actions">
@@ -817,133 +809,133 @@ The safer approach is to recognise strengths without turning them into limits. A
 
 1. <a id="endnote-1"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/education/pygmalion-effect-rosenthal-effect](https://www.ebsco.com/research-starters/education/pygmalion-effect-rosenthal-effect)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EBSCOPygmalion effect (Rosenthal effect) | EducationThe Pygmalion effect operates as a self-fulfilling prophecy, where positive expectati...</p></details>
+   Link: <a href="https://www.ebsco.com/research-starters/education/pygmalion-effect-rosenthal-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/education/pygmalion-effect-rosenthal-effect</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pygmalion effect (Rosenthal effect) | EducationThe Pygmalion effect operates as a self-fulfilling prophecy, where positive expectati...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dana.org  
    Title: when the myth is the message neuromyths and education  
-   Link: [https://dana.org/article/when-the-myth-is-the-message-neuromyths-and-education/](https://dana.org/article/when-the-myth-is-the-message-neuromyths-and-education/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dana FoundationWhen the Myth is the Message: Neuromyths and EducationNeuromyth #3: Hemispheric dominance (whether you are “left-brained”...</p></details>
+   Link: <a href="https://dana.org/article/when-the-myth-is-the-message-neuromyths-and-education/" target="_blank" rel="noopener noreferrer nofollow">https://dana.org/article/when-the-myth-is-the-message-neuromyths-and-education/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dana FoundationWhen the Myth is the Message: Neuromyths and EducationNeuromyth #3: Hemispheric dominance (whether you are left-brained...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: research.monash.edu  
-   Link: [https://research.monash.edu/en/publications/the-myth-of-the-left-vs-right-brain-learning/](https://research.monash.edu/en/publications/the-myth-of-the-left-vs-right-brain-learning/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Monash UniversityThe myth of the left- Vs right-brain learningby KA Allen · 2019 · Cited by 34 — This paper explores the myth of hemisphe...</p></details>
+   Link: <a href="https://research.monash.edu/en/publications/the-myth-of-the-left-vs-right-brain-learning/" target="_blank" rel="noopener noreferrer nofollow">https://research.monash.edu/en/publications/the-myth-of-the-left-vs-right-brain-learning/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Monash UniversityThe myth of the left- Vs right-brain learningby KA Allen  2019  Cited by 34  This paper explores the myth of hemisphe...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8299535/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8299535/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCWhat Can Be Learned from Growth Mindset Controversies?by DS Yeager · 2020 · Cited by 1428 — This article seeks to answer recent questi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8299535/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8299535/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Can Be Learned from Growth Mindset Controversies?by DS Yeager  2020  Cited by 1428  This article seeks to answer recent questi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Pygmalion effect  
-   Link: [https://en.wikipedia.org/wiki/Pygmalion_effect](https://en.wikipedia.org/wiki/Pygmalion_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pygmalion_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pygmalion_effect</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Pygmalion (play)  
-   Link: [https://en.wikipedia.org/wiki/Pygmalion_%28play%29](https://en.wikipedia.org/wiki/Pygmalion_%28play%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pygmalion_%28play%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pygmalion_%28play%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pygmalion (play)Pygmalion is a play written by Bernard Shaw in 1912, named after the Greek mythological figure. It was first presented...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Pygmalion (mythology)  
-   Link: [https://en.wikipedia.org/wiki/Pygmalion_%28mythology%29](https://en.wikipedia.org/wiki/Pygmalion_%28mythology%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pygmalion_%28mythology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pygmalion_%28mythology%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pygmalion (mythology)In Greek mythology, Pygmalion was a legendary figure of Cyprus. He is most familiar from Ovid&#x27;s narrative poem Me...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: people.wku.edu  
-   Link: [https://people.wku.edu/steve.groce/RosenthalJacobson-PygmalionintheClassroom.pdf](https://people.wku.edu/steve.groce/RosenthalJacobson-PygmalionintheClassroom.pdf)  
+   Link: <a href="https://people.wku.edu/steve.groce/RosenthalJacobson-PygmalionintheClassroom.pdf" target="_blank" rel="noopener noreferrer nofollow">https://people.wku.edu/steve.groce/RosenthalJacobson-PygmalionintheClassroom.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Western Kentucky UniversityPygmalion in the ClassroomThe results of the Oak School experiment provide further evidence that one person&#x27;s...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: bpb-us-e1.wpmucdn.com  
    Title: Bpb Us E1Pygmalion in the classroom  
-   Link: [https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/d/804/files/2017/02/Pygmalion-in-the-Classroom.pdf](https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/d/804/files/2017/02/Pygmalion-in-the-Classroom.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pygmalion in the classroom - CDNby R Rosenthal · Cited by 15636 — What Rosenthal and Jacobson hoped to determine by this experiment was t...</p></details>
+   Link: <a href="https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/d/804/files/2017/02/Pygmalion-in-the-Classroom.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/d/804/files/2017/02/Pygmalion-in-the-Classroom.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pygmalion in the classroom - CDNby R Rosenthal  Cited by 15636  What Rosenthal and Jacobson hoped to determine by this experiment was t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational NeuroscienceLeft brain versus right brain thinkersThe implication of the [left brain](&amp;#123;&amp;#123; &#x27;left-brain/&#x27; | relative_url &amp;#125;&amp;#125;)/right brain myth is that some people are...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: teachingcommons.stanford.edu  
-   Link: [https://teachingcommons.stanford.edu/teaching-guides/foundations-course-design/learning-activities/growth-mindset-and-enhanced-learning](https://teachingcommons.stanford.edu/teaching-guides/foundations-course-design/learning-activities/growth-mindset-and-enhanced-learning)  
+   Link: <a href="https://teachingcommons.stanford.edu/teaching-guides/foundations-course-design/learning-activities/growth-mindset-and-enhanced-learning" target="_blank" rel="noopener noreferrer nofollow">https://teachingcommons.stanford.edu/teaching-guides/foundations-course-design/learning-activities/growth-mindset-and-enhanced-learning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As discussed in their paper on academic tenacity...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: strath.ac.uk  
-   Link: [https://www.strath.ac.uk/humanities/education/blog/creativeneuroscience/](https://www.strath.ac.uk/humanities/education/blog/creativeneuroscience/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of StrathclydeCreative Neuroscienceby W Strathclyde — The neuromyth which I will focus on here is the idea that one side of yo...</p></details>
+   Link: <a href="https://www.strath.ac.uk/humanities/education/blog/creativeneuroscience/" target="_blank" rel="noopener noreferrer nofollow">https://www.strath.ac.uk/humanities/education/blog/creativeneuroscience/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of StrathclydeCreative Neuroscienceby W Strathclyde  The neuromyth which I will focus on here is the idea that one side of yo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review on the Prevalence and Persistence of Neuromyths...by F Grospietsch · 2021 · Cited by 90 — The neuromyth that logic is located in...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review on the Prevalence and Persistence of Neuromyths...by F Grospietsch  2021  Cited by 90  The neuromyth that logic is located in...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1275126/full](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1275126/full)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Literature review on teachers&#x27; mindsets, growth-oriented...by S Laine · 2023 · Cited by 51 — This literature review focuses on earlier r...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1275126/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1275126/full</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Literature review on teachers&#x27; mindsets, growth-oriented...by S Laine  2023  Cited by 51  This literature review focuses on earlier r...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sowiso.com  
    Title: growth mindset  
-   Link: [https://www.sowiso.com/blog/growth-mindset/](https://www.sowiso.com/blog/growth-mindset/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in math: How to help your students thrive25 Jan 2022 — Students with a growth mindset in math see their mistakes as opportunities, take o...</p></details>
+   Link: <a href="https://www.sowiso.com/blog/growth-mindset/" target="_blank" rel="noopener noreferrer nofollow">https://www.sowiso.com/blog/growth-mindset/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>in math: How to help your students thrive25 Jan 2022  Students with a growth mindset in math see their mistakes as opportunities, take o...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: the-learning-agency.com  
-   Link: [https://the-learning-agency.com/insights/[debunking](https://the-learning-agency.com/insights/[debunking)  
+   Link: <a href="https://the-learning-agency.com/insights/[debunking" target="_blank" rel="noopener noreferrer nofollow">https://the-learning-agency.com/insights/[debunking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking The &#x27;Learning Styles&#x27; NeuromythBelief in the idea of learning styles is popular despite research showing little evidence that t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: penbridgeschool.org.uk  
-   Link: [https://penbridgeschool.org.uk/learn-with-us/growth-mindset/](https://penbridgeschool.org.uk/learn-with-us/growth-mindset/)  
+   Link: <a href="https://penbridgeschool.org.uk/learn-with-us/growth-mindset/" target="_blank" rel="noopener noreferrer nofollow">https://penbridgeschool.org.uk/learn-with-us/growth-mindset/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Growth MindsetA growth mindset is a belief that you can develop your skills and talents through hard work, the right strategies, and guid...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: crownhouse.co.uk  
-   Link: [https://www.crownhouse.co.uk/pygmalion-in-the-classroom](https://www.crownhouse.co.uk/pygmalion-in-the-classroom)  
+   Link: <a href="https://www.crownhouse.co.uk/pygmalion-in-the-classroom" target="_blank" rel="noopener noreferrer nofollow">https://www.crownhouse.co.uk/pygmalion-in-the-classroom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pygmalion in the ClassroomThe &#x27;Pygmalion phenomenon&#x27; is the self-fulfilling prophecy embedded in teachers&#x27; expectations. Simply put, when...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: tll.mit.edu  
-   Link: [https://tll.mit.edu/teaching-resources/inclusive-classroom/growth-mindset/](https://tll.mit.edu/teaching-resources/inclusive-classroom/growth-mindset/)  
+   Link: <a href="https://tll.mit.edu/teaching-resources/inclusive-classroom/growth-mindset/" target="_blank" rel="noopener noreferrer nofollow">https://tll.mit.edu/teaching-resources/inclusive-classroom/growth-mindset/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching + Learning LabGrowth MindsetResearch indicates that students&#x27; beliefs about the nature of intelligence and ability significantly...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/book/3396/chapter/144496662](https://academic.oup.com/book/3396/chapter/144496662)  
+   Link: <a href="https://academic.oup.com/book/3396/chapter/144496662" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/book/3396/chapter/144496662</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>oup.com3 The Once Raging and Still Smoldering Pygmalion ControversyThis chapter reviews the earliest empirical research demonstrating tha...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: unisc.edu.au  
-   Link: [https://www.unisc.edu.au/about/unisc-news/news-archive/2025/april/students-are-neither-left-nor-right-brained-how-some-early-childhood-educators-get-this-neuromyth-and-others-wrong](https://www.unisc.edu.au/about/unisc-news/news-archive/2025/april/students-are-neither-left-nor-right-brained-how-some-early-childhood-educators-get-this-neuromyth-and-others-wrong)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Students are neither left nor right brained: how some early...16 Apr 2025 — Students are neither left nor right brained: how some early...</p></details>
+   Link: <a href="https://www.unisc.edu.au/about/unisc-news/news-archive/2025/april/students-are-neither-left-nor-right-brained-how-some-early-childhood-educators-get-this-neuromyth-and-others-wrong" target="_blank" rel="noopener noreferrer nofollow">https://www.unisc.edu.au/about/unisc-news/news-archive/2025/april/students-are-neither-left-nor-right-brained-how-some-early-childhood-educators-get-this-neuromyth-and-others-wrong</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Students are neither left nor right brained: how some early...16 Apr 2025  Students are neither left nor right brained: how some early...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: associazionepsicologieurope.com  
-   Link: [https://associazionepsicologieurope.com/2025/07/04/the-power-of-expectations-understanding-the-self-fulfilling-prophecy-pygmalion-and-golem-effects/](https://associazionepsicologieurope.com/2025/07/04/the-power-of-expectations-understanding-the-self-fulfilling-prophecy-pygmalion-and-golem-effects/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Expectations: Understanding the Self-Fulfilling...by WT Matters · 2025 — The Pygmalion effect, also known as the Rosenthal...</p></details>
+   Link: <a href="https://associazionepsicologieurope.com/2025/07/04/the-power-of-expectations-understanding-the-self-fulfilling-prophecy-pygmalion-and-golem-effects/" target="_blank" rel="noopener noreferrer nofollow">https://associazionepsicologieurope.com/2025/07/04/the-power-of-expectations-understanding-the-self-fulfilling-prophecy-pygmalion-and-golem-effects/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Expectations: Understanding the Self-Fulfilling...by WT Matters  2025  The Pygmalion effect, also known as the Rosenthal...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: eric.ed.gov  
-   Link: [https://eric.ed.gov/?id=EJ1366084](https://eric.ed.gov/?id=EJ1366084)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Left and Right: Learning Is a Whole-Brain Processby DD Shin · 2022 · Cited by 12 — The argument of left- and right-brain learning is the...</p></details>
+   Link: <a href="https://eric.ed.gov/?id=EJ1366084" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ1366084</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Left and Right: Learning Is a Whole-Brain Processby DD Shin  2022  Cited by 12  The argument of left- and right-brain learning is the...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: lthechat.com  
    Title: 186 debunking neuromyths in education what psychology really tells us  
-   Link: [https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/](https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#LTHEchat185: Debunking Neuromyths in Education...Oct 11, 2020 — Recent research has suggested that among college-level staff, 97% and 7...</p></details>
+   Link: <a href="https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/" target="_blank" rel="noopener noreferrer nofollow">https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>#LTHEchat185: Debunking Neuromyths in Education...Oct 11, 2020  Recent research has suggested that among college-level staff, 97% and 7...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hiiEeMN7vbQ](https://www.youtube.com/watch?v=hiiEeMN7vbQ)  
+   Link: <a href="https://www.youtube.com/watch?v=hiiEeMN7vbQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hiiEeMN7vbQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing a Growth Mindset with Carol DweckShould you tell your kids they are smart or talented? Professor Carol Dweck answers this ques...</p></details>

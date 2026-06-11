@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_private_universe_ast_4d78d6
 - Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - concept-change
 - diagnostics
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - concept-change
 - diagnostics
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Good diagnostic questions expose the model behind an answer, not just whether a student chose the right option.
 hero_summary: Good diagnostic questions expose the model behind an answer, not just whether a student chose the right option.
 layout: default
 permalink: /diagnostics/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /concept-change/
 nav_short_title: Diagnostics
 title: The Questions That Reveal Misconceptions
-title_full: The Questions That Reveal Misconceptions | Concept Change
+title_full: The Questions That Reveal Misconceptions
 display_title_short: Diagnostics
 display_title: Diagnostics
 heading_title: The Questions That Reveal Misconceptions
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Learners Replace Wrong Ideas | Mythcraft
+parent_title: How Learners Replace Wrong Ideas
 parent_permalink: /concept-change/
 parent_nav_short_title: Concept Change
 parent_heading_title: How Learners Replace Wrong Ideas
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Corrections Need Better Explanations
 up_link:
   basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
@@ -265,7 +265,7 @@ next_link:
   permalink: /everyday-models/
   short_title: Everyday Models
   heading_title: Why Wrong Science Ideas Feel Sensible
-date: '2026-06-09 05:05:21 '
+date: '2026-06-11 22:21:45 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_diagnostic_questions_649d62-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_diagnostic_questions_649d62-Illustration-1.webp
@@ -276,9 +276,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_di
 
 A student who chooses the correct answer can still hold the wrong idea. That is the central challenge of diagnosing misconceptions in science learning. Many students learn to recognise keywords, eliminate unlikely options, or repeat memorised explanations without changing the underlying model they use to make sense of the world. Diagnostic questions are designed to expose that hidden model.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_diagnostic_questions_649d62-Illustration-1-dark.svg" | relative_url }}" alt="Diagnostics illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_diagnostic_questions_649d62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_diagnostic_questions_649d62-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In [conceptual change]({{ 'concept-change/' | relative_url }}) teaching, the goal is not simply to identify who is right and who is wrong. It is to uncover how students are reasoning before instruction moves on. Well-designed diagnostic questions reveal whether a learner thinks heavier objects fall faster, whether they believe electric current is “used up” in a circuit, or whether they think plants obtain most of their mass from soil. The value lies in making invisible thinking visible, allowing teachers to respond to specific misconceptions rather than generic errors. Research on formative assessment, concept inventories and science misconceptions consistently shows that eliciting students’ reasoning is a critical step in conceptual change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/9457/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesHow People Learn: Bridging Research and Practice (1999)The use of frequent formative assessment helps make students&#x27; th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/9457/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesHow People Learn: Bridging Research and Practice (1999)The use of frequent formative assessment helps make students&#x27; th...</span></span></span>
+In conceptual change teaching, the goal is not simply to identify who is right and who is wrong. It is to uncover how students are reasoning before instruction moves on. Well-designed diagnostic questions reveal whether a learner thinks heavier objects fall faster, whether they believe electric current is “used up” in a circuit, or whether they think plants obtain most of their mass from soil. The value lies in making invisible thinking visible, allowing teachers to respond to specific misconceptions rather than generic errors. Research on formative assessment, concept inventories and science misconceptions consistently shows that eliciting students’ reasoning is a critical step in conceptual change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/9457/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesHow People Learn: Bridging Research and Practice (1999)The use of frequent formative assessment helps make students&#x27; th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/9457/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesHow People Learn: Bridging Research and Practice (1999)The use of frequent formative assessment helps make students&#x27; th...</span></span></span>
 
 ## Why Answers Alone Can Hide Faulty Reasoning
 
@@ -287,7 +286,6 @@ Many classroom questions measure recall rather than understanding. A student may
 This problem has been documented across science education research. Students often carry stable explanatory frameworks that survive years of instruction because assessments reward the production of correct answers without probing the reasoning underneath them. Conceptual change researchers therefore argue that assessment must focus on students' [mental models]({{ 'mental-models/' | relative_url }}), not just outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/9457/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesHow People Learn: Bridging Research and Practice (1999)The use of frequent formative assessment helps make students&#x27; th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/9457/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesHow People Learn: Bridging Research and Practice (1999)The use of frequent formative assessment helps make students&#x27; th...</span></span></span>
 
 A useful diagnostic question typically has three characteristics:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -302,7 +300,6 @@ Consider a question about motion:
 > A ball rolls across a smooth surface after being pushed. Why does it keep moving?
 
 A traditional test might ask for the correct law. A diagnostic version offers explanations that correspond to different mental models:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -329,7 +326,6 @@ Research on science assessment emphasises that formative assessment becomes powe
 
 Practical diagnostic questions often focus on:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * Prediction before observation.
@@ -342,21 +338,17 @@ Practical diagnostic questions often focus on:
 
 The explanation matters as much as the choice itself.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/amaBwt105SA" title="Overcoming Student Misconceptions –Barriers to Understanding Science | mini-STEMposium" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=amaBwt105SA" target="_blank" rel="noopener noreferrer">Overcoming Student Misconceptions –Barriers to Understanding Science | mini-STEMposium</a></p><p class="youtube-embed-meta">Channel: Accelerate Learning &middot; Views: 1.2K &middot; Uploaded: July 2020 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=amaBwt105SA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=amaBwt105SA">Open on YouTube</a></p></div></div></div>
-
 ## How Distractors Map to Common Misconceptions
 
 The most effective multiple-choice diagnostic questions use distractors deliberately. A distractor is an incorrect option, but in diagnostic assessment it is not merely a wrong answer. It is a representation of a known misconception.
 
-Research on concept inventories and diagnostic instruments shows that high-quality distractors are often developed from interviews, classroom observations and written student explanations. The distractors are built from actual student thinking rather than guesses about what students might misunderstand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5426623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCDiagnostic of students&#x27; misconceptions using the Biological...by AC Queloz · 2017 · Cited by 82 — Concept inventories, constructed ba...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6524712/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govMultiple-Choice Item Distractor Development Using Topic...by J Shin · 2019 · Cited by 130 — We describe and demonstrate a systema...</span></span></span>
+Research on concept inventories and diagnostic instruments shows that high-quality distractors are often developed from interviews, classroom observations and written student explanations. The distractors are built from actual student thinking rather than guesses about what students might misunderstand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5426623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Diagnostic of students&#x27; misconceptions using the Biological...by AC Queloz · 2017 · Cited by 82 — Concept inventories, constructed ba...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6524712/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govMultiple-Choice Item Distractor Development Using Topic...by J Shin · 2019 · Cited by 130 — We describe and demonstrate a systema...</span></span></span>
 
 Consider a biology example:
 
 > Where does most of a tree's mass come from as it grows?
 
 Possible answers might include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -371,8 +363,7 @@ The incorrect options are not random. They correspond to common beliefs that pla
 
 This approach underlies many concept inventories, which are specialised assessment tools designed to measure conceptual understanding rather than factual recall. Unlike ordinary tests, concept inventories undergo extensive development to ensure that distractors correspond to common misconceptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Concept_inventory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Concept inventory</span><span class="citation-popover-snippet">October 1, 2025 — A concept inventory is a criterion-referenced test designed to help determine whether a student has an accurate working...</span><span class="citation-popover-meta">Published: October 1, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/23752696.2018.1433546%40rhep20.2018.3.issue-V1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">23752696.2018.1433546@rhep20.2018.3.issue V1</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineUsing concept inventories to measure understandingby D Sands · 2018 · Cited by 154 — A concept inventory is a mult...</span></span></span>
 
-Physics education provides one of the best-known examples through the Force Concept Inventory, which was created to uncover persistent misconceptions about Newtonian mechanics. Later analyses of student response patterns found that incorrect answers often cluster into recognisable misconception groups, demonstrating that wrong answers frequently reflect coherent alternative models rather than isolated mistakes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vtechworks.lib.vt.edu/items/e308cf67-e65b-4e81-9893-860174de0214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vtechworks.lib.vt.edu">[VTechWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vtechworks.lib.vt.edu</span><span class="citation-popover-title">ech Works Rethinking the Force Concept Inventory</span><span class="citation-popover-snippet">VTechWorksRethinking the Force Concept Inventory - VTechWorksby MA Norris · 2021 · Cited by 6 — Distractor analysis of concept inventory...</span></span></span>
-
+Physics education provides one of the best-known examples through the Force Concept Inventory, which was created to uncover persistent misconceptions about Newtonian mechanics. Later analyses of student response patterns found that incorrect answers often cluster into recognisable misconception groups, demonstrating that wrong answers frequently reflect coherent alternative models rather than isolated mistakes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vtechworks.lib.vt.edu/items/e308cf67-e65b-4e81-9893-860174de0214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vtechworks.lib.vt.edu">[VTechWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vtechworks.lib.vt.edu</span><span class="citation-popover-title">ech Works Rethinking the Force Concept Inventory</span><span class="citation-popover-snippet">Rethinking the Force Concept Inventory - VTechWorksby MA Norris · 2021 · Cited by 6 — Distractor analysis of concept inventory...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_diagnostic_questions_649d62-Illustration-2-dark.svg" | relative_url }}" alt="Diagnostics illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_diagnostic_questions_649d62-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_diagnostic_questions_649d62-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Plausible Wrong Answers Matter
@@ -382,7 +373,6 @@ A poor distractor is obviously wrong. Students reject it without revealing anyth
 A strong distractor feels plausible because it mirrors everyday reasoning.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -394,10 +384,9 @@ For example:
 
 When students choose these options, teachers gain access to the explanatory framework behind the answer.
 
-Research on distractor design increasingly treats these options as diagnostic tools rather than test fillers. Their value lies in revealing conceptual gaps that can be addressed through instruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tipsforteachers.co.uk/wp-content/uploads/2025/06/Research-Developing-Analyzing-and-Using-Distractors-for-Multiple-Choice-Tests-in-Education.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tipsforteachers.co.uk">[Tips for Teachers by Craig Barton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tipsforteachers.co.uk</span><span class="citation-popover-snippet">Tips for Teachers by Craig BartonDeveloping, Analyzing, and Using Distractors for Multiple-...by MJ Gierl · 2017 · Cited by 338 — In thi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5426623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCDiagnostic of students&#x27; misconceptions using the Biological...by AC Queloz · 2017 · Cited by 82 — Concept inventories, constructed ba...</span></span></span>
+Research on distractor design increasingly treats these options as diagnostic tools rather than test fillers. Their value lies in revealing conceptual gaps that can be addressed through instruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tipsforteachers.co.uk/wp-content/uploads/2025/06/Research-Developing-Analyzing-and-Using-Distractors-for-Multiple-Choice-Tests-in-Education.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tipsforteachers.co.uk">[Tips for Teachers by Craig Barton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tipsforteachers.co.uk</span><span class="citation-popover-snippet">Tips for Teachers by Craig BartonDeveloping, Analyzing, and Using Distractors for Multiple-...by MJ Gierl · 2017 · Cited by 338 — In thi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5426623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Diagnostic of students&#x27; misconceptions using the Biological...by AC Queloz · 2017 · Cited by 82 — Concept inventories, constructed ba...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WADxg5eBwPQ" title="The Plane Crash Trapped Me With 5 Beautiful Women, Each More Dangerous Than The Island" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WADxg5eBwPQ" target="_blank" rel="noopener noreferrer">The Plane Crash Trapped Me With 5 Beautiful Women, Each More Dangerous Than The Island</a></p><p class="youtube-embed-meta">Channel: Your Manhwa Recap</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WADxg5eBwPQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WADxg5eBwPQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/amaBwt105SA" title="Overcoming Student Misconceptions –Barriers to Understanding Science | mini-STEMposium" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=amaBwt105SA" target="_blank" rel="noopener noreferrer">Overcoming Student Misconceptions –Barriers to Understanding Science | mini-STEMposium</a></p><p class="youtube-embed-meta">Channel: Accelerate Learning &middot; Views: 1.2K &middot; Uploaded: July 2020 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=amaBwt105SA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=amaBwt105SA">Open on YouTube</a></p></div></div></div>
 
 ## Using Explanations as Formative Assessment
 
@@ -405,10 +394,9 @@ Multiple-choice questions can reveal misconceptions, but explanations often reve
 
 A student may select the scientifically correct answer for the wrong reason. Conversely, a student may choose an incorrect option while demonstrating partially correct reasoning.
 
-This is why many diagnostic approaches combine answer selection with explanation prompts. Two-tier and multi-tier diagnostic assessments are built around this principle. Students first select an answer and then explain why they chose it. Researchers have found that this structure improves the identification of misconceptions because it distinguishes guessing from genuine understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ijlter.org/index.php/ijlter/article/view/1650/0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijlter.org">[IJLTER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijlter.org</span><span class="citation-popover-snippet">IJLTERThe Development of Two-Tier Instrument Based On...The Development of Two-Tier Instrument Based On Distractor to Assess Conceptual...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2071-1050/17/7/3145" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Effectiveness and Sustainability of Tier Diagnostic...by H Ma · 2025 · Cited by 14 — Misconception tier diagnostic technologies (MTD...</span></span></span>
+This is why many diagnostic approaches combine answer selection with explanation prompts. Two-tier and multi-tier diagnostic assessments are built around this principle. Students first select an answer and then explain why they chose it. Researchers have found that this structure improves the identification of misconceptions because it distinguishes guessing from genuine understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ijlter.org/index.php/ijlter/article/view/1650/0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijlter.org">[IJLTER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijlter.org</span><span class="citation-popover-snippet">The Development of Two-Tier Instrument Based On...The Development of Two-Tier Instrument Based On Distractor to Assess Conceptual...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2071-1050/17/7/3145" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Effectiveness and Sustainability of Tier Diagnostic...by H Ma · 2025 · Cited by 14 — Misconception tier diagnostic technologies (MTD...</span></span></span>
 
 In classroom practice, explanations do not need to be lengthy. Teachers often use:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -423,7 +411,6 @@ In classroom practice, explanations do not need to be lengthy. Teachers often us
 The important feature is that students reveal the reasoning process.
 
 National Research Council reports on learning and assessment have repeatedly argued that formative assessment should make student thinking visible. When teachers can see the ideas students are using, they are better positioned to support conceptual change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/9457/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesHow People Learn: Bridging Research and Practice (1999)The use of frequent formative assessment helps make students&#x27; th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/9457/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesHow People Learn: Bridging Research and Practice (1999)The use of frequent formative assessment helps make students&#x27; th...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_diagnostic_questions_649d62-Illustration-3-dark.svg" | relative_url }}" alt="Diagnostics illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_diagnostic_questions_649d62-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_diagnostic_questions_649d62-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Diagnostic Questions at Lesson “Hinge Points”
@@ -443,9 +430,6 @@ For example:
 The responses determine the next instructional move.
 
 A class in which most students select the same misconception requires a different response from a class where understanding is already developing.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UpA6RdE0aYo" title="Teaching Strategies: Cognitive Load Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UpA6RdE0aYo" target="_blank" rel="noopener noreferrer">Teaching Strategies: Cognitive Load Theory</a></p><p class="youtube-embed-meta">Channel: McGraw Hill PreK-12</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UpA6RdE0aYo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UpA6RdE0aYo">Open on YouTube</a></p></div></div></div>
 
 ## Common Mistakes When Using Diagnostic Questions
 
@@ -868,160 +852,160 @@ The most effective diagnostic questions therefore do more than measure learning.
 
 1. <a id="endnote-1"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/classroom-assessment-and-the-national-science-education-standards-1nbsped-9780309504645-9780309069984.html](https://dokumen.pub/classroom-assessment-and-the-national-science-education-standards-1nbsped-9780309504645-9780309069984.html)  
+   Link: <a href="https://dokumen.pub/classroom-assessment-and-the-national-science-education-standards-1nbsped-9780309504645-9780309069984.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/classroom-assessment-and-the-national-science-education-standards-1nbsped-9780309504645-9780309069984.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ment, particularly formative assessment, is beneficial for student learning; and a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: fame-michigan.nyc3.cdn.digitaloceanspaces.com  
    Title: The Formative Assessment Process: Scienceby AW Gotwals —  
-   Link: [https://fame-michigan.nyc3.cdn.digitaloceanspaces.com/_legacy/wp-content/uploads/2022/05/FAMEGuide_Science.pdf](https://fame-michigan.nyc3.cdn.digitaloceanspaces.com/_legacy/wp-content/uploads/2022/05/FAMEGuide_Science.pdf)  
+   Link: <a href="https://fame-michigan.nyc3.cdn.digitaloceanspaces.com/_legacy/wp-content/uploads/2022/05/FAMEGuide_Science.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fame-michigan.nyc3.cdn.digitaloceanspaces.com/_legacy/wp-content/uploads/2022/05/FAMEGuide_Science.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Education (National Research Council. [NRC], 2012)iv. The Framework summarizes research that suggests that students learn best wh...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0191491X22000633](https://www.sciencedirect.com/science/article/abs/pii/S0191491X22000633)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191491X22000633" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191491X22000633</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Formative assessment practices in science educationby V Atasoy · 2022 · Cited by 29 — This study aimed to examine qualitative studies on...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5426623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5426623/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCDiagnostic of students&#x27; misconceptions using the Biological...by AC Queloz · 2017 · Cited by 82 — Concept inventories, constructed ba...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5426623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5426623/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Diagnostic of students&#x27; misconceptions using the Biological...by AC Queloz · 2017 · Cited by 82 — Concept inventories, constructed ba...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6524712/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6524712/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6524712/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6524712/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govMultiple-Choice Item Distractor Development Using Topic...by J Shin · 2019 · Cited by 130 — We describe and demonstrate a systema...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Concept inventory  
-   Link: [https://en.wikipedia.org/wiki/Concept_inventory](https://en.wikipedia.org/wiki/Concept_inventory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Concept_inventory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Concept_inventory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2025 — A concept inventory is a criterion-referenced test designed to help determine whether a student has an accurate working...</p></details>
    Published: October 1, 2025  
 
 7. <a id="endnote-7"></a>
    Source: ijlter.org  
-   Link: [https://www.ijlter.org/index.php/ijlter/article/view/1650/0](https://www.ijlter.org/index.php/ijlter/article/view/1650/0)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IJLTERThe Development of Two-Tier Instrument Based On...The Development of Two-Tier Instrument Based On Distractor to Assess Conceptual...</p></details>
+   Link: <a href="https://www.ijlter.org/index.php/ijlter/article/view/1650/0" target="_blank" rel="noopener noreferrer nofollow">https://www.ijlter.org/index.php/ijlter/article/view/1650/0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Development of Two-Tier Instrument Based On...The Development of Two-Tier Instrument Based On Distractor to Assess Conceptual...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2071-1050/17/7/3145](https://www.mdpi.com/2071-1050/17/7/3145)  
+   Link: <a href="https://www.mdpi.com/2071-1050/17/7/3145" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/17/7/3145</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effectiveness and Sustainability of Tier Diagnostic...by H Ma · 2025 · Cited by 14 — Misconception tier diagnostic technologies (MTD...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: mdpi.com  
    Title: Rethinking Science Education Practices: Shifting from Investigation  
-   Link: [https://www.mdpi.com/2227-7102/15/1/73](https://www.mdpi.com/2227-7102/15/1/73)  
+   Link: <a href="https://www.mdpi.com/2227-7102/15/1/73" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7102/15/1/73</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 13, 2025 — This paper introduces a Comprehensive Inquiry-Based Science Education (CIBSE) Framework, grounded in responsive teachi...</p></details>
    Published: January 13, 2025  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1871187124002712](https://www.sciencedirect.com/science/article/abs/pii/S1871187124002712)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1871187124002712" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1871187124002712</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of distractors in mathematics questions and their...by AZ Özdemir · 2025 · Cited by 6 — The aim of this study is to examine whe...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/9457/chapter/4](https://www.nationalacademies.org/read/9457/chapter/4)  
+   Link: <a href="https://www.nationalacademies.org/read/9457/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/9457/chapter/4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesHow People Learn: Bridging Research and Practice (1999)The use of frequent formative assessment helps make students&#x27; th...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/9847/chapter/4](https://www.nationalacademies.org/read/9847/chapter/4)  
+   Link: <a href="https://www.nationalacademies.org/read/9847/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/9847/chapter/4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 2 The Case for Strengthening Assessment in the Science Classroom.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/11625/chapter/](https://www.nationalacademies.org/read/11625/chapter/)  
+   Link: <a href="https://www.nationalacademies.org/read/11625/chapter/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/11625/chapter/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2007). Taking Science to School: Learning and Teaching Science in Grades K-8. Committee on Science Learning...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/5287/chapter/5](https://www.nationalacademies.org/read/5287/chapter/5)  
+   Link: <a href="https://www.nationalacademies.org/read/5287/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/5287/chapter/5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Descriptions and examples of some common misconceptions in science. Methods to identify misconceptions.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: tandfonline.com  
    Title: 23752696.2018.1433546@rhep20.2018.3.issue V1  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/23752696.2018.1433546%40rhep20.2018.3.issue-V1](https://www.tandfonline.com/doi/full/10.1080/23752696.2018.1433546%40rhep20.2018.3.issue-V1)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23752696.2018.1433546%40rhep20.2018.3.issue-V1" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23752696.2018.1433546%40rhep20.2018.3.issue-V1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineUsing concept inventories to measure understandingby D Sands · 2018 · Cited by 154 — A concept inventory is a mult...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: vtechworks.lib.vt.edu  
    Title: ech Works Rethinking the Force Concept Inventory  
-   Link: [https://vtechworks.lib.vt.edu/items/e308cf67-e65b-4e81-9893-860174de0214](https://vtechworks.lib.vt.edu/items/e308cf67-e65b-4e81-9893-860174de0214)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VTechWorksRethinking the Force Concept Inventory - VTechWorksby MA Norris · 2021 · Cited by 6 — Distractor analysis of concept inventory...</p></details>
+   Link: <a href="https://vtechworks.lib.vt.edu/items/e308cf67-e65b-4e81-9893-860174de0214" target="_blank" rel="noopener noreferrer nofollow">https://vtechworks.lib.vt.edu/items/e308cf67-e65b-4e81-9893-860174de0214</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking the Force Concept Inventory - VTechWorksby MA Norris · 2021 · Cited by 6 — Distractor analysis of concept inventory...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: tipsforteachers.co.uk  
-   Link: [https://tipsforteachers.co.uk/wp-content/uploads/2025/06/Research-Developing-Analyzing-and-Using-Distractors-for-Multiple-Choice-Tests-in-Education.pdf](https://tipsforteachers.co.uk/wp-content/uploads/2025/06/Research-Developing-Analyzing-and-Using-Distractors-for-Multiple-Choice-Tests-in-Education.pdf)  
+   Link: <a href="https://tipsforteachers.co.uk/wp-content/uploads/2025/06/Research-Developing-Analyzing-and-Using-Distractors-for-Multiple-Choice-Tests-in-Education.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tipsforteachers.co.uk/wp-content/uploads/2025/06/Research-Developing-Analyzing-and-Using-Distractors-for-Multiple-Choice-Tests-in-Education.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tips for Teachers by Craig BartonDeveloping, Analyzing, and Using Distractors for Multiple-...by MJ Gierl · 2017 · Cited by 338 — In thi...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/9596/chapter/5](https://www.nationalacademies.org/read/9596/chapter/5)  
+   Link: <a href="https://www.nationalacademies.org/read/9596/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/9596/chapter/5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 4 Classroom Assessment and InquiryThe National Science Education Standards point out that “assessments provide an operational de...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchschool.org.uk  
    Title: challenging misconceptions in science  
-   Link: [https://researchschool.org.uk/news/challenging-misconceptions-in-science](https://researchschool.org.uk/news/challenging-misconceptions-in-science)  
+   Link: <a href="https://researchschool.org.uk/news/challenging-misconceptions-in-science" target="_blank" rel="noopener noreferrer nofollow">https://researchschool.org.uk/news/challenging-misconceptions-in-science</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They go beyond a typical multiple-choice...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: tipsforteachers.co.uk  
-   Link: [https://tipsforteachers.co.uk/research-using-diagnostic-classroom-assessment-one-question-at-a-time/](https://tipsforteachers.co.uk/research-using-diagnostic-classroom-assessment-one-question-at-a-time/)  
+   Link: <a href="https://tipsforteachers.co.uk/research-using-diagnostic-classroom-assessment-one-question-at-a-time/" target="_blank" rel="noopener noreferrer nofollow">https://tipsforteachers.co.uk/research-using-diagnostic-classroom-assessment-one-question-at-a-time/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tips for Teachers by Craig BartonResearch: Using Diagnostic Classroom Assessment: One...29 Nov 2024 — Use diagnostic items daily as a fo...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/300823945_An_Analysis_of_Science_Concept_Inventories_and_Diagnostic_Tests_Commonalities_and_Differences](https://www.researchgate.net/publication/300823945_An_Analysis_of_Science_Concept_Inventories_and_Diagnostic_Tests_Commonalities_and_Differences)  
+   Link: <a href="https://www.researchgate.net/publication/300823945_An_Analysis_of_Science_Concept_Inventories_and_Diagnostic_Tests_Commonalities_and_Differences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/300823945_An_Analysis_of_Science_Concept_Inventories_and_Diagnostic_Tests_Commonalities_and_Differences</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An Analysis of Science Concept Inventories and...11 Apr 2016 — This research study was a literature review of over seventy science...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: flaguide.org  
-   Link: [https://www.flaguide.org/extra/download/cat/diagnostic/diagnostic.pdf](https://www.flaguide.org/extra/download/cat/diagnostic/diagnostic.pdf)  
+   Link: <a href="https://www.flaguide.org/extra/download/cat/diagnostic/diagnostic.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.flaguide.org/extra/download/cat/diagnostic/diagnostic.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual Diagnostic TestsA conceptual diagnostic test aims to assess students&#x27; conceptual understanding of key ideas in a discipline, e...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: diagnosticquestions.com  
-   Link: [https://diagnosticquestions.com/](https://diagnosticquestions.com/)  
+   Link: <a href="https://diagnosticquestions.com/" target="_blank" rel="noopener noreferrer nofollow">https://diagnosticquestions.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Diagnostic QuestionsDiagnostic Questions is a world leading assessment tool that provides detailed insights into student understanding in...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: nwabr.org  
-   Link: [https://www.nwabr.org/sites/default/files/0Formative_Assessment_HinR.pdf](https://www.nwabr.org/sites/default/files/0Formative_Assessment_HinR.pdf)  
+   Link: <a href="https://www.nwabr.org/sites/default/files/0Formative_Assessment_HinR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nwabr.org/sites/default/files/0Formative_Assessment_HinR.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Formative AssessmentStudents begin the unit with an activity in which they consider their prior knowledge and identify misconceptions the...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/national](https://www.merriam-webster.com/dictionary/national)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/national" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/national</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NATIONAL Definition &amp; Meaning3 days ago — 1. of or relating to a nation; national boundaries; the national flag. 2. nationalist. 3. compr...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/5673406_Recognizing_Student_Misconceptions_through_Ed%27s_Tools_and_the_Biology_Concept_Inventory](https://www.researchgate.net/publication/5673406_Recognizing_Student_Misconceptions_through_Ed%27s_Tools_and_the_Biology_Concept_Inventory)  
+   Link: <a href="https://www.researchgate.net/publication/5673406_Recognizing_Student_Misconceptions_through_Ed%27s_Tools_and_the_Biology_Concept_Inventory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5673406_Recognizing_Student_Misconceptions_through_Ed%27s_Tools_and_the_Biology_Concept_Inventory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recognizing Student Misconceptions through Ed&#x27;s Tools...Concept inventories can provide diagnostic results to help identify students&#x27; un...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: issues.org  
-   Link: [https://issues.org/alberts-2/](https://issues.org/alberts-2/)  
+   Link: <a href="https://issues.org/alberts-2/" target="_blank" rel="noopener noreferrer nofollow">https://issues.org/alberts-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Restoring Science to Science EducationNational Research Council, Taking Science to School: Learning and Teaching Science in Grades K-8, R...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: ejmste.com  
-   Link: [https://www.ejmste.com/download/a-review-and-comparison-of-diagnostic-instruments-to-identify-students-misconceptions-in-science-4429](https://www.ejmste.com/download/a-review-and-comparison-of-diagnostic-instruments-to-identify-students-misconceptions-in-science-4429)  
+   Link: <a href="https://www.ejmste.com/download/a-review-and-comparison-of-diagnostic-instruments-to-identify-students-misconceptions-in-science-4429" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/a-review-and-comparison-of-diagnostic-instruments-to-identify-students-misconceptions-in-science-4429</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eurasia JournalA Review and Comparison of Diagnostic Instruments to...by DK Gurel · 2015 · Cited by 937 — This article addresses the imp...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: api.pageplace.de  
-   Link: [https://api.pageplace.de/preview/DT0400.9781935155683_A51120942/preview-9781935155683_A51120942.pdf](https://api.pageplace.de/preview/DT0400.9781935155683_A51120942/preview-9781935155683_A51120942.pdf)  
+   Link: <a href="https://api.pageplace.de/preview/DT0400.9781935155683_A51120942/preview-9781935155683_A51120942.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781935155683_A51120942/preview-9781935155683_A51120942.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science LearningSection 3 continues with a chapter summarizing the National Research. Council&#x27;s (NRC) report on design principles for sta...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/334535943_A_Review_of_Students%27_Common_Misconceptions_in_Science_and_Their_Diagnostic_Assessment_Tools](https://www.researchgate.net/publication/334535943_A_Review_of_Students%27_Common_Misconceptions_in_Science_and_Their_Diagnostic_Assessment_Tools)  
+   Link: <a href="https://www.researchgate.net/publication/334535943_A_Review_of_Students%27_Common_Misconceptions_in_Science_and_Their_Diagnostic_Assessment_Tools" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334535943_A_Review_of_Students%27_Common_Misconceptions_in_Science_and_Their_Diagnostic_Assessment_Tools</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of Students&#x27; Common Misconceptions in Science...6 Mar 2026 — This study revealed that 33 physics, 12 chemistry, and 15 biology...</p></details>

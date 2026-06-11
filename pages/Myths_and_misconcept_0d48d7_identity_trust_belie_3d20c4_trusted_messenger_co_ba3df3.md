@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f
 - Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_influencer_source_cr_0dc5b4
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - identity
 - trusted-fixes
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - identity
 - trusted-fixes
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Corrections work better when they protect the listener's dignity while separating a trusted person from a false claim.
 hero_summary: Corrections work better when they protect the listener's dignity while separating a trusted person from a false claim.
 layout: default
 permalink: /trusted-fixes/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /identity/
 nav_short_title: Trusted Fixes
 title: How corrections avoid sounding like attacks
-title_full: How corrections avoid sounding like attacks | Identity
+title_full: How corrections avoid sounding like attacks
 display_title_short: Trusted Fixes
 display_title: Trusted Fixes
 heading_title: How corrections avoid sounding like attacks
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Trusted People Make Myths Stick | Mythcraft
+parent_title: Why Trusted People Make Myths Stick
 parent_permalink: /identity/
 parent_nav_short_title: Identity
 parent_heading_title: Why Trusted People Make Myths Stick
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why familiar influencers can sound reliable
 up_link:
   basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
@@ -259,7 +259,7 @@ prev_link:
   permalink: /influencers-5b6d7d/
   short_title: Influencers
   heading_title: Why familiar influencers can sound reliable
-date: '2026-06-09 05:20:32 '
+date: '2026-06-11 22:29:20 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_trusted_messenger_co_ba3df3-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_trusted_messenger_co_ba3df3-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_tr
 
 Correcting a myth is not only a factual task. It is often a social one. People can accept new information more easily when the [correction]({{ 'correction/' | relative_url }}) does not force them to choose between accuracy and belonging. A myth tied to family traditions, political [identity]({{ 'identity/' | relative_url }}), religious community, professional pride or personal intelligence can become difficult to challenge because rejecting the claim may feel like rejecting the people associated with it.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_trusted_messenger_co_ba3df3-Illustration-1-dark.svg" | relative_url }}" alt="Trusted Fixes illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_trusted_messenger_co_ba3df3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_trusted_messenger_co_ba3df3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on misinformation and identity-protective reasoning suggests that [corrections]({{ 'corrections/' | relative_url }}) work best when they reduce threat rather than increase it. Trusted messengers can play a crucial role because they are often seen as part of the listener’s group rather than an external critic. The most effective interventions tend to separate respect for the person from rejection of the false claim, allowing people to update beliefs without public humiliation or loss of status. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNMisconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://informalscience.org/identity/dan-kahan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informalscience.org">[Informal Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informalscience.org</span><span class="citation-popover-snippet">Identity | Dan KahanDan Kahan&#x27;s identity-related work has focused on “identity protective cognition”, which refers to the tendency of ind...</span></span></span>
+Research on misinformation and identity-protective reasoning suggests that [corrections]({{ 'corrections/' | relative_url }}) work best when they reduce threat rather than increase it. Trusted messengers can play a crucial role because they are often seen as part of the listener’s group rather than an external critic. The most effective interventions tend to separate respect for the person from rejection of the false claim, allowing people to update beliefs without public humiliation or loss of status. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://informalscience.org/identity/dan-kahan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informalscience.org">[Informal Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informalscience.org</span><span class="citation-popover-snippet">Identity &#124; Dan KahanDan Kahan&#x27;s identity-related work has focused on “identity protective cognition”, which refers to the tendency of ind...</span></span></span>
 
 ## Why blunt debunking can trigger defensiveness
 
@@ -282,14 +281,13 @@ A direct statement such as “that’s nonsense” or “only uninformed people 
 
 This helps explain why highly educated people can still resist corrections. The barrier is not necessarily a lack of intelligence. It is often a concern about social consequences. If accepting a correction feels like admitting that one's family, political allies, religious community or trusted leaders were wrong, the psychological cost becomes much higher.
 
-Importantly, recent reviews of misinformation research suggest that fears of dramatic “[backfire]({{ 'backfire/' | relative_url }}) effects” have often been overstated. Corrections frequently help rather than harm. However, effectiveness still depends on how the correction is delivered and whether it generates unnecessary defensiveness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span>
+Importantly, recent reviews of misinformation research suggest that fears of dramatic “[backfire]({{ 'backfire/' | relative_url }}) effects” have often been overstated. Corrections frequently help rather than harm. However, effectiveness still depends on how the correction is delivered and whether it generates unnecessary defensiveness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span>
 
 ### The dignity principle
 
 One of the most practical lessons from communication research is that people become more receptive when their dignity remains intact.
 
 This means:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,10 +308,9 @@ People rarely evaluate claims in isolation. They ask whether the source understa
 
 A correction from an outsider may be factually stronger yet socially weaker than a correction from someone inside the listener's community. Trusted messengers reduce perceived hostility because they already possess relationship capital. The listener is less likely to assume malicious motives.
 
-Studies of misinformation correction on messaging platforms have found that people are more willing to engage with and share [debunking]({{ 'debunking/' | relative_url }}) material when it comes through strong social ties or trusted in-group connections. Research on WhatsApp misinformation, for example, found that close relationships can increase willingness to redistribute corrective information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dspace.mit.edu/bitstream/handle/1721.1/146161/3512964.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dspace.mit.edu">[DSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dspace.mit.edu</span><span class="citation-popover-snippet">DSpaceSocial Debunking of Misinformation on WhatsAppby I Pasquetto · 2022 · Cited by 87 — Our research design enables us to examine wheth...</span></span></span>
+Studies of misinformation correction on messaging platforms have found that people are more willing to engage with and share [debunking]({{ 'debunking/' | relative_url }}) material when it comes through strong social ties or trusted in-group connections. Research on WhatsApp misinformation, for example, found that close relationships can increase willingness to redistribute corrective information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dspace.mit.edu/bitstream/handle/1721.1/146161/3512964.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dspace.mit.edu">[DSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dspace.mit.edu</span><span class="citation-popover-snippet">Social Debunking of Misinformation on WhatsAppby I Pasquetto · 2022 · Cited by 87 — Our research design enables us to examine wheth...</span></span></span>
 
 This does not mean any familiar person automatically becomes persuasive. Trust generally combines several elements:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -324,8 +321,7 @@ This does not mean any familiar person automatically becomes persuasive. Trust g
 
 </div>
 
-A local pharmacist, community organiser, sports coach, religious leader or neighbourhood volunteer may sometimes outperform a distant institution because they are seen as understanding local concerns rather than issuing instructions from above. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: local.gov.uk">[Local]</a><span class="citation-popover" role="note"><span class="citation-popover-source">local.gov.uk</span><span class="citation-popover-title">leeds importance messenger not just message</span><span class="citation-popover-snippet">Local Government AssociationThe importance of the messenger, not just the message10 Mar 2022 — Local insight, taken before the first wave...</span></span></span>
-
+A local pharmacist, community organiser, sports coach, religious leader or neighbourhood volunteer may sometimes outperform a distant institution because they are seen as understanding local concerns rather than issuing instructions from above. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: local.gov.uk">[Local]</a><span class="citation-popover" role="note"><span class="citation-popover-source">local.gov.uk</span><span class="citation-popover-title">leeds importance messenger not just message</span><span class="citation-popover-snippet">ernment AssociationThe importance of the messenger, not just the message10 Mar 2022 — Local insight, taken before the first wave...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E4Rkf_JWbG4" title="S3 E8 Professor Neil and Zach talk Toxic Masculinity, parasocial relationships and content creation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E4Rkf_JWbG4" target="_blank" rel="noopener noreferrer">S3 E8 Professor Neil and Zach talk Toxic Masculinity, parasocial relationships and content creation</a></p><p class="youtube-embed-meta">Channel: Zachmentalloadcoach &middot; Views: 491 &middot; Uploaded: March 2024 &middot; Length: 1 hour 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E4Rkf_JWbG4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E4Rkf_JWbG4">Open on YouTube</a></p></div></div></div>
 
@@ -336,7 +332,6 @@ One powerful strategy is value alignment.
 Instead of framing a correction as a battle between informed and uninformed people, trusted messengers can frame it as consistent with the group's existing values.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -349,7 +344,7 @@ For example:
 
 The factual content may remain unchanged, but the social meaning shifts. The correction no longer signals group betrayal.
 
-Research on identity-protective cognition helps explain why this matters. People often evaluate evidence through the lens of group commitments. Information becomes easier to accept when acceptance does not threaten those commitments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNMisconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</span></span></span>
+Research on identity-protective cognition helps explain why this matters. People often evaluate evidence through the lens of group commitments. Information becomes easier to accept when acceptance does not threaten those commitments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</span></span></span>
 
 ## Using in-group trust without spreading new myths
 
@@ -363,7 +358,6 @@ One useful technique is to avoid portraying previous believers as villains.
 
 A trusted messenger might say:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “A lot of people heard that claim because it circulated widely.”
@@ -374,14 +368,12 @@ A trusted messenger might say:
 
 This framing creates distance between the listener and the myth. The myth becomes a mistaken claim that affected many people, not proof that the listener was foolish.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_trusted_messenger_co_ba3df3-Illustration-2-dark.svg" | relative_url }}" alt="Trusted Fixes illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_trusted_messenger_co_ba3df3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_trusted_messenger_co_ba3df3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Use the "truth first" approach
 
 Many misinformation researchers recommend leading with accurate information before discussing the false claim.
 
 Instead of repeatedly restating a myth, communicators can:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -402,16 +394,15 @@ A trusted messenger who says, “I used to think that too, then I found out…�
 
 The first message provides a model for changing one's mind without losing status. The second can make belief change feel humiliating.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R3pCAhm41ao" title="How communicators can identify and respond to vaccine misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R3pCAhm41ao" target="_blank" rel="noopener noreferrer">How communicators can identify and respond to vaccine misinformation</a></p><p class="youtube-embed-meta">Channel: PAHO TV &middot; Views: 187 &middot; Uploaded: May 2025 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R3pCAhm41ao" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R3pCAhm41ao">Open on YouTube</a></p></div></div></div>
 
 ## What successful community corrections look like
 
 Large public-health [campaigns]({{ 'campaigns/' | relative_url }}) provide some of the clearest examples of this approach in practice.
 
-During vaccine communication efforts, many organisations found that official statements alone were often insufficient in communities with low institutional trust. Local partnerships with faith leaders, neighbourhood groups, healthcare workers and community advocates became important channels for addressing rumours and fears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">how to talk about vaccines</span><span class="citation-popover-snippet">Don&#x27;t dismiss them; instead, acknowledge how they&#x27;re feeling and create space...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span>
+During vaccine communication efforts, many organisations found that official statements alone were often insufficient in communities with low institutional trust. Local partnerships with faith leaders, neighbourhood groups, healthcare workers and community advocates became important channels for addressing rumours and fears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">how to talk about vaccines</span><span class="citation-popover-snippet">Don&#x27;t dismiss them; instead, acknowledge how they&#x27;re feeling and create space...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span>
 
-In Leeds, local authorities reported that understanding community concerns and working through trusted local partners helped address misinformation and mistrust around vaccination. The emphasis was not merely on distributing facts but on identifying messengers who already possessed credibility within specific communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: local.gov.uk">[Local Government Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">local.gov.uk</span><span class="citation-popover-title">leeds importance messenger not just message</span><span class="citation-popover-snippet">Local Government AssociationThe importance of the messenger, not just the message10 Mar 2022 — Local insight, taken before the first wave...</span></span></span>
+In Leeds, local authorities reported that understanding community concerns and working through trusted local partners helped address misinformation and mistrust around vaccination. The emphasis was not merely on distributing facts but on identifying messengers who already possessed credibility within specific communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: local.gov.uk">[Local Government Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">local.gov.uk</span><span class="citation-popover-title">leeds importance messenger not just message</span><span class="citation-popover-snippet">ernment AssociationThe importance of the messenger, not just the message10 Mar 2022 — Local insight, taken before the first wave...</span></span></span>
 
 Similar patterns appeared in community-based outreach efforts described by journalists and public-health organisations. Campaigns often relied on familiar local figures, multilingual communication and testimonials from recognised community members rather than purely institutional messaging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/news/letter-from-the-uk/the-fight-against-vaccine-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Fight Against Vaccine Misinformation</span><span class="citation-popover-snippet">Vaccine hesitancy, partly fueled by misinformation, poses a significant challenge to achieving herd immunity. Fact-checking organizations...</span></span></span>
 
@@ -420,7 +411,6 @@ These examples illustrate an important distinction: trust cannot be manufactured
 ## Guardrails for respectful myth correction
 
 Trusted messengers can reduce backlash, but certain practices consistently increase risk.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_trusted_messenger_co_ba3df3-Illustration-3-dark.svg" | relative_url }}" alt="Trusted Fixes illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_trusted_messenger_co_ba3df3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_trusted_messenger_co_ba3df3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Avoid public humiliation
@@ -441,7 +431,6 @@ Corrections become less threatening when both sides are reminded that they want 
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Keeping children healthy.
@@ -452,7 +441,6 @@ Examples include:
 </div>
 
 Shared goals reduce the sense that the conversation is a contest between opposing camps.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZYQeAa9SBzw" title="Ep 64 Building Inclusion Through Sustainable Leadership + The EU Omnibus Proposal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZYQeAa9SBzw" target="_blank" rel="noopener noreferrer">Ep 64 Building Inclusion Through Sustainable Leadership + The EU Omnibus Proposal</a></p><p class="youtube-embed-meta">Channel: HKU FinTech &middot; Views: 57 &middot; Uploaded: March 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZYQeAa9SBzw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZYQeAa9SBzw">Open on YouTube</a></p></div></div></div>
 
@@ -466,7 +454,7 @@ When people feel targeted, they may embrace the belief more strongly as a sign o
 
 The strongest corrections often succeed because trust already exists.
 
-Healthcare workers, teachers, local leaders and community organisations that maintain credibility over time have a reservoir of goodwill during moments of confusion or misinformation. Public-health research increasingly emphasises community engagement and relationship-building as foundations for effective responses to false claims rather than relying exclusively on reactive fact-checking after myths spread. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span>
+Healthcare workers, teachers, local leaders and community organisations that maintain credibility over time have a reservoir of goodwill during moments of confusion or misinformation. Public-health research increasingly emphasises community engagement and relationship-building as foundations for effective responses to false claims rather than relying exclusively on reactive fact-checking after myths spread. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span>
 
 ## The central lesson
 
@@ -870,152 +858,152 @@ A correction is more likely to succeed when it allows people to keep their digni
 
 1. <a id="endnote-1"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNMisconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: who.int  
    Title: how to talk about [vaccines](&#123;&#123; 'vaccines/' | relative_url &#125;&#125;)  
-   Link: [https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines](https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines)  
+   Link: <a href="https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t dismiss them; instead, acknowledge how they&#x27;re feeling and create space...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: who.int  
-   Link: [https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance/guidance/operations/communication](https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance/guidance/operations/communication)  
+   Link: <a href="https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance/guidance/operations/communication" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance/guidance/operations/communication</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccine safety communicationVaccine safety is a concern that continues to drive hesitancy and refusal in populations in low-and-middle in...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/359807700_Social_Debunking_of_Misinformation_on_WhatsApp_The_Case_for_Strong_and_In-group_Ties](https://www.researchgate.net/publication/359807700_Social_Debunking_of_Misinformation_on_WhatsApp_The_Case_for_Strong_and_In-group_Ties)  
+   Link: <a href="https://www.researchgate.net/publication/359807700_Social_Debunking_of_Misinformation_on_WhatsApp_The_Case_for_Strong_and_In-group_Ties" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359807700_Social_Debunking_of_Misinformation_on_WhatsApp_The_Case_for_Strong_and_In-group_Ties</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Debunking of Misinformation on WhatsAppA cross-cultural study in the US, Singapore, and Turkey revealed that users who have greate...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: who.int  
-   Link: [https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis](https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis)  
+   Link: <a href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — The COVID-19 pandemic underscored the necess...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/317603082_Misinformation_and_its_Correction_Cognitive_Mechanisms_and_Recommendations_for_Mass_Communication](https://www.researchgate.net/publication/317603082_Misinformation_and_its_Correction_Cognitive_Mechanisms_and_Recommendations_for_Mass_Communication)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateMisinformation and its Correction: Cognitive Mechanisms...December 31, 2018 — Based on this notion, one recommendation to “m...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/317603082_Misinformation_and_its_Correction_Cognitive_Mechanisms_and_Recommendations_for_Mass_Communication" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317603082_Misinformation_and_its_Correction_Cognitive_Mechanisms_and_Recommendations_for_Mass_Communication</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and its Correction: Cognitive Mechanisms...December 31, 2018 — Based on this notion, one recommendation to “m...</p></details>
    Published: December 31, 2018  
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12184151/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12184151/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCBuilding trust and equity in vaccine communication through...by T Sommers · 2025 · Cited by 22 — Community engagement (CE) strategies...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12184151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12184151/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Building trust and equity in vaccine communication through...by T Sommers · 2025 · Cited by 22 — Community engagement (CE) strategies...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Tackling disinformation and misinformation.Read more  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12872406/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12872406/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCEffective communication and public engagement strategies to...by S Cruickshank · 2025 — The 5 Cs to tackle declining vaccine uptake...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12872406/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12872406/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective communication and public engagement strategies to...by S Cruickshank · 2025 — The 5 Cs to tackle declining vaccine uptake...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0264410X25007716](https://www.sciencedirect.com/science/article/pii/S0264410X25007716)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0264410X25007716" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0264410X25007716</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3.3.5. Challenge: bandwidth and...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: who.int  
    Title: policy brief covid 19 rcce  
-   Link: [https://www.who.int/docs/default-source/coronaviruse/policy-briefs/policy-brief_covid-19_rcce.pdf?download=true&sfvrsn=ada67c54_4](https://www.who.int/docs/default-source/coronaviruse/policy-briefs/policy-brief_covid-19_rcce.pdf?download=true&sfvrsn=ada67c54_4)  
+   Link: <a href="https://www.who.int/docs/default-source/coronaviruse/policy-briefs/policy-brief_covid-19_rcce.pdf?download=true&amp;sfvrsn=ada67c54_4" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/default-source/coronaviruse/policy-briefs/policy-brief_covid-19_rcce.pdf?download=true&amp;sfvrsn=ada67c54_4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Building trust through risk communication and community...WHO Policy Brief: Building trust through risk communication and community enga...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0268401224000288](https://www.sciencedirect.com/science/article/pii/S0268401224000288)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0268401224000288" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0268401224000288</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media trust: Fighting misinformation in the time of crisisby M Shahbazi · 2024 · Cited by 198 — This research looks at the utilisa...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: informalscience.org  
-   Link: [https://informalscience.org/identity/dan-kahan/](https://informalscience.org/identity/dan-kahan/)  
+   Link: <a href="https://informalscience.org/identity/dan-kahan/" target="_blank" rel="noopener noreferrer nofollow">https://informalscience.org/identity/dan-kahan/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity | Dan KahanDan Kahan&#x27;s identity-related work has focused on “identity protective cognition”, which refers to the tendency of ind...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: emc-lab.org  
    Title: ecker.2022.nrp preprint  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker [Memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Cognition Lab1 The Psychological Drivers of Misinformation Belief and its...by UKH Ecker · Cited by 1916 — Such correctio...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: dspace.mit.edu  
-   Link: [https://dspace.mit.edu/bitstream/handle/1721.1/146161/3512964.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/146161/3512964.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DSpaceSocial Debunking of Misinformation on WhatsAppby I Pasquetto · 2022 · Cited by 87 — Our research design enables us to examine wheth...</p></details>
+   Link: <a href="https://dspace.mit.edu/bitstream/handle/1721.1/146161/3512964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dspace.mit.edu/bitstream/handle/1721.1/146161/3512964.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Debunking of Misinformation on WhatsAppby I Pasquetto · 2022 · Cited by 87 — Our research design enables us to examine wheth...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: local.gov.uk  
    Title: leeds importance messenger not just message  
-   Link: [https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message](https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Local Government AssociationThe importance of the messenger, not just the message10 Mar 2022 — Local insight, taken before the first wave...</p></details>
+   Link: <a href="https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ernment AssociationThe importance of the messenger, not just the message10 Mar 2022 — Local insight, taken before the first wave...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: newyorker.com  
    Title: The New Yorker The Fight Against Vaccine Misinformation  
-   Link: [https://www.newyorker.com/news/letter-from-the-uk/the-fight-against-vaccine-misinformation](https://www.newyorker.com/news/letter-from-the-uk/the-fight-against-vaccine-misinformation)  
+   Link: <a href="https://www.newyorker.com/news/letter-from-the-uk/the-fight-against-vaccine-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/news/letter-from-the-uk/the-fight-against-vaccine-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccine hesitancy, partly fueled by misinformation, poses a significant challenge to achieving herd immunity. Fact-checking organizations...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: asc.upenn.edu  
-   Link: [https://www.asc.upenn.edu/news-events/news/research-identifies-factors-make-correcting-misinformation-about-science-more-successful](https://www.asc.upenn.edu/news-events/news/research-identifies-factors-make-correcting-misinformation-about-science-more-successful)  
+   Link: <a href="https://www.asc.upenn.edu/news-events/news/research-identifies-factors-make-correcting-misinformation-about-science-more-successful" target="_blank" rel="noopener noreferrer nofollow">https://www.asc.upenn.edu/news-events/news/research-identifies-factors-make-correcting-misinformation-about-science-more-successful</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifies Factors That Make Correcting...20 Jun 2023 — A new study from PIK Professor Dolores Albarracín and Research Associate Man-pui...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: eprints.icstudies.org.uk  
-   Link: [https://eprints.icstudies.org.uk/269/5/VACCINE%20HESITANCY%20V5a%20amended%20title.pdf](https://eprints.icstudies.org.uk/269/5/VACCINE%20HESITANCY%20V5a%20amended%20title.pdf)  
+   Link: <a href="https://eprints.icstudies.org.uk/269/5/VACCINE%20HESITANCY%20V5a%20amended%20title.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.icstudies.org.uk/269/5/VACCINE%20HESITANCY%20V5a%20amended%20title.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;community engagement remains an underutilised approach&#x27; in the context of vaccine hesitancy and consequently...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9829031/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9829031/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby HS Whitehead · 2023 · Cited by 154 — This review identifies some promising communication strategies for addressing vaccine misinfor...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9829031/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9829031/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by HS Whitehead · 2023 · Cited by 154 — This review identifies some promising communication strategies for addressing vaccine misinfor...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: cidob.org  
-   Link: [https://www.cidob.org/sites/default/files/2025-10/REGROUP%20focus%20paper%20no.%208.pdf](https://www.cidob.org/sites/default/files/2025-10/REGROUP%20focus%20paper%20no.%208.pdf)  
+   Link: <a href="https://www.cidob.org/sites/default/files/2025-10/REGROUP%20focus%20paper%20no.%208.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cidob.org/sites/default/files/2025-10/REGROUP%20focus%20paper%20no.%208.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ly a cognitive processing problem but is deeply tied to emotional manipulation, social identity...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: [https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide](https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide)  
+   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01755/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01755/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01755/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01755/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Cognition Through the Lens of Social Engineering...by R Montañez · 2020 · Cited by 188 — In this paper, we review human cognition...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf](https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf)  
+   Link: <a href="https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>individuals to selectively credit and dismiss evi- dence in patterns that reflect the...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: Tech Policy Press  
    Title: why people believe misinformation and resist correction  
-   Link: [https://techpolicy.press/why-people-believe-misinformation-and-resist-correction](https://techpolicy.press/why-people-believe-misinformation-and-resist-correction)  
+   Link: <a href="https://techpolicy.press/why-people-believe-misinformation-and-resist-correction" target="_blank" rel="noopener noreferrer nofollow">https://techpolicy.press/why-people-believe-misinformation-and-resist-correction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Jan 2022 — The authors suggest broader interventions to strengthen trust may yield results in the fight against misinformation.Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: cochrane.org  
    Title: role trusted evidence fighting vaccine disinformation  
-   Link: [https://www.cochrane.org/about-us/news/role-trusted-evidence-fighting-vaccine-disinformation](https://www.cochrane.org/about-us/news/role-trusted-evidence-fighting-vaccine-disinformation)  
+   Link: <a href="https://www.cochrane.org/about-us/news/role-trusted-evidence-fighting-vaccine-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/news/role-trusted-evidence-fighting-vaccine-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of trusted evidence in fighting vaccine disinformation16 Oct 2025 — The speakers highlighted how disinformation deliberately sow...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=E4Rkf_JWbG4](https://www.youtube.com/watch?v=E4Rkf_JWbG4)  
+   Link: <a href="https://www.youtube.com/watch?v=E4Rkf_JWbG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E4Rkf_JWbG4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Do Autistic People Feel Empathy? Debunking Research Myths with Critical Thinking Tools...</p></details>

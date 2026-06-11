@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - tone
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - tone
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Even accurate corrections can fail when they make people feel attacked, embarrassed or talked down to.
 hero_summary: Even accurate corrections can fail when they make people feel attacked, embarrassed or talked down to.
 layout: default
 permalink: /tone/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Tone
 title: Why Shaming People Makes Corrections Harder
-title_full: Why Shaming People Makes Corrections Harder | Mythcraft
+title_full: Why Shaming People Makes Corrections Harder
 display_title_short: Tone
 display_title: Tone
 heading_title: Why Shaming People Makes Corrections Harder
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 next_link:
   basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
-date: '2026-06-09 04:08:38 '
+date: '2026-06-11 21:53:11 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-overview.webp
@@ -501,11 +501,10 @@ image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-ov
 
 ## Introduction
 
-[Corrections]({{ 'corrections/' | relative_url }}) fail more easily when they sound like a verdict on the person rather than a repair to the information. In [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}), this matters because many false beliefs are held sincerely: people often repeat a claim because it came from a friend, a community, a trusted authority, or a story that made sense at the time. A correction that implies “only an idiot would believe that” may be factually accurate and socially counterproductive.
-
+[Corrections]({{ 'corrections/' | relative_url }}) fail more easily when they sound like a verdict on the person rather than a repair to the information. In myths and misconceptions, this matters because many false beliefs are held sincerely: people often repeat a claim because it came from a friend, a community, a trusted authority, or a story that made sense at the time. A [correction]({{ 'correction/' | relative_url }}) that implies “only an idiot would believe that” may be factually accurate and socially counterproductive.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-overview.webp" | relative_url }}" alt="Overview image for Tone" loading="eager" decoding="sync" fetchpriority="high">
-The practical aim is not to make every [correction]({{ 'correction/' | relative_url }}) soft, vague or endlessly deferential. It is to separate the false claim from the person’s dignity. Good correction language gives people a way to update without feeling publicly humiliated. That means preserving “face” where possible, using clear replacement information, avoiding moral performance, and reserving firmer language for cases where harm, repeated bad faith or public safety requires it. Research on misinformation correction suggests that corrections often work, but tone, trust, autonomy and social [identity]({{ 'identity/' | relative_url }}) shape whether people can accept them without becoming defensive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookBackfire Effect: A backfire effect is where a correction inadvertently increases...</span></span></span>
+The practical aim is not to make every correction soft, vague or endlessly deferential. It is to separate the false claim from the person’s dignity. Good correction language gives people a way to update without feeling publicly humiliated. That means preserving “face” where possible, using clear replacement information, avoiding moral performance, and reserving firmer language for cases where harm, repeated bad faith or public safety requires it. Research on misinformation correction suggests that corrections often work, but tone, trust, autonomy and social [identity]({{ 'identity/' | relative_url }}) shape whether people can accept them without becoming defensive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookBackfire Effect: A backfire effect is where a correction inadvertently increases...</span></span></span>
 
 ## Why shame makes accurate corrections harder to accept
 
@@ -513,7 +512,7 @@ A correction does two things at once. It offers new information, and it changes 
 
 This is where the idea of “face” is useful. In communication research, face refers to a person’s claimed social worth: wanting to be seen as competent, moral, reasonable and worthy of respect. Corrections are often face-threatening because they reveal that someone has been wrong, careless or misled. When the correction also adds ridicule, contempt or public embarrassment, it raises the cost of accepting the truth. Accepting the correction may now feel like accepting humiliation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/SDT/documents/2003_HodginsLeibeskind_JESP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-title">Self Determination Theory Apology versus defense: Antecedents and consequences</span><span class="citation-popover-snippet">Self Determination Theory Apology versus defense: Antecedents and consequences</span></span></span>
 
-Shaming language also interacts with psychological [reactance]({{ 'reactance/' | relative_url }}): the motivation to resist when people feel their freedom, judgement or autonomy is being threatened. Reactance does not mean people are irrational or unreachable. It means that a message framed as coercion, contempt or social domination can trigger resistance to the messenger as much as resistance to the facts. In health and science communication, reactance is a recurring concern because people may interpret correction as pressure to submit rather than as help in making a better judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4675534/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUnderstanding Psychological Reactance</span><span class="citation-popover-snippet">PMC - NIHby C Steindl · 2015 · Cited by 812 — Reactance – the motivation to regain a freedom after it has been lost or threatened – leads...</span></span></span>
+Shaming language also interacts with psychological [reactance]({{ 'reactance/' | relative_url }}): the motivation to resist when people feel their freedom, judgement or autonomy is being threatened. Reactance does not mean people are irrational or unreachable. It means that a message framed as coercion, contempt or social domination can trigger resistance to the messenger as much as resistance to the facts. In health and science communication, reactance is a recurring concern because people may interpret correction as pressure to submit rather than as help in making a better judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4675534/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUnderstanding Psychological Reactance</span><span class="citation-popover-snippet">NIHby C Steindl · 2015 · Cited by 812 — Reactance – the motivation to regain a freedom after it has been lost or threatened – leads...</span></span></span>
 
 The common mistake is to assume that the sharper correction is always the stronger correction. Sometimes directness helps. But “direct” and “demeaning” are not the same thing. A direct correction says: “This claim is false; the study found X.” A demeaning correction says: “You fell for this because you don’t understand science.” The first gives the reader a path to update. The second invites them to defend their competence.
 
@@ -521,12 +520,11 @@ The common mistake is to assume that the sharper correction is always the strong
 
 Face-saving is often misunderstood as letting people off the hook. In correction work, it is better understood as reducing the unnecessary social penalty for changing one’s mind. A person who can say “I had not seen that newer source” or “I misread the graph” has an exit ramp. A person who has been publicly labelled gullible, selfish or stupid may feel pushed to double down simply to preserve standing.
 
-This is especially important because misconceptions often spread through ordinary trust networks. A person may share a false health claim from a parent, a local WhatsApp group, a religious community, a political identity group, or a friend who seemed sincere. Treating the sharer as malicious when they may be mistaken collapses the distinction between misinformation and disinformation. UNESCO and other media-literacy sources stress that intent matters: false information shared inadvertently is not the same as a deliberate operation to mislead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is especially important because misconceptions often spread through ordinary trust networks. A person may share a false health claim from a parent, a local WhatsApp group, a religious community, a political identity group, or a friend who seemed sincere. Treating the sharer as malicious when they may be mistaken collapses the distinction between misinformation and disinformation. UNESCO and other media-literacy sources stress that [intent]({{ 'intent/' | relative_url }}) matters: false information shared inadvertently is not the same as a deliberate operation to mislead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Face-saving correction works by shifting the implied story from “you are the problem” to “this claim is unreliable, and here is a better way to understand it”. That shift is small but powerful. It allows the person to update while keeping a coherent self-image as someone who cares about truth, safety or fairness.
 
 Useful face-saving moves include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -539,14 +537,12 @@ Useful face-saving moves include:
 
 The [Debunking]({{ 'debunking/' | relative_url }}) Handbook recommends that corrections provide a clear factual alternative rather than simply negating the myth. This matters for tone as well as cognition: a replacement explanation gives people something to move towards, not just something to be caught having believed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookBackfire Effect: A backfire effect is where a correction inadvertently increases...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-Illustration-1-dark.svg" | relative_url }}" alt="Tone illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Respectful correction language that still says what is wrong
 
 Respectful correction is not a matter of adding politeness on top of weak evidence. It is a structure: affirm the shared goal, identify the claim, correct it clearly, and supply the better source or explanation. The correction should be easy to understand and hard to mistake for personal contempt.
 
 A useful pattern is:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -561,7 +557,6 @@ This kind of language avoids two traps. It does not bury the correction in vague
 
 Several wording choices reliably make corrections sound more shaming than they need to be:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Mind-reading:** “You only believe this because…”
@@ -573,7 +568,6 @@ Several wording choices reliably make corrections sound more shaming than they n
 </div>
 
 Better versions keep the correction anchored to the claim:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -587,7 +581,6 @@ Better versions keep the correction anchored to the claim:
 
 The difference is not cosmetic. Claim-focused language makes it easier for observers as well as the original poster to update. On social [platforms]({{ 'platforms/' | relative_url }}), the audience is often larger than the person being corrected. A shaming reply may satisfy supporters, but a clean correction is more useful to bystanders who are deciding what to believe.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Oc9t48GI0JA" title="Politeness Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Oc9t48GI0JA" target="_blank" rel="noopener noreferrer">Politeness Theory</a></p><p class="youtube-embed-meta">Channel: Communication Coach Alexander Lyon &middot; Views: 159.7K &middot; Uploaded: March 2018 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Oc9t48GI0JA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Oc9t48GI0JA">Open on YouTube</a></p></div></div></div>
 
 ## The public setting changes the correction
@@ -600,7 +593,6 @@ Research on online public shaming highlights that shaming can produce disproport
 
 For public corrections, three implementation choices reduce unnecessary shame:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * **Correct the record, not the person’s worth.** “This post misstates the study” is usually better than “You are spreading nonsense.”
@@ -610,7 +602,6 @@ For public corrections, three implementation choices reduce unnecessary shame:
 </div>
 
 This is particularly important for institutions. A public health agency, school, employer or newsroom has more power than an individual commenter. If it corrects people in a scolding voice, it may reinforce suspicion that authorities look down on the audience. The World Health Organization’s risk-communication and counselling materials repeatedly emphasise respect, empathy, dignity and non-judgemental communication when correcting misconceptions in sensitive settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.who.int/media/docs/default-source/epi-win/who_booklet_08.06.21.pdf?sfvrsn=b87686ab_4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.who.int</span><span class="citation-popover-title">World Health Organization WHO infodemic management training</span><span class="citation-popover-snippet">World Health Organization WHO infodemic management training</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://applications.emro.who.int/aiecf/prevention_mother_Trainers_Manual.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: applications.emro.who.int">[2applications.emro.who.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">applications.emro.who.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-Illustration-2-dark.svg" | relative_url }}" alt="Tone illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When empathy helps, and when it can go wrong
@@ -627,9 +618,7 @@ A balanced correction might say:
 
 That wording does three jobs at once: it protects the legitimacy of the concern, rejects the misleading inference, and points to a better standard of evidence.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1T3f7XmZrKU" title="FACE THEORY (politeness theory) – positive and negative face – English Language A Level" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1T3f7XmZrKU" target="_blank" rel="noopener noreferrer">FACE THEORY (politeness theory) – positive and negative face – English Language A Level</a></p><p class="youtube-embed-meta">Channel: A-Level English Language &middot; Views: 26.0K &middot; Uploaded: April 2021 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1T3f7XmZrKU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1T3f7XmZrKU">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-Illustration-3-dark.svg" | relative_url }}" alt="Tone illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When firmness is still needed
 
 Some corrections should be firm. Respectful language does not require endless patience with bad-faith actors, harassment, dangerous advice or repeated deception. The mistake is to apply the tone suited to malicious disinformation to every ordinary misconception.
@@ -646,8 +635,8 @@ Firm language can still avoid needless shaming. “This is false and dangerous; 
 
 The Debunking Handbook notes that backfire effects are not as common or predictable as once feared, so communicators should not avoid correction out of excessive caution. But that is not a licence for humiliation. The best evidence-supported posture is confident correction with a clear alternative explanation, not silence and not ridicule. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookBackfire Effect: A backfire effect is where a correction inadvertently increases...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1T3f7XmZrKU" title="FACE THEORY (politeness theory) – positive and negative face – English Language A Level" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1T3f7XmZrKU" target="_blank" rel="noopener noreferrer">FACE THEORY (politeness theory) – positive and negative face – English Language A Level</a></p><p class="youtube-embed-meta">Channel: A-Level English Language &middot; Views: 26.0K &middot; Uploaded: April 2021 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1T3f7XmZrKU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1T3f7XmZrKU">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-Illustration-3-dark.svg" | relative_url }}" alt="Tone illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical decision path for choosing tone
 
 The implementation question is not “Should I be nice or blunt?” A better question is: “What tone gives this person and this audience the best chance of accepting the correction, while protecting anyone at risk?”
@@ -675,9 +664,6 @@ Example: “This advice is unsafe. Do not mix these products; the official guida
 Example: “This claim has already been corrected with primary sources. Repeating it without that context misleads readers.”
 
 The key distinction is between dignity and impunity. Dignity means people should be able to revise a mistaken belief without being degraded. Impunity would mean harmful falsehoods go unchallenged. Good correction practice rejects both humiliation and passivity.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ## The correction should make changing one’s mind easier
 
@@ -1081,157 +1067,157 @@ That means designing corrections around the moment of revision. People need a cl
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the...</p></details>
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCUnderstanding Psychological Reactance  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4675534/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4675534/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby C Steindl · 2015 · Cited by 812 — Reactance – the motivation to regain a freedom after it has been lost or threatened – leads...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4675534/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4675534/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby C Steindl · 2015 · Cited by 812 — Reactance – the motivation to regain a freedom after it has been lost or threatened – leads...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: unesdoc.unesco.org  
-   Link: [https://unesdoc.unesco.org/ark%3A/48223/pf0000265552](https://unesdoc.unesco.org/ark%3A/48223/pf0000265552)  
+   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000265552</a>  
 
 4. <a id="endnote-4"></a>
    Source: ijoc.org  
    Title: view File  
-   Link: [https://ijoc.org/index.php/ijoc/article/viewFile/18361/3762](https://ijoc.org/index.php/ijoc/article/viewFile/18361/3762)  
+   Link: <a href="https://ijoc.org/index.php/ijoc/article/viewFile/18361/3762" target="_blank" rel="noopener noreferrer nofollow">https://ijoc.org/index.php/ijoc/article/viewFile/18361/3762</a>  
 
 5. <a id="endnote-5"></a>
    Source: oxford-aiethics.ox.ac.uk  
    Title: Online Public Shaming, the Duties of Social Media Platforms  
-   Link: [https://www.oxford-aiethics.ox.ac.uk/online-public-shaming-duties-social-media-platforms-and-case-regulation](https://www.oxford-aiethics.ox.ac.uk/online-public-shaming-duties-social-media-platforms-and-case-regulation)  
+   Link: <a href="https://www.oxford-aiethics.ox.ac.uk/online-public-shaming-duties-social-media-platforms-and-case-regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.oxford-aiethics.ox.ac.uk/online-public-shaming-duties-social-media-platforms-and-case-regulation</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12329387/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12329387/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12329387/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12329387/</a>  
 
 7. <a id="endnote-7"></a>
    Source: cdn.who.int  
    Title: World Health Organization WHO infodemic management training  
-   Link: [https://cdn.who.int/media/docs/default-source/epi-win/who_booklet_08.06.21.pdf?sfvrsn=b87686ab_4](https://cdn.who.int/media/docs/default-source/epi-win/who_booklet_08.06.21.pdf?sfvrsn=b87686ab_4)  
+   Link: <a href="https://cdn.who.int/media/docs/default-source/epi-win/who_booklet_08.06.21.pdf?sfvrsn=b87686ab_4" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/epi-win/who_booklet_08.06.21.pdf?sfvrsn=b87686ab_4</a>  
 
 8. <a id="endnote-8"></a>
    Source: applications.emro.who.int  
-   Link: [https://applications.emro.who.int/aiecf/prevention_mother_Trainers_Manual.pdf](https://applications.emro.who.int/aiecf/prevention_mother_Trainers_Manual.pdf)  
+   Link: <a href="https://applications.emro.who.int/aiecf/prevention_mother_Trainers_Manual.pdf" target="_blank" rel="noopener noreferrer nofollow">https://applications.emro.who.int/aiecf/prevention_mother_Trainers_Manual.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: iris.who.int  
-   Link: [https://iris.who.int/server/api/core/bitstreams/b3f85b53-94f4-41ac-a7dc-9596d19c1b57/content](https://iris.who.int/server/api/core/bitstreams/b3f85b53-94f4-41ac-a7dc-9596d19c1b57/content)  
+   Link: <a href="https://iris.who.int/server/api/core/bitstreams/b3f85b53-94f4-41ac-a7dc-9596d19c1b57/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/b3f85b53-94f4-41ac-a7dc-9596d19c1b57/content</a>  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X2500226X](https://www.sciencedirect.com/science/article/pii/S2352250X2500226X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X2500226X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X2500226X</a>  
 
 11. <a id="endnote-11"></a>
    Source: iris.who.int  
    Title: int Group Problem Management Plus (PM+) psychological  
-   Link: [https://iris.who.int/server/api/core/bitstreams/be17b24d-1344-4b46-8b92-26471021e0ac/content](https://iris.who.int/server/api/core/bitstreams/be17b24d-1344-4b46-8b92-26471021e0ac/content)  
+   Link: <a href="https://iris.who.int/server/api/core/bitstreams/be17b24d-1344-4b46-8b92-26471021e0ac/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/be17b24d-1344-4b46-8b92-26471021e0ac/content</a>  
 
 12. <a id="endnote-12"></a>
    Source: iris.who.int  
-   Link: [https://iris.who.int/bitstreams/8a73f4f8-bfe0-49d3-97a6-e638595f0c57/download](https://iris.who.int/bitstreams/8a73f4f8-bfe0-49d3-97a6-e638595f0c57/download)  
+   Link: <a href="https://iris.who.int/bitstreams/8a73f4f8-bfe0-49d3-97a6-e638595f0c57/download" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/bitstreams/8a73f4f8-bfe0-49d3-97a6-e638595f0c57/download</a>  
 
 13. <a id="endnote-13"></a>
    Source: iris.who.int  
-   Link: [https://iris.who.int/server/api/core/bitstreams/ebbf577b-d3ff-4a81-b0d9-bdf3b1e9f2ac/content](https://iris.who.int/server/api/core/bitstreams/ebbf577b-d3ff-4a81-b0d9-bdf3b1e9f2ac/content)  
+   Link: <a href="https://iris.who.int/server/api/core/bitstreams/ebbf577b-d3ff-4a81-b0d9-bdf3b1e9f2ac/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/ebbf577b-d3ff-4a81-b0d9-bdf3b1e9f2ac/content</a>  
 
 14. <a id="endnote-14"></a>
    Source: iris.who.int  
    Title: int Transforming mental health for all  
-   Link: [https://iris.who.int/server/api/core/bitstreams/40e5a13a-fe50-4efa-b56d-6e8cf00d5bfa/content](https://iris.who.int/server/api/core/bitstreams/40e5a13a-fe50-4efa-b56d-6e8cf00d5bfa/content)  
+   Link: <a href="https://iris.who.int/server/api/core/bitstreams/40e5a13a-fe50-4efa-b56d-6e8cf00d5bfa/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/40e5a13a-fe50-4efa-b56d-6e8cf00d5bfa/content</a>  
 
 15. <a id="endnote-15"></a>
    Source: iris.who.int  
-   Link: [https://iris.who.int/bitstreams/ac99854f-8864-48e6-aa70-8f1865c0e0b9/download](https://iris.who.int/bitstreams/ac99854f-8864-48e6-aa70-8f1865c0e0b9/download)  
+   Link: <a href="https://iris.who.int/bitstreams/ac99854f-8864-48e6-aa70-8f1865c0e0b9/download" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/bitstreams/ac99854f-8864-48e6-aa70-8f1865c0e0b9/download</a>  
 
 16. <a id="endnote-16"></a>
    Source: platform.who.int  
    Title: eth ad 25 01 operationalguidance 2017 eng ay participant training manual  
-   Link: [https://platform.who.int/docs/default-source/mca-documents/policy-documents/operational-guidance/eth-ad-25-01-operationalguidance-2017-eng-ay-participant-training-manual.pdf](https://platform.who.int/docs/default-source/mca-documents/policy-documents/operational-guidance/eth-ad-25-01-operationalguidance-2017-eng-ay-participant-training-manual.pdf)  
+   Link: <a href="https://platform.who.int/docs/default-source/mca-documents/policy-documents/operational-guidance/eth-ad-25-01-operationalguidance-2017-eng-ay-participant-training-manual.pdf" target="_blank" rel="noopener noreferrer nofollow">https://platform.who.int/docs/default-source/mca-documents/policy-documents/operational-guidance/eth-ad-25-01-operationalguidance-2017-eng-ay-participant-training-manual.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: apps.who.int  
-   Link: [https://apps.who.int/gb/ebwha/pdf_files/EB152-REC2/B152_REC2_Interactive_en.pdf](https://apps.who.int/gb/ebwha/pdf_files/EB152-REC2/B152_REC2_Interactive_en.pdf)  
+   Link: <a href="https://apps.who.int/gb/ebwha/pdf_files/EB152-REC2/B152_REC2_Interactive_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://apps.who.int/gb/ebwha/pdf_files/EB152-REC2/B152_REC2_Interactive_en.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0747563225003474](https://www.sciencedirect.com/science/article/abs/pii/S0747563225003474)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563225003474" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0747563225003474</a>  
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2666622726000018](https://www.sciencedirect.com/science/article/pii/S2666622726000018)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666622726000018" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666622726000018</a>  
 
 20. <a id="endnote-20"></a>
    Source: climatechangecommunication.org  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookBackfire Effect: A backfire effect is where a correction inadvertently increases...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: selfdeterminationtheory.org  
    Title: Self Determination Theory Apology versus defense: Antecedents and consequences  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/2003_HodginsLeibeskind_JESP.pdf](https://selfdeterminationtheory.org/SDT/documents/2003_HodginsLeibeskind_JESP.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2003_HodginsLeibeskind_JESP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2003_HodginsLeibeskind_JESP.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: climatecommunication.gmu.edu  
    Title: the debunking handbook 2020  
-   Link: [https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/](https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/)  
+   Link: <a href="https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/" target="_blank" rel="noopener noreferrer nofollow">https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/</a>  
 
 23. <a id="endnote-23"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: [https://misinforeview.hks.harvard.edu/article/do-the-right-thing-tone-may-not-affect-correction-of-misinformation-on-social-media/](https://misinforeview.hks.harvard.edu/article/do-the-right-thing-tone-may-not-affect-correction-of-misinformation-on-social-media/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/do-the-right-thing-tone-may-not-affect-correction-of-misinformation-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/do-the-right-thing-tone-may-not-affect-correction-of-misinformation-on-social-media/</a>  
 
 24. <a id="endnote-24"></a>
    Source: ltrr.arizona.edu  
    Title: Debunking Handbook  
-   Link: [https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf](https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf)  
+   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: How to have difficult conversations without making things worse  
-   Link: [https://www.youtube.com/watch?v=F5q1t-R1W2M](https://www.youtube.com/watch?v=F5q1t-R1W2M)  
+   Link: <a href="https://www.youtube.com/watch?v=F5q1t-R1W2M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F5q1t-R1W2M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The art of effective communication and feedback...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: How to give critical feedback without being a jerk  
-   Link: [https://www.youtube.com/watch?v=k6aVvV8iNXY](https://www.youtube.com/watch?v=k6aVvV8iNXY)  
+   Link: <a href="https://www.youtube.com/watch?v=k6aVvV8iNXY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k6aVvV8iNXY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to have difficult conversations without making things worse...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Why we get defensive when corrected and how to stop  
-   Link: [https://www.youtube.com/watch?v=Q3T12rS-O3k](https://www.youtube.com/watch?v=Q3T12rS-O3k)  
+   Link: <a href="https://www.youtube.com/watch?v=Q3T12rS-O3k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q3T12rS-O3k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to change someone&#x27;s mind without being condescending...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/349007178_You%27re_Definitely_Wrong_Maybe_Correction_Style_Has_Minimal_Effect_on_Corrections_of_Misinformation_Online](https://www.researchgate.net/publication/349007178_You%27re_Definitely_Wrong_Maybe_Correction_Style_Has_Minimal_Effect_on_Corrections_of_Misinformation_Online)  
+   Link: <a href="https://www.researchgate.net/publication/349007178_You%27re_Definitely_Wrong_Maybe_Correction_Style_Has_Minimal_Effect_on_Corrections_of_Misinformation_Online" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349007178_You%27re_Definitely_Wrong_Maybe_Correction_Style_Has_Minimal_Effect_on_Corrections_of_Misinformation_Online</a>  
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/375774851_Peer_correction_of_misinformation_on_social_media_Incivility_success_experience_and_relationship_consequences](https://www.researchgate.net/publication/375774851_Peer_correction_of_misinformation_on_social_media_Incivility_success_experience_and_relationship_consequences)  
+   Link: <a href="https://www.researchgate.net/publication/375774851_Peer_correction_of_misinformation_on_social_media_Incivility_success_experience_and_relationship_consequences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375774851_Peer_correction_of_misinformation_on_social_media_Incivility_success_experience_and_relationship_consequences</a>  
 
 30. <a id="endnote-30"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/pubs/databases/psycbooks/psycbooks-sample-counseling-titles-toc.pdf](https://www.apa.org/pubs/databases/psycbooks/psycbooks-sample-counseling-titles-toc.pdf)  
+   Link: <a href="https://www.apa.org/pubs/databases/psycbooks/psycbooks-sample-counseling-titles-toc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/databases/psycbooks/psycbooks-sample-counseling-titles-toc.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FirstDraftNews/videos/as-we-learn-in-our-flexible-learning-course-empathy-is-key-to-managing-misinform/212566210302326/](https://www.facebook.com/FirstDraftNews/videos/as-we-learn-in-our-flexible-learning-course-empathy-is-key-to-managing-misinform/212566210302326/)  
+   Link: <a href="https://www.facebook.com/FirstDraftNews/videos/as-we-learn-in-our-flexible-learning-course-empathy-is-key-to-managing-misinform/212566210302326/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FirstDraftNews/videos/as-we-learn-in-our-flexible-learning-course-empathy-is-key-to-managing-misinform/212566210302326/</a>  
 
 32. <a id="endnote-32"></a>
    Source: internews.org  
-   Link: [https://internews.org/wp-content/uploads/2024/02/Youth-Media-Litreracy-Program-Fact-Checking-Manual-final.pdf](https://internews.org/wp-content/uploads/2024/02/Youth-Media-Litreracy-Program-Fact-Checking-Manual-final.pdf)  
+   Link: <a href="https://internews.org/wp-content/uploads/2024/02/Youth-Media-Litreracy-Program-Fact-Checking-Manual-final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://internews.org/wp-content/uploads/2024/02/Youth-Media-Litreracy-Program-Fact-Checking-Manual-final.pdf</a>  
 
 33. <a id="endnote-33"></a>
    Source: beyondintractability.org  
-   Link: [https://www.beyondintractability.org/essay/face](https://www.beyondintractability.org/essay/face)  
+   Link: <a href="https://www.beyondintractability.org/essay/face" target="_blank" rel="noopener noreferrer nofollow">https://www.beyondintractability.org/essay/face</a>  
 
 34. <a id="endnote-34"></a>
    Source: creducation.net  
-   Link: [https://www.creducation.net/resources/interpersonal_skills_module/face_saving.html](https://www.creducation.net/resources/interpersonal_skills_module/face_saving.html)  
+   Link: <a href="https://www.creducation.net/resources/interpersonal_skills_module/face_saving.html" target="_blank" rel="noopener noreferrer nofollow">https://www.creducation.net/resources/interpersonal_skills_module/face_saving.html</a>

@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_personal_experience_bd112b_small_sample_pattern_e3cde7
 - Myths_and_misconcept_0d48d7_personal_experience_bd112b_using_stories_well_99349c
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - anecdotes
 - timing-trap
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - anecdotes
 - timing-trap
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A real improvement after a remedy can still be coincidence unless the cause is tested against what would have happened anyway.
 hero_summary: A real improvement after a remedy can still be coincidence unless the cause is tested against what would have happened anyway.
 layout: default
 permalink: /timing-trap/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /anecdotes/
 nav_short_title: Timing trap
 title: Did it work, or did time pass?
-title_full: Did it work, or did time pass? | Anecdotes
+title_full: Did it work, or did time pass?
 display_title_short: Timing trap
 display_title: Timing trap
 heading_title: Did it work, or did time pass?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Personal Experience Becomes a Myth | Mythcraft
+parent_title: When Personal Experience Becomes a Myth
 parent_permalink: /anecdotes/
 parent_nav_short_title: Anecdotes
 parent_heading_title: When Personal Experience Becomes a Myth
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How to respect stories without overclaiming
 up_link:
   basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
@@ -259,7 +259,7 @@ prev_link:
   permalink: /story-limits/
   short_title: Story limits
   heading_title: How to respect stories without overclaiming
-date: '2026-06-09 04:21:37 '
+date: '2026-06-11 22:00:19 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_timing_vs_cause_444a87-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_timing_vs_cause_444a87-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_tim
 
 A recovery story can be completely genuine and still lead to a false conclusion. Someone develops symptoms, tries a remedy, and then improves. The sequence is real. The mistake is assuming that because the recovery happened after the remedy, the remedy must have caused it.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_timing_vs_cause_444a87-Illustration-1-dark.svg" | relative_url }}" alt="Timing trap illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_timing_vs_cause_444a87-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_timing_vs_cause_444a87-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This timing trap is one of the most common ways people overgeneralise from [personal experience]({{ 'anecdotes/' | relative_url }}). Human [memory]({{ 'memory/' | relative_url }}) naturally focuses on the dramatic before-and-after story: “I took it on Tuesday and by Thursday I was better.” What is usually missing is the comparison that would answer the crucial question: what would have happened if nothing had been taken? Without that comparison, ordinary recovery, symptom fluctuations and placebo effects can easily be mistaken for proof that a treatment worked. Research in medicine and statistics has repeatedly shown that improvement after an intervention is not, by itself, reliable evidence that the intervention caused the improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1847831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby K Meissner · 2007 · Cited by 124 — The results suggest that placebo interventions can improve physical disease processes of periphe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK513296/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIPlacebo Effect</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelfby S Munnangi · 2023 · Cited by 52 — The placebo effect is a fascinating phenomenon that occurs when a sham me...</span></span></span>
+This [timing]({{ 'timing/' | relative_url }}) trap is one of the most common ways people overgeneralise from personal experience. Human [memory]({{ 'memory/' | relative_url }}) naturally focuses on the dramatic before-and-after story: “I took it on Tuesday and by Thursday I was better.” What is usually missing is the comparison that would answer the crucial question: what would have happened if nothing had been taken? Without that comparison, ordinary recovery, symptom fluctuations and placebo effects can easily be mistaken for proof that a treatment worked. Research in medicine and statistics has repeatedly shown that improvement after an intervention is not, by itself, reliable evidence that the intervention caused the improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1847831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by K Meissner · 2007 · Cited by 124 — The results suggest that placebo interventions can improve physical disease processes of periphe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK513296/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIPlacebo Effect</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelfby S Munnangi · 2023 · Cited by 52 — The placebo effect is a fascinating phenomenon that occurs when a sham me...</span></span></span>
 
 ## Why after does not prove because
 
@@ -281,7 +280,6 @@ The underlying mistake is often called a post hoc error: assuming that because o
 In health and recovery stories, the problem is especially persuasive because illnesses unfold over time. Most people seek help when symptoms are at their worst or most worrying. If improvement follows, it is tempting to credit whatever was tried immediately beforehand.
 
 Yet several different processes can produce the same apparent success story:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -294,23 +292,19 @@ Yet several different processes can produce the same apparent success story:
 
 Looking only at one person's timeline cannot reliably separate these possibilities. The story contains a sequence of events, but not the missing alternative timeline showing what would have happened without the treatment. That missing comparison is the key piece of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.primrmed.com/cancer-education/the-critical-role-of-placebos-in-clinical-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: primrmed.com">[primrmed.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">primrmed.com</span><span class="citation-popover-title">the critical role of placebos in clinical research</span><span class="citation-popover-snippet">7 Feb 2025 — By including a placebo group, researchers can better understand the safety and side effects of the active treatment compared...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8pFd8DLcPIY" title="Journey of a Letter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8pFd8DLcPIY" target="_blank" rel="noopener noreferrer">Journey of a Letter</a></p><p class="youtube-embed-meta">Channel: The Postal Museum &middot; Views: 456.9K &middot; Uploaded: September 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8pFd8DLcPIY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8pFd8DLcPIY">Open on YouTube</a></p></div></div></div>
-
 ### The hidden role of symptom peaks
 
 A particularly important mechanism is regression to the mean. People often try a remedy when symptoms become unusually severe. Extreme states tend to be followed by less extreme states simply because fluctuations rarely continue in the same direction indefinitely.
 
-This can create the illusion that an intervention caused improvement. Researchers have long warned that regression to the mean can make ineffective treatments appear successful when people are measured at their worst point and then observed later. In healthcare, this phenomenon can mislead both patients and professionals into attributing recovery to a treatment when some of the apparent benefit is actually the natural movement of symptoms back towards a more typical level. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1847831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby K Meissner · 2007 · Cited by 124 — The results suggest that placebo interventions can improve physical disease processes of periphe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/42/1/1083.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">White Rose Research OnlineEffect of regression to the mean on decision making in...by V Morton · 2003 · Cited by 404 — When monitoring o...</span></span></span>
+This can create the illusion that an intervention caused improvement. Researchers have long warned that regression to the mean can make ineffective treatments appear successful when people are measured at their worst point and then observed later. In healthcare, this phenomenon can mislead both patients and professionals into attributing recovery to a treatment when some of the apparent benefit is actually the natural movement of symptoms back towards a more typical level. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1847831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by K Meissner · 2007 · Cited by 124 — The results suggest that placebo interventions can improve physical disease processes of periphe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/42/1/1083.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">White Rose Research OnlineEffect of regression to the mean on decision making in...by V Morton · 2003 · Cited by 404 — When monitoring o...</span></span></span>
 
 ## Colds, placebo effects and ordinary recovery
 
-The common cold provides a classic example of the [timing]({{ 'timing/' | relative_url }}) trap.
+The common cold provides a classic example of the timing trap.
 
 Most colds improve on their own. Symptoms typically peak and then decline as the immune system clears the infection. If someone starts a herbal remedy, vitamin supplement or home treatment near the peak of symptoms, improvement over the following days may occur regardless of whether the remedy had any meaningful effect.
 
 From the individual's perspective, the story feels convincing:
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_timing_vs_cause_444a87-Illustration-2-dark.svg" | relative_url }}" alt="Timing trap illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_timing_vs_cause_444a87-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_timing_vs_cause_444a87-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -324,7 +318,7 @@ From the individual's perspective, the story feels convincing:
 
 The missing observation is that many people who do not take the remedy would also have improved during the same period.
 
-Placebo effects add another layer of complexity. Placebo effects are not simply imaginary recoveries. Expectations, reassurance, therapeutic rituals and attention can influence how symptoms are perceived and reported, particularly for experiences such as pain, nausea, fatigue and wellbeing. A person may therefore feel genuinely better after a treatment even when the treatment's specific active ingredient is not responsible for the change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK513296/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIPlacebo Effect</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelfby S Munnangi · 2023 · Cited by 52 — The placebo effect is a fascinating phenomenon that occurs when a sham me...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1847831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby K Meissner · 2007 · Cited by 124 — The results suggest that placebo interventions can improve physical disease processes of periphe...</span></span></span>
+Placebo effects add another layer of complexity. Placebo effects are not simply imaginary recoveries. Expectations, reassurance, therapeutic rituals and attention can influence how symptoms are perceived and reported, particularly for experiences such as pain, nausea, fatigue and wellbeing. A person may therefore feel genuinely better after a treatment even when the treatment's specific active ingredient is not responsible for the change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK513296/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIPlacebo Effect</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelfby S Munnangi · 2023 · Cited by 52 — The placebo effect is a fascinating phenomenon that occurs when a sham me...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1847831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by K Meissner · 2007 · Cited by 124 — The results suggest that placebo interventions can improve physical disease processes of periphe...</span></span></span>
 
 This means a sincere testimonial can accurately describe an improvement while still misidentifying its cause. The person's experience is real; the explanation may not be.
 
@@ -336,17 +330,15 @@ The problem becomes larger when many people share similar stories. If a conditio
 
 This is why large collections of [anecdotes]({{ 'anecdotes/' | relative_url }}) are not automatically equivalent to controlled evidence. They may simply repeat the same timing error many times.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sxYrzzy3cq8" title="How statistics can be misleading - Mark Liddell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sxYrzzy3cq8" target="_blank" rel="noopener noreferrer">How statistics can be misleading - Mark Liddell</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sxYrzzy3cq8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sxYrzzy3cq8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8pFd8DLcPIY" title="Journey of a Letter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8pFd8DLcPIY" target="_blank" rel="noopener noreferrer">Journey of a Letter</a></p><p class="youtube-embed-meta">Channel: The Postal Museum &middot; Views: 456.9K &middot; Uploaded: September 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8pFd8DLcPIY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8pFd8DLcPIY">Open on YouTube</a></p></div></div></div>
 
 ## What comparison groups change about the story
 
-The reason medical researchers use control groups is not because [personal experiences]({{ 'anecdotes/' | relative_url }}) are worthless. It is because personal experiences alone cannot reveal what would have happened otherwise.
+The reason medical researchers use control groups is not because personal experiences are worthless. It is because personal experiences alone cannot reveal what would have happened otherwise.
 
 A comparison group provides that missing reference point.
 
 Imagine two groups of people with similar symptoms:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -361,19 +353,14 @@ This comparison changes the story from a sequence of events into a test of causa
 
 Without a comparison group, a treatment can look effective merely because people tend to seek it when they are feeling especially bad. With a comparison group, researchers can estimate how much improvement would have happened anyway and how much, if any, is attributable to the intervention. Randomised controlled trials were developed largely to solve exactly this problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.primrmed.com/cancer-education/the-critical-role-of-placebos-in-clinical-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: primrmed.com">[primrmed.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">primrmed.com</span><span class="citation-popover-title">the critical role of placebos in clinical research</span><span class="citation-popover-snippet">7 Feb 2025 — By including a placebo group, researchers can better understand the safety and side effects of the active treatment compared...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_timing_vs_cause_444a87-Illustration-3-dark.svg" | relative_url }}" alt="Timing trap illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_timing_vs_cause_444a87-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_timing_vs_cause_444a87-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical lesson
 
 A recovery that follows a remedy is evidence that two things occurred in sequence. It is not, by itself, evidence that one caused the other.
 
-The timing trap persists because human memory naturally records the dramatic before-and-after narrative while ignoring the invisible alternative outcome. Colds resolve, symptoms fluctuate, people often seek treatment at their worst moments, and placebo effects can produce genuine perceived improvement. All of these can create convincing recovery stories even when the treatment itself contributes little or nothing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1847831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby K Meissner · 2007 · Cited by 124 — The results suggest that placebo interventions can improve physical disease processes of periphe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK513296/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIPlacebo Effect</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelfby S Munnangi · 2023 · Cited by 52 — The placebo effect is a fascinating phenomenon that occurs when a sham me...</span></span></span>
+The timing trap persists because human memory naturally records the dramatic before-and-after narrative while ignoring the invisible alternative outcome. Colds resolve, symptoms fluctuate, people often seek treatment at their worst moments, and placebo effects can produce genuine perceived improvement. All of these can create convincing recovery stories even when the treatment itself contributes little or nothing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1847831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by K Meissner · 2007 · Cited by 124 — The results suggest that placebo interventions can improve physical disease processes of periphe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK513296/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIPlacebo Effect</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelfby S Munnangi · 2023 · Cited by 52 — The placebo effect is a fascinating phenomenon that occurs when a sham me...</span></span></span>
 
 The key question is therefore not simply, “Did I get better after taking it?” but “Did I get better more than I would have if I had not taken it?” That missing comparison is what separates a memorable story from evidence of cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.primrmed.com/cancer-education/the-critical-role-of-placebos-in-clinical-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: primrmed.com">[primrmed.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">primrmed.com</span><span class="citation-popover-title">the critical role of placebos in clinical research</span><span class="citation-popover-snippet">7 Feb 2025 — By including a placebo group, researchers can better understand the safety and side effects of the active treatment compared...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wwUe7T2OKQE" title="19 Common Fallacies, Explained." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wwUe7T2OKQE" target="_blank" rel="noopener noreferrer">19 Common Fallacies, Explained.</a></p><p class="youtube-embed-meta">Channel: Jared Henderson</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wwUe7T2OKQE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wwUe7T2OKQE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -771,83 +758,83 @@ The key question is therefore not simply, “Did I get better after taking it?�
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC1125994/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1125994/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1125994/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1125994/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some women continue to lose bone at the first follow up measurement...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIPlacebo Effect  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK513296/](https://www.ncbi.nlm.nih.gov/books/NBK513296/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK513296/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK513296/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>StatPearls - NCBI Bookshelfby S Munnangi · 2023 · Cited by 52 — The placebo effect is a fascinating phenomenon that occurs when a sham me...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: primrmed.com  
    Title: the critical role of placebos in clinical research  
-   Link: [https://www.primrmed.com/cancer-education/the-critical-role-of-placebos-in-clinical-research](https://www.primrmed.com/cancer-education/the-critical-role-of-placebos-in-clinical-research)  
+   Link: <a href="https://www.primrmed.com/cancer-education/the-critical-role-of-placebos-in-clinical-research" target="_blank" rel="noopener noreferrer nofollow">https://www.primrmed.com/cancer-education/the-critical-role-of-placebos-in-clinical-research</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Feb 2025 — By including a placebo group, researchers can better understand the safety and side effects of the active treatment compared...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC1847831/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1847831/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby K Meissner · 2007 · Cited by 124 — The results suggest that placebo interventions can improve physical disease processes of periphe...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1847831/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1847831/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Meissner · 2007 · Cited by 124 — The results suggest that placebo interventions can improve physical disease processes of periphe...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/42/1/1083.pdf](https://eprints.whiterose.ac.uk/id/eprint/42/1/1083.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/42/1/1083.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/42/1/1083.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineEffect of regression to the mean on decision making in...by V Morton · 2003 · Cited by 404 — When monitoring o...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: scribbr.co.uk  
    Title: Scribbr Regression to the Mean | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/bias-in-research/regression-to-mean/](https://www.scribbr.co.uk/bias-in-research/regression-to-mean/)  
+   Link: <a href="https://www.scribbr.co.uk/bias-in-research/regression-to-mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/bias-in-research/regression-to-mean/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regression to the Mean | Definition &amp; Examples - Scribbr16 Oct 2022 — Regression to the mean is observed when variables that are extremel...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: science.gov  
-   Link: [https://www.science.gov/topicpages/p/placebo-controlled%2Btrial%2Bcomparing](https://www.science.gov/topicpages/p/placebo-controlled%2Btrial%2Bcomparing)  
+   Link: <a href="https://www.science.gov/topicpages/p/placebo-controlled%2Btrial%2Bcomparing" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/p/placebo-controlled%2Btrial%2Bcomparing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>placebo-controlled trial comparingThe goal of this study was to examine in a prospective, randomized controlled trial whether patient exp...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: postoffice.co.uk  
-   Link: [https://www.postoffice.co.uk/branch-finder](https://www.postoffice.co.uk/branch-finder)  
+   Link: <a href="https://www.postoffice.co.uk/branch-finder" target="_blank" rel="noopener noreferrer nofollow">https://www.postoffice.co.uk/branch-finder</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Branch FinderUse the Post Office Branch Finder tool to find our where your nearest branch is and what services are available at your loca...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: brookbushinstitute.com  
-   Link: [https://brookbushinstitute.com/glossary/regression-to-the-mean](https://brookbushinstitute.com/glossary/regression-to-the-mean)  
+   Link: <a href="https://brookbushinstitute.com/glossary/regression-to-the-mean" target="_blank" rel="noopener noreferrer nofollow">https://brookbushinstitute.com/glossary/regression-to-the-mean</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regression to the meanRegression to the mean is a statistical tendency; natural recovery is a biological process; placebo effect is a psy...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pfizer.com  
-   Link: [https://www.pfizer.com/news/articles/how_the_placebo_effect_can_cloud_clinical_trial_results](https://www.pfizer.com/news/articles/how_the_placebo_effect_can_cloud_clinical_trial_results)  
+   Link: <a href="https://www.pfizer.com/news/articles/how_the_placebo_effect_can_cloud_clinical_trial_results" target="_blank" rel="noopener noreferrer nofollow">https://www.pfizer.com/news/articles/how_the_placebo_effect_can_cloud_clinical_trial_results</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Placebo Effect Can Cloud Clinical Trial ResultsThe mere act of going to a doctor or a clinic can cause a placebo effect, even whe...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/post](https://www.merriam-webster.com/dictionary/post)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/post" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/post</a>  
 
 12. <a id="endnote-12"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/ukpostoffice/?hl=en](https://www.instagram.com/ukpostoffice/?hl=en)  
+   Link: <a href="https://www.instagram.com/ukpostoffice/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/ukpostoffice/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Post Office (@ukpostoffice) • Instagram photos and videosChoose from our range of guaranteed services for those extra special presents, a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/organisations/post-office](https://www.gov.uk/government/organisations/post-office)  
+   Link: <a href="https://www.gov.uk/government/organisations/post-office" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/organisations/post-office</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OfficeThe Post Office provides mail, financial and government services to the public through its nationwide network of post office branch...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cochrane.org  
-   Link: [https://www.cochrane.org/evidence/MR000055_do-treatment-effects-randomised-trials-differ-when-using-active-placebo-compared-standard-placebo](https://www.cochrane.org/evidence/MR000055_do-treatment-effects-randomised-trials-differ-when-using-active-placebo-compared-standard-placebo)  
+   Link: <a href="https://www.cochrane.org/evidence/MR000055_do-treatment-effects-randomised-trials-differ-when-using-active-placebo-compared-standard-placebo" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/evidence/MR000055_do-treatment-effects-randomised-trials-differ-when-using-active-placebo-compared-standard-placebo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1. We found no clear difference in effect between active and standard placebos, but we are very uncertain about the results.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8pFd8DLcPIY](https://www.youtube.com/watch?v=8pFd8DLcPIY)  
+   Link: <a href="https://www.youtube.com/watch?v=8pFd8DLcPIY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8pFd8DLcPIY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journey of a LetterFilm exploring the journey of a letter from post box to recipient. Discover the surprising story of the first social n...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: royalmail.com  
-   Link: [https://www.royalmail.com/](https://www.royalmail.com/)  
+   Link: <a href="https://www.royalmail.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.royalmail.com/</a>

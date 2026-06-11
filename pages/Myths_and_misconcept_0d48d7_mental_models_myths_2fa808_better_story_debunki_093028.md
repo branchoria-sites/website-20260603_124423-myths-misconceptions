@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_natural_health_model_ab9044
 - Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_retracted_causes_772da4
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - mental-models
 - better-story
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - mental-models
 - better-story
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Effective debunking gives people a clearer alternative explanation instead of leaving the old myth as the only complete story.
 hero_summary: Effective debunking gives people a clearer alternative explanation instead of leaving the old myth as the only complete story.
 layout: default
 permalink: /better-story/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /mental-models/
 nav_short_title: Better Story
 title: How Better Stories Beat Bad Myths
-title_full: How Better Stories Beat Bad Myths | Mental Models
+title_full: How Better Stories Beat Bad Myths
 display_title_short: Better Story
 display_title: Better Story
 heading_title: How Better Stories Beat Bad Myths
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Wrong Ideas Can Feel Coherent | Mythcraft
+parent_title: Why Wrong Ideas Can Feel Coherent
 parent_permalink: /mental-models/
 parent_nav_short_title: Mental Models
 parent_heading_title: Why Wrong Ideas Can Feel Coherent
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why False Causes Stick After Correction
 up_link:
   basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
@@ -259,7 +259,7 @@ next_link:
   permalink: /contradictions/
   short_title: Contradictions
   heading_title: When Contradictions Make Myths Stronger
-date: '2026-06-09 04:51:41 '
+date: '2026-06-11 22:15:20 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-1.webp
@@ -270,15 +270,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_bet
 
 The most effective way to weaken a myth is not to leave a hole where the myth used to be. People rely on myths because myths often provide a complete story: they explain what happened, why it happened, who caused it, and what someone should do next. When a [correction]({{ 'correction/' | relative_url }}) removes that story without replacing it, the original explanation can continue shaping how people think, even after they know it was wrong. Research on misinformation consistently finds that [corrections]({{ 'corrections/' | relative_url }}) work better when they provide a plausible alternative explanation that fills the causal gap left behind by the myth. Skeptical Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionWe conclude by providing specific recommendations for the debunking of misinformation. Thes...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-1-dark.svg" | relative_url }}" alt="Better Story illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is why successful [debunking]({{ 'debunking/' | relative_url }}) is not merely fact-checking. It is story repair. A better explanation must preserve meaning, explain the evidence more completely than the myth did, and give people a workable model of reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Debunking Handbook Part 5 Filling gap with alternative explanation</span><span class="citation-popover-snippet">Skeptical ScienceThe Debunking Handbook Part 5: Filling the gap with an...25 Nov 2011 — The most effective way to reduce the effect of m...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">15. Example of a Refutation. FACT. MYTH. FALLACY. FACT. Do not rely on a simple retraction. (“this claim is not true”). Lead with...Read...</span></span></span>
+This is why successful [debunking]({{ 'debunking/' | relative_url }}) is not merely fact-checking. It is story repair. A better explanation must preserve meaning, explain the evidence more completely than the myth did, and give people a workable model of reality. [Skeptical Science+2Center for Climate Change Communication]
 
 ## Start With the Fact, Not the Myth
 
 One common mistake is to make the myth the centre of attention. [Headlines]({{ 'headlines/' | relative_url }}), social posts, and conversations often begin by repeating the false claim and only later mention the correction. This can unintentionally strengthen [memory]({{ 'memory/' | relative_url }}) for the myth itself.
 
-Debunking research instead recommends leading with the accurate information. A common structure is “fact–myth–fallacy–fact”: begin with the correct explanation, briefly identify the mistaken claim, explain the reasoning error, and then return to the accurate account. The goal is to ensure that the fact becomes the main story people remember. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">15. Example of a Refutation. FACT. MYTH. FALLACY. FACT. Do not rely on a simple retraction. (“this claim is not true”). Lead with...Read...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">15. Example of a Refutation. FACT. MYTH. FALLACY. FACT. Do not rely on a simple retraction. (“this claim is not true”). Lead with...Read...</span></span></span>
+Debunking research instead recommends leading with the accurate information. A common structure is “fact–myth–fallacy–fact”: begin with the correct explanation, briefly identify the mistaken claim, explain the reasoning error, and then return to the accurate account. The goal is to ensure that the fact becomes the main story people remember. [Center for Climate Change Communication+2Digital Commons]
 
 For example:
 
@@ -293,18 +292,17 @@ A myth usually occupies a causal role inside a person's understanding of events.
 
 If someone believes a factory closed because of a secret conspiracy, the myth answers “why did jobs disappear?” If the conspiracy claim is simply removed, the question remains. The mind naturally prefers an imperfect explanation to no explanation at all.
 
-Studies of the [continued influence]({{ 'old-stories/' | relative_url }}) effect show that misinformation can continue affecting reasoning after it has been corrected. One reason is that people continue using the old information because it remains the only available explanation connecting the facts together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerExploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — Researchers have found that indivi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionWe conclude by providing specific recommendations for the debunking of misinformation. Thes...</span></span></span>
+Studies of the continued influence effect show that misinformation can continue affecting reasoning after it has been corrected. One reason is that people continue using the old information because it remains the only available explanation connecting the facts together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Exploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — Researchers have found that indivi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionWe conclude by providing specific recommendations for the debunking of misinformation. Thes...</span></span></span>
 
 A replacement story succeeds because it gives the mind somewhere else to go.
 
 ## Build an Alternative Cause People Can Use
 
-The strongest replacement stories do not merely state facts. They explain causes.
+The strongest [replacement stories]({{ 'rumour-gaps/' | relative_url }}) do not merely state facts. They explain causes.
 
 Research summarised in the Debunking Handbook identifies alternative explanations as one of the most effective ways to reduce the influence of misinformation. In experimental studies, people relied less on false information when they were given a credible alternative account that explained the same events. Skeptical Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[2ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">Debunking Handbookby S Lewandowsky — The most effective way to reduce the effect of misinformation is to provide an alternative explanati...</span></span></span>
 
 A useful replacement explanation typically includes three elements:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -320,7 +318,6 @@ A stronger correction would not stop at “there was no cover-up.” It would ex
 
 The key question is: if someone stops believing the myth, what explanation will they use tomorrow?
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-2-dark.svg" | relative_url }}" alt="Better Story illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Explain the Misleading Move Without Repeating It
 
@@ -331,7 +328,6 @@ Many myths survive because they exploit familiar reasoning shortcuts. They may r
 However, effective debunking avoids dwelling excessively on the false claim itself. The objective is not to rehearse the myth repeatedly but to show how it generated an incorrect interpretation.
 
 A useful pattern is:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -344,7 +340,6 @@ A useful pattern is:
 
 This structure keeps attention anchored on the replacement story rather than the error.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PSGW_zWJkY0" title="What is a Myth?| Myths Explained Simply | Low Stimulation Videos for Kids | Genre" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PSGW_zWJkY0" target="_blank" rel="noopener noreferrer">What is a Myth?| Myths Explained Simply | Low Stimulation Videos for Kids | Genre</a></p><p class="youtube-embed-meta">Channel: ReadingPad &middot; Views: 28.7K &middot; Uploaded: December 2024 &middot; Length: 1 minute 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PSGW_zWJkY0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PSGW_zWJkY0">Open on YouTube</a></p></div></div></div>
 
 ## Replace Practical Guidance, Not Just Beliefs
@@ -355,7 +350,6 @@ A health myth may suggest a treatment. A political myth may identify a villain. 
 
 Effective replacement stories therefore answer practical questions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What should someone believe?
@@ -365,7 +359,6 @@ Effective replacement stories therefore answer practical questions:
 </div>
 
 For example, replacing a myth about vaccine safety is more effective when the correction explains how safety monitoring works, what side effects are actually expected, and where trustworthy information can be found. The new story provides both understanding and direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionWe conclude by providing specific recommendations for the debunking of misinformation. Thes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the cogni...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-3-dark.svg" | relative_url }}" alt="Better Story illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the Better Story Includes the Source of the Myth
@@ -385,7 +378,6 @@ Answering both questions creates a more complete narrative than either the myth 
 
 A successful replacement story has several characteristics:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **It begins with the accurate account.**
@@ -396,7 +388,7 @@ A successful replacement story has several characteristics:
 
 </div>
 
-The central lesson from misinformation research is that people do not merely collect facts. They organise facts into stories about how the world works. Debunking succeeds when it replaces a flawed story with a better one—one that explains more, predicts more, and leaves fewer unanswered questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the cogni...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalscience.com/Busting-myths-practical-guide-countering-science-denial.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">Skeptical ScienceBusting myths: a practical guide to countering science denial12 June 2015 — In our online course, Making Sense of Climat...</span><span class="citation-popover-meta">Published: June 2015</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionWe conclude by providing specific recommendations for the debunking of misinformation. Thes...</span></span></span>
+The central lesson from misinformation research is that people do not merely collect facts. They organise facts into stories about how the world works. Debunking succeeds when it replaces a flawed story with a better one—one that explains more, predicts more, and leaves fewer unanswered questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the cogni...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Debunking Handbook Part 5 Filling gap with alternative explanation</span><span class="citation-popover-snippet">Skeptical ScienceThe Debunking Handbook Part 5: Filling the gap with an...25 Nov 2011 — The most effective way to reduce the effect of m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionWe conclude by providing specific recommendations for the debunking of misinformation. Thes...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -794,169 +786,169 @@ The central lesson from misinformation research is that people do not merely col
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the cogni...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-021-00335-9](https://link.springer.com/article/10.1186/s41235-021-00335-9)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerExploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — Researchers have found that indivi...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — Researchers have found that indivi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ltrr.arizona.edu  
-   Link: [https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf](https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf)  
+   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Handbookby S Lewandowsky — The most effective way to reduce the effect of misinformation is to provide an alternative explanati...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: skepticalscience.com  
    Title: Debunking Handbook Part 5 Filling gap with alternative explanation  
-   Link: [https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html](https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html)  
+   Link: <a href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceThe Debunking Handbook Part 5: Filling the gap with an...25 Nov 2011 — The most effective way to reduce the effect of m...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/1529100612451018](https://journals.sagepub.com/doi/10.1177/1529100612451018)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100612451018</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMisinformation and Its CorrectionWe conclude by providing specific recommendations for the debunking of misinformation. Thes...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: climatechangecommunication.org  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>15. Example of a Refutation. FACT. MYTH. FALLACY. FACT. Do not rely on a simple retraction. (“this claim is not true”). Lead with...Read...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: climatecommunication.gmu.edu  
    Title: the debunking handbook 2020  
-   Link: [https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/](https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/)  
+   Link: <a href="https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/" target="_blank" rel="noopener noreferrer nofollow">https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationThe Debunking Handbook 2020Sep 13, 2023 — The Debunking Handbook 2020 summarizes the current state...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: digitalcommons.unl.edu  
-   Link: [https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf](https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>15. Example of a Refutation. FACT. MYTH. FALLACY. FACT. Do not rely on a simple retraction. (“this claim is not true”). Lead with...Read...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ksjhandbook.org  
-   Link: [https://ksjhandbook.org/misinformation/structuring-your-argument/](https://ksjhandbook.org/misinformation/structuring-your-argument/)  
+   Link: <a href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow">https://ksjhandbook.org/misinformation/structuring-your-argument/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Structuring Your ArgumentThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting the correct information first...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/1529100612451018](https://journals.sagepub.com/doi/abs/10.1177/1529100612451018)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612451018</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s memory for misinformation an...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: digitalcommons.unl.edu  
-   Link: [https://digitalcommons.unl.edu/scholcom/245/](https://digitalcommons.unl.edu/scholcom/245/)  
+   Link: <a href="https://digitalcommons.unl.edu/scholcom/245/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/scholcom/245/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsThe Debunking Handbook 2020 - DigitalCommons@UNLby S Lewandowsky · 2020 · Cited by 494 — The Handbook distills the most im...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: skepticalscience.com  
-   Link: [https://skepticalscience.com/Busting-myths-practical-guide-countering-science-denial.html](https://skepticalscience.com/Busting-myths-practical-guide-countering-science-denial.html)  
+   Link: <a href="https://skepticalscience.com/Busting-myths-practical-guide-countering-science-denial.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Busting-myths-practical-guide-countering-science-denial.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceBusting myths: a practical guide to countering science denial12 June 2015 — In our online course, Making Sense of Climat...</p></details>
    Published: June 2015  
 
 13. <a id="endnote-13"></a>
    Source: shapingtomorrowsworld.org  
-   Link: [https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html](https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html)  
+   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping Tomorrows WorldThe Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — The most effective way to reduce the...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: skepticalscience.com  
    Title: The list of references is available here.Read more  
-   Link: [https://skepticalscience.com/debunking-handbook-2020-debunk-often-and-properly.html](https://skepticalscience.com/debunking-handbook-2020-debunk-often-and-properly.html)  
+   Link: <a href="https://skepticalscience.com/debunking-handbook-2020-debunk-often-and-properly.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-debunk-often-and-properly.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: Debunk often and properly26 Oct 2020 — This blog post is part 4 of a series of excerpts from The Debunking H...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: skepticalscience.com  
    Title: Fact Myth Fallacy Slide Deck  
-   Link: [https://skepticalscience.com/Fact-Myth-Fallacy-Slide-Deck.html](https://skepticalscience.com/Fact-Myth-Fallacy-Slide-Deck.html)  
+   Link: <a href="https://skepticalscience.com/Fact-Myth-Fallacy-Slide-Deck.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Fact-Myth-Fallacy-Slide-Deck.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New resource: The Fact-Myth-Fallacy slide-deck9 Apr 2018 — A slide-deck with one page for each debunking and an index-page utilising the...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: skepticalscience.com  
-   Link: [https://skepticalscience.com/resources.shtml](https://skepticalscience.com/resources.shtml)  
+   Link: <a href="https://skepticalscience.com/resources.shtml" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/resources.shtml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ResourcesFact-Myth-Fallacy PDF: debunking the most common climate myths · JC-ASC2016, Public Talks · The Consensus Project Website · THE...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: skepticalscience.com  
    Title: debunking handbook 2020 downloads translations  
-   Link: [https://skepticalscience.com/debunking-handbook-2020-downloads-translations.html](https://skepticalscience.com/debunking-handbook-2020-downloads-translations.html)  
+   Link: <a href="https://skepticalscience.com/debunking-handbook-2020-downloads-translations.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-downloads-translations.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: Downloads and...14 Oct 2020 — The Handbook distills the most important research findings and current expert...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: skepticalscience.com  
    Title: The list of references is  
-   Link: [https://skepticalscience.com/debunking-handbook-2020-prevent-misinformation-from-sticking.html](https://skepticalscience.com/debunking-handbook-2020-prevent-misinformation-from-sticking.html)  
+   Link: <a href="https://skepticalscience.com/debunking-handbook-2020-prevent-misinformation-from-sticking.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-prevent-misinformation-from-sticking.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Prevent misinformation from sticking if you canOct 20, 2020 — This blog post is part 2 of a series of excerpts from The Debunking Handboo...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: skepticalscience.com  
-   Link: [https://skepticalscience.com/debunking-handbook-2020-references.html](https://skepticalscience.com/debunking-handbook-2020-references.html)  
+   Link: <a href="https://skepticalscience.com/debunking-handbook-2020-references.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-references.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: References26 Oct 2020 — [Fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) game confers psychological resistance against online misinformation...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: skepticalscience.com  
    Title: debunking handbook now freely available download  
-   Link: [https://skepticalscience.com/debunking-handbook-now-freely-available-download.html](https://skepticalscience.com/debunking-handbook-now-freely-available-download.html)  
+   Link: <a href="https://skepticalscience.com/debunking-handbook-now-freely-available-download.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-now-freely-available-download.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook: now freely available for download27 Nov 2011 — The Debunking Handbook is now available in an extensively updated...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: skepticalscience.com  
-   Link: [https://skepticalscience.com/print.php?n=4886](https://skepticalscience.com/print.php?n=4886)  
+   Link: <a href="https://skepticalscience.com/print.php?n=4886" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=4886</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: Downloads and...Oct 14, 2020 — The Handbook distills the most important research findings and current exper...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/myth](https://www.britannica.com/topic/myth)  
+   Link: <a href="https://www.britannica.com/topic/myth" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/myth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Examples, &amp; Facts17 Apr 2026 — a symbolic narrative, usually of unknown origin and at least partly traditional, that...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/myth](https://www.merriam-webster.com/dictionary/myth)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/myth" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/myth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning29 Apr 2026 — The meaning of MYTH is a usually traditional story of ostensibly historical events that serves to unfol...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=PSGW_zWJkY0](https://www.youtube.com/watch?v=PSGW_zWJkY0)  
+   Link: <a href="https://www.youtube.com/watch?v=PSGW_zWJkY0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSGW_zWJkY0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>teach lessons...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: research-information.bris.ac.uk  
    Title: debunking handbook 2020  
-   Link: [https://research-information.bris.ac.uk/en/datasets/debunking-handbook-2020/](https://research-information.bris.ac.uk/en/datasets/debunking-handbook-2020/)  
+   Link: <a href="https://research-information.bris.ac.uk/en/datasets/debunking-handbook-2020/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/datasets/debunking-handbook-2020/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook 2020This handbook compiles expert data about debunking misinformation. You may download a PDF of the handbook in the &quot;Highlights...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/myth](https://dictionary.cambridge.org/dictionary/english/myth)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionaryan ancient story or set of stories, especially explaining the early history of a group of people...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/myth" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/myth</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionaryan ancient story or set of stories, especially explaining the early history of a group of people...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: meetingorganizer.copernicus.org  
    Title: EGU26 4110  
-   Link: [https://meetingorganizer.copernicus.org/EGU26/EGU26-4110.html](https://meetingorganizer.copernicus.org/EGU26/EGU26-4110.html)  
+   Link: <a href="https://meetingorganizer.copernicus.org/EGU26/EGU26-4110.html" target="_blank" rel="noopener noreferrer nofollow">https://meetingorganizer.copernicus.org/EGU26/EGU26-4110.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EGU26-4110by B Winkler · 2026 — Skeptical Science is a highly-visited website featuring 250 rebuttals of misinformation about climate cha...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: study.com  
    Title: Myth in Literature | Definition, Types & Examples  
-   Link: [https://study.com/academy/lesson/what-are-myths-definition-types-examples.html](https://study.com/academy/lesson/what-are-myths-definition-types-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/what-are-myths-definition-types-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/what-are-myths-definition-types-examples.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LessonA myth in literature is a story passed down from generation to generation that attempts to explain an origin or natural occurrence...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: thegreatsimplification.com  
-   Link: [https://www.thegreatsimplification.com/episode/212-john-cook](https://www.thegreatsimplification.com/episode/212-john-cook)  
+   Link: <a href="https://www.thegreatsimplification.com/episode/212-john-cook" target="_blank" rel="noopener noreferrer nofollow">https://www.thegreatsimplification.com/episode/212-john-cook</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Inoculate Against MisinformationHumans aren&#x27;t rational. We don&#x27;t evaluate facts objectively; instead, we interpret them through ou...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: education.umd.edu  
    Title: 10 14 20 debunking handbook 2020 countering misinformation  
-   Link: [https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation](https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation)  
+   Link: <a href="https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook 2020: Countering Misinformation14 Oct 2020 — The Debunking Handbook 2020 aims to do just that by summarizing the current state o...</p></details>

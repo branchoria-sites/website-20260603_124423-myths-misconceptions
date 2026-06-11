@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a
 - Myths_and_misconcept_0d48d7_education_myth_corre_425e93_refutation_texts_c321aa
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - teacher-corrections
 - training-design
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - teacher-corrections
 - training-design
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Durable correction needs pre-checks, clear refutation, replacement practices, follow-up coaching and audits of old materials.
 hero_summary: Durable correction needs pre-checks, clear refutation, replacement practices, follow-up coaching and audits of old materials.
 layout: default
 permalink: /training-design/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /teacher-corrections/
 nav_short_title: Training design
 title: How Teacher Training Can Keep Myths Gone
-title_full: How Teacher Training Can Keep Myths Gone | Teacher Corrections
+title_full: How Teacher Training Can Keep Myths Gone
 display_title_short: Training design
 display_title: Training design
 heading_title: How Teacher Training Can Keep Myths Gone
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can Teacher Training Reduce Education Myths? | Mythcraft
+parent_title: Can Teacher Training Reduce Education Myths?
 parent_permalink: /teacher-corrections/
 parent_nav_short_title: Teacher Corrections
 parent_heading_title: Can Teacher Training Reduce Education Myths?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Some Myth Corrections Actually Stick
 up_link:
   basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
@@ -259,7 +259,7 @@ prev_link:
   permalink: /refutation-texts/
   short_title: Refutation texts
   heading_title: Why Some Myth Corrections Actually Stick
-date: '2026-06-09 05:10:48 '
+date: '2026-06-11 22:24:32 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_teacher_training_des_9497ab-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_teacher_training_des_9497ab-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_te
 
 ## Introduction
 
-Teacher training does not keep myths corrected simply by presenting better information. Educational myths survive because they become embedded in lesson plans, assessment templates, staff discussions, commercial resources and professional habits. Effective training therefore has to do more than debunk a claim once. It must change the decisions teachers make, provide credible alternatives, reinforce those alternatives over time, and remove the organisational structures that allow the myth to reappear. Research on neuromyths, [conceptual change]({{ 'concept-change/' | relative_url }}) and professional learning consistently shows that belief [correction]({{ 'correction/' | relative_url }}) is possible, but that gains are often weakened when training ends, materials remain unchanged, or teachers receive no follow-up support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">FrontiersInterventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span> ScienceDirect The design challenge is therefore a governance challenge as much as a knowledge challenge: how schools <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectCorrecting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</span></span></span>, training providers and education systems can build correction into ongoing practice rather than treating it as a one-off workshop.
-
+Teacher training does not keep myths corrected simply by presenting better information. Educational myths survive because they become embedded in lesson plans, assessment templates, staff discussions, commercial resources and professional habits. Effective training therefore has to do more than debunk a claim once. It must change the decisions teachers make, provide credible alternatives, reinforce those alternatives over time, and remove the organisational structures that allow the myth to reappear. Research on [neuromyths]({{ 'neuromyths/' | relative_url }}), conceptual change and professional learning consistently shows that belief [correction]({{ 'correction/' | relative_url }}) is possible, but that gains are often weakened when training ends, materials remain unchanged, or teachers receive no follow-up support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span> ScienceDirect The design challenge is therefore a governance challenge as much as a knowledge challenge: how schools <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Correcting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</span></span></span>, training providers and education systems can build correction into ongoing practice rather than treating it as a one-off workshop.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_teacher_training_des_9497ab-Illustration-1-dark.svg" | relative_url }}" alt="Training design illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_teacher_training_des_9497ab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_teacher_training_des_9497ab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Start With Real Teaching Decisions
@@ -280,7 +279,6 @@ Training is more likely to produce durable change when it begins with these deci
 
 For example, a session on learning styles should not stop at explaining that matching instruction to a preferred style lacks supporting evidence. It should also address practical questions such as:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * How should teachers respond when pupils say they are “visual learners”?
@@ -290,7 +288,7 @@ For example, a session on learning styles should not stop at explaining that mat
 
 </div>
 
-This approach matters because reductions in myth endorsement do not automatically translate into changes in intended classroom practice. Researchers reviewing neuromyth interventions have repeatedly identified a gap between corrected beliefs and altered teaching behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">FrontiersInterventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span>
+This approach matters because reductions in myth endorsement do not automatically translate into changes in intended classroom practice. Researchers reviewing neuromyth interventions have repeatedly identified a gap between corrected beliefs and altered teaching behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span>
 
 ### Pre-check Existing Assumptions
 
@@ -298,16 +296,15 @@ Strong training begins by identifying which myths are already influencing decisi
 
 First, it reveals whether participants actually hold the misconception. Second, it surfaces the specific reasoning that supports it. Different teachers may endorse the same myth for different reasons.
 
-A teacher who believes in learning styles because pupils express preferences requires a different corrective explanation from a teacher who encountered the concept during initial teacher education. Studies suggest that myths often spread through teacher preparation programmes, instructional materials, peer networks and popular educational media rather than through direct engagement with research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectCorrecting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</span></span></span>
+A teacher who believes in learning styles because pupils express preferences requires a different corrective explanation from a teacher who encountered the concept during initial teacher education. Studies suggest that myths often spread through teacher preparation programmes, instructional materials, peer networks and popular educational media rather than through direct engagement with research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Correcting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</span></span></span>
 
 Diagnostic activities, short surveys and planning discussions therefore become part of the correction process rather than merely a way of measuring outcomes.
 
 ## Build Correction Into Planning and Coaching
 
-A recurring finding in misconception research is that correction is strongest when it combines explicit refutation with a replacement explanation. Simply saying that a belief is wrong leaves a gap that the original myth can easily reoccupy. Refutation-based approaches work best when they explain why the myth is appealing, identify the error and provide a more accurate model of learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">FrontiersInterventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span>
+A recurring finding in misconception research is that correction is strongest when it combines explicit refutation with a replacement explanation. Simply saying that a belief is wrong leaves a gap that the original myth can easily reoccupy. Refutation-based approaches work best when they explain why the myth is appealing, identify the error and provide a more accurate model of learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span>
 
 Teacher training should therefore follow a structured sequence:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -320,19 +317,15 @@ Teacher training should therefore follow a structured sequence:
 
 </div>
 
-Research on [refutation texts]({{ 'refutation-texts/' | relative_url }}) and neuromyth correction shows that this structure can reduce false beliefs for weeks or months after training, although reinforcement remains important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectCorrecting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ED_MdfkPONw" title="Debunking Neuromyths: Transform Your Teaching Practice Today!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ED_MdfkPONw" target="_blank" rel="noopener noreferrer">Debunking Neuromyths: Transform Your Teaching Practice Today!</a></p><p class="youtube-embed-meta">Channel: Conexiones: The Learning Sciences Platform &middot; Views: 6.5K &middot; Uploaded: May 2017 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ED_MdfkPONw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ED_MdfkPONw">Open on YouTube</a></p></div></div></div>
+Research on [refutation texts]({{ 'refutation-texts/' | relative_url }}) and neuromyth correction shows that this structure can reduce false beliefs for weeks or months after training, although reinforcement remains important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Correcting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</span></span></span>
 
 ### Move From Workshops to Coaching Cycles
 
 The most important design shift is to treat correction as an ongoing coaching issue rather than a single training event.
 
-After an initial session, coaches, mentors or instructional leaders can review lesson plans, observe classrooms and discuss whether old assumptions have reappeared. This matters because intuitive explanations are often resilient even after teachers can correctly answer survey questions. Studies have found that corrected misconceptions may continue to influence reasoning despite explicit feedback and improved factual knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby MPG Lithander · 2024 · Cited by 3 — The results demonstrate that feedback can be used to update beliefs in neuromyths, but these be...</span></span></span>
+After an initial session, coaches, mentors or instructional leaders can review lesson plans, observe classrooms and discuss whether old assumptions have reappeared. This matters because intuitive explanations are often resilient even after teachers can correctly answer survey questions. Studies have found that corrected misconceptions may continue to influence reasoning despite explicit feedback and improved factual knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by MPG Lithander · 2024 · Cited by 3 — The results demonstrate that feedback can be used to update beliefs in neuromyths, but these be...</span></span></span>
 
 Effective coaching questions include:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -345,17 +338,15 @@ Effective coaching questions include:
 
 The goal is not surveillance but reinforcement. Repeated retrieval of the corrected explanation strengthens the likelihood that it becomes the default interpretation when teachers encounter future claims.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CAeqk12vDC4" title="Helping Students Overcome Science Misconceptions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CAeqk12vDC4" target="_blank" rel="noopener noreferrer">Helping Students Overcome Science Misconceptions</a></p><p class="youtube-embed-meta">Channel: NCSE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CAeqk12vDC4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CAeqk12vDC4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ED_MdfkPONw" title="Debunking Neuromyths: Transform Your Teaching Practice Today!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ED_MdfkPONw" target="_blank" rel="noopener noreferrer">Debunking Neuromyths: Transform Your Teaching Practice Today!</a></p><p class="youtube-embed-meta">Channel: Conexiones: The Learning Sciences Platform &middot; Views: 6.5K &middot; Uploaded: May 2017 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ED_MdfkPONw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ED_MdfkPONw">Open on YouTube</a></p></div></div></div>
 
 ### Use Spaced Reinforcement
 
 Belief correction should be revisited over time rather than concentrated into a single session.
 
-Research on educational misconceptions suggests that immediate improvements are common but can fade. Reviews of neuromyth interventions note that short-term gains often require continuing support if they are to remain stable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">FrontiersInterventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span>
+Research on educational misconceptions suggests that immediate improvements are common but can fade. Reviews of neuromyth interventions note that short-term gains often require continuing support if they are to remain stable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span>
 
 Practical reinforcement mechanisms include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -369,7 +360,6 @@ Practical reinforcement mechanisms include:
 
 The objective is to normalise evidence checking as part of professional culture rather than as a special intervention.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_teacher_training_des_9497ab-Illustration-2-dark.svg" | relative_url }}" alt="Training design illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_teacher_training_des_9497ab-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_teacher_training_des_9497ab-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Audit Materials That Keep Myths Alive
 
@@ -382,7 +372,6 @@ Several studies have highlighted the continuing presence of myths in teacher pre
 ### Identify High-Risk Documents
 
 Priority targets include:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -399,7 +388,6 @@ Priority targets include:
 The purpose is not merely to remove incorrect statements. It is to identify where organisational processes still assume the myth is true.
 
 For example, if a school abandons learning styles, associated pupil categorisation forms should disappear as well. If teachers are taught that ability is malleable, performance-management systems should avoid language that reinforces fixed assumptions about learners.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_teacher_training_des_9497ab-Illustration-3-dark.svg" | relative_url }}" alt="Training design illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_teacher_training_des_9497ab-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_teacher_training_des_9497ab-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Create Approved Replacements
@@ -428,13 +416,9 @@ Training should therefore include routines such as:
 
 Importantly, evidence evaluation should be linked to actual school decisions rather than taught as a generic critical-thinking exercise. Research examining neuromyth correction suggests that broad appeals to “think critically” are less effective than targeted engagement with specific claims and evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niot.org.uk">[niot.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niot.org.uk</span><span class="citation-popover-title">neuromyths in the classroom and the role of critical thinking</span><span class="citation-popover-snippet">Half the group received basic...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KVLTxKyxioA" title="The Science of Teaching, Effective Education, and Great Schools" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KVLTxKyxioA" target="_blank" rel="noopener noreferrer">The Science of Teaching, Effective Education, and Great Schools</a></p><p class="youtube-embed-meta">Channel: Sprouts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KVLTxKyxioA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KVLTxKyxioA">Open on YouTube</a></p></div></div></div>
-
 ## What Successful Training Looks Like
 
 Teacher training that keeps myths gone is characterised by five linked features:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -446,7 +430,7 @@ Teacher training that keeps myths gone is characterised by five linked features:
 
 </div>
 
-When these elements operate together, correction becomes part of institutional practice rather than a temporary change in opinion. That shift—from myth [debunking]({{ 'debunking/' | relative_url }}) to system redesign—is what gives educational [corrections]({{ 'corrections/' | relative_url }}) their best chance of lasting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dash.harvard.edu/bitstreams/7312037e-932b-6bd4-e053-0100007fdf3b/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dash.harvard.edu">[dash.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dash.harvard.edu</span><span class="citation-popover-snippet">Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — The goal of this study was to provid...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">FrontiersInterventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectCorrecting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</span></span></span>
+When these elements operate together, correction becomes part of institutional practice rather than a temporary change in opinion. That shift—from myth [debunking]({{ 'debunking/' | relative_url }}) to system redesign—is what gives educational [corrections]({{ 'corrections/' | relative_url }}) their best chance of lasting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dash.harvard.edu/bitstreams/7312037e-932b-6bd4-e053-0100007fdf3b/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dash.harvard.edu">[dash.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dash.harvard.edu</span><span class="citation-popover-snippet">Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — The goal of this study was to provid...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Correcting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -844,126 +828,126 @@ When these elements operate together, correction becomes part of institutional p
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140](https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectCorrecting [Neuromyths](&amp;#123;&amp;#123; &#x27;neuromyths/&#x27; | relative_url &amp;#125;&amp;#125;): A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Correcting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MPG Lithander · 2024 · Cited by 3 — The results demonstrate that feedback can be used to update beliefs in neuromyths, but these be...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MPG Lithander · 2024 · Cited by 3 — The results demonstrate that feedback can be used to update beliefs in neuromyths, but these be...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2211949324000164](https://www.sciencedirect.com/science/article/abs/pii/S2211949324000164)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectWhere did pre-service teachers, teachers, and the general...by LSR Sazaka · 2024 · Cited by 12 — Participants showed over 5...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211949324000164" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211949324000164</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Where did pre-service teachers, teachers, and the general...by LSR Sazaka · 2024 · Cited by 12 — Participants showed over 5...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-025-05470-y](https://www.nature.com/articles/s41599-025-05470-y)  
+   Link: <a href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05470-y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational myths among teachers: prevalence and...by Y Tunga · 2025 · Cited by 1 — Results indicated that educational myths are common...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the learning needs of young people. Instead...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The basic idea behind the use of...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby RA Ferreira · 2022 · Cited by 51 — Overall, these results suggest that the SoL course significantly improved overall neuroscience l...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by RA Ferreira · 2022 · Cited by 51 — Overall, these results suggest that the SoL course significantly improved overall neuroscience l...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: niot.org.uk  
    Title: neuromyths in the classroom and the role of critical thinking  
-   Link: [https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking](https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking)  
+   Link: <a href="https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Half the group received basic...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183](https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belief in neuromyths among primary school teachersby OC Adiguzel · 2025 · Cited by 2 — The persistence of neuromyths among teachers under...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: dash.harvard.edu  
-   Link: [https://dash.harvard.edu/bitstreams/7312037e-932b-6bd4-e053-0100007fdf3b/download](https://dash.harvard.edu/bitstreams/7312037e-932b-6bd4-e053-0100007fdf3b/download)  
+   Link: <a href="https://dash.harvard.edu/bitstreams/7312037e-932b-6bd4-e053-0100007fdf3b/download" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstreams/7312037e-932b-6bd4-e053-0100007fdf3b/download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — The goal of this study was to provid...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: frontiersin.org  
    Title: Are refutation-based interventions effective at dispelling  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersInterventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: educationnext.org  
-   Link: [https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/](https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/)  
+   Link: <a href="https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Education NextThe Stubborn Myth of “Learning Styles”April 7, 2020 — 7 Apr 2020 — There is no evidence that designing lessons that appeal...</p></details>
    Published: April 7, 2020  
 
 13. <a id="endnote-13"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/](https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/)  
+   Link: <a href="https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeTeachers&#x27; understanding of neuromyths: A role for...20 Sept 2022 — Debunking neuromyths through training in educational...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/educational-neuromyths-and-instructional-practices-the-case-12ess1im50.pdf](https://scispace.com/pdf/educational-neuromyths-and-instructional-practices-the-case-12ess1im50.pdf)  
+   Link: <a href="https://scispace.com/pdf/educational-neuromyths-and-instructional-practices-the-case-12ess1im50.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/educational-neuromyths-and-instructional-practices-the-case-12ess1im50.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational Neuromyths and Instructional PracticesMany studies report that those educational neuromyths which are prevailing among teache...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: innerdrive.co.uk  
-   Link: [https://www.innerdrive.co.uk/blog/combat-neuromyths/](https://www.innerdrive.co.uk/blog/combat-neuromyths/)  
+   Link: <a href="https://www.innerdrive.co.uk/blog/combat-neuromyths/" target="_blank" rel="noopener noreferrer nofollow">https://www.innerdrive.co.uk/blog/combat-neuromyths/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuromyths and how to combat them: An educator&#x27;s guideNeuromyths are misconceptions about how the brain functions and learns. These myths...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: efsupit.ro  
-   Link: [https://efsupit.ro/images/stories/july2024/Art%20190.pdf](https://efsupit.ro/images/stories/july2024/Art%20190.pdf)  
+   Link: <a href="https://efsupit.ro/images/stories/july2024/Art%20190.pdf" target="_blank" rel="noopener noreferrer nofollow">https://efsupit.ro/images/stories/july2024/Art%20190.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract: Neuromyths are misconceptions arising from misinterpreted or biased data, often lacking scientific evidence and.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: dispelling the myth training in education or neuroscience decreases but does not  
-   Link: [https://www.facebook.com/SmartSpeechTherapyLlc/posts/dispelling-the-myth-training-in-education-or-neuroscience-decreases-but-does-not/10156401242212290/](https://www.facebook.com/SmartSpeechTherapyLlc/posts/dispelling-the-myth-training-in-education-or-neuroscience-decreases-but-does-not/10156401242212290/)  
+   Link: <a href="https://www.facebook.com/SmartSpeechTherapyLlc/posts/dispelling-the-myth-training-in-education-or-neuroscience-decreases-but-does-not/10156401242212290/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SmartSpeechTherapyLlc/posts/dispelling-the-myth-training-in-education-or-neuroscience-decreases-but-does-not/10156401242212290/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dispelling the Myth: Training in Education or Neuroscience...27 May 2018 — Intervention results are variable: One research group found t...</p></details>
    Published: May 2018  
 
 18. <a id="endnote-18"></a>
    Source: lthechat.com  
    Title: 186 debunking neuromyths in education what psychology really tells us  
-   Link: [https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/](https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/)  
+   Link: <a href="https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/" target="_blank" rel="noopener noreferrer nofollow">https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#LTHEchat185: Debunking Neuromyths in Education:...11 Oct 2020 — Recent research has suggested that among college-level staff, 97% and 7...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cis.org.au  
    Title: knowledge is power what do teachers believe about learning  
-   Link: [https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/](https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/)  
+   Link: <a href="https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge is power: What do teachers believe about...30 Oct 2025 — Specific studies on certain neuromyths such as learning styles and he...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: discovery.ucl.ac.uk  
    Title: Tolmie Issue paper Chartered College of Teaching  
-   Link: [https://discovery.ucl.ac.uk/id/eprint/10156236/1/Tolmie_Issue%20paper-Chartered%20College%20of%20Teaching.pdf](https://discovery.ucl.ac.uk/id/eprint/10156236/1/Tolmie_Issue%20paper-Chartered%20College%20of%20Teaching.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10156236/1/Tolmie_Issue%20paper-Chartered%20College%20of%20Teaching.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10156236/1/Tolmie_Issue%20paper-Chartered%20College%20of%20Teaching.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ucl.ac.ukTeachers&#x27; understanding of neuromyths: A role for educational...by Y Arslan · 2022 · Cited by 9 — Debunking neuromyths through...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/sharingbestpractice/posts/2567351220265040/](https://www.facebook.com/groups/sharingbestpractice/posts/2567351220265040/)  
+   Link: <a href="https://www.facebook.com/groups/sharingbestpractice/posts/2567351220265040/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/sharingbestpractice/posts/2567351220265040/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ght as fact in teacher education and professional development and even...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/edutopia/posts/-myth-busted-tailoring-instruction-to-students-preferred-learning-styles-has-no-/1040843741414906/](https://www.facebook.com/edutopia/posts/-myth-busted-tailoring-instruction-to-students-preferred-learning-styles-has-no-/1040843741414906/)  
+   Link: <a href="https://www.facebook.com/edutopia/posts/-myth-busted-tailoring-instruction-to-students-preferred-learning-styles-has-no-/1040843741414906/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edutopia/posts/-myth-busted-tailoring-instruction-to-students-preferred-learning-styles-has-no-/1040843741414906/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch to see what other learning myths it&#x27;s time to ditch.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: theeffortfuleducator.com  
    Title: fighting the good fight against neuromyths  
-   Link: [https://theeffortfuleducator.com/2019/09/16/fighting-the-good-fight-against-neuromyths/](https://theeffortfuleducator.com/2019/09/16/fighting-the-good-fight-against-neuromyths/)  
+   Link: <a href="https://theeffortfuleducator.com/2019/09/16/fighting-the-good-fight-against-neuromyths/" target="_blank" rel="noopener noreferrer nofollow">https://theeffortfuleducator.com/2019/09/16/fighting-the-good-fight-against-neuromyths/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fighting the Good Fight...Against Neuromyths16 Sept 2019 — Specifically, the study investigated (1) “the neuromyths held by the trainees...</p></details>

@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - left-brain
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - left-brain
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Left-brain and right-brain learner labels oversimplify brain function and can distract from better teaching choices.
 hero_summary: Left-brain and right-brain learner labels oversimplify brain function and can distract from better teaching choices.
 layout: default
 permalink: /left-brain/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Left Brain
 title: Are People Really Left Brain or Right Brain?
-title_full: Are People Really Left Brain or Right Brain? | Mythcraft
+title_full: Are People Really Left Brain or Right Brain?
 display_title_short: Left Brain
 display_title: Left Brain
 heading_title: Are People Really Left Brain or Right Brain?
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 next_link:
   basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
-date: '2026-06-09 04:12:49 '
+date: '2026-06-11 21:55:41 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870-overview.webp
@@ -502,7 +502,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870-ov
 ## Introduction
 
 The claim that people are “left-brain learners” or “right-brain learners” is a memorable myth built from a real fact: some brain functions are somewhat lateralised, meaning one hemisphere may be more involved than the other. The leap from that fact to classroom labels is where the evidence fails. Large-scale brain imaging has not supported the idea that people have a global left-brain or right-brain dominance that explains personality, talent or learning style. In practice, learning usually depends on networks across both hemispheres, plus attention, prior knowledge, motivation, feedback and practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0071275" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Open source on plos.org.</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870-overview.webp" | relative_url }}" alt="Overview image for Left Brain" loading="eager" decoding="sync" fetchpriority="high">
 This matters because the label can sound scientific while encouraging weak teaching choices. A pupil described as “right-brained” may be steered towards creative tasks and away from structured reasoning; a “left-brained” pupil may be treated as analytical but not imaginative. The better conclusion is simpler and more useful: learners differ, but their differences are not reliably explained by a two-column brain label.
@@ -515,7 +514,6 @@ That story has survived because it borrows from genuine neuroscience. Language i
 
 That distinction is the heart of the myth. A brain can show specialised regions without making the person a specialised hemisphere type. Hemispheric dominance, used accurately, means one hemisphere is more involved in a specific process. The neuromyth turns that narrow idea into a broad [identity]({{ 'identity/' | relative_url }}) claim about how a learner thinks, learns and should be taught. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870-Illustration-1-dark.svg" | relative_url }}" alt="Left Brain illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the simplification misses
 
@@ -526,7 +524,6 @@ Creativity is a useful example because it is so often assigned to the “right b
 The same caution applies to “learning styles” more broadly. The influential review by Harold Pashler and colleagues explains that learning-style claims require a specific kind of evidence: students would need to be assessed by style, randomly assigned to different teaching methods, and then show that each style learns best from a matching method. Their review found that the evidence needed to justify learning-style-based instruction was not available, despite the popularity of the approach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Learning Styles</span><span class="citation-popover-snippet">Sage Journals Learning Styles</span></span></span>
 
 So the problem is not that all learners are identical. They are not. The problem is that hemisphere labels do not give teachers a reliable map of those differences. More defensible explanations point to prior knowledge, vocabulary, working memory demands, interest, attention, practice history, feedback quality and task design. These are less catchy than “left-brain” or “right-brain”, but they are closer to what teachers can actually observe and improve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZMSbDwpIyF4" title="The left brain vs. right brain myth - Elizabeth Waters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZMSbDwpIyF4" target="_blank" rel="noopener noreferrer">The left brain vs. right brain myth - Elizabeth Waters</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 1.2M &middot; Uploaded: July 2017 &middot; Length: 4 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZMSbDwpIyF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZMSbDwpIyF4">Open on YouTube</a></p></div></div></div>
 
@@ -540,7 +537,6 @@ Surveys show that such myths remain common among educators. A 2012 study of teac
 
 That persistence does not mean teachers are careless. It shows how easily attractive brain claims spread when they sound practical, hopeful and learner-centred. The left-brain/right-brain label gives a quick explanation for classroom differences; evidence-based teaching often asks for slower diagnosis of the task, the learner’s knowledge, and the instruction itself.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870-Illustration-2-dark.svg" | relative_url }}" alt="Left Brain illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why learner labels can mislead
 
@@ -549,7 +545,6 @@ A learner label becomes harmful when it changes expectations. A child who is cal
 It can also distract from better teaching decisions. If a pupil struggles with fractions, the useful question is not whether they are a left-brain or right-brain learner. Better questions include: Do they understand ratio? Can they connect the symbol to a visual model? Are they overloading working memory? Have they had enough guided practice and feedback? The answer may involve diagrams, spoken explanation, worked examples, retrieval practice and discussion — not because the pupil belongs to a hemisphere type, but because the content benefits from multiple representations.
 
 The same applies to creative subjects. A pupil learning composition, drawing or creative writing still needs structure, critique, modelling, vocabulary, memory and revision. Treating creativity as a right-brain trait can underplay the disciplined, teachable parts of creative work. Conversely, treating analysis as a left-brain trait can underplay the imagination involved in mathematics, science and argument.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hvpkLMBGmd0" title="The Left Brain / Right Brain Myth with Dr Richie Davidson and Dr Cortland Dahl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hvpkLMBGmd0" target="_blank" rel="noopener noreferrer">The Left Brain / Right Brain Myth with Dr Richie Davidson and Dr Cortland Dahl</a></p><p class="youtube-embed-meta">Channel: Dharma Lab | Dr. Richard Davidson &amp; Cortland Dahl &middot; Views: 273 &middot; Uploaded: May 2026 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hvpkLMBGmd0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hvpkLMBGmd0">Open on YouTube</a></p></div></div></div>
 
@@ -567,15 +562,12 @@ A better classroom rule is:
 
 This approach still respects learner differences, but it avoids turning them into fixed types. A pupil may prefer drawing, talking, reading or building; those preferences can help with engagement. They should not be mistaken for evidence that the pupil can only learn well through one channel, one style or one hemisphere.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870-Illustration-3-dark.svg" | relative_url }}" alt="Left Brain illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The tested claim in one sentence
 
 People do have lateralised brain functions, but the tested educational claim — that learners can be usefully divided into left-brain and right-brain types and taught accordingly — is not supported by the evidence. The myth survives because it is simple, personal and brain-flavoured; better teaching starts from the learning goal, the evidence about how people learn, and the specific barriers a learner is facing.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mKlkwJypzJQ" title="No, You&#x27;re Not Left-Brained or Right-Brained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mKlkwJypzJQ" target="_blank" rel="noopener noreferrer">No, You&#x27;re Not Left-Brained or Right-Brained</a></p><p class="youtube-embed-meta">Channel: Professor Dave Explains &middot; Views: 197.3K &middot; Uploaded: February 2018 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mKlkwJypzJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mKlkwJypzJQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -973,90 +965,90 @@ People do have lateralised brain functions, but the tested educational claim —
 
 1. <a id="endnote-1"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0071275](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0071275)  
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0071275" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0071275</a>  
 
 2. <a id="endnote-2"></a>
    Source: pure.mpg.de  
-   Link: [https://pure.mpg.de/rest/items/item_2495945_3/component/file_2496040/content](https://pure.mpg.de/rest/items/item_2495945_3/component/file_2496040/content)  
+   Link: <a href="https://pure.mpg.de/rest/items/item_2495945_3/component/file_2496040/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2495945_3/component/file_2496040/content</a>  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
 
 4. <a id="endnote-4"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article/citation?id=10.1371%2Fjournal.pone.0071275](https://journals.plos.org/plosone/article/citation?id=10.1371%2Fjournal.pone.0071275)  
+   Link: <a href="https://journals.plos.org/plosone/article/citation?id=10.1371%2Fjournal.pone.0071275" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article/citation?id=10.1371%2Fjournal.pone.0071275</a>  
 
 5. <a id="endnote-5"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article/figures?id=10.1371%2Fjournal.pone.0071275](https://journals.plos.org/plosone/article/figures?id=10.1371%2Fjournal.pone.0071275)  
+   Link: <a href="https://journals.plos.org/plosone/article/figures?id=10.1371%2Fjournal.pone.0071275" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article/figures?id=10.1371%2Fjournal.pone.0071275</a>  
 
 6. <a id="endnote-6"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full)  
+   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full</a>  
 
 7. <a id="endnote-7"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Learning Styles  
-   Link: [https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x](https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x</a>  
 
 8. <a id="endnote-8"></a>
    Source: educationalneuroscience.org.uk  
    Title: Howard Jones Neuromyth nature14  
-   Link: [https://www.educationalneuroscience.org.uk/wordpress/wp-content/uploads/2016/01/Howard-Jones-Neuromyth-nature14.pdf](https://www.educationalneuroscience.org.uk/wordpress/wp-content/uploads/2016/01/Howard-Jones-Neuromyth-nature14.pdf)  
+   Link: <a href="https://www.educationalneuroscience.org.uk/wordpress/wp-content/uploads/2016/01/Howard-Jones-Neuromyth-nature14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/wordpress/wp-content/uploads/2016/01/Howard-Jones-Neuromyth-nature14.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/</a>  
 
 10. <a id="endnote-10"></a>
    Source: edcan.ca  
    Title: neuromyths in education  
-   Link: [https://www.edcan.ca/articles/neuromyths-in-education/](https://www.edcan.ca/articles/neuromyths-in-education/)  
+   Link: <a href="https://www.edcan.ca/articles/neuromyths-in-education/" target="_blank" rel="noopener noreferrer nofollow">https://www.edcan.ca/articles/neuromyths-in-education/</a>  
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=855Now8h5pI](https://www.youtube.com/watch?v=855Now8h5pI)  
+   Link: <a href="https://www.youtube.com/watch?v=855Now8h5pI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=855Now8h5pI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos are relevant because they provide scientific evidence [debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) the &quot;left-brain vs. right-brain&quot; personality and learning st...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Left Brain / Right Brain Myth with Dr. Richie Davidson and Dr. Cortland Dahl  
-   Link: [https://www.youtube.com/watch?v=hvpkLMBGmd0](https://www.youtube.com/watch?v=hvpkLMBGmd0)  
+   Link: <a href="https://www.youtube.com/watch?v=hvpkLMBGmd0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hvpkLMBGmd0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No, You&#x27;re Not Left-Brained or Right-Brained...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd/9789264029132-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd/9789264029132-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd/9789264029132-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd/9789264029132-en.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html](https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html)  
+   Link: <a href="https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Biggest Myth In Education (Veritasium)  
-   Link: [https://www.youtube.com/watch?v=p4w_L93L3B8](https://www.youtube.com/watch?v=p4w_L93L3B8)  
+   Link: <a href="https://www.youtube.com/watch?v=p4w_L93L3B8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p4w_L93L3B8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning styles &amp; the importance of critical self-reflection | Tesia Marshik | TEDxUWLaCrosse...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence](https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence)  
+   Link: <a href="https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence</a>  
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/266945518_Neuroscience_and_education_Myths_and_messages](https://www.researchgate.net/publication/266945518_Neuroscience_and_education_Myths_and_messages)  
+   Link: <a href="https://www.researchgate.net/publication/266945518_Neuroscience_and_education_Myths_and_messages" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/266945518_Neuroscience_and_education_Myths_and_messages</a>  
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/337731017_The_Myth_of_Left-vs_Right-Brain_Learning](https://www.researchgate.net/publication/337731017_The_Myth_of_Left-vs_Right-Brain_Learning)  
+   Link: <a href="https://www.researchgate.net/publication/337731017_The_Myth_of_Left-vs_Right-Brain_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337731017_The_Myth_of_Left-vs_Right-Brain_Learning</a>  
 
 19. <a id="endnote-19"></a>
    Source: pavpub.com  
-   Link: [https://www.pavpub.com/app/uploads/2019/08/Plenary-1_Fact-or-myth_Using-the-brain-in-ELT-practice_CLethaby.pdf?srsltid=AfmBOorNFlJlGfDByvMXGUq6AyUujm0KeAIRhHPPMtLnkePhfaeBKBwC](https://www.pavpub.com/app/uploads/2019/08/Plenary-1_Fact-or-myth_Using-the-brain-in-ELT-practice_CLethaby.pdf?srsltid=AfmBOorNFlJlGfDByvMXGUq6AyUujm0KeAIRhHPPMtLnkePhfaeBKBwC)  
+   Link: <a href="https://www.pavpub.com/app/uploads/2019/08/Plenary-1_Fact-or-myth_Using-the-brain-in-ELT-practice_CLethaby.pdf?srsltid=AfmBOorNFlJlGfDByvMXGUq6AyUujm0KeAIRhHPPMtLnkePhfaeBKBwC" target="_blank" rel="noopener noreferrer nofollow">https://www.pavpub.com/app/uploads/2019/08/Plenary-1_Fact-or-myth_Using-the-brain-in-ELT-practice_CLethaby.pdf?srsltid=AfmBOorNFlJlGfDByvMXGUq6AyUujm0KeAIRhHPPMtLnkePhfaeBKBwC</a>  
 
 20. <a id="endnote-20"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/An-Evaluation-of-the-Left-Brain-vs.-Right-Brain-Nielsen-Zielinski/c6611664a0bcece52ca2fd4d8080632d054fda7c](https://www.semanticscholar.org/paper/An-Evaluation-of-the-Left-Brain-vs.-Right-Brain-Nielsen-Zielinski/c6611664a0bcece52ca2fd4d8080632d054fda7c)  
+   Link: <a href="https://www.semanticscholar.org/paper/An-Evaluation-of-the-Left-Brain-vs.-Right-Brain-Nielsen-Zielinski/c6611664a0bcece52ca2fd4d8080632d054fda7c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/An-Evaluation-of-the-Left-Brain-vs.-Right-Brain-Nielsen-Zielinski/c6611664a0bcece52ca2fd4d8080632d054fda7c</a>

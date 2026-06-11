@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef
 - Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - influencers
 - check-first
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - influencers
 - check-first
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Many creators share information without systematic verification, even when their audience treats the post like researched advice.
 hero_summary: Many creators share information without systematic verification, even when their audience treats the post like researched advice.
 layout: default
 permalink: /check-first/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /influencers/
 nav_short_title: Check First
 title: Why Creators Share Before They Check
-title_full: Why Creators Share Before They Check | Influencers
+title_full: Why Creators Share Before They Check
 display_title_short: Check First
 display_title: Check First
 heading_title: Why Creators Share Before They Check
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Authority Shortcuts Spread Myths | Mythcraft
+parent_title: When Authority Shortcuts Spread Myths
 parent_permalink: /influencers/
 parent_nav_short_title: Influencers
 parent_heading_title: When Authority Shortcuts Spread Myths
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Likes Make Myths Look True
 up_link:
   basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
@@ -259,7 +259,7 @@ next_link:
   permalink: /felt-trust/
   short_title: Felt Trust
   heading_title: Why Influencer Health Advice Feels Personal
-date: '2026-06-09 04:36:52 '
+date: '2026-06-11 22:08:01 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_creator_fact_checkin_d6c5cb-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_creator_fact_checkin_d6c5cb-Illustration-1.webp
@@ -268,15 +268,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_cre
 
 ## Introduction
 
-Influencers and online creators have become major gateways to information, but many do not follow the verification routines traditionally associated with journalism, academic research or professional fact-checking. This matters because audiences often treat creator content as researched advice, even when it was produced quickly, based on limited checking, or drawn from unreliable sources. Recent international research suggests that systematic verification is far from standard practice among creators. The resulting gap does not necessarily stem from bad intentions. More often, it reflects platform incentives, time pressure, limited training and uncertainty about how to assess evidence. Yet when creators publish first and verify later, [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) can gain credibility simply because they reached large audiences before anyone checked the claim. UNESCO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ungeneva.org/en/news-media/news/2024/11/100747/23-digital-content-creators-do-not-fact-check-unesco-survey-reveals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ungeneva.org">[The United Nations Office at Geneva]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ungeneva.org</span><span class="citation-popover-snippet">The United Nations Office at Geneva2/3 of digital content creators do not fact-check, UNESCO...The study found that 63 per cent of influ...</span></span></span>
-
+Influencers and online creators have become major gateways to information, but many do not follow the verification routines traditionally associated with journalism, academic research or professional fact-checking. This matters because audiences often treat creator content as researched advice, even when it was produced quickly, based on limited checking, or drawn from unreliable sources. Recent international research suggests that systematic verification is far from standard practice among creators. The resulting gap does not necessarily stem from bad intentions. More often, it reflects platform incentives, time pressure, limited training and uncertainty about how to assess evidence. Yet when creators publish first and verify later, myths and misconceptions can gain credibility simply because they reached large audiences before anyone checked the claim. UNESCO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ungeneva.org/en/news-media/news/2024/11/100747/23-digital-content-creators-do-not-fact-check-unesco-survey-reveals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ungeneva.org">[The United Nations Office at Geneva]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ungeneva.org</span><span class="citation-popover-snippet">The United Nations Office at Geneva2/3 of digital content creators do not fact-check, UNESCO...The study found that 63 per cent of influ...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_creator_fact_checkin_d6c5cb-Illustration-1-dark.svg" | relative_url }}" alt="Check First illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_creator_fact_checkin_d6c5cb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_creator_fact_checkin_d6c5cb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Creator Surveys Reveal About Verification Habits
 
 One of the clearest snapshots of creator behaviour comes from UNESCO's global study of digital content creators. Surveying creators across dozens of countries, UNESCO found that roughly two-thirds did not conduct rigorous and systematic fact-checking before sharing information. At the same time, most expressed interest in learning better verification skills, suggesting that the problem is not simply indifference to accuracy but also a skills and workflow gap. UNESCO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ungeneva.org/en/news-media/news/2024/11/100747/23-digital-content-creators-do-not-fact-check-unesco-survey-reveals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ungeneva.org">[The United Nations Office at Geneva]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ungeneva.org</span><span class="citation-popover-snippet">The United Nations Office at Geneva2/3 of digital content creators do not fact-check, UNESCO...The study found that 63 per cent of influ...</span></span></span>
 
-The same research revealed another important pattern: creators often rely on [personal experience]({{ 'anecdotes/' | relative_url }}), their own informal research, conversations with knowledgeable contacts or the apparent popularity of a source. Official documents, institutional publications and formal verification methods are used less consistently than many audiences might assume. In some cases, creators reported treating high engagement numbers as a signal of credibility, even though popularity and accuracy are not the same thing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Online influencers need &#x27;urgent&#x27; fact-checking training</span><span class="citation-popover-snippet">The GuardianOnline influencers need &#x27;urgent&#x27; fact-checking training...November 26, 2024 — 26 Nov 2024 — Research shows six in 10 social...</span><span class="citation-popover-meta">Published: November 26, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europeanjournalists.org">[European Federation of Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europeanjournalists.org</span><span class="citation-popover-snippet">European Federation of JournalistsUNESCO report highlights urgent need for media literacy...6 Dec 2024 — According to the study, digital...</span></span></span>
+The same research revealed another important pattern: creators often rely on personal experience, their own informal research, conversations with knowledgeable contacts or the apparent popularity of a source. Official documents, institutional publications and formal verification methods are used less consistently than many audiences might assume. In some cases, creators reported treating high engagement numbers as a signal of credibility, even though popularity and accuracy are not the same thing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Online influencers need &#x27;urgent&#x27; fact-checking training</span><span class="citation-popover-snippet">The GuardianOnline influencers need &#x27;urgent&#x27; fact-checking training...November 26, 2024 — 26 Nov 2024 — Research shows six in 10 social...</span><span class="citation-popover-meta">Published: November 26, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europeanjournalists.org">[European Federation of Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europeanjournalists.org</span><span class="citation-popover-snippet">European Federation of JournalistsUNESCO report highlights urgent need for media literacy...6 Dec 2024 — According to the study, digital...</span></span></span>
 
 This creates a mismatch between audience expectations and creator practices. A polished video, confident presentation and large following can make content appear thoroughly researched. Behind the scenes, however, the claim may have received little more scrutiny than a quick search, a trusted recommendation or a review of what other creators were already saying. UNESCO <span class="citation-chip-wrap"><a class="citation-chip" href="https://c3.unu.edu/blog/behind-the-screens-the-credibility-challenge-of-digital-content-creators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c3.unu.edu">[UNU Campus Computing Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c3.unu.edu</span><span class="citation-popover-title">behind the screens the credibility challenge of digital content creators</span><span class="citation-popover-snippet">UNU Campus Computing CentreThe Credibility Challenge of Digital Content Creators10 Dec 2024 — With 63% of content creators admitting they...</span></span></span>
 
@@ -290,10 +289,7 @@ For many creators, verification carries costs while rapid publication brings rew
 
 Another challenge is format. Short-form videos and rapid-fire posting encourage certainty and simplicity. Yet fact-checking often produces caveats, qualifications and uncertainty. A claim such as "research suggests a possible association, but the evidence remains mixed" is less likely to generate attention than "scientists have discovered the truth". The result is that the platform environment can favour confident claims even when the evidence is incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-title">how social media rewards misinformation</span><span class="citation-popover-snippet">A majority of false stories are spread by a small number of frequent users, suggests a new study co-...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.usc.edu">[USC Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.usc.edu</span><span class="citation-popover-title">study reveals the key reason why fake news spreads on social media</span><span class="citation-popover-snippet">· Users could be...Read more...</span></span></span>
 
-Creators are also vulnerable to the same cognitive shortcuts as their audiences. If a claim comes from someone they trust, aligns with their existing beliefs or appears widely shared, it may feel credible enough to repost. Verification is often replaced by social proof: the assumption that many people sharing a claim must indicate reliability. UNESCO's findings that creators sometimes use popularity as a credibility signal illustrate how this shortcut can become embedded in content production. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">UNESCO2/3 of digital content creators do not check their facts before27 Nov 2024 — A UNESCO survey published today reveals that 62% do no...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_c5abA2UjhY" title="Fact-Checking for Content Creators: Verify Accuracy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_c5abA2UjhY" target="_blank" rel="noopener noreferrer">Fact-Checking for Content Creators: Verify Accuracy</a></p><p class="youtube-embed-meta">Channel: CodeLucky &middot; Views: 36 &middot; Uploaded: December 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_c5abA2UjhY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_c5abA2UjhY">Open on YouTube</a></p></div></div></div>
+Creators are also vulnerable to the same cognitive shortcuts as their audiences. If a claim comes from someone they trust, aligns with their existing beliefs or appears widely shared, it may feel credible enough to repost. Verification is often replaced by social proof: the assumption that many people sharing a claim must indicate reliability. UNESCO's findings that creators sometimes use popularity as a credibility signal illustrate how this shortcut can become embedded in content production. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">2/3 of digital content creators do not check their facts before27 Nov 2024 — A UNESCO survey published today reveals that 62% do no...</span></span></span>
 
 ## The Difference Between Checking and Assuming
 
@@ -302,7 +298,6 @@ A common misunderstanding is that fact-checking simply means finding a source th
 A creator may see a statistic repeated across multiple accounts and conclude that it has been confirmed. Yet all of those posts might trace back to the same unverified source. Similarly, quoting a study does not automatically validate a claim if the study's findings are being exaggerated or misrepresented.
 
 Reliable verification usually involves questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -318,7 +313,6 @@ Without these checks, creators can unknowingly amplify myths that appear credibl
 
 The distinction matters because many myths spread through chains of [repetition]({{ 'repetition/' | relative_url }}) rather than deliberate fabrication. Each person in the chain assumes someone earlier must have verified the information. Eventually the claim acquires the appearance of consensus despite lacking a solid evidential foundation. This pattern has been documented repeatedly in misinformation research and helps explain why false claims can persist even when corrections are available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govTrust, Media Credibility, Social Ties, and the Intention to Share...by P Majerczak · 2022 · Cited by 184 — This study expands on...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govTrust, Media Credibility, Social Ties, and the Intention to Share...by P Majerczak · 2022 · Cited by 184 — This study expands on...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_creator_fact_checkin_d6c5cb-Illustration-2-dark.svg" | relative_url }}" alt="Check First illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_creator_fact_checkin_d6c5cb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_creator_fact_checkin_d6c5cb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Corrections Arrive Too Late
 
@@ -326,7 +320,7 @@ Verification failures become more consequential because corrections rarely trave
 
 Research on information sharing shows that misinformation can gain momentum before fact-checks reach the same audience. Studies examining the spread of fact-checks online have found that corrective information faces its own visibility challenges, even when the [correction]({{ 'correction/' | relative_url }}) is clear and well-supported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govTrust, Media Credibility, Social Ties, and the Intention to Share...by P Majerczak · 2022 · Cited by 184 — This study expands on...</span></span></span>
 
-Audience loyalty can further complicate matters. Recent research on community fact-checking systems found that users who post misleading content do not necessarily lose followers after corrections are attached to their posts. In other words, being corrected does not automatically reduce a creator's influence. Followers may continue to trust the creator despite documented errors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.10254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Community Fact-Checks Do Not Break Follower Loyalty</span><span class="citation-popover-snippet">arXivCommunity Fact-Checks Do Not Break Follower LoyaltyMay 15, 2025...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span>
+Audience loyalty can further complicate matters. Recent research on community fact-checking systems found that users who post misleading content do not necessarily lose followers [after corrections]({{ 'after-correction/' | relative_url }}) are attached to their posts. In other words, being corrected does not automatically reduce a creator's influence. Followers may continue to trust the creator despite documented errors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.10254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Community Fact-Checks Do Not Break Follower Loyalty</span><span class="citation-popover-snippet">Community Fact-Checks Do Not Break Follower LoyaltyMay 15, 2025...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span>
 
 This dynamic increases the importance of prevention. If corrections cannot reliably undo the effects of a misleading post, stronger verification before publication becomes more valuable than relying on corrections afterwards.
 
@@ -334,8 +328,7 @@ This dynamic increases the importance of prevention. If corrections cannot relia
 
 The most effective response is not to expect every creator to become a professional investigator. Instead, the evidence points toward practical routines that reduce common verification failures.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_c5abA2UjhY" title="Fact-Checking for Content Creators: Verify Accuracy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_c5abA2UjhY" target="_blank" rel="noopener noreferrer">Fact-Checking for Content Creators: Verify Accuracy</a></p><p class="youtube-embed-meta">Channel: CodeLucky &middot; Views: 36 &middot; Uploaded: December 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_c5abA2UjhY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_c5abA2UjhY">Open on YouTube</a></p></div></div></div>
 
 ### Slow Down High-Stakes Claims
 
@@ -349,12 +342,11 @@ Creators often rely on summaries, screenshots and second-hand interpretations. M
 
 Personal stories can be valuable, but they are not the same as general evidence. Responsible creators clearly distinguish between "this happened to me" and "this is what research shows".
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_creator_fact_checkin_d6c5cb-Illustration-3-dark.svg" | relative_url }}" alt="Check First illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_creator_fact_checkin_d6c5cb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_creator_fact_checkin_d6c5cb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Show Sources Publicly
 
 Linking to evidence allows audiences to inspect claims themselves. Transparency also creates accountability because viewers can evaluate whether the cited material actually supports the conclusion being presented. Fact-checking organisations routinely identify source transparency as a core element of trustworthy verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/175/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament Trusted voices</span><span class="citation-popover-snippet">UK ParliamentTrusted voices - Culture, Media and Sport Committee12 Apr 2024 — Will Moy of Full Fact said that trustworthy fact-checking l...</span></span></span>
 
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_creator_fact_checkin_d6c5cb-Illustration-3-dark.svg" | relative_url }}" alt="Check First illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_creator_fact_checkin_d6c5cb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_creator_fact_checkin_d6c5cb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Correct Mistakes Prominently
 
 Errors are inevitable. The key difference is whether corrections are visible, timely and easy to find. Creators who acknowledge mistakes publicly help reduce the long-term spread of misinformation and strengthen audience trust.
@@ -363,13 +355,9 @@ Errors are inevitable. The key difference is whether corrections are visible, ti
 
 The role of creators has expanded beyond entertainment. Many now function as commentators, educators, reviewers and explainers for audiences numbering in the hundreds of thousands or even millions. As that influence grows, the gap between audience expectations and creator verification practices becomes increasingly important.
 
-Recent UNESCO initiatives reflect recognition of this shift. The organisation's research found widespread interest among creators in learning [media literacy]({{ 'media-literacy/' | relative_url }}) and fact-checking skills, leading to dedicated training programmes aimed at improving verification practices before publication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000392006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-title">Digital Library Behind the screens: insights from digital content creators</span><span class="citation-popover-snippet">content creators worldwide. The low prevalence of fact-checking among content creators highlights their vulnerability to misinformation a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/digital-content-creators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">UNESCOEmpowering Digital Content Creators as Trusted...As well as demonstrating that fact-checking is not the norm, the survey finds tha...</span></span></span>
+Recent UNESCO initiatives reflect recognition of this shift. The organisation's research found widespread interest among creators in learning [media literacy]({{ 'media-literacy/' | relative_url }}) and fact-checking skills, leading to dedicated training programmes aimed at improving verification practices before publication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000392006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-title">Digital Library Behind the screens: insights from digital content creators</span><span class="citation-popover-snippet">content creators worldwide. The low prevalence of fact-checking among content creators highlights their vulnerability to misinformation a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/digital-content-creators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Empowering Digital Content Creators as Trusted...As well as demonstrating that fact-checking is not the norm, the survey finds tha...</span></span></span>
 
 Within the broader story of myths and misconceptions, creator fact-checking gaps matter because they sit at the point where information becomes recommendation. A rumour seen by one person may remain insignificant. The same rumour repeated by a trusted creator can reach millions. The crucial question is often not whether the creator intended to mislead, but whether anyone checked the claim carefully before pressing publish. UNESCO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ungeneva.org/en/news-media/news/2024/11/100747/23-digital-content-creators-do-not-fact-check-unesco-survey-reveals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ungeneva.org">[The United Nations Office at Geneva]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ungeneva.org</span><span class="citation-popover-snippet">The United Nations Office at Geneva2/3 of digital content creators do not fact-check, UNESCO...The study found that 63 per cent of influ...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cSKGa_7XJkg" title="How false news can spread - Noah Tavlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer">How false news can spread - Noah Tavlin</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cSKGa_7XJkg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -488,15 +476,15 @@ Within the broader story of myths and misconceptions, creator fact-checking gaps
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK (5th Album) with postcards &amp; stickers - FREEPOST KPOP"><img src="{{ '/assets/images/marketplace-covers/e84b72c3b91ba67d8d97.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK (5th Album) with postcards &amp; stickers - FREEPOST KPOP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-creators-share-before-they-check-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-creators-share-before-they-check-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6"><img src="https://i.ebayimg.com/images/g/vkgAAeSwna5oZGvr/s-l225.jpg" alt="Listing image for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK (5th Album) with postcards &amp; stickers - FREEPOST KPOP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-creators-share-before-they-check-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-creators-share-before-they-check-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-creators-share-before-they-check-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-creators-share-before-they-check-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-creators-share-before-they-check-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-creators-share-before-they-check-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -504,47 +492,15 @@ Within the broader story of myths and misconceptions, creator fact-checking gaps
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Taeyong Fact Check Official Sticker"><img src="{{ '/assets/images/marketplace-covers/74937a61ca50bbfbb460.jpg' | relative_url }}" alt="Listing image for NCT 127 Taeyong Fact Check Official Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-creators-share-before-they-check-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-creators-share-before-they-check-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TITIKEI by IshiKei Paperback Self Help Business"><img src="https://i.ebayimg.com/images/g/X5YAAeSw~F1qEbNR/s-l225.jpg" alt="Listing image for TITIKEI by IshiKei Paperback Self Help Business" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Taeyong Fact Check Official Sticker</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-creators-share-before-they-check-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-creators-share-before-they-check-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">TITIKEI by IshiKei Paperback Self Help Business</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-creators-share-before-they-check-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-creators-share-before-they-check-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT"><img src="{{ '/assets/images/marketplace-covers/352c61150a84d9a15ae7.jpg' | relative_url }}" alt="Listing image for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check 5th Album YUTA JAEHYUN JUNGWON Sticker Nemo Smart Ver."><img src="{{ '/assets/images/marketplace-covers/459aa028ae0dfac1d68c.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check 5th Album YUTA JAEHYUN JUNGWON Sticker Nemo Smart Ver." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check 5th Album YUTA JAEHYUN JUNGWON Sticker Nemo Smart Ver.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-creators-share-before-they-check-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-creators-share-before-they-check-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,7 +508,7 @@ Within the broader story of myths and misconceptions, creator fact-checking gaps
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-first-why-creators-share-before-they-check-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-creators-share-before-they-check-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="why-creators-share-before-they-check-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -767,195 +723,195 @@ Within the broader story of myths and misconceptions, creator fact-checking gaps
 
 1. <a id="endnote-1"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey](https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO2/3 of digital content creators do not check their facts before27 Nov 2024 — A UNESCO survey published today reveals that 62% do no...</p></details>
+   Link: <a href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>2/3 of digital content creators do not check their facts before27 Nov 2024 — A UNESCO survey published today reveals that 62% do no...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: unesdoc.unesco.org  
    Title: Digital Library Behind the screens: insights from digital content creators  
-   Link: [https://unesdoc.unesco.org/ark%3A/48223/pf0000392006](https://unesdoc.unesco.org/ark%3A/48223/pf0000392006)  
+   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000392006" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000392006</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>content creators worldwide. The low prevalence of fact-checking among content creators highlights their vulnerability to misinformation a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/digital-content-creators](https://www.unesco.org/en/digital-content-creators)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCOEmpowering Digital Content Creators as Trusted...As well as demonstrating that fact-checking is not the norm, the survey finds tha...</p></details>
+   Link: <a href="https://www.unesco.org/en/digital-content-creators" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/digital-content-creators</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Empowering Digital Content Creators as Trusted...As well as demonstrating that fact-checking is not the norm, the survey finds tha...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: c3.unu.edu  
    Title: behind the screens the credibility challenge of digital content creators  
-   Link: [https://c3.unu.edu/blog/behind-the-screens-the-credibility-challenge-of-digital-content-creators](https://c3.unu.edu/blog/behind-the-screens-the-credibility-challenge-of-digital-content-creators)  
+   Link: <a href="https://c3.unu.edu/blog/behind-the-screens-the-credibility-challenge-of-digital-content-creators" target="_blank" rel="noopener noreferrer nofollow">https://c3.unu.edu/blog/behind-the-screens-the-credibility-challenge-of-digital-content-creators</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNU Campus Computing CentreThe Credibility Challenge of Digital Content Creators10 Dec 2024 — With 63% of content creators admitting they...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10722559/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10722559/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSocial media users&#x27; perceptions about health mis - PMCby JP Stimpson · 2023 · Cited by 33 — Misinformation is false or inaccurate info...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10722559/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10722559/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media users&#x27; perceptions about health mis - PMCby JP Stimpson · 2023 · Cited by 33 — Misinformation is false or inaccurate info...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9910783/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9910783/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCFake news, disinformation and misinformation in social mediaby E Aïmeur · 2023 · Cited by 1188 — This work aims to provide a comprehen...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9910783/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9910783/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news, disinformation and misinformation in social mediaby E Aïmeur · 2023 · Cited by 1188 — This work aims to provide a comprehen...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: insights.som.yale.edu  
    Title: how social media rewards misinformation  
-   Link: [https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation](https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation)  
+   Link: <a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A majority of false stories are spread by a small number of frequent users, suggests a new study co-...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: today.usc.edu  
    Title: study reveals the key reason why [fake news](&#123;&#123; 'fake-news/' | relative_url &#125;&#125;) spreads on social media  
-   Link: [https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/](https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/)  
+   Link: <a href="https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Users could be...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9188446/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9188446/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCCombating Misinformation by Sharing the Truth: a Study on...by J Li · 2022 · Cited by 101 — This research studies how different facto...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9188446/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9188446/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Combating Misinformation by Sharing the Truth: a Study on...by J Li · 2022 · Cited by 101 — This research studies how different facto...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govTrust, Media Credibility, Social Ties, and the Intention to Share...by P Majerczak · 2022 · Cited by 184 — This study expands on...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAs Social Media Scales Back Fact-Checking, Can  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC13057141/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13057141/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby W Glauser · 2026 — Fact-checking labels reduced belief in false information by nearly 28% and reduced misinformation sharing by rou...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13057141/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13057141/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by W Glauser · 2026 — Fact-checking labels reduced belief in false information by nearly 28% and reduced misinformation sharing by rou...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
    Title: arXiv Community Fact-Checks Do Not Break Follower Loyalty  
-   Link: [https://arxiv.org/abs/2505.10254](https://arxiv.org/abs/2505.10254)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivCommunity Fact-Checks Do Not Break Follower LoyaltyMay 15, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2505.10254" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.10254</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Fact-Checks Do Not Break Follower LoyaltyMay 15, 2025...</p></details>
    Published: May 15, 2025  
 
 13. <a id="endnote-13"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament Trusted voices  
-   Link: [https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/175/report.html](https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/175/report.html)  
+   Link: <a href="https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/175/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5804/cmselect/cmcumeds/175/report.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentTrusted voices - Culture, Media and Sport Committee12 Apr 2024 — Will Moy of Full Fact said that trustworthy fact-checking l...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: unesco.org  
    Title: trains digital content creators become trusted voices online  
-   Link: [https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online](https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online)  
+   Link: <a href="https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO trains digital content creators to become trusted...18 Mar 2025 — Moving forward, they will emphasize the need to verify and sour...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt](https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt)  
+   Link: <a href="https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Bridges the Gap Between Journalists and26 Jan 2026 — UNESCO convenes journalists, fact-checkers, &amp; influencers to confront disinfo...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/joint-initiative-ministry-information-and-unesco-strengthen-fact-checking-and-combat-misinformation](https://www.unesco.org/en/articles/joint-initiative-ministry-information-and-unesco-strengthen-fact-checking-and-combat-misinformation)  
+   Link: <a href="https://www.unesco.org/en/articles/joint-initiative-ministry-information-and-unesco-strengthen-fact-checking-and-combat-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/joint-initiative-ministry-information-and-unesco-strengthen-fact-checking-and-combat-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Initiative by the Ministry of Information and UNESCO toMar 11, 2026 — Strengthening fact-checking mechanisms and promoting Media an...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: unesco.org  
    Title: fact checking quiet skill holding communities together  
-   Link: [https://www.unesco.org/en/articles/fact-checking-quiet-skill-holding-communities-together](https://www.unesco.org/en/articles/fact-checking-quiet-skill-holding-communities-together)  
+   Link: <a href="https://www.unesco.org/en/articles/fact-checking-quiet-skill-holding-communities-together" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/fact-checking-quiet-skill-holding-communities-together</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking: The quiet skill holding communities togetherFeb 4, 2026 — SM4P frames fact-checking as a peacebuilding skill, empowering S...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ungeneva.org  
-   Link: [https://www.ungeneva.org/en/news-media/news/2024/11/100747/23-digital-content-creators-do-not-fact-check-unesco-survey-reveals](https://www.ungeneva.org/en/news-media/news/2024/11/100747/23-digital-content-creators-do-not-fact-check-unesco-survey-reveals)  
+   Link: <a href="https://www.ungeneva.org/en/news-media/news/2024/11/100747/23-digital-content-creators-do-not-fact-check-unesco-survey-reveals" target="_blank" rel="noopener noreferrer nofollow">https://www.ungeneva.org/en/news-media/news/2024/11/100747/23-digital-content-creators-do-not-fact-check-unesco-survey-reveals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The United Nations Office at Geneva2/3 of digital content creators do not fact-check, UNESCO...The study found that 63 per cent of influ...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
    Title: The Guardian Online influencers need 'urgent' fact-checking training  
-   Link: [https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco](https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco)  
+   Link: <a href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianOnline influencers need &#x27;urgent&#x27; fact-checking training...November 26, 2024 — 26 Nov 2024 — Research shows six in 10 social...</p></details>
    Published: November 26, 2024  
 
 20. <a id="endnote-20"></a>
    Source: europeanjournalists.org  
-   Link: [https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/](https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/)  
+   Link: <a href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European Federation of JournalistsUNESCO report highlights urgent need for media literacy...6 Dec 2024 — According to the study, digital...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: business-humanrights.org  
-   Link: [https://www.business-humanrights.org/pt/%C3%BAltimas-not%C3%ADcias/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/](https://www.business-humanrights.org/pt/%C3%BAltimas-not%C3%ADcias/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/)  
+   Link: <a href="https://www.business-humanrights.org/pt/%C3%BAltimas-not%C3%ADcias/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.business-humanrights.org/pt/%C3%BAltimas-not%C3%ADcias/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO warns that online influencers urgently need fact...Social media influencers need “urgent” help to check their facts before they b...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: business-humanrights.org  
    Title: unesco warns that online influencers urgently need fact checking training  
-   Link: [https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/](https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/)  
+   Link: <a href="https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO warns that online influencers urgently need fact...26 Nov 2024 — Unesco said its findings, which come from a survey of influencer...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: business-humanrights.org  
    Title: unesco warns that online influencers urgently need fact checking training  
-   Link: [https://www.business-humanrights.org/en/latest-news/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/](https://www.business-humanrights.org/en/latest-news/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/)  
+   Link: <a href="https://www.business-humanrights.org/en/latest-news/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.business-humanrights.org/en/latest-news/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO warns that online influencers urgently need fact...Nov 26, 2024 — Social media influencers need “urgent” help to check their fact...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: asianews.network  
    Title: unesco two thirds of content creators fail to verify facts  
-   Link: [https://asianews.network/unesco-two-thirds-of-content-creators-fail-to-verify-facts/](https://asianews.network/unesco-two-thirds-of-content-creators-fail-to-verify-facts/)  
+   Link: <a href="https://asianews.network/unesco-two-thirds-of-content-creators-fail-to-verify-facts/" target="_blank" rel="noopener noreferrer nofollow">https://asianews.network/unesco-two-thirds-of-content-creators-fail-to-verify-facts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO: Two-thirds of content creators fail to verify facts3 Dec 2024 — The report, “Behind the Screens: Insight From Content Creators”...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: port.ac.uk  
-   Link: [https://www.port.ac.uk/news-events-and-blogs/news/new-research-unveils-the-dark-side-of-social-media-influencers-and-their-impact-on-marketing-and-consumer-behaviour](https://www.port.ac.uk/news-events-and-blogs/news/new-research-unveils-the-dark-side-of-social-media-influencers-and-their-impact-on-marketing-and-consumer-behaviour)  
+   Link: <a href="https://www.port.ac.uk/news-events-and-blogs/news/new-research-unveils-the-dark-side-of-social-media-influencers-and-their-impact-on-marketing-and-consumer-behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.port.ac.uk/news-events-and-blogs/news/new-research-unveils-the-dark-side-of-social-media-influencers-and-their-impact-on-marketing-and-consumer-behaviour</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New research unveils the &quot;dark side&quot; of social media...24 Feb 2025 — A recent study by the University of Portsmouth systematically exami...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: sydney.edu.au  
    Title: influencers promoting overwhelmingly misleading information  
-   Link: [https://www.sydney.edu.au/news-opinion/news/2025/02/27/--influencers-promoting--overwhelmingly--misleading-information-.html](https://www.sydney.edu.au/news-opinion/news/2025/02/27/--influencers-promoting--overwhelmingly--misleading-information-.html)  
+   Link: <a href="https://www.sydney.edu.au/news-opinion/news/2025/02/27/--influencers-promoting--overwhelmingly--misleading-information-.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sydney.edu.au/news-opinion/news/2025/02/27/--influencers-promoting--overwhelmingly--misleading-information-.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>social media is an open sewer of medical misinformation. “This is a public health crisis that exacerbates overdiagnosis and threatens the...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: sciencedirect.com  
    Title: Why do people share (mis)information?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0747563224003212](https://www.sciencedirect.com/science/article/pii/S0747563224003212)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563224003212" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563224003212</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Power motives in...by A Guinote · 2025 · Cited by 6 — Amidst this activity, misinformation, whether in the form of conspiracy theories...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Spotting Misinformation: Tools for Online Creators  
-   Link: [https://www.youtube.com/watch?v=9hP95-k8H_c](https://www.youtube.com/watch?v=9hP95-k8H_c)  
+   Link: <a href="https://www.youtube.com/watch?v=9hP95-k8H_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9hP95-k8H_c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide practical training and verification workflows specifically designed to help content creators address the fact-checki...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: shieldvsdisinfo.com  
    Title: Influencers vs fact checking  
-   Link: [https://shieldvsdisinfo.com/educator-e-toolkit/influencers-vs-fact-checking/](https://shieldvsdisinfo.com/educator-e-toolkit/influencers-vs-fact-checking/)  
+   Link: <a href="https://shieldvsdisinfo.com/educator-e-toolkit/influencers-vs-fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://shieldvsdisinfo.com/educator-e-toolkit/influencers-vs-fact-checking/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SHIELDThis UNESCO report, “Behind the Screens,” aims to provide valuable insights into the world of digital content creators. The report...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
    Title: 🚨 Fact-checking gap alert!  
-   Link: [https://www.facebook.com/unescobangkok/posts/-fact-checking-gap-alert-two-thirds-of-digital-content-creators-admit-they-dont-/990596479776317/](https://www.facebook.com/unescobangkok/posts/-fact-checking-gap-alert-two-thirds-of-digital-content-creators-admit-they-dont-/990596479776317/)  
+   Link: <a href="https://www.facebook.com/unescobangkok/posts/-fact-checking-gap-alert-two-thirds-of-digital-content-creators-admit-they-dont-/990596479776317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unescobangkok/posts/-fact-checking-gap-alert-two-thirds-of-digital-content-creators-admit-they-dont-/990596479776317/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Two-thirds of digital content...Two-thirds of digital content creators admit they don&#x27;t verify information before sharing, according to...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: reutersinstitute.[politics](&#123;&#123; 'politics/' | relative_url &#125;&#125;). ox.ac.uk  
    Title: dnr executive  
-   Link: [https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary)  
+   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview and key findings of the 2025 Digital News Report17 Jun 2025 — Accuracy and truth telling: Audiences would like journalists to fo...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/heapro/article/40/2/daaf023/8100645](https://academic.oup.com/heapro/article/40/2/daaf023/8100645)  
+   Link: <a href="https://academic.oup.com/heapro/article/40/2/daaf023/8100645" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/heapro/article/40/2/daaf023/8100645</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicSocial media and the spread of misinformationby E Denniss · 2025 · Cited by 115 — Third, internet robots or &#x27;bots&#x27; are known...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: How to verify information for journalists and creators  
-   Link: [https://www.youtube.com/watch?v=04d1e2N2Klc](https://www.youtube.com/watch?v=04d1e2N2Klc)  
+   Link: <a href="https://www.youtube.com/watch?v=04d1e2N2Klc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=04d1e2N2Klc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Literacy and Fact-Checking Techniques...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Digital Literacy and Fact-Checking Techniques  
-   Link: [https://www.youtube.com/watch?v=b0a-hPqV3iY](https://www.youtube.com/watch?v=b0a-hPqV3iY)  
+   Link: <a href="https://www.youtube.com/watch?v=b0a-hPqV3iY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b0a-hPqV3iY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotting Misinformation: Tools for Online Creators...</p></details>

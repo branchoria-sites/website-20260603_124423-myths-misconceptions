@@ -45,20 +45,20 @@ child_basenames:
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 sibling_basenames: []
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 keywords:
-- myths-and-misconcept
-affiliate_category: myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Myths and misconceptions are not just “wrong facts”. They are durable stories, shortcuts or explanations that feel true enough to survive correction.
 hero_summary: Myths and misconceptions are not just “wrong facts”. They are durable stories, shortcuts or explanations that feel true enough to survive correction.
 layout: default
-permalink: /myths-and-misconceptions/
-nav_short_title: Myths and misconcept
-title: Myths And Misconceptions
-title_full: Myths And Misconceptions
-display_title_short: Myths and misconcept
-display_title: Myths and misconcept
+permalink: /myths-and-misconcept-0-d48-d7/
+nav_short_title: Myths and misconcept 0 d48 d7
+title: Myths and misconcept 0 d48 d7
+title_full: Myths and misconcept 0 d48 d7
+display_title_short: Myths and misconcept 0 d48 d7
+display_title: Myths and misconcept 0 d48 d7
 source_count: 85
 infographic_count: 3
 page_website_name: Mythcraft
@@ -229,206 +229,206 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 child_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths And Misconceptions
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths And Misconceptions
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths And Misconceptions
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths And Misconceptions
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths And Misconceptions
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths And Misconceptions
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths And Misconceptions
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths And Misconceptions
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths And Misconceptions
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths And Misconceptions
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths And Misconceptions
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths And Misconceptions
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths And Misconceptions
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths And Misconceptions
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths And Misconceptions
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths And Misconceptions
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths And Misconceptions
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths And Misconceptions
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths And Misconceptions
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths And Misconceptions
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths And Misconceptions
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths And Misconceptions
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths And Misconceptions
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths And Misconceptions
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths And Misconceptions
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths And Misconceptions
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths And Misconceptions
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths And Misconceptions
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths And Misconceptions
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths And Misconceptions
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths And Misconceptions
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths And Misconceptions
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths And Misconceptions
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths And Misconceptions
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths And Misconceptions
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths And Misconceptions
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths And Misconceptions
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths And Misconceptions
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths And Misconceptions
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths And Misconceptions
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
-date: '2026-06-09 04:01:29 '
+date: '2026-06-11 21:49:17 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7-overview.webp
@@ -437,15 +437,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7-overview-social.jpg
 
 ## Introduction
 
-The important lesson is practical: myths persist because they often meet a real need. They simplify uncertainty, fill gaps in a story, flatter existing identities, or offer a memorable rule of thumb. Correcting them is possible, but the best [corrections]({{ 'corrections/' | relative_url }}) do more than say “that is false”. They explain why the myth seemed plausible, what the better evidence says, and what replacement explanation the reader should use instead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
+The important lesson is practical: myths persist because they often meet a real need. They simplify uncertainty, fill gaps in a story, flatter existing identities, or offer a memorable rule of thumb. Correcting them is possible, but the best [corrections]({{ 'corrections/' | relative_url }}) do more than say “that is false”. They explain why the myth seemed plausible, what the better evidence says, and what replacement explanation the reader should use instead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7-overview.webp" | relative_url }}" alt="Overview image for Myths And Misconceptions" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7-overview.webp" | relative_url }}" alt="Overview image for Myths and misconcept 0 d48 d7" loading="eager" decoding="sync" fetchpriority="high">
 ## Why myths feel true even when they are wrong
 
 Many misconceptions survive because they are cognitively useful. A simple claim such as “people only use 10 per cent of their brain” is vivid, easy to repeat and emotionally appealing because it suggests hidden human potential. A more accurate explanation of brain function is less slogan-friendly. The same pattern appears in education, health, [politics]({{ 'politics/' | relative_url }}) and science: myths often win attention before evidence has time to catch up.
 
-Psychology research points to several reasons false beliefs become sticky. Familiar information can feel more fluent and therefore more credible. People also rely on mental models: once a story explains an event, removing one piece of it leaves a gap. If a correction does not provide a replacement explanation, the old claim can continue to shape reasoning even after it has been discredited. This is known as the [continued influence]({{ 'old-stories/' | relative_url }}) effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Psychology research points to several reasons false beliefs become sticky. Familiar information can feel more fluent and therefore more credible. People also rely on [mental models]({{ 'mental-models/' | relative_url }}): once a story explains an event, removing one piece of it leaves a gap. If a correction does not provide a replacement explanation, the old claim can continue to shape reasoning even after it has been discredited. This is known as the continued influence effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Identity matters too. People do not assess every claim as detached fact-checkers. They often ask, consciously or not, whether a claim fits their community, values, past experiences or trusted sources. A myth repeated by a teacher, parent, doctor, influencer or political leader may be more resilient than the same myth encountered anonymously.
 
@@ -457,12 +456,11 @@ A **myth** is a widely circulated belief or story that is false or unsupported. 
 
 A **misconception** is a mistaken understanding. It can come from partial knowledge, poor teaching, misleading analogies or overgeneralising from personal experience. Someone can hold a misconception honestly and still be open to correction.
 
-**Misinformation** is false or inaccurate information. It does not require malicious intent. A person may share a false health claim because they believe it is helpful. UNESCO defines misinformation as false information shared inadvertently, while the APA describes it as getting the facts wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">UNESCOWhat is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</span></span></span>
+**Misinformation** is false or inaccurate information. It does not require malicious intent. A person may share a false health claim because they believe it is helpful. UNESCO defines misinformation as false information shared inadvertently, while the APA describes it as getting the facts wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</span></span></span>
 
 **Disinformation** is false information spread with the intention to mislead or manipulate. This is why responses to disinformation often require more than individual correction: platform design, political incentives, organised influence campaigns and media systems can all shape how it spreads. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediadefence.org">[Media Defence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediadefence.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-1-dark.svg" | relative_url }}" alt="Myths And Misconceptions illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-1-dark.svg" | relative_url }}" alt="Myths and misconcept 0 d48 d7 illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The correction myth: does debunking make false beliefs stronger?
 
 One popular claim about misinformation is itself a misconception: the idea that correcting a myth usually “backfires” and makes people believe it more strongly. Early discussions of the “backfire effect” made this fear influential, especially among communicators who worried that repeating a false claim would make it more familiar. Later evidence is more reassuring. Reviews and replication work suggest that strong backfire effects are not common, and that clear corrections usually reduce false beliefs rather than strengthen them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Open source on pnas.org.</span></span></span>
@@ -470,7 +468,6 @@ One popular claim about misinformation is itself a misconception: the idea that 
 That does not mean debunking is effortless. Poor corrections can fail, especially when they are confusing, condescending, too late, or do not replace the false explanation with a better one. The practical lesson from the Debunking Handbook and later research is not “never mention the myth”. It is to mention it carefully, warn that it is false, avoid needless [repetition]({{ 'repetition/' | relative_url }}), lead with the accurate explanation, and give people a coherent alternative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change Communication Debunking Handbook</span></span></span>
 
 A useful correction usually has three parts:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -481,7 +478,6 @@ A useful correction usually has three parts:
 </div>
 
 For example, rather than only saying “vaccines do not cause autism”, a stronger correction explains that the original MMR-autism claim was based on discredited research, that later large-scale evidence has not supported the link, and that autism’s signs often become noticeable around the same early-childhood period when routine vaccines are given. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-title">Ecker Memory &amp; Cognition Lab Misinformation and its Correction</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition Lab Misinformation and its Correction</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EIFSofwEoOc" title="Stopping the spread of misinformation, with Sander van der Linden, PhD | Speaking of Psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EIFSofwEoOc" target="_blank" rel="noopener noreferrer">Stopping the spread of misinformation, with Sander van der Linden, PhD | Speaking of Psychology</a></p><p class="youtube-embed-meta">Channel: American Psychological Association &middot; Views: 3.6K &middot; Uploaded: November 2023 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EIFSofwEoOc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EIFSofwEoOc">Open on YouTube</a></p></div></div></div>
 
@@ -503,8 +499,7 @@ Science education research has long shown that misconceptions are not always ran
 
 This matters beyond classrooms. In public debates, people often treat “it makes sense to me” as a substitute for evidence. But many myths feel sensible because they compress a complicated topic into a memorable pattern. The more useful question is not “does this sound plausible?” but “what would I expect to see if this were true, and do reliable sources actually show that?”
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-2-dark.svg" | relative_url }}" alt="Myths And Misconceptions illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-2-dark.svg" | relative_url }}" alt="Myths and misconcept 0 d48 d7 illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How myths spread in modern information systems
 
 Myths have always spread through families, schools, newspapers, books and popular culture. Digital [platforms]({{ 'platforms/' | relative_url }}) change the speed, scale and incentives. False or misleading claims can be shaped for emotional impact, repeated by multiple accounts, detached from their original context and recommended to new audiences by engagement-driven systems.
@@ -518,7 +513,6 @@ Recent platform changes have also made the correction environment more contested
 The strongest corrections are usually clear, respectful and explanatory. They do not assume that people are stupid for believing a myth. Instead, they recognise why the myth was attractive and then give the reader a better way to understand the issue.
 
 Effective approaches include:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -535,13 +529,10 @@ Research on correction effects in science-relevant misinformation finds that cor
 
 Prebunking can also help. Instead of waiting for a false claim to spread, prebunking warns people in advance about common manipulation tactics, such as scapegoating, false dilemmas, conspiracy framing or impersonation of expertise. Studies of psychological inoculation suggest that exposing people to weakened examples of misleading tactics can improve resistance to later misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10463283.2021.1876983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">global vaccination badnews</span><span class="citation-popover-snippet">global vaccination badnews</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IrReVmf0u5I" title="Debunking psychology myths and misconceptions, with Erin Smith, PhD | Speaking of Psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IrReVmf0u5I" target="_blank" rel="noopener noreferrer">Debunking psychology myths and misconceptions, with Erin Smith, PhD | Speaking of Psychology</a></p><p class="youtube-embed-meta">Channel: American Psychological Association &middot; Views: 1.7K &middot; Uploaded: May 2026 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IrReVmf0u5I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IrReVmf0u5I">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-3-dark.svg" | relative_url }}" alt="Myths and misconcept 0 d48 d7 illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical test for spotting a likely myth
 
 A claim deserves extra scrutiny when it has several of these features:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -557,17 +548,13 @@ A claim deserves extra scrutiny when it has several of these features:
 
 A useful verification habit is to pause before sharing, check whether several reliable sources independently support the claim, look for the original evidence, and ask whether the correction would change your mind if it went against your preference. UNICEF’s public guidance on misinformation gives similar practical advice: diversify sources, assess credibility, check whether reliable outlets are reporting the same thing, and be cautious before amplifying doubtful material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unicef.org">[UNICEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unicef.org</span><span class="citation-popover-title">quick guide spotting misinformation</span><span class="citation-popover-snippet">quick guide spotting misinformation</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IrReVmf0u5I" title="Debunking psychology myths and misconceptions, with Erin Smith, PhD | Speaking of Psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IrReVmf0u5I" target="_blank" rel="noopener noreferrer">Debunking psychology myths and misconceptions, with Erin Smith, PhD | Speaking of Psychology</a></p><p class="youtube-embed-meta">Channel: American Psychological Association &middot; Views: 1.7K &middot; Uploaded: May 2026 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IrReVmf0u5I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IrReVmf0u5I">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-3-dark.svg" | relative_url }}" alt="Myths And Misconceptions illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The most important misconception about myths
 
 The biggest misconception is that myths are mainly a problem of ignorance. Ignorance plays a part, but many myths persist because they are meaningful, useful or socially reinforced. They may offer certainty during confusion, identity during [conflict]({{ 'conflict/' | relative_url }}), or an easy action when the real solution is complex.
 
 That is why the best response is not ridicule. Ridicule can entertain people who already agree, but it rarely helps someone revise a belief tied to trust, fear or identity. Better correction combines accuracy with explanation: name the myth, show why it fails, give the stronger account, and make the truth easier to remember than the falsehood.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H0-WkpmTPrM" title="The language of lying — Noah Zandan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H0-WkpmTPrM" target="_blank" rel="noopener noreferrer">The language of lying — Noah Zandan</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H0-WkpmTPrM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H0-WkpmTPrM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -965,178 +952,178 @@ That is why the best response is not ridicule. Ridicule can entertain people who
 
 1. <a id="endnote-1"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/query-list/m/misinformation](https://www.unesco.org/en/query-list/m/misinformation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCOWhat is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
+   Link: <a href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/m/misinformation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/topics/journalism-facts/misinformation-disinformation](https://www.apa.org/topics/journalism-facts/misinformation-disinformation)  
+   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation is false information which is deliberately intended to mislead...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729](https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
 
 6. <a id="endnote-6"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.1912440117](https://www.pnas.org/doi/10.1073/pnas.1912440117)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1912440117</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/</a>  
 
 9. <a id="endnote-9"></a>
    Source: unicef.org  
    Title: quick guide spotting misinformation  
-   Link: [https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation](https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation)  
+   Link: <a href="https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation</a>  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X23001574](https://www.sciencedirect.com/science/article/pii/S2352250X23001574)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X23001574</a>  
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661321000516](https://www.sciencedirect.com/science/article/pii/S1364661321000516)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S095947522400118X](https://www.sciencedirect.com/science/article/pii/S095947522400118X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S095947522400118X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S095947522400118X</a>  
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S004727272500043X](https://www.sciencedirect.com/science/article/pii/S004727272500043X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183](https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183</a>  
 
 15. <a id="endnote-15"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-025-05470-y](https://www.nature.com/articles/s41599-025-05470-y)  
+   Link: <a href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05470-y</a>  
 
 16. <a id="endnote-16"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41562-024-02086-1](https://www.nature.com/articles/s41562-024-02086-1)  
+   Link: <a href="https://www.nature.com/articles/s41562-024-02086-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-024-02086-1</a>  
 
 17. <a id="endnote-17"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2104235118](https://www.pnas.org/doi/10.1073/pnas.2104235118)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2104235118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2104235118</a>  
 
 18. <a id="endnote-18"></a>
    Source: mediadefence.org  
-   Link: [https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/](https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/)  
+   Link: <a href="https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/</a>  
 
 19. <a id="endnote-19"></a>
    Source: climatechangecommunication.org  
    Title: Center for Climate Change Communication Debunking Handbook  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: emc-lab.org  
    Title: Ecker Memory & Cognition Lab Misinformation and its Correction  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: socialactionlab.org  
-   Link: [https://socialactionlab.org/wp-content/uploads/2024/01/Chan_A-meta-analysis-of-correction-effects-in-science-relevant-misinformation_2023.pdf](https://socialactionlab.org/wp-content/uploads/2024/01/Chan_A-meta-analysis-of-correction-effects-in-science-relevant-misinformation_2023.pdf)  
+   Link: <a href="https://socialactionlab.org/wp-content/uploads/2024/01/Chan_A-meta-analysis-of-correction-effects-in-science-relevant-misinformation_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://socialactionlab.org/wp-content/uploads/2024/01/Chan_A-meta-analysis-of-correction-effects-in-science-relevant-misinformation_2023.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: frontiersin.org  
    Title: Frontiers How Common Is Belief in the Learning Styles Neuromyth  
-   Link: [https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full)  
+   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full</a>  
 
 23. <a id="endnote-23"></a>
    Source: teaching.fsu.edu  
    Title: Center for the Advancement of Teaching From Misconceptions to Conceptual Change  
-   Link: [https://teaching.fsu.edu/wp-content/uploads/2018/01/tst1104_34.pdf](https://teaching.fsu.edu/wp-content/uploads/2018/01/tst1104_34.pdf)  
+   Link: <a href="https://teaching.fsu.edu/wp-content/uploads/2018/01/tst1104_34.pdf" target="_blank" rel="noopener noreferrer nofollow">https://teaching.fsu.edu/wp-content/uploads/2018/01/tst1104_34.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: carnegieendowment.org  
    Title: Carnegie Endowment Countering Disinformation Effectively: An Evidence-Based  
-   Link: [https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide](https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide)  
+   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
 
 25. <a id="endnote-25"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/bb814cfc5e8d29a1ecc058f836de9580](https://apnews.com/article/bb814cfc5e8d29a1ecc058f836de9580)  
+   Link: <a href="https://apnews.com/article/bb814cfc5e8d29a1ecc058f836de9580" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/bb814cfc5e8d29a1ecc058f836de9580</a>  
 
 26. <a id="endnote-26"></a>
    Source: apnews.com  
    Title: AP News No more fact-checking for Meta. How will this change media  
-   Link: [https://apnews.com/article/00bc57b4a3c348a1363610c1cbbfd8ca](https://apnews.com/article/00bc57b4a3c348a1363610c1cbbfd8ca)  
+   Link: <a href="https://apnews.com/article/00bc57b4a3c348a1363610c1cbbfd8ca" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/00bc57b4a3c348a1363610c1cbbfd8ca</a>  
 
 27. <a id="endnote-27"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10463283.2021.1876983](https://www.tandfonline.com/doi/full/10.1080/10463283.2021.1876983)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10463283.2021.1876983" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10463283.2021.1876983</a>  
 
 28. <a id="endnote-28"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: global vaccination badnews  
-   Link: [https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/](https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/](https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/)  
+   Link: <a href="https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/</a>  
 
 30. <a id="endnote-30"></a>
    Source: ltrr.arizona.edu  
    Title: Debunking Handbook  
-   Link: [https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf](https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf)  
+   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/sciadv.abo6254](https://www.science.org/doi/10.1126/sciadv.abo6254)  
+   Link: <a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: psychologicalscience.org  
-   Link: [https://www.psychologicalscience.org/topics/myths-and-misinformation](https://www.psychologicalscience.org/topics/myths-and-misinformation)  
+   Link: <a href="https://www.psychologicalscience.org/topics/myths-and-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/topics/myths-and-misinformation</a>  
 
 33. <a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE](https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE)  
+   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
 
 34. <a id="endnote-34"></a>
    Source: gdoc.pub  
-   Link: [https://gdoc.pub/doc/e/2PACX-1vSYLiQNF3XCdGSl-Axe-Da_0qaJxayn0oy4YXm4gCitzLXIMJ7FiFyAUlKcRMJi_H03WjtF8hLUAyb_](https://gdoc.pub/doc/e/2PACX-1vSYLiQNF3XCdGSl-Axe-Da_0qaJxayn0oy4YXm4gCitzLXIMJ7FiFyAUlKcRMJi_H03WjtF8hLUAyb_)  
+   Link: <a href="https://gdoc.pub/doc/e/2PACX-1vSYLiQNF3XCdGSl-Axe-Da_0qaJxayn0oy4YXm4gCitzLXIMJ7FiFyAUlKcRMJi_H03WjtF8hLUAyb_" target="_blank" rel="noopener noreferrer nofollow">https://gdoc.pub/doc/e/2PACX-1vSYLiQNF3XCdGSl-Axe-Da_0qaJxayn0oy4YXm4gCitzLXIMJ7FiFyAUlKcRMJi_H03WjtF8hLUAyb_</a>  
 
 35. <a id="endnote-35"></a>
    Source: emerald.com  
-   Link: [https://www.emerald.com/books/edited-volume/18670/chapter/102341928/How-Attempting-to-Reduce-Misconceptions-in](https://www.emerald.com/books/edited-volume/18670/chapter/102341928/How-Attempting-to-Reduce-Misconceptions-in)  
+   Link: <a href="https://www.emerald.com/books/edited-volume/18670/chapter/102341928/How-Attempting-to-Reduce-Misconceptions-in" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/books/edited-volume/18670/chapter/102341928/How-Attempting-to-Reduce-Misconceptions-in</a>  
 
 36. <a id="endnote-36"></a>
    Source: stratcomcoe.org  
-   Link: [https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf](https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf)  
+   Link: <a href="https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: thescienceteacher.co.uk  
-   Link: [https://thescienceteacher.co.uk/misconceptions-in-science-education/](https://thescienceteacher.co.uk/misconceptions-in-science-education/)  
+   Link: <a href="https://thescienceteacher.co.uk/misconceptions-in-science-education/" target="_blank" rel="noopener noreferrer nofollow">https://thescienceteacher.co.uk/misconceptions-in-science-education/</a>  
 
 38. <a id="endnote-38"></a>
    Source: humanrights.ca  
-   Link: [https://humanrights.ca/resource-guide/misinformation-disinformation-and-malinformation](https://humanrights.ca/resource-guide/misinformation-disinformation-and-malinformation)  
+   Link: <a href="https://humanrights.ca/resource-guide/misinformation-disinformation-and-malinformation" target="_blank" rel="noopener noreferrer nofollow">https://humanrights.ca/resource-guide/misinformation-disinformation-and-malinformation</a>  
 
 39. <a id="endnote-39"></a>
    Source: shapingtomorrowsworld.org  
-   Link: [https://www.shapingtomorrowsworld.org/debunking-handbook-part-1-first-myth-about-debunking.html](https://www.shapingtomorrowsworld.org/debunking-handbook-part-1-first-myth-about-debunking.html)  
+   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-1-first-myth-about-debunking.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-1-first-myth-about-debunking.html</a>  
 
 40. <a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/370712520_To_Debunk_or_Not_to_Debunk_Correcting_MisInformation](https://www.researchgate.net/publication/370712520_To_Debunk_or_Not_to_Debunk_Correcting_MisInformation)  
+   Link: <a href="https://www.researchgate.net/publication/370712520_To_Debunk_or_Not_to_Debunk_Correcting_MisInformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370712520_To_Debunk_or_Not_to_Debunk_Correcting_MisInformation</a>  
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/sharingbestpractice/posts/2584757098524452/](https://www.facebook.com/groups/sharingbestpractice/posts/2584757098524452/)  
+   Link: <a href="https://www.facebook.com/groups/sharingbestpractice/posts/2584757098524452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/sharingbestpractice/posts/2584757098524452/</a>

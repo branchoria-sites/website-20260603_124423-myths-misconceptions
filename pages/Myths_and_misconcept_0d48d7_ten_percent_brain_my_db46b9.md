@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - 10-brain
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - 10-brain
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: The 10 percent brain claim survives because it turns complex neuroscience into an appealing promise of untapped ability.
 hero_summary: The 10 percent brain claim survives because it turns complex neuroscience into an appealing promise of untapped ability.
 layout: default
 permalink: /10-brain/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: 10 Brain
 title: Why the 10 Percent Brain Myth Endures
-title_full: Why the 10 Percent Brain Myth Endures | Mythcraft
+title_full: Why the 10 Percent Brain Myth Endures
 display_title_short: 10 Brain
 display_title: 10 Brain
 heading_title: Why the 10 Percent Brain Myth Endures
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,15 +478,15 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 next_link:
   basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
-date: '2026-06-09 04:19:25 '
+date: '2026-06-11 21:59:10 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-overview.webp
@@ -497,9 +497,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-ov
 
 The idea that humans use only 10 per cent of their brains is one of the most successful modern myths. It survives because it combines two powerful messages: that science has uncovered a hidden truth about the mind, and that almost everyone possesses vast unrealised abilities waiting to be unlocked. The claim appears in self-help culture, advertising, motivational speeches and popular films, often accompanied by the promise that extraordinary intelligence, creativity or mental powers lie dormant inside ordinary people.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-overview.webp" | relative_url }}" alt="Overview image for 10 Brain" loading="eager" decoding="sync" fetchpriority="high">
-The problem is that the slogan is not supported by neuroscience. Modern brain research shows that the brain is active across many interconnected regions throughout the day, even during sleep. The myth persists not because the evidence is strong, but because the story is emotionally attractive. It turns the complexity of human development into a simple narrative of hidden potential. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008 — The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
+The problem is that the slogan is not supported by neuroscience. Modern brain research shows that the brain is active across many interconnected regions throughout the day, even during sleep. The myth persists not because the evidence is strong, but because the story is emotionally attractive. It turns the complexity of human development into a simple narrative of hidden potential. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008  The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
 
 ## The appeal of hidden potential
 
@@ -513,7 +512,6 @@ Psychologists and science communicators have noted that the myth is often linked
 
 The myth also flatters its audience. It implies that current performance is not a reflection of present abilities but merely evidence that most of the mind remains inaccessible. That message is far easier to sell than the more ordinary reality that human improvement usually comes through education, training, health, environment and sustained practice.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-1-dark.svg" | relative_url }}" alt="10 Brain illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the myth developed
 
@@ -521,23 +519,21 @@ One reason the myth has survived is that it does not appear to have a single ori
 
 A commonly cited source is the psychologist [William James]({{ 'william-james/' | relative_url }}). In the late nineteenth and early twentieth centuries, James argued that people often fail to reach their full mental and physical potential. He was discussing human capability and motivation, not unused brain tissue. Over time, however, comments about unrealised potential were transformed into a numerical claim about brain usage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span> PMC The myth gained further momentum through popular culture and self-improvement literature. A frequently repeated story claims that Albert Eins <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">It has survived more than a century. In 1907, Williams James...Read more...</span></span></span> tein endorsed the idea, although there is no reliable evidence that he did. Motivational writers, advertisers and speakers found the claim useful because it sounded scientific while remaining easy to understand. By the mid-twentieth century, the number itself had become more important than its origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
 
-Science fiction also helped keep the concept alive. Stories about hidden mental powers, enhanced intelligence and extraordinary cognitive abilities often used the idea that most of the brain was inactive. More recently, films such as *Lucy* and *Limitless* introduced the myth to new audiences by treating increased brain use as a route to superhuman abilities. Even when presented as fiction, such stories reinforce the basic assumption that the brain contains vast dormant regions waiting to be activated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainfacts.org/brain-anatomy-and-function/anatomy/2014/lucy-and-the-10-percent-brain-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainfacts.org">[BrainFacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainfacts.org</span><span class="citation-popover-title">lucy and the 10 percent brain myth</span><span class="citation-popover-snippet">“The crazy thing about this belief is that despite being totally false, it is so well-known,”...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcgovern.mit.edu">[MIT McGovern Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcgovern.mit.edu</span><span class="citation-popover-title">do we use only 10 percent of our brain</span><span class="citation-popover-snippet">MIT McGovern InstituteDo we only use 10 percent of our brain?Jan 26, 2024 — The idea that we use 10 percent of our brain is 100 percent a...</span></span></span>
+Science fiction also helped keep the concept alive. Stories about hidden mental powers, enhanced intelligence and extraordinary cognitive abilities often used the idea that most of the brain was inactive. More recently, films such as *Lucy* and *Limitless* introduced the myth to new audiences by treating increased brain use as a route to superhuman abilities. Even when presented as fiction, such stories reinforce the basic assumption that the brain contains vast dormant regions waiting to be activated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainfacts.org/brain-anatomy-and-function/anatomy/2014/lucy-and-the-10-percent-brain-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainfacts.org">[BrainFacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainfacts.org</span><span class="citation-popover-title">lucy and the 10 percent brain myth</span><span class="citation-popover-snippet">The crazy thing about this belief is that despite being totally false, it is so well-known,...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcgovern.mit.edu">[MIT McGovern Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcgovern.mit.edu</span><span class="citation-popover-title">do we use only 10 percent of our brain</span><span class="citation-popover-snippet">MIT McGovern InstituteDo we only use 10 percent of our brain?Jan 26, 2024  The idea that we use 10 percent of our brain is 100 percent a...</span></span></span>
 
 ## What brain activity actually shows
 
 Modern neuroscience provides several independent reasons for rejecting the 10 per cent claim.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5NubJ2ThK_U" title="What percentage of your brain do you use? - Richard E. Cytowic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5NubJ2ThK_U" target="_blank" rel="noopener noreferrer">What percentage of your brain do you use? - Richard E. Cytowic</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 4.3M &middot; Uploaded: January 2014 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5NubJ2ThK_U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5NubJ2ThK_U">Open on YouTube</a></p></div></div></div>
-
 ### Brain imaging does not reveal large unused regions
 
 Technologies such as functional magnetic resonance imaging (fMRI) and positron emission tomography (PET) allow researchers to observe patterns of activity across the living brain. Different tasks activate different networks, but the evidence does not show huge silent areas waiting for future use.
 
-A common misunderstanding comes from looking at colourful brain-scan images. In many images, only selected regions appear highlighted. This can create the impression that the rest of the brain is inactive. In reality, those highlighted areas simply show greater activity relative to a comparison condition. Much of the rest of the brain is still functioning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceWe only use 10% of our brainsIt seems that the 10% myth persists for two primary reasons: firstly, its intuitive...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?The data clearly shows that large areas of the brain—far more than 1...</span></span></span>
+A common misunderstanding comes from looking at colourful brain-scan images. In many images, only selected regions appear highlighted. This can create the impression that the rest of the brain is inactive. In reality, those highlighted areas simply show greater activity relative to a comparison condition. Much of the rest of the brain is still functioning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceWe only use 10% of our brainsIt seems that the 10% myth persists for two primary reasons: firstly, its intuitive...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?The data clearly shows that large areas of the brainfar more than 1...</span></span></span>
 
-Even during sleep, extensive neural activity continues. The brain remains engaged in processes related to memory, regulation, sensory monitoring and internal communication. Neuroscientists therefore describe the brain as continuously active rather than partly switched off. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008 — The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
+Even during sleep, extensive neural activity continues. The brain remains engaged in processes related to memory, regulation, sensory monitoring and internal communication. Neuroscientists therefore describe the brain as continuously active rather than partly switched off. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008  The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
 
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-2-dark.svg" | relative_url }}" alt="10 Brain illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Brain damage tells a different story
 
 Evidence from injury and disease also contradicts the myth.
@@ -546,24 +542,21 @@ If 90 per cent of the brain were genuinely unnecessary, damage to large areas wo
 
 Researchers still debate many details of how brain systems interact, but uncertainty about precise mechanisms is not evidence that most of the brain is unused. There is a major difference between saying "scientists do not fully understand everything the brain does" and saying "most of the brain does nothing".
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-2-dark.svg" | relative_url }}" alt="10 Brain illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The brain is too expensive to waste
 
 Another argument comes from evolution and metabolism.
 
-The human brain accounts for roughly 2 per cent of body weight but consumes about 20 per cent of the body's energy. Maintaining neural tissue is metabolically costly. From an evolutionary perspective, it would make little sense for natural selection to preserve a massive organ if most of it served no purpose. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008 — The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
+The human brain accounts for roughly 2 per cent of body weight but consumes about 20 per cent of the body's energy. Maintaining neural tissue is metabolically costly. From an evolutionary perspective, it would make little sense for natural selection to preserve a massive organ if most of it served no purpose. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008  The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
 
 The existence of a large, energy-demanding brain is itself evidence that its structures contribute to survival and function. The precise role of every neuron may not be known, but the idea that 90 per cent of the organ remains idle is difficult to reconcile with what is known about biology.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eDQquPtqMZs" title="Neurologists Debunk 11 Brain Myths | Debunked | Science Insider" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eDQquPtqMZs" target="_blank" rel="noopener noreferrer">Neurologists Debunk 11 Brain Myths | Debunked | Science Insider</a></p><p class="youtube-embed-meta">Channel: Insider Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eDQquPtqMZs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eDQquPtqMZs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5NubJ2ThK_U" title="What percentage of your brain do you use? - Richard E. Cytowic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5NubJ2ThK_U" target="_blank" rel="noopener noreferrer">What percentage of your brain do you use? - Richard E. Cytowic</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 4.3M &middot; Uploaded: January 2014 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5NubJ2ThK_U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5NubJ2ThK_U">Open on YouTube</a></p></div></div></div>
 
 ## Why the slogan keeps returning
 
 The 10 per cent myth survives partly because it contains a grain of truth wrapped inside a false conclusion.
 
-People genuinely differ in how effectively they use their abilities. Skills can improve. Learning changes the brain. Experience can reshape neural connections. Recovery after injury is sometimes possible. [Neuroplasticity]({{ 'neuroplasticity/' | relative_url }})—the brain's capacity to adapt and reorganise—has become one of the most important findings in modern neuroscience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
+People genuinely differ in how effectively they use their abilities. Skills can improve. Learning changes the brain. Experience can reshape neural connections. Recovery after injury is sometimes possible. [Neuroplasticity]({{ 'neuroplasticity/' | relative_url }})the brain's capacity to adapt and reorganisehas become one of the most important findings in modern neuroscience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
 
 The myth takes these real observations and converts them into a much stronger claim. Instead of saying that brains can change through experience, it says that most of the brain is dormant. Instead of saying that people can develop abilities, it implies that extraordinary powers are waiting behind a biological lock.
 
@@ -571,9 +564,7 @@ This distinction matters because the real story is actually more interesting. Hu
 
 The slogan also benefits from [repetition]({{ 'repetition/' | relative_url }}). Surveys have found that belief in the myth remains surprisingly widespread, including among some educators and trainee teachers. Once a claim becomes culturally familiar, people often remember the statement while forgetting where it came from or whether it was ever supported by evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceWe only use 10% of our brainsIt seems that the 10% myth persists for two primary reasons: firstly, its intuitive...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ng-ChG3prXA" title="Debunking the 10% brain myth - BBC REEL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ng-ChG3prXA" target="_blank" rel="noopener noreferrer">Debunking the 10% brain myth - BBC REEL</a></p><p class="youtube-embed-meta">Channel: BBC Global</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ng-ChG3prXA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ng-ChG3prXA">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-3-dark.svg" | relative_url }}" alt="10 Brain illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The real lesson about human potential
 
 The popularity of the 10 per cent myth reveals something important about how people think about intelligence and achievement. Most individuals do not want to hear that improvement is impossible. They want evidence that growth remains achievable.
@@ -583,9 +574,6 @@ The mistake lies in assuming that hope requires a false biological claim.
 Modern neuroscience does not support the idea of vast unused brain regions waiting to be awakened. What it does support is a picture of a brain that remains adaptable throughout life. People can acquire new skills, recover functions, strengthen knowledge and change behaviour without discovering hidden neurological reserves. The evidence points toward development through plasticity, learning and experience rather than through unlocking a mysterious 90 per cent of the mind. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforbrainhealth.org/article/only-10-of-our-brains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforbrainhealth.org">[Center for BrainHealth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforbrainhealth.org</span><span class="citation-popover-title">only 10 of our brains</span><span class="citation-popover-snippet">Reflecting on that age-old myth, this article explores present-day understanding of the brain&#x27;s interconnectedness...Read more...</span></span></span>
 
 That reality may be less dramatic than the myth, but it is also more empowering. Human potential does not depend on accessing an unused brain. It depends on what people do with the brain they already use every day.
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-3-dark.svg" | relative_url }}" alt="10 Brain illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -704,11 +692,11 @@ That reality may be less dramatic than the myth, but it is also more empowering.
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy Posters â€“ Skeleton, Muscles, Organs â€“ Framed or Unframed"><img src="{{ '/assets/images/marketplace-covers/9772fd9d8d1f64190d32.jpg' | relative_url }}" alt="Listing image for Human Anatomy Posters â€“ Skeleton, Muscles, Organs â€“ Framed or Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed"><img src="{{ '/assets/images/marketplace-covers/9772fd9d8d1f64190d32.jpg' | relative_url }}" alt="Listing image for Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy Posters â€“ Skeleton, Muscles, Organs â€“ Framed or Unframed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
         <div class="fr-book-actions">
@@ -984,66 +972,66 @@ That reality may be less dramatic than the myth, but it is also more empowering.
 1. <a id="endnote-1"></a>
    Source: mcgovern.mit.edu  
    Title: do we use only 10 percent of our brain  
-   Link: [https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/](https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT McGovern InstituteDo we only use 10 percent of our brain?Jan 26, 2024 — The idea that we use 10 percent of our brain is 100 percent a...</p></details>
+   Link: <a href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow">https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT McGovern InstituteDo we only use 10 percent of our brain?Jan 26, 2024  The idea that we use 10 percent of our brain is 100 percent a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain](https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?The data clearly shows that large areas of the brain—far more than 1...</p></details>
+   Link: <a href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?The data clearly shows that large areas of the brainfar more than 1...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Ten-percent-of-the-brain myth  
-   Link: [https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth](https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth</a>  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It has survived more than a century. In 1907, Williams James...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: brainfacts.org  
    Title: lucy and the 10 percent brain myth  
-   Link: [https://www.brainfacts.org/brain-anatomy-and-function/anatomy/2014/lucy-and-the-10-percent-brain-myth](https://www.brainfacts.org/brain-anatomy-and-function/anatomy/2014/lucy-and-the-10-percent-brain-myth)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“The crazy thing about this belief is that despite being totally false, it is so well-known,”...Read more...</p></details>
+   Link: <a href="https://www.brainfacts.org/brain-anatomy-and-function/anatomy/2014/lucy-and-the-10-percent-brain-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.brainfacts.org/brain-anatomy-and-function/anatomy/2014/lucy-and-the-10-percent-brain-myth</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The crazy thing about this belief is that despite being totally false, it is so well-known,...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: brainfacts.org  
    Title: debunked the 10 percent brain myth 061719  
-   Link: [https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2019/debunked-the-10-percent-brain-myth-061719](https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2019/debunked-the-10-percent-brain-myth-061719)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunked: The 10 Percent Brain MythJun 19, 2019 — Don&#x27;t let the movies fool you. Neuroscientist Nick Spitzer debunks the myth that people...</p></details>
+   Link: <a href="https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2019/debunked-the-10-percent-brain-myth-061719" target="_blank" rel="noopener noreferrer nofollow">https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2019/debunked-the-10-percent-brain-myth-061719</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunked: The 10 Percent Brain MythJun 19, 2019  Don&#x27;t let the movies fool you. Neuroscientist Nick Spitzer debunks the myth that people...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: scientificamerican.com  
    Title: do people only use 10 percent of their brains  
-   Link: [https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/](https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?7 Feb 2008 — The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</p></details>
+   Link: <a href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>?7 Feb 2008  The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational NeuroscienceWe only use 10% of our brainsIt seems that the 10% myth persists for two primary reasons: firstly, its intuitive...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/](https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/)  
+   Link: <a href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The advent of functional magnetic...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: medicalnewstoday.com  
-   Link: [https://www.medicalnewstoday.com/articles/321060](https://www.medicalnewstoday.com/articles/321060)  
+   Link: <a href="https://www.medicalnewstoday.com/articles/321060" target="_blank" rel="noopener noreferrer nofollow">https://www.medicalnewstoday.com/articles/321060</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fMRI scans show that even simple activities require almost all of the brain to be active...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: centerforbrainhealth.org  
    Title: only 10 of our brains  
-   Link: [https://centerforbrainhealth.org/article/only-10-of-our-brains](https://centerforbrainhealth.org/article/only-10-of-our-brains)  
+   Link: <a href="https://centerforbrainhealth.org/article/only-10-of-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://centerforbrainhealth.org/article/only-10-of-our-brains</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reflecting on that age-old myth, this article explores present-day understanding of the brain&#x27;s interconnectedness...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5834348/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5834348/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5834348/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5834348/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This includes claims of how many cells compose the human brain.Read more...</p></details>
 
 ### Additional References
@@ -1051,55 +1039,55 @@ That reality may be less dramatic than the myth, but it is also more empowering.
 13. <a id="endnote-13"></a>
    Source: wired.com  
    Title: everything you need to know about the 10 brain myth explained in 60 seconds  
-   Link: [https://www.wired.com/2014/07/everything-you-need-to-know-about-the-10-brain-myth-explained-in-60-seconds/](https://www.wired.com/2014/07/everything-you-need-to-know-about-the-10-brain-myth-explained-in-60-seconds/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All You Need To Know About the 10 Percent Brain Myth, in...24 Jul 2014 — It&#x27;s based on the premise that we use only 10 percent of our br...</p></details>
+   Link: <a href="https://www.wired.com/2014/07/everything-you-need-to-know-about-the-10-brain-myth-explained-in-60-seconds/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2014/07/everything-you-need-to-know-about-the-10-brain-myth-explained-in-60-seconds/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>All You Need To Know About the 10 Percent Brain Myth, in...24 Jul 2014  It&#x27;s based on the premise that we use only 10 percent of our br...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sociostudies.org  
-   Link: [https://www.sociostudies.org/journal/articles/3776772/](https://www.sociostudies.org/journal/articles/3776772/)  
+   Link: <a href="https://www.sociostudies.org/journal/articles/3776772/" target="_blank" rel="noopener noreferrer nofollow">https://www.sociostudies.org/journal/articles/3776772/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ted to 10 % of brain&#x27;s capacity; initially James stated that it was the use of 10 % of our gray matter for those...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: psychologicalscience.org  
    Title: myth we only use 10 of our brains  
-   Link: [https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html](https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — It was the basis of the movie Lucy (2014), which d...</p></details>
+   Link: <a href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018  It was the basis of the movie Lucy (2014), which d...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: medium.com  
    Title: history rewinded origins of the 10 myth 23202a97866b  
-   Link: [https://medium.com/%40neuro_nuggets/history-rewinded-origins-of-the-10-myth-23202a97866b](https://medium.com/%40neuro_nuggets/history-rewinded-origins-of-the-10-myth-23202a97866b)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History Rewinded: Origins of the 10% Myth“[Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) the 10% Brain Myth.” YouTube, 2013,([https://www.youtube.com/watch?v=4VqbzWGiW-k](https://www.youtube.com/watch?v=4VqbzWGiW-k))...</p></details>
+   Link: <a href="https://medium.com/%40neuro_nuggets/history-rewinded-origins-of-the-10-myth-23202a97866b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40neuro_nuggets/history-rewinded-origins-of-the-10-myth-23202a97866b</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>History Rewinded: Origins of the 10% Myth[Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) the 10% Brain Myth. YouTube, 2013,([https://www.youtube.com/watch?v=4VqbzWGiW-k](https://www.youtube.com/watch?v=4VqbzWGiW-k))...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bakadesuyo.com  
-   Link: [https://bakadesuyo.com/2012/06/is-it-true-you-only-use-10-of-your-brainpower/](https://bakadesuyo.com/2012/06/is-it-true-you-only-use-10-of-your-brainpower/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>as laughably false, adding, “we use virtually every part of the brain.Read more...</p></details>
+   Link: <a href="https://bakadesuyo.com/2012/06/is-it-true-you-only-use-10-of-your-brainpower/" target="_blank" rel="noopener noreferrer nofollow">https://bakadesuyo.com/2012/06/is-it-true-you-only-use-10-of-your-brainpower/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>as laughably false, adding, we use virtually every part of the brain.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bps.org.uk  
    Title: great myths brain we only use 10 cent  
-   Link: [https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent](https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Great myths of the brain: We only use 10 per cent1 Dec 2014 — He supposedly explained to a reporter that the secret to his genius was tha...</p></details>
+   Link: <a href="https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Great myths of the brain: We only use 10 per cent1 Dec 2014  He supposedly explained to a reporter that the secret to his genius was tha...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: communicatingpsychologicalscience.com  
    Title: In reality, the human brain is a highly complex organ.Read more  
-   Link: [https://www.communicatingpsychologicalscience.com/blog/misconceptions-the-truth-about-brain-usage-debunking-the-10-myth](https://www.communicatingpsychologicalscience.com/blog/misconceptions-the-truth-about-brain-usage-debunking-the-10-myth)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Communicating](&amp;#123;&amp;#123; &#x27;communicating/&#x27; | relative_url &amp;#125;&amp;#125;) Psychological ScienceMisconceptions: The Truth About Brain Usage: Debunking...Nov 7, 2023 — The belief that you use only 1...</p></details>
+   Link: <a href="https://www.communicatingpsychologicalscience.com/blog/misconceptions-the-truth-about-brain-usage-debunking-the-10-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.communicatingpsychologicalscience.com/blog/misconceptions-the-truth-about-brain-usage-debunking-the-10-myth</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Communicating](&amp;#123;&amp;#123; &#x27;communicating/&#x27; | relative_url &amp;#125;&amp;#125;) Psychological ScienceMisconceptions: The Truth About Brain Usage: Debunking...Nov 7, 2023  The belief that you use only 1...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: schoolofeducation.blogs.bristol.ac.uk  
    Title: no we dont use only 10 of our brains  
-   Link: [https://schoolofeducation.blogs.bristol.ac.uk/2020/09/17/no-we-dont-use-only-10-of-our-brains/](https://schoolofeducation.blogs.bristol.ac.uk/2020/09/17/no-we-dont-use-only-10-of-our-brains/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bristol.ac.ukNo, we don&#x27;t use only 10% of our brains!17 Sept 2020 — No, we do not use just 10 or 15% of our brain capacities. In fact, we...</p></details>
+   Link: <a href="https://schoolofeducation.blogs.bristol.ac.uk/2020/09/17/no-we-dont-use-only-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://schoolofeducation.blogs.bristol.ac.uk/2020/09/17/no-we-dont-use-only-10-of-our-brains/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>bristol.ac.ukNo, we don&#x27;t use only 10% of our brains!17 Sept 2020  No, we do not use just 10 or 15% of our brain capacities. In fact, we...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: uamshealth.com  
-   Link: [https://uamshealth.com/medical-myths/do-people-only-use-10-percent-of-our-brains/](https://uamshealth.com/medical-myths/do-people-only-use-10-percent-of-our-brains/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAMS HealthDo People Only Use 10 Percent of our Brains?Mar 8, 2019 — Unfortunately, the idea that people only use 10% of our brains and c...</p></details>
+   Link: <a href="https://uamshealth.com/medical-myths/do-people-only-use-10-percent-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://uamshealth.com/medical-myths/do-people-only-use-10-percent-of-our-brains/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAMS HealthDo People Only Use 10 Percent of our Brains?Mar 8, 2019  Unfortunately, the idea that people only use 10% of our brains and c...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: medium.com  
-   Link: [https://medium.com/apollo-medical-myths-debunked/do-we-really-use-only-10-of-our-brains-ad9a59fba0ec](https://medium.com/apollo-medical-myths-debunked/do-we-really-use-only-10-of-our-brains-ad9a59fba0ec)  
+   Link: <a href="https://medium.com/apollo-medical-myths-debunked/do-we-really-use-only-10-of-our-brains-ad9a59fba0ec" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/apollo-medical-myths-debunked/do-we-really-use-only-10-of-our-brains-ad9a59fba0ec</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>parts of our brain, and each area has an...Read more...</p></details>

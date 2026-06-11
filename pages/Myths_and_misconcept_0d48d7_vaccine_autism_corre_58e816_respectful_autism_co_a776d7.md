@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - vaccines
 - respectful-correction
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - vaccines
 - respectful-correction
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A better correction rejects false vaccine claims while respecting parents and avoiding language that treats autism as a catastrophe.
 hero_summary: A better correction rejects false vaccine claims while respecting parents and avoiding language that treats autism as a catastrophe.
 layout: default
 permalink: /respectful-correction/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /vaccines/
 nav_short_title: Respectful correction
 title: How To Correct The Myth Without Harm
-title_full: How To Correct The Myth Without Harm | Vaccines
+title_full: How To Correct The Myth Without Harm
 display_title_short: Respectful correction
 display_title: Respectful correction
 heading_title: How To Correct The Myth Without Harm
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What the Vaccine Autism Myth Teaches Debunkers | Mythcraft
+parent_title: What the Vaccine Autism Myth Teaches Debunkers
 parent_permalink: /vaccines/
 parent_nav_short_title: Vaccines
 parent_heading_title: What the Vaccine Autism Myth Teaches Debunkers
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How One Weak Paper Became a Public Myth
 up_link:
   basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -265,7 +265,7 @@ next_link:
   permalink: /shifting-claims/
   short_title: Shifting claims
   heading_title: When The Claim Changes Its Target
-date: '2026-06-09 05:53:11 '
+date: '2026-06-11 22:46:39 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_re
 ## Introduction
 
 Correcting the vaccine-autism myth is not only a question of scientific accuracy. It is also a question of how people talk about autistic children and adults. A [correction]({{ 'correction/' | relative_url }}) can successfully reject false claims about vaccines while still causing harm if it implies that autism is a catastrophe, a form of damage, or a fate worse than serious infectious disease. Effective communication does both jobs at once: it explains that vaccines do not cause autism and it avoids language that increases stigma toward autistic people. Research on vaccine communication, along with statements from autism advocacy organisations and clinicians, increasingly points to the same lesson: people are more likely to trust [corrections]({{ 'corrections/' | relative_url }}) when they feel heard, and autistic people are less likely to be devalued when autism is discussed with respect rather than fear. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/vaccines-children/hcp/conversation-tips/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Talking with Parents about VaccinesAug 9, 2024 — Many parents have questions about their children&#x27;s vaccines, and answering their questio...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-1-dark.svg" | relative_url }}" alt="Respectful correction illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Acknowledge Observation Without Endorsing Causation
@@ -294,7 +293,6 @@ Simply repeating “vaccines do not cause autism” is scientifically correct, b
 
 More effective corrections provide a replacement account:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Autism begins early in development, often before it is recognised.
@@ -308,9 +306,6 @@ This replacement explanation gives people something to understand rather than me
 
 Public-health communication guidance increasingly emphasises answering the underlying concern rather than only repeating factual rebuttals. When communicators explain why a mistaken conclusion feels persuasive, they reduce the appeal of the original myth without treating people as foolish for believing it. AAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/vaccines-children/hcp/conversation-tips/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Talking with Parents about VaccinesAug 9, 2024 — Many parents have questions about their children&#x27;s vaccines, and answering their questio...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3wFYNAdFKFM" title="Autism Across The Lifespan: Evidence-Based Update" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3wFYNAdFKFM" target="_blank" rel="noopener noreferrer">Autism Across The Lifespan: Evidence-Based Update</a></p><p class="youtube-embed-meta">Channel: Ridley Learning</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3wFYNAdFKFM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3wFYNAdFKFM">Open on YouTube</a></p></div></div></div>
-
 ## Avoid Framing Autistic People as Damage
 
 Some vaccine messaging unintentionally sends a second message: that autism is so frightening that any possible action would be justified to avoid it. This framing can reinforce stigma even when the speaker intends to defend vaccination.
@@ -320,7 +315,6 @@ A common example is language suggesting that parents must choose between vaccine
 Autistic advocates have repeatedly criticised rhetoric that presents autistic people as tragedies, burdens or damaged versions of non-autistic people. Organisations including the Autistic Self Advocacy Network and broader autism coalitions have argued that misinformation about autism frequently relies on fear-based portrayals that distort autistic lives and encourage discrimination. [Autistic Self Advocacy Network+3Autistic Self Advocacy Network+3Autistic Self Advocacy Network]
 
 A respectful correction therefore avoids statements such as:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -333,6 +327,67 @@ A respectful correction therefore avoids statements such as:
 Even when intended to support vaccination, these formulations reduce autistic people to a negative comparison. They frame autism primarily as a disaster metric.
 
 A better approach is to treat two separate facts as true at the same time:
+
+1. Vaccines protect children from serious infectious diseases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://familyvoices.org/leading-autism-and-disability-organizations-statement-on-cdcs-vaccines-and-autism-page/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: familyvoices.org">[familyvoices.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">familyvoices.org</span><span class="citation-popover-snippet">Leading Autism and Disability Organizations Statement on...4 Dec 2025 — Last week&#x27;s actions will likely confuse the public, and especial...</span></span></span>
+2. Autistic people have inherent value and should not be described as damaged or lesser.
+
+Those statements support each other rather than compete.
+
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-2-dark.svg" | relative_url }}" alt="Respectful correction illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Fear-Based Messaging Can Backfire
+
+Fear-heavy corrections may create resistance for both practical and ethical reasons.
+
+Practically, messages that imply authorities are hiding a terrible outcome can strengthen conspiracy thinking. If communicators appear unwilling to discuss autism except as something horrifying, audiences may become more suspicious of official reassurances.
+
+Ethically, fear-based language can affect autistic people directly. Children, teenagers and adults often hear public debates about autism. When autism is repeatedly described as devastation, poisoning or destruction, autistic people receive the message that society views their existence as evidence of injury.
+
+Recent responses from autism organisations to renewed vaccine-autism misinformation have repeatedly stressed this point. Advocates have argued that presenting autism as an epidemic, tragedy or contamination not only misrepresents scientific evidence but also increases social stigma toward autistic people and their families. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/politics/fact-checking-robert-f-kennedy-jr-s-statements-on-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">fact checking robert f kennedy jr s statements on autism</span><span class="citation-popover-snippet">Fact-checking Robert F. Kennedy Jr.&#x27;s statements on autism23 Apr 2025 — Medical experts, along with people on the autism spectrum, told P...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://autismsociety.org/leading-autism-organizations-release-joint-statement-on-upholding-scientific-integrity-and-supporting-the-autism-community/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: autismsociety.org">[Autism Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">autismsociety.org</span><span class="citation-popover-snippet">Autism SocietyLeading Autism Organizations Release Joint Statement on...Apr 17, 2025 — Autistic Self Advocacy Network, Autism Society of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/GMA/Wellness/parents-experts-react-rfk-jrs-autism-claims/story?id=120911306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">comments made by Health and Human Services Secretary Robert F. Kennedy Jr., saying his remarks about autism and vaccines reinforce harmfu...</span></span></span>
+
+The goal of correction is not merely to win an argument. It is to improve understanding without creating new harms.
+
+## What Respectful Correction Sounds Like
+
+The most useful corrections tend to combine empathy, evidence and dignity.
+
+A respectful version might follow a structure like this:
+
+**Start with recognition.**
+
+“I understand why that timing felt important to you. Many parents first notice developmental differences around that age.”
+
+**Provide the evidence.**
+
+“Researchers have studied this question extensively, and large studies have not found that vaccines cause autism.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">The Global Advisory Committee on Vaccine Safety (GACVS)...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealth.jhu.edu/2025/vaccines-do-not-cause-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Johns Hopkins Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-title">vaccines do not cause autism</span><span class="citation-popover-snippet">Johns Hopkins Public HealthVaccines Do Not Cause Autism &#124; Johns Hopkins19 Mar 2025 — In 1971, the FDA approved the measles-mumps-rubella...</span></span></span>
+
+**Offer the replacement explanation.**
+
+“Autism often becomes more noticeable during the same period when children receive routine vaccinations, which can make the events feel connected.”
+
+**Protect dignity.**
+
+“Autistic people deserve support and respect regardless of how autism develops, and current evidence shows vaccination is not the cause.”
+
+This structure avoids two extremes: validating misinformation and dismissing lived experience.
+
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-3-dark.svg" | relative_url }}" alt="Respectful correction illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The Value of Including Autistic Voices
+
+Many public discussions about vaccine myths focus exclusively on parents, researchers or politicians. That can leave autistic people themselves absent from conversations that directly affect them.
+
+Autistic advocates frequently argue that misinformation does more than distort science. It shapes public attitudes toward autistic people, influences education and healthcare policy, and affects how autistic children are treated by peers and adults. The disability-rights principle often summarised as “Nothing About Us, Without Us” reflects the idea that autistic perspectives should be included when autism is being discussed publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/autisticselfadvocacy/reels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Autistic Self Advocacy Network (@autisticselfadvocacy)ASAN seeks to advance the principles of the disability rights movement wit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/autisticselfadvocacy/reels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Autistic Self Advocacy Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Autistic Self Advocacy Network (@autisticselfadvocacy)ASAN seeks to advance the principles of the disability rights movement wit...</span></span></span>
+
+Including autistic voices changes the tone of correction. Instead of centring only fear and prevention, discussions can also include quality of life, accommodation, communication differences, community, and the practical support autistic people need.
+
+That shift does not weaken the correction of vaccine misinformation. It strengthens it by rejecting the hidden assumption that makes the myth emotionally powerful: the idea that autism itself must be explained as a catastrophic injury.
+
+## Correcting the Myth Without Repeating Its Harm
+
+The strongest corrections do more than refute a false claim. They replace a misleading story with a more accurate one and avoid treating autistic people as collateral damage in the process.
+
+The vaccine-autism myth is false. Large bodies of research have repeatedly found no causal link between vaccines and autism. [Autistic Self Advocacy Network+3World Health Organization+3Johns Hopkins Public Health]
+
+But a correction is incomplete if it communicates that autism is something so terrible that people should fear it above all else. Respectful communication recognises parental concern, explains why the mistaken belief feels convincing, presents the scientific evidence clearly, and speaks about autistic people as human beings rather than cautionary symbols. That combination protects both public health and human dignity.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -726,244 +781,175 @@ A better approach is to treat two separate facts as true at the same time:
 </script>
 </section>
 
-1. Vaccines protect children from serious infectious diseases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://familyvoices.org/leading-autism-and-disability-organizations-statement-on-cdcs-vaccines-and-autism-page/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: familyvoices.org">[familyvoices.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">familyvoices.org</span><span class="citation-popover-snippet">Leading Autism and Disability Organizations Statement on...4 Dec 2025 — Last week&#x27;s actions will likely confuse the public, and especial...</span></span></span>
-2. Autistic people have inherent value and should not be described as damaged or lesser.
-
-Those statements support each other rather than compete.
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-2-dark.svg" | relative_url }}" alt="Respectful correction illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Why Fear-Based Messaging Can Backfire
-
-Fear-heavy corrections may create resistance for both practical and ethical reasons.
-
-Practically, messages that imply authorities are hiding a terrible outcome can strengthen conspiracy thinking. If communicators appear unwilling to discuss autism except as something horrifying, audiences may become more suspicious of official reassurances.
-
-Ethically, fear-based language can affect autistic people directly. Children, teenagers and adults often hear public debates about autism. When autism is repeatedly described as devastation, poisoning or destruction, autistic people receive the message that society views their existence as evidence of injury.
-
-Recent responses from autism organisations to renewed vaccine-autism misinformation have repeatedly stressed this point. Advocates have argued that presenting autism as an epidemic, tragedy or contamination not only misrepresents scientific evidence but also increases social stigma toward autistic people and their families. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/politics/fact-checking-robert-f-kennedy-jr-s-statements-on-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">fact checking robert f kennedy jr s statements on autism</span><span class="citation-popover-snippet">Fact-checking Robert F. Kennedy Jr.&#x27;s statements on autism23 Apr 2025 — Medical experts, along with people on the autism spectrum, told P...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://autismsociety.org/leading-autism-organizations-release-joint-statement-on-upholding-scientific-integrity-and-supporting-the-autism-community/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: autismsociety.org">[Autism Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">autismsociety.org</span><span class="citation-popover-snippet">Autism SocietyLeading Autism Organizations Release Joint Statement on...Apr 17, 2025 — Autistic Self Advocacy Network, Autism Society of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/GMA/Wellness/parents-experts-react-rfk-jrs-autism-claims/story?id=120911306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">comments made by Health and Human Services Secretary Robert F. Kennedy Jr., saying his remarks about autism and vaccines reinforce harmfu...</span></span></span>
-
-The goal of correction is not merely to win an argument. It is to improve understanding without creating new harms.
-
-## What Respectful Correction Sounds Like
-
-The most useful corrections tend to combine empathy, evidence and dignity.
-
-A respectful version might follow a structure like this:
-
-**Start with recognition.**
-
-“I understand why that timing felt important to you. Many parents first notice developmental differences around that age.”
-
-**Provide the evidence.**
-
-“Researchers have studied this question extensively, and large studies have not found that vaccines cause autism.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">The Global Advisory Committee on Vaccine Safety (GACVS)...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealth.jhu.edu/2025/vaccines-do-not-cause-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Johns Hopkins Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-title">vaccines do not cause autism</span><span class="citation-popover-snippet">Johns Hopkins Public HealthVaccines Do Not Cause Autism | Johns Hopkins19 Mar 2025 — In 1971, the FDA approved the measles-mumps-rubella...</span></span></span>
-
-**Offer the replacement explanation.**
-
-“Autism often becomes more noticeable during the same period when children receive routine vaccinations, which can make the events feel connected.”
-
-**Protect dignity.**
-
-“Autistic people deserve support and respect regardless of how autism develops, and current evidence shows vaccination is not the cause.”
-
-This structure avoids two extremes: validating misinformation and dismissing lived experience.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LGWeJi1ukw4" title="The battle against vaccine hesitancy: What health systems can do to reach at-risk patients" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LGWeJi1ukw4" target="_blank" rel="noopener noreferrer">The battle against vaccine hesitancy: What health systems can do to reach at-risk patients</a></p><p class="youtube-embed-meta">Channel: Becker&#x27;s Hospital Review</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LGWeJi1ukw4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LGWeJi1ukw4">Open on YouTube</a></p></div></div></div>
-
-## The Value of Including Autistic Voices
-
-Many public discussions about vaccine myths focus exclusively on parents, researchers or politicians. That can leave autistic people themselves absent from conversations that directly affect them.
-
-Autistic advocates frequently argue that misinformation does more than distort science. It shapes public attitudes toward autistic people, influences education and healthcare policy, and affects how autistic children are treated by peers and adults. The disability-rights principle often summarised as “Nothing About Us, Without Us” reflects the idea that autistic perspectives should be included when autism is being discussed publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/autisticselfadvocacy/reels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">InstagramAutistic Self Advocacy Network (@autisticselfadvocacy)ASAN seeks to advance the principles of the disability rights movement wit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/autisticselfadvocacy/reels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Autistic Self Advocacy Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">InstagramAutistic Self Advocacy Network (@autisticselfadvocacy)ASAN seeks to advance the principles of the disability rights movement wit...</span></span></span>
-
-Including autistic voices changes the tone of correction. Instead of centring only fear and prevention, discussions can also include quality of life, accommodation, communication differences, community, and the practical support autistic people need.
-
-That shift does not weaken the correction of vaccine misinformation. It strengthens it by rejecting the hidden assumption that makes the myth emotionally powerful: the idea that autism itself must be explained as a catastrophic injury.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MaVz5R0NEE4" title="Talking to parents about vaccines: practical tips for clinicians" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MaVz5R0NEE4" target="_blank" rel="noopener noreferrer">Talking to parents about vaccines: practical tips for clinicians</a></p><p class="youtube-embed-meta">Channel: Staffordshire and Stoke-on-Trent ICS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MaVz5R0NEE4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MaVz5R0NEE4">Open on YouTube</a></p></div></div></div>
-
-## Correcting the Myth Without Repeating Its Harm
-
-The strongest corrections do more than refute a false claim. They replace a misleading story with a more accurate one and avoid treating autistic people as collateral damage in the process.
-
-The vaccine-autism myth is false. Large bodies of research have repeatedly found no causal link between vaccines and autism. [Autistic Self Advocacy Network+3World Health Organization+3Johns Hopkins Public Health]
-
-But a correction is incomplete if it communicates that autism is something so terrible that people should fear it above all else. Respectful communication recognises parental concern, explains why the mistaken belief feels convincing, presents the scientific evidence clearly, and speaks about autistic people as human beings rather than cautionary symbols. That combination protects both public health and human dignity.
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-3-dark.svg" | relative_url }}" alt="Respectful correction illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/vaccines-children/hcp/conversation-tips/index.html](https://www.cdc.gov/vaccines-children/hcp/conversation-tips/index.html)  
+   Link: <a href="https://www.cdc.gov/vaccines-children/hcp/conversation-tips/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccines-children/hcp/conversation-tips/index.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Talking with Parents about VaccinesAug 9, 2024 — Many parents have questions about their children&#x27;s vaccines, and answering their questio...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5789217/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5789217/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCVaccination as a cause of autism—myths and controversiesby M Davidson · 2017 · Cited by 207 — Myths that vaccines or mercury are assoc...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5789217/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5789217/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccination as a cause of autism—myths and controversiesby M Davidson · 2017 · Cited by 207 — Myths that vaccines or mercury are assoc...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe myth of vaccination and autism spectrum  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8694782/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8694782/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8694782/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8694782/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>myth of vaccination and autism spectrum - PMCby LV Gabis · 2021 · Cited by 113 — Despite the overwhelming data demonstrating that there i...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: publications.aap.org  
-   Link: [https://publications.aap.org/pediatrics/article/153/3/e2023065483/196695/Strategies-for-Improving-Vaccine-Communication-and](https://publications.aap.org/pediatrics/article/153/3/e2023065483/196695/Strategies-for-Improving-Vaccine-Communication-and)  
+   Link: <a href="https://publications.aap.org/pediatrics/article/153/3/e2023065483/196695/Strategies-for-Improving-Vaccine-Communication-and" target="_blank" rel="noopener noreferrer nofollow">https://publications.aap.org/pediatrics/article/153/3/e2023065483/196695/Strategies-for-Improving-Vaccine-Communication-and</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Academy of PediatricsStrategies for Improving Vaccine Communication and UptakeFeb 26, 2024 — Vaccine hesitancy, a motivational s...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aap.org  
    Title: talking with vaccine hesitant parents  
-   Link: [https://www.aap.org/en/patient-care/immunizations/[communicating](https://www.aap.org/en/patient-care/immunizations/[communicating)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAPTalking with Vaccine Hesitant ParentsOct 9, 2025 — This page will inform pediatricians about different types of parents, how they view...</p></details>
+   Link: <a href="https://www.aap.org/en/patient-care/immunizations/[communicating" target="_blank" rel="noopener noreferrer nofollow">https://www.aap.org/en/patient-care/immunizations/[communicating</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Talking with Vaccine Hesitant ParentsOct 9, 2025 — This page will inform pediatricians about different types of parents, how they view...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pbs.org  
    Title: fact checking robert f kennedy jr s statements on autism  
-   Link: [https://www.pbs.org/newshour/politics/fact-checking-robert-f-kennedy-jr-s-statements-on-autism](https://www.pbs.org/newshour/politics/fact-checking-robert-f-kennedy-jr-s-statements-on-autism)  
+   Link: <a href="https://www.pbs.org/newshour/politics/fact-checking-robert-f-kennedy-jr-s-statements-on-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/fact-checking-robert-f-kennedy-jr-s-statements-on-autism</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking Robert F. Kennedy Jr.&#x27;s statements on autism23 Apr 2025 — Medical experts, along with people on the autism spectrum, told P...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/autisticselfadvocacy/reels/](https://www.instagram.com/autisticselfadvocacy/reels/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>InstagramAutistic Self Advocacy Network (@autisticselfadvocacy)ASAN seeks to advance the principles of the disability rights movement wit...</p></details>
+   Link: <a href="https://www.instagram.com/autisticselfadvocacy/reels/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/autisticselfadvocacy/reels/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autistic Self Advocacy Network (@autisticselfadvocacy)ASAN seeks to advance the principles of the disability rights movement wit...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: publications.aap.org  
    Title: How to address parents questions about vaccines  
-   Link: [https://publications.aap.org/aapnews/news/33607/How-to-address-parents-questions-about-vaccines](https://publications.aap.org/aapnews/news/33607/How-to-address-parents-questions-about-vaccines)  
+   Link: <a href="https://publications.aap.org/aapnews/news/33607/How-to-address-parents-questions-about-vaccines" target="_blank" rel="noopener noreferrer nofollow">https://publications.aap.org/aapnews/news/33607/How-to-address-parents-questions-about-vaccines</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>James: “There is definitive evidence that vaccines are safe and effective. Any link to the autism spectrum has been proven to be false wi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aap.org  
-   Link: [https://www.aap.org/en/patient-care/immunizations/communicating-with-families-and-promoting-vaccine-confidence/?srsltid=AfmBOoqwK4Alh8R42xJCDAKaI-CODysjuqtr5n6Txjuuqp0fCqMrX6Z4](https://www.aap.org/en/patient-care/immunizations/communicating-with-families-and-promoting-vaccine-confidence/?srsltid=AfmBOoqwK4Alh8R42xJCDAKaI-CODysjuqtr5n6Txjuuqp0fCqMrX6Z4)  
+   Link: <a href="https://www.aap.org/en/patient-care/immunizations/communicating-with-families-and-promoting-vaccine-confidence/?srsltid=AfmBOoqwK4Alh8R42xJCDAKaI-CODysjuqtr5n6Txjuuqp0fCqMrX6Z4" target="_blank" rel="noopener noreferrer nofollow">https://www.aap.org/en/patient-care/immunizations/communicating-with-families-and-promoting-vaccine-confidence/?srsltid=AfmBOoqwK4Alh8R42xJCDAKaI-CODysjuqtr5n6Txjuuqp0fCqMrX6Z4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn more about the types of parental attitudes toward immunizations and simple strategies for speaking to parents about vaccines.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: publications.aap.org  
    Title: Immunization News  
-   Link: [https://publications.aap.org/redbook/resources/23648/Immunization-News](https://publications.aap.org/redbook/resources/23648/Immunization-News)  
+   Link: <a href="https://publications.aap.org/redbook/resources/23648/Immunization-News" target="_blank" rel="noopener noreferrer nofollow">https://publications.aap.org/redbook/resources/23648/Immunization-News</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>News | Red Book OnlineMar 6, 2026 — The AAP and dozens of medical groups are condemning the CDC for posting debunked claims linking vacci...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: time.com  
    Title: andrew wakefield vaccine autism  
-   Link: [https://time.com/5175704/andrew-wakefield-vaccine-autism/](https://time.com/5175704/andrew-wakefield-vaccine-autism/)  
+   Link: <a href="https://time.com/5175704/andrew-wakefield-vaccine-autism/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5175704/andrew-wakefield-vaccine-autism/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Vaccine-Autism Myth Started 20 Years Ago. Here&#x27;s...28 Feb 2018 — February 28, 2018 marks the 20th anniversary of an infamous article...</p></details>
    Published: February 28, 2018  
 
 12. <a id="endnote-12"></a>
    Source: autismsociety.org  
-   Link: [https://autismsociety.org/leading-autism-organizations-release-joint-statement-on-upholding-scientific-integrity-and-supporting-the-autism-community/](https://autismsociety.org/leading-autism-organizations-release-joint-statement-on-upholding-scientific-integrity-and-supporting-the-autism-community/)  
+   Link: <a href="https://autismsociety.org/leading-autism-organizations-release-joint-statement-on-upholding-scientific-integrity-and-supporting-the-autism-community/" target="_blank" rel="noopener noreferrer nofollow">https://autismsociety.org/leading-autism-organizations-release-joint-statement-on-upholding-scientific-integrity-and-supporting-the-autism-community/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autism SocietyLeading Autism Organizations Release Joint Statement on...Apr 17, 2025 — Autistic Self Advocacy Network, Autism Society of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: who.int  
-   Link: [https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism](https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism)  
+   Link: <a href="https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Global Advisory Committee on Vaccine Safety (GACVS)...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: autisticadvocacy.org  
-   Link: [https://autisticadvocacy.org/[debunking](https://autisticadvocacy.org/[debunking)  
+   Link: <a href="https://autisticadvocacy.org/[debunking" target="_blank" rel="noopener noreferrer nofollow">https://autisticadvocacy.org/[debunking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autistic Self Advocacy NetworkDebunking Autism MisinformationWe have seen a wave of dangerous proposals and policy changes coming from Pr...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: autisticadvocacy.org  
    Title: the truth about autism  
-   Link: [https://autisticadvocacy.org/2026/04/the-truth-about-autism/](https://autisticadvocacy.org/2026/04/the-truth-about-autism/)  
+   Link: <a href="https://autisticadvocacy.org/2026/04/the-truth-about-autism/" target="_blank" rel="noopener noreferrer nofollow">https://autisticadvocacy.org/2026/04/the-truth-about-autism/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Apr 2026 — People in the government have told lies about autism and vaccines... Myths about autism are loud. Autistic voices should be...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: autisticadvocacy.org  
-   Link: [https://autisticadvocacy.org/about-asan/about-autism/](https://autisticadvocacy.org/about-asan/about-autism/)  
+   Link: <a href="https://autisticadvocacy.org/about-asan/about-autism/" target="_blank" rel="noopener noreferrer nofollow">https://autisticadvocacy.org/about-asan/about-autism/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autistic Self Advocacy NetworkAbout AutismBecause of myths about autism, it can be harder for autistic adults... We might not be able to...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: autismsociety.org  
    Title: Autism Society Statement on Robert F  
-   Link: [https://autismsociety.org/statement-on-robert-f-kennedy-jr-s-comments-regarding-the-cause-of-autism-and-misleading-deadline/](https://autismsociety.org/statement-on-robert-f-kennedy-jr-s-comments-regarding-the-cause-of-autism-and-misleading-deadline/)  
+   Link: <a href="https://autismsociety.org/statement-on-robert-f-kennedy-jr-s-comments-regarding-the-cause-of-autism-and-misleading-deadline/" target="_blank" rel="noopener noreferrer nofollow">https://autismsociety.org/statement-on-robert-f-kennedy-jr-s-comments-regarding-the-cause-of-autism-and-misleading-deadline/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kennedy Jr.&#x27;s Comments...The Autism Society of America finds the Administration&#x27;s claim—that “we will know what has caused the Autism ep...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/GMA/Wellness/parents-experts-react-rfk-jrs-autism-claims/story?id=120911306](https://abcnews.com/GMA/Wellness/parents-experts-react-rfk-jrs-autism-claims/story?id=120911306)  
+   Link: <a href="https://abcnews.com/GMA/Wellness/parents-experts-react-rfk-jrs-autism-claims/story?id=120911306" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/GMA/Wellness/parents-experts-react-rfk-jrs-autism-claims/story?id=120911306</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comments made by Health and Human Services Secretary Robert F. Kennedy Jr., saying his remarks about autism and vaccines reinforce harmfu...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: publichealth.jhu.edu  
    Title: vaccines do not cause autism  
-   Link: [https://publichealth.jhu.edu/2025/vaccines-do-not-cause-autism](https://publichealth.jhu.edu/2025/vaccines-do-not-cause-autism)  
+   Link: <a href="https://publichealth.jhu.edu/2025/vaccines-do-not-cause-autism" target="_blank" rel="noopener noreferrer nofollow">https://publichealth.jhu.edu/2025/vaccines-do-not-cause-autism</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Johns Hopkins Public HealthVaccines Do Not Cause Autism | Johns Hopkins19 Mar 2025 — In 1971, the FDA approved the measles-mumps-rubella...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: autisticadvocacy.org  
-   Link: [https://autisticadvocacy.org/2025/11/leading-autism-and-disability-organizations-statement-on-cdcs-vaccines-and-autism-page/](https://autisticadvocacy.org/2025/11/leading-autism-and-disability-organizations-statement-on-cdcs-vaccines-and-autism-page/)  
+   Link: <a href="https://autisticadvocacy.org/2025/11/leading-autism-and-disability-organizations-statement-on-cdcs-vaccines-and-autism-page/" target="_blank" rel="noopener noreferrer nofollow">https://autisticadvocacy.org/2025/11/leading-autism-and-disability-organizations-statement-on-cdcs-vaccines-and-autism-page/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autistic Self Advocacy NetworkLeading Autism and Disability Organizations Statement on...24 Nov 2025 — The website now states: “&#x27;vaccine...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
    Title: vaccines do not cause autism  
-   Link: [https://www.facebook.com/AmerAcadPeds/videos/for-years-the-research-has-been-clear-vaccines-do-not-cause-autismcontinuing-to-/1153815389969716/](https://www.facebook.com/AmerAcadPeds/videos/for-years-the-research-has-been-clear-vaccines-do-not-cause-autismcontinuing-to-/1153815389969716/)  
+   Link: <a href="https://www.facebook.com/AmerAcadPeds/videos/for-years-the-research-has-been-clear-vaccines-do-not-cause-autismcontinuing-to-/1153815389969716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmerAcadPeds/videos/for-years-the-research-has-been-clear-vaccines-do-not-cause-autismcontinuing-to-/1153815389969716/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Continuing to link the two...Continuing to link the two spreads misinformation, erodes trust in vaccines, and harms families. Autism is...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: autisticadvocacy.org  
-   Link: [https://autisticadvocacy.org/2026/04/asan-april-26-update/](https://autisticadvocacy.org/2026/04/asan-april-26-update/)  
+   Link: <a href="https://autisticadvocacy.org/2026/04/asan-april-26-update/" target="_blank" rel="noopener noreferrer nofollow">https://autisticadvocacy.org/2026/04/asan-april-26-update/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASAN April Update3 days ago — Myths about autism are loud. Autistic voices should be louder. As we wrap up Autism Acceptance Month, there...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: autism.org.uk  
-   Link: [https://www.autism.org.uk/what-we-do/campaign/tackling-misinformation/too-much-information](https://www.autism.org.uk/what-we-do/campaign/tackling-misinformation/too-much-information)  
+   Link: <a href="https://www.autism.org.uk/what-we-do/campaign/tackling-misinformation/too-much-information" target="_blank" rel="noopener noreferrer nofollow">https://www.autism.org.uk/what-we-do/campaign/tackling-misinformation/too-much-information</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Too much informationWe created the Too Much Information campaign to challenge myths, misconceptions and stereotypes that mean that 79% of...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: spdocs.com  
-   Link: [https://www.spdocs.com/post/aap-responds-to-vaccine-autism-misinformation-and-urges-evidence-based-public-health-messaging](https://www.spdocs.com/post/aap-responds-to-vaccine-autism-misinformation-and-urges-evidence-based-public-health-messaging)  
+   Link: <a href="https://www.spdocs.com/post/aap-responds-to-vaccine-autism-misinformation-and-urges-evidence-based-public-health-messaging" target="_blank" rel="noopener noreferrer nofollow">https://www.spdocs.com/post/aap-responds-to-vaccine-autism-misinformation-and-urges-evidence-based-public-health-messaging</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AAP Responds to Vaccine/Autism Misinformation and...Nov 25, 2025 — No scientific evidence supports a connection between vaccines and aut...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: kff.org  
-   Link: [https://www.kff.org/health-information-trust/debunked-autism-claims-resurface-after-press-conference-and-supreme-court-to-hear-cases-on-conversion-therapy-and-school-vaccine-mandates/](https://www.kff.org/health-information-trust/debunked-autism-claims-resurface-after-press-conference-and-supreme-court-to-hear-cases-on-conversion-therapy-and-school-vaccine-mandates/)  
+   Link: <a href="https://www.kff.org/health-information-trust/debunked-autism-claims-resurface-after-press-conference-and-supreme-court-to-hear-cases-on-conversion-therapy-and-school-vaccine-mandates/" target="_blank" rel="noopener noreferrer nofollow">https://www.kff.org/health-information-trust/debunked-autism-claims-resurface-after-press-conference-and-supreme-court-to-hear-cases-on-conversion-therapy-and-school-vaccine-mandates/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunked Autism Claims Resurface After Press...Oct 9, 2025 — Renewed circulation of the claim that vaccines cause autism may influence p...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: resource.medpro.com  
-   Link: [https://resource.medpro.com/communication-strategies-vaccine-hesitant-parents-use-communication-techniques-removed](https://resource.medpro.com/communication-strategies-vaccine-hesitant-parents-use-communication-techniques-removed)  
+   Link: <a href="https://resource.medpro.com/communication-strategies-vaccine-hesitant-parents-use-communication-techniques-removed" target="_blank" rel="noopener noreferrer nofollow">https://resource.medpro.com/communication-strategies-vaccine-hesitant-parents-use-communication-techniques-removed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Management Tools &amp; ResourcesInform the parents about what shots are scheduled for that visit rather than initiating a broad discussion re...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: familyvoices.org  
-   Link: [https://familyvoices.org/leading-autism-and-disability-organizations-statement-on-cdcs-vaccines-and-autism-page/](https://familyvoices.org/leading-autism-and-disability-organizations-statement-on-cdcs-vaccines-and-autism-page/)  
+   Link: <a href="https://familyvoices.org/leading-autism-and-disability-organizations-statement-on-cdcs-vaccines-and-autism-page/" target="_blank" rel="noopener noreferrer nofollow">https://familyvoices.org/leading-autism-and-disability-organizations-statement-on-cdcs-vaccines-and-autism-page/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Leading Autism and Disability Organizations Statement on...4 Dec 2025 — Last week&#x27;s actions will likely confuse the public, and especial...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: lalinks.org  
-   Link: [https://lalinks.org/linksweb/docs/vfc/Need%20Help%20Responding%20to%20Vaccine-Hesitant%20Parents%20-%2012-24.pdf](https://lalinks.org/linksweb/docs/vfc/Need%20Help%20Responding%20to%20Vaccine-Hesitant%20Parents%20-%2012-24.pdf)  
+   Link: <a href="https://lalinks.org/linksweb/docs/vfc/Need%20Help%20Responding%20to%20Vaccine-Hesitant%20Parents%20-%2012-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lalinks.org/linksweb/docs/vfc/Need%20Help%20Responding%20to%20Vaccine-Hesitant%20Parents%20-%2012-24.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>• AAP&#x27;s website to help parents and caregivers who have vaccination questions (see www.healthychildren.org/english/.Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: autisticadvocacy.org  
    Title: trump and kennedy spouting dangerous autism misinformation  
-   Link: [https://autisticadvocacy.org/2025/04/trump-and-kennedy-spouting-dangerous-autism-misinformation/](https://autisticadvocacy.org/2025/04/trump-and-kennedy-spouting-dangerous-autism-misinformation/)  
+   Link: <a href="https://autisticadvocacy.org/2025/04/trump-and-kennedy-spouting-dangerous-autism-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://autisticadvocacy.org/2025/04/trump-and-kennedy-spouting-dangerous-autism-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump and Kennedy Spouting Dangerous Autism...10 Apr 2025 — Today in a cabinet meeting, HHS Secretary Robert F. Kennedy Jr. promised tha...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: pediatrics.wisc.edu  
    Title: strategies for communicating with vaccine hesitant parents  
-   Link: [https://www.pediatrics.wisc.edu/strategies-for-communicating-with-vaccine-hesitant-parents/](https://www.pediatrics.wisc.edu/strategies-for-communicating-with-vaccine-hesitant-parents/)  
+   Link: <a href="https://www.pediatrics.wisc.edu/strategies-for-communicating-with-vaccine-hesitant-parents/" target="_blank" rel="noopener noreferrer nofollow">https://www.pediatrics.wisc.edu/strategies-for-communicating-with-vaccine-hesitant-parents/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>O&#x27;Leary&#x27;s research focuses on prevention of vaccine-preventable diseases through understanding clinical, attitudinal and infrastructural...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: cloverleaf-advocacy.co.uk  
    Title: setting the record straight on autism and misinformation  
-   Link: [https://cloverleaf-advocacy.co.uk/setting-the-record-straight-on-autism-and-misinformation/](https://cloverleaf-advocacy.co.uk/setting-the-record-straight-on-autism-and-misinformation/)  
+   Link: <a href="https://cloverleaf-advocacy.co.uk/setting-the-record-straight-on-autism-and-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://cloverleaf-advocacy.co.uk/setting-the-record-straight-on-autism-and-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Sept 2025 — At Cloverleaf, we are deeply concerned and saddened by recent unfounded comments from the Trump administration linking aut...</p></details>

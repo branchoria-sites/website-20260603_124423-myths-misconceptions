@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef
 - Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - influencers
 - lane-drift
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - influencers
 - lane-drift
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Audiences can mistake trust in a creator's lifestyle, politics, or fitness content for expertise on unrelated evidence-heavy claims.
 hero_summary: Audiences can mistake trust in a creator's lifestyle, politics, or fitness content for expertise on unrelated evidence-heavy claims.
 layout: default
 permalink: /lane-drift/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /influencers/
 nav_short_title: Lane Drift
 title: When Trusted Influencers Leave Their Lane
-title_full: When Trusted Influencers Leave Their Lane | Influencers
+title_full: When Trusted Influencers Leave Their Lane
 display_title_short: Lane Drift
 display_title: Lane Drift
 heading_title: When Trusted Influencers Leave Their Lane
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Authority Shortcuts Spread Myths | Mythcraft
+parent_title: When Authority Shortcuts Spread Myths
 parent_permalink: /influencers/
 parent_nav_short_title: Influencers
 parent_heading_title: When Authority Shortcuts Spread Myths
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Likes Make Myths Look True
 up_link:
   basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
@@ -265,7 +265,7 @@ next_link:
   permalink: /local-voices/
   short_title: Local Voices
   heading_title: Who Can Correct Influencer Myths?
-date: '2026-06-09 04:37:19 '
+date: '2026-06-11 22:08:14 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8-Illustration-1.webp
@@ -274,11 +274,10 @@ image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_inf
 
 ## Introduction
 
-A common route for [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) is not the creation of trust but its relocation. An influencer earns credibility in one area—fitness, fashion, gaming, parenting, politics, entrepreneurship or everyday lifestyle content—and then begins speaking about a different subject that requires specialised evidence. Followers often carry their trust across with them. The result is a form of “trust transfer”: [confidence]({{ 'confidence/' | relative_url }}) in the person becomes confidence in claims that fall outside that person's demonstrated expertise.
-
+A common route for myths and misconceptions is not the creation of trust but its relocation. An influencer earns credibility in one area—fitness, fashion, gaming, parenting, [politics]({{ 'politics/' | relative_url }}), entrepreneurship or everyday lifestyle content—and then begins speaking about a different subject that requires specialised evidence. Followers often carry their trust across with them. The result is a form of “trust transfer”: [confidence]({{ 'confidence/' | relative_url }}) in the person becomes confidence in claims that fall outside that person's demonstrated expertise.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8-Illustration-1-dark.svg" | relative_url }}" alt="Lane Drift illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This mechanism matters because many high-stakes misconceptions spread through familiar and trusted voices rather than through obvious fraudsters. The same creator who offers useful advice about training routines, makeup techniques or [personal experiences]({{ 'anecdotes/' | relative_url }}) may be far less reliable when interpreting medical research, legal rules, statistical findings or scientific controversies. The key question is not whether the influencer is trustworthy overall, but whether the evidence supports their authority on the specific claim being made. Research on source credibility consistently finds that audiences rely heavily on authority and expertise cues, even when those cues are only loosely connected to the topic under discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.psu.edu/en/publications/social-media-and-credibility-indicators-the-effect-of-influence-c/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.psu.edu">[Penn State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.psu.edu</span><span class="citation-popover-title">social media and credibility indicators the effect of influence c</span><span class="citation-popover-snippet">Penn StateSocial media and credibility indicators: The effect of...by X Lin · 2016 · Cited by 321 — Authority cues most strongly influen...</span></span></span>
+This mechanism matters because many high-stakes misconceptions spread through familiar and trusted voices rather than through obvious fraudsters. The same creator who offers useful advice about training routines, makeup techniques or personal experiences may be far less reliable when interpreting medical research, legal rules, statistical findings or scientific controversies. The key question is not whether the influencer is trustworthy overall, but whether the evidence supports their authority on the specific claim being made. Research on source credibility consistently finds that audiences rely heavily on authority and expertise cues, even when those cues are only loosely connected to the topic under discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.psu.edu/en/publications/social-media-and-credibility-indicators-the-effect-of-influence-c/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.psu.edu">[Penn State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.psu.edu</span><span class="citation-popover-title">social media and credibility indicators the effect of influence c</span><span class="citation-popover-snippet">Penn StateSocial media and credibility indicators: The effect of...by X Lin · 2016 · Cited by 321 — Authority cues most strongly influen...</span></span></span>
 
 ## Why Popularity in One Domain Travels to Another
 
@@ -294,8 +293,7 @@ Another factor is the distinction between trustworthiness and expertise. Communi
 
 Social media creates unusually strong one-sided relationships between creators and audiences. Researchers describe these as parasocial relationships: followers feel familiarity, affection and connection despite not knowing the creator personally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span>
 
-These relationships can make information feel more credible because it comes from a familiar source. Studies of influencers repeatedly find that authenticity, perceived similarity and parasocial bonds contribute to trust and persuasion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-023-02512-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe persuasive power of social media influencers in brand...by X Liu · 2024 · Cited by 238 — This study explores the persuasive po...</span></span></span> ScienceDirect The consequence is that followers may unconsciously reason: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span>
-
+These relationships can make information feel more credible because it comes from a familiar source. Studies of influencers repeatedly find that authenticity, perceived similarity and parasocial bonds contribute to trust and persuasion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-023-02512-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The persuasive power of social media influencers in brand...by X Liu · 2024 · Cited by 238 — This study explores the persuasive po...</span></span></span> ScienceDirect The consequence is that followers may unconsciously reason: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,9 +304,6 @@ These relationships can make information feel more credible because it comes fro
 </div>
 
 The first two statements may be true. The third does not necessarily follow.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/44Yg5mwLouQ" title="How Health Influencers Spread Misinformation with Mallory DeMille" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=44Yg5mwLouQ" target="_blank" rel="noopener noreferrer">How Health Influencers Spread Misinformation with Mallory DeMille</a></p><p class="youtube-embed-meta">Channel: How To: Fitness Podcast &middot; Views: 99 &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=44Yg5mwLouQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=44Yg5mwLouQ">Open on YouTube</a></p></div></div></div>
 
 ## Common High-Stakes Lane Shifts
 
@@ -326,12 +321,10 @@ Several lane shifts repeatedly appear in misinformation research and reporting.
 
 A recurring feature of these transitions is that audiences rarely notice the moment when a creator crosses from reporting experience into interpreting evidence.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8-Illustration-2-dark.svg" | relative_url }}" alt="Lane Drift illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Personal Experience Can Be Misleading
 
 One reason lane drift is persuasive is that personal stories feel concrete and authentic. A creator can honestly report:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -349,8 +342,7 @@ Research on health-related influencer communication highlights this tension. Per
 
 In evidence-heavy fields, anecdotes generate hypotheses; they do not settle questions.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wEwGBIr_RIw" title="12 Cognitive Biases Explained - How to Think Better and More Logically Removing Bias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wEwGBIr_RIw" target="_blank" rel="noopener noreferrer">12 Cognitive Biases Explained - How to Think Better and More Logically Removing Bias</a></p><p class="youtube-embed-meta">Channel: Practical Psychology</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wEwGBIr_RIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wEwGBIr_RIw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/44Yg5mwLouQ" title="How Health Influencers Spread Misinformation with Mallory DeMille" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=44Yg5mwLouQ" target="_blank" rel="noopener noreferrer">How Health Influencers Spread Misinformation with Mallory DeMille</a></p><p class="youtube-embed-meta">Channel: How To: Fitness Podcast &middot; Views: 99 &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=44Yg5mwLouQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=44Yg5mwLouQ">Open on YouTube</a></p></div></div></div>
 
 ## Why Audiences Often Miss the Boundary
 
@@ -364,8 +356,7 @@ A patient genuinely understands what living with an illness feels like.
 
 The mistake is assuming that experiential expertise automatically extends to evidence interpretation.
 
-Research into credibility evaluation suggests that perceived expertise often affects credibility judgements more strongly than the quality of evidence itself. In some contexts, people are influenced more by who appears to be speaking than by the strength of the supporting data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivRevealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</span><span class="citation-popover-meta">Published: March 16, 2023</span></span></span> ScienceDirect This helps explain why myths can spread through trusted influencers even when contradictory evidence is publicly available. Followers may nev <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span> er consciously decide that the influencer is an expert. Instead, trust accumulated in one domain quietly colours judgement in another.
-
+Research into credibility evaluation suggests that perceived expertise often affects credibility judgements more strongly than the quality of evidence itself. In some contexts, people are influenced more by who appears to be speaking than by the strength of the supporting data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Revealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</span><span class="citation-popover-meta">Published: March 16, 2023</span></span></span> ScienceDirect This helps explain why myths can spread through trusted influencers even when contradictory evidence is publicly available. Followers may nev <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span> er consciously decide that the influencer is an expert. Instead, trust accumulated in one domain quietly colours judgement in another.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8-Illustration-3-dark.svg" | relative_url }}" alt="Lane Drift illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Creators Can Mark Their Limits Clearly
@@ -374,11 +365,11 @@ Influencers are not required to remain permanently confined to one subject. The 
 
 Useful signals include:
 
-* Clearly distinguishing [personal experience]({{ 'anecdotes/' | relative_url }}) from expert advice.
+* Clearly distinguishing personal experience from expert advice.
+* Linking to primary sources rather than summarising from [memory]({{ 'memory/' | relative_url }}).
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
-* Linking to primary sources rather than summarising from memory.
 * Consulting qualified specialists when discussing technical topics.
 * Acknowledging uncertainty and disagreement within the evidence.
 * Explaining the limits of their own training.
@@ -390,15 +381,11 @@ These behaviours do not eliminate errors, but they reduce the risk that follower
 
 An important warning sign is the opposite pattern: a creator who presents increasing certainty as topics become more specialised, while offering fewer verifiable sources and dismissing criticism from qualified experts.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pyNOR5BSN9I" title="Alex Hormozi’s Advice on Content Creation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pyNOR5BSN9I" target="_blank" rel="noopener noreferrer">Alex Hormozi’s Advice on Content Creation</a></p><p class="youtube-embed-meta">Channel: Castmagic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pyNOR5BSN9I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pyNOR5BSN9I">Open on YouTube</a></p></div></div></div>
-
 ## Recognising Lane Drift Before Trust Becomes Belief
 
 When evaluating claims from influencers, a useful question is not “Do I trust this person?” but “Why should this person be trusted on this specific issue?”
 
 Several quick checks help separate relevant expertise from transferred trust:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -410,7 +397,7 @@ Several quick checks help separate relevant expertise from transferred trust:
 
 </div>
 
-The mechanism of trust transfer is powerful because it builds on something valuable: genuine audience trust. Yet myths often spread when that trust crosses an invisible boundary. Popularity, authenticity and personal experience can make a creator influential, but they do not automatically transform them into a reliable authority on science, medicine, law or statistics. Recognising where expertise ends is one of the most effective ways to prevent [authority shortcuts]({{ 'influencers/' | relative_url }}) from turning trusted voices into vectors for misconception.
+The mechanism of trust transfer is powerful because it builds on something valuable: genuine audience trust. Yet myths often spread when that trust crosses an invisible boundary. Popularity, authenticity and personal experience can make a creator influential, but they do not automatically transform them into a reliable authority on science, medicine, law or statistics. Recognising where expertise ends is one of the most effective ways to prevent authority shortcuts from turning trusted voices into vectors for misconception.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -808,124 +795,124 @@ The mechanism of trust transfer is powerful because it builds on something valua
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X](https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Source credibility  
-   Link: [https://www.sciencedirect.com/topics/social-sciences/source-credibility](https://www.sciencedirect.com/topics/social-sciences/source-credibility)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSource credibility - an overviewA source&#x27;s credibility rests on two major characteristics: expertise and trustworthiness. In...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/source-credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/source-credibility</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility - an overviewA source&#x27;s credibility rests on two major characteristics: expertise and trustworthiness. In...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691822002463](https://www.sciencedirect.com/science/article/pii/S0001691822002463)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectParasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 155 — This study addresses consumers&#x27; c...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691822002463" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691822002463</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 155 — This study addresses consumers&#x27; c...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-023-02512-1](https://www.nature.com/articles/s41599-023-02512-1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe persuasive power of social media influencers in brand...by X Liu · 2024 · Cited by 238 — This study explores the persuasive po...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41599-023-02512-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-023-02512-1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The persuasive power of social media influencers in brand...by X Liu · 2024 · Cited by 238 — This study explores the persuasive po...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2303.09656](https://arxiv.org/abs/2303.09656)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivRevealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.09656</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</p></details>
    Published: March 16, 2023  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2949882124000604](https://www.sciencedirect.com/science/article/pii/S2949882124000604)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2949882124000604" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2949882124000604</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mediating role of source credibility and authenticity in...by D Kim · 2024 · Cited by 66 — This study examines the differences betwe...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0747563225003437](https://www.sciencedirect.com/science/article/pii/S0747563225003437)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563225003437" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563225003437</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encouraging Critical Reflection as a Shield against Health...by J Kaňková · 2025 · Cited by 1 — Both misinformation and overgeneralized...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S027795362300744X](https://www.sciencedirect.com/science/article/pii/S027795362300744X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S027795362300744X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S027795362300744X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These challenges stem primarily from SMIs&#x27; ability to form intimate...Read...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pure.psu.edu  
    Title: social media and credibility indicators the effect of influence c  
-   Link: [https://pure.psu.edu/en/publications/social-media-and-credibility-indicators-the-effect-of-influence-c/](https://pure.psu.edu/en/publications/social-media-and-credibility-indicators-the-effect-of-influence-c/)  
+   Link: <a href="https://pure.psu.edu/en/publications/social-media-and-credibility-indicators-the-effect-of-influence-c/" target="_blank" rel="noopener noreferrer nofollow">https://pure.psu.edu/en/publications/social-media-and-credibility-indicators-the-effect-of-influence-c/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Penn StateSocial media and credibility indicators: The effect of...by X Lin · 2016 · Cited by 321 — Authority cues most strongly influen...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10410236.2024.2397268](https://www.tandfonline.com/doi/full/10.1080/10410236.2024.2397268)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10410236.2024.2397268" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10410236.2024.2397268</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineHealth-Related Communication of Social Media Influencersby J Kaňková · 2025 · Cited by 67 — The goal of this scopi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Source credibility  
-   Link: [https://en.wikipedia.org/wiki/Source_credibility](https://en.wikipedia.org/wiki/Source_credibility)  
+   Link: <a href="https://en.wikipedia.org/wiki/Source_credibility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Source_credibility</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibilitySource credibility is a term commonly used to imply a communicator&#x27;s positive characteristics that affect the receiv...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/parasocial](https://www.merriam-webster.com/dictionary/parasocial)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/parasocial" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/parasocial</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning15 May 2026 — The meaning of PARASOCIAL is relating to or involving a one-sided emotional connection with someone (es...</p></details>
    Published: May 2026  
 
 13. <a id="endnote-13"></a>
    Source: childrensmercy.org  
    Title: parasocial relationships  
-   Link: [https://www.childrensmercy.org/parent-ish/2026/02/parasocial-relationships/](https://www.childrensmercy.org/parent-ish/2026/02/parasocial-relationships/)  
+   Link: <a href="https://www.childrensmercy.org/parent-ish/2026/02/parasocial-relationships/" target="_blank" rel="noopener noreferrer nofollow">https://www.childrensmercy.org/parent-ish/2026/02/parasocial-relationships/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding parasocial relationships in teen media use2 Feb 2026 — Learn signs of unhealthy relationships with social media use and how...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/gb/basics/parasocial-relationships](https://www.psychologytoday.com/gb/basics/parasocial-relationships)  
+   Link: <a href="https://www.psychologytoday.com/gb/basics/parasocial-relationships" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/parasocial-relationships</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial RelationshipsParasocial relationships refer to one-sided relationships in which a person develops a strong sense of connection...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: findapsychologist.org  
-   Link: [https://www.findapsychologist.org/parasocial-relationships-the-nature-of-celebrity-fascinations/](https://www.findapsychologist.org/parasocial-relationships-the-nature-of-celebrity-fascinations/)  
+   Link: <a href="https://www.findapsychologist.org/parasocial-relationships-the-nature-of-celebrity-fascinations/" target="_blank" rel="noopener noreferrer nofollow">https://www.findapsychologist.org/parasocial-relationships-the-nature-of-celebrity-fascinations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial Relationships: The Nature of Celebrity FascinationsParasocial relationships are one-sided relationships, where one person exte...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: hrmars.com  
-   Link: [https://hrmars.com/papers_submitted/24688/source-credibility-as-a-catalyst-unraveling-its-role-in-shaping-strategic-communication-acceptability-sca.pdf](https://hrmars.com/papers_submitted/24688/source-credibility-as-a-catalyst-unraveling-its-role-in-shaping-strategic-communication-acceptability-sca.pdf)  
+   Link: <a href="https://hrmars.com/papers_submitted/24688/source-credibility-as-a-catalyst-unraveling-its-role-in-shaping-strategic-communication-acceptability-sca.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hrmars.com/papers_submitted/24688/source-credibility-as-a-catalyst-unraveling-its-role-in-shaping-strategic-communication-acceptability-sca.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Source Credibility as a Catalyst: Unraveling its Role in...Feb 26, 2025 — The dissemination of misinformation via social media [platforms](&amp;#123;&amp;#123; &#x27;platforms/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/credibility](https://www.merriam-webster.com/dictionary/credibility)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/credibility</a>  
 
 18. <a id="endnote-18"></a>
    Source: research.usc.edu.au  
-   Link: [https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621](https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621)  
+   Link: <a href="https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621" target="_blank" rel="noopener noreferrer nofollow">https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Viral: Sharing of Misinformation by Social Media...by R Mulcahy · Cited by 29 — It investigates the virality of misinformation posts by...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/parasocial-relationships-how-well-do-we-really-know-the-people-we-follow-online-13385757](https://news.sky.com/story/parasocial-relationships-how-well-do-we-really-know-the-people-we-follow-online-13385757)  
+   Link: <a href="https://news.sky.com/story/parasocial-relationships-how-well-do-we-really-know-the-people-we-follow-online-13385757" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/parasocial-relationships-how-well-do-we-really-know-the-people-we-follow-online-13385757</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sky.com&#x27;Parasocial&#x27; is the Cambridge dictionary word of the year...19 Nov 2025 — That funny feeling is what psychologists call a parasoc...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: advances.in  
-   Link: [https://advances.in/psychology/10.56296/aip00028/](https://advances.in/psychology/10.56296/aip00028/)  
+   Link: <a href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/aip00028/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 13 — Source credibility isn&#x27;t a simple fix...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pure.uva.nl  
-   Link: [https://pure.uva.nl/ws/files/118138707/Greenfluencing_The_Impact_of_Parasocial_Relationships_with_Social_Media_Influencers_on_Advertising_Effectiveness_and_Followers_Pro_environmental.pdf](https://pure.uva.nl/ws/files/118138707/Greenfluencing_The_Impact_of_Parasocial_Relationships_with_Social_Media_Influencers_on_Advertising_Effectiveness_and_Followers_Pro_environmental.pdf)  
+   Link: <a href="https://pure.uva.nl/ws/files/118138707/Greenfluencing_The_Impact_of_Parasocial_Relationships_with_Social_Media_Influencers_on_Advertising_Effectiveness_and_Followers_Pro_environmental.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/118138707/Greenfluencing_The_Impact_of_Parasocial_Relationships_with_Social_Media_Influencers_on_Advertising_Effectiveness_and_Followers_Pro_environmental.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The importance and inter- play of parasocial relationships and advertising disclosures in explaining influencers&#x27; persuasive effects on t...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: spia.princeton.edu  
    Title: credibility cues may improve news diets misinformation consumers  
-   Link: [https://spia.princeton.edu/news/credibility-cues-may-improve-news-diets-misinformation-consumers](https://spia.princeton.edu/news/credibility-cues-may-improve-news-diets-misinformation-consumers)  
+   Link: <a href="https://spia.princeton.edu/news/credibility-cues-may-improve-news-diets-misinformation-consumers" target="_blank" rel="noopener noreferrer nofollow">https://spia.princeton.edu/news/credibility-cues-may-improve-news-diets-misinformation-consumers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cues May Improve the “News Diets” of...May 6, 2022 — Source credibility information doesn&#x27;t change whether people on average read low-qu...</p></details>
    Published: May 6, 2022  
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/404926118_Scientific_authority_cues_increase_the_spread_of_misinformation](https://www.researchgate.net/publication/404926118_Scientific_authority_cues_increase_the_spread_of_misinformation)  
+   Link: <a href="https://www.researchgate.net/publication/404926118_Scientific_authority_cues_increase_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404926118_Scientific_authority_cues_increase_the_spread_of_misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rather, they do so unintentionally due to cognitive biases triggered by...Read more...</p></details>

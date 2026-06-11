@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_condescending_correc_7062df_reactance_shaming_co_0ba2e1
 - Myths_and_misconcept_0d48d7_condescending_correc_7062df_replacement_explanat_3e144b
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - tone
 - public-replies
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - tone
 - public-replies
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Public correction can inform bystanders, but ridicule and quote-post dunking can turn fact-checking into a status fight.
 hero_summary: Public correction can inform bystanders, but ridicule and quote-post dunking can turn fact-checking into a status fight.
 layout: default
 permalink: /public-replies/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /tone/
 nav_short_title: Public replies
 title: When Public Correction Becomes Public Shaming
-title_full: When Public Correction Becomes Public Shaming | Tone
+title_full: When Public Correction Becomes Public Shaming
 display_title_short: Public replies
 display_title: Public replies
 heading_title: When Public Correction Becomes Public Shaming
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Shaming People Makes Corrections Harder | Mythcraft
+parent_title: Why Shaming People Makes Corrections Harder
 parent_permalink: /tone/
 parent_nav_short_title: Tone
 parent_heading_title: Why Shaming People Makes Corrections Harder
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The Missing Piece in Many Corrections
 up_link:
   basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
@@ -265,7 +265,7 @@ next_link:
   permalink: /reactance/
   short_title: Reactance
   heading_title: Why Harsh Corrections Can Trigger Defiance
-date: '2026-06-09 05:08:28 '
+date: '2026-06-11 22:23:17 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_public_correction_sh_e43b0f-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_public_correction_sh_e43b0f-Illustration-1.webp
@@ -274,15 +274,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_pu
 
 ## Introduction
 
-If a teacher has limited time to improve learning, the evidence points much more strongly towards retrieval practice than learning-[style matching]({{ 'style-matching/' | relative_url }}). Retrieval practice means actively recalling information from [memory]({{ 'memory/' | relative_url }}) through low-stakes quizzes, questioning, flashcards, summaries or other recall activities. Learning-style matching is the idea that students learn better when teaching is tailored to a preferred style such as visual, auditory or kinaesthetic. Decades of research have found substantial support for retrieval practice, while repeated reviews have failed to find convincing evidence that matching instruction to a student's preferred learning style improves learning outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedtaking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4716 — Taking a memory test not only assesses what...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedtaking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4716 — Taking a memory test not only assesses what...</span></span></span>
-
+If a teacher has limited time to improve learning, the evidence points much more strongly towards retrieval practice than learning-[style matching]({{ 'style-matching/' | relative_url }}). Retrieval practice means actively recalling information from [memory]({{ 'memory/' | relative_url }}) through low-stakes quizzes, questioning, flashcards, summaries or other recall activities. Learning-style matching is the idea that students learn better when teaching is tailored to a preferred style such as visual, auditory or kinaesthetic. Decades of research have found substantial support for retrieval practice, while repeated reviews have failed to find convincing evidence that matching instruction to a student's preferred learning style improves learning outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4716 — Taking a memory test not only assesses what...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4716 — Taking a memory test not only assesses what...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_public_correction_sh_e43b0f-Illustration-1-dark.svg" | relative_url }}" alt="Public replies illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_public_correction_sh_e43b0f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_public_correction_sh_e43b0f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader discussion of educational [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}), this comparison matters because schools often face practical choices. Time spent identifying and categorising students by learning style is time not spent on approaches with stronger evidence. The key question is not whether students have preferences—they do—but whether teaching should be organised around those preferences. Current evidence suggests that helping students retrieve knowledge repeatedly is a far more reliable route to lasting learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwaterloo.ca">[University of Waterloo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwaterloo.ca</span><span class="citation-popover-snippet">University of WaterlooUnderstanding Learning Styles | Centre for Teaching...by SF Model — However, there is virtually no evidence that s...</span></span></span>
+Within the broader discussion of educational myths and misconceptions, this comparison matters because schools often face practical choices. Time spent identifying and categorising students by learning style is time not spent on approaches with stronger evidence. The key question is not whether students have preferences—they do—but whether teaching should be organised around those preferences. Current evidence suggests that helping students retrieve knowledge repeatedly is a far more reliable route to lasting learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwaterloo.ca">[University of Waterloo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwaterloo.ca</span><span class="citation-popover-snippet">University of WaterlooUnderstanding Learning Styles &#124; Centre for Teaching...by SF Model — However, there is virtually no evidence that s...</span></span></span>
 
 ## Retrieval and practice: why recalling information changes learning
 
-Retrieval practice is sometimes called the testing effect or test-enhanced learning. The central finding is surprisingly simple: trying to remember information strengthens memory more effectively than merely reviewing it. When learners retrieve information from memory, they reinforce the pathways that make future recall easier and more durable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedtaking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4716 — Taking a memory test not only assesses what...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/testing-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Testing Effect</span><span class="citation-popover-snippet">Testing Effect - an overviewThe testing effect refers most generally to the finding that learning and memory are facilitated by the inclu...</span></span></span>
+Retrieval practice is sometimes called the testing effect or test-enhanced learning. The central finding is surprisingly simple: trying to remember information strengthens memory more effectively than merely reviewing it. When learners retrieve information from memory, they reinforce the pathways that make future recall easier and more durable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4716 — Taking a memory test not only assesses what...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/testing-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Testing Effect</span><span class="citation-popover-snippet">Testing Effect - an overviewThe testing effect refers most generally to the finding that learning and memory are facilitated by the inclu...</span></span></span>
 
 One influential set of experiments by Henry Roediger and Jeffrey Karpicke found that students who repeatedly tested themselves retained more information after a delay than students who spent the same time rereading material. Immediate performance sometimes favoured rereading, but longer-term retention favoured retrieval practice. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Test-Enhanced Learning</span><span class="citation-popover-snippet">Roediger, Jeffrey D....Our aim in the two experiments reported here was to investigate the testing effect under educationally relevant c...</span></span></span>
 
@@ -291,7 +290,6 @@ The strength of the evidence is not limited to a single study. Reviews of learni
 Research has also shown that retrieval practice can support more than simple memorisation. Under appropriate conditions it can improve understanding, application of concepts and transfer of knowledge to new problems. More recent work continues to find benefits for both retention and application when retrieval opportunities are sufficiently repeated and spaced over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/testing-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Testing Effect</span><span class="citation-popover-snippet">Testing Effect - an overviewThe testing effect refers most generally to the finding that learning and memory are facilitated by the inclu...</span></span></span>
 
 This does not mean constant formal testing. Effective retrieval can include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,53 +304,44 @@ This does not mean constant formal testing. Effective retrieval can include:
 
 The common feature is effortful recall rather than passive exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learningscientists.org/blog/2018/9/27-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningscientists.org">[The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningscientists.org</span><span class="citation-popover-snippet">The Learning ScientistsOptimising Learning Using Retrieval Practice27 Sept 2018 — Retrieval practice, or reconstructing knowledge by brin...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G6u9_lbW2hY" title="The Testing Effect &amp; Retrieval practice: the number 1 study hack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G6u9_lbW2hY" target="_blank" rel="noopener noreferrer">The Testing Effect &amp; Retrieval practice: the number 1 study hack</a></p><p class="youtube-embed-meta">Channel: Presenting Psychology &middot; Views: 2.3K &middot; Uploaded: May 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G6u9_lbW2hY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G6u9_lbW2hY">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_public_correction_sh_e43b0f-Illustration-2-dark.svg" | relative_url }}" alt="Public replies illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_public_correction_sh_e43b0f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_public_correction_sh_e43b0f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why learning-style matching remains persuasive despite weak evidence
 
-The popularity of learning styles comes from an intuitively appealing idea: people are different, so teaching should be matched to those differences. Many students also report strong preferences for diagrams, listening, discussion or hands-on activities. The problem is that preference and effectiveness are not the same thing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedtaking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4716 — Taking a memory test not only assesses what...</span></span></span>
+The popularity of learning styles comes from an intuitively appealing idea: people are different, so teaching should be matched to those differences. Many students also report strong preferences for diagrams, listening, discussion or hands-on activities. The problem is that preference and effectiveness are not the same thing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4716 — Taking a memory test not only assesses what...</span></span></span>
 
 The strongest version of the learning-styles claim is often called the meshing hypothesis. According to this hypothesis, visual learners should learn best from visual instruction, auditory learners from spoken instruction, and so on. To support the theory, researchers would need evidence that different learners systematically benefit from different instructional formats in predictable ways. Large reviews have found little evidence that this pattern occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Test-Enhanced Learning</span><span class="citation-popover-snippet">Roediger, Jeffrey D....Our aim in the two experiments reported here was to investigate the testing effect under educationally relevant c...</span></span></span>
 
-The influential review by Harold Pashler and colleagues examined the available research and concluded that there was insufficient evidence to justify educational practices based on learning-style assessments. Later summaries and educational reviews have reached similar conclusions, finding little support for the idea that matching instruction to a diagnosed learning style improves achievement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedtaking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4716 — Taking a memory test not only assesses what...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deansforimpact.org/about/news-and-blog/2016/04/28/learning-styles-what-does-the-research-say" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deansforimpact.org">[deansforimpact.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deansforimpact.org</span><span class="citation-popover-title">Learning styles: what does the research say?</span><span class="citation-popover-snippet">| April 28, 201628 Apr 2016 — In their review, Pashler et al found only one study that gave even partial support to the meshing hypothesi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwaterloo.ca">[University of Waterloo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwaterloo.ca</span><span class="citation-popover-snippet">University of WaterlooUnderstanding Learning Styles | Centre for Teaching...by SF Model — However, there is virtually no evidence that s...</span></span></span>
+The influential review by Harold Pashler and colleagues examined the available research and concluded that there was insufficient evidence to justify educational practices based on learning-style assessments. Later summaries and educational reviews have reached similar conclusions, finding little support for the idea that matching instruction to a diagnosed learning style improves achievement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4716 — Taking a memory test not only assesses what...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deansforimpact.org/about/news-and-blog/2016/04/28/learning-styles-what-does-the-research-say" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deansforimpact.org">[deansforimpact.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deansforimpact.org</span><span class="citation-popover-title">Learning styles: what does the research say?</span><span class="citation-popover-snippet">April 28, 201628 Apr 2016 — In their review, Pashler et al found only one study that gave even partial support to the meshing hypothesi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwaterloo.ca">[University of Waterloo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwaterloo.ca</span><span class="citation-popover-snippet">University of WaterlooUnderstanding Learning Styles &#124; Centre for Teaching...by SF Model — However, there is virtually no evidence that s...</span></span></span>
 
-Importantly, rejecting learning-style matching does not mean all students learn identically. Learners differ in prior knowledge, motivation, reading ability, language proficiency and many other factors. The evidence simply suggests that sensory-style categories such as visual, auditory and kinaesthetic are not a useful basis for tailoring instruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwaterloo.ca">[University of Waterloo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwaterloo.ca</span><span class="citation-popover-snippet">University of WaterlooUnderstanding Learning Styles | Centre for Teaching...by SF Model — However, there is virtually no evidence that s...</span></span></span>
+Importantly, rejecting learning-style matching does not mean all students learn identically. Learners differ in prior knowledge, motivation, reading ability, language proficiency and many other factors. The evidence simply suggests that sensory-style categories such as visual, auditory and kinaesthetic are not a useful basis for tailoring instruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwaterloo.ca">[University of Waterloo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwaterloo.ca</span><span class="citation-popover-snippet">University of WaterlooUnderstanding Learning Styles &#124; Centre for Teaching...by SF Model — However, there is virtually no evidence that s...</span></span></span>
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_public_correction_sh_e43b0f-Illustration-2-dark.svg" | relative_url }}" alt="Public replies illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_public_correction_sh_e43b0f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_public_correction_sh_e43b0f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Varying instruction by task is not the same as teaching to styles
 
 One reason the learning-styles myth survives is that it becomes mixed up with a sensible educational principle: different content is often best taught in different ways.
 
 A map is usually easier to learn through visual representation. Pronunciation often requires listening. Physical skills require practice. Scientific models may benefit from diagrams, discussion and practical demonstrations combined. Choosing methods that fit the content is not the same as choosing methods that fit a supposed learner type. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Test-Enhanced Learning</span><span class="citation-popover-snippet">Roediger, Jeffrey D....Our aim in the two experiments reported here was to investigate the testing effect under educationally relevant c...</span></span></span>
 
-In practice, effective teaching often uses multiple representations because the subject matter demands it. A mathematics teacher may combine spoken explanation, worked examples and diagrams. A language teacher may combine reading, listening and speaking activities. The goal is to represent the knowledge effectively, not to match students to fixed categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwaterloo.ca">[University of Waterloo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwaterloo.ca</span><span class="citation-popover-snippet">University of WaterlooUnderstanding Learning Styles | Centre for Teaching...by SF Model — However, there is virtually no evidence that s...</span></span></span>
+In practice, effective teaching often uses multiple representations because the subject matter demands it. A mathematics teacher may combine spoken explanation, worked examples and diagrams. A language teacher may combine reading, listening and speaking activities. The goal is to represent the knowledge effectively, not to match students to fixed categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwaterloo.ca">[University of Waterloo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwaterloo.ca</span><span class="citation-popover-snippet">University of WaterlooUnderstanding Learning Styles &#124; Centre for Teaching...by SF Model — However, there is virtually no evidence that s...</span></span></span>
 
 This distinction matters for implementation. Schools sometimes abandon learning styles only to worry that they must now teach everyone in exactly the same way. The evidence suggests a different conclusion: vary instruction according to the task, while using evidence-based learning activities such as retrieval practice to strengthen memory and understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/impact_article/the-problem-with-learning-styles-[debunking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-snippet">My CollegeThe problem with learning styles: debunking the meshing...22 Feb 2018 — The idea that catering to a learner&#x27;s favoured sensory...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MiJX4s9_Ujg" title="The Danger of Cancel Culture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MiJX4s9_Ujg" target="_blank" rel="noopener noreferrer">The Danger of Cancel Culture</a></p><p class="youtube-embed-meta">Channel: Valuetainment Short Clips</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MiJX4s9_Ujg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MiJX4s9_Ujg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G6u9_lbW2hY" title="The Testing Effect &amp; Retrieval practice: the number 1 study hack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G6u9_lbW2hY" target="_blank" rel="noopener noreferrer">The Testing Effect &amp; Retrieval practice: the number 1 study hack</a></p><p class="youtube-embed-meta">Channel: Presenting Psychology &middot; Views: 2.3K &middot; Uploaded: May 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G6u9_lbW2hY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G6u9_lbW2hY">Open on YouTube</a></p></div></div></div>
 
 ## Checking understanding instead of classifying learners
 
 A practical advantage of retrieval practice is that it generates useful information for teachers. Every retrieval opportunity reveals what students can and cannot recall. This creates immediate feedback about understanding, misconceptions and forgotten material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkingaboutuni.com/book/practice_testing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkingaboutuni.com">[thinkingaboutuni.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkingaboutuni.com</span><span class="citation-popover-snippet">Practice Testing - So You&#x27;re Thinking About UniversityNot only does retrieval practice help students learn material, at the same time it...</span></span></span>
 
-Learning-style classification, by contrast, often provides little actionable information. Knowing that a student describes themselves as a visual learner does not reliably indicate which explanations will produce stronger learning. Knowing whether that student can retrieve and apply yesterday's lesson does. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedtaking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4716 — Taking a memory test not only assesses what...</span></span></span>
+Learning-style classification, by contrast, often provides little actionable information. Knowing that a student describes themselves as a visual learner does not reliably indicate which explanations will produce stronger learning. Knowing whether that student can retrieve and apply yesterday's lesson does. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4716 — Taking a memory test not only assesses what...</span></span></span>
 
 Retrieval activities also help learners judge their own knowledge more accurately. Students frequently mistake familiarity for mastery. Rereading notes can create the feeling of knowing, whereas attempting retrieval exposes gaps that still need attention. This is one reason retrieval practice often improves both learning and self-monitoring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkingaboutuni.com/book/practice_testing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkingaboutuni.com">[thinkingaboutuni.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkingaboutuni.com</span><span class="citation-popover-snippet">Practice Testing - So You&#x27;re Thinking About UniversityNot only does retrieval practice help students learn material, at the same time it...</span></span></span> ScienceDirect For schools seeking an evidence-based alternative to learning-style programmes <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/testing-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Testing Effect</span><span class="citation-popover-snippet">Testing Effect - an overviewThe testing effect refers most generally to the finding that learning and memory are facilitated by the inclu...</span></span></span>, a useful shift is from asking, “What type of learner is this student?” to asking, “What can this student currently retrieve, explain and apply?” The second question is more closely tied to observable learning and is supported by a much stronger research base. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdf.retrievalpractice.org/guide/Roediger_Agarwal_etal_2011_JEPA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdf.retrievalpractice.org">[pdf]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdf.retrievalpractice.org</span><span class="citation-popover-snippet">Keywords: test-enhanced learning, testing...Read more...</span></span></span> Retrieval Practice <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">does research on retrieval practice translate into classroom practice</span><span class="citation-popover-snippet">EEF Blog: Does research on ​&#x27;retrieval practice&#x27; translate...5 Dec 2019 — Retrieval practice is strongly supported by over 100 years of...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GlAjeTunopo" title="David Icke talks conspiracy theories - BBC News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GlAjeTunopo" target="_blank" rel="noopener noreferrer">David Icke talks conspiracy theories - BBC News</a></p><p class="youtube-embed-meta">Channel: BBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GlAjeTunopo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GlAjeTunopo">Open on YouTube</a></p></div></div></div>
 
 ## What the evidence means for classroom decisions
 
 The comparison between retrieval practice and learning-style matching illustrates a broader lesson about educational myths. An idea can feel intuitive, become widely accepted and still lack strong supporting evidence.
 
-Current research does not suggest that teachers should ignore learner differences. Rather, it suggests focusing on differences that affect learning outcomes and using strategies with demonstrated benefits. Retrieval practice has accumulated extensive support across laboratory and classroom research, while learning-style matching has repeatedly struggled to meet the evidential standard required for educational adoption. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdf.retrievalpractice.org/guide/Roediger_Agarwal_etal_2011_JEPA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdf.retrievalpractice.org">[PDF Retrieval Practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdf.retrievalpractice.org</span><span class="citation-popover-snippet">Keywords: test-enhanced learning, testing...Read more...</span></span></span> PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deansforimpact.org/about/news-and-blog/2016/04/28/learning-styles-what-does-the-research-say" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deansforimpact.org">[2deansforimpact.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deansforimpact.org</span><span class="citation-popover-title">Learning styles: what does the research say?</span><span class="citation-popover-snippet">| April 28, 201628 Apr 2016 — In their review, Pashler et al found only one study that gave even partial support to the meshing hypothesi...</span></span></span>
+Current research does not suggest that teachers should ignore learner differences. Rather, it suggests focusing on differences that affect learning outcomes and using strategies with demonstrated benefits. Retrieval practice has accumulated extensive support across laboratory and classroom research, while learning-style matching has repeatedly struggled to meet the evidential standard required for educational adoption. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdf.retrievalpractice.org/guide/Roediger_Agarwal_etal_2011_JEPA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdf.retrievalpractice.org">[PDF Retrieval Practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdf.retrievalpractice.org</span><span class="citation-popover-snippet">Keywords: test-enhanced learning, testing...Read more...</span></span></span> PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deansforimpact.org/about/news-and-blog/2016/04/28/learning-styles-what-does-the-research-say" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deansforimpact.org">[2deansforimpact.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deansforimpact.org</span><span class="citation-popover-title">Learning styles: what does the research say?</span><span class="citation-popover-snippet">April 28, 201628 Apr 2016 — In their review, Pashler et al found only one study that gave even partial support to the meshing hypothesi...</span></span></span>
 
 For implementation, the practical implication is straightforward: if the goal is stronger retention, better long-term learning and clearer evidence of understanding, regular retrieval opportunities are likely to produce greater benefits than organising teaching around visual, auditory or kinaesthetic learner categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aft.org/ae/fall2013/dunlosky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">We rated two strategies—practice testing and distributed practice—as the most effective of those we reviewed because...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_public_correction_sh_e43b0f-Illustration-3-dark.svg" | relative_url }}" alt="Public replies illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_public_correction_sh_e43b0f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_public_correction_sh_e43b0f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -753,174 +742,174 @@ For implementation, the practical implication is straightforward: if the goal is
 1. <a id="endnote-1"></a>
    Source: deansforimpact.org  
    Title: Learning styles: what does the research say?  
-   Link: [https://www.deansforimpact.org/about/news-and-blog/2016/04/28/learning-styles-what-does-the-research-say](https://www.deansforimpact.org/about/news-and-blog/2016/04/28/learning-styles-what-does-the-research-say)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| April 28, 201628 Apr 2016 — In their review, Pashler et al found only one study that gave even partial support to the meshing hypothesi...</p></details>
+   Link: <a href="https://www.deansforimpact.org/about/news-and-blog/2016/04/28/learning-styles-what-does-the-research-say" target="_blank" rel="noopener noreferrer nofollow">https://www.deansforimpact.org/about/news-and-blog/2016/04/28/learning-styles-what-does-the-research-say</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 28, 201628 Apr 2016 — In their review, Pashler et al found only one study that gave even partial support to the meshing hypothesi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Testing Effect  
-   Link: [https://www.sciencedirect.com/topics/psychology/testing-effect](https://www.sciencedirect.com/topics/psychology/testing-effect)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/testing-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/testing-effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing Effect - an overviewThe testing effect refers most generally to the finding that learning and memory are facilitated by the inclu...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0959475217301810](https://www.sciencedirect.com/science/article/abs/pii/S0959475217301810)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475217301810" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475217301810</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the testing effect: Retrieval as a characteristic...by CL Bae · 2019 · Cited by 103 — The phenomenon termed the &#x27;testing e...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0959475225001434](https://www.sciencedirect.com/science/article/pii/S0959475225001434)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectEffects of retrieval practice on retention and application...by D Corral · 2025 · Cited by 6 — The current experiments expl...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0959475225001434" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0959475225001434</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of retrieval practice on retention and application...by D Corral · 2025 · Cited by 6 — The current experiments expl...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0361476X17305027](https://www.sciencedirect.com/science/article/abs/pii/S0361476X17305027)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X17305027" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0361476X17305027</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>•. For non-tested items, students performed better on chapter...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: structural-learning.com  
    Title: retrieval practice a teachers guide  
-   Link: [https://www.structural-learning.com/post/retrieval-practice-a-teachers-guide](https://www.structural-learning.com/post/retrieval-practice-a-teachers-guide)  
+   Link: <a href="https://www.structural-learning.com/post/retrieval-practice-a-teachers-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/retrieval-practice-a-teachers-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval practice6 Oct 2021 — Retrieval practice is the process of bringing information to mind so learners strengthen what they know an...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: thinkingaboutuni.com  
-   Link: [https://thinkingaboutuni.com/book/practice_testing.html](https://thinkingaboutuni.com/book/practice_testing.html)  
+   Link: <a href="https://thinkingaboutuni.com/book/practice_testing.html" target="_blank" rel="noopener noreferrer nofollow">https://thinkingaboutuni.com/book/practice_testing.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practice Testing - So You&#x27;re Thinking About UniversityNot only does retrieval practice help students learn material, at the same time it...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: structural-learning.com  
-   Link: [https://www.structural-learning.com/post/testing-effect-retrieval-practice](https://www.structural-learning.com/post/testing-effect-retrieval-practice)  
+   Link: <a href="https://www.structural-learning.com/post/testing-effect-retrieval-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/testing-effect-retrieval-practice</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Testing Effect: Why Retrieval Practice Works29 Dec 2025 — Research shows retrieving info aids learning more than rereading (Roediger...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0361476X20301041](https://www.sciencedirect.com/science/article/pii/S0361476X20301041)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0361476X20301041" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0361476X20301041</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supporting the self-regulated use of retrieval practiceby M Broeren · 2021 · Cited by 28 — This study investigated whether an instruction...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/16507066/](https://pubmed.ncbi.nlm.nih.gov/16507066/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedtaking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4716 — Taking a memory test not only assesses what...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16507066/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>taking memory tests improves long-term retentionby HL Roediger · 2006 · Cited by 4716 — Taking a memory test not only assesses what...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Test-Enhanced Learning  
-   Link: [https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x](https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roediger, Jeffrey D....Our aim in the two experiments reported here was to investigate the testing effect under educationally relevant c...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26162104/](https://pubmed.ncbi.nlm.nih.gov/26162104/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4977 — Learning styles refers to the concept that individuals...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26162104/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4977 — Learning styles refers to the concept that individuals...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: journals.sagepub.com  
    Title: j.1539 6053.2009.01038.x  
-   Link: [https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x](https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4977 — The most common—but not the only—hypothesis abou...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: uwaterloo.ca  
-   Link: [https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style](https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style)  
+   Link: <a href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow">https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of WaterlooUnderstanding Learning Styles | Centre for Teaching...by SF Model — However, there is virtually no evidence that s...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26173288/](https://pubmed.ncbi.nlm.nih.gov/26173288/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedImproving Students&#x27; Learning With Effective...The techniques include elaborative interrogation, self-explanation, summarization, h...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173288/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Students&#x27; Learning With Effective...The techniques include elaborative interrogation, self-explanation, summarization, h...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aft.org  
-   Link: [https://www.aft.org/ae/fall2013/dunlosky](https://www.aft.org/ae/fall2013/dunlosky)  
+   Link: <a href="https://www.aft.org/ae/fall2013/dunlosky" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/fall2013/dunlosky</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We rated two strategies—practice testing and distributed practice—as the most effective of those we reviewed because...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: learningscientists.org  
-   Link: [https://www.learningscientists.org/blog/2018/9/27-1](https://www.learningscientists.org/blog/2018/9/27-1)  
+   Link: <a href="https://www.learningscientists.org/blog/2018/9/27-1" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2018/9/27-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning ScientistsOptimising Learning Using Retrieval Practice27 Sept 2018 — Retrieval practice, or reconstructing knowledge by brin...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/impact_article/the-problem-with-learning-styles-[debunking](https://my.chartered.college/impact_article/the-problem-with-learning-styles-[debunking)  
+   Link: <a href="https://my.chartered.college/impact_article/the-problem-with-learning-styles-[debunking" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/the-problem-with-learning-styles-[debunking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>My CollegeThe problem with learning styles: debunking the meshing...22 Feb 2018 — The idea that catering to a learner&#x27;s favoured sensory...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pdf.retrievalpractice.org  
-   Link: [https://pdf.retrievalpractice.org/guide/Roediger_Agarwal_etal_2011_JEPA.pdf](https://pdf.retrievalpractice.org/guide/Roediger_Agarwal_etal_2011_JEPA.pdf)  
+   Link: <a href="https://pdf.retrievalpractice.org/guide/Roediger_Agarwal_etal_2011_JEPA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdf.retrievalpractice.org/guide/Roediger_Agarwal_etal_2011_JEPA.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: test-enhanced learning, testing...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: education-ni.gov.uk  
    Title: Retrieval Practice  
-   Link: [https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF](https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF)  
+   Link: <a href="https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is one of the most robust findings from the science of learning (Dunlosky et...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Learning](https://en.wikipedia.org/wiki/Learning)  
+   Link: <a href="https://en.wikipedia.org/wiki/Learning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Learning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LearningLearning is the process of acquiring new understanding, knowledge, behaviors, skills, values, attitudes, and preferences.Read...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: appstate.edu  
-   Link: [https://www.appstate.edu/~bromanfulksj/Pashler%20et%20al%20-%20Learning%20Styles.pdf](https://www.appstate.edu/~bromanfulksj/Pashler%20et%20al%20-%20Learning%20Styles.pdf)  
+   Link: <a href="https://www.appstate.edu/~bromanfulksj/Pashler%20et%20al%20-%20Learning%20Styles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.appstate.edu/~bromanfulksj/Pashler%20et%20al%20-%20Learning%20Styles.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles - Concepts and Evidenceby H Pashler · Cited by 2 — In our review, we searched for evidence for both this broad version of...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence](https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence)  
+   Link: <a href="https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Learning Styles: Concepts and EvidenceThe most common—but not the only—hypothesis about the instructional relevance of learning sty...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: gc-bs.org  
-   Link: [https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/](https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/)  
+   Link: <a href="https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Learning Styles Myth and Embracing an...12 Jan 2026 — In 2008, a team of prominent cognitive psychologists led by Harold P...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: mirjamglessmer.com  
    Title: the learning styles myth based on pashler et al 2008 nancekivell et al 2020  
-   Link: [https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/](https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/)  
+   Link: <a href="https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/" target="_blank" rel="noopener noreferrer nofollow">https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2008) state that they could not find studies showing that kind of evidence. If one method works better for all students with...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1727423/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1727423/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1727423/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1727423/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rieval practice may fail to confer learning benefits when task demands and cognitive load are high...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: my.chartered.college  
    Title: does research on retrieval practice translate into classroom practice  
-   Link: [https://my.chartered.college/impact_article/does-research-on-retrieval-practice-translate-into-classroom-practice/](https://my.chartered.college/impact_article/does-research-on-retrieval-practice-translate-into-classroom-practice/)  
+   Link: <a href="https://my.chartered.college/impact_article/does-research-on-retrieval-practice-translate-into-classroom-practice/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/does-research-on-retrieval-practice-translate-into-classroom-practice/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>research on retrieval practice translate into...12 Sept 2018 — Retrieval practice is strongly supported by over 100 years of research an...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: does research on retrieval practice translate into classroom practice  
-   Link: [https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice](https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EEF Blog: Does research on ​&#x27;retrieval practice&#x27; translate...5 Dec 2019 — Retrieval practice is strongly supported by over 100 years of...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: my.chartered.college  
    Title: retrieval practice vs restudy an authentic classroom investigation  
-   Link: [https://my.chartered.college/impact_article/retrieval-practice-vs-restudy-an-authentic-classroom-investigation/](https://my.chartered.college/impact_article/retrieval-practice-vs-restudy-an-authentic-classroom-investigation/)  
+   Link: <a href="https://my.chartered.college/impact_article/retrieval-practice-vs-restudy-an-authentic-classroom-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/retrieval-practice-vs-restudy-an-authentic-classroom-investigation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>retrieval practice improve student performance within...13 May 2024 — Dunlosky J, Rawson KA, Marsh EJ et al.(2013) Improving students&#x27; l...</p></details>
    Published: May 2024  
 
 30. <a id="endnote-30"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Although as many as 71 different learning style...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: digitalcommons.usf.edu  
    Title: Digital Commons USF"Learning Styles: Concepts and Evidence" by H  
-   Link: [https://digitalcommons.usf.edu/psy_facpub/1765/](https://digitalcommons.usf.edu/psy_facpub/1765/)  
+   Link: <a href="https://digitalcommons.usf.edu/psy_facpub/1765/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.usf.edu/psy_facpub/1765/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>H Pashler · Cited by 5022 — “Learning styles” refers to the concept that individuals differ in regard to what mode of instr...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: The Testing Effect & Retrieval practice: the number 1 study hack Henry Roediger  
-   Link: [https://www.youtube.com/watch?v=G6u9_lbW2hY](https://www.youtube.com/watch?v=G6u9_lbW2hY)  
+   Link: <a href="https://www.youtube.com/watch?v=G6u9_lbW2hY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G6u9_lbW2hY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Testing Effect &amp; Retrieval practice: the number 1 study hackHenry Roediger - Retrieval Practice to Enhance Learning and Retention &amp;mi...</p></details>

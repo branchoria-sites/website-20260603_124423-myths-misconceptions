@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427
 - Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - backfire
 - distrust-risk
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - backfire
 - distrust-risk
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Corrections are most fragile when the audience sees the source as hostile, manipulative or poorly justified.
 hero_summary: Corrections are most fragile when the audience sees the source as hostile, manipulative or poorly justified.
 layout: default
 permalink: /distrust-risk/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /backfire/
 nav_short_title: Distrust Risk
 title: When the Correction Becomes the Problem
-title_full: When the Correction Becomes the Problem | Backfire
+title_full: When the Correction Becomes the Problem
 display_title_short: Distrust Risk
 display_title: Distrust Risk
 heading_title: When the Correction Becomes the Problem
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Does Debunking Really Make Myths Stronger? | Mythcraft
+parent_title: Does Debunking Really Make Myths Stronger?
 parent_permalink: /backfire/
 parent_nav_short_title: Backfire
 parent_heading_title: Does Debunking Really Make Myths Stronger?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Did Researchers Actually Find Backfire?
 up_link:
   basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
@@ -265,7 +265,7 @@ next_link:
   permalink: /naming-myths/
   short_title: Naming Myths
   heading_title: How Much Should a Debunk Repeat the Myth?
-date: '2026-06-09 04:38:32 '
+date: '2026-06-11 22:08:50 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-1.webp
@@ -276,15 +276,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_di
 
 People often imagine misinformation [correction]({{ 'correction/' | relative_url }}) as a simple contest between truth and falsehood. In practice, another question frequently comes first: *who is doing the correcting, and why should they be trusted?* Research on misinformation increasingly suggests that many apparent “[backfire]({{ 'backfire/' | relative_url }})” reactions are not cases where facts themselves make beliefs stronger. Instead, resistance often emerges when the correction is perceived as manipulative, hostile, partisan or self-interested.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-1-dark.svg" | relative_url }}" alt="Distrust Risk illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because it changes how correction failures are interpreted. A rejected correction does not necessarily show that people prefer falsehoods. It may show that they doubt the motives, competence or fairness of the messenger. In those situations, the correction becomes part of the [conflict]({{ 'conflict/' | relative_url }}) rather than a resolution of it. Studies of source credibility, political communication and misinformation correction consistently find that trust shapes whether corrective information is considered legitimate evidence or treated as another attempt at persuasion. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[Advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 15 — Source credibility isn&#x27;t a simple fix...</span></span></span>
 
 ## Why Scepticism Changes How Corrections Land
 
-The popular version of the backfire effect assumes that hearing a correction somehow strengthens attachment to a myth. Modern research paints a more complicated picture. Large reviews and replication studies have found that true backfire effects are rare, but they also show that [corrections]({{ 'corrections/' | relative_url }}) do not operate in a social vacuum. People evaluate not only the content of a correction but also the source delivering it. PMC PubMed Trust functions as a shortcut for judging information. Most people cannot personally verify every scientific claim <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35130012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to...Read more...</span></span></span>, policy statistic or breaking-news report. Instead, they rely on cues about expertise, honesty and intent. When a correction comes from a source viewed as credible, it is more likely to be processed as useful information. When it comes from a source viewed as hostile or deceptive, the same correction may be interpreted as evidence of manipulation.
+The popular version of the backfire effect assumes that hearing a correction somehow strengthens attachment to a myth. Modern research paints a more complicated picture. Large reviews and replication studies have found that true backfire effects are rare, but they also show that [corrections]({{ 'corrections/' | relative_url }}) do not operate in a social vacuum. People evaluate not only the content of a correction but also the source delivering it. PMC PubMed Trust functions as a shortcut for judging information. Most people cannot personally verify every scientific claim <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35130012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to...Read more...</span></span></span>, policy statistic or breaking-news report. Instead, they rely on cues about expertise, honesty and [intent]({{ 'intent/' | relative_url }}). When a correction comes from a source viewed as credible, it is more likely to be processed as useful information. When it comes from a source viewed as hostile or deceptive, the same correction may be interpreted as evidence of manipulation.
 
-This is particularly important in highly polarised environments. A correction from a political opponent, a distrusted institution or a platform already seen as biased may trigger questions about motives before the factual content is even considered. Researchers studying misinformation describe these reactions as barriers to knowledge revision rather than evidence that corrections inherently strengthen myths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
+This is particularly important in highly polarised environments. A correction from a political opponent, a distrusted institution or a platform already seen as biased may trigger questions about motives before the factual content is even considered. Researchers studying misinformation describe these reactions as barriers to knowledge revision rather than evidence that corrections inherently strengthen myths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
 
 The result can look like a backfire effect from the outside. A person rejects the correction and retains the original belief. Yet the mechanism is different. The problem is not that the correction made the myth more convincing. The problem is that the correction itself failed a trust test.
 
@@ -293,7 +292,6 @@ The result can look like a backfire effect from the outside. A person rejects th
 People rarely evaluate corrections in purely factual terms. Tone, framing and social context all influence whether a correction appears informative or threatening.
 
 Several signals tend to make corrective information look suspicious:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -309,9 +307,6 @@ Research examining social-media corrections has found that audience reactions de
 
 This helps explain why two corrections containing nearly identical facts can produce different outcomes. One may be viewed as a sincere attempt to inform, while the other is seen as an attempt to shame, control or score political points.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V3vhXQy48jo" title="Intrusive Thoughts and Overthinking: The Skill of Cognitive Defusion 20/30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V3vhXQy48jo" target="_blank" rel="noopener noreferrer">Intrusive Thoughts and Overthinking: The Skill of Cognitive Defusion 20/30</a></p><p class="youtube-embed-meta">Channel: Therapy in a Nutshell</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V3vhXQy48jo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V3vhXQy48jo">Open on YouTube</a></p></div></div></div>
-
 ## When Corrections Become Evidence of Conspiracy
 
 Distrust creates a particularly difficult problem when the correction itself is folded into the original belief system.
@@ -323,7 +318,6 @@ Psychologists sometimes describe this as a self-sealing structure. Contrary evid
 This mechanism differs from the classic image of factual backfire. The correction is not strengthening belief because [repetition]({{ 'repetition/' | relative_url }}) made the myth more familiar. Instead, the correction is being processed through a framework that assumes deception by the correcting source.
 
 That distinction is important because it points toward different solutions. Repeating facts more forcefully may not help if the audience's central concern is whether the messenger is trustworthy.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-2-dark.svg" | relative_url }}" alt="Distrust Risk illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Difference Between Expertise and Trustworthiness
@@ -338,17 +332,13 @@ Reviews of source-credibility research show that trust effects are often inconsi
 
 In other words, people do not merely ask, “Is this source qualified?” They also ask, “Whose side are they on?” and “What do they want from me?”
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AZBZpWocSlA" title="The Backfire Effect: Why Facts Sometimes Strengthen Wrong Beliefs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AZBZpWocSlA" target="_blank" rel="noopener noreferrer">The Backfire Effect: Why Facts Sometimes Strengthen Wrong Beliefs</a></p><p class="youtube-embed-meta">Channel: Blind Signal</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AZBZpWocSlA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AZBZpWocSlA">Open on YouTube</a></p></div></div></div>
-
 ## How Trusted Messengers Reduce Correction Resistance
 
 Evidence from misinformation research increasingly suggests that messenger choice can matter as much as message design.
 
-[Trusted messengers]({{ 'trusted-fixes/' | relative_url }}) work because they reduce the suspicion that the correction is an attack. A local community leader, respected doctor, religious figure or politically aligned source may be able to deliver information that would be rejected if it came from a distrusted institution. Studies examining correction and prebunking strategies have found that source trust can shape how audiences receive interventions, even when the factual content remains unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
+Trusted messengers work because they reduce the suspicion that the correction is an attack. A local community leader, respected doctor, religious figure or politically aligned source may be able to deliver information that would be rejected if it came from a distrusted institution. Studies examining correction and prebunking strategies have found that source trust can shape how audiences receive interventions, even when the factual content remains unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
 
 Several features make trusted messengers effective:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -362,7 +352,6 @@ Several features make trusted messengers effective:
 
 Importantly, this does not mean people only accept information from allies. Large correction studies still find that factual corrections often improve accuracy across ideological groups. But trust can determine how much attention people give a correction in the first place and whether they interpret it as information or persuasion. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35130012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-3-dark.svg" | relative_url }}" alt="Distrust Risk illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Means for the Backfire Debate
 
@@ -371,10 +360,6 @@ The modern evidence on misinformation correction suggests that fears about routi
 When audiences suspect manipulation, corrections can appear threatening, partisan or self-serving. Under those conditions, resistance is often directed at the messenger rather than the factual claim itself. The correction becomes another object of suspicion.
 
 This helps explain why debates about misinformation frequently become debates about institutions, media credibility and social trust. The central obstacle is often not an inability to understand evidence. It is uncertainty about whether the source presenting that evidence deserves belief. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[Advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 15 — Source credibility isn&#x27;t a simple fix...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U0QLjA1GSVI" title="Why Facts Won&#x27;t Help You Win Arguments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U0QLjA1GSVI" target="_blank" rel="noopener noreferrer">Why Facts Won&#x27;t Help You Win Arguments</a></p><p class="youtube-embed-meta">Channel: Seeker</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U0QLjA1GSVI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U0QLjA1GSVI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -772,98 +757,98 @@ This helps explain why debates about misinformation frequently become debates ab
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: advances.in  
-   Link: [https://advances.in/psychology/10.56296/aip00028/](https://advances.in/psychology/10.56296/aip00028/)  
+   Link: <a href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/aip00028/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 15 — Source credibility isn&#x27;t a simple fix...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, we aimed to examine whether...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11377563/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11377563/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCInvestigating the role of source and source trust in prebunks...by H Bruns · 2024 · Cited by 35 — First, our results demonstrate that...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11377563/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11377563/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the role of source and source trust in prebunks...by H Bruns · 2024 · Cited by 35 — First, our results demonstrate that...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-024-71599-6](https://www.nature.com/articles/s41598-024-71599-6)  
+   Link: <a href="https://www.nature.com/articles/s41598-024-71599-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-71599-6</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the role of source and...by H Bruns · 2024 · Cited by 35 — The findings show that both interventions change four variables...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/35130012/](https://pubmed.ncbi.nlm.nih.gov/35130012/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35130012/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35130012/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, we aimed to...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2340591](https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2340591)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2340591" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2340591</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineWhy Do Social Media Users Accept, Doubt or Resist...by M Hameleers · 2024 · Cited by 10 — This paper relies on an...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cssh.northeastern.edu  
    Title: backfire effects  
-   Link: [https://cssh.northeastern.edu/nulab/backfire-effects/](https://cssh.northeastern.edu/nulab/backfire-effects/)  
+   Link: <a href="https://cssh.northeastern.edu/nulab/backfire-effects/" target="_blank" rel="noopener noreferrer nofollow">https://cssh.northeastern.edu/nulab/backfire-effects/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In other words, instead of belief...Read more...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: research-information.bris.ac.uk  
-   Link: [https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf](https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>bris.ac.ukEcker, UKH, Lewandowsky, S., Cook, J., Schmid, P., Fazio...Third, even though credibility matters less for correction sources...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: networkscienceinstitute.org  
-   Link: [https://www.networkscienceinstitute.org/publications/the-differential-consequences-of-correcting-misinformation-for-high-and-low-credibility-sources](https://www.networkscienceinstitute.org/publications/the-differential-consequences-of-correcting-misinformation-for-high-and-low-credibility-sources)  
+   Link: <a href="https://www.networkscienceinstitute.org/publications/the-differential-consequences-of-correcting-misinformation-for-high-and-low-credibility-sources" target="_blank" rel="noopener noreferrer nofollow">https://www.networkscienceinstitute.org/publications/the-differential-consequences-of-correcting-misinformation-for-high-and-low-credibility-sources</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The differential consequences of correcting misinformation...3 Apr 2026 — In Experiment 1, correcting inaccuracies reduced doctors&#x27; cred...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: asc.upenn.edu  
-   Link: [https://www.asc.upenn.edu/news-events/news/research-identifies-factors-make-correcting-misinformation-about-science-more-successful](https://www.asc.upenn.edu/news-events/news/research-identifies-factors-make-correcting-misinformation-about-science-more-successful)  
+   Link: <a href="https://www.asc.upenn.edu/news-events/news/research-identifies-factors-make-correcting-misinformation-about-science-more-successful" target="_blank" rel="noopener noreferrer nofollow">https://www.asc.upenn.edu/news-events/news/research-identifies-factors-make-correcting-misinformation-about-science-more-successful</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifies Factors That Make Correcting...20 Jun 2023 — A new study from PIK Professor Dolores Albarracín and Research Associate Man-pui...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: [https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide](https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide)  
+   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: climatechangecommunication.org  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;): False information, often of a sensational nature, that mimics news media...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: rkellygarrett.com  
    Title: Garrett and Weeks Promise and peril of real time corrections  
-   Link: [https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf](https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf)  
+   Link: <a href="https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Promise and Peril of Real-Time Corrections to Politicalby RK Garrett · 2013 · Cited by 230 — When misinformation is corrected immedia...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: discovery.ucl.ac.uk  
    Title: UCL Discovery Belief updating in the face of misinformation  
-   Link: [https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf](https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryBelief updating in the face of misinformation - UCL Discoveryby GA Sanna · 2025 · Cited by 14 — This paper investigates the...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Tech Policy Press  
    Title: why people believe misinformation and resist correction  
-   Link: [https://techpolicy.press/why-people-believe-misinformation-and-resist-correction](https://techpolicy.press/why-people-believe-misinformation-and-resist-correction)  
+   Link: <a href="https://techpolicy.press/why-people-believe-misinformation-and-resist-correction" target="_blank" rel="noopener noreferrer nofollow">https://techpolicy.press/why-people-believe-misinformation-and-resist-correction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Jan 2022 — A Nature review of the available empirical research yields best practices for confronting misinformation and suggestions fo...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: voxdev.org  
    Title: interventions counter political polarisation  
-   Link: [https://voxdev.org/voxdevlit/political-polarisation/interventions-counter-political-polarisation](https://voxdev.org/voxdevlit/political-polarisation/interventions-counter-political-polarisation)  
+   Link: <a href="https://voxdev.org/voxdevlit/political-polarisation/interventions-counter-political-polarisation" target="_blank" rel="noopener noreferrer nofollow">https://voxdev.org/voxdevlit/political-polarisation/interventions-counter-political-polarisation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions to counter political polarisationOct 27, 2025 — These studies suggest that social media interventions may require a dual ap...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/uni.lu/posts/have-you-ever-tried-to-correct-someone-who-shared-fake-news-online-it-rarely-goe/1447453670755961/](https://www.facebook.com/uni.lu/posts/have-you-ever-tried-to-correct-someone-who-shared-fake-news-online-it-rarely-goe/1447453670755961/)  
+   Link: <a href="https://www.facebook.com/uni.lu/posts/have-you-ever-tried-to-correct-someone-who-shared-fake-news-online-it-rarely-goe/1447453670755961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/uni.lu/posts/have-you-ever-tried-to-correct-someone-who-shared-fake-news-online-it-rarely-goe/1447453670755961/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you ever tried to correct someone who shared fake...However, the study noted that corrections did not change people&#x27;s voting patterns...</p></details>

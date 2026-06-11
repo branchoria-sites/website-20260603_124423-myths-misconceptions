@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_ten_percent_belief_a_77801f
 - Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - 10-brain
 - brain-scans
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - 10-brain
 - brain-scans
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Brain scans highlight relative changes in activity, not vast silent regions waiting to be switched on.
 hero_summary: Brain scans highlight relative changes in activity, not vast silent regions waiting to be switched on.
 layout: default
 permalink: /brain-scans/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /10-brain/
 nav_short_title: Brain Scans
 title: What Brain Scans Do Not Show
-title_full: What Brain Scans Do Not Show | 10 Brain
+title_full: What Brain Scans Do Not Show
 display_title_short: Brain Scans
 display_title: Brain Scans
 heading_title: What Brain Scans Do Not Show
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why the 10 Percent Brain Myth Endures | Mythcraft
+parent_title: Why the 10 Percent Brain Myth Endures
 parent_permalink: /10-brain/
 parent_nav_short_title: 10 Brain
 parent_heading_title: Why the 10 Percent Brain Myth Endures
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Did William James Start the Brain Myth?
 up_link:
   basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
@@ -265,7 +265,7 @@ next_link:
   permalink: /neuroplasticity/
   short_title: Neuroplasticity
   heading_title: Neuroplasticity Is Not Hidden Superpower
-date: '2026-06-09 05:50:33 '
+date: '2026-06-11 22:45:19 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_scans_activity_c96bc5-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_scans_activity_c96bc5-Illustration-1.webp
@@ -276,27 +276,20 @@ image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_br
 
 Brain scans are often presented as if they reveal exactly which parts of the brain are “on” and which parts are “off”. Bright colours appear on a screen, a few regions light up, and it can look as though most of the brain is sitting idle until a special task activates it. That impression has helped support myths such as the idea that humans use only 10 per cent of their brains.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_scans_activity_c96bc5-Illustration-1-dark.svg" | relative_url }}" alt="Brain Scans illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_scans_activity_c96bc5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_scans_activity_c96bc5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Modern brain imaging shows something very different. Techniques such as functional magnetic resonance imaging (fMRI) and positron emission tomography (PET) do not reveal vast inactive regions waiting to be unlocked. Instead, they usually show changes in activity levels across networks that are already functioning. The coloured areas in many published images represent differences relative to a comparison condition, not the only places where the brain is active. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/body-mind/health/health-sciences/how-fmri-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open UniversityHow FMRI works | OpenLearnFunctional magnetic resonance imaging, or FMRI, works by detecting the changes in blood oxyg...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/drP8Nk67l1s" title="fMRI and the BOLD Signal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=drP8Nk67l1s" target="_blank" rel="noopener noreferrer">fMRI and the BOLD Signal</a></p><p class="youtube-embed-meta">Channel: USC Stevens Neuroimaging and Informatics Institute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=drP8Nk67l1s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=drP8Nk67l1s">Open on YouTube</a></p></div></div></div>
+Modern brain imaging shows something very different. Techniques such as functional magnetic resonance imaging (fMRI) and positron emission tomography (PET) do not reveal vast inactive regions waiting to be unlocked. Instead, they usually show changes in activity levels across networks that are already functioning. The coloured areas in many published images represent differences relative to a comparison condition, not the only places where the brain is active. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/body-mind/health/health-sciences/how-fmri-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open UniversityHow FMRI works &#124; OpenLearnFunctional magnetic resonance imaging, or FMRI, works by detecting the changes in blood oxyg...</span></span></span>
 
 ## Why highlighted scan areas can mislead
 
 One of the most common misunderstandings comes from the way brain scans are displayed. In many fMRI images, a participant performs a task such as reading words, moving a hand or recognising faces. Researchers then compare brain activity during that task with activity during a baseline condition.
 
-The coloured regions usually mark places where activity increased significantly compared with the baseline. They do not show every active neuron in the brain, nor do they indicate that uncoloured areas are inactive. In fact, the entire brain remains metabolically active throughout the experiment. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/body-mind/health/health-sciences/how-fmri-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open UniversityHow FMRI works | OpenLearnFunctional magnetic resonance imaging, or FMRI, works by detecting the changes in blood oxyg...</span></span></span>
+The coloured regions usually mark places where activity increased significantly compared with the baseline. They do not show every active neuron in the brain, nor do they indicate that uncoloured areas are inactive. In fact, the entire brain remains metabolically active throughout the experiment. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/body-mind/health/health-sciences/how-fmri-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open UniversityHow FMRI works &#124; OpenLearnFunctional magnetic resonance imaging, or FMRI, works by detecting the changes in blood oxyg...</span></span></span>
 
 Another source of confusion is that fMRI does not directly record neurons firing. The most widely used signal, known as the Blood Oxygen Level Dependent (BOLD) signal, measures changes in blood oxygenation and blood flow associated with neural activity. Researchers infer brain activity from these physiological changes. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsociety.org/blog/2016/08/qa-what-is-bold/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">qa what is bold</span><span class="citation-popover-snippet">Q&amp;A: What is BOLD?29 Aug 2016 — Blood Oxygenation Level Dependent (BOLD) imaging is a technique that is commonly used for measuring brain...</span></span></span>
 
 This distinction matters because a colourful activation map can look more definitive than it really is. A scan showing strong activation in one region does not mean other regions have stopped working. It usually means that one area changed more than the comparison condition.
 
-The visual style of published images can reinforce the misunderstanding. Researchers often apply statistical thresholds so that only the strongest changes appear in colour. Areas below that threshold may still be active but are not highlighted. The resulting image is designed to show meaningful differences, not to provide a literal picture of the brain switching large sections on and off. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3073717/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOverview of Functional Magnetic Resonance Imaging</span><span class="citation-popover-snippet">PMCby GH Glover · 2011 · Cited by 1859 — Blood Oxygen Level Dependent (BOLD) functional magnetic resonance imaging (fMRI) depicts changes...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G2YsuVzg-Gg" title="How to read an MRI of the brain | First Look MRI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G2YsuVzg-Gg" target="_blank" rel="noopener noreferrer">How to read an MRI of the brain | First Look MRI</a></p><p class="youtube-embed-meta">Channel: First Look MRI  - Power to the Patient</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G2YsuVzg-Gg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G2YsuVzg-Gg">Open on YouTube</a></p></div></div></div>
+The visual style of published images can reinforce the misunderstanding. Researchers often apply statistical thresholds so that only the strongest changes appear in colour. Areas below that threshold may still be active but are not highlighted. The resulting image is designed to show meaningful differences, not to provide a literal picture of the brain switching large sections on and off. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3073717/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOverview of Functional Magnetic Resonance Imaging</span><span class="citation-popover-snippet">by GH Glover · 2011 · Cited by 1859 — Blood Oxygen Level Dependent (BOLD) functional magnetic resonance imaging (fMRI) depicts changes...</span></span></span>
 
 ## How different tasks recruit different networks
 
@@ -311,17 +304,16 @@ For example:
 
 The important point is that these networks overlap, interact and constantly exchange information. A person solving a mathematical problem is not using a small isolated section of the brain while the rest lies dormant. Instead, multiple systems coordinate attention, memory, sensory processing, error monitoring and motor control. The pattern changes according to the task. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepblue.lib.umich.edu/items/5e1036e4-f3b3-4fd2-8de1-be6f92236493" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepblue.lib.umich.edu">[Deep Blue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepblue.lib.umich.edu</span><span class="citation-popover-snippet">Deep BlueInterplay Between Default-Mode and Task-Positive Networksby C Chen · 2010 · Cited by 1 — Recent work has demonstrated that the h...</span></span></span>
 
-Research on the default mode network has been particularly important in correcting simplistic interpretations of brain scans. Earlier studies sometimes treated resting states as a period when the brain was largely inactive. Later work showed that the brain remains highly organised during rest, with distinct networks maintaining ongoing activity linked to self-reflection, memory, social cognition and internal thought. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1693017/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe neural basis of the blood-oxygen-level-dependent</span><span class="citation-popover-snippet">PMCby NK Logothetis · 2002 · Cited by 1333 — This paper reviews the basic principles of MRI and fMRI, and subsequently discusses in some...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/rwe/10.1007/978-3-030-88832-9_133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Brain Activity and Resting State Networks18 Oct 2022 — Resting state functional magnetic resonance imaging (RS-fMRI) has emerged as a maj...</span></span></span>
+Research on the default mode network has been particularly important in correcting simplistic interpretations of brain scans. Earlier studies sometimes treated resting states as a period when the brain was largely inactive. Later work showed that the brain remains highly organised during rest, with distinct networks maintaining ongoing activity linked to self-reflection, memory, social cognition and internal thought. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1693017/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe neural basis of the blood-oxygen-level-dependent</span><span class="citation-popover-snippet">by NK Logothetis · 2002 · Cited by 1333 — This paper reviews the basic principles of MRI and fMRI, and subsequently discusses in some...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/rwe/10.1007/978-3-030-88832-9_133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Brain Activity and Resting State Networks18 Oct 2022 — Resting state functional magnetic resonance imaging (RS-fMRI) has emerged as a maj...</span></span></span>
 
 This means that even when someone appears to be doing nothing, the brain is not simply waiting to be activated. It is already engaged in a range of internally directed processes.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_scans_activity_c96bc5-Illustration-2-dark.svg" | relative_url }}" alt="Brain Scans illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_scans_activity_c96bc5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_scans_activity_c96bc5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why sleep still involves widespread brain activity
 
 Sleep is another area where brain scans challenge the idea of large unused regions. If the 10 per cent myth were true, sleep might be expected to show long periods of near-total shutdown. Neuroimaging reveals something far more complex.
 
-PET, fMRI and combined EEG-imaging studies show that activity patterns change substantially across sleep stages, but the brain remains active throughout the night. Different regions increase or decrease their activity depending on whether a person is in light sleep, deep non-rapid eye movement (NREM) sleep or rapid eye movement (REM) sleep. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12025022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe Journey of the Default Mode Network: Development...by FR Azarias · 2025 · Cited by 55 — The Default Mode Network (DMN) is a brain...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2982729/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCFunctional Neuroimaging Insights into the Physiology of...by TT Dang-Vu · 2010 · Cited by 377 — PET and block-design fMRI (i.e., cont...</span></span></span>
+PET, fMRI and combined EEG-imaging studies show that activity patterns change substantially across sleep stages, but the brain remains active throughout the night. Different regions increase or decrease their activity depending on whether a person is in light sleep, deep non-rapid eye movement (NREM) sleep or rapid eye movement (REM) sleep. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12025022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Journey of the Default Mode Network: Development...by FR Azarias · 2025 · Cited by 55 — The Default Mode Network (DMN) is a brain...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2982729/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Functional Neuroimaging Insights into the Physiology of...by TT Dang-Vu · 2010 · Cited by 377 — PET and block-design fMRI (i.e., cont...</span></span></span>
 
 Deep sleep is associated with reductions in activity in some higher-order regions, yet widespread coordinated activity remains present. Researchers observe large-scale oscillations, ongoing communication between brain systems and physiological processes linked to memory consolidation and restoration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3387650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govEEG-fMRI Methods for the Study of Brain Networks during Sleepby JH Duyn · 2012 · Cited by 78 — BOLD fMRI is the most recent neuroi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41593-025-02132-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The resulting...Read more...</span></span></span>
 
@@ -331,19 +323,14 @@ Recent multimodal imaging studies combining EEG, PET and fMRI have further demon
 
 These findings directly contradict the idea that large portions of the brain sit unused for most of the day.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nvB9hAarzw4" title="How does fMRI brain scanning work? Alan Alda and Dr. Nancy Kanwisher, MIT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nvB9hAarzw4" target="_blank" rel="noopener noreferrer">How does fMRI brain scanning work? Alan Alda and Dr. Nancy Kanwisher, MIT</a></p><p class="youtube-embed-meta">Channel: Brains On Trial</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nvB9hAarzw4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nvB9hAarzw4">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_scans_activity_c96bc5-Illustration-3-dark.svg" | relative_url }}" alt="Brain Scans illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_scans_activity_c96bc5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_scans_activity_c96bc5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What brain scans actually tell us about the 10 per cent myth
 
 The strongest lesson from modern neuroimaging is not that every brain region is maximally active all the time. Rather, it is that the brain operates through constantly changing patterns of activity distributed across interconnected networks.
 
-Brain scans reveal relative increases and decreases, cooperation between specialised systems and shifts in functional organisation. They do not reveal a vast reserve of silent neural tissue waiting to be switched on. Damage to even small brain regions can produce serious impairments, which is one reason neuroscientists have long rejected the idea that 90 per cent of the brain serves no purpose. Neuroimaging has reinforced that conclusion by showing activity across the brain during work, rest and sleep. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/body-mind/health/health-sciences/how-fmri-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open UniversityHow FMRI works | OpenLearnFunctional magnetic resonance imaging, or FMRI, works by detecting the changes in blood oxyg...</span></span></span>
+Brain scans reveal relative increases and decreases, cooperation between specialised systems and shifts in functional organisation. They do not reveal a vast reserve of silent neural tissue waiting to be switched on. Damage to even small brain regions can produce serious impairments, which is one reason neuroscientists have long rejected the idea that 90 per cent of the brain serves no purpose. Neuroimaging has reinforced that conclusion by showing activity across the brain during work, rest and sleep. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/body-mind/health/health-sciences/how-fmri-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open UniversityHow FMRI works &#124; OpenLearnFunctional magnetic resonance imaging, or FMRI, works by detecting the changes in blood oxyg...</span></span></span>
 
-The colourful images that often accompany discussions of the brain are powerful scientific tools, but they are easy to misread. Their real message is not that only a few bright spots matter. It is that the brain is a dynamic system whose activity is constantly being redistributed across networks depending on what a person is seeing, thinking, remembering, feeling or dreaming. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4526481/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby F Xin · 2015 · Cited by 123 — In contrast to the FPC, the activity of the default mode network (DMN) has been documented as typical...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3073717/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOverview of Functional Magnetic Resonance Imaging</span><span class="citation-popover-snippet">PMCby GH Glover · 2011 · Cited by 1859 — Blood Oxygen Level Dependent (BOLD) functional magnetic resonance imaging (fMRI) depicts changes...</span></span></span>
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_scans_activity_c96bc5-Illustration-3-dark.svg" | relative_url }}" alt="Brain Scans illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_scans_activity_c96bc5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_scans_activity_c96bc5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The colourful images that often accompany discussions of the brain are powerful scientific tools, but they are easy to misread. Their real message is not that only a few bright spots matter. It is that the brain is a dynamic system whose activity is constantly being redistributed across networks depending on what a person is seeing, thinking, remembering, feeling or dreaming. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4526481/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by F Xin · 2015 · Cited by 123 — In contrast to the FPC, the activity of the default mode network (DMN) has been documented as typical...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3073717/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOverview of Functional Magnetic Resonance Imaging</span><span class="citation-popover-snippet">by GH Glover · 2011 · Cited by 1859 — Blood Oxygen Level Dependent (BOLD) functional magnetic resonance imaging (fMRI) depicts changes...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -742,139 +729,139 @@ The colourful images that often accompany discussions of the brain are powerful 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOverview of Functional Magnetic Resonance Imaging  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3073717/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3073717/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby GH Glover · 2011 · Cited by 1859 — Blood Oxygen Level Dependent (BOLD) functional magnetic resonance imaging (fMRI) depicts changes...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3073717/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3073717/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by GH Glover · 2011 · Cited by 1859 — Blood Oxygen Level Dependent (BOLD) functional magnetic resonance imaging (fMRI) depicts changes...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: open.edu  
-   Link: [https://www.open.edu/openlearn/body-mind/health/health-sciences/how-fmri-works](https://www.open.edu/openlearn/body-mind/health/health-sciences/how-fmri-works)  
+   Link: <a href="https://www.open.edu/openlearn/body-mind/health/health-sciences/how-fmri-works" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/body-mind/health/health-sciences/how-fmri-works</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Open UniversityHow FMRI works | OpenLearnFunctional magnetic resonance imaging, or FMRI, works by detecting the changes in blood oxyg...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe neural basis of the blood-oxygen-level-dependent  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC1693017/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1693017/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby NK Logothetis · 2002 · Cited by 1333 — This paper reviews the basic principles of MRI and fMRI, and subsequently discusses in some...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1693017/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1693017/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by NK Logothetis · 2002 · Cited by 1333 — This paper reviews the basic principles of MRI and fMRI, and subsequently discusses in some...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41593-025-02132-9](https://www.nature.com/articles/s41593-025-02132-9)  
+   Link: <a href="https://www.nature.com/articles/s41593-025-02132-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41593-025-02132-9</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The resulting...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Task Positive Network  
-   Link: [https://www.sciencedirect.com/topics/medicine-and-dentistry/task-positive-network](https://www.sciencedirect.com/topics/medicine-and-dentistry/task-positive-network)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectTask Positive Network - an overviewThe task positive network (TPN) is defined as a brain network that activates during goal...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/medicine-and-dentistry/task-positive-network" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/medicine-and-dentistry/task-positive-network</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Task Positive Network - an overviewThe task positive network (TPN) is defined as a brain network that activates during goal...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12025022/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12025022/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Journey of the Default Mode Network: Development...by FR Azarias · 2025 · Cited by 55 — The Default Mode Network (DMN) is a brain...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12025022/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12025022/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Journey of the Default Mode Network: Development...by FR Azarias · 2025 · Cited by 55 — The Default Mode Network (DMN) is a brain...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s42003-024-06506-w](https://www.nature.com/articles/s42003-024-06506-w)  
+   Link: <a href="https://www.nature.com/articles/s42003-024-06506-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s42003-024-06506-w</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flexible adaptation of task-positive brain networks predicts...by A Weigard · 2024 · Cited by 12 — Another notable finding concerns the...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/rwe/10.1007/978-3-030-88832-9_133](https://link.springer.com/rwe/10.1007/978-3-030-88832-9_133)  
+   Link: <a href="https://link.springer.com/rwe/10.1007/978-3-030-88832-9_133" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-030-88832-9_133</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brain Activity and Resting State Networks18 Oct 2022 — Resting state functional magnetic resonance imaging (RS-fMRI) has emerged as a maj...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s00429-022-02467-0](https://link.springer.com/article/10.1007/s00429-022-02467-0)  
+   Link: <a href="https://link.springer.com/article/10.1007/s00429-022-02467-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00429-022-02467-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>activating the default mode network map multiple...by L Mancuso · 2022 · Cited by 64 — A new deconstructive line of research is pointing...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2982729/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2982729/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCFunctional Neuroimaging Insights into the Physiology of...by TT Dang-Vu · 2010 · Cited by 377 — PET and block-design fMRI (i.e., cont...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2982729/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2982729/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Functional Neuroimaging Insights into the Physiology of...by TT Dang-Vu · 2010 · Cited by 377 — PET and block-design fMRI (i.e., cont...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Sleep neuroimaging: Review and future directions  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1111/jsr.14462](https://onlinelibrary.wiley.com/doi/10.1111/jsr.14462)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jsr.14462" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/jsr.14462</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibrarySleep neuroimaging: Review and future directions - Pereira12 Feb 2025 — The results of these studies have shown that...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41467-025-64414-x](https://www.nature.com/articles/s41467-025-64414-x)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureSimultaneous EEG-PET-MRI identifies temporally coupled...by JE Chen · 2025 · Cited by 11 — Moreover, sympathetic activity that eli...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41467-025-64414-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-025-64414-x</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simultaneous EEG-PET-MRI identifies temporally coupled...by JE Chen · 2025 · Cited by 11 — Moreover, sympathetic activity that eli...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: Blood Oxygen Level  
-   Link: [https://www.sciencedirect.com/topics/psychology/blood-oxygen-level](https://www.sciencedirect.com/topics/psychology/blood-oxygen-level)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/blood-oxygen-level" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/blood-oxygen-level</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewfMRI is based on the principle that brain activity causes a change in the relative amounts of oxy- and deoxy-hemoglobin which...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: royalsociety.org  
    Title: qa what is bold  
-   Link: [https://royalsociety.org/blog/2016/08/qa-what-is-bold/](https://royalsociety.org/blog/2016/08/qa-what-is-bold/)  
+   Link: <a href="https://royalsociety.org/blog/2016/08/qa-what-is-bold/" target="_blank" rel="noopener noreferrer nofollow">https://royalsociety.org/blog/2016/08/qa-what-is-bold/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Q&amp;A: What is BOLD?29 Aug 2016 — Blood Oxygenation Level Dependent (BOLD) imaging is a technique that is commonly used for measuring brain...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: otbproject.com  
-   Link: [https://otbproject.com/brain-networks/](https://otbproject.com/brain-networks/)  
+   Link: <a href="https://otbproject.com/brain-networks/" target="_blank" rel="noopener noreferrer nofollow">https://otbproject.com/brain-networks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>· The...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: deepblue.lib.umich.edu  
-   Link: [https://deepblue.lib.umich.edu/items/5e1036e4-f3b3-4fd2-8de1-be6f92236493](https://deepblue.lib.umich.edu/items/5e1036e4-f3b3-4fd2-8de1-be6f92236493)  
+   Link: <a href="https://deepblue.lib.umich.edu/items/5e1036e4-f3b3-4fd2-8de1-be6f92236493" target="_blank" rel="noopener noreferrer nofollow">https://deepblue.lib.umich.edu/items/5e1036e4-f3b3-4fd2-8de1-be6f92236493</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deep BlueInterplay Between Default-Mode and Task-Positive Networksby C Chen · 2010 · Cited by 1 — Recent work has demonstrated that the h...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/NeuroscienceGroup/posts/10166122945645089/](https://www.facebook.com/groups/NeuroscienceGroup/posts/10166122945645089/)  
+   Link: <a href="https://www.facebook.com/groups/NeuroscienceGroup/posts/10166122945645089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/NeuroscienceGroup/posts/10166122945645089/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Task-positive and default mode brain networksThe first is the task-positive network, also known as the central executive network. This is...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: news-medical.net  
-   Link: [https://www.news-medical.net/news/20251024/Study-reveals-how-brain-activity-energy-use-and-blood-flow-interact-during-sleep.aspx](https://www.news-medical.net/news/20251024/Study-reveals-how-brain-activity-energy-use-and-blood-flow-interact-during-sleep.aspx)  
+   Link: <a href="https://www.news-medical.net/news/20251024/Study-reveals-how-brain-activity-energy-use-and-blood-flow-interact-during-sleep.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20251024/Study-reveals-how-brain-activity-energy-use-and-blood-flow-interact-during-sleep.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Study reveals how brain activity, energy use, and blood...24 Oct 2025 — The researchers found that energy use and metabolism decrease as...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: neupsykey.com  
    Title: what brain imaging reveals about sleep generation and maintenance  
-   Link: [https://neupsykey.com/what-brain-imaging-reveals-about-sleep-generation-and-maintenance/](https://neupsykey.com/what-brain-imaging-reveals-about-sleep-generation-and-maintenance/)  
+   Link: <a href="https://neupsykey.com/what-brain-imaging-reveals-about-sleep-generation-and-maintenance/" target="_blank" rel="noopener noreferrer nofollow">https://neupsykey.com/what-brain-imaging-reveals-about-sleep-generation-and-maintenance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Brain Imaging Reveals about Sleep Generation and...13 Mar 2017 — It was shown that regional brain activity during sleep was segrega...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thedoctorasky/posts/new-imaging-research-shows-that-the-brain-does-more-than-rest-during-deep-sleep-/1594496135570581/](https://www.facebook.com/thedoctorasky/posts/new-imaging-research-shows-that-the-brain-does-more-than-rest-during-deep-sleep-/1594496135570581/)  
+   Link: <a href="https://www.facebook.com/thedoctorasky/posts/new-imaging-research-shows-that-the-brain-does-more-than-rest-during-deep-sleep-/1594496135570581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thedoctorasky/posts/new-imaging-research-shows-that-the-brain-does-more-than-rest-during-deep-sleep-/1594496135570581/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using simultaneous EEG, PET, and MRI scans, scientists tracked...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Blood oxygenation level–dependent imaging  
-   Link: [https://en.wikipedia.org/wiki/Blood-oxygenation-level%E2%80%93dependent_imaging](https://en.wikipedia.org/wiki/Blood-oxygenation-level%E2%80%93dependent_imaging)  
+   Link: <a href="https://en.wikipedia.org/wiki/Blood-oxygenation-level%E2%80%93dependent_imaging" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Blood-oxygenation-level%E2%80%93dependent_imaging</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blood-oxygenation-level–dependent imagingBlood-oxygenation-level–dependent imaging, or BOLD-contrast imaging, is a method used in func...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/research-topics/404/functional-brain-network-changes-in-human-sleep-in-health-and-disease-the-role-of-neuroimaging/magazine](https://www.frontiersin.org/research-topics/404/functional-brain-network-changes-in-human-sleep-in-health-and-disease-the-role-of-neuroimaging/magazine)  
+   Link: <a href="https://www.frontiersin.org/research-topics/404/functional-brain-network-changes-in-human-sleep-in-health-and-disease-the-role-of-neuroimaging/magazine" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/research-topics/404/functional-brain-network-changes-in-human-sleep-in-health-and-disease-the-role-of-neuroimaging/magazine</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ole of neuroimaging. 123.7K. views. 52. authors.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: biorxiv.org  
-   Link: [https://www.biorxiv.org/content/10.1101/2021.03.17.435799.full](https://www.biorxiv.org/content/10.1101/2021.03.17.435799.full)  
+   Link: <a href="https://www.biorxiv.org/content/10.1101/2021.03.17.435799.full" target="_blank" rel="noopener noreferrer nofollow">https://www.biorxiv.org/content/10.1101/2021.03.17.435799.full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recent developments in network neuroscience suggest reconsidering what we thought we knew about the Default Mode Network (DMN).Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3387650/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3387650/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3387650/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3387650/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govEEG-fMRI Methods for the Study of Brain Networks during Sleepby JH Duyn · 2012 · Cited by 78 — BOLD fMRI is the most recent neuroi...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4526481/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4526481/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby F Xin · 2015 · Cited by 123 — In contrast to the FPC, the activity of the default mode network (DMN) has been documented as typical...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4526481/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4526481/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Xin · 2015 · Cited by 123 — In contrast to the FPC, the activity of the default mode network (DMN) has been documented as typical...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2016732119](https://www.pnas.org/doi/10.1073/pnas.2016732119)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2016732119" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2016732119</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fMRI spectral signatures of sleepby C Song · 2022 · Cited by 72 — We show that the fMRI signatures of sleep can be employed to monitor lo...</p></details>

@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - uncertainty
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - uncertainty
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Myths often spread during uncertainty because they offer certainty, blame or a rule of thumb when people feel unsettled.
 hero_summary: Myths often spread during uncertainty because they offer certainty, blame or a rule of thumb when people feel unsettled.
 layout: default
 permalink: /uncertainty/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Uncertainty
 title: Why Uncertainty Makes Myths Appealing
-title_full: Why Uncertainty Makes Myths Appealing | Mythcraft
+title_full: Why Uncertainty Makes Myths Appealing
 display_title_short: Uncertainty
 display_title: Uncertainty
 heading_title: Why Uncertainty Makes Myths Appealing
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 next_link:
   basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
-date: '2026-06-09 04:19:39 '
+date: '2026-06-11 21:59:18 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-overview.webp
@@ -503,33 +503,28 @@ image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-ov
 
 When people face uncertainty — whether about the future, social change, a crisis, or complex events — they often gravitate toward myths and simple narratives that promise clarity and emotional comfort. Psychological research shows that uncertainty is not just a cognitive gap; it triggers **negative affective states** such as anxiety and existential threat, which in turn make emotionally resonant myths more appealing and easier to accept. This dynamic helps explain why myths, conspiracy theories, and oversimplified explanations flourish in uncertain times: they offer emotional regulation, a sense of control, and an immediate narrative where ambiguity once was.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-overview.webp" | relative_url }}" alt="Overview image for Uncertainty" loading="eager" decoding="sync" fetchpriority="high">
 ## Anxiety, Uncertainty and the Emotional Drive for Closure
 
 Uncertainty is intrinsically linked to **negative emotional states** such as anxiety, worry, fear and existential threat. People dislike ambiguity — it feels psychologically uncomfortable and can motivate efforts to reduce that discomfort. Research shows that individuals who are uncertainty‑averse and experience heightened anxiety are more likely to endorse beliefs that appear to eliminate ambiguity and provide coherent explanations, including conspiracy theories or paranormal beliefs that “fill in the blanks” of complex situations. These beliefs promise a clear cause and outcome, standing in stark contrast to ambiguity and threat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9896259/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Threat - PMCDecember 29, 2021...</span><span class="citation-popover-meta">Published: December 29, 2021</span></span></span>
 
-This pattern aligns with broader findings in [emotion]({{ 'emotion/' | relative_url }})‑uncertainty psychology: uncertainty tends to produce negative affective responses, and people often engage in mental simulation of worst‑case scenarios, further amplifying emotional discomfort. This creates a powerful drive for simplified narratives that promise consistency or certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/article/10.3389/fpsyg.2019.02504/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers | The Relationship Between Uncertainty and AffectNovember 12, 2019...</span><span class="citation-popover-meta">Published: November 12, 2019</span></span></span>
-
+This pattern aligns with broader findings in [emotion]({{ 'emotion/' | relative_url }})‑uncertainty psychology: uncertainty tends to produce negative affective responses, and people often engage in mental simulation of worst‑case scenarios, further amplifying emotional discomfort. This creates a powerful drive for simplified narratives that promise consistency or certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/article/10.3389/fpsyg.2019.02504/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; The Relationship Between Uncertainty and AffectNovember 12, 2019...</span><span class="citation-popover-meta">Published: November 12, 2019</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-Illustration-1-dark.svg" | relative_url }}" alt="Uncertainty illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Uncertain Emotions Promote Myth Acceptance
 
-Not all emotions operate alike. Distinctive research reveals that **emotions characterised by uncertainty** — worry, surprise, fear, and hope — differ from emotions that convey certainty, such as anger or happiness. When people feel emotions associated with uncertainty, they are motivated to restore a sense of order and reduce psychological ambiguity. Experimental psychology studies have shown that such uncertain emotional states increase compensatory efforts to impose structure on the world, which appears as stronger belief in conspiracies, the paranormal, or simplistic historical narratives. These effects occur even when the emotional valence (positive or negative) is held constant; it is the **certainty associated with the emotion**, not its pleasantness, that predicts greater myth acceptance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0022103114001358" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe emotional roots of conspiratorial perceptions, system justification, and belief in the paranormal - ScienceDirectJanuary...</span></span></span>
-
+Not all emotions operate alike. Distinctive research reveals that **emotions characterised by uncertainty** — worry, surprise, fear, and hope — differ from emotions that convey certainty, such as anger or happiness. When people feel emotions associated with uncertainty, they are motivated to restore a sense of order and reduce psychological ambiguity. Experimental psychology studies have shown that such uncertain emotional states increase compensatory efforts to impose structure on the world, which appears as stronger belief in conspiracies, the paranormal, or simplistic historical narratives. These effects occur even when the emotional valence (positive or negative) is held constant; it is the **certainty associated with the emotion**, not its pleasantness, that predicts greater myth acceptance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0022103114001358" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The emotional roots of conspiratorial perceptions, system justification, and belief in the paranormal - ScienceDirectJanuary...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h-eQ2bR1HFk" title="Conspiracy Theories and the Problem of Disappearing Knowledge | Quassim Cassam | TEDxWarwick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h-eQ2bR1HFk" target="_blank" rel="noopener noreferrer">Conspiracy Theories and the Problem of Disappearing Knowledge | Quassim Cassam | TEDxWarwick</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 265.8K &middot; Uploaded: April 2017 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h-eQ2bR1HFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h-eQ2bR1HFk">Open on YouTube</a></p></div></div></div>
 
 ## Emotion, Narrative Simplicity and Cognitive Closure
 
-Uncertain emotions also heighten the **need for cognitive closure — the desire to reach a firm conclusion quickly and maintain it.** In situations of complexity, ambiguity, or rapid change, people seek closure because ongoing uncertainty feels aversive. Myths and simplified explanations provide closure by offering clear causal stories and reducing the psychological discomfort associated with open‑ended questions. When uncertainty is made salient — for example during public health crises or political upheavals — the [need for closure]({{ 'need-closure/' | relative_url }}) correlates with increased acceptance of conspiracy beliefs and other simplistic narratives because they reduce ambiguity and offer an emotional sense of mastery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9896259/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Threat - PMCDecember 29, 2021...</span><span class="citation-popover-meta">Published: December 29, 2021</span></span></span>
-
+Uncertain emotions also heighten the **need for cognitive closure — the desire to reach a firm conclusion quickly and maintain it.** In situations of complexity, ambiguity, or rapid change, people seek closure because ongoing uncertainty feels aversive. Myths and simplified explanations provide closure by offering clear causal stories and reducing the psychological discomfort associated with open‑ended questions. When uncertainty is made salient — for example during public health crises or political upheavals — the need for closure correlates with increased acceptance of conspiracy beliefs and other simplistic narratives because they reduce ambiguity and offer an emotional sense of mastery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9896259/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Threat - PMCDecember 29, 2021...</span><span class="citation-popover-meta">Published: December 29, 2021</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-Illustration-2-dark.svg" | relative_url }}" alt="Uncertainty illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Role of Emotional Processing in Evaluating Information
 
-Beyond general emotional states, **reliance on emotion over analytic reasoning** affects myth acceptance directly. Research on [fake news]({{ 'fake-news/' | relative_url }}) and misinformation shows that heightened emotionality makes people more susceptible to believing false information, even when they have the cognitive ability to evaluate evidence. Experimental evidence demonstrates that individuals who rely more on emotional gut reactions — rather than deliberative reasoning — show greater belief in false news and oversimplified explanations. This suggests that emotion and uncertainty interact not just at the level of *feeling*, but at the level of *information processing*, making emotionally charged narratives feel more credible under uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[SpringerLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">on emotion promotes belief in fake news | Cognitive Research: Principles and Implications | Springer Nature LinkOctober 7, 2020 — RELIANC...</span><span class="citation-popover-meta">Published: October 7, 2020</span></span></span>
-
+Beyond general emotional states, **reliance on emotion over analytic reasoning** affects myth acceptance directly. Research on [fake news]({{ 'fake-news/' | relative_url }}) and misinformation shows that heightened emotionality makes people more susceptible to believing false information, even when they have the cognitive ability to evaluate evidence. Experimental evidence demonstrates that individuals who rely more on emotional gut reactions — rather than deliberative reasoning — show greater belief in false news and oversimplified explanations. This suggests that emotion and uncertainty interact not just at the level of *feeling*, but at the level of *information processing*, making emotionally charged narratives feel more credible under uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[SpringerLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">on emotion promotes belief in fake news &#124; Cognitive Research: Principles and Implications &#124; Springer Nature LinkOctober 7, 2020 — RELIANC...</span><span class="citation-popover-meta">Published: October 7, 2020</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z98U1nMFrJQ" title="A Neuroscientist Explains What Conspiracy Theories Do To Your Brain | Inverse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z98U1nMFrJQ" target="_blank" rel="noopener noreferrer">A Neuroscientist Explains What Conspiracy Theories Do To Your Brain | Inverse</a></p><p class="youtube-embed-meta">Channel: Inverse &middot; Views: 161.0K &middot; Uploaded: January 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z98U1nMFrJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z98U1nMFrJQ">Open on YouTube</a></p></div></div></div>
 
@@ -537,12 +532,10 @@ Beyond general emotional states, **reliance on emotion over analytic reasoning**
 
 In many uncertain contexts, myths offer not only narrative closure but also **a locus of blame or control**. When events are complex or ambiguous, assigning responsibility — even inaccurately — helps reduce the psychological distress associated with not knowing who or what is responsible. This emotional compensation can reinforce myth acceptance: beliefs that attribute causality to a specific agent (e.g., secret cabals, hidden forces) satisfy emotional needs for orderliness, control, and predictability, even if they distort reality. Although such attributions can be psychologically comforting, they often oversimplify complex systems and deflect attention from systemic causes that require more nuanced understanding.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-Illustration-3-dark.svg" | relative_url }}" alt="Uncertainty illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Communicating Uncertainty Honestly to Reduce Emotional Drivers
 
 Recognising the emotional mechanisms by which uncertainty fuels myth acceptance suggests pathways for reducing reliance on false narratives. Honest communication about uncertainty — where experts acknowledge complexity and explain the limits of current knowledge — can reduce the anxiety that motivates myth adherence. Studies on science communication and risk perception indicate that when communicators provide clear reasoning, contextualise uncertainty, and offer actionable guidance rather than vague reassurances, audiences can maintain trust without defaulting to oversimplified interpretations. Framing uncertainty as a normal and manageable part of complex issues, rather than something to be feared, helps mitigate the emotional impulse toward myths.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uihpcqU4UcU" title="How do regular people fall into believing conspiracy theories? | 60 Minutes Australia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uihpcqU4UcU" target="_blank" rel="noopener noreferrer">How do regular people fall into believing conspiracy theories? | 60 Minutes Australia</a></p><p class="youtube-embed-meta">Channel: 60 Minutes Australia &middot; Views: 69.6K &middot; Uploaded: June 2020 &middot; Length: 4 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uihpcqU4UcU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uihpcqU4UcU">Open on YouTube</a></p></div></div></div>
 
@@ -946,114 +939,114 @@ Uncertainty interacts with emotion to shape how people evaluate and accept myths
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9896259/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9896259/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9896259/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9896259/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Threat - PMCDecember 29, 2021...</p></details>
    Published: December 29, 2021  
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0022103114001358](https://www.sciencedirect.com/science/article/pii/S0022103114001358)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe emotional roots of conspiratorial perceptions, system justification, and belief in the paranormal - ScienceDirectJanuary...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0022103114001358" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022103114001358</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The emotional roots of conspiratorial perceptions, system justification, and belief in the paranormal - ScienceDirectJanuary...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0022103104000642](https://www.sciencedirect.com/science/article/pii/S0022103104000642)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0022103104000642" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022103104000642</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>tions and bolstering of cultural worldviews - ScienceDirectJOURNAL OF EXPERIMENTAL SOCIAL PSYCHOLOGY Volume 41, Issue 2, March 2005, Page...</p></details>
    Published: March 2005  
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: That's interesting!  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0747563222004393](https://www.sciencedirect.com/science/article/pii/S0747563222004393)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563222004393" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563222004393</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of epistemic emotions and perceived credibility in the relation between prior beliefs and susceptibility to fake-news - ScienceD...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
    Title: Better the devil you know than a world you don't?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0191886916303221](https://www.sciencedirect.com/science/article/pii/S0191886916303221)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0191886916303221" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0191886916303221</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intolerance of uncertainty and worldview explanations for belief in conspiracy theories - ScienceDirectPERSONALITY AND INDIVIDUAL DIFFERE...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/article/10.3389/fpsyg.2019.02504/full](https://www.frontiersin.org/article/10.3389/fpsyg.2019.02504/full)  
+   Link: <a href="https://www.frontiersin.org/article/10.3389/fpsyg.2019.02504/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/article/10.3389/fpsyg.2019.02504/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | The Relationship Between Uncertainty and AffectNovember 12, 2019...</p></details>
    Published: November 12, 2019  
 
 7. <a id="endnote-7"></a>
    Source: cognitiveresearchjournal.springeropen.com  
-   Link: [https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-020-00252-3](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-020-00252-3)  
+   Link: <a href="https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow">https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-020-00252-3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerLinkReliance on emotion promotes belief in fake news | Cognitive Research: Principles and Implications | Full TextOctober 7, 2020...</p></details>
    Published: October 7, 2020  
 
 8. <a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-020-00252-3](https://link.springer.com/article/10.1186/s41235-020-00252-3)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00252-3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>on emotion promotes belief in fake news | Cognitive Research: Principles and Implications | Springer Nature LinkOctober 7, 2020 — RELIANC...</p></details>
    Published: October 7, 2020  
 
 9. <a id="endnote-9"></a>
    Source: business.columbia.edu  
    Title: emotional roots conspiratorial perceptions system justification and belief  
-   Link: [https://business.columbia.edu/faculty/research/emotional-roots-conspiratorial-perceptions-system-justification-and-belief](https://business.columbia.edu/faculty/research/emotional-roots-conspiratorial-perceptions-system-justification-and-belief)  
+   Link: <a href="https://business.columbia.edu/faculty/research/emotional-roots-conspiratorial-perceptions-system-justification-and-belief" target="_blank" rel="noopener noreferrer nofollow">https://business.columbia.edu/faculty/research/emotional-roots-conspiratorial-perceptions-system-justification-and-belief</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>emotional roots of conspiratorial perceptions, system justification, and belief in the paranormal | Columbia Business SchoolJanuary 1, 20...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/product/4367D7DB6A2CDCEC9382E957B02A92A1](https://www.cambridge.org/core/product/4367D7DB6A2CDCEC9382E957B02A92A1)  
+   Link: <a href="https://www.cambridge.org/core/product/4367D7DB6A2CDCEC9382E957B02A92A1" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/product/4367D7DB6A2CDCEC9382E957B02A92A1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 2, 2025 — A TERROR MANAGEMENT THEORY PERSPECTIVE ON THE APPEAL OF HISTORICAL MYTHS Published online by Cambridge University Press...</p></details>
    Published: January 2, 2025  
 
 11. <a id="endnote-11"></a>
    Source: psychologicalscience.org  
    Title: Awe, Uncertainty, and Agency Detection  
-   Link: [https://www.psychologicalscience.org/journals/psychological-science/0956797613501884/](https://www.psychologicalscience.org/journals/psychological-science/0956797613501884/)  
+   Link: <a href="https://www.psychologicalscience.org/journals/psychological-science/0956797613501884/" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/journals/psychological-science/0956797613501884/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Science - APSPsychological Science AWE, UNCERTAINTY, AND AGENCY DETECTION Piercarlo Valdesolo, Jesse Graham Volume 25, Issu...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ovid.com  
    Title: * Linton, Susan Author information * ^{1}Graduate School of Bus  
-   Link: [https://www.ovid.com/journals/jpspy/abstract/00005205-200112000-00001~judgment-under-emotional-certainty-and-uncertainty-the](https://www.ovid.com/journals/jpspy/abstract/00005205-200112000-00001~judgment-under-emotional-certainty-and-uncertainty-the)  
+   Link: <a href="https://www.ovid.com/journals/jpspy/abstract/00005205-200112000-00001~judgment-under-emotional-certainty-and-uncertainty-the" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jpspy/abstract/00005205-200112000-00001~judgment-under-emotional-certainty-and-uncertainty-the</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Judgment Under Emotional Certainty and Uncertainty: Journal of Personality and Social PsychologyDecember 1, 2001 — JUDGMENT UNDER EMOTIO...</p></details>
    Published: December 1, 2001  
 
 13. <a id="endnote-13"></a>
    Source: tandfonline.com  
    Title: Full article: Mistrust, uncertainty and health risks  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/21582041.2020.1804070](https://www.tandfonline.com/doi/abs/10.1080/21582041.2020.1804070)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/21582041.2020.1804070" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/21582041.2020.1804070</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BreakwellUniversity of Bath, Bath, UK Correspondence vcsgmb@bath.ac.uk [https://orcid.org/0000-0002-2002-5681](https://orcid.org/0000-0002-2002-5681) Pages 504-516 | Received 08...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cambridge.org  
    Title: Grüning [Opens in a new window] and Joachim I. Kr  
-   Link: [https://www.cambridge.org/core/product/2B51024AE3F7DA53358F73887FBD5445](https://www.cambridge.org/core/product/2B51024AE3F7DA53358F73887FBD5445)  
+   Link: <a href="https://www.cambridge.org/core/product/2B51024AE3F7DA53358F73887FBD5445" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/product/2B51024AE3F7DA53358F73887FBD5445</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Uncertainty reduction as an alternative explanation of historical myths | Behavioral and Brain Sciences | Cambridge CoreJanuary 2, 2025 —...</p></details>
    Published: January 2, 2025  
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36224749/](https://pubmed.ncbi.nlm.nih.gov/36224749/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36224749/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36224749/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the Role of Uncertainty, Negative Emotions, and Perceived Relevance and Threat - PubMedOctober 12, 2022 —. 2023 Dec;38(14):309...</p></details>
    Published: October 12, 2022  
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39743795/](https://pubmed.ncbi.nlm.nih.gov/39743795/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39743795/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39743795/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Jan 2:47:e189. doi: 10.1017/S0140525X2400061X. A TERROR MANAGEMENT THEORY PERSPECTIVE ON THE APPEAL OF HISTORICAL MYTHS Tom Pyszczyn...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/6861361/](https://pmc.ncbi.nlm.nih.gov/articles/6861361/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/6861361/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/6861361/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2019 Nov 12;10:2504. doi: 10.3389/fpsyg.2019.02504 THE RELATIONSHIP BETWEEN UNCERTAINTY AND AFFECT Eric C Anderson ERIC C ANDERSON ^{1}Ce...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Psychology of Uncertainty and Misinformation  
-   Link: [https://www.youtube.com/watch?v=R2_1835vj7Y](https://www.youtube.com/watch?v=R2_1835vj7Y)  
+   Link: <a href="https://www.youtube.com/watch?v=R2_1835vj7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R2_1835vj7Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of uncertainty and conspiracy theories The Psychology of Conspiracy Theorists Psychology with Dr. Ana...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2020 Oct 7;5:47. doi: 10.1186/s41235-020-00252-3 RELIANCE ON EMOTION PROMOTES BELIEF IN FAKE NEWS Cameron Martel CAMERON MARTEL ^{1}Sloan...</p></details>

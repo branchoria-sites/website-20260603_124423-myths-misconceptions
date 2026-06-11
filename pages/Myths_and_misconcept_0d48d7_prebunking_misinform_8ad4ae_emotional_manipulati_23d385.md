@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_fact_vs_tactic_prebu_0fea6e
 - Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_prebunking_fading_ef_b362f3
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - prebunking
 - emotion-cues
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - prebunking
 - emotion-cues
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Emotional prebunks teach readers to spot outrage, fear, or disgust cues before those feelings turn into belief or sharing.
 hero_summary: Emotional prebunks teach readers to spot outrage, fear, or disgust cues before those feelings turn into belief or sharing.
 layout: default
 permalink: /emotion-cues/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /prebunking/
 nav_short_title: Emotion cues
 title: Can a warning slow outrage sharing?
-title_full: Can a warning slow outrage sharing? | Prebunking
+title_full: Can a warning slow outrage sharing?
 display_title_short: Emotion cues
 display_title: Emotion cues
 heading_title: Can a warning slow outrage sharing?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can You Protect People Before Myths Spread? | Mythcraft
+parent_title: Can You Protect People Before Myths Spread?
 parent_permalink: /prebunking/
 parent_nav_short_title: Prebunking
 parent_heading_title: Can You Protect People Before Myths Spread?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why one prebunk is not permanent immunity
 up_link:
   basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
@@ -265,7 +265,7 @@ next_link:
   permalink: /fact-vs-tactic/
   short_title: Fact vs tactic
   heading_title: Should a prebunk name the myth or the trick?
-date: '2026-06-09 05:46:29 '
+date: '2026-06-11 22:42:58 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_emotional_manipulati_23d385-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_emotional_manipulati_23d385-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_em
 ## Introduction
 
 Emotional-manipulation prebunks are designed to interrupt one of the fastest routes by which misinformation spreads: strong feelings that trigger sharing before careful checking. Rather than warning people about a specific myth, these prebunks teach a simple pattern to recognise in advance: if a post seems engineered to provoke outrage, fear, disgust, panic or moral shock, that emotional reaction itself is a reason to pause and investigate. Research on psychological inoculation suggests that brief warnings about manipulative techniques can improve people's ability to recognise misleading content and increase resistance to persuasion tactics commonly used in misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">inoculation videos covering five manipulation techniques commonly encountered in online misinformation.... research on fake news and...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_emotional_manipulati_23d385-Illustration-1-dark.svg" | relative_url }}" alt="Emotion cues illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_emotional_manipulati_23d385-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_emotional_manipulati_23d385-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The goal is not to suppress [emotion]({{ 'emotion/' | relative_url }}) or make people indifferent. It is to create a short delay between feeling and sharing. That delay—the “sharing pause”—is the mechanism that gives fact-checking, source evaluation and reflection a chance to occur before a misleading claim spreads further.
@@ -290,7 +289,6 @@ Researchers behind large-scale prebunking experiments developed short interventi
 
 This creates a small but important cognitive shift:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. A post triggers a strong feeling.
@@ -302,17 +300,15 @@ This creates a small but important cognitive shift:
 
 The value of the pause is not its length. Even a few extra seconds can move a person from automatic reaction to deliberate judgement.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jbgK8Ei-Rp0" title="Psychological Inoculation Against Misinformation - Vaccinating Against Fake News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jbgK8Ei-Rp0" target="_blank" rel="noopener noreferrer">Psychological Inoculation Against Misinformation - Vaccinating Against Fake News</a></p><p class="youtube-embed-meta">Channel: Cambridge Society for the Application of Research &middot; Views: 339 &middot; Uploaded: February 2025 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jbgK8Ei-Rp0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jbgK8Ei-Rp0">Open on YouTube</a></p></div></div></div>
 
 ## Why strong emotion weakens checking
 
 Strong emotions are not inherently bad. Fear can warn about real dangers. Anger can highlight genuine injustice. The problem arises when emotional intensity becomes a substitute for evidence.
 
-Research on online misinformation repeatedly finds that emotionally framed content attracts engagement. Studies examining false and true claims on social media have found that negative emotional framing—especially anger, fear and sadness—can drive greater interaction and sharing. False claims often exploit these emotions because they encourage rapid responses and social [amplification]({{ 'amplification/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.16733" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emotional Framing in the Spreading of False and True Claims</span><span class="citation-popover-snippet">arXivEmotional Framing in the Spreading of False and True ClaimsMarch 29, 2023...</span><span class="citation-popover-meta">Published: March 29, 2023</span></span></span>
+Research on online misinformation repeatedly finds that emotionally framed content attracts engagement. Studies examining false and true claims on social media have found that negative emotional framing—especially anger, fear and sadness—can drive greater interaction and sharing. False claims often exploit these emotions because they encourage rapid responses and social [amplification]({{ 'amplification/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.16733" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emotional Framing in the Spreading of False and True Claims</span><span class="citation-popover-snippet">Emotional Framing in the Spreading of False and True ClaimsMarch 29, 2023...</span><span class="citation-popover-meta">Published: March 29, 2023</span></span></span>
 
 Emotionally manipulative messages frequently contain features such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -327,7 +323,6 @@ Emotionally manipulative messages frequently contain features such as:
 
 When people encounter these cues unexpectedly, attention can become focused on the emotional content rather than on questions such as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Who produced this information?
@@ -338,7 +333,6 @@ When people encounter these cues unexpectedly, attention can become focused on t
 </div>
 
 Emotional prebunks attempt to keep those questions available. They do not eliminate emotional reactions; they prevent those reactions from monopolising attention.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_emotional_manipulati_23d385-Illustration-2-dark.svg" | relative_url }}" alt="Emotion cues illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_emotional_manipulati_23d385-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_emotional_manipulati_23d385-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a useful emotional-manipulation prebunk says
@@ -359,10 +353,9 @@ Outrage, fear and disgust can increase the urge to react or share quickly.
 
 When a post produces an unusually strong emotional response, pause and verify before passing it on.
 
-This structure mirrors the broader logic of psychological inoculation theory: expose people to a weakened example of a manipulation technique, explain how it works, and make future encounters easier to recognise. Reviews and meta-analyses of inoculation research indicate that such interventions generally improve people's ability to assess misinformation and recognise [misleading techniques]({{ 'the-trick/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPsychological inoculation improves resilience against</span><span class="citation-popover-snippet">PMCby J Roozenbeek · 2022 · Cited by 624 — We show that psychological inoculation campaigns on social media are effective at improving mi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPsychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 123 — Based on 42 independent studies with...</span></span></span>
+This structure mirrors the broader logic of psychological inoculation theory: expose people to a weakened example of a manipulation technique, explain how it works, and make future encounters easier to recognise. Reviews and meta-analyses of inoculation research indicate that such interventions generally improve people's ability to assess misinformation and recognise misleading techniques. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPsychological inoculation improves resilience against</span><span class="citation-popover-snippet">by J Roozenbeek · 2022 · Cited by 624 — We show that psychological inoculation campaigns on social media are effective at improving mi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 123 — Based on 42 independent studies with...</span></span></span>
 
 One reason this approach travels well across topics is that emotional manipulation appears in many forms of misinformation. The same emotional triggers can be used in health scares, political rumours, conspiracy narratives, fabricated crime stories and misleading crisis reporting. A tactic-focused warning remains relevant even when the subject changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cam.ac.uk">[University of Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cam.ac.uk</span><span class="citation-popover-snippet">University of CambridgeHow to &#x27;inoculate&#x27; millions against misinformation on social...This “prebunking” strategy pre-emptively exposes p...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ieMrNynj8bk" title="Prebunking and inoculating against disinformation? | Sander van der Linden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ieMrNynj8bk" target="_blank" rel="noopener noreferrer">Prebunking and inoculating against disinformation? | Sander van der Linden</a></p><p class="youtube-embed-meta">Channel: Global Minds for Ukraine &middot; Views: 875 &middot; Uploaded: March 2022 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ieMrNynj8bk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ieMrNynj8bk">Open on YouTube</a></p></div></div></div>
 
@@ -370,10 +363,9 @@ One reason this approach travels well across topics is that emotional manipulati
 
 The most important outcome of an emotional prebunk is not necessarily that a person instantly identifies a claim as false. It is that they hesitate.
 
-That hesitation matters because misinformation often benefits from speed. The faster a message moves through networks, the less opportunity there is for verification, [correction]({{ 'correction/' | relative_url }}) or context. Several researchers have argued that interventions which increase cognitive effort and deliberation before sharing can reduce the likelihood of misinformation spreading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.16733" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emotional Framing in the Spreading of False and True Claims</span><span class="citation-popover-snippet">arXivEmotional Framing in the Spreading of False and True ClaimsMarch 29, 2023...</span><span class="citation-popover-meta">Published: March 29, 2023</span></span></span>
+That hesitation matters because misinformation often benefits from speed. The faster a message moves through networks, the less opportunity there is for verification, [correction]({{ 'correction/' | relative_url }}) or context. Several researchers have argued that interventions which increase cognitive effort and deliberation before sharing can reduce the likelihood of misinformation spreading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.16733" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emotional Framing in the Spreading of False and True Claims</span><span class="citation-popover-snippet">Emotional Framing in the Spreading of False and True ClaimsMarch 29, 2023...</span><span class="citation-popover-meta">Published: March 29, 2023</span></span></span>
 
 Seen this way, the sharing pause is a practical mechanism rather than a moral lesson. It changes the sequence of behaviour:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -386,7 +378,6 @@ Seen this way, the sharing pause is a practical mechanism rather than a moral le
 
 The pause is small, but misinformation often depends on millions of small, rapid decisions. Slowing even a fraction of those decisions can reduce the effectiveness of emotional manipulation.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_emotional_manipulati_23d385-Illustration-3-dark.svg" | relative_url }}" alt="Emotion cues illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_emotional_manipulati_23d385-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_emotional_manipulati_23d385-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Limits when fear or anger is justified
 
@@ -396,13 +387,11 @@ Some events genuinely deserve strong emotional responses. Natural disasters, vio
 
 For that reason, a good emotional-manipulation prebunk focuses on the relationship between emotion and evidence. The warning is not “ignore emotional claims”. The warning is “do not treat emotion itself as proof”.
 
-There are also limits to what prebunks can achieve. Meta-analyses and subsequent studies generally find positive effects on recognising misinformation techniques, but the size of the effects varies across contexts, audiences and outcomes. Some research suggests stronger effects on recognising manipulation than on directly reducing sharing behaviour, indicating that prebunking is helpful but not sufficient on its own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9363981/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby TD Pilditch · 2022 · Cited by 45 — Inoculation theory works through a process known as &#x27;prebunking&#x27; (i.e. refuting false informatio...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different inoculation...</span></span></span>
+There are also limits to what prebunks can achieve. Meta-analyses and subsequent studies generally find positive effects on recognising misinformation techniques, but the size of the effects varies across contexts, audiences and outcomes. Some research suggests stronger effects on recognising manipulation than on directly reducing sharing behaviour, indicating that prebunking is helpful but not sufficient on its own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9363981/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by TD Pilditch · 2022 · Cited by 45 — Inoculation theory works through a process known as &#x27;prebunking&#x27; (i.e. refuting false informatio...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different inoculation...</span></span></span>
 
 In practice, emotional-manipulation prebunks work best as an early warning system. They help people recognise when their feelings may be being used as a persuasion tool. The resulting sharing pause creates a brief window in which evidence, context and verification can compete with the emotional momentum of a misleading post.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ER64qa_qnWg" title="Prebunking Manipulation Techniques: Emotional Language (v2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ER64qa_qnWg" target="_blank" rel="noopener noreferrer">Prebunking Manipulation Techniques: Emotional Language (v2)</a></p><p class="youtube-embed-meta">Channel: Info Interventions &middot; Views: 82.6K &middot; Uploaded: May 2021 &middot; Length: 1 minute 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ER64qa_qnWg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ER64qa_qnWg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -769,211 +758,211 @@ In practice, emotional-manipulation prebunks work best as an early warning syste
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPsychological inoculation improves resilience against  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby J Roozenbeek · 2022 · Cited by 624 — We show that psychological inoculation [campaigns](&amp;#123;&amp;#123; &#x27;campaigns/&#x27; | relative_url &amp;#125;&amp;#125;) on social media are effective at improving mi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Roozenbeek · 2022 · Cited by 624 — We show that psychological inoculation [campaigns](&amp;#123;&amp;#123; &#x27;campaigns/&#x27; | relative_url &amp;#125;&amp;#125;) on social media are effective at improving mi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: unesco.org  
    Title: calls countering misinformation about covid 19  
-   Link: [https://www.unesco.org/en/articles/unesco-calls-countering-misinformation-about-covid-19](https://www.unesco.org/en/articles/unesco-calls-countering-misinformation-about-covid-19)  
+   Link: <a href="https://www.unesco.org/en/articles/unesco-calls-countering-misinformation-about-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-calls-countering-misinformation-about-covid-19</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Before sharing or reacting to such content, try to think of where...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Emotional Framing in the Spreading of False and True Claims  
-   Link: [https://arxiv.org/abs/2303.16733](https://arxiv.org/abs/2303.16733)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEmotional Framing in the Spreading of False and True ClaimsMarch 29, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2303.16733" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.16733</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional Framing in the Spreading of False and True ClaimsMarch 29, 2023...</p></details>
    Published: March 29, 2023  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPsychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 123 — Based on 42 independent studies with...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 123 — Based on 42 independent studies with...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9363981/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9363981/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby TD Pilditch · 2022 · Cited by 45 — Inoculation theory works through a process known as &#x27;prebunking&#x27; (i.e. refuting false informatio...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9363981/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9363981/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by TD Pilditch · 2022 · Cited by 45 — Inoculation theory works through a process known as &#x27;prebunking&#x27; (i.e. refuting false informatio...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Three prophylactic interventions to counter [fake news](&#123;&#123; 'fake-news/' | relative_url &#125;&#125;) on social media  
-   Link: [https://arxiv.org/abs/2105.08929](https://arxiv.org/abs/2105.08929)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThree prophylactic interventions to counter fake news on social mediaMay 19, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2105.08929" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.08929</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Three prophylactic interventions to counter fake news on social mediaMay 19, 2021...</p></details>
    Published: May 19, 2021  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different inoculation...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/psychological](https://dictionary.cambridge.org/dictionary/english/psychological)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/psychological" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/psychological</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>He claims that the constant aircraft noise has a bad psychological effect on the residents.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: articles.unesco.org  
    Title: Guide on MIL Pherton Casimir  
-   Link: [https://articles.unesco.org/sites/default/files/medias/fichiers/2025/04/Guide%20on%20MIL_Pherton%20Casimir.pdf](https://articles.unesco.org/sites/default/files/medias/fichiers/2025/04/Guide%20on%20MIL_Pherton%20Casimir.pdf)  
+   Link: <a href="https://articles.unesco.org/sites/default/files/medias/fichiers/2025/04/Guide%20on%20MIL_Pherton%20Casimir.pdf" target="_blank" rel="noopener noreferrer nofollow">https://articles.unesco.org/sites/default/files/medias/fichiers/2025/04/Guide%20on%20MIL_Pherton%20Casimir.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Information10 Apr 2025 — As activists and young leaders, you have the power to protect the truth and minimize the risks of misinformat...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt](https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt)  
+   Link: <a href="https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;I know misinformation appeals to...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: unesdoc.unesco.org  
    Title: ; Person as author. Ireton, Cherilyn [editor]  
-   Link: [https://unesdoc.unesco.org/ark%3A/48223/pf0000265552](https://unesdoc.unesco.org/ark%3A/48223/pf0000265552)  
+   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000265552</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unesco.orgJournalism, fake news &amp; disinformation: handbook for...Journalism, fake news &amp; disinformation: handbook for journalism educati...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: unesco.org  
    Title: deepfakes and crisis knowing  
-   Link: [https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing](https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing)  
+   Link: <a href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfakes and the crisis of knowing27 Oct 2025 — The rise of AI-augmented disinformation and misinformation demands a fundamental shift i...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: unesco.org  
    Title: fact checking quiet skill holding communities together  
-   Link: [https://www.unesco.org/en/articles/fact-checking-quiet-skill-holding-communities-together](https://www.unesco.org/en/articles/fact-checking-quiet-skill-holding-communities-together)  
+   Link: <a href="https://www.unesco.org/en/articles/fact-checking-quiet-skill-holding-communities-together" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/fact-checking-quiet-skill-holding-communities-together</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation, misinformation, while safeguarding freedom of expression and access to information.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/social-media4peace](https://www.unesco.org/en/social-media4peace)  
+   Link: <a href="https://www.unesco.org/en/social-media4peace" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/social-media4peace</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media 4 PeaceSocial Media 4 Peace (SM4P) is a global initiative implemented by UNESCO to build societies&#x27; resilience to online har...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/unesco-highlights-importance-addressing-disinformation-and-hate-speech-peacebuidling-yntymak-week](https://www.unesco.org/en/articles/unesco-highlights-importance-addressing-disinformation-and-hate-speech-peacebuidling-yntymak-week)  
+   Link: <a href="https://www.unesco.org/en/articles/unesco-highlights-importance-addressing-disinformation-and-hate-speech-peacebuidling-yntymak-week" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-highlights-importance-addressing-disinformation-and-hate-speech-peacebuidling-yntymak-week</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Highlights the Importance of Addressing...28 Nov 2025 — It is a global initiative implemented by UNESCO to build societies&#x27; resil...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: unesco.org  
    Title: chilling effect psychosocial effects online violence journalists  
-   Link: [https://www.unesco.org/en/articles/chilling-effect-psychosocial-effects-online-violence-journalists](https://www.unesco.org/en/articles/chilling-effect-psychosocial-effects-online-violence-journalists)  
+   Link: <a href="https://www.unesco.org/en/articles/chilling-effect-psychosocial-effects-online-violence-journalists" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/chilling-effect-psychosocial-effects-online-violence-journalists</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation are allowed to proliferate on social media. The session will show the harmful impact on lives of women and other marginali...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/sites/default/files/medias/fichiers/2023/11/unesco_ipsos_survey.pdf](https://www.unesco.org/sites/default/files/medias/fichiers/2023/11/unesco_ipsos_survey.pdf)  
+   Link: <a href="https://www.unesco.org/sites/default/files/medias/fichiers/2023/11/unesco_ipsos_survey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/sites/default/files/medias/fichiers/2023/11/unesco_ipsos_survey.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Survey on the impact of online disinformation and hate...25 Sept 2023 — This report was reviewed by Mathieu Gallard, Client Director, Ip...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/mil4teachers/en/module4/unit2](https://www.unesco.org/mil4teachers/en/module4/unit2)  
+   Link: <a href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading content, i.e...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey](https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey)  
+   Link: <a href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2/3 of digital content creators do not check their facts before27 Nov 2024 — be transparent about the sources which inspire their content...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil](https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil)  
+   Link: <a href="https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop fake news. Canva. Action Plan on Combatting Disinformation and Misinformation through Media and Information...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: inoculation.science  
-   Link: [https://inoculation.science/a-practical-guide-to-prebunking-misinformation/](https://inoculation.science/a-practical-guide-to-prebunking-misinformation/)  
+   Link: <a href="https://inoculation.science/a-practical-guide-to-prebunking-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/a-practical-guide-to-prebunking-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Author: University... inoculation theory, designed to build people&#x27;s resilience to mis- and disinformation.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: inoculation.science  
-   Link: [https://inoculation.science/wp-content/uploads/2021/06/inoc.pdf](https://inoculation.science/wp-content/uploads/2021/06/inoc.pdf)  
+   Link: <a href="https://inoculation.science/wp-content/uploads/2021/06/inoc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/wp-content/uploads/2021/06/inoc.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ons; namely (1) to be able to isolate the specific disinformation techniques and (2) to...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/sciadv.abo6254](https://www.science.org/doi/10.1126/sciadv.abo6254)  
+   Link: <a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>inoculation videos covering five manipulation techniques commonly encountered in online misinformation.... research on fake news and...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: cam.ac.uk  
-   Link: [https://www.cam.ac.uk/stories/inoculateexperiment](https://www.cam.ac.uk/stories/inoculateexperiment)  
+   Link: <a href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow">https://www.cam.ac.uk/stories/inoculateexperiment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of CambridgeHow to &#x27;inoculate&#x27; millions against misinformation on social...This “prebunking” strategy pre-emptively exposes p...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ohchr.org  
-   Link: [https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx](https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx)  
+   Link: <a href="https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unescoIt is also recognised that like the term “fake news”, the term “disinformation” can be instrumentalised to designate a vast range o...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: sciencelearn.org.nz  
    Title: manipulation tactics create an inoculation campaign  
-   Link: [https://www.sciencelearn.org.nz/resources/manipulation-tactics-create-an-inoculation-campaign](https://www.sciencelearn.org.nz/resources/manipulation-tactics-create-an-inoculation-campaign)  
+   Link: <a href="https://www.sciencelearn.org.nz/resources/manipulation-tactics-create-an-inoculation-campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencelearn.org.nz/resources/manipulation-tactics-create-an-inoculation-campaign</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Manipulation tactics – create an inoculation campaign30 June 2025 — Online algorithms, biases and incorrect information · Recognising fal...</p></details>
    Published: June 2025  
 
 27. <a id="endnote-27"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-025-09462-5](https://www.nature.com/articles/s41598-025-09462-5)  
+   Link: <a href="https://www.nature.com/articles/s41598-025-09462-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-09462-5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Advances 8 (2022). Eagly, A. H. &amp; Chaiken, S...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: unesco.org.uk  
-   Link: [https://unesco.org.uk/site/assets/files/2261/media_and_information_literacy_in_journalism-_a_handbook_for_journalists_and_journalism_educators_2019.pdf](https://unesco.org.uk/site/assets/files/2261/media_and_information_literacy_in_journalism-_a_handbook_for_journalists_and_journalism_educators_2019.pdf)  
+   Link: <a href="https://unesco.org.uk/site/assets/files/2261/media_and_information_literacy_in_journalism-_a_handbook_for_journalists_and_journalism_educators_2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unesco.org.uk/site/assets/files/2261/media_and_information_literacy_in_journalism-_a_handbook_for_journalists_and_journalism_educators_2019.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MEDIA AND INFORMATION LITERACY IN JOURNALISMThis guide, although it touches upon misinformation and disinformation and disinformation, fo...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: undp.org  
-   Link: [https://www.undp.org/turkiye/press-releases/unesco-and-undp-support-radio-stations-cope-disinformation-about-coronavirus-epidemic](https://www.undp.org/turkiye/press-releases/unesco-and-undp-support-radio-stations-cope-disinformation-about-coronavirus-epidemic)  
+   Link: <a href="https://www.undp.org/turkiye/press-releases/unesco-and-undp-support-radio-stations-cope-disinformation-about-coronavirus-epidemic" target="_blank" rel="noopener noreferrer nofollow">https://www.undp.org/turkiye/press-releases/unesco-and-undp-support-radio-stations-cope-disinformation-about-coronavirus-epidemic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Before sharing or reacting to such content, try to think of where...Read more...</p></details>
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/392172950_Limited_effectiveness_of_psychological_inoculation_against_misinformation_in_a_social_media_feed](https://www.researchgate.net/publication/392172950_Limited_effectiveness_of_psychological_inoculation_against_misinformation_in_a_social_media_feed)  
+   Link: <a href="https://www.researchgate.net/publication/392172950_Limited_effectiveness_of_psychological_inoculation_against_misinformation_in_a_social_media_feed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392172950_Limited_effectiveness_of_psychological_inoculation_against_misinformation_in_a_social_media_feed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Limited effectiveness of psychological inoculation against...28 Mar 2026 — The goal of inoculation is to teach people to recognize manip...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: stratcomcoe.org  
-   Link: [https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf](https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf)  
+   Link: <a href="https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>INOCULATION THEORY AND MISINFORMATIONTo do so, we first discuss how to define “misinformation”, and how it relates to various other commo...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt](https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt)  
+   Link: <a href="https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing #prebunking in UK schools to combat misinformationWe are testing #prebunking and psychological #inoculation against misinformatio...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: [https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/](https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation techniques in social media feedsby S van der Linden · 2026 — A vast amount of research has emerged exploring the efficacy...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/kdv-management-advising_disinformation-digitalliteracy-ai-activity-7446004585690845185-ejuR](https://www.linkedin.com/posts/kdv-management-advising_disinformation-digitalliteracy-ai-activity-7446004585690845185-ejuR)  
+   Link: <a href="https://www.linkedin.com/posts/kdv-management-advising_disinformation-digitalliteracy-ai-activity-7446004585690845185-ejuR" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/kdv-management-advising_disinformation-digitalliteracy-ai-activity-7446004585690845185-ejuR</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news doesn&#x27;t look fake. It looks real. It feels real. That&#x27;s why it works. In a...Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Psychological Inoculation Against Misinformation  
-   Link: [https://www.youtube.com/watch?v=jbgK8Ei-Rp0](https://www.youtube.com/watch?v=jbgK8Ei-Rp0)  
+   Link: <a href="https://www.youtube.com/watch?v=jbgK8Ei-Rp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jbgK8Ei-Rp0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain how prebunking and inoculation theory work to help individuals recognize manipulative tactics, such as emotional lan...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: royalsocietypublishing.org  
    Title: Technique based inoculation against real world  
-   Link: [https://royalsocietypublishing.org/rsos/article/9/5/211719/96738/Technique-based-inoculation-against-real-world](https://royalsocietypublishing.org/rsos/article/9/5/211719/96738/Technique-based-inoculation-against-real-world)  
+   Link: <a href="https://royalsocietypublishing.org/rsos/article/9/5/211719/96738/Technique-based-inoculation-against-real-world" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/9/5/211719/96738/Technique-based-inoculation-against-real-world</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Technique-based inoculation against real-world misinformationby J Roozenbeek · 2022 · Cited by 124 — We find that playing a 15 min game c...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36001675/](https://pubmed.ncbi.nlm.nih.gov/36001675/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36001675/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36001675/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We developed five short videos that inoculate people a...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: medium.com  
-   Link: [https://medium.com/realkm-magazine/new-unesco-handbook-addresses-fake-news-and-disinformation-in-journalism-44275c0aba97](https://medium.com/realkm-magazine/new-unesco-handbook-addresses-fake-news-and-disinformation-in-journalism-44275c0aba97)  
+   Link: <a href="https://medium.com/realkm-magazine/new-unesco-handbook-addresses-fake-news-and-disinformation-in-journalism-44275c0aba97" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/realkm-magazine/new-unesco-handbook-addresses-fake-news-and-disinformation-in-journalism-44275c0aba97</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lism Education and Training tackles the issue head-on by...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: prebunking.withgoogle.com  
-   Link: [https://prebunking.withgoogle.com/resources/](https://prebunking.withgoogle.com/resources/)  
+   Link: <a href="https://prebunking.withgoogle.com/resources/" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/resources/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Resources &amp; Case StudiesThe campaign aimed to limit the effectiveness of three misinformation tactics – emotional manipulation, decontext...</p></details>

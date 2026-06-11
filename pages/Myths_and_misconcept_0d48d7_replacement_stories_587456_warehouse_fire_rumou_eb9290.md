@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda
 - Myths_and_misconcept_0d48d7_replacement_stories_587456_vote_count_process_c_94d5f9
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - rumour-gaps
 - fire-scenario
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - rumour-gaps
 - fire-scenario
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: The warehouse fire scenario shows how people can remember a correction but still rely on a disproved cause when explaining events.
 hero_summary: The warehouse fire scenario shows how people can remember a correction but still rely on a disproved cause when explaining events.
 layout: default
 permalink: /fire-scenario/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /rumour-gaps/
 nav_short_title: Fire Scenario
 title: The Fire Rumour That Still Explains Too Much
-title_full: The Fire Rumour That Still Explains Too Much | Rumour Gaps
+title_full: The Fire Rumour That Still Explains Too Much
 display_title_short: Fire Scenario
 display_title: Fire Scenario
 heading_title: The Fire Rumour That Still Explains Too Much
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Debunks Need a Better Story | Mythcraft
+parent_title: Why Debunks Need a Better Story
 parent_permalink: /rumour-gaps/
 parent_nav_short_title: Rumour Gaps
 parent_heading_title: Why Debunks Need a Better Story
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Slow Counting Needs a Better Story
 up_link:
   basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
@@ -265,7 +265,7 @@ next_link:
   permalink: /outbreak-origins/
   short_title: Outbreak Origins
   heading_title: Why Outbreak Rumours Need Origin Stories
-date: '2026-06-09 04:56:54 '
+date: '2026-06-11 22:17:42 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290-Illustration-1.webp
@@ -274,11 +274,10 @@ image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_war
 
 ## Introduction
 
-One of the most influential demonstrations in misinformation research involves a fictional warehouse fire. The scenario became famous not because of the fire itself, but because it revealed a surprising pattern: people could remember that a rumour had been corrected and still continue to use that rumour when explaining what happened. The experiment provided some of the clearest evidence for the “[continued influence]({{ 'old-stories/' | relative_url }}) effect”—the tendency for discredited information to keep shaping reasoning after retraction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span>
-
+One of the most influential demonstrations in misinformation research involves a fictional warehouse fire. The scenario became famous not because of the fire itself, but because it revealed a surprising pattern: people could remember that a rumour had been corrected and still continue to use that rumour when explaining what happened. The experiment provided some of the clearest evidence for the “continued influence effect”—the tendency for discredited information to keep shaping reasoning after retraction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290-Illustration-1-dark.svg" | relative_url }}" alt="Fire Scenario illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The warehouse-fire studies are especially important within research on [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) because they show that [corrections]({{ 'corrections/' | relative_url }}) do not fail simply because people forget them. In many cases, participants accurately recalled the correction. The problem was that the original rumour had supplied a causal story, and removing that story left an explanatory gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-title">The Debunking Handbook</span><span class="citation-popover-snippet">November 25, 2011 — by S Lewandowsky — In the warehouse fire experiment, when an alternative explanation involving lighter fluid and acce...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span>
+The warehouse-fire studies are especially important within research on myths and misconceptions because they show that [corrections]({{ 'corrections/' | relative_url }}) do not fail simply because people forget them. In many cases, participants accurately recalled the [correction]({{ 'correction/' | relative_url }}). The problem was that the original rumour had supplied a causal story, and removing that story left an explanatory gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-title">The Debunking Handbook</span><span class="citation-popover-snippet">November 25, 2011 — by S Lewandowsky — In the warehouse fire experiment, when an alternative explanation involving lighter fluid and acce...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span>
 
 ## Why the fire example became useful
 
@@ -286,16 +285,13 @@ The classic scenario, developed by researchers Hollyn Johnson and Colleen Seifer
 
 Later in the story, however, participants were told that the earlier information was wrong: the cupboard had not contained paint or gas cylinders after all. The critical question came afterwards. When asked to explain features of the fire—such as the explosions or thick smoke—many participants continued to refer to the supposedly retracted materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-title">The Debunking Handbook</span><span class="citation-popover-snippet">November 25, 2011 — by S Lewandowsky — In the warehouse fire experiment, when an alternative explanation involving lighter fluid and acce...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire · Cited by 139 — For example, if people are told that it was not...</span></span></span>
 
-Researchers valued the scenario because it isolated a common real-world problem. The misinformation was not emotionally charged, politically divisive or personally important. Yet it still persisted. That made the warehouse fire an unusually clean test of how corrections interact with human reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span>
+Researchers valued the scenario because it isolated a common real-world problem. The misinformation was not emotionally charged, politically divisive or personally important. Yet it still persisted. That made the warehouse fire an unusually clean test of how corrections interact with human reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span>
 
-A 2023 replication study again found support for the original finding, showing that participants exposed to corrected false information continued to draw misinformation-related inferences more often than control participants who had never encountered the false information in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pxHMGHUs3S4" title="Why Misinformation Sticks in Your Brain Even After It’s Debunked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pxHMGHUs3S4" target="_blank" rel="noopener noreferrer">Why Misinformation Sticks in Your Brain Even After It’s Debunked</a></p><p class="youtube-embed-meta">Channel: Rational Ruminations</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pxHMGHUs3S4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pxHMGHUs3S4">Open on YouTube</a></p></div></div></div>
+A 2023 replication study again found support for the original finding, showing that participants exposed to corrected false information continued to draw misinformation-related inferences more often than control participants who had never encountered the false information in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span>
 
 ## What people remember after correction
 
-A common misconception is that people rely on rumours because they forget the [correction]({{ 'correction/' | relative_url }}). The warehouse-fire research challenged that assumption.
+A common misconception is that people rely on rumours because they forget the correction. The warehouse-fire research challenged that assumption.
 
 Participants often demonstrated that they remembered the correction perfectly well. They could state that the paint and gas cylinders were not present and could acknowledge that the original report had been withdrawn. Nevertheless, when asked to reason about the fire, they still used the withdrawn information as part of their explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire · Cited by 139 — For example, if people are told that it was not...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[2ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-title">The Debunking Handbook</span><span class="citation-popover-snippet">November 25, 2011 — by S Lewandowsky — In the warehouse fire experiment, when an alternative explanation involving lighter fluid and acce...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span>
 
@@ -304,10 +300,9 @@ This distinction matters. The experiments suggest that misinformation can surviv
 * The original claim was false.
 * The original claim still helps explain the event.
 
-When the mind lacks a replacement explanation, the disproved rumour remains available as a causal link in the story. Researchers describe this as continued reliance on misinformation rather than simple [memory]({{ 'memory/' | relative_url }}) failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</span></span></span>
+When the mind lacks a replacement explanation, the disproved rumour remains available as a causal link in the story. Researchers describe this as continued reliance on misinformation rather than simple [memory]({{ 'memory/' | relative_url }}) failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</span></span></span>
 
 Subsequent studies have repeatedly found similar patterns. Even explicit warnings that information may be misleading reduce reliance on misinformation only partially. People can recognise a correction and still draw inferences based on the earlier claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire · Cited by 139 — For example, if people are told that it was not...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290-Illustration-2-dark.svg" | relative_url }}" alt="Fire Scenario illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why a bare retraction struggles
@@ -315,7 +310,6 @@ Subsequent studies have repeatedly found similar patterns. Even explicit warning
 The warehouse-fire case became a textbook example because the correction removed an explanation without replacing it.
 
 The initial report linked several observations together:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -327,11 +321,9 @@ The initial report linked several observations together:
 
 Once the materials were removed from the story, the observations still needed explaining. The correction answered the question “What was not there?” but did not answer “What caused the fire?” or “Why was there so much smoke?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-title">The Debunking Handbook</span><span class="citation-popover-snippet">November 25, 2011 — by S Lewandowsky — In the warehouse fire experiment, when an alternative explanation involving lighter fluid and acce...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span>
 
-Research on [mental models]({{ 'mental-models/' | relative_url }}) argues that people prefer a coherent account of events, even an imperfect one, over a fragmented account with missing causal links. The warehouse-fire rumour provided coherence, which helps explain its persistence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">PMCby IP Kan · 2021 · Cited by 27 — For example, Johnson and Seifert (1994) reported that individuals who received both a correction stat...</span></span></span>
+Research on [mental models]({{ 'mental-models/' | relative_url }}) argues that people prefer a coherent account of events, even an imperfect one, over a fragmented account with missing causal links. The warehouse-fire rumour provided coherence, which helps explain its persistence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — For example, Johnson and Seifert (1994) reported that individuals who received both a correction stat...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LkCxRCpkyBs" title="Continued Influence Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LkCxRCpkyBs" target="_blank" rel="noopener noreferrer">Continued Influence Effect</a></p><p class="youtube-embed-meta">Channel: Bo Bennett</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LkCxRCpkyBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LkCxRCpkyBs">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290-Illustration-3-dark.svg" | relative_url }}" alt="Fire Scenario illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the scenario reveals about replacement explanations
 
 The most important finding from later versions of the warehouse-fire experiments was that corrections become more effective when they provide an alternative explanation.
@@ -342,17 +334,11 @@ The result supports a central idea in misinformation research: successful correc
 
 Later work explored whether explaining where misinformation came from might help even further. Researchers tested corrections that attributed the false warehouse-fire reports to mistakes or deliberate deception. The results were mixed. Explaining the origin of the misinformation did not consistently outperform a straightforward correction, suggesting that what matters most is often not why the rumour appeared but whether people receive a convincing replacement explanation for the event itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/id/eprint/28822/1/ConnorDesai%26Reimers2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[City Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-snippet">City Research OnlineDoes explaining the origins of misinformation improve the...September 14, 2022 — by S Connor Desai · 2023 · Cited by...</span><span class="citation-popover-meta">Published: September 14, 2022</span></span></span>
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290-Illustration-3-dark.svg" | relative_url }}" alt="Fire Scenario illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the fire scenario still matters
 
 The warehouse-fire story remains one of the most cited demonstrations of how myths and misconceptions endure. Its lasting value lies in showing that correction is not merely a memory problem. People can know a rumour is false and still use it as part of their reasoning because it continues to supply an explanation. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire · Cited by 139 — For example, if people are told that it was not...</span></span></span>
 
 For researchers, the fire scenario provides a controlled way to study how misinformation survives. For communicators, journalists and fact-checkers, it highlights a practical lesson: when a correction removes a false cause, it is often more effective to offer a plausible replacement than to stop at a denial. The warehouse-fire experiments demonstrated that the battle against misconceptions is frequently a battle between competing explanations rather than a simple contest between truth and falsehood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-title">The Debunking Handbook</span><span class="citation-popover-snippet">November 25, 2011 — by S Lewandowsky — In the warehouse fire experiment, when an alternative explanation involving lighter fluid and acce...</span><span class="citation-popover-meta">Published: November 25, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire · Cited by 139 — For example, if people are told that it was not...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LHwdHkrxo5g" title="Dr. Briony Swire: Remembering fact from fiction: Familiarity and the Continued Influence Effect o..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LHwdHkrxo5g" target="_blank" rel="noopener noreferrer">Dr. Briony Swire: Remembering fact from fiction: Familiarity and the Continued Influence Effect o...</a></p><p class="youtube-embed-meta">Channel: Artz Cognitive Neuroscience Research Center</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LHwdHkrxo5g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LHwdHkrxo5g">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -750,63 +736,63 @@ For researchers, the fire scenario provides a controlled way to study how misinf
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691823002706](https://www.sciencedirect.com/science/article/pii/S0001691823002706)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectA replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691823002706</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ltrr.arizona.edu  
    Title: The [Debunking](&#123;&#123; 'debunking/' | relative_url &#125;&#125;) Handbook  
-   Link: [https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf](https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf)  
+   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 25, 2011 — by S Lewandowsky — In the warehouse fire experiment, when an alternative explanation involving lighter fluid and acce...</p></details>
    Published: November 25, 2011  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729](https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The rational continued influence of misinformationby SAC Desai · 2020 · Cited by 71 — Studies on the &#x27;Continued Influence Effect&#x27; (CIE) s...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExploring factors that mitigate the continued influence  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby IP Kan · 2021 · Cited by 27 — For example, Johnson and Seifert (1994) reported that individuals who received both a correction stat...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — For example, Johnson and Seifert (1994) reported that individuals who received both a correction stat...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDoes explaining the origins of misinformation improve  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9487849/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9487849/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby SC Desai · 2022 · Cited by 25 — Experiment 2 explored the effectiveness of corrections that explain the origins of the misinformati...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9487849/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9487849/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by SC Desai · 2022 · Cited by 25 — Experiment 2 explored the effectiveness of corrections that explain the origins of the misinformati...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: research-information.bris.ac.uk  
-   Link: [https://research-information.bris.ac.uk/files/298647515/NRPSYCHOL_21_046_Ecker_figure_proof_v3_correction_UE_1_.pdf](https://research-information.bris.ac.uk/files/298647515/NRPSYCHOL_21_046_Ecker_figure_proof_v3_correction_UE_1_.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/files/298647515/NRPSYCHOL_21_046_Ecker_figure_proof_v3_correction_UE_1_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298647515/NRPSYCHOL_21_046_Ecker_figure_proof_v3_correction_UE_1_.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>bris.ac.ukEcker, UKH, Lewandowsky, S., Cook, J., Schmid, P., Fazio...by UKH Ecker · 2022 · Cited by 1911 — Investigators have inspected...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: emc-lab.org  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: emc-lab.org  
    Title: This occurs  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabExplicit warnings reduce but do not eliminate the continued...August 27, 2017 — by UKH ECKER · 2010 · Cited...</p></details>
    Published: August 27, 2017  
 
 10. <a id="endnote-10"></a>
    Source: skepticalscience.com  
-   Link: [https://skepticalscience.com/print.php?n=1139](https://skepticalscience.com/print.php?n=1139)  
+   Link: <a href="https://skepticalscience.com/print.php?n=1139" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=1139</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceThe Debunking Handbook Part 5: Filling the gap with an...25 Nov 2011 — In the warehouse fire experiment, when an altern...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: openaccess.city.ac.uk  
-   Link: [https://openaccess.city.ac.uk/id/eprint/28822/1/ConnorDesai%26Reimers2022.pdf](https://openaccess.city.ac.uk/id/eprint/28822/1/ConnorDesai%26Reimers2022.pdf)  
+   Link: <a href="https://openaccess.city.ac.uk/id/eprint/28822/1/ConnorDesai%26Reimers2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/id/eprint/28822/1/ConnorDesai%26Reimers2022.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>City Research OnlineDoes explaining the origins of misinformation improve the...September 14, 2022 — by S Connor Desai · 2023 · Cited by...</p></details>
    Published: September 14, 2022  
 
@@ -814,52 +800,52 @@ For researchers, the fire scenario provides a controlled way to study how misinf
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/375867267_I_know_It%27s_false_but_I_keep_thinking_as_if_it_were_true_A_replication_study_of_Johnson_and_Seifert%27s_1994_continued_influence_effect](https://www.researchgate.net/publication/375867267_I_know_It%27s_false_but_I_keep_thinking_as_if_it_were_true_A_replication_study_of_Johnson_and_Seifert%27s_1994_continued_influence_effect)  
+   Link: <a href="https://www.researchgate.net/publication/375867267_I_know_It%27s_false_but_I_keep_thinking_as_if_it_were_true_A_replication_study_of_Johnson_and_Seifert%27s_1994_continued_influence_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375867267_I_know_It%27s_false_but_I_keep_thinking_as_if_it_were_true_A_replication_study_of_Johnson_and_Seifert%27s_1994_continued_influence_effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A replication study of Johnson and Seifert&#x27;s (1994)...26 Nov 2023 — Researchers Johnson and Seifert (1994, Experiment 1A) penned a semin...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Saoirse-Connor-Desai/publication/325106381_Some_misinformation_is_more_easily_countered_An_experiment_on_the_continued_influence_effect/links/5af70b254585157136ce117d/Some-misinformation-is-more-easily-countered-An-experiment-on-the-continued-influence-effect.pdf](https://www.researchgate.net/profile/Saoirse-Connor-Desai/publication/325106381_Some_misinformation_is_more_easily_countered_An_experiment_on_the_continued_influence_effect/links/5af70b254585157136ce117d/Some-misinformation-is-more-easily-countered-An-experiment-on-the-continued-influence-effect.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Saoirse-Connor-Desai/publication/325106381_Some_misinformation_is_more_easily_countered_An_experiment_on_the_continued_influence_effect/links/5af70b254585157136ce117d/Some-misinformation-is-more-easily-countered-An-experiment-on-the-continued-influence-effect.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Saoirse-Connor-Desai/publication/325106381_Some_misinformation_is_more_easily_countered_An_experiment_on_the_continued_influence_effect/links/5af70b254585157136ce117d/Some-misinformation-is-more-easily-countered-An-experiment-on-the-continued-influence-effect.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An experiment on the continued influence effectConversely, in the warehouse fire narrative implied misinformation was more resistant to c...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: everydayconcepts.io  
-   Link: [https://everydayconcepts.io/continued-influence-effect](https://everydayconcepts.io/continued-influence-effect)  
+   Link: <a href="https://everydayconcepts.io/continued-influence-effect" target="_blank" rel="noopener noreferrer nofollow">https://everydayconcepts.io/continued-influence-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Continued Influence EffectAmerican psychologists Hollyn Johnson and Colleen Seifert at the University of Michigan named and formalized th...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: climatechangecommunication.org  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking HandbookBackfire Effect: A [backfire](&amp;#123;&amp;#123; &#x27;backfire/&#x27; | relative_url &amp;#125;&amp;#125;) effect is where a correction inadvertently increases belief in, or reliance on, misinformat...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf](https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf)  
+   Link: <a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The continued influence of misinformation in memoryYet despite these factors, the misinformation continues to influence later judgments a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: escholarship.org  
    Title: An experiment on the continued influence effect  
-   Link: [https://escholarship.org/content/qt8sb9k1kb/qt8sb9k1kb_noSplash_086317268511e6a8f7bc117f0c34ba68.pdf?t=ssy869](https://escholarship.org/content/qt8sb9k1kb/qt8sb9k1kb_noSplash_086317268511e6a8f7bc117f0c34ba68.pdf?t=ssy869)  
+   Link: <a href="https://escholarship.org/content/qt8sb9k1kb/qt8sb9k1kb_noSplash_086317268511e6a8f7bc117f0c34ba68.pdf?t=ssy869" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt8sb9k1kb/qt8sb9k1kb_noSplash_086317268511e6a8f7bc117f0c34ba68.pdf?t=ssy869</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract. Information initially presented as a likely cause of an event but turns out to be incorrect can affect people&#x27;s reasoning...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: escholarship.org  
    Title: But where's the evidence?  
-   Link: [https://escholarship.org/content/qt90q1k1r7/qt90q1k1r7_noSplash_89e39d5052c4fb3421a8456938be2e80.pdf?t=sgijj7](https://escholarship.org/content/qt90q1k1r7/qt90q1k1r7_noSplash_89e39d5052c4fb3421a8456938be2e80.pdf?t=sgijj7)  
+   Link: <a href="https://escholarship.org/content/qt90q1k1r7/qt90q1k1r7_noSplash_89e39d5052c4fb3421a8456938be2e80.pdf?t=sgijj7" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt90q1k1r7/qt90q1k1r7_noSplash_89e39d5052c4fb3421a8456938be2e80.pdf?t=sgijj7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of explanatory...In the warehouse fire example, an individual might infer that a fire started by an electrical short circuit...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: classes.cs.uchicago.edu  
-   Link: [https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf](https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf)  
+   Link: <a href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explicit warnings reduce but do not eliminate the continued...by UKH ECKER · 2010 · Cited by 741 — Misinformation continues to affect be...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-021-00335-9](https://link.springer.com/article/10.1186/s41235-021-00335-9)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: scholarworks.boisestate.edu  
-   Link: [https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1058&context=marketing_facpubs](https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1058&context=marketing_facpubs)  
+   Link: <a href="https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1058&amp;context=marketing_facpubs" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1058&amp;context=marketing_facpubs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Stories in Memory Perpetuate the Continued Influence of...by A Hamby · 2020 · Cited by 65 — In Johnson and Seifert&#x27;s (1994) work, pa...</p></details>

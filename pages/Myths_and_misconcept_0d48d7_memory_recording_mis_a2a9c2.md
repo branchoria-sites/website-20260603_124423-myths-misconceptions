@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - memory
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - memory
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Memory is reconstructive, so confident recall is not the same as a perfect recording of events.
 hero_summary: Memory is reconstructive, so confident recall is not the same as a perfect recording of events.
 layout: default
 permalink: /memory/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Memory
 title: Why Memory Is Not a Video Recording
-title_full: Why Memory Is Not a Video Recording | Mythcraft
+title_full: Why Memory Is Not a Video Recording
 display_title_short: Memory
 display_title: Memory
 heading_title: Why Memory Is Not a Video Recording
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 next_link:
   basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
-date: '2026-06-09 04:13:50 '
+date: '2026-06-11 21:56:19 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-overview.webp
@@ -503,20 +503,18 @@ image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-ov
 
 Many people think memory works like a video recording: experiences are stored, preserved and later replayed when needed. That idea feels intuitive because some memories seem vivid, detailed and emotionally powerful. Yet decades of cognitive psychology research show that memory is not a literal recording system. It is reconstructive. Each act of remembering involves rebuilding an event from stored fragments, expectations, later information and current interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Bartlett&#x27;s theory of reconstructive memory is crucial to an understanding of the reliability of eyewitness testimony...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Bartlett&#x27;s theory of reconstructive memory is crucial to an understanding of the reliability of eyewitness testimony...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-overview.webp" | relative_url }}" alt="Overview image for Memory" loading="eager" decoding="sync" fetchpriority="high">
-This misconception matters most when memory is treated as evidence. Courts, juries, police investigators and ordinary people often assume that a confident witness is recalling events exactly as they happened. In reality, [confidence]({{ 'confidence/' | relative_url }}) and accuracy are related in more complicated ways. A person can express great certainty while recalling details incorrectly, and memories can change over time without the witness realising that anything has changed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAn Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</span></span></span>
+This misconception matters most when memory is treated as evidence. Courts, juries, police investigators and ordinary people often assume that a confident witness is recalling events exactly as they happened. In reality, [confidence]({{ 'confidence/' | relative_url }}) and accuracy are related in more complicated ways. A person can express great certainty while recalling details incorrectly, and memories can change over time without the witness realising that anything has changed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</span></span></span>
 
 ## The recording metaphor
 
 The idea of memory as a recording device has deep cultural roots. People commonly describe memories as being “stored”, “replayed” or “retrieved” as though they were files sitting unchanged in a mental archive. Cognitive research paints a different picture.
 
-When an event occurs, the brain does not preserve a perfect copy of everything that happened. Attention is limited. People notice some details and miss others. Stress, distraction, lighting conditions, distance and prior expectations all influence what becomes encoded in memory in the first place. Later recall involves reconstructing the event from what was originally encoded, together with information acquired afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.bccampus.ca">[BCcampus Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.bccampus.ca</span><span class="citation-popover-snippet">BCcampus PressbooksCHAPTER 8: EYEWITNESS TESTIMONY: MEMORY AND...In this chapter, we discuss two related aspects of eyewitness testimony...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAn Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span>
+When an event occurs, the brain does not preserve a perfect copy of everything that happened. Attention is limited. People notice some details and miss others. Stress, distraction, lighting conditions, distance and prior expectations all influence what becomes encoded in memory in the first place. Later recall involves reconstructing the event from what was originally encoded, together with information acquired afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.bccampus.ca">[BCcampus Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.bccampus.ca</span><span class="citation-popover-snippet">BCcampus PressbooksCHAPTER 8: EYEWITNESS TESTIMONY: MEMORY AND...In this chapter, we discuss two related aspects of eyewitness testimony...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span>
 
 The psychologist Frederic Bartlett demonstrated this reconstructive process as early as the 1930s. Participants recalling stories often reshaped them into forms that better matched their existing knowledge and expectations. Modern research on eyewitness testimony has repeatedly shown similar effects. Witnesses do not simply replay experiences. They actively reconstruct them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Bartlett&#x27;s theory of reconstructive memory is crucial to an understanding of the reliability of eyewitness testimony...</span></span></span>
 
 This does not mean memory is useless or completely unreliable. Most everyday memories are broadly accurate enough for ordinary life. The misconception lies in treating memory as a flawless recording rather than a reconstruction that can contain omissions, distortions and later additions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">Misinformation Effect - an overviewIn a typical misinformation effect study, participants witness an event, usually visually via slides (...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-1-dark.svg" | relative_url }}" alt="Memory illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### How later information becomes part of a memory
@@ -525,10 +523,9 @@ One reason the recording metaphor fails is that memory remains open to influence
 
 Research by Elizabeth Loftus and colleagues showed that subtle changes in questioning can alter what people later remember. In the famous car-crash experiments, participants who were asked how fast cars were going when they “smashed” into each other tended to report higher speeds and were more likely to remember broken glass that never existed compared with participants who heard less dramatic wording. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Bartlett&#x27;s theory of reconstructive memory is crucial to an understanding of the reliability of eyewitness testimony...</span></span></span>
 
-This phenomenon became known as the misinformation effect. Information encountered after an event can become incorporated into a person's recollection, making the altered memory feel as real as the original experience. The result is not necessarily deliberate lying. Witnesses often believe sincerely that they are reporting exactly what they saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAn Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">Misinformation Effect - an overviewIn a typical misinformation effect study, participants witness an event, usually visually via slides (...</span></span></span>
+This phenomenon became known as the misinformation effect. Information encountered after an event can become incorporated into a person's recollection, making the altered memory feel as real as the original experience. The result is not necessarily deliberate lying. Witnesses often believe sincerely that they are reporting exactly what they saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">Misinformation Effect - an overviewIn a typical misinformation effect study, participants witness an event, usually visually via slides (...</span></span></span>
 
 The key lesson is that memory errors often arise from normal cognitive processes rather than dishonesty or incompetence.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PB2OegI6wvI" title="How reliable is your memory? | Elizabeth Loftus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer">How reliable is your memory? | Elizabeth Loftus</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 2.7M &middot; Uploaded: September 2013 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PB2OegI6wvI">Open on YouTube</a></p></div></div></div>
 
@@ -536,22 +533,21 @@ The key lesson is that memory errors often arise from normal cognitive processes
 
 One of the most persistent misconceptions about eyewitness testimony is that confidence reliably signals accuracy. Jurors, investigators and the public frequently treat certainty as evidence that a memory must be correct.
 
-Research has repeatedly found that this assumption is too simple. Studies show that people often rely on witness confidence when judging credibility even though confidence measured much later, especially at trial, is not a dependable indicator of accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAn Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</span></span></span>
+Research has repeatedly found that this assumption is too simple. Studies show that people often rely on witness confidence when judging credibility even though confidence measured much later, especially at trial, is not a dependable indicator of accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</span></span></span>
 
 A witness may become more confident for reasons unrelated to the original memory:
 
-* [Repeated retelling]({{ 'retelling/' | relative_url }}) can make a story feel more familiar and coherent.
+* Repeated [retelling]({{ 'retelling/' | relative_url }}) can make a story feel more familiar and coherent.
 * Feedback from investigators or other witnesses can reinforce certainty.
 * Exposure to [media coverage]({{ 'media-coverage/' | relative_url }}), photographs or discussions can strengthen belief in a memory.
-* Confidence may grow as details are reconstructed into a more complete narrative. Noba DigitalCommons Because people often experience confidence as a feeling of truth <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 809 — The US legal system increasingly accepts...</span></span></span>, these changes can be difficult to detect. The witness may honestly report increased certainty while remaining unaware that the memory itself has evolved.
-
+* Confidence may grow as details are reconstructed into a more complete narrative. Noba DigitalCommons Because people often experience confidence as a feeling of truth <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 809 — The US legal system increasingly accepts...</span></span></span>, these changes can be difficult to detect. The witness may honestly report increased certainty while remaining unaware that the memory itself has evolved.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-2-dark.svg" | relative_url }}" alt="Memory illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The important qualification
 
-Modern eyewitness research has added an important nuance. Some earlier discussions suggested that confidence tells us almost nothing about accuracy. More recent work argues that under carefully controlled conditions, a witness's confidence at the moment of an initial identification can sometimes provide useful information about accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 809 — The US legal system increasingly accepts...</span></span></span>
+Modern eyewitness research has added an important nuance. Some earlier discussions suggested that confidence tells us almost nothing about accuracy. More recent work argues that under carefully controlled conditions, a witness's confidence at the moment of an initial identification can sometimes provide useful information about accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 809 — The US legal system increasingly accepts...</span></span></span>
 
-Researchers such as John Wixted and Gary Wells have argued that high-confidence identifications made immediately under fair lineup procedures can be more reliable than many people assume. However, this finding comes with significant conditions. The identification must be collected early, before contamination, using proper procedures that avoid suggestion and bias. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 809 — The US legal system increasingly accepts...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/23727322241268384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEyewitness Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 13 — Scholars agree on a strong but imp...</span></span></span>
+Researchers such as John Wixted and Gary Wells have argued that high-confidence identifications made immediately under fair lineup procedures can be more reliable than many people assume. However, this finding comes with significant conditions. The identification must be collected early, before contamination, using proper procedures that avoid suggestion and bias. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 809 — The US legal system increasingly accepts...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/23727322241268384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEyewitness Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 13 — Scholars agree on a strong but imp...</span></span></span>
 
 This does not restore the recording metaphor. Instead, it highlights a more precise point: confidence can sometimes be informative when measured at the right time and under the right circumstances, but confidence expressed after repeated questioning, discussion or courtroom preparation may tell a very different story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/23727322241268384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEyewitness Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 13 — Scholars agree on a strong but imp...</span></span></span>
 
@@ -561,8 +557,7 @@ The common image of memory assumes that a stored experience remains unchanged un
 
 Remembering is not merely accessing a memory. Each act of recall can alter the memory itself. When people revisit an event, they may strengthen certain details, forget others or integrate new information. Over time, the remembered version can drift away from the original experience while still feeling authentic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.bccampus.ca">[BCcampus Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.bccampus.ca</span><span class="citation-popover-snippet">BCcampus PressbooksCHAPTER 8: EYEWITNESS TESTIMONY: MEMORY AND...In this chapter, we discuss two related aspects of eyewitness testimony...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness testimony</span><span class="citation-popover-snippet">Eyewitness testimony</span></span></span>
 
-This process helps explain why eyewitness accounts sometimes change across interviews. Changes do not automatically mean a witness is lying. Nor does consistency automatically prove accuracy. A witness can consistently repeat an inaccurate memory that has become firmly established through [repetition]({{ 'repetition/' | relative_url }}) and reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAn Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span>
-
+This process helps explain why eyewitness accounts sometimes change across interviews. Changes do not automatically mean a witness is lying. Nor does consistency automatically prove accuracy. A witness can consistently repeat an inaccurate memory that has become firmly established through [repetition]({{ 'repetition/' | relative_url }}) and reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Yq6u_4xtVh0" title="Common Law S4 E8: The Psychology of Eyewitness Memory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer">Common Law S4 E8: The Psychology of Eyewitness Memory</a></p><p class="youtube-embed-meta">Channel: University of Virginia School of Law &middot; Views: 2.1K &middot; Uploaded: May 2022 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Yq6u_4xtVh0">Open on YouTube</a></p></div></div></div>
 
@@ -572,8 +567,7 @@ People often point to vivid memories of dramatic events as evidence that memory 
 
 Psychologists call these highly vivid recollections flashbulb memories. They often feel exceptionally clear and emotionally compelling. Yet research has found that such memories can contain substantial inaccuracies despite the person's strong confidence in them. Emotional intensity tends to increase the feeling of certainty more reliably than it increases factual accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">MemoryMemory is the faculty of the mind by which data or information is encoded, stored, and retrieved when needed.Read more...</span></span></span>
 
-The result is a powerful illusion. A memory can feel detailed, stable and unquestionably real while still containing distortions that accumulated over years of [retelling]({{ 'retelling/' | relative_url }}) and reconstruction.
-
+The result is a powerful illusion. A memory can feel detailed, stable and unquestionably real while still containing distortions that accumulated over years of retelling and reconstruction.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ChgPk2OiZCw" title="How Reliable is Eyewitness Testimony?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer">How Reliable is Eyewitness Testimony?</a></p><p class="youtube-embed-meta">Channel: National Science Foundation News &middot; Views: 173.1K &middot; Uploaded: July 2015 &middot; Length: 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ChgPk2OiZCw">Open on YouTube</a></p></div></div></div>
 
@@ -581,12 +575,11 @@ The result is a powerful illusion. A memory can feel detailed, stable and unques
 
 Even when people know memory is imperfect, they often continue to trust confident witnesses. Part of the reason is that confidence is easy to observe whereas accuracy usually is not.
 
-Jurors cannot travel back in time to verify what happened. They therefore rely on cues such as confidence, consistency, emotional expression and detail. Research suggests that many of these cues are weaker indicators of accuracy than people assume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAn Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span>
+Jurors cannot travel back in time to verify what happened. They therefore rely on cues such as confidence, consistency, emotional expression and detail. Research suggests that many of these cues are weaker indicators of accuracy than people assume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span>
 
 This creates a practical challenge for legal systems. A sincere witness may be entirely convinced of a memory that has been altered by suggestion, stress, repeated recall or post-event information. The confidence displayed in court can be genuine while the memory itself remains partly inaccurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/news/press/releases/2020/02/eyewitness-identification" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">eyewitness identification</span><span class="citation-popover-snippet">American Psychological AssociationImproving eyewitness identification key to protecting...Feb 10, 2020 — “Over the past few decades, ser...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dpa.ky.gov/kentucky-department-of-public-advocacy/about-dpa/kip/causes/misid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dpa.ky.gov">[Department of Public Advocacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dpa.ky.gov</span><span class="citation-popover-snippet">Department of Public AdvocacyEyewitness MisidentificationAn eyewitness&#x27; false identification of an innocent suspect as the perpetrator of...</span></span></span>
 
 Wrongful-conviction research has helped make this issue visible. Reviews of DNA exoneration cases have repeatedly identified eyewitness misidentification as a major contributing factor. These cases do not show that eyewitness memory is worthless. They show that confidence alone cannot be treated as proof that memory functions like a recording. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dpa.ky.gov/kentucky-department-of-public-advocacy/about-dpa/kip/causes/misid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dpa.ky.gov">[Department of Public Advocacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dpa.ky.gov</span><span class="citation-popover-snippet">Department of Public AdvocacyEyewitness MisidentificationAn eyewitness&#x27; false identification of an innocent suspect as the perpetrator of...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-3-dark.svg" | relative_url }}" alt="Memory illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A better way to think about memory
@@ -994,136 +987,136 @@ Understanding this distinction changes how eyewitness testimony should be interp
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Misinformation Effect  
-   Link: [https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect)  
+   Link: <a href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect - an overviewIn a typical misinformation effect study, participants witness an event, usually visually via slides (...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAn Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pressbooks.bccampus.ca  
-   Link: [https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/](https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/)  
+   Link: <a href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BCcampus PressbooksCHAPTER 8: EYEWITNESS TESTIMONY: MEMORY AND...In this chapter, we discuss two related aspects of eyewitness testimony...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661325000270](https://www.sciencedirect.com/science/article/pii/S1364661325000270)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661325000270" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661325000270</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many believe that eyewitness memory is...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Eyewitness testimony  
-   Link: [https://en.wikipedia.org/wiki/Eyewitness_testimony](https://en.wikipedia.org/wiki/Eyewitness_testimony)  
+   Link: <a href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_testimony</a>  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Misinformation Effect  
-   Link: [https://www.sciencedirect.com/topics/neuroscience/misinformation-effect](https://www.sciencedirect.com/topics/neuroscience/misinformation-effect)  
+   Link: <a href="https://www.sciencedirect.com/topics/neuroscience/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/neuroscience/misinformation-effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect - an overviewThe misinformation effect, discussed by Levine and Loftus in their article on eyewitness testimony, is...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pressbooks.bccampus.ca  
    Title: 10 6 when memory is wrong  
-   Link: [https://pressbooks.bccampus.ca/psychcapilano/chapter/10-6-when-memory-is-wrong/](https://pressbooks.bccampus.ca/psychcapilano/chapter/10-6-when-memory-is-wrong/)  
+   Link: <a href="https://pressbooks.bccampus.ca/psychcapilano/chapter/10-6-when-memory-is-wrong/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.bccampus.ca/psychcapilano/chapter/10-6-when-memory-is-wrong/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>People are more confident in the accuracy of their memories than they should be. Memory is reconstructive.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Memory](https://en.wikipedia.org/wiki/Memory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Memory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MemoryMemory is the faculty of the mind by which data or information is encoded, stored, and retrieved when needed.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Elizabeth F. Loftus  
-   Link: [http://www.youtube.com/watch?v=CSo_esEgIjc](http://www.youtube.com/watch?v=CSo_esEgIjc)  
+   Link: <a href="http://www.youtube.com/watch?v=CSo_esEgIjc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=CSo_esEgIjc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth Loftus - Eyewitness Testimony...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Elizabeth Loftus  
-   Link: [http://www.youtube.com/watch?v=syo1tOH0rfw](http://www.youtube.com/watch?v=syo1tOH0rfw)  
+   Link: <a href="http://www.youtube.com/watch?v=syo1tOH0rfw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=syo1tOH0rfw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eyewitness memory false memory reconstruction False Memories and the Misinformation Effect Bite-Sized Psychology...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: simplypsychology.org  
-   Link: [https://www.simplypsychology.org/eyewitness-testimony.html](https://www.simplypsychology.org/eyewitness-testimony.html)  
+   Link: <a href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/eyewitness-testimony.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bartlett&#x27;s theory of reconstructive memory is crucial to an understanding of the reliability of eyewitness testimony...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: simplypsychology.org  
    Title: loftus palmer  
-   Link: [https://www.simplypsychology.org/loftus-palmer.html](https://www.simplypsychology.org/loftus-palmer.html)  
+   Link: <a href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/loftus-palmer.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyLoftus and Palmer 1974 | Car Crash Experimentby S McLeod · Cited by 3 — Psychologist Elizabeth Loftus has been particula...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/18891/chapter/8](https://www.nationalacademies.org/read/18891/chapter/8)  
+   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/28395650/](https://pubmed.ncbi.nlm.nih.gov/28395650/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 809 — The US legal system increasingly accepts...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28395650/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 809 — The US legal system increasingly accepts...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/23727322241268384](https://journals.sagepub.com/doi/abs/10.1177/23727322241268384)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/23727322241268384" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/23727322241268384</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsEyewitness Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 13 — Scholars agree on a strong but imp...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: apa.org  
    Title: eyewitness identification  
-   Link: [https://www.apa.org/news/press/releases/2020/02/eyewitness-identification](https://www.apa.org/news/press/releases/2020/02/eyewitness-identification)  
+   Link: <a href="https://www.apa.org/news/press/releases/2020/02/eyewitness-identification" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/press/releases/2020/02/eyewitness-identification</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationImproving eyewitness identification key to protecting...Feb 10, 2020 — “Over the past few decades, ser...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dpa.ky.gov  
-   Link: [https://dpa.ky.gov/kentucky-department-of-public-advocacy/about-dpa/kip/causes/misid/](https://dpa.ky.gov/kentucky-department-of-public-advocacy/about-dpa/kip/causes/misid/)  
+   Link: <a href="https://dpa.ky.gov/kentucky-department-of-public-advocacy/about-dpa/kip/causes/misid/" target="_blank" rel="noopener noreferrer nofollow">https://dpa.ky.gov/kentucky-department-of-public-advocacy/about-dpa/kip/causes/misid/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Public AdvocacyEyewitness MisidentificationAn eyewitness&#x27; false identification of an innocent suspect as the perpetrator of...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/monitor/apr06/eyewitness](https://www.apa.org/monitor/apr06/eyewitness)  
+   Link: <a href="https://www.apa.org/monitor/apr06/eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/monitor/apr06/eyewitness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How reliable is eyewitness testimony?Apr 1, 2006 — The formula, Loftus says, allows expert witnesses-like himself-to use a specific mathe...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nij.ojp.gov  
    Title: eyewitness testimony  
-   Link: [https://nij.ojp.gov/taxonomy/term/eyewitness-testimony](https://nij.ojp.gov/taxonomy/term/eyewitness-testimony)  
+   Link: <a href="https://nij.ojp.gov/taxonomy/term/eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/taxonomy/term/eyewitness-testimony</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>testimony | National Institute of JusticePotential jurors evaluate eyewitness confidence and decision time statements across identificati...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nij.ojp.gov  
    Title: eyewitness memory  
-   Link: [https://nij.ojp.gov/taxonomy/term/eyewitness-memory](https://nij.ojp.gov/taxonomy/term/eyewitness-memory)  
+   Link: <a href="https://nij.ojp.gov/taxonomy/term/eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/taxonomy/term/eyewitness-memory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory | National Institute of JusticePsychological Counseling and Accuracy of Memory for Child Sexual Abuse... Confidence, Latency, and...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/projects/PGA-STL-13-02](https://www.nationalacademies.org/projects/PGA-STL-13-02)  
+   Link: <a href="https://www.nationalacademies.org/projects/PGA-STL-13-02" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/PGA-STL-13-02</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ty of Eyewitness Identification in Law Enforcement and the Courts...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/18891/chapter/3](https://www.nationalacademies.org/read/18891/chapter/3)  
+   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/3" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing Eyewitness Identification (2014)The accuracy and reliability of eyewitness identification are critically modulated by variables...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: support.gorilla.sc  
    Title: sc The Misinformation Effect  
-   Link: [https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect](https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect)  
+   Link: <a href="https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect - Gorilla Support DocumentationMisinformation refers to the fact that language in post-event questions can influenc...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/48568428](https://www.jstor.org/stable/48568428)  
+   Link: <a href="https://www.jstor.org/stable/48568428" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/48568428</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking the Reliability of Eyewitness Memoryby JT Wixted · 2018 · Cited by 235 — Eyewitnesses typically provide reliable evidence on a...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect](https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect)  
+   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
 
 ### Additional References
@@ -1131,51 +1124,51 @@ Understanding this distinction changes how eyewitness testimony should be interp
 26. <a id="endnote-26"></a>
    Source: nij.ojp.gov  
    Title: effect viewing distance empirical discriminability and confidence accuracy 0  
-   Link: [https://nij.ojp.gov/library/publications/effect-viewing-distance-empirical-discriminability-and-confidence-accuracy-0](https://nij.ojp.gov/library/publications/effect-viewing-distance-empirical-discriminability-and-confidence-accuracy-0)  
+   Link: <a href="https://nij.ojp.gov/library/publications/effect-viewing-distance-empirical-discriminability-and-confidence-accuracy-0" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/library/publications/effect-viewing-distance-empirical-discriminability-and-confidence-accuracy-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>effect of viewing distance on empirical discriminability and...1 Jan 2022 — The effect of viewing distance on empirical discriminability...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: judicature.duke.edu  
-   Link: [https://judicature.duke.edu/articles/distinguishing-between-reliable-and-unreliable-eyewitnesses/](https://judicature.duke.edu/articles/distinguishing-between-reliable-and-unreliable-eyewitnesses/)  
+   Link: <a href="https://judicature.duke.edu/articles/distinguishing-between-reliable-and-unreliable-eyewitnesses/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/distinguishing-between-reliable-and-unreliable-eyewitnesses/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Distinguishing Between Reliable and Unreliable EyewitnessesIncreasing research shows that eyewitness confidence at the time of the initia...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: nobaproject.com  
-   Link: [https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases](https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases)  
+   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NobaEyewitness Testimony and Memory BiasesTheir accuracy for items they had not previously discussed with their co-witness was 79%. But f...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PsychEducJournal/posts/elizabeth-loftus-is-an-american-psychologist-known-for-her-groundbreaking-resear/836336505557356/](https://www.facebook.com/PsychEducJournal/posts/elizabeth-loftus-is-an-american-psychologist-known-for-her-groundbreaking-resear/836336505557356/)  
+   Link: <a href="https://www.facebook.com/PsychEducJournal/posts/elizabeth-loftus-is-an-american-psychologist-known-for-her-groundbreaking-resear/836336505557356/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PsychEducJournal/posts/elizabeth-loftus-is-an-american-psychologist-known-for-her-groundbreaking-resear/836336505557356/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology and Education: A Multidisciplinary JournalEyewitness testimony – Elizabeth Loftus is one of the earliest psychology researcher...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: policinginstitute.org  
-   Link: [https://www.policinginstitute.org/onpolicing/eyewitness-identification-in-law-enforcement-bridging-the-gap-between-science-policy-and-practice/](https://www.policinginstitute.org/onpolicing/eyewitness-identification-in-law-enforcement-bridging-the-gap-between-science-policy-and-practice/)  
+   Link: <a href="https://www.policinginstitute.org/onpolicing/eyewitness-identification-in-law-enforcement-bridging-the-gap-between-science-policy-and-practice/" target="_blank" rel="noopener noreferrer nofollow">https://www.policinginstitute.org/onpolicing/eyewitness-identification-in-law-enforcement-bridging-the-gap-between-science-policy-and-practice/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Identification in Law Enforcement: Bridging the...18 Mar 2026 — New findings from the Eyewitness Identification Research Proj...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: criminallegalnews.org  
-   Link: [https://www.criminallegalnews.org/news/2025/oct/15/malleable-mind-courtroom-why-confident-eyewitnesses-often-provide-least-reliable-evidence/](https://www.criminallegalnews.org/news/2025/oct/15/malleable-mind-courtroom-why-confident-eyewitnesses-often-provide-least-reliable-evidence/)  
+   Link: <a href="https://www.criminallegalnews.org/news/2025/oct/15/malleable-mind-courtroom-why-confident-eyewitnesses-often-provide-least-reliable-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.criminallegalnews.org/news/2025/oct/15/malleable-mind-courtroom-why-confident-eyewitnesses-often-provide-least-reliable-evidence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Confident Eyewitnesses Often Provide the Least...15 Oct 2025 — Meanwhile, judges admit eyewitness testimony under standards that ass...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: ojp.gov  
    Title: how potential jurors evaluate eyewitness confidence and decision time  
-   Link: [https://www.ojp.gov/library/publications/how-potential-jurors-evaluate-eyewitness-confidence-and-decision-time](https://www.ojp.gov/library/publications/how-potential-jurors-evaluate-eyewitness-confidence-and-decision-time)  
+   Link: <a href="https://www.ojp.gov/library/publications/how-potential-jurors-evaluate-eyewitness-confidence-and-decision-time" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/library/publications/how-potential-jurors-evaluate-eyewitness-confidence-and-decision-time</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Justice ProgramsHow potential jurors evaluate eyewitness confidence and...by CA Carlson · 2022 · Cited by 14 — How potential j...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: psych.utah.edu  
-   Link: [https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf](https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf)  
+   Link: <a href="https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 11 — Generally, laboratory studies find adult eyewitnesses have...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wPvGadHulSE](https://www.youtube.com/watch?v=wPvGadHulSE)  
+   Link: <a href="https://www.youtube.com/watch?v=wPvGadHulSE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wPvGadHulSE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;This Is Psychology&quot; Episode 5: Eyewitness testimonyIn this episode, Dr. Anderson discusses research that has identified a number of reas...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Yq6u_4xtVh0](https://www.youtube.com/watch?v=Yq6u_4xtVh0)  
+   Link: <a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yq6u_4xtVh0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Law S4 E8: The Psychology of Eyewitness MemoryEyewitness testimony is you experience something or you see something and that&#x27;s how...</p></details>

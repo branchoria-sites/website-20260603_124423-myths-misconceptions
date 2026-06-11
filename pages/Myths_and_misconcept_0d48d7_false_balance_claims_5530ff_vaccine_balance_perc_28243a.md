@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_equal_airtime_false_fcb63f
 - Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_weight_of_evidence_r_6981ad
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - false-balance
 - vaccine-coverage
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - false-balance
 - vaccine-coverage
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Experiments found that balanced vaccine coverage could make readers think experts were more divided than they were.
 hero_summary: Experiments found that balanced vaccine coverage could make readers think experts were more divided than they were.
 layout: default
 permalink: /vaccine-coverage/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /false-balance/
 nav_short_title: Vaccine Coverage
 title: Can Balanced Reporting Make Vaccine Myths Stronger?
-title_full: Can Balanced Reporting Make Vaccine Myths Stronger? | False Balance
+title_full: Can Balanced Reporting Make Vaccine Myths Stronger?
 display_title_short: Vaccine Coverage
 display_title: Vaccine Coverage
 heading_title: Can Balanced Reporting Make Vaccine Myths Stronger?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Both Sides Framing Misleads Readers | Mythcraft
+parent_title: When Both Sides Framing Misleads Readers
 parent_permalink: /false-balance/
 parent_nav_short_title: False Balance
 parent_heading_title: When Both Sides Framing Misleads Readers
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: What Does Fair Reporting Look Like Instead?
 up_link:
   basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
@@ -259,7 +259,7 @@ prev_link:
   permalink: /evidence-weighting/
   short_title: Evidence Weighting
   heading_title: What Does Fair Reporting Look Like Instead?
-date: '2026-06-09 05:16:37 '
+date: '2026-06-11 22:27:25 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_vaccine_balance_perc_28243a-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_vaccine_balance_perc_28243a-Illustration-1.webp
@@ -270,16 +270,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_va
 
 Balanced reporting is often treated as a hallmark of good journalism, but vaccine coverage revealed a problem with applying that norm to scientific questions where the evidence is overwhelmingly one-sided. During the autism-vaccine controversy, many news stories gave similar space to supporters and critics of a claimed vaccine-autism link, even as the scientific evidence increasingly rejected that claim. Research found that this style of coverage could unintentionally increase perceived risk by making readers think experts were deeply divided when they were not. In other words, the format of the story—not just the facts it contained—shaped how people judged vaccine safety. Studies of both [media coverage]({{ 'media-coverage/' | relative_url }}) and audience reactions show that false balance can make settled science appear uncertain, creating confusion about risks and reducing [confidence]({{ 'confidence/' | relative_url }}) in vaccination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1075547012458290" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">To investigate how balanced presentations of the autism-vaccine controversy influence judgments of vaccine risk, we randomly assigned 327...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/her/article/28/2/352/595490" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicThe effect of falsely balanced reporting of the autism–vaccine...by G Dixon · 2013 · Cited by 153 — Results suggest that bal...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_vaccine_balance_perc_28243a-Illustration-1-dark.svg" | relative_url }}" alt="Vaccine Coverage illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_vaccine_balance_perc_28243a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_vaccine_balance_perc_28243a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Autism-Vaccine Media Controversy
 
 The most influential example emerged from the controversy surrounding the measles, mumps and rubella (MMR) vaccine and autism. After a small 1998 study led by Andrew Wakefield suggested a possible link, extensive research failed to confirm the claim, and the paper was eventually retracted. Large bodies of evidence found no causal connection between [vaccines]({{ 'vaccines/' | relative_url }}) and autism. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">The Global Advisory Committee on Vaccine Safety (GACVS)...Read more...</span></span></span>
 
-Yet media coverage often presented the issue as a continuing debate. News reports frequently paired vaccine advocates with vaccine critics, giving audiences the impression that two roughly equal scientific camps existed. Analyses of coverage in the United Kingdom and United States concluded that reporting practices sometimes created a picture of scientific disagreement that did not match the underlying evidence. Rather than [communicating]({{ 'communicating/' | relative_url }}) the weight of research, stories often communicated the existence of [conflict]({{ 'conflict/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/figures/43983828/figure-6-coverage-of-autism-claims-samples-by-year-uk-sample" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Figure 6</span><span class="citation-popover-snippet">AcademiaFigure 6 - from A Question of Balance The Autism-VaccineUsing British and American newspaper coverage of the autism-vaccine contr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/figures/43983824/figure-4-presentation-of-autism-vaccine-studies-and-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Figure 4</span><span class="citation-popover-snippet">from A Question of Balance The Autism-VaccineUsing British and American newspaper coverage of the autism-vaccine controversy as a case st...</span></span></span>
+Yet media coverage often presented the issue as a continuing debate. News reports frequently paired vaccine advocates with vaccine critics, giving audiences the impression that two roughly equal scientific camps existed. Analyses of coverage in the United Kingdom and United States concluded that reporting practices sometimes created a picture of scientific disagreement that did not match the underlying evidence. Rather than [communicating]({{ 'communicating/' | relative_url }}) the weight of research, stories often communicated the existence of [conflict]({{ 'conflict/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/figures/43983828/figure-6-coverage-of-autism-claims-samples-by-year-uk-sample" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Figure 6</span><span class="citation-popover-snippet">Figure 6 - from A Question of Balance The Autism-VaccineUsing British and American newspaper coverage of the autism-vaccine contr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/figures/43983824/figure-4-presentation-of-autism-vaccine-studies-and-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Figure 4</span><span class="citation-popover-snippet">from A Question of Balance The Autism-VaccineUsing British and American newspaper coverage of the autism-vaccine controversy as a case st...</span></span></span>
 
-This distinction mattered because readers rarely examine the scientific literature directly. For many people, news reports serve as a shortcut for judging what experts believe. When coverage repeatedly frames a topic as a dispute, audiences can infer that scientists themselves remain uncertain, even when a broad consensus exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1150987/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCMedia misled the public over the MMR vaccine, study saysby R Dobson · 2003 · Cited by 41 — Most people wrongly believed that doctors a...</span></span></span>
-
+This distinction mattered because readers rarely examine the scientific literature directly. For many people, news reports serve as a shortcut for judging what experts believe. When coverage repeatedly frames a topic as a dispute, audiences can infer that scientists themselves remain uncertain, even when a broad consensus exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1150987/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Media misled the public over the MMR vaccine, study saysby R Dobson · 2003 · Cited by 41 — Most people wrongly believed that doctors a...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8BIcAZxFfrc" title="Vaccines and Autism: A Measured Response" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8BIcAZxFfrc" target="_blank" rel="noopener noreferrer">Vaccines and Autism: A Measured Response</a></p><p class="youtube-embed-meta">Channel: hbomberguy &middot; Views: 12.4M &middot; Uploaded: May 2021 &middot; Length: 1 hour 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8BIcAZxFfrc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8BIcAZxFfrc">Open on YouTube</a></p></div></div></div>
 
@@ -287,12 +285,11 @@ This distinction mattered because readers rarely examine the scientific literatu
 
 Researchers moved beyond analysing news content and tested how readers reacted to different styles of reporting.
 
-One influential experiment by Gordon Dixon and Christopher Clarke randomly assigned participants to read news articles about the autism-vaccine issue. Some participants saw stories presenting both sides of the controversy as balanced alternatives, while others saw articles reflecting the scientific evidence that no link had been established. Readers exposed to the balanced stories became less certain that vaccines did not cause autism and were more likely to believe experts disagreed about vaccine safety. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1075547012458290" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">To investigate how balanced presentations of the autism-vaccine controversy influence judgments of vaccine risk, we randomly assigned 327...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23193194/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe effect of falsely balanced reporting of the autism...by G Dixon · 2013 · Cited by 153 — Results suggest that balancing conflic...</span></span></span>
+One influential experiment by Gordon Dixon and Christopher Clarke randomly assigned participants to read news articles about the autism-vaccine issue. Some participants saw stories presenting both sides of the controversy as balanced alternatives, while others saw articles reflecting the scientific evidence that no link had been established. Readers exposed to the balanced stories became less certain that vaccines did not cause autism and were more likely to believe experts disagreed about vaccine safety. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1075547012458290" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">To investigate how balanced presentations of the autism-vaccine controversy influence judgments of vaccine risk, we randomly assigned 327...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23193194/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effect of falsely balanced reporting of the autism...by G Dixon · 2013 · Cited by 153 — Results suggest that balancing conflic...</span></span></span>
 
 A related study found similar effects on behavioural intentions. Participants who read falsely balanced coverage were more likely to think scientists were uncertain and showed weaker intentions to vaccinate future children than those who read evidence-aligned reporting. The research suggested that the perception of expert disagreement acted as a key mechanism connecting media exposure to attitudes about vaccine risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/her/article/28/2/352/595490" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicThe effect of falsely balanced reporting of the autism–vaccine...by G Dixon · 2013 · Cited by 153 — Results suggest that bal...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/263817286_Including_Evidentiary_Balance_in_News_Media_Coverage_of_Vaccine_Risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">263817286 Including Evidentiary Balance in News Media Coverage of Vaccine Risk</span><span class="citation-popover-snippet">Including “Evidentiary Balance” in News Media Coverage...22 Jan 2016 — To investigate how balanced presentations of the autism-vaccine c...</span></span></span>
 
 Importantly, these studies did not show that readers suddenly embraced anti-vaccine beliefs. Instead, balanced reporting increased uncertainty. In risk communication, uncertainty itself can be influential. When people are unsure whom to trust, they may delay decisions, seek additional information, or become more receptive to unsupported claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1075547012458290" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">To investigate how balanced presentations of the autism-vaccine controversy influence judgments of vaccine risk, we randomly assigned 327...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_vaccine_balance_perc_28243a-Illustration-2-dark.svg" | relative_url }}" alt="Vaccine Coverage illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_vaccine_balance_perc_28243a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_vaccine_balance_perc_28243a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Expert Division Matters to Trust
@@ -301,10 +298,9 @@ Scientific consensus functions as a signal. Most members of the public cannot in
 
 The vaccine experiments showed that balanced reporting altered perceptions of that consensus. Readers were not merely assessing vaccine safety; they were assessing whether experts knew the answer. Once people believed scientists were divided, confidence in vaccine safety declined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1075547012458290" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">To investigate how balanced presentations of the autism-vaccine controversy influence judgments of vaccine risk, we randomly assigned 327...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/her/article/28/2/352/595490" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicThe effect of falsely balanced reporting of the autism–vaccine...by G Dixon · 2013 · Cited by 153 — Results suggest that bal...</span></span></span>
 
-This finding helps explain why false balance can be especially powerful in health reporting. Many health decisions involve uncertainty, technical evidence and specialist expertise. If audiences incorrectly conclude that experts disagree about a risk, they may treat a scientifically weak claim as a plausible alternative explanation. The issue becomes not “What does the evidence show?” but “Which expert should I believe?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23193194/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe effect of falsely balanced reporting of the autism...by G Dixon · 2013 · Cited by 153 — Results suggest that balancing conflic...</span></span></span>
+This finding helps explain why false balance can be especially powerful in health reporting. Many health decisions involve uncertainty, technical evidence and specialist expertise. If audiences incorrectly conclude that experts disagree about a risk, they may treat a scientifically weak claim as a plausible alternative explanation. The issue becomes not “What does the evidence show?” but “Which expert should I believe?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23193194/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effect of falsely balanced reporting of the autism...by G Dixon · 2013 · Cited by 153 — Results suggest that balancing conflic...</span></span></span>
 
-Researchers studying vaccine communication have therefore argued that journalistic fairness should not be measured by giving every viewpoint equal time. Instead, reporting should convey the strength of evidence behind competing claims. A view supported by a vast body of research and a view supported by a small fringe minority are not equally informative simply because both exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/10410236.2013.867006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineIncluding “Evidentiary Balance” in News Media Coverage...by CE Clarke · 2015 · Cited by 89 — In situations where...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/figures/43983828/figure-6-coverage-of-autism-claims-samples-by-year-uk-sample" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Figure 6</span><span class="citation-popover-snippet">AcademiaFigure 6 - from A Question of Balance The Autism-VaccineUsing British and American newspaper coverage of the autism-vaccine contr...</span></span></span>
-
+Researchers studying vaccine communication have therefore argued that journalistic fairness should not be measured by giving every viewpoint equal time. Instead, reporting should convey the strength of evidence behind competing claims. A view supported by a vast body of research and a view supported by a small fringe minority are not equally informative simply because both exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/10410236.2013.867006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineIncluding “Evidentiary Balance” in News Media Coverage...by CE Clarke · 2015 · Cited by 89 — In situations where...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/figures/43983828/figure-6-coverage-of-autism-claims-samples-by-year-uk-sample" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Figure 6</span><span class="citation-popover-snippet">Figure 6 - from A Question of Balance The Autism-VaccineUsing British and American newspaper coverage of the autism-vaccine contr...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/agIH4GPxzHY" title="Media Bias and False Balance (S03 E01)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=agIH4GPxzHY" target="_blank" rel="noopener noreferrer">Media Bias and False Balance (S03 E01)</a></p><p class="youtube-embed-meta">Channel: Cardus &middot; Views: 123 &middot; Uploaded: March 2021 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=agIH4GPxzHY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=agIH4GPxzHY">Open on YouTube</a></p></div></div></div>
 
@@ -316,7 +312,6 @@ Under this approach, journalists can still report dissenting views, controversie
 
 Studies examining vaccine coverage suggest that evidentiary balance reduces mistaken perceptions of scientific division. When readers understand that the overwhelming majority of relevant research points in one direction, they are less likely to interpret a fringe claim as evidence of an unresolved scientific controversy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/figures/43983824/figure-4-presentation-of-autism-vaccine-studies-and-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Figure 4</span><span class="citation-popover-snippet">from A Question of Balance The Autism-VaccineUsing British and American newspaper coverage of the autism-vaccine controversy as a case st...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_vaccine_balance_perc_28243a-Illustration-3-dark.svg" | relative_url }}" alt="Vaccine Coverage illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_vaccine_balance_perc_28243a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_vaccine_balance_perc_28243a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Vaccine Case Revealed About False Balance
 
@@ -324,11 +319,9 @@ The autism-vaccine controversy became one of the clearest demonstrations of how 
 
 Experimental research consistently found that balanced vaccine stories increased perceptions of expert disagreement, reduced certainty about vaccine safety, and in some cases weakened vaccination intentions. The mechanism was straightforward: when readers believed scientists were divided, vaccines appeared riskier than they actually were. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1075547012458290" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">To investigate how balanced presentations of the autism-vaccine controversy influence judgments of vaccine risk, we randomly assigned 327...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/her/article/28/2/352/595490" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicThe effect of falsely balanced reporting of the autism–vaccine...by G Dixon · 2013 · Cited by 153 — Results suggest that bal...</span></span></span>
 
-For discussions of [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}), the vaccine case remains a powerful example of how unsupported minority claims can gain influence when journalistic balance is confused with evidential balance. Presenting disagreement is important; presenting disagreement without conveying its true weight can unintentionally strengthen misconceptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23193194/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe effect of falsely balanced reporting of the autism...by G Dixon · 2013 · Cited by 153 — Results suggest that balancing conflic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pureadmin.qub.ac.uk/ws/files/180206635/embr.201948706.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pureadmin.qub.ac.uk">[Queen&#x27;s University Belfast]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pureadmin.qub.ac.uk</span><span class="citation-popover-snippet">The measles–mumps–...Read more...</span></span></span>
-
+For discussions of myths and misconceptions, the vaccine case remains a powerful example of how unsupported minority claims can gain influence when journalistic balance is confused with evidential balance. Presenting disagreement is important; presenting disagreement without conveying its true weight can unintentionally strengthen misconceptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23193194/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effect of falsely balanced reporting of the autism...by G Dixon · 2013 · Cited by 153 — Results suggest that balancing conflic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pureadmin.qub.ac.uk/ws/files/180206635/embr.201948706.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pureadmin.qub.ac.uk">[Queen&#x27;s University Belfast]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pureadmin.qub.ac.uk</span><span class="citation-popover-snippet">The measles–mumps–...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q4bd52IrG-8" title="Why Is False Balance A Problem In News Reporting? - Journalism Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q4bd52IrG-8" target="_blank" rel="noopener noreferrer">Why Is False Balance A Problem In News Reporting? - Journalism Explained</a></p><p class="youtube-embed-meta">Channel: Journalism Explained &middot; Views: 5 &middot; Uploaded: September 2025 &middot; Length: 2 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q4bd52IrG-8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q4bd52IrG-8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -726,147 +719,147 @@ For discussions of [myths and misconceptions]({{ 'myths-and-misconceptions/' | r
 
 1. <a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/her/article/28/2/352/595490](https://academic.oup.com/her/article/28/2/352/595490)  
+   Link: <a href="https://academic.oup.com/her/article/28/2/352/595490" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/her/article/28/2/352/595490</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicThe effect of falsely balanced reporting of the autism–vaccine...by G Dixon · 2013 · Cited by 153 — Results suggest that bal...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC1150987/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1150987/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMedia misled the public over the MMR vaccine, study saysby R Dobson · 2003 · Cited by 41 — Most people wrongly believed that doctors a...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1150987/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1150987/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Media misled the public over the MMR vaccine, study saysby R Dobson · 2003 · Cited by 41 — Most people wrongly believed that doctors a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe MMR vaccine and autism: Sensation, refutation, retraction...by TSS Rao · 2011 · Cited by 512 — In 1998, Andrew Wakefield and 12 o...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The MMR vaccine and autism: Sensation, refutation, retraction...by TSS Rao · 2011 · Cited by 512 — In 1998, Andrew Wakefield and 12 o...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: who.int  
-   Link: [https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism](https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism)  
+   Link: <a href="https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Global Advisory Committee on Vaccine Safety (GACVS)...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: academia.edu  
    Title: Figure 6  
-   Link: [https://www.academia.edu/figures/43983828/figure-6-coverage-of-autism-claims-samples-by-year-uk-sample](https://www.academia.edu/figures/43983828/figure-6-coverage-of-autism-claims-samples-by-year-uk-sample)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaFigure 6 - from A Question of Balance The Autism-VaccineUsing British and American newspaper coverage of the autism-vaccine contr...</p></details>
+   Link: <a href="https://www.academia.edu/figures/43983828/figure-6-coverage-of-autism-claims-samples-by-year-uk-sample" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/figures/43983828/figure-6-coverage-of-autism-claims-samples-by-year-uk-sample</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Figure 6 - from A Question of Balance The Autism-VaccineUsing British and American newspaper coverage of the autism-vaccine contr...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: academia.edu  
    Title: Figure 4  
-   Link: [https://www.academia.edu/figures/43983824/figure-4-presentation-of-autism-vaccine-studies-and-claims](https://www.academia.edu/figures/43983824/figure-4-presentation-of-autism-vaccine-studies-and-claims)  
+   Link: <a href="https://www.academia.edu/figures/43983824/figure-4-presentation-of-autism-vaccine-studies-and-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/figures/43983824/figure-4-presentation-of-autism-vaccine-studies-and-claims</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>from A Question of Balance The Autism-VaccineUsing British and American newspaper coverage of the autism-vaccine controversy as a case st...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: 263817286 Including Evidentiary Balance in News Media Coverage of Vaccine Risk  
-   Link: [https://www.researchgate.net/publication/263817286_Including_Evidentiary_Balance_in_News_Media_Coverage_of_Vaccine_Risk](https://www.researchgate.net/publication/263817286_Including_Evidentiary_Balance_in_News_Media_Coverage_of_Vaccine_Risk)  
+   Link: <a href="https://www.researchgate.net/publication/263817286_Including_Evidentiary_Balance_in_News_Media_Coverage_of_Vaccine_Risk" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263817286_Including_Evidentiary_Balance_in_News_Media_Coverage_of_Vaccine_Risk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Including “Evidentiary Balance” in News Media Coverage...22 Jan 2016 — To investigate how balanced presentations of the autism-vaccine c...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/233798979_The_effect_of_falsely_balanced_reporting_of_the_autism-vaccine_controversy_on_vaccine_safety_perceptions_and_behavioral_intentions](https://www.researchgate.net/publication/233798979_The_effect_of_falsely_balanced_reporting_of_the_autism-vaccine_controversy_on_vaccine_safety_perceptions_and_behavioral_intentions)  
+   Link: <a href="https://www.researchgate.net/publication/233798979_The_effect_of_falsely_balanced_reporting_of_the_autism-vaccine_controversy_on_vaccine_safety_perceptions_and_behavioral_intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233798979_The_effect_of_falsely_balanced_reporting_of_the_autism-vaccine_controversy_on_vaccine_safety_perceptions_and_behavioral_intentions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of falsely balanced reporting of the autism...Results suggest that balancing conflicting views of the autism-vaccine controve...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/258186592_Heightening_Uncertainty_Around_Certain_Science_Media_Coverage_False_Balance_and_the_Autism-Vaccine_Controversy](https://www.researchgate.net/publication/258186592_Heightening_Uncertainty_Around_Certain_Science_Media_Coverage_False_Balance_and_the_Autism-Vaccine_Controversy)  
+   Link: <a href="https://www.researchgate.net/publication/258186592_Heightening_Uncertainty_Around_Certain_Science_Media_Coverage_False_Balance_and_the_Autism-Vaccine_Controversy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258186592_Heightening_Uncertainty_Around_Certain_Science_Media_Coverage_False_Balance_and_the_Autism-Vaccine_Controversy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heightening Uncertainty Around Certain Science Media...13 Sept 2012 — To investigate how balanced presentations of the autism-vaccine co...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/1075547012458290](https://journals.sagepub.com/doi/abs/10.1177/1075547012458290)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1075547012458290" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1075547012458290</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To investigate how balanced presentations of the autism-vaccine controversy influence judgments of vaccine risk, we randomly assigned 327...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pureadmin.qub.ac.uk  
-   Link: [https://pureadmin.qub.ac.uk/ws/files/180206635/embr.201948706.pdf](https://pureadmin.qub.ac.uk/ws/files/180206635/embr.201948706.pdf)  
+   Link: <a href="https://pureadmin.qub.ac.uk/ws/files/180206635/embr.201948706.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pureadmin.qub.ac.uk/ws/files/180206635/embr.201948706.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The measles–mumps–...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23193194/](https://pubmed.ncbi.nlm.nih.gov/23193194/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe effect of falsely balanced reporting of the autism...by G Dixon · 2013 · Cited by 153 — Results suggest that balancing conflic...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23193194/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23193194/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of falsely balanced reporting of the autism...by G Dixon · 2013 · Cited by 153 — Results suggest that balancing conflic...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/10410236.2013.867006](https://www.tandfonline.com/doi/abs/10.1080/10410236.2013.867006)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/10410236.2013.867006" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/10410236.2013.867006</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineIncluding “Evidentiary Balance” in News Media Coverage...by CE Clarke · 2015 · Cited by 89 — In situations where...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25010352/](https://pubmed.ncbi.nlm.nih.gov/25010352/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25010352/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25010352/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In situations where a preponderance of evidence points to a...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/vaccine-safety/about/autism.html](https://www.cdc.gov/vaccine-safety/about/autism.html)  
+   Link: <a href="https://www.cdc.gov/vaccine-safety/about/autism.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/about/autism.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Vaccines19 Nov 2025 —... vaccine safety and autism... claim because studies have not ruled out the possibility that infant vaccines...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: chop.edu  
-   Link: [https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/autism](https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/autism)  
+   Link: <a href="https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/autism" target="_blank" rel="noopener noreferrer nofollow">https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/autism</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccines and autism27 Sept 2025 — Two studies have been cited by those claiming that the MMR vaccine causes autism. Both studies are crit...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: digital.lib.washington.edu  
-   Link: [https://digital.lib.washington.edu/server/api/core/bitstreams/ee500a93-e8cd-490e-a93f-43fd504b0d85/content](https://digital.lib.washington.edu/server/api/core/bitstreams/ee500a93-e8cd-490e-a93f-43fd504b0d85/content)  
+   Link: <a href="https://digital.lib.washington.edu/server/api/core/bitstreams/ee500a93-e8cd-490e-a93f-43fd504b0d85/content" target="_blank" rel="noopener noreferrer nofollow">https://digital.lib.washington.edu/server/api/core/bitstreams/ee500a93-e8cd-490e-a93f-43fd504b0d85/content</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccines: Understanding the Rhetorical Dynamics...by LR Archer · 2014 · Cited by 9 — Using the ongoing debate surrounding vaccine-induce...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/ni1208-1317](https://www.nature.com/articles/ni1208-1317)  
+   Link: <a href="https://www.nature.com/articles/ni1208-1317" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/ni1208-1317</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A case of junk science, conflict and hypeA decrease in &#x27;uptake&#x27; of the MMR vaccine fuelled by vaccine... MMR vaccine, conspiracy theorie...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: autismsciencefoundation.org  
-   Link: [https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/](https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/)  
+   Link: <a href="https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/" target="_blank" rel="noopener noreferrer nofollow">https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autism and Vaccines: Read the ScienceNumerous scientific studies have disproven any link between autism and vaccines. Read the research s...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/The-effect-of-falsely-balanced-reporting-of-the-on-Dixon-Clarke/9d0aa75ab64d62a4348d0ad1b5ac2578aec96fbc](https://www.semanticscholar.org/paper/The-effect-of-falsely-balanced-reporting-of-the-on-Dixon-Clarke/9d0aa75ab64d62a4348d0ad1b5ac2578aec96fbc)  
+   Link: <a href="https://www.semanticscholar.org/paper/The-effect-of-falsely-balanced-reporting-of-the-on-Dixon-Clarke/9d0aa75ab64d62a4348d0ad1b5ac2578aec96fbc" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-effect-of-falsely-balanced-reporting-of-the-on-Dixon-Clarke/9d0aa75ab64d62a4348d0ad1b5ac2578aec96fbc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] The effect of falsely balanced reporting of the autism-...Results suggest that balancing conflicting views of the autism-vaccine c...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: open.edu  
-   Link: [https://www.open.edu/openlearn/health-sports-psychology/health/the-mmr-vaccine-public-health-private-fears/content-section-10.1](https://www.open.edu/openlearn/health-sports-psychology/health/the-mmr-vaccine-public-health-private-fears/content-section-10.1)  
+   Link: <a href="https://www.open.edu/openlearn/health-sports-psychology/health/the-mmr-vaccine-public-health-private-fears/content-section-10.1" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/health-sports-psychology/health/the-mmr-vaccine-public-health-private-fears/content-section-10.1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The MMR vaccine: public health, private fearsThe bulk of evidence suggests that the MMR vaccine is safe – as opposed to the well establis...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: news.lehigh.edu  
    Title: confirmatory bias in health decisions the mmr vaccine and autism controversy  
-   Link: [https://news.lehigh.edu/confirmatory-bias-in-health-decisions-the-mmr-vaccine-and-autism-controversy](https://news.lehigh.edu/confirmatory-bias-in-health-decisions-the-mmr-vaccine-and-autism-controversy)  
+   Link: <a href="https://news.lehigh.edu/confirmatory-bias-in-health-decisions-the-mmr-vaccine-and-autism-controversy" target="_blank" rel="noopener noreferrer nofollow">https://news.lehigh.edu/confirmatory-bias-in-health-decisions-the-mmr-vaccine-and-autism-controversy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias in Health Decisions: The MMR Vaccine...18 May 2020 — In 1998, British researcher Andrew Wakefield and his co-authors published a fl...</p></details>
    Published: May 2020  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8BIcAZxFfrc](https://www.youtube.com/watch?v=8BIcAZxFfrc)  
+   Link: <a href="https://www.youtube.com/watch?v=8BIcAZxFfrc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8BIcAZxFfrc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccines and Autism: A Measured ResponseThe paper&#x27;s supposed purpose was to investigate a connection between bowel disorders and developm...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: scispace.com  
    Title: the effect of falsely balanced reporting of the autism 2rdr0cq5c1  
-   Link: [https://scispace.com/pdf/the-effect-of-falsely-balanced-reporting-of-the-autism-2rdr0cq5c1.pdf](https://scispace.com/pdf/the-effect-of-falsely-balanced-reporting-of-the-autism-2rdr0cq5c1.pdf)  
+   Link: <a href="https://scispace.com/pdf/the-effect-of-falsely-balanced-reporting-of-the-autism-2rdr0cq5c1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-effect-of-falsely-balanced-reporting-of-the-autism-2rdr0cq5c1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of falsely balanced reporting of the autism–...27 Nov 2012 — Participants who read the balanced article were less certain tha...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: users of social media more likely to be misinformed about vaccines  
-   Link: [https://misinforeview.hks.harvard.edu/article/users-of-social-media-more-likely-to-be-misinformed-about-vaccines/](https://misinforeview.hks.harvard.edu/article/users-of-social-media-more-likely-to-be-misinformed-about-vaccines/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/users-of-social-media-more-likely-to-be-misinformed-about-vaccines/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/users-of-social-media-more-likely-to-be-misinformed-about-vaccines/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Most of those in our study were roughly as informed or misinformed in February and...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: unicef.org  
    Title: mmr vaccine does not cause autism  
-   Link: [https://www.unicef.org/montenegro/en/stories/mmr-vaccine-does-not-cause-autism](https://www.unicef.org/montenegro/en/stories/mmr-vaccine-does-not-cause-autism)  
+   Link: <a href="https://www.unicef.org/montenegro/en/stories/mmr-vaccine-does-not-cause-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/montenegro/en/stories/mmr-vaccine-does-not-cause-autism</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The MMR vaccine does not cause autism17 May 2021 — UNICEF&#x27;s young reporters decided to ask experts whether it was true that the MMR vacci...</p></details>
    Published: May 2021  
 
 27. <a id="endnote-27"></a>
    Source: publichealth.jhu.edu  
    Title: vaccines do not cause autism  
-   Link: [https://publichealth.jhu.edu/2025/vaccines-do-not-cause-autism](https://publichealth.jhu.edu/2025/vaccines-do-not-cause-autism)  
+   Link: <a href="https://publichealth.jhu.edu/2025/vaccines-do-not-cause-autism" target="_blank" rel="noopener noreferrer nofollow">https://publichealth.jhu.edu/2025/vaccines-do-not-cause-autism</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bloomberg School of Public HealthVaccines Do Not Cause Autism | Johns Hopkins19 Mar 2025 — In 1971, the FDA approved the measles-mumps-ru...</p></details>

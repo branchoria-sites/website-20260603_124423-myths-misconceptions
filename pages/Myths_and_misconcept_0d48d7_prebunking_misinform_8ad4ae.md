@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - prebunking
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - prebunking
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Prebunking teaches people the tricks behind misleading claims before they encounter a specific myth.
 hero_summary: Prebunking teaches people the tricks behind misleading claims before they encounter a specific myth.
 layout: default
 permalink: /prebunking/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Prebunking
 title: Can You Protect People Before Myths Spread?
-title_full: Can You Protect People Before Myths Spread? | Mythcraft
+title_full: Can You Protect People Before Myths Spread?
 display_title_short: Prebunking
 display_title: Prebunking
 heading_title: Can You Protect People Before Myths Spread?
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 next_link:
   basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
-date: '2026-06-09 04:17:58 '
+date: '2026-06-11 21:58:27 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-overview.webp
@@ -503,13 +503,12 @@ image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-ov
 
 Prebunking is the attempt to protect people before a misleading claim reaches them. Instead of waiting for a specific myth to spread and then correcting it, a prebunk warns people about [the tricks]({{ 'the-trick/' | relative_url }}) that myths often use: emotional manipulation, fake experts, false dilemmas, conspiracy framing, scapegoating, decontextualised images, or attacks on trustworthy sources. The aim is not to make people cynical about everything, but to give them a small, memorable pattern-recognition tool before the next misleading post, advert, rumour or forwarded message appears.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-overview.webp" | relative_url }}" alt="Overview image for Prebunking" loading="eager" decoding="sync" fetchpriority="high">
-This matters because misinformation often travels faster than corrections can catch up. A good prebunk works like a warning label for manipulation: “Here is the tactic you may see; here is how it works; here is what to check before you share.” Research on psychological inoculation, including large online experiments and field campaigns, suggests that this approach can improve people’s ability to recognise [misleading techniques]({{ 'the-trick/' | relative_url }}) across different topics, though it is not a substitute for fact-checking, [platform design]({{ 'platform-design/' | relative_url }}), trusted journalism or public transparency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">SciencePsychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inocul...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPsychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — In this study, we conducted a meta-an...</span></span></span>
+This matters because misinformation often travels faster than [corrections]({{ 'corrections/' | relative_url }}) can catch up. A good prebunk works like a warning label for manipulation: “Here is the tactic you may see; here is how it works; here is what to check before you share.” Research on psychological inoculation, including large online experiments and field campaigns, suggests that this approach can improve people’s ability to recognise misleading techniques across different topics, though it is not a substitute for fact-checking, [platform design]({{ 'platform-design/' | relative_url }}), trusted journalism or public transparency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inocul...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — In this study, we conducted a meta-an...</span></span></span>
 
 ## Why prebunking uses inoculation as a metaphor
 
-The most common explanation of prebunking comes from psychological inoculation theory. The metaphor is deliberately simple: just as a medical vaccine exposes the body to a weakened version of a threat so it can respond later, a misinformation inoculation exposes people to a weakened version of a manipulation tactic so they can recognise it when it appears in stronger form. In practice, this usually means two things: a warning that manipulation is possible, and a brief explanation or example of the tactic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NCBIPrebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — In recent years, research has shown t...</span></span></span>
+The most common explanation of prebunking comes from psychological inoculation theory. The metaphor is deliberately simple: just as a medical vaccine exposes the body to a weakened version of a threat so it can respond later, a misinformation inoculation exposes people to a weakened version of a manipulation tactic so they can recognise it when it appears in stronger form. In practice, this usually means two things: a warning that manipulation is possible, and a brief explanation or example of the tactic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — In recent years, research has shown t...</span></span></span>
 
 This is different from simply saying “do not believe false information”. A useful prebunk gives the reader a mental handle. For example, instead of predicting every false claim that might appear during an election, a prebunk might teach voters to watch for posts claiming that the election date has changed, that a polling place is closed, or that an image from another country proves something about a local candidate. It does not need to know every future rumour; it teaches the warning signs that make a rumour worth pausing over.
 
@@ -523,10 +522,9 @@ A fact-based prebunk targets a likely false claim before it spreads. A tactic-ba
 
 A fact-based prebunk is strongest when a false claim is predictable. Election authorities, for example, can warn in advance that official polling dates, registration deadlines and vote-counting processes should be checked through named official channels. Public health bodies can warn before winter that misleading miracle-cure claims and fake screenshots of official advice tend to circulate during seasonal illness spikes. This kind of prebunk is narrow, but it can be powerful when the myth is expected.
 
-A tactic-based prebunk is more portable. It teaches people to recognise the method behind a misleading claim, even when the subject changes. The practical guide developed by the University of Cambridge, BBC Media Action and Google’s Jigsaw describes prebunking as a way to build pre-emptive resilience against misleading and manipulative information, not merely as a one-off correction of a single rumour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prebunking.withgoogle.com">[Prebunking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prebunking.withgoogle.com</span><span class="citation-popover-title">Prebunking Misinformation</span><span class="citation-popover-snippet">UNHCRPrebunking | UNHCR Information Integrity Toolkit10 Mar 2025 — Pre-bunking is a preventative measure that aims to prepare audiences t</span></span></span>
+A tactic-based prebunk is more portable. It teaches people to recognise the method behind a misleading claim, even when the subject changes. The practical guide developed by the University of Cambridge, BBC Media Action and Google’s Jigsaw describes prebunking as a way to build pre-emptive resilience against misleading and manipulative information, not merely as a one-off correction of a single rumour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prebunking.withgoogle.com">[Prebunking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prebunking.withgoogle.com</span><span class="citation-popover-title">Prebunking Misinformation</span><span class="citation-popover-snippet">UNHCRPrebunking &#124; UNHCR Information Integrity Toolkit10 Mar 2025 — Pre-bunking is a preventative measure that aims to prepare audiences t</span></span></span>
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/a10273eea5a0227c38187cc4f84d8788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[Common tactics include:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Google to expand misinformation &#x27;prebunking&#x27; in Europe</span><span class="citation-popover-snippet">AP News Google to expand misinformation &#x27;prebunking&#x27; in Europe</span></span></span>
-
+Common tactics include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/a10273eea5a0227c38187cc4f84d8788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Google to expand misinformation &#x27;prebunking&#x27; in Europe</span><span class="citation-popover-snippet">AP News Google to expand misinformation &#x27;prebunking&#x27; in Europe</span></span></span>
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -540,21 +538,20 @@ A tactic-based prebunk is more portable. It teaches people to recognise the meth
 
 </div>
 
-This tactic-based focus is why prebunking fits naturally inside the wider subject of [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}). Many myths survive not because every detail is persuasive, but because the format feels familiar: a villain, a hidden truth, a dramatic “they do not want you to know” frame, or a simple cause for a frightening event.
-
+This tactic-based focus is why prebunking fits naturally inside the wider subject of myths and misconceptions. Many myths survive not because every detail is persuasive, but because the format feels familiar: a villain, a hidden truth, a dramatic “they do not want you to know” frame, or a simple cause for a frightening event.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-Illustration-1-dark.svg" | relative_url }}" alt="Prebunking illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the evidence says prebunking can do
 
-The strongest evidence for prebunking comes from controlled experiments and online field studies that test whether people become better at identifying manipulation or judging misinformation after a short intervention. A 2022 Science Advances study tested short inoculation videos about manipulation techniques and reported improved ability to spot misinformation techniques, including in a large YouTube field experiment run with millions of impressions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">SciencePsychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inocul...</span></span></span>
+The strongest evidence for prebunking comes from controlled experiments and online field studies that test whether people become better at identifying manipulation or judging misinformation after a short intervention. A 2022 Science Advances study tested short inoculation videos about manipulation techniques and reported improved ability to spot misinformation techniques, including in a large YouTube field experiment run with millions of impressions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inocul...</span></span></span>
 
 Game-based prebunking has also been studied. The online game Bad News asks players to take on the role of a misinformation producer, using tactics such as impersonation, polarisation and conspiracy-building. A cross-cultural study in Harvard Kennedy School’s Misinformation Review found that this kind of “weakened dose” exposure could reduce susceptibility to common misinformation strategies across several countries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">Misinformation Review Prebunking interventions based on “inoculation” theory can</span><span class="citation-popover-snippet">Misinformation Review Prebunking interventions based on “inoculation” theory can</span></span></span>
 
-Meta-analytic work is broadly supportive but more cautious than campaign [slogans]({{ 'slogans/' | relative_url }}) sometimes suggest. A 2023 meta-analysis of psychological inoculation against misinformation reviewed 42 independent studies and found evidence that inoculation can improve credibility assessment and reduce willingness to share misinformation, while also noting variation by intervention type and outcome measured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPsychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — In this study, we conducted a meta-an...</span></span></span>
+Meta-analytic work is broadly supportive but more cautious than campaign [slogans]({{ 'slogans/' | relative_url }}) sometimes suggest. A 2023 meta-analysis of psychological inoculation against misinformation reviewed 42 independent studies and found evidence that inoculation can improve credibility assessment and reduce willingness to share misinformation, while also noting variation by intervention type and outcome measured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — In this study, we conducted a meta-an...</span></span></span>
 
 More recent field research has tested whether prebunking can be embedded directly into social media feeds rather than delivered only in lab settings. A 2026 Instagram field study reported that users exposed to a brief emotional-manipulation prebunk were 21 percentage points better than controls at identifying manipulation in a headline, with effects persisting for five months, and were more likely to click through for additional information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">Misinformation Review Prebunking interventions based on “inoculation” theory can</span><span class="citation-popover-snippet">Misinformation Review Prebunking interventions based on “inoculation” theory can</span></span></span>
 
-The important interpretation is modest but meaningful: prebunking can improve recognition of misleading techniques. It does not guarantee that people will reject every false claim, change their political identity, stop sharing all dubious content or trust every official source. Its clearest contribution is giving people a pause point before belief and sharing harden.
+The important interpretation is modest but meaningful: prebunking can improve recognition of misleading techniques. It does not guarantee that people will reject every false claim, change their political [identity]({{ 'identity/' | relative_url }}), stop sharing all dubious content or trust every official source. Its clearest contribution is giving people a pause point before belief and sharing harden.
 
 ## Where prebunking works best
 
@@ -562,10 +559,9 @@ Prebunking is most useful when the misleading pattern is foreseeable but the exa
 
 Google’s Jigsaw has used prebunking campaigns in several countries, including videos designed to teach manipulation techniques such as fearmongering, false comparisons, exaggeration, decontextualisation and scapegoating. Associated reporting on European campaigns notes that the approach is attractive partly because it can avoid arguing over every political claim while still teaching people how manipulation works. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/a10273eea5a0227c38187cc4f84d8788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Google to expand misinformation &#x27;prebunking&#x27; in Europe</span><span class="citation-popover-snippet">AP News Google to expand misinformation &#x27;prebunking&#x27; in Europe</span></span></span>
 
-Humanitarian and public-interest organisations use similar logic. UNHCR’s information integrity toolkit describes prebunking as a preventative measure that prepares audiences to recognise and resist information risks, especially where reactive debunking can be overwhelmed by the speed of rumours, hate speech or crisis misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-snippet">UNHCRPrebunking | UNHCR Information Integrity Toolkit10 Mar 2025 — Pre-bunking is a preventative measure that aims to prepare audiences t...</span></span></span>
+Humanitarian and public-interest organisations use similar logic. UNHCR’s information integrity toolkit describes prebunking as a preventative measure that prepares audiences to recognise and resist information risks, especially where reactive debunking can be overwhelmed by the speed of rumours, hate speech or crisis misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-snippet">Prebunking &#124; UNHCR Information Integrity Toolkit10 Mar 2025 — Pre-bunking is a preventative measure that aims to prepare audiences t...</span></span></span>
 
 Prebunking tends to work best when it is:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -579,7 +575,6 @@ Prebunking tends to work best when it is:
 </div>
 
 The practical challenge is that prebunking must be designed for attention-poor environments. A technically accurate but dull warning may fail where a misleading post succeeds because it is vivid, emotional and easy to share.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1RmxeZHPeHg" title="How &quot;prebunking&quot; misinformation works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1RmxeZHPeHg" target="_blank" rel="noopener noreferrer">How &quot;prebunking&quot; misinformation works</a></p><p class="youtube-embed-meta">Channel: 60 Minutes &middot; Views: 31.2K &middot; Uploaded: March 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1RmxeZHPeHg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1RmxeZHPeHg">Open on YouTube</a></p></div></div></div>
 
@@ -599,14 +594,13 @@ The tone matters. If prebunking sounds like “only foolish people fall for this
 
 Debunking corrects a false claim after it appears. Prebunking warns about a claim, source or tactic before exposure. They are often presented as rivals, but they are better understood as complementary tools.
 
-Debunking is necessary when a specific falsehood is already circulating: a fake public-health notice, a false election date, a fabricated quote, a misleading image from another event. It can supply the missing facts and reduce the [continued influence]({{ 'old-stories/' | relative_url }}) of the false claim. Prebunking is useful when the next falsehood is predictable only in shape: the rumour will use fear, fake authority, scapegoating or manipulated context, but the exact wording is not yet known.
+Debunking is necessary when a specific falsehood is already circulating: a fake public-health notice, a false election date, a fabricated quote, a misleading image from another event. It can supply the missing facts and reduce the continued influence of the false claim. Prebunking is useful when the next falsehood is predictable only in shape: the rumour will use fear, fake authority, scapegoating or manipulated context, but the exact wording is not yet known.
 
-Evidence does not support the simplistic idea that one approach always beats the other. A European Commission Joint Research Centre summary of a Nature study reported that both prebunking and debunking reduced agreement with false claims, perceived credibility and likelihood of sharing misinformation in tested areas such as climate change and COVID-19 vaccines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: joint-research-centre.ec.europa.eu">[Joint Research Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">joint-research-centre.ec.europa.eu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Evidence does not support the simplistic idea that one approach always beats the other. A European Commission Joint Research Centre summary of a Nature study reported that both prebunking and debunking reduced agreement with false claims, perceived credibility and likelihood of sharing misinformation in tested areas such as climate change and COVID-19 [vaccines]({{ 'vaccines/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: joint-research-centre.ec.europa.eu">[Joint Research Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">joint-research-centre.ec.europa.eu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A 2026 set of experiments comparing fact-based prebunking and debunking found that debunking consistently reduced trust in disinformation over at least two weeks, while prebunking produced durable benefits mainly when people evaluated the corrected disinformation soon afterwards. The same work reported no significant backfire effects across ideological groups, which is important because fear of “making things worse” has sometimes discouraged corrections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672251411571" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The practical lesson is not “prebunk instead of debunk”. It is: use prebunking to prepare people before predictable manipulation, and use debunking to correct concrete falsehoods once they appear.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-Illustration-2-dark.svg" | relative_url }}" alt="Prebunking illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Policy choices: who should prebunk, and where?
@@ -618,7 +612,6 @@ Government bodies may have the reach and responsibility to warn about election p
 International policy organisations tend to frame prebunking as one part of a wider information-integrity approach. The OECD argues that media and information literacy should form part of a broader effort to reinforce information integrity, including understanding digital platforms, recommendation systems and generative AI. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/sub-issues/disinformation-and-misinformation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Open source on oecd.org.</span></span></span> UNESCO similarly presents media and information literacy as a first line of defence against disinformation because it helps people become more critical users and producers of information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Open source on unesco.org.</span></span></span>
 
 Implementation therefore depends on matching the messenger to the risk:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -632,7 +625,6 @@ Implementation therefore depends on matching the messenger to the risk:
 </div>
 
 The most credible programmes avoid pretending that prebunking alone can fix a polluted information environment. It is a resilience measure, not a full governance model.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oJ2l48cNEJQ" title="Sander van der Linden: Psychological inoculation against misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oJ2l48cNEJQ" target="_blank" rel="noopener noreferrer">Sander van der Linden: Psychological inoculation against misinformation</a></p><p class="youtube-embed-meta">Channel: Trinity College, Cambridge &middot; Views: 3.2K &middot; Uploaded: March 2023 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oJ2l48cNEJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oJ2l48cNEJQ">Open on YouTube</a></p></div></div></div>
 
@@ -648,7 +640,6 @@ There is also an adaptation problem. Once manipulators know which tactics are be
 
 Finally, prebunking may not reach the people most likely to encounter a particular myth. Social media adverts, classroom lessons and official websites all reach different audiences. A campaign that works in one country, language or platform may not transfer cleanly to another.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t0rsAMywBio" title="Fighting misinformation online: pre-bunking workshop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t0rsAMywBio" target="_blank" rel="noopener noreferrer">Fighting misinformation online: pre-bunking workshop</a></p><p class="youtube-embed-meta">Channel: International Journalism Festival &middot; Views: 136 &middot; Uploaded: April 2023 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t0rsAMywBio" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t0rsAMywBio">Open on YouTube</a></p></div></div></div>
 
 ## What a good prebunk changes for the reader
@@ -658,7 +649,6 @@ The best outcome of prebunking is not that a person memorises a list of myths. I
 Before prebunking, a reader may see an alarming post and ask, “Is this shocking claim true?” After a good prebunk, they may ask a better first question: “Is this trying to rush me with fear, blame or fake authority before I check?” That shift matters because myths and misconceptions often rely on speed. They want the share, the emotional reaction, the group signal or the first impression before verification begins.
 
 A reader who has been prebunked should be able to pause at a few common signals:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -673,7 +663,6 @@ A reader who has been prebunked should be able to pause at a few common signals:
 </div>
 
 That pause is the intervention. It does not require the reader to become a professional fact-checker. It simply interrupts the moment when a myth tries to become familiar, emotionally satisfying and socially contagious. For myths and misconceptions, that early interruption can be more valuable than a perfect correction delivered after the story has already taken root.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-Illustration-3-dark.svg" | relative_url }}" alt="Prebunking illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -1073,215 +1062,215 @@ That pause is the intervention. It does not require the reader to become a profe
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPsychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — In this study, we conducted a meta-an...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — In this study, we conducted a meta-an...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: unhcr.org  
-   Link: [https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking](https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNHCRPrebunking | UNHCR Information Integrity Toolkit10 Mar 2025 — Pre-bunking is a preventative measure that aims to prepare audiences t...</p></details>
+   Link: <a href="https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking | UNHCR Information Integrity Toolkit10 Mar 2025 — Pre-bunking is a preventative measure that aims to prepare audiences t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK609022/](https://www.ncbi.nlm.nih.gov/books/NBK609022/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBIPrebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — In recent years, research has shown t...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK609022/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — In recent years, research has shown t...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: Misinformation Review Prebunking interventions based on “inoculation” theory can  
-   Link: [https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/](https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/</a>  
 
 5. <a id="endnote-5"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: Misinformation Review Prebunking misinformation techniques in social media feeds  
-   Link: [https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/](https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/</a>  
 
 6. <a id="endnote-6"></a>
    Source: time.com  
-   Link: [https://time.com/6970488/google-jigsaw-eu-elections-misinformation-prebunking/](https://time.com/6970488/google-jigsaw-eu-elections-misinformation-prebunking/)  
+   Link: <a href="https://time.com/6970488/google-jigsaw-eu-elections-misinformation-prebunking/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6970488/google-jigsaw-eu-elections-misinformation-prebunking/</a>  
 
 7. <a id="endnote-7"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/sub-issues/disinformation-and-misinformation.html](https://www.oecd.org/en/topics/sub-issues/disinformation-and-misinformation.html)  
+   Link: <a href="https://www.oecd.org/en/topics/sub-issues/disinformation-and-misinformation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/sub-issues/disinformation-and-misinformation.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation](https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation)  
+   Link: <a href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation</a>  
 
 9. <a id="endnote-9"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/policy-responses-to-false-and-misleading-digital-content_1104143e-en.html](https://www.oecd.org/en/publications/policy-responses-to-false-and-misleading-digital-content_1104143e-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/policy-responses-to-false-and-misleading-digital-content_1104143e-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/policy-responses-to-false-and-misleading-digital-content_1104143e-en.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: oecd.org  
    Title: 1104143e en  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/08/policy-responses-to-false-and-misleading-digital-content_598ca9a6/1104143e-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/08/policy-responses-to-false-and-misleading-digital-content_598ca9a6/1104143e-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/08/policy-responses-to-false-and-misleading-digital-content_598ca9a6/1104143e-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/08/policy-responses-to-false-and-misleading-digital-content_598ca9a6/1104143e-en.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil](https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil)  
+   Link: <a href="https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil</a>  
 
 13. <a id="endnote-13"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/mil4teachers/en/node/163](https://www.unesco.org/mil4teachers/en/node/163)  
+   Link: <a href="https://www.unesco.org/mil4teachers/en/node/163" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/node/163</a>  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/%40infointerventions](https://www.youtube.com/%40infointerventions)  
+   Link: <a href="https://www.youtube.com/%40infointerventions" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40infointerventions</a>  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=t0rsAMywBio](https://www.youtube.com/watch?v=t0rsAMywBio)  
+   Link: <a href="https://www.youtube.com/watch?v=t0rsAMywBio" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t0rsAMywBio</a>  
 
 16. <a id="endnote-16"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/psychology-of-misinformation/interventions-to-combat-misinformation/FCD74AF8BD30397DCF5A244DB55172A4](https://www.cambridge.org/core/books/psychology-of-misinformation/interventions-to-combat-misinformation/FCD74AF8BD30397DCF5A244DB55172A4)  
+   Link: <a href="https://www.cambridge.org/core/books/psychology-of-misinformation/interventions-to-combat-misinformation/FCD74AF8BD30397DCF5A244DB55172A4" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/psychology-of-misinformation/interventions-to-combat-misinformation/FCD74AF8BD30397DCF5A244DB55172A4</a>  
 
 17. <a id="endnote-17"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: FORMATTED globalvaccination Jan30  
-   Link: [https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/02/FORMATTED_globalvaccination_Jan30.pdf](https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/02/FORMATTED_globalvaccination_Jan30.pdf)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/02/FORMATTED_globalvaccination_Jan30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/02/FORMATTED_globalvaccination_Jan30.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41591-022-01713-6](https://www.nature.com/articles/s41591-022-01713-6)  
+   Link: <a href="https://www.nature.com/articles/s41591-022-01713-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-022-01713-6</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: How "prebunking" misinformation works  
-   Link: [https://www.youtube.com/watch?v=1RmxeZHPeHg](https://www.youtube.com/watch?v=1RmxeZHPeHg)  
+   Link: <a href="https://www.youtube.com/watch?v=1RmxeZHPeHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1RmxeZHPeHg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sander van der Linden: Psychological inoculation against misinformation...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Sander van der Linden: Psychological inoculation against misinformation  
-   Link: [https://www.youtube.com/watch?v=oJ2l48cNEJQ](https://www.youtube.com/watch?v=oJ2l48cNEJQ)  
+   Link: <a href="https://www.youtube.com/watch?v=oJ2l48cNEJQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oJ2l48cNEJQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Cambridge...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Prebunking: A new way to fight misinformation  
-   Link: [https://www.youtube.com/watch?v=0k5Xy48545A](https://www.youtube.com/watch?v=0k5Xy48545A)  
+   Link: <a href="https://www.youtube.com/watch?v=0k5Xy48545A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0k5Xy48545A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inoculation: How to spot misinformation...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Inoculation: How to spot misinformation  
-   Link: [https://www.youtube.com/watch?v=kYv9y7qG0n0](https://www.youtube.com/watch?v=kYv9y7qG0n0)  
+   Link: <a href="https://www.youtube.com/watch?v=kYv9y7qG0n0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYv9y7qG0n0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital media literacy and prebunking explained...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Digital media literacy and prebunking explained  
-   Link: [https://www.youtube.com/watch?v=K3fT-h_1D64](https://www.youtube.com/watch?v=K3fT-h_1D64)  
+   Link: <a href="https://www.youtube.com/watch?v=K3fT-h_1D64" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K3fT-h_1D64</a>  
 
 24. <a id="endnote-24"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/sciadv.abo6254](https://www.science.org/doi/10.1126/sciadv.abo6254)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SciencePsychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inocul...</p></details>
+   Link: <a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inocul...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: prebunking.withgoogle.com  
    Title: Prebunking Misinformation  
-   Link: [https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf](https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf)  
+   Link: <a href="https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: apnews.com  
    Title: AP News Google to expand misinformation 'prebunking' in Europe  
-   Link: [https://apnews.com/article/a10273eea5a0227c38187cc4f84d8788](https://apnews.com/article/a10273eea5a0227c38187cc4f84d8788)  
+   Link: <a href="https://apnews.com/article/a10273eea5a0227c38187cc4f84d8788" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/a10273eea5a0227c38187cc4f84d8788</a>  
 
 27. <a id="endnote-27"></a>
    Source: joint-research-centre.ec.europa.eu  
-   Link: [https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en)  
+   Link: <a href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en" target="_blank" rel="noopener noreferrer nofollow">https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en</a>  
 
 28. <a id="endnote-28"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/01461672251411571](https://journals.sagepub.com/doi/10.1177/01461672251411571)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/01461672251411571" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672251411571</a>  
 
 29. <a id="endnote-29"></a>
    Source: prebunking.withgoogle.com  
-   Link: [https://prebunking.withgoogle.com/resources/](https://prebunking.withgoogle.com/resources/)  
+   Link: <a href="https://prebunking.withgoogle.com/resources/" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/resources/</a>  
 
 30. <a id="endnote-30"></a>
    Source: prebunking.withgoogle.com  
-   Link: [https://prebunking.withgoogle.com/](https://prebunking.withgoogle.com/)  
+   Link: <a href="https://prebunking.withgoogle.com/" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/</a>  
 
 31. <a id="endnote-31"></a>
    Source: research.vu.nl  
    Title: prebunking misinformation techniques in social media feeds result  
-   Link: [https://research.vu.nl/en/publications/prebunking-misinformation-techniques-in-social-media-feeds-result/](https://research.vu.nl/en/publications/prebunking-misinformation-techniques-in-social-media-feeds-result/)  
+   Link: <a href="https://research.vu.nl/en/publications/prebunking-misinformation-techniques-in-social-media-feeds-result/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/prebunking-misinformation-techniques-in-social-media-feeds-result/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/](https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/)  
+   Link: <a href="https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/</a>  
 
 33. <a id="endnote-33"></a>
    Source: socialsciencespace.com  
    Title: prebunking on youtube in the fight against misinformation  
-   Link: [https://www.socialsciencespace.com/2022/09/prebunking-on-youtube-in-the-fight-against-misinformation/](https://www.socialsciencespace.com/2022/09/prebunking-on-youtube-in-the-fight-against-misinformation/)  
+   Link: <a href="https://www.socialsciencespace.com/2022/09/prebunking-on-youtube-in-the-fight-against-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.socialsciencespace.com/2022/09/prebunking-on-youtube-in-the-fight-against-misinformation/</a>  
 
 34. <a id="endnote-34"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1071581926001126](https://www.sciencedirect.com/science/article/pii/S1071581926001126)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1071581926001126" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1071581926001126</a>  
 
 35. <a id="endnote-35"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0166432825001780](https://www.sciencedirect.com/science/article/pii/S0166432825001780)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0166432825001780" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0166432825001780</a>  
 
 36. <a id="endnote-36"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S004727272500043X](https://www.sciencedirect.com/science/article/pii/S004727272500043X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
 
 37. <a id="endnote-37"></a>
    Source: zotero.org  
-   Link: [https://www.zotero.org/groups/2243448/library/collections/79LXN6W7/items/IAZ2FW7L](https://www.zotero.org/groups/2243448/library/collections/79LXN6W7/items/IAZ2FW7L)  
+   Link: <a href="https://www.zotero.org/groups/2243448/library/collections/79LXN6W7/items/IAZ2FW7L" target="_blank" rel="noopener noreferrer nofollow">https://www.zotero.org/groups/2243448/library/collections/79LXN6W7/items/IAZ2FW7L</a>  
 
 38. <a id="endnote-38"></a>
    Source: elgaronline.com  
-   Link: [https://www.elgaronline.com/display/book/9781035301447/vol3.chapter75.pdf](https://www.elgaronline.com/display/book/9781035301447/vol3.chapter75.pdf)  
+   Link: <a href="https://www.elgaronline.com/display/book/9781035301447/vol3.chapter75.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.elgaronline.com/display/book/9781035301447/vol3.chapter75.pdf</a>  
 
 ### Additional References
 
 39. <a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400035452_Prebunking_misinformation_techniques_in_social_media_feeds_Results_from_an_Instagram_field_study](https://www.researchgate.net/publication/400035452_Prebunking_misinformation_techniques_in_social_media_feeds_Results_from_an_Instagram_field_study)  
+   Link: <a href="https://www.researchgate.net/publication/400035452_Prebunking_misinformation_techniques_in_social_media_feeds_Results_from_an_Instagram_field_study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400035452_Prebunking_misinformation_techniques_in_social_media_feeds_Results_from_an_Instagram_field_study</a>  
 
 40. <a id="endnote-40"></a>
    Source: kar.kent.ac.uk  
-   Link: [https://kar.kent.ac.uk/111049/9/British%20J%20of%20Psychology%20-%202025%20-%20Biddlestone%20-%20Fighting%20fire%20with%20fire%20%20Prebunking%20with%20the%20use%20of%20a%20plausible.pdf](https://kar.kent.ac.uk/111049/9/British%20J%20of%20Psychology%20-%202025%20-%20Biddlestone%20-%20Fighting%20fire%20with%20fire%20%20Prebunking%20with%20the%20use%20of%20a%20plausible.pdf)  
+   Link: <a href="https://kar.kent.ac.uk/111049/9/British%20J%20of%20Psychology%20-%202025%20-%20Biddlestone%20-%20Fighting%20fire%20with%20fire%20%20Prebunking%20with%20the%20use%20of%20a%20plausible.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/111049/9/British%20J%20of%20Psychology%20-%202025%20-%20Biddlestone%20-%20Fighting%20fire%20with%20fire%20%20Prebunking%20with%20the%20use%20of%20a%20plausible.pdf</a>  
 
 41. <a id="endnote-41"></a>
    Source: netwerkmediawijsheid.nl  
-   Link: [https://netwerkmediawijsheid.nl/wp-content/uploads/2024/02/D1.1-OMEDIA_Literature_Final.pdf](https://netwerkmediawijsheid.nl/wp-content/uploads/2024/02/D1.1-OMEDIA_Literature_Final.pdf)  
+   Link: <a href="https://netwerkmediawijsheid.nl/wp-content/uploads/2024/02/D1.1-OMEDIA_Literature_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://netwerkmediawijsheid.nl/wp-content/uploads/2024/02/D1.1-OMEDIA_Literature_Final.pdf</a>  
 
 42. <a id="endnote-42"></a>
    Source: diplomacy.edu  
-   Link: [https://www.diplomacy.edu/wp-content/uploads/DD-report.pdf](https://www.diplomacy.edu/wp-content/uploads/DD-report.pdf)  
+   Link: <a href="https://www.diplomacy.edu/wp-content/uploads/DD-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diplomacy.edu/wp-content/uploads/DD-report.pdf</a>  
 
 43. <a id="endnote-43"></a>
    Source: opengovpartnership.org  
-   Link: [https://www.opengovpartnership.org/open-gov-guide/digital-governance-disinformation-and-information-integrity/](https://www.opengovpartnership.org/open-gov-guide/digital-governance-disinformation-and-information-integrity/)  
+   Link: <a href="https://www.opengovpartnership.org/open-gov-guide/digital-governance-disinformation-and-information-integrity/" target="_blank" rel="noopener noreferrer nofollow">https://www.opengovpartnership.org/open-gov-guide/digital-governance-disinformation-and-information-integrity/</a>  
 
 44. <a id="endnote-44"></a>
    Source: epc.eu  
-   Link: [https://www.epc.eu/publication/From-debunking-to-prebunking-How-to-get-ahead-of-disinformation-on-mi-446f88/](https://www.epc.eu/publication/From-debunking-to-prebunking-How-to-get-ahead-of-disinformation-on-mi-446f88/)  
+   Link: <a href="https://www.epc.eu/publication/From-debunking-to-prebunking-How-to-get-ahead-of-disinformation-on-mi-446f88/" target="_blank" rel="noopener noreferrer nofollow">https://www.epc.eu/publication/From-debunking-to-prebunking-How-to-get-ahead-of-disinformation-on-mi-446f88/</a>  
 
 45. <a id="endnote-45"></a>
    Source: stratcomcoe.org  
-   Link: [https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf](https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf)  
+   Link: <a href="https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf</a>  
 
 46. <a id="endnote-46"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/sander-van-der-linden-156a08203_new-real-world-field-study-on-psychological-activity-7420437881183428608-KxAM](https://www.linkedin.com/posts/sander-van-der-linden-156a08203_new-real-world-field-study-on-psychological-activity-7420437881183428608-KxAM)  
+   Link: <a href="https://www.linkedin.com/posts/sander-van-der-linden-156a08203_new-real-world-field-study-on-psychological-activity-7420437881183428608-KxAM" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sander-van-der-linden-156a08203_new-real-world-field-study-on-psychological-activity-7420437881183428608-KxAM</a>  
 
 47. <a id="endnote-47"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt](https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt)  
+   Link: <a href="https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt</a>  
 
 48. <a id="endnote-48"></a>
    Source: acice-asean.org  
-   Link: [https://www.acice-asean.org/files/information%20centre%20reports/jul_24_info.pdf](https://www.acice-asean.org/files/information%20centre%20reports/jul_24_info.pdf)  
+   Link: <a href="https://www.acice-asean.org/files/information%20centre%20reports/jul_24_info.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.acice-asean.org/files/information%20centre%20reports/jul_24_info.pdf</a>

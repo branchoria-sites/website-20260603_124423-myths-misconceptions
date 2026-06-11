@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - vaccines
 - timing-trap
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - vaccines
 - timing-trap
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: MMR vaccination and visible autism signs can happen in the same early years, making a real sequence feel like proof of cause.
 hero_summary: MMR vaccination and visible autism signs can happen in the same early years, making a real sequence feel like proof of cause.
 layout: default
 permalink: /timing-trap-49e224/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /vaccines/
 nav_short_title: Timing trap
 title: Why The Timing Can Feel So Convincing
-title_full: Why The Timing Can Feel So Convincing | Vaccines
+title_full: Why The Timing Can Feel So Convincing
 display_title_short: Timing trap
 display_title: Timing trap
 heading_title: Why The Timing Can Feel So Convincing
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What the Vaccine Autism Myth Teaches Debunkers | Mythcraft
+parent_title: What the Vaccine Autism Myth Teaches Debunkers
 parent_permalink: /vaccines/
 parent_nav_short_title: Vaccines
 parent_heading_title: What the Vaccine Autism Myth Teaches Debunkers
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How One Weak Paper Became a Public Myth
 up_link:
   basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -265,7 +265,7 @@ next_link:
   permalink: /wakefield-paper/
   short_title: Wakefield paper
   heading_title: How One Weak Paper Became a Public Myth
-date: '2026-06-09 04:35:57 '
+date: '2026-06-11 22:07:29 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-1.webp
@@ -276,31 +276,26 @@ image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mm
 
 One reason the MMR-autism myth became so persuasive is that it appears to fit a real sequence of events. Children usually receive their first MMR vaccination at around one year of age, and many parents begin noticing developmental differences during the same broad toddler period. When a child changes in ways that are worrying or unexpected, it is natural to look back and ask what happened just beforehand. The [timing]({{ 'timing/' | relative_url }}) can feel so precise and emotionally vivid that it seems to provide its own explanation.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-1-dark.svg" | relative_url }}" alt="Timing trap illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The difficulty is that human beings are especially vulnerable to mistaking sequence for cause when two important events occur close together. In the case of MMR and autism, the overlap between the vaccination schedule and the age when autism traits often become more visible creates a powerful illusion of causation even when no causal link is present. [Large studies]({{ 'large-studies/' | relative_url }}) have not found evidence that MMR causes autism, but understanding why the timing feels convincing is essential to understanding why the myth persisted. CDC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gavi.org/vaccineswork/can-mmr-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gavi.org">[Gavi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gavi.org</span><span class="citation-popover-title">can mmr vaccines cause autism</span><span class="citation-popover-snippet">?10 Sept 2025 — This 2019 study of more than 650,000 children found no increased autism risk in those who received the MMR-vaccine – incl...</span></span></span>
+The difficulty is that human beings are especially vulnerable to mistaking sequence for cause when two important events occur close together. In the case of MMR and autism, the overlap between the vaccination schedule and the age when autism traits often become more visible creates a powerful illusion of causation even when no causal link is present. [Large studies]({{ 'large-studies/' | relative_url }}) have not found evidence that MMR causes autism, but understanding why the timing feels convincing is essential to understanding why the myth persisted. CDC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gavi.org/vaccineswork/can-mmr-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gavi.org">[Gavi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gavi.org</span><span class="citation-popover-title">can mmr vaccines cause autism</span><span class="citation-popover-snippet">?10 Sept 2025  This 2019 study of more than 650,000 children found no increased autism risk in those who received the MMR-vaccine  incl...</span></span></span>
 
 ## When Routine MMR Doses Happen
 
-The first routine MMR dose is typically given at about 12 months of age, with a second dose later in early childhood. In the UK, the first dose is normally offered shortly after a child's first birthday, placing it directly in the middle of a period of rapid developmental change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/vaccinations/mmr-vaccine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-snippet">MMR (measles, mumps and rubella) vaccineThe MMR vaccine is not linked to autism. Research has shown there is no link between the MMR vacc...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/mmr-for-all-general-leaflet/mmr-for-all-general-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">mmr for all general guide</span><span class="citation-popover-snippet">for all guide23 Dec 2025 — The first dose is given at the age of 12 months and the second dose is given at 18 months or around 3 years an...</span></span></span>
+The first routine MMR dose is typically given at about 12 months of age, with a second dose later in early childhood. In the UK, the first dose is normally offered shortly after a child's first birthday, placing it directly in the middle of a period of rapid developmental change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/vaccinations/mmr-vaccine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-snippet">MMR (measles, mumps and rubella) vaccineThe MMR vaccine is not linked to autism. Research has shown there is no link between the MMR vacc...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/mmr-for-all-general-leaflet/mmr-for-all-general-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">mmr for all general guide</span><span class="citation-popover-snippet">for all guide23 Dec 2025  The first dose is given at the age of 12 months and the second dose is given at 18 months or around 3 years an...</span></span></span>
 
-This timing is not arbitrary. The vaccine schedule is designed around when children's immune systems can respond effectively and when protection against measles, mumps and rubella becomes especially important. The schedule was not created around autism diagnosis patterns. Yet because vaccination is a memorable event — involving appointments, injections and often anxious anticipation — it becomes an easy point in time for parents to recall later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hey.nhs.uk/patient-leaflet/mmr-leaflets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hey.nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hey.nhs.uk</span><span class="citation-popover-snippet">Hey NHSMMR (measles, mumps and rubella) vaccine leaflets | Hull...18 Mar 2024 — Children should have their first MMR vaccine at 1 year o...</span></span></span>
+This timing is not arbitrary. The vaccine schedule is designed around when children's immune systems can respond effectively and when protection against measles, mumps and rubella becomes especially important. The schedule was not created around autism diagnosis patterns. Yet because vaccination is a memorable event  involving appointments, injections and often anxious anticipation  it becomes an easy point in time for parents to recall later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hey.nhs.uk/patient-leaflet/mmr-leaflets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hey.nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hey.nhs.uk</span><span class="citation-popover-snippet">MMR (measles, mumps and rubella) vaccine leaflets &#124; Hull...18 Mar 2024  Children should have their first MMR vaccine at 1 year o...</span></span></span>
 
 [Memory]({{ 'memory/' | relative_url }}) tends to organise life as a series of significant moments. A routine vaccination is far easier to remember than dozens of ordinary days of gradual developmental change. As a result, when concerns emerge later, the vaccine appointment can become a psychological marker that seems more important than it actually is.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uKEmuyBBieU" title="The Truth About RFK Jr.’s &quot;Secret&quot; Vaccine Meeting (Simpsonwood 2000)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uKEmuyBBieU" target="_blank" rel="noopener noreferrer">The Truth About RFK Jr.’s &quot;Secret&quot; Vaccine Meeting (Simpsonwood 2000)</a></p><p class="youtube-embed-meta">Channel: PedsDocTalk &middot; Views: 2.0K &middot; Uploaded: August 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uKEmuyBBieU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uKEmuyBBieU">Open on YouTube</a></p></div></div></div>
-
 ## When Autism Signs Often Become Clearer
 
-Autism begins early in development, but the signs do not always become obvious at birth. Some children show noticeable differences during infancy, while others appear to meet many early milestones before developmental differences become more apparent in the second year of life. The CDC notes that some children show signs within the first year, while others may not show clearer symptoms until around 24 months or later. Some children also stop gaining certain skills or appear to lose previously acquired skills between roughly 18 and 24 months. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/vaccine-safety/[vaccines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDCMeasles, Mumps, Rubella (MMR) Vaccine Safety31 Jul 2024 — Many carefully performed scientific studies have found no link between MMR v...</span></span></span>
+Autism begins early in development, but the signs do not always become obvious at birth. Some children show noticeable differences during infancy, while others appear to meet many early milestones before developmental differences become more apparent in the second year of life. The CDC notes that some children show signs within the first year, while others may not show clearer symptoms until around 24 months or later. Some children also stop gaining certain skills or appear to lose previously acquired skills between roughly 18 and 24 months. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/vaccine-safety/[vaccines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Measles, Mumps, Rubella (MMR) Vaccine Safety31 Jul 2024  Many carefully performed scientific studies have found no link between MMR v...</span></span></span>
 
 The toddler years are also when social and communication expectations suddenly increase. Parents begin expecting their child to:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Respond consistently to their name. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.autismspecialtygroup.com/blog/autism-milestones-tracking-development-of-children-with-asd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: autismspecialtygroup.com">[autismspecialtygroup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">autismspecialtygroup.com</span><span class="citation-popover-title">autism milestones tracking development of children with asd</span><span class="citation-popover-snippet">Tracking Development of Children with ASD16 Sept 2025 — Early Signs and Simple Milestones for Autism · Child does not respond to their na...</span></span></span>
+* Respond consistently to their name. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.autismspecialtygroup.com/blog/autism-milestones-tracking-development-of-children-with-asd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: autismspecialtygroup.com">[autismspecialtygroup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">autismspecialtygroup.com</span><span class="citation-popover-title">autism milestones tracking development of children with asd</span><span class="citation-popover-snippet">Tracking Development of Children with ASD16 Sept 2025  Early Signs and Simple Milestones for Autism  Child does not respond to their na...</span></span></span>
 * Use gestures and shared attention.
 * Develop spoken language.
 * Engage in pretend play.
@@ -308,10 +303,9 @@ The toddler years are also when social and communication expectations suddenly i
 
 </div>
 
-Differences in these areas often become easier to notice precisely because developmental demands are increasing. A child who seemed simply quiet at nine months may appear markedly different from peers by eighteen months. A child who had a few words may stop progressing in the expected way. Behaviours that were previously subtle can become difficult to ignore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/autism/about/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDCAbout Autism Spectrum Disorder3 days ago — Some children show ASD symptoms within the first 12 months of life. In others, symptoms may...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/conditions/autism/signs/children/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-snippet">of autism in childrenAutism in young children. Signs of autism in young children include: not responding to their name; avoiding eye cont...</span></span></span>
+Differences in these areas often become easier to notice precisely because developmental demands are increasing. A child who seemed simply quiet at nine months may appear markedly different from peers by eighteen months. A child who had a few words may stop progressing in the expected way. Behaviours that were previously subtle can become difficult to ignore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/autism/about/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">About Autism Spectrum Disorder3 days ago  Some children show ASD symptoms within the first 12 months of life. In others, symptoms may...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/conditions/autism/signs/children/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-snippet">of autism in childrenAutism in young children. Signs of autism in young children include: not responding to their name; avoiding eye cont...</span></span></span>
 
 Research on early development suggests that many autistic children already show measurable differences before the age at which parents commonly identify a problem. One study found observable differences in social communication by around nine months in infants later diagnosed with autism. In other words, developmental changes may already be unfolding before the MMR appointment takes place, even if they are not yet obvious to family members. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe MMR Vaccine and Autism</span><span class="citation-popover-snippet">Combination MMR vaccines are live...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-2-dark.svg" | relative_url }}" alt="Timing trap illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Sequence Becomes Mistaken Causation
@@ -322,9 +316,32 @@ This reasoning is often useful in everyday life. If someone eats spoiled food an
 
 Millions of children receive MMR during the same period in which autism traits commonly become more visible. Even if there were no relationship at all, many families would still experience the sequence of:
 
+1. MMR vaccination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/03/SW-MMR-FAQs-v.4_07.03.24-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[england.nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-title">SW MMR FAQs v.4 07.03.24 FINAL</span><span class="citation-popover-snippet">MMR Vaccination FAQs1 Mar 2024   How do we know that the MMR vaccine doesn&#x27;t cause autism?...  Is aged less than 1 year (please note...</span></span></span>
+2. Growing developmental concerns.
+3. Autism assessment or diagnosis.
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c59SVNABKnQ" title="Does The Measles Vaccine Cause Autism - Myth or Reality?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c59SVNABKnQ" target="_blank" rel="noopener noreferrer">Does The Measles Vaccine Cause Autism - Myth or Reality?</a></p><p class="youtube-embed-meta">Channel: Talking With Docs</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c59SVNABKnQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c59SVNABKnQ">Open on YouTube</a></p></div></div></div>
+Because the sequence is real, it feels meaningful. What is misleading is the leap from "after" to "because of". Epidemiologists and statisticians have long recognised that apparent patterns emerge naturally whenever two common events occur in the same population at similar ages. One review discussing the controversy noted that the apparent onset of autism close to vaccination may represent a coincidental temporal association rather than evidence of causation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11700148/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The clinical evidence in support of an...Read more...</span></span></span>
 
+The emotional weight of the experience makes the effect stronger. Parents are not usually conducting formal scientific comparisons. They are trying to understand something important happening to their child. The mind naturally searches for turning points, triggers and explanations. A remembered vaccination appointment can seem like a clear dividing line between a "before" and an "after" even when developmental changes were already emerging gradually. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11700148/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The clinical evidence in support of an...Read more...</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uKEmuyBBieU" title="The Truth About RFK Jr.s &quot;Secret&quot; Vaccine Meeting (Simpsonwood 2000)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uKEmuyBBieU" target="_blank" rel="noopener noreferrer">The Truth About RFK Jr.s &quot;Secret&quot; Vaccine Meeting (Simpsonwood 2000)</a></p><p class="youtube-embed-meta">Channel: PedsDocTalk &middot; Views: 2.0K &middot; Uploaded: August 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uKEmuyBBieU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uKEmuyBBieU">Open on YouTube</a></p></div></div></div>
+
+## Why Personal Experience Can Feel Stronger Than Population Evidence
+
+Population studies compare hundreds of thousands or even millions of children to determine whether autism occurs more often in vaccinated groups than in unvaccinated groups. These studies consistently fail to find an increased autism risk from MMR vaccination. CDC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gavi.org/vaccineswork/can-mmr-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gavi.org">[Gavi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gavi.org</span><span class="citation-popover-title">can mmr vaccines cause autism</span><span class="citation-popover-snippet">?10 Sept 2025  This 2019 study of more than 650,000 children found no increased autism risk in those who received the MMR-vaccine  incl...</span></span></span>
+
+Yet personal experience operates differently from statistical evidence. A parent does not experience a population. They experience one child.
+
+That difference helps explain why timing-based beliefs can survive even after scientific claims have been investigated and rejected. A family may sincerely remember developmental changes becoming obvious after vaccination. The memory itself is not necessarily false. What population research challenges is the interpretation of that sequence as proof of causation.
+
+This is why the timing trap is so powerful. It does not depend on fabricated events. It depends on a genuine overlap between two real timelines:
+
+* The age when children routinely receive MMR.
+* The age when autism often becomes easier to recognise.
+
+When those timelines intersect, the resulting story can feel self-evident even when broader evidence shows that the apparent connection is misleading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/autism/signs-symptoms/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Signs and Symptoms of Autism Spectrum Disorder16 May 2024  Avoids or does not keep eye contact  Does not respond to name by 9 months...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/03/SW-MMR-FAQs-v.4_07.03.24-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-title">SW MMR FAQs v.4 07.03.24 FINAL</span><span class="citation-popover-snippet">MMR Vaccination FAQs1 Mar 2024   How do we know that the MMR vaccine doesn&#x27;t cause autism?...  Is aged less than 1 year (please note...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/act-early/milestones/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">s Developmental Milestones &#124; Learn the Signs</span><span class="citation-popover-snippet">Act...16 Feb 2026  Skills such as taking a first step, smiling for the first time, and waving bye bye are called developmental milest...</span></span></span>
+
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-3-dark.svg" | relative_url }}" alt="Timing trap illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -475,11 +492,11 @@ Millions of children receive MMR during the same period in which autism traits c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Posters â€“ England &amp; Wales, Educational Wall Art, Framed, Canvas, Print"><img src="{{ '/assets/images/marketplace-covers/d35735397948982a1832.jpg' | relative_url }}" alt="Listing image for UK Map Posters â€“ England &amp; Wales, Educational Wall Art, Framed, Canvas, Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print"><img src="{{ '/assets/images/marketplace-covers/d35735397948982a1832.jpg' | relative_url }}" alt="Listing image for UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK Map Posters â€“ England &amp; Wales, Educational Wall Art, Framed, Canvas, Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
         <div class="fr-book-actions">
@@ -718,256 +735,228 @@ Millions of children receive MMR during the same period in which autism traits c
 </script>
 </section>
 
-1. MMR vaccination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/03/SW-MMR-FAQs-v.4_07.03.24-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[england.nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-title">SW MMR FAQs v.4 07.03.24 FINAL</span><span class="citation-popover-snippet">MMR Vaccination FAQs1 Mar 2024 — • How do we know that the MMR vaccine doesn&#x27;t cause autism?... • Is aged less than 1 year (please note...</span></span></span>
-2. Growing developmental concerns.
-3. Autism assessment or diagnosis.
-
-Because the sequence is real, it feels meaningful. What is misleading is the leap from "after" to "because of". Epidemiologists and statisticians have long recognised that apparent patterns emerge naturally whenever two common events occur in the same population at similar ages. One review discussing the controversy noted that the apparent onset of autism close to vaccination may represent a coincidental temporal association rather than evidence of causation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11700148/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The clinical evidence in support of an...Read more...</span></span></span>
-
-The emotional weight of the experience makes the effect stronger. Parents are not usually conducting formal scientific comparisons. They are trying to understand something important happening to their child. The mind naturally searches for turning points, triggers and explanations. A remembered vaccination appointment can seem like a clear dividing line between a "before" and an "after" even when developmental changes were already emerging gradually. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11700148/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The clinical evidence in support of an...Read more...</span></span></span>
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-3-dark.svg" | relative_url }}" alt="Timing trap illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Why Personal Experience Can Feel Stronger Than Population Evidence
-
-Population studies compare hundreds of thousands or even millions of children to determine whether autism occurs more often in vaccinated groups than in unvaccinated groups. These studies consistently fail to find an increased autism risk from MMR vaccination. CDC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gavi.org/vaccineswork/can-mmr-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gavi.org">[Gavi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gavi.org</span><span class="citation-popover-title">can mmr vaccines cause autism</span><span class="citation-popover-snippet">?10 Sept 2025 — This 2019 study of more than 650,000 children found no increased autism risk in those who received the MMR-vaccine – incl...</span></span></span>
-
-Yet [personal experience]({{ 'anecdotes/' | relative_url }}) operates differently from statistical evidence. A parent does not experience a population. They experience one child.
-
-That difference helps explain why timing-based beliefs can survive even after scientific claims have been investigated and rejected. A family may sincerely remember developmental changes becoming obvious after vaccination. The memory itself is not necessarily false. What population research challenges is the interpretation of that sequence as proof of causation.
-
-This is why the timing trap is so powerful. It does not depend on fabricated events. It depends on a genuine overlap between two real timelines:
-
-* The age when children routinely receive MMR.
-* The age when autism often becomes easier to recognise.
-
-When those timelines intersect, the resulting story can feel self-evident even when broader evidence shows that the apparent connection is misleading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/autism/signs-symptoms/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDCSigns and Symptoms of Autism Spectrum Disorder16 May 2024 — Avoids or does not keep eye contact · Does not respond to name by 9 months...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/03/SW-MMR-FAQs-v.4_07.03.24-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-title">SW MMR FAQs v.4 07.03.24 FINAL</span><span class="citation-popover-snippet">MMR Vaccination FAQs1 Mar 2024 — • How do we know that the MMR vaccine doesn&#x27;t cause autism?... • Is aged less than 1 year (please note...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/act-early/milestones/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">s Developmental Milestones | Learn the Signs</span><span class="citation-popover-snippet">Act...16 Feb 2026 — Skills such as taking a first step, smiling for the first time, and waving “bye bye” are called developmental milest...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-FGKWP9x_1w" title="Statistics Lie (part two): Correlation and Causation...or why vaccines do not cause autism" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-FGKWP9x_1w" target="_blank" rel="noopener noreferrer">Statistics Lie (part two): Correlation and Causation...or why vaccines do not cause autism</a></p><p class="youtube-embed-meta">Channel: Eric</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-FGKWP9x_1w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-FGKWP9x_1w">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/vaccine-safety/[vaccines](https://www.cdc.gov/vaccine-safety/[vaccines)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDCMeasles, Mumps, Rubella (MMR) Vaccine Safety31 Jul 2024 — Many carefully performed scientific studies have found no link between MMR v...</p></details>
+   Link: <a href="https://www.cdc.gov/vaccine-safety/[vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/[vaccines</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measles, Mumps, Rubella (MMR) Vaccine Safety31 Jul 2024  Many carefully performed scientific studies have found no link between MMR v...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: gavi.org  
    Title: can mmr vaccines cause autism  
-   Link: [https://www.gavi.org/vaccineswork/can-mmr-vaccines-cause-autism](https://www.gavi.org/vaccineswork/can-mmr-vaccines-cause-autism)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?10 Sept 2025 — This 2019 study of more than 650,000 children found no increased autism risk in those who received the MMR-vaccine – incl...</p></details>
+   Link: <a href="https://www.gavi.org/vaccineswork/can-mmr-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.gavi.org/vaccineswork/can-mmr-vaccines-cause-autism</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>?10 Sept 2025  This 2019 study of more than 650,000 children found no increased autism risk in those who received the MMR-vaccine  incl...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/vaccinations/mmr-vaccine/](https://www.nhs.uk/vaccinations/mmr-vaccine/)  
+   Link: <a href="https://www.nhs.uk/vaccinations/mmr-vaccine/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/mmr-vaccine/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MMR (measles, mumps and rubella) vaccineThe MMR vaccine is not linked to autism. Research has shown there is no link between the MMR vacc...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: GOV.UK  
    Title: mmr for all general guide  
-   Link: [https://www.gov.uk/government/publications/mmr-for-all-general-leaflet/mmr-for-all-general-guide](https://www.gov.uk/government/publications/mmr-for-all-general-leaflet/mmr-for-all-general-guide)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>for all guide23 Dec 2025 — The first dose is given at the age of 12 months and the second dose is given at 18 months or around 3 years an...</p></details>
+   Link: <a href="https://www.gov.uk/government/publications/mmr-for-all-general-leaflet/mmr-for-all-general-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/mmr-for-all-general-leaflet/mmr-for-all-general-guide</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>for all guide23 Dec 2025  The first dose is given at the age of 12 months and the second dose is given at 18 months or around 3 years an...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: hey.nhs.uk  
-   Link: [https://www.hey.nhs.uk/patient-leaflet/mmr-leaflets/](https://www.hey.nhs.uk/patient-leaflet/mmr-leaflets/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hey NHSMMR (measles, mumps and rubella) vaccine leaflets | Hull...18 Mar 2024 — Children should have their first MMR vaccine at 1 year o...</p></details>
+   Link: <a href="https://www.hey.nhs.uk/patient-leaflet/mmr-leaflets/" target="_blank" rel="noopener noreferrer nofollow">https://www.hey.nhs.uk/patient-leaflet/mmr-leaflets/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MMR (measles, mumps and rubella) vaccine leaflets | Hull...18 Mar 2024  Children should have their first MMR vaccine at 1 year o...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe MMR Vaccine and Autism  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Combination MMR vaccines are live...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/autism/about/index.html](https://www.cdc.gov/autism/about/index.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDCAbout Autism Spectrum Disorder3 days ago — Some children show ASD symptoms within the first 12 months of life. In others, symptoms may...</p></details>
+   Link: <a href="https://www.cdc.gov/autism/about/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/autism/about/index.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>About Autism Spectrum Disorder3 days ago  Some children show ASD symptoms within the first 12 months of life. In others, symptoms may...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/autism/signs-symptoms/index.html](https://www.cdc.gov/autism/signs-symptoms/index.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDCSigns and Symptoms of Autism Spectrum Disorder16 May 2024 — Avoids or does not keep eye contact · Does not respond to name by 9 months...</p></details>
+   Link: <a href="https://www.cdc.gov/autism/signs-symptoms/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/autism/signs-symptoms/index.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Signs and Symptoms of Autism Spectrum Disorder16 May 2024  Avoids or does not keep eye contact  Does not respond to name by 9 months...</p></details>
    Published: May 2024  
 
 9. <a id="endnote-9"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/conditions/autism/signs/children/](https://www.nhs.uk/conditions/autism/signs/children/)  
+   Link: <a href="https://www.nhs.uk/conditions/autism/signs/children/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/conditions/autism/signs/children/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of autism in childrenAutism in young children. Signs of autism in young children include: not responding to their name; avoiding eye cont...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cdc.gov  
    Title: 's Developmental Milestones | Learn the Signs  
-   Link: [https://www.cdc.gov/act-early/milestones/index.html](https://www.cdc.gov/act-early/milestones/index.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Act...16 Feb 2026 — Skills such as taking a first step, smiling for the first time, and waving “bye bye” are called developmental milest...</p></details>
+   Link: <a href="https://www.cdc.gov/act-early/milestones/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/act-early/milestones/index.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Act...16 Feb 2026  Skills such as taking a first step, smiling for the first time, and waving bye bye are called developmental milest...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8935345/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8935345/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCEarly Social Communication Development in Infants with...by J Bradshaw · 2021 · Cited by 77 — Results demonstrate that infants later...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8935345/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8935345/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Early Social Communication Development in Infants with...by J Bradshaw  2021  Cited by 77  Results demonstrate that infants later...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/ncbddd/actearly/autism/curriculum/documents/early-warning-signs-autism_508.pdf](https://www.cdc.gov/ncbddd/actearly/autism/curriculum/documents/early-warning-signs-autism_508.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1.2 It is evident that Elizabeth is concerned about Mark&#x27;s “shy” manner. What are...Read more...</p></details>
+   Link: <a href="https://www.cdc.gov/ncbddd/actearly/autism/curriculum/documents/early-warning-signs-autism_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/ncbddd/actearly/autism/curriculum/documents/early-warning-signs-autism_508.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>1.2 It is evident that Elizabeth is concerned about Mark&#x27;s shy manner. What are...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/index.html](https://www.cdc.gov/index.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CDC: Centers for Disease Control and PreventionCDC is the nation&#x27;s leading science-based, data-driven, service organization that protects...</p></details>
+   Link: <a href="https://www.cdc.gov/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/index.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Disease Control and PreventionCDC is the nation&#x27;s leading science-based, data-driven, service organization that protects...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cdc.gov  
    Title: Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus  
-   Link: [https://www.cdc.gov/hantavirus/situation-summary/index.html](https://www.cdc.gov/hantavirus/situation-summary/index.html)  
+   Link: <a href="https://www.cdc.gov/hantavirus/situation-summary/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/hantavirus/situation-summary/index.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/vaccine-safety/about/autism.html](https://www.cdc.gov/vaccine-safety/about/autism.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Vaccines19 Nov 2025 — Scientific studies have not ruled out the possibility that infant vaccines contribute to the development of aut...</p></details>
+   Link: <a href="https://www.cdc.gov/vaccine-safety/about/autism.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/about/autism.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Vaccines19 Nov 2025  Scientific studies have not ruled out the possibility that infant vaccines contribute to the development of aut...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: england.nhs.uk  
    Title: SW MMR FAQs v.4 07.03.24 FINAL  
-   Link: [https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/03/SW-MMR-FAQs-v.4_07.03.24-FINAL.pdf](https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/03/SW-MMR-FAQs-v.4_07.03.24-FINAL.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MMR Vaccination FAQs1 Mar 2024 — • How do we know that the MMR vaccine doesn&#x27;t cause autism?... • Is aged less than 1 year (please note...</p></details>
+   Link: <a href="https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/03/SW-MMR-FAQs-v.4_07.03.24-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/03/SW-MMR-FAQs-v.4_07.03.24-FINAL.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MMR Vaccination FAQs1 Mar 2024   How do we know that the MMR vaccine doesn&#x27;t cause autism?...  Is aged less than 1 year (please note...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/a-guide-to-immunisations-for-babies-up-to-13-months-of-age/a-guide-to-immunisation-for-babies-up-to-13-months-of-age-for-children-born-on-or-after-1-july-2024](https://www.gov.uk/government/publications/a-guide-to-immunisations-for-babies-up-to-13-months-of-age/a-guide-to-immunisation-for-babies-up-to-13-months-of-age-for-children-born-on-or-after-1-july-2024)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>guide to immunisation for babies up to 13 months of ageJan 23, 2026 — Your child should be vaccinated with their first dose of MMRV vacci...</p></details>
+   Link: <a href="https://www.gov.uk/government/publications/a-guide-to-immunisations-for-babies-up-to-13-months-of-age/a-guide-to-immunisation-for-babies-up-to-13-months-of-age-for-children-born-on-or-after-1-july-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/a-guide-to-immunisations-for-babies-up-to-13-months-of-age/a-guide-to-immunisation-for-babies-up-to-13-months-of-age-for-children-born-on-or-after-1-july-2024</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>guide to immunisation for babies up to 13 months of ageJan 23, 2026  Your child should be vaccinated with their first dose of MMRV vacci...</p></details>
    Published: july 2024  
 
 18. <a id="endnote-18"></a>
    Source: GOV.UK  
    Title: immunisations between 12 and 13 months of age  
-   Link: [https://www.gov.uk/government/publications/immunisations-between-12-and-13-months-of-age](https://www.gov.uk/government/publications/immunisations-between-12-and-13-months-of-age)  
+   Link: <a href="https://www.gov.uk/government/publications/immunisations-between-12-and-13-months-of-age" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/immunisations-between-12-and-13-months-of-age</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at one year of ageThis leaflet features the immunisation schedule from January 2026. You can view, download, or order printed copies of t...</p></details>
    Published: January 2026  
 
 19. <a id="endnote-19"></a>
    Source: ukhsa.blog.gov.uk  
    Title: what is the mmrv vaccine and is my child eligible  
-   Link: [https://ukhsa.blog.gov.uk/2025/12/17/what-is-the-mmrv-vaccine-and-is-my-child-eligible/](https://ukhsa.blog.gov.uk/2025/12/17/what-is-the-mmrv-vaccine-and-is-my-child-eligible/)  
+   Link: <a href="https://ukhsa.blog.gov.uk/2025/12/17/what-is-the-mmrv-vaccine-and-is-my-child-eligible/" target="_blank" rel="noopener noreferrer nofollow">https://ukhsa.blog.gov.uk/2025/12/17/what-is-the-mmrv-vaccine-and-is-my-child-eligible/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Most children in this age group will...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ukhsa.blog.gov.uk  
    Title: changes to the childhood vaccination schedule from january 2026  
-   Link: [https://ukhsa.blog.gov.uk/2025/12/30/changes-to-the-childhood-vaccination-schedule-from-january-2026/](https://ukhsa.blog.gov.uk/2025/12/30/changes-to-the-childhood-vaccination-schedule-from-january-2026/)  
+   Link: <a href="https://ukhsa.blog.gov.uk/2025/12/30/changes-to-the-childhood-vaccination-schedule-from-january-2026/" target="_blank" rel="noopener noreferrer nofollow">https://ukhsa.blog.gov.uk/2025/12/30/changes-to-the-childhood-vaccination-schedule-from-january-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A single MMRV...Read more...</p></details>
    Published: january 2026  
 
 21. <a id="endnote-21"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/vaccinations/4-in-1-preschool-booster-vaccine/](https://www.nhs.uk/vaccinations/4-in-1-preschool-booster-vaccine/)  
+   Link: <a href="https://www.nhs.uk/vaccinations/4-in-1-preschool-booster-vaccine/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/4-in-1-preschool-booster-vaccine/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>www.nhs.uk4-in-1 pre-school booster vaccineThe 4-in-1 pre-school booster helps protect against serious illnesses such as polio and tetanu...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/vaccinations/why-vaccination-is-important-and-the-safest-way-to-protect-yourself/](https://www.nhs.uk/vaccinations/why-vaccination-is-important-and-the-safest-way-to-protect-yourself/)  
+   Link: <a href="https://www.nhs.uk/vaccinations/why-vaccination-is-important-and-the-safest-way-to-protect-yourself/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/why-vaccination-is-important-and-the-safest-way-to-protect-yourself/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>vaccination is important and the safest way to protect...If 95% of children receive the MMR vaccine, this would stop measles spreading c...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: nhs.uk  
-   Link: [https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/](https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/)  
+   Link: <a href="https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>vaccinations and when to have themNHS vaccination schedule; 1 year. MMRV vaccine (1st dose for children born on or after 1 January 2025)...</p></details>
    Published: January 2025  
 
 24. <a id="endnote-24"></a>
    Source: cc4c.imperial.nhs.uk  
-   Link: [https://www.cc4c.imperial.nhs.uk/-/media/cc4c/documents/mmr-questions-answered.pdf?hash=C15AB62CDC69D6399C643FC8ED927F07&rev=8e05618c739a4e749a09ec98bd3314fc](https://www.cc4c.imperial.nhs.uk/-/media/cc4c/documents/mmr-questions-answered.pdf?hash=C15AB62CDC69D6399C643FC8ED927F07&rev=8e05618c739a4e749a09ec98bd3314fc)  
+   Link: <a href="https://www.cc4c.imperial.nhs.uk/-/media/cc4c/documents/mmr-questions-answered.pdf?hash=C15AB62CDC69D6399C643FC8ED927F07&amp;rev=8e05618c739a4e749a09ec98bd3314fc" target="_blank" rel="noopener noreferrer nofollow">https://www.cc4c.imperial.nhs.uk/-/media/cc4c/documents/mmr-questions-answered.pdf?hash=C15AB62CDC69D6399C643FC8ED927F07&amp;rev=8e05618c739a4e749a09ec98bd3314fc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No, there is no link between MMR and autism. MMR does not cause or increase the risk of your child.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: bedslutonchildrenshealth.nhs.uk  
-   Link: [https://bedslutonchildrenshealth.nhs.uk/services/bedfordshire-and-luton-0-to-19-health-visiting-and-school-nursing-service/keeping-warm-and-well/immunisations/](https://bedslutonchildrenshealth.nhs.uk/services/bedfordshire-and-luton-0-to-19-health-visiting-and-school-nursing-service/keeping-warm-and-well/immunisations/)  
+   Link: <a href="https://bedslutonchildrenshealth.nhs.uk/services/bedfordshire-and-luton-0-to-19-health-visiting-and-school-nursing-service/keeping-warm-and-well/immunisations/" target="_blank" rel="noopener noreferrer nofollow">https://bedslutonchildrenshealth.nhs.uk/services/bedfordshire-and-luton-0-to-19-health-visiting-and-school-nursing-service/keeping-warm-and-well/immunisations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From 1 January 2026, children due their 1st or 2nd MMR vaccine, should be offered a combined MMRV vaccination instead of MMR. MMRV includ...</p></details>
    Published: January 2026  
 
 26. <a id="endnote-26"></a>
    Source: notts.icb.nhs.uk  
-   Link: [https://notts.icb.nhs.uk/mmr/](https://notts.icb.nhs.uk/mmr/)  
+   Link: <a href="https://notts.icb.nhs.uk/mmr/" target="_blank" rel="noopener noreferrer nofollow">https://notts.icb.nhs.uk/mmr/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>icb.nhs.ukMeasles, Mumps, Rubella (MMR) Vaccination12 months for a first dose; 3 years four months for a second dose. Partially or unvacc...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: tregenna.nhs.uk  
-   Link: [https://tregenna.nhs.uk/news/measles-outbreak/](https://tregenna.nhs.uk/news/measles-outbreak/)  
+   Link: <a href="https://tregenna.nhs.uk/news/measles-outbreak/" target="_blank" rel="noopener noreferrer nofollow">https://tregenna.nhs.uk/news/measles-outbreak/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Measles OutbreakWhen Should Children have the MMR Vaccine?; MMR vaccine schedule; Child&#x27;s age, Vaccine; 1 year, MMR (1st dose); 3 yea...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/11700148/](https://pubmed.ncbi.nlm.nih.gov/11700148/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11700148/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11700148/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The clinical evidence in support of an...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: rijksvaccinatieprogramma.nl  
-   Link: [https://rijksvaccinatieprogramma.nl/en/vaccinations/mmr](https://rijksvaccinatieprogramma.nl/en/vaccinations/mmr)  
+   Link: <a href="https://rijksvaccinatieprogramma.nl/en/vaccinations/mmr" target="_blank" rel="noopener noreferrer nofollow">https://rijksvaccinatieprogramma.nl/en/vaccinations/mmr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Children receive the MMR vaccination at 14 months, and a repeat vaccination around 3 years.Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: neurosciences.ucsd.edu  
-   Link: [https://neurosciences.ucsd.edu/centers-programs/autism/early/signs.html](https://neurosciences.ucsd.edu/centers-programs/autism/early/signs.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of AutismBelow are early warning signs describing what children at risk for an ASD between 12–24 months generally don&#x27;t do, as well as a...</p></details>
+   Link: <a href="https://neurosciences.ucsd.edu/centers-programs/autism/early/signs.html" target="_blank" rel="noopener noreferrer nofollow">https://neurosciences.ucsd.edu/centers-programs/autism/early/signs.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>of AutismBelow are early warning signs describing what children at risk for an ASD between 1224 months generally don&#x27;t do, as well as a...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: autismcaretherapy.com  
    Title: early signs of autism in toddlers  
-   Link: [https://autismcaretherapy.com/en/library/blogs/early-signs-of-autism-in-toddlers](https://autismcaretherapy.com/en/library/blogs/early-signs-of-autism-in-toddlers)  
+   Link: <a href="https://autismcaretherapy.com/en/library/blogs/early-signs-of-autism-in-toddlers" target="_blank" rel="noopener noreferrer nofollow">https://autismcaretherapy.com/en/library/blogs/early-signs-of-autism-in-toddlers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reduced Social Interaction. Many toddlers naturally begin to show interest in people through smiles, gestures, imitation, and social game...</p></details>
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: autismsciencefoundation.org  
-   Link: [https://autismsciencefoundation.org/autism-and-vaccines/](https://autismsciencefoundation.org/autism-and-vaccines/)  
+   Link: <a href="https://autismsciencefoundation.org/autism-and-vaccines/" target="_blank" rel="noopener noreferrer nofollow">https://autismsciencefoundation.org/autism-and-vaccines/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autism and VaccinesThere is no correlation between autism and vaccines. This has been confirmed through dozens of scientific studies exam...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: medicalnewstoday.com  
-   Link: [https://www.medicalnewstoday.com/articles/autism-in-babies](https://www.medicalnewstoday.com/articles/autism-in-babies)  
+   Link: <a href="https://www.medicalnewstoday.com/articles/autism-in-babies" target="_blank" rel="noopener noreferrer nofollow">https://www.medicalnewstoday.com/articles/autism-in-babies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autism in babies: Signs, diagnosis, and next stepsA baby can begin to display signs of autism spectrum disorder (ASD) as early as 2 month...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: harbornemedical.co.uk  
-   Link: [https://harbornemedical.co.uk/health-and-wellbeing-at-harborne-medical/children-and-young-people/childhood-immunisations](https://harbornemedical.co.uk/health-and-wellbeing-at-harborne-medical/children-and-young-people/childhood-immunisations)  
+   Link: <a href="https://harbornemedical.co.uk/health-and-wellbeing-at-harborne-medical/children-and-young-people/childhood-immunisations" target="_blank" rel="noopener noreferrer nofollow">https://harbornemedical.co.uk/health-and-wellbeing-at-harborne-medical/children-and-young-people/childhood-immunisations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Childhood VaccinationsFact: There is no link between the MMR vaccine and autism. This myth stems from a discredited study that has been t...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: marcus.org  
-   Link: [https://www.marcus.org/autism-resources/autism-tips-and-resources/early-signs-of-autism](https://www.marcus.org/autism-resources/autism-tips-and-resources/early-signs-of-autism)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Early Signs of AutismSmiles and laughs while looking at you and playing games, like peek-a-boo · Vocalizes, often with babbles · Looks fo...</p></details>
+   Link: <a href="https://www.marcus.org/autism-resources/autism-tips-and-resources/early-signs-of-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.marcus.org/autism-resources/autism-tips-and-resources/early-signs-of-autism</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Early Signs of AutismSmiles and laughs while looking at you and playing games, like peek-a-boo  Vocalizes, often with babbles  Looks fo...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: autismsa.org.au  
-   Link: [https://autismsa.org.au/autism-diagnosis/autism-symptoms/signs-of-autism-in-babies/](https://autismsa.org.au/autism-diagnosis/autism-symptoms/signs-of-autism-in-babies/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Signs of Autism in Babies and ToddlersEarly signs of autism in young children up to 36 months may include: · Limited speech · Difficultie...</p></details>
+   Link: <a href="https://autismsa.org.au/autism-diagnosis/autism-symptoms/signs-of-autism-in-babies/" target="_blank" rel="noopener noreferrer nofollow">https://autismsa.org.au/autism-diagnosis/autism-symptoms/signs-of-autism-in-babies/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Signs of Autism in Babies and ToddlersEarly signs of autism in young children up to 36 months may include:  Limited speech  Difficultie...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: autismspeaks.org  
-   Link: [https://www.autismspeaks.org/signs-autism](https://www.autismspeaks.org/signs-autism)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Signs of autismSigns of autism at any age · Loss of previously acquired speech, babbling or social skills · Avoidance of eye contact · Pe...</p></details>
+   Link: <a href="https://www.autismspeaks.org/signs-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.autismspeaks.org/signs-autism</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Signs of autismSigns of autism at any age  Loss of previously acquired speech, babbling or social skills  Avoidance of eye contact  Pe...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: nidcd.nih.gov  
    Title: autism spectrum disorder communication problems children  
-   Link: [https://www.nidcd.nih.gov/health/autism-spectrum-disorder-communication-problems-children](https://www.nidcd.nih.gov/health/autism-spectrum-disorder-communication-problems-children)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIDCDApr 13, 2020 — Children with ASD may have difficulty developing language skills and understanding what others say to them. They also...</p></details>
+   Link: <a href="https://www.nidcd.nih.gov/health/autism-spectrum-disorder-communication-problems-children" target="_blank" rel="noopener noreferrer nofollow">https://www.nidcd.nih.gov/health/autism-spectrum-disorder-communication-problems-children</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 13, 2020  Children with ASD may have difficulty developing language skills and understanding what others say to them. They also...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: asatonline.org  
-   Link: [https://asatonline.org/for-parents/becoming-a-savvy-consumer/learn-the-signs-act-early/](https://asatonline.org/for-parents/becoming-a-savvy-consumer/learn-the-signs-act-early/)  
+   Link: <a href="https://asatonline.org/for-parents/becoming-a-savvy-consumer/learn-the-signs-act-early/" target="_blank" rel="noopener noreferrer nofollow">https://asatonline.org/for-parents/becoming-a-savvy-consumer/learn-the-signs-act-early/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASD signs may be present by the first birthday, but clinical diagnoses are not typically made until age 4...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: littlechampsaba.com  
-   Link: [https://littlechampsaba.com/blog/how-to-identify-the-signs-of-autism-in-children-for-early-intervention/](https://littlechampsaba.com/blog/how-to-identify-the-signs-of-autism-in-children-for-early-intervention/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Difficulty understanding or expressing emotions. · Challenges with back-and-forth...Read more...</p></details>
+   Link: <a href="https://littlechampsaba.com/blog/how-to-identify-the-signs-of-autism-in-children-for-early-intervention/" target="_blank" rel="noopener noreferrer nofollow">https://littlechampsaba.com/blog/how-to-identify-the-signs-of-autism-in-children-for-early-intervention/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p> Difficulty understanding or expressing emotions.  Challenges with back-and-forth...Read more...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: autismspecialtygroup.com  
    Title: autism milestones tracking development of children with asd  
-   Link: [https://www.autismspecialtygroup.com/blog/autism-milestones-tracking-development-of-children-with-asd](https://www.autismspecialtygroup.com/blog/autism-milestones-tracking-development-of-children-with-asd)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Development of Children with ASD16 Sept 2025 — Early Signs and Simple Milestones for Autism · Child does not respond to their na...</p></details>
+   Link: <a href="https://www.autismspecialtygroup.com/blog/autism-milestones-tracking-development-of-children-with-asd" target="_blank" rel="noopener noreferrer nofollow">https://www.autismspecialtygroup.com/blog/autism-milestones-tracking-development-of-children-with-asd</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Development of Children with ASD16 Sept 2025  Early Signs and Simple Milestones for Autism  Child does not respond to their na...</p></details>

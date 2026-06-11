@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_private_universe_ast_4d78d6
 - Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - concept-change
 - everyday-models
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - concept-change
 - everyday-models
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Students often keep wrong science ideas because the models still make everyday experiences feel explainable.
 hero_summary: Students often keep wrong science ideas because the models still make everyday experiences feel explainable.
 layout: default
 permalink: /everyday-models/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /concept-change/
 nav_short_title: Everyday Models
 title: Why Wrong Science Ideas Feel Sensible
-title_full: Why Wrong Science Ideas Feel Sensible | Concept Change
+title_full: Why Wrong Science Ideas Feel Sensible
 display_title_short: Everyday Models
 display_title: Everyday Models
 heading_title: Why Wrong Science Ideas Feel Sensible
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Learners Replace Wrong Ideas | Mythcraft
+parent_title: How Learners Replace Wrong Ideas
 parent_permalink: /concept-change/
 parent_nav_short_title: Concept Change
 parent_heading_title: How Learners Replace Wrong Ideas
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Corrections Need Better Explanations
 up_link:
   basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
@@ -265,7 +265,7 @@ next_link:
   permalink: /private-universe/
   short_title: Private Universe
   heading_title: What A Private Universe Revealed
-date: '2026-06-09 05:05:52 '
+date: '2026-06-11 22:21:59 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d-Illustration-1.webp
@@ -276,9 +276,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_ev
 
 Students often keep scientifically incorrect ideas because those ideas genuinely help them make sense of everyday experience. A child who believes that heavier objects fall faster, that moving things need a constant push, or that summer happens because Earth is closer to the Sun is not usually guessing at random. They are applying patterns that seem to work in ordinary life. The misconception survives because it explains enough visible events to feel useful.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d-Illustration-1-dark.svg" | relative_url }}" alt="Everyday Models illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is one of the central problems in [conceptual change]({{ 'concept-change/' | relative_url }}) in science learning. Scientific explanations do not arrive in an empty mind. Learners already have working models built from observation, language, analogy and common experience. When school science presents a different explanation, students may memorise the new answer while continuing to reason with the older model underneath. Research on conceptual change repeatedly shows that prior ideas are not simply replaced by facts; they compete with, reshape and sometimes resist new learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">ScienceDirectConceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csun.edu/~SB4310/How%20People%20Learn.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csun.edu">[California State University, Northridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csun.edu</span><span class="citation-popover-title">How People Learn</span><span class="citation-popover-snippet">pdfby JD Bransford · 2004 · Cited by 33022 — How people learn: brain, mind, experience, and school / John D.... science of learning to...</span></span></span>
+This is one of the central problems in conceptual change in science learning. Scientific explanations do not arrive in an empty mind. Learners already have working models built from observation, language, analogy and common experience. When school science presents a different explanation, students may memorise the new answer while continuing to reason with the older model underneath. Research on conceptual change repeatedly shows that prior ideas are not simply replaced by facts; they compete with, reshape and sometimes resist new learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">Conceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csun.edu/~SB4310/How%20People%20Learn.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csun.edu">[California State University, Northridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csun.edu</span><span class="citation-popover-title">How People Learn</span><span class="citation-popover-snippet">pdfby JD Bransford · 2004 · Cited by 33022 — How people learn: brain, mind, experience, and school / John D.... science of learning to...</span></span></span>
 
 ## Everyday Rules That Work Until They Do Not
 
@@ -287,7 +286,6 @@ Many misconceptions begin as successful everyday rules.
 From early childhood, people learn that pushing harder makes things move faster, that objects eventually stop moving, and that standing closer to a fire feels warmer. These observations are real. The problem appears when learners extend them into situations where different scientific principles apply.
 
 Consider a few common examples:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -308,14 +306,11 @@ A scientific explanation is not automatically attractive simply because it is co
 
 For a learner, an explanation has to do practical cognitive work. It needs to help predict events, organise observations and answer questions. If an everyday model already performs those functions reasonably well, there is little pressure to abandon it.
 
-Conceptual change researchers have argued that learners compare new explanations against existing ones. The older model survives when it still feels understandable, reliable and useful in familiar situations. A new scientific explanation must seem not only correct but also more satisfying than the previous account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">1982) introduced the conceptual change model (CCM) into science education literature...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">ScienceDirectConceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</span></span></span>
+Conceptual change researchers have argued that learners compare new explanations against existing ones. The older model survives when it still feels understandable, reliable and useful in familiar situations. A new scientific explanation must seem not only correct but also more satisfying than the previous account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">1982) introduced the conceptual change model (CCM) into science education literature...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">Conceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</span></span></span>
 
 This creates an important classroom problem. A student may learn the scientific definition of force yet continue to think about motion using the everyday push-keeps-it-going model. The scientific idea becomes a school answer, while the everyday idea remains the reasoning tool used outside tests.
 
 The National Research Council's work on learning highlighted this pattern directly: students can learn information for assessment purposes yet return to their original explanations when interpreting real-world situations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdcoe.net">[San Diego County Office of Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdcoe.net</span><span class="citation-popover-snippet">San Diego County Office of EducationKey Findings from How People LearnA fundamental insight about learning is that new understandings are...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1iFMp2NUJVs" title="Outreach Webinar: &quot;A Private Universe&quot; Revealed [Part 1]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1iFMp2NUJVs" target="_blank" rel="noopener noreferrer">Outreach Webinar: &quot;A Private Universe&quot; Revealed [Part 1]</a></p><p class="youtube-embed-meta">Channel: Astronomical Society of the Pacific &middot; Views: 905 &middot; Uploaded: August 2016 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1iFMp2NUJVs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1iFMp2NUJVs">Open on YouTube</a></p></div></div></div>
 
 ## Why Correct Answers Do Not Automatically Replace Old Ideas
 
@@ -339,12 +334,11 @@ Many scientific explanations involve invisible processes such as forces, particl
 
 **They connect to existing beliefs.**
 
-Prior knowledge forms networks. A misconception is often linked to other assumptions, meanings and experiences. Replacing it may require changing several connected ideas at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLong-Lasting Conceptual Change in Science Education</span><span class="citation-popover-snippet">PMCby X Li · 2021 · Cited by 50 — Misconceptions have been considered as “theory-like naïve assumptions held by medieval scientists” (Chi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1041608025001207" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect How does prior knowledge affect learning?</span><span class="citation-popover-snippet">A review of 16...by M Schneider · 2025 · Cited by 29 — We give an integrative review of 16 learning processes mediating the effects of p...</span></span></span>
+Prior knowledge forms networks. A misconception is often linked to other assumptions, meanings and experiences. Replacing it may require changing several connected ideas at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLong-Lasting Conceptual Change in Science Education</span><span class="citation-popover-snippet">by X Li · 2021 · Cited by 50 — Misconceptions have been considered as “theory-like naïve assumptions held by medieval scientists” (Chi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1041608025001207" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect How does prior knowledge affect learning?</span><span class="citation-popover-snippet">A review of 16...by M Schneider · 2025 · Cited by 29 — We give an integrative review of 16 learning processes mediating the effects of p...</span></span></span>
 
 **Language keeps reviving it.**
 
 Ordinary speech frequently reinforces intuitive models. People say batteries "store power", plants "eat" nutrients, or species "adapt because they need to". These phrases can quietly support non-scientific interpretations.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d-Illustration-2-dark.svg" | relative_url }}" alt="Everyday Models illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Difference Between Memorising and Reorganising
@@ -361,10 +355,9 @@ The student has incorporated the scientific idea of tilt but has interpreted it 
 
 This is why conceptual change is often slow. The challenge is not remembering a fact. The challenge is learning when an old explanatory rule no longer works and adopting a new way of organising experience.
 
-Research reviews describe misconceptions as robust because they emerge from earlier learning histories and continue shaping how new information is interpreted. New knowledge is filtered through existing knowledge rather than simply replacing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">ScienceDirectConceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">ScienceDirectConceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</span></span></span>
+Research reviews describe misconceptions as robust because they emerge from earlier learning histories and continue shaping how new information is interpreted. New knowledge is filtered through existing knowledge rather than simply replacing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">Conceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">Conceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NEgcbFl6Onc" title="How to Find &amp; Correct Students&#x27; Misconceptions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NEgcbFl6Onc" target="_blank" rel="noopener noreferrer">How to Find &amp; Correct Students&#x27; Misconceptions</a></p><p class="youtube-embed-meta">Channel: MathLight</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NEgcbFl6Onc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NEgcbFl6Onc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1iFMp2NUJVs" title="Outreach Webinar: &quot;A Private Universe&quot; Revealed [Part 1]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1iFMp2NUJVs" target="_blank" rel="noopener noreferrer">Outreach Webinar: &quot;A Private Universe&quot; Revealed [Part 1]</a></p><p class="youtube-embed-meta">Channel: Astronomical Society of the Pacific &middot; Views: 905 &middot; Uploaded: August 2016 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1iFMp2NUJVs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1iFMp2NUJVs">Open on YouTube</a></p></div></div></div>
 
 ## Classroom Signs That Students Are Still Using the Old Model
 
@@ -394,7 +387,6 @@ Scientific and everyday ideas appear together in the same account.
 
 Educational researchers have often found that misconceptions remain hidden when assessment focuses only on recall. Interviews, prediction tasks and requests for explanations reveal much more about the model students are actually using. *A Private Universe* became influential largely because it exposed these hidden reasoning patterns rather than simply measuring right and wrong answers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learner.org/series/a-private-universe/1-a-private-universe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learner.org">[Annenberg Learner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learner.org</span><span class="citation-popover-snippet">Annenberg LearnerA Private UniverseThis video brings into sharp focus the dilemma facing all educators: Why don&#x27;t even the brightest stud...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scienceinschool.org/article/2010/privateuniverse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scienceinschool.org">[2scienceinschool.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scienceinschool.org</span><span class="citation-popover-snippet">A Private Universe online resources, By Matthew H...7 Dec 2010 — The A Private Universe project in science is a collection of nine works...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d-Illustration-3-dark.svg" | relative_url }}" alt="Everyday Models illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why These Models Matter for Learning
 
@@ -403,10 +395,6 @@ Treating misconceptions as simple mistakes misses their most important feature: 
 Students keep everyday science models because those models have explanatory power within ordinary experience. They help organise observations, support predictions and provide coherent stories about how things work. Their strength is precisely what makes them difficult to replace.
 
 For science education, this means that conceptual change is not a battle against ignorance. It is a process of helping learners recognise where an intuitive model succeeds, where it fails, and why a scientific model can explain a wider range of phenomena. Until students experience those limits for themselves, the everyday model often remains the explanation that feels most sensible. OUP Academic 3Wiley Online Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdcoe.net">[San Diego County Office of Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdcoe.net</span><span class="citation-popover-snippet">San Diego County Office of EducationKey Findings from How People LearnA fundamental insight about learning is that new understandings are...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bh6QolG6zwY" title="Misconceptions in Science Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bh6QolG6zwY" target="_blank" rel="noopener noreferrer">Misconceptions in Science Education</a></p><p class="youtube-embed-meta">Channel: Media &amp; Methods Lab UTL ETH Zurich</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bh6QolG6zwY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bh6QolG6zwY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -805,130 +793,130 @@ For science education, this means that conceptual change is not a battle against
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Conceptual Change Theory  
-   Link: [https://www.sciencedirect.com/topics/psychology/conceptual-change-theory](https://www.sciencedirect.com/topics/psychology/conceptual-change-theory)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectConceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/conceptual-change-theory</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21887](https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21887)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21887" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21887</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(1982) introduced the conceptual change model (CCM) into science education literature...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: learner.org  
-   Link: [https://www.learner.org/series/a-private-universe/1-a-private-universe/](https://www.learner.org/series/a-private-universe/1-a-private-universe/)  
+   Link: <a href="https://www.learner.org/series/a-private-universe/1-a-private-universe/" target="_blank" rel="noopener noreferrer nofollow">https://www.learner.org/series/a-private-universe/1-a-private-universe/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annenberg LearnerA Private UniverseThis video brings into sharp focus the dilemma facing all educators: Why don&#x27;t even the brightest stud...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLong-Lasting Conceptual Change in Science Education  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby X Li · 2021 · Cited by 50 — Misconceptions have been considered as “theory-like naïve assumptions held by medieval scientists” (Chi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by X Li · 2021 · Cited by 50 — Misconceptions have been considered as “theory-like naïve assumptions held by medieval scientists” (Chi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Conceptual change  
-   Link: [https://en.wikipedia.org/wiki/Conceptual_change](https://en.wikipedia.org/wiki/Conceptual_change)  
+   Link: <a href="https://en.wikipedia.org/wiki/Conceptual_change" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Conceptual_change</a>  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect How does prior knowledge affect learning?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1041608025001207](https://www.sciencedirect.com/science/article/pii/S1041608025001207)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1041608025001207" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1041608025001207</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of 16...by M Schneider · 2025 · Cited by 29 — We give an integrative review of 16 learning processes mediating the effects of p...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: scienceinschool.org  
-   Link: [https://scienceinschool.org/article/2010/privateuniverse/](https://scienceinschool.org/article/2010/privateuniverse/)  
+   Link: <a href="https://scienceinschool.org/article/2010/privateuniverse/" target="_blank" rel="noopener noreferrer nofollow">https://scienceinschool.org/article/2010/privateuniverse/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Private Universe online resources, By Matthew H...7 Dec 2010 — The A Private Universe project in science is a collection of nine works...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: csun.edu  
    Title: How People Learn  
-   Link: [https://www.csun.edu/~SB4310/How%20People%20Learn.pdf](https://www.csun.edu/~SB4310/How%20People%20Learn.pdf)  
+   Link: <a href="https://www.csun.edu/~SB4310/How%20People%20Learn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.csun.edu/~SB4310/How%20People%20Learn.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>pdfby JD Bransford · 2004 · Cited by 33022 — How people learn: brain, mind, experience, and school / John D.... science of learning to...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sdcoe.net  
-   Link: [https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn](https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn)  
+   Link: <a href="https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn" target="_blank" rel="noopener noreferrer nofollow">https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>San Diego County Office of EducationKey Findings from How People LearnA fundamental insight about learning is that new understandings are...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: roehampton.ac.uk  
-   Link: [https://www.roehampton.ac.uk/globalassets/documents/education/pgce-welcome-subject-specific-reading/science-essential-reading-1-driver.pdf](https://www.roehampton.ac.uk/globalassets/documents/education/pgce-welcome-subject-specific-reading/science-essential-reading-1-driver.pdf)  
+   Link: <a href="https://www.roehampton.ac.uk/globalassets/documents/education/pgce-welcome-subject-specific-reading/science-essential-reading-1-driver.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.roehampton.ac.uk/globalassets/documents/education/pgce-welcome-subject-specific-reading/science-essential-reading-1-driver.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roehampton UniversityStudents&#x27; conceptions and the learning of science23 Feb 2007 — 1987, The process of conceptual change in science: A...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: oxfordre.com  
-   Link: [https://oxfordre.com/education/display/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-965?d=%2F10.1093%2Facrefore%2F9780190264093.001.0001%2Facrefore-9780190264093-e-965&p=emailAon3Ef8P3hGVA](https://oxfordre.com/education/display/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-965?d=%2F10.1093%2Facrefore%2F9780190264093.001.0001%2Facrefore-9780190264093-e-965&p=emailAon3Ef8P3hGVA)  
+   Link: <a href="https://oxfordre.com/education/display/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-965?d=%2F10.1093%2Facrefore%2F9780190264093.001.0001%2Facrefore-9780190264093-e-965&amp;p=emailAon3Ef8P3hGVA" target="_blank" rel="noopener noreferrer nofollow">https://oxfordre.com/education/display/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-965?d=%2F10.1093%2Facrefore%2F9780190264093.001.0001%2Facrefore-9780190264093-e-965&amp;p=emailAon3Ef8P3hGVA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicStudents&#x27; Misconceptions and Science Education30 Jul 2020 — Influenced by Piagetian and Vygotskian research, science educator...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ejmste.com  
    Title: Eurasia Journalalternative-conceptions-of-astronomy-how-irish-secondary  
-   Link: [https://www.ejmste.com/download/alternative-conceptions-of-astronomy-how-irish-secondary-students-understand-gravity-seasons-and-the-10780.pdf](https://www.ejmste.com/download/alternative-conceptions-of-astronomy-how-irish-secondary-students-understand-gravity-seasons-and-the-10780.pdf)  
+   Link: <a href="https://www.ejmste.com/download/alternative-conceptions-of-astronomy-how-irish-secondary-students-understand-gravity-seasons-and-the-10780.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/alternative-conceptions-of-astronomy-how-irish-secondary-students-understand-gravity-seasons-and-the-10780.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 18, 2021 — by A Cardinot · 2021 · Cited by 20 — Furthermore, learners attempt to create a scientific argument by using daily experi...</p></details>
    Published: March 18, 2021  
 
 13. <a id="endnote-13"></a>
    Source: ejmste.com  
    Title: In other.Read more  
-   Link: [https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf](https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf)  
+   Link: <a href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eurasia JournalAn Overview of Conceptual Change Theoriesby G Özdemir · 2007 · Cited by 549 — Misconceptions are therefore not only inaccu...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: siumed.edu  
-   Link: [https://www.siumed.edu/academy/private-universe.html](https://www.siumed.edu/academy/private-universe.html)  
+   Link: <a href="https://www.siumed.edu/academy/private-universe.html" target="_blank" rel="noopener noreferrer nofollow">https://www.siumed.edu/academy/private-universe.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SIU School of MedicineA Private UniverseEven the brightest students in the class have false ideas based on enduring misconceptions that t...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: lweb.cfa.harvard.edu  
-   Link: [https://lweb.cfa.harvard.edu/education/k12.html](https://lweb.cfa.harvard.edu/education/k12.html)  
+   Link: <a href="https://lweb.cfa.harvard.edu/education/k12.html" target="_blank" rel="noopener noreferrer nofollow">https://lweb.cfa.harvard.edu/education/k12.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>student misconceptions to physics, chemistry, and life science. Built around longer clips of science classroom activities and student...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/234662855_Why_We_Have_Seasons_and_Other_Common_Misconceptions](https://www.researchgate.net/publication/234662855_Why_We_Have_Seasons_and_Other_Common_Misconceptions)  
+   Link: <a href="https://www.researchgate.net/publication/234662855_Why_We_Have_Seasons_and_Other_Common_Misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/234662855_Why_We_Have_Seasons_and_Other_Common_Misconceptions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Have Seasons and Other Common MisconceptionsThere is a substantial body of discipline-based education research demonstrating the d...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/5287/chapter/5](https://www.nationalacademies.org/read/5287/chapter/5)  
+   Link: <a href="https://www.nationalacademies.org/read/5287/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/5287/chapter/5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Descriptions and examples of some common misconceptions in science. Methods to identify misconceptions.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/314134259_Introduction_Misconceptions_in_Science_Education_An_Overview](https://www.researchgate.net/publication/314134259_Introduction_Misconceptions_in_Science_Education_An_Overview)  
+   Link: <a href="https://www.researchgate.net/publication/314134259_Introduction_Misconceptions_in_Science_Education_An_Overview" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/314134259_Introduction_Misconceptions_in_Science_Education_An_Overview</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions in Science Education: An OverviewStudent misconceptions must be addressed in a way that does not discredit a student&#x27;s ini...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: openlearning.mit.edu  
    Title: cognitive science teaching and learning how people learn  
-   Link: [https://openlearning.mit.edu/news/cognitive-science-teaching-and-learning-how-people-learn](https://openlearning.mit.edu/news/cognitive-science-teaching-and-learning-how-people-learn)  
+   Link: <a href="https://openlearning.mit.edu/news/cognitive-science-teaching-and-learning-how-people-learn" target="_blank" rel="noopener noreferrer nofollow">https://openlearning.mit.edu/news/cognitive-science-teaching-and-learning-how-people-learn</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Science of Teaching and Learning15 Oct 2018 — Apparently, a controlled study suggests that while learning a new method or infor...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/D3902E2ACAA0764A9F3C92342B0E1499](https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/D3902E2ACAA0764A9F3C92342B0E1499)  
+   Link: <a href="https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/D3902E2ACAA0764A9F3C92342B0E1499" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/D3902E2ACAA0764A9F3C92342B0E1499</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ng as “critical barriers.” Others used different terms for the same idea...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: blogs.ubc.ca  
    Title: student misconceptions as their private universe  
-   Link: [https://blogs.ubc.ca/etec533brendathomas/2023/01/17/student-misconceptions-as-their-private-universe/](https://blogs.ubc.ca/etec533brendathomas/2023/01/17/student-misconceptions-as-their-private-universe/)  
+   Link: <a href="https://blogs.ubc.ca/etec533brendathomas/2023/01/17/student-misconceptions-as-their-private-universe/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.ubc.ca/etec533brendathomas/2023/01/17/student-misconceptions-as-their-private-universe/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UBC BlogsStudent Misconceptions as Their Private Universe17 Jan 2023 — In A Private Universe, Heather, a 9 th grade student, is formulati...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nsta.org  
-   Link: [https://www.nsta.org/science-scope/science-scope-january-2003/science-sampler-why-we-have-seasons-and-other-common?srsltid=AfmBOoqiKIk5DgxDR9tLlPnRaFLA4-fa3JY6gRYEobxuN7NHFwXM7q-b](https://www.nsta.org/science-scope/science-scope-january-2003/science-sampler-why-we-have-seasons-and-other-common?srsltid=AfmBOoqiKIk5DgxDR9tLlPnRaFLA4-fa3JY6gRYEobxuN7NHFwXM7q-b)  
+   Link: <a href="https://www.nsta.org/science-scope/science-scope-january-2003/science-sampler-why-we-have-seasons-and-other-common?srsltid=AfmBOoqiKIk5DgxDR9tLlPnRaFLA4-fa3JY6gRYEobxuN7NHFwXM7q-b" target="_blank" rel="noopener noreferrer nofollow">https://www.nsta.org/science-scope/science-scope-january-2003/science-sampler-why-we-have-seasons-and-other-common?srsltid=AfmBOoqiKIk5DgxDR9tLlPnRaFLA4-fa3JY6gRYEobxuN7NHFwXM7q-b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eptions. This video is effective in capturing preservice teachers&#x27;...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: edutopia.org  
-   Link: [https://www.edutopia.org/blog/how-people-learn-evidence-based-paul-bruno](https://www.edutopia.org/blog/how-people-learn-evidence-based-paul-bruno)  
+   Link: <a href="https://www.edutopia.org/blog/how-people-learn-evidence-based-paul-bruno" target="_blank" rel="noopener noreferrer nofollow">https://www.edutopia.org/blog/how-people-learn-evidence-based-paul-bruno</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>them into their long-term [memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: learningscientists.org  
-   Link: [https://www.learningscientists.org/blog/2022/9/13-1](https://www.learningscientists.org/blog/2022/9/13-1)  
+   Link: <a href="https://www.learningscientists.org/blog/2022/9/13-1" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2022/9/13-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Prior Knowledge and Learning New Information: The Rich...15 Sept 2022 — Every student comes into class with some type of prior knowledge...</p></details>

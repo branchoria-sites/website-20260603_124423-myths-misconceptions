@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_brain_lateralisation_84d0c3
 - Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_right_brain_creativi_4469c6
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - left-brain
 - style-matching
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - left-brain
 - style-matching
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Teaching works best when methods fit the material and task, not when they are matched to a claimed brain style.
 hero_summary: Teaching works best when methods fit the material and task, not when they are matched to a claimed brain style.
 layout: default
 permalink: /style-matching/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /left-brain/
 nav_short_title: Style matching
 title: Why matching styles is not enough
-title_full: Why matching styles is not enough | Left Brain
+title_full: Why matching styles is not enough
 display_title_short: Style matching
 display_title: Style matching
 heading_title: Why matching styles is not enough
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Are People Really Left Brain or Right Brain? | Mythcraft
+parent_title: Are People Really Left Brain or Right Brain?
 parent_permalink: /left-brain/
 parent_nav_short_title: Left Brain
 parent_heading_title: Are People Really Left Brain or Right Brain?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When brain labels shrink expectations
 up_link:
   basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
@@ -259,7 +259,7 @@ prev_link:
   permalink: /learner-labels-f9b3ab/
   short_title: Learner labels
   heading_title: When brain labels shrink expectations
-date: '2026-06-09 05:25:35 '
+date: '2026-06-11 22:31:55 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_le
 
 ## Introduction
 
-The claim that some pupils are “left-brain learners” and others are “right-brain learners” often survives because it sounds like a specialised version of a familiar educational idea: people learn best when teaching is matched to their natural style. Once researchers began testing learning-styles claims directly, however, the evidence created a problem for hemisphere-based teaching. The same standards that challenge visual-versus-auditory matching also challenge left-brain-versus-right-brain matching. Both depend on a strong assumption that learners can be sorted into stable categories and that instruction becomes more effective when it is tailored to those categories. Decades of research have struggled to support that assumption. Instead, the strongest evidence suggests that teaching works best when methods fit the content being learned and the cognitive demands of the task, not a supposed brain type. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4835 — We conclude therefore, that at present, there is...</span></span></span>
-
+The claim that some pupils are “left-brain learners” and others are “right-brain learners” often survives because it sounds like a specialised version of a familiar educational idea: people learn best when teaching is matched to their natural style. Once researchers began testing learning-styles claims directly, however, the evidence created a problem for hemisphere-based teaching. The same standards that challenge visual-versus-auditory matching also challenge left-brain-versus-right-brain matching. Both depend on a strong assumption that learners can be sorted into stable categories and that instruction becomes more effective when it is tailored to those categories. Decades of research have struggled to support that assumption. Instead, the strongest evidence suggests that teaching works best when methods fit the content being learned and the cognitive demands of the task, not a supposed brain type. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4835 — We conclude therefore, that at present, there is...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-1-dark.svg" | relative_url }}" alt="Style matching illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The result is not that individual differences disappear. Learners differ in knowledge, motivation, attention, language skills, [memory]({{ 'memory/' | relative_url }}) capacity and experience. The challenge is that hemisphere labels have not provided a reliable way to identify those differences or improve instruction. Research on learning styles became one of the most important tests of that broader idea.
@@ -278,12 +277,11 @@ The result is not that individual differences disappear. Learners differ in know
 
 A common misunderstanding is that learning-style theories can be confirmed simply by showing that people have preferences. Many people do prefer diagrams to text, listening to reading, or hands-on activities to lectures. Yet preference alone does not demonstrate that learning improves when teaching is matched to that preference. Researchers therefore developed a much stricter test.
 
-The influential review by Harold Pashler and colleagues argued that a genuine style-matching theory requires a specific experimental pattern. Learners must first be classified into different styles. They must then be randomly assigned to different instructional methods. Most importantly, the results must show a crossover effect: one group learns best from one method while another group learns best from a different method. Without that interaction, the [matching claim fails]({{ 'matching-claim/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span>
+The influential review by Harold Pashler and colleagues argued that a genuine style-matching theory requires a specific experimental pattern. Learners must first be classified into different styles. They must then be randomly assigned to different instructional methods. Most importantly, the results must show a crossover effect: one group learns best from one method while another group learns best from a different method. Without that interaction, the [matching claim]({{ 'matching-claim/' | relative_url }}) fails. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span>
 
 This requirement matters because hemisphere-matching theories make exactly the same prediction. If “left-brain” and “right-brain” learners were meaningful categories, researchers should be able to identify them and demonstrate that each group learns more effectively from different forms of teaching. The evidence would need to show more than different preferences or personalities. It would need to show reliably improved learning outcomes.
 
-That standard turned out to be difficult to meet. Reviews repeatedly found that studies often measured preferences rather than achievement, lacked proper experimental designs, or failed to demonstrate the required interaction effect. As a result, the central matching hypothesis remained unsupported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[American Chemical Society Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-title">American Chemical Society Publications Finding No Evidence for Learning Styles</span><span class="citation-popover-snippet">American Chemical Society PublicationsFinding No Evidence for Learning Styles - ACS Publications11 Jul 2017 — No experimental evidence ex...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4835 — We conclude therefore, that at present, there is...</span></span></span>
-
+That standard turned out to be difficult to meet. Reviews repeatedly found that studies often measured preferences rather than achievement, lacked proper experimental designs, or failed to demonstrate the required interaction effect. As a result, the central matching hypothesis remained unsupported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[American Chemical Society Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-title">American Chemical Society Publications Finding No Evidence for Learning Styles</span><span class="citation-popover-snippet">American Chemical Society PublicationsFinding No Evidence for Learning Styles - ACS Publications11 Jul 2017 — No experimental evidence ex...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4835 — We conclude therefore, that at present, there is...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZMSbDwpIyF4" title="The left brain vs. right brain myth - Elizabeth Waters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZMSbDwpIyF4" target="_blank" rel="noopener noreferrer">The left brain vs. right brain myth - Elizabeth Waters</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 1.2M &middot; Uploaded: July 2017 &middot; Length: 4 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZMSbDwpIyF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZMSbDwpIyF4">Open on YouTube</a></p></div></div></div>
 
@@ -293,12 +291,11 @@ The failure of learning-style evidence has direct consequences for hemisphere-ba
 
 One major problem is instability. Many style classifications produce inconsistent results over time or across contexts. A learner labelled one way in a questionnaire may not receive the same classification later. If the categories themselves are unstable, building instructional decisions around them becomes difficult to justify. Reviews of learning-style models found major concerns about reliability, validity and inconsistent definitions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leerbeleving.nl">[Leerbeleving]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leerbeleving.nl</span><span class="citation-popover-snippet">The report concludes that it matters...Read more...</span></span></span>
 
-Another problem is that successful studies often show that one teaching method works better for nearly everyone. For example, diagrams may help when teaching spatial relationships, while spoken explanation may be useful for pronunciation. In such cases, the benefit comes from the nature of the material rather than the learner's category. The result is an instructional advantage, but not evidence for matching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span>
+Another problem is that successful studies often show that one teaching method works better for nearly everyone. For example, diagrams may help when teaching spatial relationships, while spoken explanation may be useful for pronunciation. In such cases, the benefit comes from the nature of the material rather than the learner's category. The result is an instructional advantage, but not evidence for matching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span>
 
 This distinction becomes especially important when left-brain and right-[brain labels]({{ 'brain-labels/' | relative_url }}) enter the classroom. A pupil described as “right-brained” may be directed towards images and creativity-based activities, while a “left-brained” pupil may receive more verbal or analytical work. Yet the research does not show that these labels predict which teaching method will maximise learning. Neuroscience reviews also note that the underlying assumption is weak because most learning depends on distributed networks across both hemispheres rather than a dominant half-brain learning system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.monash.edu/en/publications/the-myth-of-the-left-vs-right-brain-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.monash.edu">[Monash University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.monash.edu</span><span class="citation-popover-snippet">Monash UniversityThe myth of the left- Vs right-brain learningby KA Allen · 2019 · Cited by 34 — This paper explores the myth of hemisphe...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Learning Styles Myth is Thriving in Higher Education</span><span class="citation-popover-snippet">Learning Styles Myth is Thriving in Higher Education - PMCby PM Newton · 2015 · Cited by 474 — Only one study tested the &#x27;matching hypoth...</span></span></span>
 
-The educational risk is subtle but important. Once learners receive a category, expectations can narrow. Students may avoid effective strategies because they believe those strategies do not fit their style. Teachers may also limit opportunities by assuming certain pupils are naturally suited to one type of thinking. Critics of learning-style instruction argue that these labels can become self-reinforcing without improving outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://the-learning-agency.com/insights/[debunking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-learning-agency.com">[The Learning Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-learning-agency.com</span><span class="citation-popover-snippet">The Learning AgencyDebunking The &#x27;Learning Styles&#x27; NeuromythResearch shows there&#x27;s little evidence it actually exists. Placing students i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLeft Brain, Right Brain: Facts and Fantasies</span><span class="citation-popover-snippet">PMC - NIHby MC Corballis · 2014 · Cited by 520 — Michael Corballis discusses in this essay how the asymmetry of the brain raises question...</span></span></span>
-
+The educational risk is subtle but important. Once learners receive a category, expectations can narrow. Students may avoid effective strategies because they believe those strategies do not fit their style. Teachers may also limit opportunities by assuming certain pupils are naturally suited to one type of thinking. Critics of learning-style instruction argue that these labels can become self-reinforcing without improving outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://the-learning-agency.com/insights/[debunking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-learning-agency.com">[The Learning Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-learning-agency.com</span><span class="citation-popover-snippet">The Learning AgencyDebunking The &#x27;Learning Styles&#x27; NeuromythResearch shows there&#x27;s little evidence it actually exists. Placing students i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLeft Brain, Right Brain: Facts and Fantasies</span><span class="citation-popover-snippet">NIHby MC Corballis · 2014 · Cited by 520 — Michael Corballis discusses in this essay how the asymmetry of the brain raises question...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-2-dark.svg" | relative_url }}" alt="Style matching illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why hemisphere labels borrowed the language of learning styles
@@ -309,12 +306,11 @@ Researchers have long known that some functions show partial [lateralisation]({{
 
 Learning-style theories provided a convenient framework for that leap. If visual, verbal or kinaesthetic learners existed, then it seemed plausible that left-brain and right-brain learners might exist as well. Both models promised personalised education through classification. Both suggested that identifying a learner's type could reveal the best teaching method.
 
-Yet the evidence problems were remarkably similar. Educational researchers found little support for style matching, while neuroscientists found little support for global left-brained or right-brained personality types. Reviews of [neuromyths]({{ 'neuromyths/' | relative_url }}) frequently discuss the two beliefs together because they share the same underlying logic: a simplified brain-based category is assumed to dictate how a person learns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Dekker · 2012 · Cited by 1288 — An example of a neuromyth is that learning could be improved if children were classified and taug...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 271 — The findings present neuromyths...</span></span></span>
+Yet the evidence problems were remarkably similar. Educational researchers found little support for style matching, while neuroscientists found little support for global left-brained or right-brained personality types. Reviews of [neuromyths]({{ 'neuromyths/' | relative_url }}) frequently discuss the two beliefs together because they share the same underlying logic: a simplified brain-based category is assumed to dictate how a person learns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1288 — An example of a neuromyth is that learning could be improved if children were classified and taug...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 271 — The findings present neuromyths...</span></span></span>
 
 This overlap helps explain why belief in both myths remains widespread. Each offers an intuitive explanation for individual differences. Each promises customised teaching. The scientific challenge is that the promised mechanism has not been demonstrated convincingly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deansforimpact.org/about/news-and-blog/2016/06/09/exploring-the-left-brainright-brain-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deansforimpact.org">[Deans for Impact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deansforimpact.org</span><span class="citation-popover-title">exploring the left brainright brain myth</span><span class="citation-popover-snippet">Melina Uncapher explores the right-brain/left-brain myth: that people are preferentially “right-brained” or “left-brained” in the use of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learningscientists.org/blog/2016/8/2-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningscientists.org">[The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningscientists.org</span><span class="citation-popover-snippet">The Learning ScientistsGUEST POST: Exploring the Left Brain / Right Brain Myth2 Aug 2016 — The idea that people rely predominantly on eit...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HKWuhnLoKKY" title="The Myth of “Learning Styles” [CC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HKWuhnLoKKY" target="_blank" rel="noopener noreferrer">The Myth of “Learning Styles” [CC]</a></p><p class="youtube-embed-meta">Channel: Sydney Zarlengo &middot; Views: 1.6K &middot; Uploaded: March 2024 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HKWuhnLoKKY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HKWuhnLoKKY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eDQquPtqMZs" title="Neurologists Debunk 11 Brain Myths | Debunked | Science Insider" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eDQquPtqMZs" target="_blank" rel="noopener noreferrer">Neurologists Debunk 11 Brain Myths | Debunked | Science Insider</a></p><p class="youtube-embed-meta">Channel: Insider Science &middot; Views: 2.6M &middot; Uploaded: June 2022 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eDQquPtqMZs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eDQquPtqMZs">Open on YouTube</a></p></div></div></div>
 
 ## How task-specific teaching replaces hemisphere labels
 
@@ -325,25 +321,22 @@ Research increasingly supports matching instruction to the material rather than 
 * Reading requires attention to language, vocabulary, comprehension and background knowledge. Effective instruction therefore focuses on those components rather than on whether a pupil is supposedly left-brained or right-brained.
 * Geometry, engineering and anatomy often benefit from diagrams because the content itself contains spatial relationships that are easier to represent visually.
 * Pronunciation, music and language listening skills require exposure to sound because auditory information is part of the task.
-* Complex procedures often benefit from demonstrations combined with practice because learners need to see and perform the sequence of actions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poorvucenter.yale.edu">[Poorvu Center for Teaching and Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poorvucenter.yale.edu</span><span class="citation-popover-snippet">Styles as a Myth - Teaching - Poorvu CenterResearch indicates that there is no scientific evidence to support the notion that matching co...</span></span></span>
+* Complex procedures often benefit from demonstrations combined with practice because learners need to see and perform the sequence of actions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poorvucenter.yale.edu">[Poorvu Center for Teaching and Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poorvucenter.yale.edu</span><span class="citation-popover-snippet">Styles as a Myth - Teaching - Poorvu CenterResearch indicates that there is no scientific evidence to support the notion that matching co...</span></span></span>
 
 Notice that these decisions depend on the structure of the knowledge being learned, not on a learner's hemisphere label. A student may need text, diagrams, discussion and practice within the same lesson because different parts of the task demand different forms of representation.
 
 This approach also aligns better with contemporary neuroscience. Learning involves large-scale networks that coordinate attention, memory, perception, language and executive control. Different tasks recruit different combinations of these systems. The question becomes “What does this learner need for this task?” rather than “Which side of the brain does this learner belong to?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineBeyond left and right: Learning is a whole-brain processby DD Shin · 2022 · Cited by 12 — The OECD website outline...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 454 — These findings suggest that training in educati...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-3-dark.svg" | relative_url }}" alt="Style matching illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The lasting lesson from the learning-styles debate
 
 The most important contribution of the learning-styles literature may be methodological rather than theoretical. It forced educators to ask what kind of evidence is required before personalised teaching claims should be accepted.
 
-When that standard is applied to hemisphere matching, the results are largely the same. Researchers have not demonstrated that classifying pupils as left-brain or right-brain learners leads to better instructional decisions or stronger learning outcomes. The evidence instead points towards a more grounded form of personalisation: adapting teaching to the content, monitoring what learners actually understand, and responding to observable performance rather than presumed brain types. Monash University <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4835 — We conclude therefore, that at present, there is...</span></span></span>
+When that standard is applied to hemisphere matching, the results are largely the same. Researchers have not demonstrated that classifying pupils as left-brain or right-brain learners leads to better instructional decisions or stronger learning outcomes. The evidence instead points towards a more grounded form of personalisation: adapting teaching to the content, monitoring what learners actually understand, and responding to observable performance rather than presumed brain types. Monash University <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4835 — We conclude therefore, that at present, there is...</span></span></span>
 
 In that sense, the learning-styles debate did not merely challenge one educational fashion. It exposed a broader weakness in attempts to explain learning through simple categories. The failure to validate style matching became one of the clearest reasons to doubt that “left-brained” and “right-brained” learners are meaningful instructional groups in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it really a neuromyth?</span><span class="citation-popover-snippet">A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 27 — The review by Pashler et al. (2008) concluded that t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Learning Styles Myth is Thriving in Higher Education</span><span class="citation-popover-snippet">Learning Styles Myth is Thriving in Higher Education - PMCby PM Newton · 2015 · Cited by 474 — Only one study tested the &#x27;matching hypoth...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eDQquPtqMZs" title="Neurologists Debunk 11 Brain Myths | Debunked | Science Insider" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eDQquPtqMZs" target="_blank" rel="noopener noreferrer">Neurologists Debunk 11 Brain Myths | Debunked | Science Insider</a></p><p class="youtube-embed-meta">Channel: Insider Science &middot; Views: 2.6M &middot; Uploaded: June 2022 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eDQquPtqMZs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eDQquPtqMZs">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HKWuhnLoKKY" title="The Myth of “Learning Styles” [CC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HKWuhnLoKKY" target="_blank" rel="noopener noreferrer">The Myth of “Learning Styles” [CC]</a></p><p class="youtube-embed-meta">Channel: Sydney Zarlengo &middot; Views: 1.6K &middot; Uploaded: March 2024 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HKWuhnLoKKY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HKWuhnLoKKY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -742,174 +735,174 @@ In that sense, the learning-styles debate did not merely challenge one education
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Learning Styles Myth is Thriving in Higher Education  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles Myth is Thriving in Higher Education - PMCby PM Newton · 2015 · Cited by 474 — Only one study tested the &#x27;matching hypoth...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: leerbeleving.nl  
-   Link: [https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf](https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf)  
+   Link: <a href="https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The report concludes that it matters...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: research.monash.edu  
-   Link: [https://research.monash.edu/en/publications/the-myth-of-the-left-vs-right-brain-learning/](https://research.monash.edu/en/publications/the-myth-of-the-left-vs-right-brain-learning/)  
+   Link: <a href="https://research.monash.edu/en/publications/the-myth-of-the-left-vs-right-brain-learning/" target="_blank" rel="noopener noreferrer nofollow">https://research.monash.edu/en/publications/the-myth-of-the-left-vs-right-brain-learning/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Monash UniversityThe myth of the left- Vs right-brain learningby KA Allen · 2019 · Cited by 34 — This paper explores the myth of hemisphe...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLeft Brain, Right Brain: Facts and Fantasies  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby MC Corballis · 2014 · Cited by 520 — Michael Corballis discusses in this essay how the asymmetry of the brain raises question...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby MC Corballis · 2014 · Cited by 520 — Michael Corballis discusses in this essay how the asymmetry of the brain raises question...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: the-learning-agency.com  
-   Link: [https://the-learning-agency.com/insights/[debunking](https://the-learning-agency.com/insights/[debunking)  
+   Link: <a href="https://the-learning-agency.com/insights/[debunking" target="_blank" rel="noopener noreferrer nofollow">https://the-learning-agency.com/insights/[debunking</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning AgencyDebunking The &#x27;Learning Styles&#x27; NeuromythResearch shows there&#x27;s little evidence it actually exists. Placing students i...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 459 — The empirical evidence is clear t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Dekker · 2012 · Cited by 1288 — An example of a neuromyth is that learning could be improved if children were classified and taug...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker · 2012 · Cited by 1288 — An example of a neuromyth is that learning could be improved if children were classified and taug...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 271 — The findings present neuromyths...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 271 — The findings present neuromyths...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 454 — These findings suggest that training in educati...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCIs it really a neuromyth?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 27 — The review by Pashler et al. (2008) concluded that t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: structural-learning.com  
    Title: learning styles myth debunked  
-   Link: [https://www.structural-learning.com/post/learning-styles-myth-debunked](https://www.structural-learning.com/post/learning-styles-myth-debunked)  
+   Link: <a href="https://www.structural-learning.com/post/learning-styles-myth-debunked" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/learning-styles-myth-debunked</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26162104/](https://pubmed.ncbi.nlm.nih.gov/26162104/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26162104/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: journals.sagepub.com  
    Title: j.1539 6053.2009.01038.x  
-   Link: [https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x](https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4835 — We conclude therefore, that at present, there is...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: poorvucenter.yale.edu  
-   Link: [https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth](https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth)  
+   Link: <a href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow">https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Styles as a Myth - Teaching - Poorvu CenterResearch indicates that there is no scientific evidence to support the notion that matching co...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1111/j.1539-6053.2009.01038.x](https://journals.sagepub.com/doi/10.1111/j.1539-6053.2009.01038.x)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1111/j.1539-6053.2009.01038.x</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — To provide evidence for the learning-styles hypo...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pubs.acs.org  
    Title: American Chemical Society Publications Finding No Evidence for Learning Styles  
-   Link: [https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424](https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424)  
+   Link: <a href="https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Chemical Society PublicationsFinding No Evidence for Learning Styles - ACS Publications11 Jul 2017 — No experimental evidence ex...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386](https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineBeyond left and right: Learning is a whole-brain processby DD Shin · 2022 · Cited by 12 — The OECD website outline...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: deansforimpact.org  
    Title: exploring the left brainright brain myth  
-   Link: [https://www.deansforimpact.org/about/news-and-blog/2016/06/09/exploring-the-left-brainright-brain-myth](https://www.deansforimpact.org/about/news-and-blog/2016/06/09/exploring-the-left-brainright-brain-myth)  
+   Link: <a href="https://www.deansforimpact.org/about/news-and-blog/2016/06/09/exploring-the-left-brainright-brain-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.deansforimpact.org/about/news-and-blog/2016/06/09/exploring-the-left-brainright-brain-myth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Melina Uncapher explores the right-brain/left-brain myth: that people are preferentially “right-brained” or “left-brained” in the use of...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: learningscientists.org  
-   Link: [https://www.learningscientists.org/blog/2016/8/2-1](https://www.learningscientists.org/blog/2016/8/2-1)  
+   Link: <a href="https://www.learningscientists.org/blog/2016/8/2-1" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2016/8/2-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning ScientistsGUEST POST: Exploring the [Left Brain](&amp;#123;&amp;#123; &#x27;left-brain/&#x27; | relative_url &amp;#125;&amp;#125;) / Right Brain Myth2 Aug 2016 — The idea that people rely predominantly on eit...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Learning](https://en.wikipedia.org/wiki/Learning)  
+   Link: <a href="https://en.wikipedia.org/wiki/Learning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Learning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LearningLearning is the process of acquiring new understanding, knowledge, behaviors, skills, values, attitudes, and preferences.Read...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: structural-learning.com  
    Title: learning styles  
-   Link: [https://www.structural-learning.com/post/learning-styles](https://www.structural-learning.com/post/learning-styles)  
+   Link: <a href="https://www.structural-learning.com/post/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/learning-styles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Learning Styles: What Are Theyby P Main · 2026 · Cited by 2 — Pashler et al.&#x27;s (2008) comprehensive review found virtually...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/258066](https://www.jstor.org/stable/258066)  
+   Link: <a href="https://www.jstor.org/stable/258066" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/258066</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Left Brain/Right Brain Mythology and Implications for...by T Hines · 1987 · Cited by 120 — The first section of this paper reviews brief...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Left brain versus right brain thinkersAccording to this view, the left brain is the analytical, logical, verbal half while the right brai...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: inspire.acu.edu.au  
-   Link: [https://inspire.acu.edu.au/articles/learning-styles](https://inspire.acu.edu.au/articles/learning-styles)  
+   Link: <a href="https://inspire.acu.edu.au/articles/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://inspire.acu.edu.au/articles/learning-styles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>stylesby M Noetel — The matching hypothesis suggests people learn best when instruction aligns with their preferred style. For example, a...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: gc-bs.org  
-   Link: [https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/](https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/)  
+   Link: <a href="https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Learning Styles Myth and Embracing...12 Jan 2026 — At the heart of nearly all learning style theories lies a single, core...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/](https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/)  
+   Link: <a href="https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>problem with learning styles: debunking the meshing...22 Feb 2018 — The idea that catering to a learner&#x27;s favoured sensory preference, o...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: unisc.edu.au  
-   Link: [https://www.unisc.edu.au/about/unisc-news/news-archive/2025/april/students-are-neither-left-nor-right-brained-how-some-early-childhood-educators-get-this-neuromyth-and-others-wrong](https://www.unisc.edu.au/about/unisc-news/news-archive/2025/april/students-are-neither-left-nor-right-brained-how-some-early-childhood-educators-get-this-neuromyth-and-others-wrong)  
+   Link: <a href="https://www.unisc.edu.au/about/unisc-news/news-archive/2025/april/students-are-neither-left-nor-right-brained-how-some-early-childhood-educators-get-this-neuromyth-and-others-wrong" target="_blank" rel="noopener noreferrer nofollow">https://www.unisc.edu.au/about/unisc-news/news-archive/2025/april/students-are-neither-left-nor-right-brained-how-some-early-childhood-educators-get-this-neuromyth-and-others-wrong</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Students are neither left nor right brained: how some early...16 Apr 2025 — Students are neither left nor right brained: how some early...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: theabp.org.uk  
    Title: from categories to clarity how science debunks the learning styles approach  
-   Link: [https://theabp.org.uk/from-categories-to-clarity-how-science-debunks-the-learning-styles-approach/](https://theabp.org.uk/from-categories-to-clarity-how-science-debunks-the-learning-styles-approach/)  
+   Link: <a href="https://theabp.org.uk/from-categories-to-clarity-how-science-debunks-the-learning-styles-approach/" target="_blank" rel="noopener noreferrer nofollow">https://theabp.org.uk/from-categories-to-clarity-how-science-debunks-the-learning-styles-approach/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Association for Business PsychologyHow Science Debunks the Learning Styles ApproachDec 3, 2025 — The paper examined 71 models and fou...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: mirjamglessmer.com  
    Title: the learning styles myth based on pashler et al 2008 nancekivell et al 2020  
-   Link: [https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/](https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/)  
+   Link: <a href="https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/" target="_blank" rel="noopener noreferrer nofollow">https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The learning styles myth (based on Pashler et al., 200825 Jun 2021 — Learning styles are a bit of a myth. When you ask people, yes, they...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: community.articulate.com  
    Title: what you need to know about the myth of left and right brained learners  
-   Link: [https://community.articulate.com/blog/articles/what-you-need-to-know-about-the-myth-of-left--and-right-brained-learners/1085188](https://community.articulate.com/blog/articles/what-you-need-to-know-about-the-myth-of-left--and-right-brained-learners/1085188)  
+   Link: <a href="https://community.articulate.com/blog/articles/what-you-need-to-know-about-the-myth-of-left--and-right-brained-learners/1085188" target="_blank" rel="noopener noreferrer nofollow">https://community.articulate.com/blog/articles/what-you-need-to-know-about-the-myth-of-left--and-right-brained-learners/1085188</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You Need to Know About the Myth of Left- and Right-...Right-brained people are supposedly more artistic, creative, thoughtful, and subje...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: bradfordvts.co.uk  
-   Link: [https://www.bradfordvts.co.uk/wp-content/onlineresources/teaching-learning/learning-personality-styles/learning%20styles%20-%20is%20it%20time%20to%20move%20on%20-%20opinion%20piece%20by%20coffield.pdf](https://www.bradfordvts.co.uk/wp-content/onlineresources/teaching-learning/learning-personality-styles/learning%20styles%20-%20is%20it%20time%20to%20move%20on%20-%20opinion%20piece%20by%20coffield.pdf)  
+   Link: <a href="https://www.bradfordvts.co.uk/wp-content/onlineresources/teaching-learning/learning-personality-styles/learning%20styles%20-%20is%20it%20time%20to%20move%20on%20-%20opinion%20piece%20by%20coffield.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bradfordvts.co.uk/wp-content/onlineresources/teaching-learning/learning-personality-styles/learning%20styles%20-%20is%20it%20time%20to%20move%20on%20-%20opinion%20piece%20by%20coffield.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nsistent and convincing: learning styles are invalid, unreliable and have a negligible impact on...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: elearningindustry.com  
    Title: critical analysis of learning styles pedagogy post 16 learning  
-   Link: [https://elearningindustry.com/critical-analysis-of-learning-styles-pedagogy-post-16-learning](https://elearningindustry.com/critical-analysis-of-learning-styles-pedagogy-post-16-learning)  
+   Link: <a href="https://elearningindustry.com/critical-analysis-of-learning-styles-pedagogy-post-16-learning" target="_blank" rel="noopener noreferrer nofollow">https://elearningindustry.com/critical-analysis-of-learning-styles-pedagogy-post-16-learning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Analysis of Learning Styles in Post-16 Education12 May 2021 — A critical analysis of Learning Styles and Pedagogy in post-16 lea...</p></details>
-   Published: May 2021  
+   Published: May 2021

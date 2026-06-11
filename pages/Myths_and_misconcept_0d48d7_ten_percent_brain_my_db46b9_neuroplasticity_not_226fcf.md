@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_ten_percent_belief_a_77801f
 - Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - 10-brain
 - neuroplasticity
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - 10-brain
 - neuroplasticity
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Neuroplasticity means active brain networks can change with experience, not that unused regions contain superhuman abilities.
 hero_summary: Neuroplasticity means active brain networks can change with experience, not that unused regions contain superhuman abilities.
 layout: default
 permalink: /neuroplasticity/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /10-brain/
 nav_short_title: Neuroplasticity
 title: Neuroplasticity Is Not Hidden Superpower
-title_full: Neuroplasticity Is Not Hidden Superpower | 10 Brain
+title_full: Neuroplasticity Is Not Hidden Superpower
 display_title_short: Neuroplasticity
 display_title: Neuroplasticity
 heading_title: Neuroplasticity Is Not Hidden Superpower
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why the 10 Percent Brain Myth Endures | Mythcraft
+parent_title: Why the 10 Percent Brain Myth Endures
 parent_permalink: /10-brain/
 parent_nav_short_title: 10 Brain
 parent_heading_title: Why the 10 Percent Brain Myth Endures
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Did William James Start the Brain Myth?
 up_link:
   basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
@@ -265,7 +265,7 @@ next_link:
   permalink: /william-james/
   short_title: William James
   heading_title: Did William James Start the Brain Myth?
-date: '2026-06-09 04:58:27 '
+date: '2026-06-11 22:18:32 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_neuroplasticity_not_226fcf-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_neuroplasticity_not_226fcf-Illustration-1.webp
@@ -274,18 +274,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_ne
 
 ## Introduction
 
-Neuroplasticity is often presented as evidence that humans possess vast hidden mental reserves waiting to be unlocked. In reality, the science points in a different direction. Neuroplasticity refers to the brain’s ability to change its structure, connections and activity patterns in response to experience, learning, practice and injury. It does not mean that large regions of the brain sit dormant until activated. Instead, it describes how already active neural systems adapt over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK557811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf - NIHby M Puderbaugh · 2023 · Cited by 290 — Neuroplasticity, also known as neural plasticity or brain plasti...</span></span></span>
-
+Neuroplasticity is often presented as evidence that humans possess vast hidden mental reserves waiting to be unlocked. In reality, the science points in a different direction. Neuroplasticity refers to the brains ability to change its structure, connections and activity patterns in response to experience, learning, practice and injury. It does not mean that large regions of the brain sit dormant until activated. Instead, it describes how already active neural systems adapt over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK557811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf - NIHby M Puderbaugh  2023  Cited by 290  Neuroplasticity, also known as neural plasticity or brain plasti...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_neuroplasticity_not_226fcf-Illustration-1-dark.svg" | relative_url }}" alt="Neuroplasticity illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_neuroplasticity_not_226fcf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_neuroplasticity_not_226fcf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because it replaces a fantasy with something more useful. The popular idea behind the 10 per cent brain myth suggests that extraordinary abilities are trapped inside unused brain tissue. Neuroplasticity shows that improvement usually comes from changing existing networks through [repetition]({{ 'repetition/' | relative_url }}), attention, feedback and experience. The brain’s potential lies in adaptation, not in awakening silent regions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41386-022-01370-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureSynaptic plasticity and mental health: methods, challenges...by LG Appelbaum · 2023 · Cited by 265 — Activity-dependent synaptic p...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ELpfYCZa87g" title="Neuroplasticity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ELpfYCZa87g" target="_blank" rel="noopener noreferrer">Neuroplasticity</a></p><p class="youtube-embed-meta">Channel: Sentis</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ELpfYCZa87g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ELpfYCZa87g">Open on YouTube</a></p></div></div></div>
+This distinction matters because it replaces a fantasy with something more useful. The popular idea behind the 10 per cent brain myth suggests that extraordinary abilities are trapped inside unused brain tissue. Neuroplasticity shows that improvement usually comes from changing existing networks through [repetition]({{ 'repetition/' | relative_url }}), attention, feedback and experience. The brains potential lies in adaptation, not in awakening silent regions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41386-022-01370-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Synaptic plasticity and mental health: methods, challenges...by LG Appelbaum  2023  Cited by 265  Activity-dependent synaptic p...</span></span></span>
 
 ## What Plasticity Actually Means
 
-The word “plasticity” can be misleading because it sounds as though the brain can be reshaped into almost anything. In neuroscience, the term has a more specific meaning. It describes the nervous system’s capacity to alter connections between neurons, strengthen or weaken communication pathways, reorganise activity patterns and, in limited cases, generate new neurons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK557811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf - NIHby M Puderbaugh · 2023 · Cited by 290 — Neuroplasticity, also known as neural plasticity or brain plasti...</span></span></span> ScienceDirect These changes occur because brain cells are constantly responding to activity. When particular circuits are used repeatedly <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0006899325002021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The neuroplastic brain: current breakthroughs and...by P Gazerani · 2025 · Cited by 83 — Neuroplasticity is the brain&#x27;s remarkable capac...</span></span></span>, the connections involved can become more efficient. When skills are neglected, those same connections may weaken. This principle is sometimes summarised as “neurons that fire together wire together”, although the actual biology is far more complex. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/subjects/adult-neurogenesis/neuro" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Adult neurogenesis | Nature NeuroscienceTwenty years ago, 2 studies showed that behavioral experience affects proliferation &amp; survival of...</span></span></span>
+The word plasticity can be misleading because it sounds as though the brain can be reshaped into almost anything. In neuroscience, the term has a more specific meaning. It describes the nervous systems capacity to alter connections between neurons, strengthen or weaken communication pathways, reorganise activity patterns and, in limited cases, generate new neurons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK557811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf - NIHby M Puderbaugh  2023  Cited by 290  Neuroplasticity, also known as neural plasticity or brain plasti...</span></span></span> ScienceDirect These changes occur because brain cells are constantly responding to activity. When particular circuits are used repeatedly <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0006899325002021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The neuroplastic brain: current breakthroughs and...by P Gazerani  2025  Cited by 83  Neuroplasticity is the brain&#x27;s remarkable capac...</span></span></span>, the connections involved can become more efficient. When skills are neglected, those same connections may weaken. This principle is sometimes summarised as neurons that fire together wire together, although the actual biology is far more complex. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/subjects/adult-neurogenesis/neuro" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Adult neurogenesis &#124; Nature NeuroscienceTwenty years ago, 2 studies showed that behavioral experience affects proliferation &amp; survival of...</span></span></span>
 
 Crucially, plasticity assumes that networks are already functioning. The brain is not discovering untouched territory. It is modifying pathways that participate in perception, movement, [memory]({{ 'memory/' | relative_url }}), language and decision-making every day. Brain imaging studies consistently show widespread activity across the brain, even during rest. This is one reason neuroscientists reject the notion that 90 per cent of the organ remains inactive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
 
@@ -296,46 +292,41 @@ The difference can be illustrated with a simple comparison:
 
 One idea depends on hidden capacity. The other depends on adaptation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FJU8ANRMh3w" title="Rewiring the Brain: How to Leverage Neuroplasticity to Shape TBI Recovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FJU8ANRMh3w" target="_blank" rel="noopener noreferrer">Rewiring the Brain: How to Leverage Neuroplasticity to Shape TBI Recovery</a></p><p class="youtube-embed-meta">Channel: Demystifying Medicine McMaster &middot; Views: 179 &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FJU8ANRMh3w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FJU8ANRMh3w">Open on YouTube</a></p></div></div></div>
 
 ## How Learning Changes Active Networks
 
-Learning is one of the clearest examples of neuroplasticity in action. When someone learns a language, practises a musical instrument or develops a new sporting skill, the brain does not recruit vast unused areas. Instead, it changes the organisation and efficiency of networks that are already involved in hearing, movement, memory, attention and planning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3073830/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperience-dependent Structural Plasticity in the Cortex</span><span class="citation-popover-snippet">PMCby M Fu · 2011 · Cited by 440 — Cumulative data have shown that experience-dependent plasticity occurs in adulthood and it is now well...</span></span></span>
+Learning is one of the clearest examples of neuroplasticity in action. When someone learns a language, practises a musical instrument or develops a new sporting skill, the brain does not recruit vast unused areas. Instead, it changes the organisation and efficiency of networks that are already involved in hearing, movement, memory, attention and planning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3073830/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperience-dependent Structural Plasticity in the Cortex</span><span class="citation-popover-snippet">by M Fu  2011  Cited by 440  Cumulative data have shown that experience-dependent plasticity occurs in adulthood and it is now well...</span></span></span>
 
-Researchers have observed measurable changes in both grey matter and white matter following sustained learning experiences. These changes can include alterations in synaptic strength, modifications in neural pathways and shifts in how different brain regions communicate with one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eneuro.org/content/12/6/ENEURO.0128-25.2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eneuro.org">[eNeuro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eneuro.org</span><span class="citation-popover-title">ENEURO.0128 25.2025</span><span class="citation-popover-snippet">eNeuroExperience-Dependent Neuroplasticity in the...by F Gallo · 2025 · Cited by 2 — External influences such as the acquisition and sus...</span></span></span>
+Researchers have observed measurable changes in both grey matter and white matter following sustained learning experiences. These changes can include alterations in synaptic strength, modifications in neural pathways and shifts in how different brain regions communicate with one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eneuro.org/content/12/6/ENEURO.0128-25.2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eneuro.org">[eNeuro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eneuro.org</span><span class="citation-popover-title">ENEURO.0128 25.2025</span><span class="citation-popover-snippet">Experience-Dependent Neuroplasticity in the...by F Gallo  2025  Cited by 2  External influences such as the acquisition and sus...</span></span></span>
 
-A useful example comes from motor-skill learning. Someone learning to juggle or play the piano initially relies on effortful, inefficient patterns of neural activity. With practice, communication between relevant regions becomes more coordinated. Performance improves not because a hidden reserve has been activated, but because existing systems have been refined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10598326/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAdaptive Neuroplasticity in Brain Injury Recovery</span><span class="citation-popover-snippet">PMC - NIHby V Zotey · 2023 · Cited by 131 — This analysis highlights neuroplasticity&#x27;s critical role in brain injury recovery, providing...</span></span></span>
+A useful example comes from motor-skill learning. Someone learning to juggle or play the piano initially relies on effortful, inefficient patterns of neural activity. With practice, communication between relevant regions becomes more coordinated. Performance improves not because a hidden reserve has been activated, but because existing systems have been refined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10598326/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAdaptive Neuroplasticity in Brain Injury Recovery</span><span class="citation-popover-snippet">NIHby V Zotey  2023  Cited by 131  This analysis highlights neuroplasticity&#x27;s critical role in brain injury recovery, providing...</span></span></span>
 
-This is why neuroplasticity is closely tied to repetition. Changes are generally driven by experience-dependent activity. Rehearsing a movement thousands of times, repeatedly recalling information or continuously engaging with a skill can alter neural pathways. The mechanism is gradual and biological rather than sudden and mystical. Arizona State University PubMed The practical implication is important. Human improvement is often real and substantial <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/18230848/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Principles of experience-dependent neural plasticity</span><span class="citation-popover-snippet">of experience-dependent neural plasticity - PubMedby JA Kleim · 2008 · Cited by 3788 — Purpose: This paper reviews 10 principles of exper...</span></span></span>, but it usually emerges from training and adaptation rather than from accessing an unused mental reservoir.
-
+This is why neuroplasticity is closely tied to repetition. Changes are generally driven by experience-dependent activity. Rehearsing a movement thousands of times, repeatedly recalling information or continuously engaging with a skill can alter neural pathways. The mechanism is gradual and biological rather than sudden and mystical. Arizona State University PubMed The practical implication is important. Human improvement is often real and substantial <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/18230848/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Principles of experience-dependent neural plasticity</span><span class="citation-popover-snippet">of experience-dependent neural plasticity - PubMedby JA Kleim  2008  Cited by 3788  Purpose: This paper reviews 10 principles of exper...</span></span></span>, but it usually emerges from training and adaptation rather than from accessing an unused mental reservoir.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_neuroplasticity_not_226fcf-Illustration-2-dark.svg" | relative_url }}" alt="Neuroplasticity illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_neuroplasticity_not_226fcf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_neuroplasticity_not_226fcf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Recovery After Injury Is Not Proof of Dormant Tissue
 
 One reason the dormant-brain idea remains attractive is that people sometimes recover functions after strokes, traumatic brain injuries or other forms of neurological damage. At first glance, this can appear to support the idea that unused brain regions step in when needed.
 
-The actual process is more complex. Recovery generally involves surviving networks reorganising themselves, strengthening alternative pathways and relearning skills through extensive rehabilitation. The brain compensates for damage by adapting existing circuitry rather than activating a stockpile of previously inactive tissue. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2076-3425/15/4/400" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Neuroplasticity and Nervous System Recovery: Cellular...by LG Tataranu · 2025 · Cited by 31 — Neuroplasticity, the brain&#x27;s ability to ad...</span></span></span>
+The actual process is more complex. Recovery generally involves surviving networks reorganising themselves, strengthening alternative pathways and relearning skills through extensive rehabilitation. The brain compensates for damage by adapting existing circuitry rather than activating a stockpile of previously inactive tissue. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2076-3425/15/4/400" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Neuroplasticity and Nervous System Recovery: Cellular...by LG Tataranu  2025  Cited by 31  Neuroplasticity, the brain&#x27;s ability to ad...</span></span></span>
 
-For example, after a stroke affecting movement, patients often undergo months of repetitive physical therapy. Improvement is linked to experience-dependent plasticity: surviving neural circuits gradually assume some functions previously handled by damaged areas. This process is effort-intensive and incomplete in many cases. If large dormant regions were waiting to be activated, rehabilitation would not require such prolonged retraining. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://asu.elsevierpure.com/en/publications/principles-of-experience-dependent-neural-plasticity-implications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asu.elsevierpure.com">[Arizona State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asu.elsevierpure.com</span><span class="citation-popover-title">principles of experience dependent neural plasticity implications</span><span class="citation-popover-snippet">Arizona State UniversityPrinciples of experience-dependent neural plasticityby JA Kleim · 2008 · Cited by 3812 — Purpose: This paper revi...</span></span></span>
+For example, after a stroke affecting movement, patients often undergo months of repetitive physical therapy. Improvement is linked to experience-dependent plasticity: surviving neural circuits gradually assume some functions previously handled by damaged areas. This process is effort-intensive and incomplete in many cases. If large dormant regions were waiting to be activated, rehabilitation would not require such prolonged retraining. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://asu.elsevierpure.com/en/publications/principles-of-experience-dependent-neural-plasticity-implications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asu.elsevierpure.com">[Arizona State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asu.elsevierpure.com</span><span class="citation-popover-title">principles of experience dependent neural plasticity implications</span><span class="citation-popover-snippet">Arizona State UniversityPrinciples of experience-dependent neural plasticityby JA Kleim  2008  Cited by 3812  Purpose: This paper revi...</span></span></span>
 
-Recent discussions within neuroscience have even cautioned against overstating plasticity. Some researchers argue that dramatic stories about the brain completely rewiring itself can be misleading. Many recoveries depend heavily on learning, practice and the flexible use of preserved neural systems rather than on radical reorganisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/the-brain-isnt-as-adaptable-as-some-neuroscientists-claim/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American The Brain Isn&#x27;t as Adaptable as Some Neuroscientists Claim</span><span class="citation-popover-snippet">Scientific AmericanThe Brain Isn&#x27;t as Adaptable as Some Neuroscientists ClaimNovember 21, 2023 — 21 Nov 2023 — The answer, our research s...</span><span class="citation-popover-meta">Published: November 21, 2023</span></span></span>
+Recent discussions within neuroscience have even cautioned against overstating plasticity. Some researchers argue that dramatic stories about the brain completely rewiring itself can be misleading. Many recoveries depend heavily on learning, practice and the flexible use of preserved neural systems rather than on radical reorganisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/the-brain-isnt-as-adaptable-as-some-neuroscientists-claim/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American The Brain Isn&#x27;t as Adaptable as Some Neuroscientists Claim</span><span class="citation-popover-snippet">Scientific AmericanThe Brain Isn&#x27;t as Adaptable as Some Neuroscientists ClaimNovember 21, 2023  21 Nov 2023  The answer, our research s...</span><span class="citation-popover-meta">Published: November 21, 2023</span></span></span>
 
 This distinction helps explain why brain injuries remain serious. If huge unused regions existed, extensive damage would often have minimal consequences. Instead, damage to even relatively small areas can produce significant impairments, demonstrating that most brain tissue already performs important functions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LNHBMFCzznE" title="After watching this, your brain will not be the same | Lara Boyd | TEDxVancouver" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LNHBMFCzznE" target="_blank" rel="noopener noreferrer">After watching this, your brain will not be the same | Lara Boyd | TEDxVancouver</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 45.2M &middot; Uploaded: December 2015 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LNHBMFCzznE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LNHBMFCzznE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_neuroplasticity_not_226fcf-Illustration-3-dark.svg" | relative_url }}" alt="Neuroplasticity illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_neuroplasticity_not_226fcf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_neuroplasticity_not_226fcf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Real Promise of Brain Change
 
-The genuine scientific story is less magical than the hidden-potential myth but ultimately more empowering. Neuroplasticity suggests that abilities can change throughout life because the brain remains responsive to experience. Adults can learn new skills, adapt to new environments, recover some lost functions and continue developing cognitively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3162127/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCExperience-dependent neural plasticity in the adult damaged...by AL Kerr · 2011 · Cited by 176 — This review summarizes recent findin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0006899325002021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The neuroplastic brain: current breakthroughs and...by P Gazerani · 2025 · Cited by 83 — Neuroplasticity is the brain&#x27;s remarkable capac...</span></span></span>
+The genuine scientific story is less magical than the hidden-potential myth but ultimately more empowering. Neuroplasticity suggests that abilities can change throughout life because the brain remains responsive to experience. Adults can learn new skills, adapt to new environments, recover some lost functions and continue developing cognitively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3162127/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Experience-dependent neural plasticity in the adult damaged...by AL Kerr  2011  Cited by 176  This review summarizes recent findin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0006899325002021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The neuroplastic brain: current breakthroughs and...by P Gazerani  2025  Cited by 83  Neuroplasticity is the brain&#x27;s remarkable capac...</span></span></span>
 
 At the same time, plasticity has limits. Neural change is constrained by biology, age, health, genetics and the amount of practice involved. The brain is adaptable, not infinitely flexible. Recognising those limits is part of understanding what neuroplasticity actually means. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3222570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBrain Plasticity and Behaviour in the Developing Brain</span><span class="citation-popover-snippet">It is generally presumed that the developing brain will be more responsive to experiences than the adult or senescent brain...</span></span></span>
 
-The enduring appeal of the 10 per cent myth comes from the idea that greatness is hidden inside unused brain space. Neuroscience offers a different message: most of the brain is already working, but its connections remain capable of change. Progress comes not from unlocking dormant regions, but from reshaping active networks through experience, learning and sustained effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Every time we lay down a new memory, learn someone&#x27;s name, develop...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK557811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf - NIHby M Puderbaugh · 2023 · Cited by 290 — Neuroplasticity, also known as neural plasticity or brain plasti...</span></span></span>
+The enduring appeal of the 10 per cent myth comes from the idea that greatness is hidden inside unused brain space. Neuroscience offers a different message: most of the brain is already working, but its connections remain capable of change. Progress comes not from unlocking dormant regions, but from reshaping active networks through experience, learning and sustained effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Every time we lay down a new memory, learn someone&#x27;s name, develop...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK557811/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf - NIHby M Puderbaugh  2023  Cited by 290  Neuroplasticity, also known as neural plasticity or brain plasti...</span></span></span>
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_neuroplasticity_not_226fcf-Illustration-3-dark.svg" | relative_url }}" alt="Neuroplasticity illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_neuroplasticity_not_226fcf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_neuroplasticity_not_226fcf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LNHBMFCzznE" title="After watching this, your brain will not be the same | Lara Boyd | TEDxVancouver" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LNHBMFCzznE" target="_blank" rel="noopener noreferrer">After watching this, your brain will not be the same | Lara Boyd | TEDxVancouver</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 45.2M &middot; Uploaded: December 2015 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LNHBMFCzznE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LNHBMFCzznE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -454,11 +445,11 @@ The enduring appeal of the 10 per cent myth comes from the idea that greatness i
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuroplasticity-neuroplasticity-is-not-hidden-superpower-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="neuroplasticity-neuroplasticity-is-not-hidden-superpower-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy Posters â€“ Skeleton, Muscles, Organs â€“ Framed or Unframed"><img src="{{ '/assets/images/marketplace-covers/9772fd9d8d1f64190d32.jpg' | relative_url }}" alt="Listing image for Human Anatomy Posters â€“ Skeleton, Muscles, Organs â€“ Framed or Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuroplasticity-neuroplasticity-is-not-hidden-superpower-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="neuroplasticity-neuroplasticity-is-not-hidden-superpower-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed"><img src="{{ '/assets/images/marketplace-covers/9772fd9d8d1f64190d32.jpg' | relative_url }}" alt="Listing image for Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuroplasticity-neuroplasticity-is-not-hidden-superpower-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="neuroplasticity-neuroplasticity-is-not-hidden-superpower-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy Posters â€“ Skeleton, Muscles, Organs â€“ Framed or Unframed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuroplasticity-neuroplasticity-is-not-hidden-superpower-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="neuroplasticity-neuroplasticity-is-not-hidden-superpower-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuroplasticity-neuroplasticity-is-not-hidden-superpower-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="neuroplasticity-neuroplasticity-is-not-hidden-superpower-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
         <div class="fr-book-actions">
@@ -733,137 +724,137 @@ The enduring appeal of the 10 per cent myth comes from the idea that greatness i
 
 1. <a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK557811/](https://www.ncbi.nlm.nih.gov/books/NBK557811/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StatPearls - NCBI Bookshelf - NIHby M Puderbaugh · 2023 · Cited by 290 — Neuroplasticity, also known as neural plasticity or brain plasti...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK557811/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK557811/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>StatPearls - NCBI Bookshelf - NIHby M Puderbaugh  2023  Cited by 290  Neuroplasticity, also known as neural plasticity or brain plasti...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41386-022-01370-w](https://www.nature.com/articles/s41386-022-01370-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureSynaptic plasticity and mental health: methods, challenges...by LG Appelbaum · 2023 · Cited by 265 — Activity-dependent synaptic p...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41386-022-01370-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41386-022-01370-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Synaptic plasticity and mental health: methods, challenges...by LG Appelbaum  2023  Cited by 265  Activity-dependent synaptic p...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0006899325002021](https://www.sciencedirect.com/science/article/pii/S0006899325002021)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The neuroplastic brain: current breakthroughs and...by P Gazerani · 2025 · Cited by 83 — Neuroplasticity is the brain&#x27;s remarkable capac...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0006899325002021" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0006899325002021</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The neuroplastic brain: current breakthroughs and...by P Gazerani  2025  Cited by 83  Neuroplasticity is the brain&#x27;s remarkable capac...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/subjects/adult-neurogenesis/neuro](https://www.nature.com/subjects/adult-neurogenesis/neuro)  
+   Link: <a href="https://www.nature.com/subjects/adult-neurogenesis/neuro" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/subjects/adult-neurogenesis/neuro</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adult neurogenesis | Nature NeuroscienceTwenty years ago, 2 studies showed that behavioral experience affects proliferation &amp; survival of...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/subjects/synaptic-plasticity/nrn](https://www.nature.com/subjects/synaptic-plasticity/nrn)  
+   Link: <a href="https://www.nature.com/subjects/synaptic-plasticity/nrn" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/subjects/synaptic-plasticity/nrn</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In this Review, Chiu and colleagues propose that an array of...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Ten-percent-of-the-brain myth  
-   Link: [https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth](https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExperience-dependent Structural Plasticity in the Cortex  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3073830/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3073830/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby M Fu · 2011 · Cited by 440 — Cumulative data have shown that experience-dependent plasticity occurs in adulthood and it is now well...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3073830/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3073830/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Fu  2011  Cited by 440  Cumulative data have shown that experience-dependent plasticity occurs in adulthood and it is now well...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41539-022-00127-w](https://www.nature.com/articles/s41539-022-00127-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureA methodological perspective on learning in the...by ACK van Duijvenvoorde · 2022 · Cited by 15 — Experience-dependent learning ma...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41539-022-00127-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41539-022-00127-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A methodological perspective on learning in the...by ACK van Duijvenvoorde  2022  Cited by 15  Experience-dependent learning ma...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: eneuro.org  
    Title: ENEURO.0128 25.2025  
-   Link: [https://www.eneuro.org/content/12/6/ENEURO.0128-25.2025](https://www.eneuro.org/content/12/6/ENEURO.0128-25.2025)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eNeuroExperience-Dependent Neuroplasticity in the...by F Gallo · 2025 · Cited by 2 — External influences such as the acquisition and sus...</p></details>
+   Link: <a href="https://www.eneuro.org/content/12/6/ENEURO.0128-25.2025" target="_blank" rel="noopener noreferrer nofollow">https://www.eneuro.org/content/12/6/ENEURO.0128-25.2025</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Experience-Dependent Neuroplasticity in the...by F Gallo  2025  Cited by 2  External influences such as the acquisition and sus...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAdaptive Neuroplasticity in Brain Injury Recovery  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10598326/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10598326/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby V Zotey · 2023 · Cited by 131 — This analysis highlights neuroplasticity&#x27;s critical role in brain injury recovery, providing...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10598326/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10598326/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby V Zotey  2023  Cited by 131  This analysis highlights neuroplasticity&#x27;s critical role in brain injury recovery, providing...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2076-3425/15/4/400](https://www.mdpi.com/2076-3425/15/4/400)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuroplasticity and Nervous System Recovery: Cellular...by LG Tataranu · 2025 · Cited by 31 — Neuroplasticity, the brain&#x27;s ability to ad...</p></details>
+   Link: <a href="https://www.mdpi.com/2076-3425/15/4/400" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3425/15/4/400</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuroplasticity and Nervous System Recovery: Cellular...by LG Tataranu  2025  Cited by 31  Neuroplasticity, the brain&#x27;s ability to ad...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3162127/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3162127/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCExperience-dependent neural plasticity in the adult damaged...by AL Kerr · 2011 · Cited by 176 — This review summarizes recent findin...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3162127/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3162127/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experience-dependent neural plasticity in the adult damaged...by AL Kerr  2011  Cited by 176  This review summarizes recent findin...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCBrain Plasticity and Behaviour in the Developing Brain  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3222570/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3222570/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3222570/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3222570/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is generally presumed that the developing brain will be more responsive to experiences than the adult or senescent brain...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7186337/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7186337/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experience-Dependent Plasticity in the Sensory Cortexby A Ribic · 2020 · Cited by 38 — Drawing from studies in visual and auditory system...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7186337/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7186337/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experience-Dependent Plasticity in the Sensory Cortexby A Ribic  2020  Cited by 38  Drawing from studies in visual and auditory system...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0531513102006167](https://www.sciencedirect.com/science/article/abs/pii/S0531513102006167)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experience-dependent plasticity in the developing brainby I Skaliora · 2002 · Cited by 16 — I then describe briefly the various mechanism...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0531513102006167" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0531513102006167</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experience-dependent plasticity in the developing brainby I Skaliora  2002  Cited by 16  I then describe briefly the various mechanism...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0149763426001934](https://www.sciencedirect.com/science/article/pii/S0149763426001934)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experience-dependent rapid structural changes in the...by S Villa · 2026 · Cited by 1 — In this systematic review, we aim to provide a m...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0149763426001934" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0149763426001934</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experience-dependent rapid structural changes in the...by S Villa  2026  Cited by 1  In this systematic review, we aim to provide a m...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/topics/neuroscience/neuroplasticity](https://www.sciencedirect.com/topics/neuroscience/neuroplasticity)  
+   Link: <a href="https://www.sciencedirect.com/topics/neuroscience/neuroplasticity" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/neuroscience/neuroplasticity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overview | ScienceDirect TopicsNeuroplasticity refers to the ability of the central nervous system (CNS) to adapt and respond to chang...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nrn/](https://www.nature.com/nrn/)  
+   Link: <a href="https://www.nature.com/nrn/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nrn/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature Reviews NeurosciencePublished monthly, in print and online, Nature Reviews Neurosciences offers a mix of research news, reviews an...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/subjects/synaptic-plasticity/neuro](https://www.nature.com/subjects/synaptic-plasticity/neuro)  
+   Link: <a href="https://www.nature.com/subjects/synaptic-plasticity/neuro" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/subjects/synaptic-plasticity/neuro</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Synaptic plasticity | Nature NeuroscienceThe authors review the most recent measurement and manipulation approaches that enable links bet...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/subjects/epigenetics-and-plasticity/neuro](https://www.nature.com/subjects/epigenetics-and-plasticity/neuro)  
+   Link: <a href="https://www.nature.com/subjects/epigenetics-and-plasticity/neuro" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/subjects/epigenetics-and-plasticity/neuro</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Epigenetics and plasticity | Nature NeuroscienceLearning and memory processes require experience-dependent changes in chromatin modificat...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Every time we lay down a new memory, learn someone&#x27;s name, develop...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: asu.elsevierpure.com  
    Title: principles of experience dependent neural plasticity implications  
-   Link: [https://asu.elsevierpure.com/en/publications/principles-of-experience-dependent-neural-plasticity-implications/](https://asu.elsevierpure.com/en/publications/principles-of-experience-dependent-neural-plasticity-implications/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arizona State UniversityPrinciples of experience-dependent neural plasticityby JA Kleim · 2008 · Cited by 3812 — Purpose: This paper revi...</p></details>
+   Link: <a href="https://asu.elsevierpure.com/en/publications/principles-of-experience-dependent-neural-plasticity-implications/" target="_blank" rel="noopener noreferrer nofollow">https://asu.elsevierpure.com/en/publications/principles-of-experience-dependent-neural-plasticity-implications/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arizona State UniversityPrinciples of experience-dependent neural plasticityby JA Kleim  2008  Cited by 3812  Purpose: This paper revi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Principles of experience-dependent neural plasticity  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/18230848/](https://pubmed.ncbi.nlm.nih.gov/18230848/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of experience-dependent neural plasticity - PubMedby JA Kleim · 2008 · Cited by 3788 — Purpose: This paper reviews 10 principles of exper...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18230848/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18230848/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>of experience-dependent neural plasticity - PubMedby JA Kleim  2008  Cited by 3788  Purpose: This paper reviews 10 principles of exper...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: scientificamerican.com  
    Title: Scientific American The Brain Isn't as Adaptable as Some Neuroscientists Claim  
-   Link: [https://www.scientificamerican.com/article/the-brain-isnt-as-adaptable-as-some-neuroscientists-claim/](https://www.scientificamerican.com/article/the-brain-isnt-as-adaptable-as-some-neuroscientists-claim/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanThe Brain Isn&#x27;t as Adaptable as Some Neuroscientists ClaimNovember 21, 2023 — 21 Nov 2023 — The answer, our research s...</p></details>
+   Link: <a href="https://www.scientificamerican.com/article/the-brain-isnt-as-adaptable-as-some-neuroscientists-claim/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/the-brain-isnt-as-adaptable-as-some-neuroscientists-claim/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanThe Brain Isn&#x27;t as Adaptable as Some Neuroscientists ClaimNovember 21, 2023  21 Nov 2023  The answer, our research s...</p></details>
    Published: November 21, 2023  
 
 25. <a id="endnote-25"></a>
    Source: biorxiv.org  
    Title: 2020.09.01.277467v1.full text  
-   Link: [https://www.biorxiv.org/content/10.1101/2020.09.01.277467v1.full-text](https://www.biorxiv.org/content/10.1101/2020.09.01.277467v1.full-text)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature Reviews: Neuroscience 10, 647–...</p></details>
+   Link: <a href="https://www.biorxiv.org/content/10.1101/2020.09.01.277467v1.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.biorxiv.org/content/10.1101/2020.09.01.277467v1.full-text</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature Reviews: Neuroscience 10, 647...</p></details>
 
 6
 
@@ -871,57 +862,56 @@ The enduring appeal of the 10 per cent myth comes from the idea that greatness i
 
 8. DOI: [https://doi.org...Read](https://doi.org...Read) more
 
-
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/12498409/Principles_of_Experience_Dependent_Neural_Plasticity_Implications_for_Rehabilitation_After_Brain_Damage](https://www.academia.edu/12498409/Principles_of_Experience_Dependent_Neural_Plasticity_Implications_for_Rehabilitation_After_Brain_Damage)  
+   Link: <a href="https://www.academia.edu/12498409/Principles_of_Experience_Dependent_Neural_Plasticity_Implications_for_Rehabilitation_After_Brain_Damage" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/12498409/Principles_of_Experience_Dependent_Neural_Plasticity_Implications_for_Rehabilitation_After_Brain_Damage</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Principles of Experience-Dependent Neural PlasticityPurpose: This paper reviews 10 principles of experience-dependent neural plasti...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: alliedacademies.org  
-   Link: [https://www.alliedacademies.org/articles/neuroplasticity-and-functional-recovery-after-traumatic-brain-injury-32678.html](https://www.alliedacademies.org/articles/neuroplasticity-and-functional-recovery-after-traumatic-brain-injury-32678.html)  
+   Link: <a href="https://www.alliedacademies.org/articles/neuroplasticity-and-functional-recovery-after-traumatic-brain-injury-32678.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alliedacademies.org/articles/neuroplasticity-and-functional-recovery-after-traumatic-brain-injury-32678.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuroplasticity and Functional Recovery After Traumatic...In the aftermath of injury, neuroplasticity offers a pathway for recovery by e...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/anna-maria-matziorinis_rehabilitation-induced-neural-plasticity-activity-7289314873887391745-sSLu](https://www.linkedin.com/posts/anna-maria-matziorinis_rehabilitation-induced-neural-plasticity-activity-7289314873887391745-sSLu)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anna Maria M.&#x27;s Post26 Jan 2025 — Be wary of buzzwords like &quot;neuroplasticity&quot; - neural change requires hundreds to thousands of repetitio...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/anna-maria-matziorinis_rehabilitation-induced-neural-plasticity-activity-7289314873887391745-sSLu" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/anna-maria-matziorinis_rehabilitation-induced-neural-plasticity-activity-7289314873887391745-sSLu</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anna Maria M.&#x27;s Post26 Jan 2025  Be wary of buzzwords like &quot;neuroplasticity&quot; - neural change requires hundreds to thousands of repetitio...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: grantome.com  
-   Link: [https://grantome.com/grant/NIH/R01-NS079698-05](https://grantome.com/grant/NIH/R01-NS079698-05)  
+   Link: <a href="https://grantome.com/grant/NIH/R01-NS079698-05" target="_blank" rel="noopener noreferrer nofollow">https://grantome.com/grant/NIH/R01-NS079698-05</a>  
 
 30. <a id="endnote-30"></a>
    Source: samphireneuro.com  
    Title: Explore the definition, activities, and how brain plasticity impacts  
-   Link: [https://www.samphireneuro.com/en-eu/blog/neuroplasticity-examples?srsltid=AfmBOopfP9kpOyJMAlfB9R5f2T5Wh4akeqRXdGtatqCfa5VgFX2rPpee](https://www.samphireneuro.com/en-eu/blog/neuroplasticity-examples?srsltid=AfmBOopfP9kpOyJMAlfB9R5f2T5Wh4akeqRXdGtatqCfa5VgFX2rPpee)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuroplasticity Examples: Real Ways Your Brain Changes...28 Oct 2025 — Real neuroplasticity examples reveal how your brain rewires itself...</p></details>
+   Link: <a href="https://www.samphireneuro.com/en-eu/blog/neuroplasticity-examples?srsltid=AfmBOopfP9kpOyJMAlfB9R5f2T5Wh4akeqRXdGtatqCfa5VgFX2rPpee" target="_blank" rel="noopener noreferrer nofollow">https://www.samphireneuro.com/en-eu/blog/neuroplasticity-examples?srsltid=AfmBOopfP9kpOyJMAlfB9R5f2T5Wh4akeqRXdGtatqCfa5VgFX2rPpee</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuroplasticity Examples: Real Ways Your Brain Changes...28 Oct 2025  Real neuroplasticity examples reveal how your brain rewires itself...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: tbirehabilitation.wordpress.com  
    Title: blog post neuroplasticity after aquired brain injury  
-   Link: [https://tbirehabilitation.wordpress.com/2017/07/11/blog-post-neuroplasticity-after-aquired-brain-injury/](https://tbirehabilitation.wordpress.com/2017/07/11/blog-post-neuroplasticity-after-aquired-brain-injury/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.com[BLOG POST] Neuroplasticity After Aquired Brain Injury11 Jul 2017 — The third strategy identified as spontaneous recovery is...</p></details>
+   Link: <a href="https://tbirehabilitation.wordpress.com/2017/07/11/blog-post-neuroplasticity-after-aquired-brain-injury/" target="_blank" rel="noopener noreferrer nofollow">https://tbirehabilitation.wordpress.com/2017/07/11/blog-post-neuroplasticity-after-aquired-brain-injury/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.com[BLOG POST] Neuroplasticity After Aquired Brain Injury11 Jul 2017  The third strategy identified as spontaneous recovery is...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DSXsXDoEaC9/](https://www.instagram.com/p/DSXsXDoEaC9/)  
+   Link: <a href="https://www.instagram.com/p/DSXsXDoEaC9/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSXsXDoEaC9/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ll the time. Even when we are asleep scientists know this...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/10-brain-myth-teaching-100-andy-habermacher](https://www.linkedin.com/pulse/10-brain-myth-teaching-100-andy-habermacher)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, changeability, and we can develop our brains – some of...Read more...</p></details>
+   Link: <a href="https://www.linkedin.com/pulse/10-brain-myth-teaching-100-andy-habermacher" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/10-brain-myth-teaching-100-andy-habermacher</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>, changeability, and we can develop our brains  some of...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: npnhub.com  
-   Link: [https://npnhub.com/your-brain-is-not-fixed-the-science-of-neuroplasticity/](https://npnhub.com/your-brain-is-not-fixed-the-science-of-neuroplasticity/)  
+   Link: <a href="https://npnhub.com/your-brain-is-not-fixed-the-science-of-neuroplasticity/" target="_blank" rel="noopener noreferrer nofollow">https://npnhub.com/your-brain-is-not-fixed-the-science-of-neuroplasticity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Brain is NOT Fixed: The Science of NeuroplasticityNeuroplasticity is the brain&#x27;s ability to rewire itself in response to experience...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: americanbrainfoundation.org  
    Title: neuroplasticity healing after tbi  
-   Link: [https://www.americanbrainfoundation.org/neuroplasticity-healing-after-tbi/](https://www.americanbrainfoundation.org/neuroplasticity-healing-after-tbi/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuroplasticity and How the Brain Heals after Injury4 Feb 2026 — Neuroplasticity helps to compensate for damaged or lost neurons by insti...</p></details>
+   Link: <a href="https://www.americanbrainfoundation.org/neuroplasticity-healing-after-tbi/" target="_blank" rel="noopener noreferrer nofollow">https://www.americanbrainfoundation.org/neuroplasticity-healing-after-tbi/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuroplasticity and How the Brain Heals after Injury4 Feb 2026  Neuroplasticity helps to compensate for damaged or lost neurons by insti...</p></details>

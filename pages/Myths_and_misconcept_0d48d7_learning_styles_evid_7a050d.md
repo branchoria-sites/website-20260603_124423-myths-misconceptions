@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - learning-styles
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - learning-styles
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Students may have preferences, but matching teaching to fixed learning styles is not supported as a reliable learning strategy.
 hero_summary: Students may have preferences, but matching teaching to fixed learning styles is not supported as a reliable learning strategy.
 layout: default
 permalink: /learning-styles/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Learning Styles
 title: Do Learning Styles Really Improve Learning?
-title_full: Do Learning Styles Really Improve Learning? | Mythcraft
+title_full: Do Learning Styles Really Improve Learning?
 display_title_short: Learning Styles
 display_title: Learning Styles
 heading_title: Do Learning Styles Really Improve Learning?
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 next_link:
   basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
-date: '2026-06-09 04:12:16 '
+date: '2026-06-11 21:55:20 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-overview.webp
@@ -502,7 +502,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-ov
 ## Introduction
 
 Learning styles are popular because the idea feels humane: notice how each student prefers to learn, then teach them that way. The problem is that this appealing classroom story has not held up as a reliable learning strategy. Students can certainly have preferences — one pupil may enjoy diagrams, another may like discussion, another may prefer building or moving — but the stronger claim is different: that students learn better when teaching is matched to a fixed “visual”, “auditory” or “kinaesthetic” style. That [matching claim]({{ 'matching-claim/' | relative_url }}), often called the meshing hypothesis, is not supported by the evidence. Reviews have repeatedly found little or no credible basis for sorting learners into styles and then designing instruction around those labels. EEF <span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[2bjorklab.psych.ucla.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Pashler McDaniel Rohrer Bjork 2009 PSPI</span><span class="citation-popover-snippet">Learning Stylesby H Pashler · Cited by 5022 — Note that the learning-styles hypothesis, as defined here, could be true without the meshin...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-overview.webp" | relative_url }}" alt="Overview image for Learning Styles" loading="eager" decoding="sync" fetchpriority="high">
 This makes learning styles a classic education myth rather than a silly mistake. It starts from a caring impulse, borrows the language of individuality, and can look convincing in everyday classroom life. But when the belief turns into labels, lesson planning checklists or explanations for success and failure, it can distract from better-supported ways to help students learn.
@@ -517,7 +516,6 @@ That distinction matters because weaker observations are often mistaken for evid
 
 The Education Endowment Foundation, which summarises education evidence for schools, states that there is very limited evidence for any consistent set of learning styles that can reliably identify pupils’ learning needs, and that it is unhelpful to assign learners to groups or categories based on a supposed style. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">the learning needs of young people. Instead...Read more...</span></span></span> This is a practical classroom judgement, not just a theoretical complaint. A school can spend time surveying pupils, colour-coding profiles and adapting resources to categories without improving learning.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-Illustration-1-dark.svg" | relative_url }}" alt="Learning Styles illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Idea Feels Compassionate
 
@@ -525,10 +523,9 @@ Learning styles endure because they seem to honour difference. A teacher who say
 
 This is why the myth is hard to dislodge. It sounds student-centred. It gives teachers a simple language for inclusion. It can reassure a struggling child that the problem is not ability but mismatch. It also gives parents and pupils a memorable explanation: “I am a kinaesthetic learner”, “she is visual”, “he needs to hear it”. In a busy classroom, that shorthand can feel more useful than a complicated conversation about prior knowledge, attention, vocabulary, motivation, working [memory]({{ 'memory/' | relative_url }}), practice, feedback and curriculum design.
 
-The danger is that compassionate language can become limiting. Research published in *npj Science of Learning* found that learning-style descriptions can shape how adults think about children’s academic potential. In one study, all parents and 85.1% of teachers surveyed endorsed the belief that individuals learn best when information is presented in their preferred learning style; the wider work found that such labels could influence expectations about which subjects children were likely to be good at. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41539-023-00190-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">At the end of the survey, this study also included two open-ended exploratory</span><span class="citation-popover-snippet">NatureBeware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — All parents and 85.1% of teachers b...</span></span></span>
+The danger is that compassionate language can become limiting. Research published in *npj Science of Learning* found that learning-style descriptions can shape how adults think about children’s academic potential. In one study, all parents and 85.1% of teachers surveyed endorsed the belief that individuals learn best when information is presented in their preferred learning style; the wider work found that such labels could influence expectations about which subjects children were likely to be good at. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41539-023-00190-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">At the end of the survey, this study also included two open-ended exploratory</span><span class="citation-popover-snippet">Beware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — All parents and 85.1% of teachers b...</span></span></span>
 
 This is the hidden cost of a benign-sounding myth. A label meant to validate a child can quietly narrow what adults expect from them. A pupil described as “hands-on” may be subtly steered away from reading-heavy or abstract work. A pupil described as “visual” may be assumed to have strengths in some school subjects and weaknesses in others. The evidence problem, then, is not only that learning styles fail as an instructional matching tool. It is also that the labels can become explanations for performance before the teacher has examined more changeable causes.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C9hTWRwfZOc" title="Good Thinking! — Sending &quot;Learning Styles&quot; Out of Style" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C9hTWRwfZOc" target="_blank" rel="noopener noreferrer">Good Thinking! — Sending &quot;Learning Styles&quot; Out of Style</a></p><p class="youtube-embed-meta">Channel: Smithsonian Science Education Center (SSEC) &middot; Views: 73.4K &middot; Uploaded: June 2015 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C9hTWRwfZOc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C9hTWRwfZOc">Open on YouTube</a></p></div></div></div>
 
@@ -542,7 +539,6 @@ Older and broader reviews also show why the field became confused. Coffield, Mos
 
 The most useful takeaway for classrooms is therefore not “ignore student differences”. It is more precise: do not treat a learning-style label as a reliable diagnosis of how a student learns best. Teachers should still notice pupils’ interests, prior knowledge, [confidence]({{ 'confidence/' | relative_url }}), language needs, misconceptions, attention, [fluency]({{ 'fluency/' | relative_url }}) and motivation. Those differences are visible in real work and can be addressed through assessment, questioning, modelling, feedback and practice. Learning styles are attractive partly because they promise personalised teaching without the harder work of finding out what a pupil actually understands.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-Illustration-2-dark.svg" | relative_url }}" alt="Learning Styles illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Myth Can Waste Time and Misdiagnose Problems
 
@@ -551,7 +547,6 @@ A learning-styles approach can appear harmless because it often leads to varied 
 If a teacher uses diagrams, explanation, discussion and practice because the material benefits from multiple representations, that can be sensible. If the teacher uses the same mixture because every lesson must “cover” visual, auditory and kinaesthetic learners, the planning logic has shifted away from the content. The lesson may become busy without becoming clearer.
 
 There are several practical risks:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -563,7 +558,6 @@ There are several practical risks:
 </div>
 
 The American Psychological Association has highlighted a related concern: many people, including educators, believe learning styles are set early and predict later success, despite the lack of scientific evidence for that belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/news/press/releases/2019/05/learning-styles-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">learning styles myth</span><span class="citation-popover-snippet">learning styles myth</span></span></span> The strongest classroom response is not to replace one label with another, but to move from [identity]({{ 'identity/' | relative_url }}) claims to evidence from learning: What can the student explain? What can they recall later? What errors are recurring? What support helps them improve?
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_bWueJub_eU" title="Learning Styles - The BIGGEST Myth in Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer">Learning Styles - The BIGGEST Myth in Education</a></p><p class="youtube-embed-meta">Channel: Digital Learning Consultant &middot; Views: 336 &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_bWueJub_eU">Open on YouTube</a></p></div></div></div>
 
@@ -579,7 +573,6 @@ Dropping learning styles does not mean teaching every student in exactly the sam
 
 **Respond to actual evidence of learning.** The most useful classroom data are not style inventories but student work, explanations, questions, misconceptions and performance over time. A pupil who cannot solve equations may need prerequisite knowledge, clearer modelling, guided practice or feedback on a specific misconception. A pupil who cannot remember [key terms]({{ 'key-terms/' | relative_url }}) may need spaced retrieval. A pupil who appears disengaged may need relevance, confidence, routines or success experiences. None of these responses requires a fixed style label.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-Illustration-3-dark.svg" | relative_url }}" alt="Learning Styles illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Rule for Teachers and Parents
 
@@ -589,9 +582,7 @@ If a history teacher uses a timeline, source extract, map and class discussion, 
 
 The weaker version of learning styles — “students like different things” — is true but not very powerful. The stronger version — “students learn best when teaching is matched to their fixed style” — is the one that fails. The best classroom alternative is not less personal teaching, but more precise teaching: attend to what pupils know, what they misunderstand, what the content demands, and which strategies help them remember, explain and apply knowledge over time.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gm9O6QMNppE" title="The Myth of Learning Styles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gm9O6QMNppE" target="_blank" rel="noopener noreferrer">The Myth of Learning Styles</a></p><p class="youtube-embed-meta">Channel: John Kellogg &middot; Views: 4.1K &middot; Uploaded: January 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gm9O6QMNppE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gm9O6QMNppE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -989,118 +980,118 @@ The weaker version of learning styles — “students like different things” �
 
 1. <a id="endnote-1"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the learning needs of young people. Instead...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: bjorklab.psych.ucla.edu  
    Title: Pashler McDaniel Rohrer Bjork 2009 PSPI  
-   Link: [https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf](https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf)  
+   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Stylesby H Pashler · Cited by 5022 — Note that the learning-styles hypothesis, as defined here, could be true without the meshin...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nature.com  
    Title: At the end of the survey, this study also included two open-ended exploratory  
-   Link: [https://www.nature.com/articles/s41539-023-00190-x](https://www.nature.com/articles/s41539-023-00190-x)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureBeware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — All parents and 85.1% of teachers b...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41539-023-00190-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41539-023-00190-x</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — All parents and 85.1% of teachers b...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: voced.edu.au  
-   Link: [https://www.voced.edu.au/content/ngv%3A13692?ref=brainscape-academy](https://www.voced.edu.au/content/ngv%3A13692?ref=brainscape-academy)  
+   Link: <a href="https://www.voced.edu.au/content/ngv%3A13692?ref=brainscape-academy" target="_blank" rel="noopener noreferrer nofollow">https://www.voced.edu.au/content/ngv%3A13692?ref=brainscape-academy</a>  
 
 5. <a id="endnote-5"></a>
    Source: d2tic4wvo1iusb.cloudfront.net  
    Title: Cloud Front Cognitive science approaches in the classroom  
-   Link: [https://d2tic4wvo1iusb.cloudfront.net/documents/guidance/Cognitive_science_approaches_in_the_classroom_-_A_review_of_the_evidence.pdf](https://d2tic4wvo1iusb.cloudfront.net/documents/guidance/Cognitive_science_approaches_in_the_classroom_-_A_review_of_the_evidence.pdf)  
+   Link: <a href="https://d2tic4wvo1iusb.cloudfront.net/documents/guidance/Cognitive_science_approaches_in_the_classroom_-_A_review_of_the_evidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://d2tic4wvo1iusb.cloudfront.net/documents/guidance/Cognitive_science_approaches_in_the_classroom_-_A_review_of_the_evidence.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: cognitive science approaches in the classroom  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom](https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom</a>  
 
 7. <a id="endnote-7"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
 
 8. <a id="endnote-8"></a>
    Source: d2tic4wvo1iusb.cloudfront.net  
    Title: Cloud Front Metacognition and Self-Regulated Learning  
-   Link: [https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/metacognition/metacognition-and-self-regulated-learning_guidance-report.v.2.4.0.pdf](https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/metacognition/metacognition-and-self-regulated-learning_guidance-report.v.2.4.0.pdf)  
+   Link: <a href="https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/metacognition/metacognition-and-self-regulated-learning_guidance-report.v.2.4.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/metacognition/metacognition-and-self-regulated-learning_guidance-report.v.2.4.0.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4786565/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4786565/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4786565/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4786565/</a>  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Learning Styles  
-   Link: [https://www.youtube.com/watch?v=_bWueJub_eU](https://www.youtube.com/watch?v=_bWueJub_eU)  
+   Link: <a href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_bWueJub_eU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Good Thinking! — Sending &quot;Learning Styles&quot; Out of Style...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/32116958/](https://pubmed.ncbi.nlm.nih.gov/32116958/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32116958/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32116958/</a>  
 
 12. <a id="endnote-12"></a>
    Source: apa.org  
    Title: learning styles myth  
-   Link: [https://www.apa.org/news/press/releases/2019/05/learning-styles-myth](https://www.apa.org/news/press/releases/2019/05/learning-styles-myth)  
+   Link: <a href="https://www.apa.org/news/press/releases/2019/05/learning-styles-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/press/releases/2019/05/learning-styles-myth</a>  
 
 13. <a id="endnote-13"></a>
    Source: structural-learning.com  
    Title: learning styles  
-   Link: [https://www.structural-learning.com/post/learning-styles](https://www.structural-learning.com/post/learning-styles)  
+   Link: <a href="https://www.structural-learning.com/post/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/learning-styles</a>  
 
 14. <a id="endnote-14"></a>
    Source: saffronteachingschoolhub.net  
    Title: Metacognition and self-regulation  
-   Link: [https://www.saffronteachingschoolhub.net/attachments/download.asp?file=114&type=pdf](https://www.saffronteachingschoolhub.net/attachments/download.asp?file=114&type=pdf)  
+   Link: <a href="https://www.saffronteachingschoolhub.net/attachments/download.asp?file=114&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.saffronteachingschoolhub.net/attachments/download.asp?file=114&amp;type=pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Learning styles  
-   Link: [https://en.wikipedia.org/wiki/Learning_styles](https://en.wikipedia.org/wiki/Learning_styles)  
+   Link: <a href="https://en.wikipedia.org/wiki/Learning_styles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Learning_styles</a>  
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: link.springer.com  
    Title: Learning Styles, Preferences, or Strategies?  
-   Link: [https://link.springer.com/article/10.1007/s10648-025-10002-w](https://link.springer.com/article/10.1007/s10648-025-10002-w)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10648-025-10002-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-025-10002-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Explanation...by J Hattie · 2025 · Cited by 75 — This paper examines the resurgence of learning styles across meta-analyses and propo...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232929341_Learning_styles_and_pedagogy_in_post_16_education_a_critical_and_systematic_review](https://www.researchgate.net/publication/232929341_Learning_styles_and_pedagogy_in_post_16_education_a_critical_and_systematic_review)  
+   Link: <a href="https://www.researchgate.net/publication/232929341_Learning_styles_and_pedagogy_in_post_16_education_a_critical_and_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232929341_Learning_styles_and_pedagogy_in_post_16_education_a_critical_and_systematic_review</a>  
 
 18. <a id="endnote-18"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/10608972/A_Critical_Analysis_of_Learning_Styles_and_Pedagogy_in_post_16_learning_A_systematic_and_critical_review_published_in_2004_by_Coffield_F_Moseley_D_Hall_E_and_Ecclestone_K](https://www.academia.edu/10608972/A_Critical_Analysis_of_Learning_Styles_and_Pedagogy_in_post_16_learning_A_systematic_and_critical_review_published_in_2004_by_Coffield_F_Moseley_D_Hall_E_and_Ecclestone_K)  
+   Link: <a href="https://www.academia.edu/10608972/A_Critical_Analysis_of_Learning_Styles_and_Pedagogy_in_post_16_learning_A_systematic_and_critical_review_published_in_2004_by_Coffield_F_Moseley_D_Hall_E_and_Ecclestone_K" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/10608972/A_Critical_Analysis_of_Learning_Styles_and_Pedagogy_in_post_16_learning_A_systematic_and_critical_review_published_in_2004_by_Coffield_F_Moseley_D_Hall_E_and_Ecclestone_K</a>  
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/374794202_Beware_the_myth_learning_styles_affect_parents%27_children%27s_and_teachers%27_thinking_about_children%27s_academic_potential](https://www.researchgate.net/publication/374794202_Beware_the_myth_learning_styles_affect_parents%27_children%27s_and_teachers%27_thinking_about_children%27s_academic_potential)  
+   Link: <a href="https://www.researchgate.net/publication/374794202_Beware_the_myth_learning_styles_affect_parents%27_children%27s_and_teachers%27_thinking_about_children%27s_academic_potential" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374794202_Beware_the_myth_learning_styles_affect_parents%27_children%27s_and_teachers%27_thinking_about_children%27s_academic_potential</a>  
 
 20. <a id="endnote-20"></a>
    Source: structural-learning.com  
-   Link: [https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide](https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide)  
+   Link: <a href="https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide</a>  
 
 21. <a id="endnote-21"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/479826337/Retrieval-Practice-presentation](https://www.scribd.com/document/479826337/Retrieval-Practice-presentation)  
+   Link: <a href="https://www.scribd.com/document/479826337/Retrieval-Practice-presentation" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/479826337/Retrieval-Practice-presentation</a>  
 
 22. <a id="endnote-22"></a>
    Source: leerbeleving.nl  
-   Link: [https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf](https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf)  
+   Link: <a href="https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/australianprimaryteachers/posts/2798822343751981/](https://www.facebook.com/groups/australianprimaryteachers/posts/2798822343751981/)  
+   Link: <a href="https://www.facebook.com/groups/australianprimaryteachers/posts/2798822343751981/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/australianprimaryteachers/posts/2798822343751981/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100057794222624/posts/learning-styles-have-been-disproven-by-research-they-do-not-exist/1294359929167136/](https://www.facebook.com/100057794222624/posts/learning-styles-have-been-disproven-by-research-they-do-not-exist/1294359929167136/)  
+   Link: <a href="https://www.facebook.com/100057794222624/posts/learning-styles-have-been-disproven-by-research-they-do-not-exist/1294359929167136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100057794222624/posts/learning-styles-have-been-disproven-by-research-they-do-not-exist/1294359929167136/</a>  
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/270940278_Matching_Learning_Style_to_Instructional_Method_Effects_on_Comprehension](https://www.researchgate.net/publication/270940278_Matching_Learning_Style_to_Instructional_Method_Effects_on_Comprehension)  
+   Link: <a href="https://www.researchgate.net/publication/270940278_Matching_Learning_Style_to_Instructional_Method_Effects_on_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270940278_Matching_Learning_Style_to_Instructional_Method_Effects_on_Comprehension</a>

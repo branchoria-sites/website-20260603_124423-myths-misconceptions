@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_leading_questions_me_06cb8a
 - Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_repeated_retelling_m_3a2eb6
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - memory
 - flashbulb-memory
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - memory
 - flashbulb-memory
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Vivid memories of shocking events can feel photographic while still changing in important details over time.
 hero_summary: Vivid memories of shocking events can feel photographic while still changing in important details over time.
 layout: default
 permalink: /flashbulb-memory/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /memory/
 nav_short_title: Flashbulb Memory
 title: Why Vivid Memories Can Still Be Wrong
-title_full: Why Vivid Memories Can Still Be Wrong | Memory
+title_full: Why Vivid Memories Can Still Be Wrong
 display_title_short: Flashbulb Memory
 display_title: Flashbulb Memory
 heading_title: Why Vivid Memories Can Still Be Wrong
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Memory Is Not a Video Recording | Mythcraft
+parent_title: Why Memory Is Not a Video Recording
 parent_permalink: /memory/
 parent_nav_short_title: Memory
 parent_heading_title: Why Memory Is Not a Video Recording
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Repeated Stories Feel More True
 up_link:
   basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
@@ -265,7 +265,7 @@ next_link:
   permalink: /leading-questions/
   short_title: Leading Questions
   heading_title: Can a Question Change a Memory?
-date: '2026-06-09 05:28:30 '
+date: '2026-06-11 22:33:34 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_flashbulb_memory_ill_e4eff8-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_flashbulb_memory_ill_e4eff8-Illustration-1.webp
@@ -276,13 +276,12 @@ image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fl
 
 Flashbulb memories are the vivid, emotionally charged memories people form when they learn about a shocking public event. Many people can describe exactly where they were when they heard about the assassination of President John F. Kennedy, the Challenger space shuttle disaster, the attacks of 11 September 2001, or other major tragedies. These memories often feel unusually detailed, stable and certain, as though the moment had been photographed in the mind.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_flashbulb_memory_ill_e4eff8-Illustration-1-dark.svg" | relative_url }}" alt="Flashbulb Memory illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_flashbulb_memory_ill_e4eff8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_flashbulb_memory_ill_e4eff8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That feeling creates one of the most persistent misconceptions about [memory]({{ 'memory/' | relative_url }}): the belief that vivid memories are accurate memories. Research on flashbulb memories has repeatedly shown that people can remain highly confident in their recollections even as important details change over time. The memories feel special, and in some ways they are, but they are not immune to distortion, forgetting or reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4795959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFlashbulb Memories</span><span class="citation-popover-snippet">PMC - NIHby W Hirst · 2016 · Cited by 176 — Flashbulb memories refers only to those autobiographical memories that involve the circumstan...</span></span></span>
+That feeling creates one of the most persistent misconceptions about [memory]({{ 'memory/' | relative_url }}): the belief that vivid memories are accurate memories. Research on flashbulb memories has repeatedly shown that people can remain highly confident in their recollections even as important details change over time. The memories feel special, and in some ways they are, but they are not immune to distortion, forgetting or reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4795959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFlashbulb Memories</span><span class="citation-popover-snippet">NIHby W Hirst · 2016 · Cited by 176 — Flashbulb memories refers only to those autobiographical memories that involve the circumstan...</span></span></span>
 
 ## Why emotional memories feel unusually clear
 
-The idea of flashbulb memory was introduced by psychologists Roger Brown and James Kulik in 1977. They argued that highly surprising and consequential events could create especially vivid memories of the circumstances in which a person first learned the news. The term referred not to memory for the event itself, but to memory for the personal moment of hearing about it: where you were, who was present, what you were doing and how you reacted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4024154/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDistinct processes shape flashbulb and event memories</span><span class="citation-popover-snippet">PMCby C Tinti · 2013 · Cited by 79 — Brown and Kulik (1977), the concept of “flashbulb memories” refers to detailed, long-lasting, and vi...</span></span></span>
+The idea of flashbulb memory was introduced by psychologists Roger Brown and James Kulik in 1977. They argued that highly surprising and consequential events could create especially vivid memories of the circumstances in which a person first learned the news. The term referred not to memory for the event itself, but to memory for the personal moment of hearing about it: where you were, who was present, what you were doing and how you reacted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4024154/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDistinct processes shape flashbulb and event memories</span><span class="citation-popover-snippet">by C Tinti · 2013 · Cited by 79 — Brown and Kulik (1977), the concept of “flashbulb memories” refers to detailed, long-lasting, and vi...</span></span></span>
 
 Several features make these memories feel different from ordinary recollections:
 
@@ -294,7 +293,6 @@ Several features make these memories feel different from ordinary recollections:
 Brain research suggests that emotionally significant experiences involve interactions between regions associated with emotion and memory, particularly the amygdala and hippocampus. Emotional arousal can strengthen the subjective feeling that a memory is vivid and meaningful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/flashbulb-memories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabFlashbulb MemoriesOver the past three decades, brain imaging studies have linked flashbulb memory formation to coordinate...</span></span></span>
 
 This subjective quality is important. People often report that flashbulb memories seem immediate and detailed. They may feel as if they can mentally revisit the original moment. The problem is that the experience of clarity is not the same thing as a guarantee of accuracy.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IOd-dypYtMI" title="Your Clearest Memory Is Probably Wrong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IOd-dypYtMI" target="_blank" rel="noopener noreferrer">Your Clearest Memory Is Probably Wrong</a></p><p class="youtube-embed-meta">Channel: Mind Autopsy &middot; Views: 71 &middot; Uploaded: March 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IOd-dypYtMI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IOd-dypYtMI">Open on YouTube</a></p></div></div></div>
 
@@ -315,7 +313,6 @@ The Challenger study became a landmark because it exposed the gap between two th
 
 Those turned out to be very different measures.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nRhqs9BcQns" title="Your Most Vivid Memories Aren&#x27;t As Accurate As You Think" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nRhqs9BcQns" target="_blank" rel="noopener noreferrer">Your Most Vivid Memories Aren&#x27;t As Accurate As You Think</a></p><p class="youtube-embed-meta">Channel: Mind Decode YT &middot; Views: 7 &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nRhqs9BcQns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nRhqs9BcQns">Open on YouTube</a></p></div></div></div>
 
 ## What changes across later recall
@@ -330,7 +327,6 @@ People often retain a general memory that they learned about a shocking event an
 
 Specific details are more vulnerable. A person may misremember:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * Where they were.
@@ -341,30 +337,28 @@ Specific details are more vulnerable. A person may misremember:
 
 </div>
 
-Over time, later information can become woven into the memory. [Repeated retellings]({{ 'retelling/' | relative_url }}) may also smooth inconsistencies and create a more coherent story than the original experience actually provided. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3864593/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCEmotion Enhances the Subjective Feeling of Remembering...by U Rimmele · 2011 · Cited by 252 — However, these vivid and confidently re...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2925254/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLong-term memory for the terrorist attack of September 11</span><span class="citation-popover-snippet">PMCby W Hirst · 2009 · Cited by 375 — The present paper indicates that (1) the rate of forgetting for flashbulb memories and event memory...</span></span></span>
-
+Over time, later information can become woven into the memory. Repeated retellings may also smooth inconsistencies and create a more coherent story than the original experience actually provided. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3864593/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Emotion Enhances the Subjective Feeling of Remembering...by U Rimmele · 2011 · Cited by 252 — However, these vivid and confidently re...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2925254/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLong-term memory for the terrorist attack of September 11</span><span class="citation-popover-snippet">by W Hirst · 2009 · Cited by 375 — The present paper indicates that (1) the rate of forgetting for flashbulb memories and event memory...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_flashbulb_memory_ill_e4eff8-Illustration-2-dark.svg" | relative_url }}" alt="Flashbulb Memory illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_flashbulb_memory_ill_e4eff8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_flashbulb_memory_ill_e4eff8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Memories become more stable after they have already changed
 
-Research following memories of 11 September found an interesting pattern. Consistency declined substantially during the first year, but later versions often became relatively stable. In other words, people did not preserve the original memory. Instead, they frequently settled into a revised version that then remained fairly consistent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12264266/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby F Battista · 2025 — Our study aimed to test whether it is possible to distinguish between true and fabricated autobiographical memo...</span></span></span>
+Research following memories of 11 September found an interesting pattern. Consistency declined substantially during the first year, but later versions often became relatively stable. In other words, people did not preserve the original memory. Instead, they frequently settled into a revised version that then remained fairly consistent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12264266/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by F Battista · 2025 — Our study aimed to test whether it is possible to distinguish between true and fabricated autobiographical memo...</span></span></span>
 
 This can create the illusion that the memory has always been the same. Once a revised narrative becomes established, people may repeat it for years without realising that it differs from their earlier recollections.
 
 ### Emotional reactions are not perfectly preserved
 
-Another surprising finding is that memories of emotional responses can be especially unreliable. Studies of 9/11 memories found that recollections of emotional reactions often changed substantially over time, sometimes more than memories for factual circumstances. People remember having been emotional, but the exact nature and intensity of those feelings can shift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4795959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFlashbulb Memories</span><span class="citation-popover-snippet">PMC - NIHby W Hirst · 2016 · Cited by 176 — Flashbulb memories refers only to those autobiographical memories that involve the circumstan...</span></span></span>
+Another surprising finding is that memories of emotional responses can be especially unreliable. Studies of 9/11 memories found that recollections of emotional reactions often changed substantially over time, sometimes more than memories for factual circumstances. People remember having been emotional, but the exact nature and intensity of those feelings can shift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4795959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFlashbulb Memories</span><span class="citation-popover-snippet">NIHby W Hirst · 2016 · Cited by 176 — Flashbulb memories refers only to those autobiographical memories that involve the circumstan...</span></span></span>
 
 ## Why certainty can outlast accuracy
 
 Perhaps the most important lesson from flashbulb-memory research is that confidence and accuracy follow different paths.
 
-A major study conducted after 11 September compared memories of learning about the attacks with memories of ordinary everyday events. The consistency of both kinds of memories declined over time. However, participants continued to rate their 9/11 memories as especially vivid, detailed and trustworthy. Confidence remained high even when accuracy did not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12930476/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedConfidence, not consistency, characterizes flashbulb...by JM Talarico · 2003 · Cited by 1179 — On September 12, 2001, 54 Duke stud...</span><span class="citation-popover-meta">Published: September 12, 2001</span></span></span>
+A major study conducted after 11 September compared memories of learning about the attacks with memories of ordinary everyday events. The consistency of both kinds of memories declined over time. However, participants continued to rate their 9/11 memories as especially vivid, detailed and trustworthy. Confidence remained high even when accuracy did not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12930476/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Confidence, not consistency, characterizes flashbulb...by JM Talarico · 2003 · Cited by 1179 — On September 12, 2001, 54 Duke stud...</span><span class="citation-popover-meta">Published: September 12, 2001</span></span></span>
 
-This finding has been replicated repeatedly. Flashbulb memories are often characterised not by exceptional consistency but by exceptional confidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12930476/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedConfidence, not consistency, characterizes flashbulb...by JM Talarico · 2003 · Cited by 1179 — On September 12, 2001, 54 Duke stud...</span><span class="citation-popover-meta">Published: September 12, 2001</span></span></span>
+This finding has been replicated repeatedly. Flashbulb memories are often characterised not by exceptional consistency but by exceptional confidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12930476/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Confidence, not consistency, characterizes flashbulb...by JM Talarico · 2003 · Cited by 1179 — On September 12, 2001, 54 Duke stud...</span><span class="citation-popover-meta">Published: September 12, 2001</span></span></span>
 
 Several mechanisms help explain the gap:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -375,8 +369,7 @@ Several mechanisms help explain the gap:
 
 </div>
 
-The result is a powerful psychological illusion. The memory feels secure because it is vivid, emotionally significant and frequently revisited. None of those qualities guarantee that the details are correct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4024154/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDistinct processes shape flashbulb and event memories</span><span class="citation-popover-snippet">PMCby C Tinti · 2013 · Cited by 79 — Brown and Kulik (1977), the concept of “flashbulb memories” refers to detailed, long-lasting, and vi...</span></span></span>
-
+The result is a powerful psychological illusion. The memory feels secure because it is vivid, emotionally significant and frequently revisited. None of those qualities guarantee that the details are correct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4024154/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDistinct processes shape flashbulb and event memories</span><span class="citation-popover-snippet">by C Tinti · 2013 · Cited by 79 — Brown and Kulik (1977), the concept of “flashbulb memories” refers to detailed, long-lasting, and vi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mq3mt83R6vg" title="WARNING: Why Your Memory Is 100% Fake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mq3mt83R6vg" target="_blank" rel="noopener noreferrer">WARNING: Why Your Memory Is 100% Fake</a></p><p class="youtube-embed-meta">Channel: Freaky Science &middot; Views: 2 &middot; Uploaded: February 2026 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mq3mt83R6vg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mq3mt83R6vg">Open on YouTube</a></p></div></div></div>
 
@@ -384,7 +377,7 @@ The result is a powerful psychological illusion. The memory feels secure because
 
 Flashbulb memories are shaped not only by individual psychology but also by culture.
 
-Events such as 9/11 become subjects of continuous discussion through news coverage, documentaries, anniversaries, conversations and public commemorations. Each [retelling]({{ 'retelling/' | relative_url }}) provides opportunities to reinforce some details and reshape others. Researchers have argued that these collective practices help explain why memories of major public events can become stable despite earlier inaccuracies. People repeatedly reconstruct their memories within a shared social framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3864593/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCEmotion Enhances the Subjective Feeling of Remembering...by U Rimmele · 2011 · Cited by 252 — However, these vivid and confidently re...</span></span></span>
+Events such as 9/11 become subjects of continuous discussion through news coverage, documentaries, anniversaries, conversations and public commemorations. Each [retelling]({{ 'retelling/' | relative_url }}) provides opportunities to reinforce some details and reshape others. Researchers have argued that these collective practices help explain why memories of major public events can become stable despite earlier inaccuracies. People repeatedly reconstruct their memories within a shared social framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3864593/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Emotion Enhances the Subjective Feeling of Remembering...by U Rimmele · 2011 · Cited by 252 — However, these vivid and confidently re...</span></span></span>
 
 This helps explain why large groups often remember the same historical event in similar ways while still differing on important personal details. Individual memory and public narrative influence each other over time.
 
@@ -392,10 +385,9 @@ This helps explain why large groups often remember the same historical event in 
 
 Flashbulb memories are often cited as evidence that the mind can preserve certain experiences with photographic precision. The research largely points in the opposite direction.
 
-These memories are remarkable because they show how convincing reconstructed memories can feel. A flashbulb memory may remain vivid for decades. It may carry a powerful sense of certainty. It may feel untouched by time. Yet when researchers compare later recollections with records made closer to the original event, significant discrepancies frequently appear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mralvarezclass.weebly.com/uploads/3/8/0/1/38017881/neisser_and_harsch.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mralvarezclass.weebly.com">[mralvarezclass.weebly.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mralvarezclass.weebly.com</span><span class="citation-popover-title">neisser and harsch</span><span class="citation-popover-snippet">1992)Aim: To test the theory of flashbulb memory by investigating the extent to which memory for a shocking event (the Challenger disast...</span></span></span> PubMed The lesson is not that people remember nothing accurately. Many central elements of these memories remain recognisable and meaningful. The de <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12930476/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedConfidence, not consistency, characterizes flashbulb...by JM Talarico · 2003 · Cited by 1179 — On September 12, 2001, 54 Duke stud...</span><span class="citation-popover-meta">Published: September 12, 2001</span></span></span> eper lesson is that memory's subjective qualities—clarity, vividness, emotional force and confidence—cannot by themselves tell us whether a recollection is correct.
+These memories are remarkable because they show how convincing reconstructed memories can feel. A flashbulb memory may remain vivid for decades. It may carry a powerful sense of certainty. It may feel untouched by time. Yet when researchers compare later recollections with records made closer to the original event, significant discrepancies frequently appear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mralvarezclass.weebly.com/uploads/3/8/0/1/38017881/neisser_and_harsch.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mralvarezclass.weebly.com">[mralvarezclass.weebly.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mralvarezclass.weebly.com</span><span class="citation-popover-title">neisser and harsch</span><span class="citation-popover-snippet">1992)Aim: To test the theory of flashbulb memory by investigating the extent to which memory for a shocking event (the Challenger disast...</span></span></span> PubMed The lesson is not that people remember nothing accurately. Many central elements of these memories remain recognisable and meaningful. The de <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12930476/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Confidence, not consistency, characterizes flashbulb...by JM Talarico · 2003 · Cited by 1179 — On September 12, 2001, 54 Duke stud...</span><span class="citation-popover-meta">Published: September 12, 2001</span></span></span> eper lesson is that memory's subjective qualities—clarity, vividness, emotional force and confidence—cannot by themselves tell us whether a recollection is correct.
 
-Flashbulb memories therefore provide one of the clearest demonstrations of the broader myth that memory works like a recording device. The mind can generate a compelling feeling of perfect recall even while the memory itself continues to change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2925254/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLong-term memory for the terrorist attack of September 11</span><span class="citation-popover-snippet">PMCby W Hirst · 2009 · Cited by 375 — The present paper indicates that (1) the rate of forgetting for flashbulb memories and event memory...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/au/blog/ulterior-motives/201506/the-consistency-flashbulb-memories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the consistency flashbulb memories</span><span class="citation-popover-snippet">They feel as though all of the details have been preserved. But, research on memory...Read more...</span></span></span>
-
+Flashbulb memories therefore provide one of the clearest demonstrations of the broader myth that memory works like a recording device. The mind can generate a compelling feeling of perfect recall even while the memory itself continues to change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2925254/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLong-term memory for the terrorist attack of September 11</span><span class="citation-popover-snippet">by W Hirst · 2009 · Cited by 375 — The present paper indicates that (1) the rate of forgetting for flashbulb memories and event memory...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/au/blog/ulterior-motives/201506/the-consistency-flashbulb-memories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the consistency flashbulb memories</span><span class="citation-popover-snippet">They feel as though all of the details have been preserved. But, research on memory...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_flashbulb_memory_ill_e4eff8-Illustration-3-dark.svg" | relative_url }}" alt="Flashbulb Memory illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_flashbulb_memory_ill_e4eff8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_flashbulb_memory_ill_e4eff8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -764,180 +756,180 @@ Flashbulb memories therefore provide one of the clearest demonstrations of the b
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCFlashbulb Memories  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4795959/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4795959/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby W Hirst · 2016 · Cited by 176 — Flashbulb memories refers only to those autobiographical memories that involve the circumstan...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4795959/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4795959/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby W Hirst · 2016 · Cited by 176 — Flashbulb memories refers only to those autobiographical memories that involve the circumstan...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDistinct processes shape flashbulb and event memories  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4024154/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4024154/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby C Tinti · 2013 · Cited by 79 — Brown and Kulik (1977), the concept of “flashbulb memories” refers to detailed, long-lasting, and vi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4024154/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4024154/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Tinti · 2013 · Cited by 79 — Brown and Kulik (1977), the concept of “flashbulb memories” refers to detailed, long-lasting, and vi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3864593/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3864593/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCEmotion Enhances the Subjective Feeling of Remembering...by U Rimmele · 2011 · Cited by 252 — However, these vivid and confidently re...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3864593/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3864593/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion Enhances the Subjective Feeling of Remembering...by U Rimmele · 2011 · Cited by 252 — However, these vivid and confidently re...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: mralvarezclass.weebly.com  
    Title: neisser and harsch  
-   Link: [https://mralvarezclass.weebly.com/uploads/3/8/0/1/38017881/neisser_and_harsch.pdf](https://mralvarezclass.weebly.com/uploads/3/8/0/1/38017881/neisser_and_harsch.pdf)  
+   Link: <a href="https://mralvarezclass.weebly.com/uploads/3/8/0/1/38017881/neisser_and_harsch.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mralvarezclass.weebly.com/uploads/3/8/0/1/38017881/neisser_and_harsch.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(1992)Aim: To test the theory of flashbulb memory by investigating the extent to which memory for a shocking event (the Challenger disast...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cambridge.org  
    Title: University Press & Assessment2  
-   Link: [https://www.cambridge.org/core/books/affect-and-accuracy-in-recall/phantom-flashbulbs-false-recollections-of-hearing-the-news-about-challenger/7940B6333F57AE18191278D07BA512B3](https://www.cambridge.org/core/books/affect-and-accuracy-in-recall/phantom-flashbulbs-false-recollections-of-hearing-the-news-about-challenger/7940B6333F57AE18191278D07BA512B3)  
+   Link: <a href="https://www.cambridge.org/core/books/affect-and-accuracy-in-recall/phantom-flashbulbs-false-recollections-of-hearing-the-news-about-challenger/7940B6333F57AE18191278D07BA512B3" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/affect-and-accuracy-in-recall/phantom-flashbulbs-false-recollections-of-hearing-the-news-about-challenger/7940B6333F57AE18191278D07BA512B3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment2 - Phantom flashbulbs: False recollections of hearing the...The two memories above are actual wr...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLong-term memory for the terrorist attack of September 11  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2925254/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2925254/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby W Hirst · 2009 · Cited by 375 — The present paper indicates that (1) the rate of forgetting for flashbulb memories and event memory...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2925254/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2925254/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by W Hirst · 2009 · Cited by 375 — The present paper indicates that (1) the rate of forgetting for flashbulb memories and event memory...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: resolve.cambridge.org  
    Title: flashbulb memories confidence consistency and quantity  
-   Link: [https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/714B7A305214F9E47B8744775CF5F3AA/9780511664069c4_p65-92_CBO.pdf/flashbulb_memories_confidence_consistency_and_quantity.pdf](https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/714B7A305214F9E47B8744775CF5F3AA/9780511664069c4_p65-92_CBO.pdf/flashbulb_memories_confidence_consistency_and_quantity.pdf)  
+   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/714B7A305214F9E47B8744775CF5F3AA/9780511664069c4_p65-92_CBO.pdf/flashbulb_memories_confidence_consistency_and_quantity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/714B7A305214F9E47B8744775CF5F3AA/9780511664069c4_p65-92_CBO.pdf/flashbulb_memories_confidence_consistency_and_quantity.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>memories: Confidence, consistency, and quantityOn January 28, 1986 at 11:38 a.m. EST, the Space Shuttle Challenger rose into the sky on a...</p></details>
    Published: January 28, 1986  
 
 8. <a id="endnote-8"></a>
    Source: resolve.cambridge.org  
    Title: Substantial and irreversible errors in flashbulb.Read more  
-   Link: [https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/7940B6333F57AE18191278D07BA512B3/9780511664069c2_p9-31_CBO.pdf/phantom_flashbulbs_false_recollections_of_hearing_the_news_about_challenger.pdf](https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/7940B6333F57AE18191278D07BA512B3/9780511664069c2_p9-31_CBO.pdf/phantom_flashbulbs_false_recollections_of_hearing_the_news_about_challenger.pdf)  
+   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/7940B6333F57AE18191278D07BA512B3/9780511664069c2_p9-31_CBO.pdf/phantom_flashbulbs_false_recollections_of_hearing_the_news_about_challenger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/7940B6333F57AE18191278D07BA512B3/9780511664069c2_p9-31_CBO.pdf/phantom_flashbulbs_false_recollections_of_hearing_the_news_about_challenger.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>recollections of hearing the news about ChallengerThe most important aim of our study, of course, was to assess the overall accuracy of f...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-025-10640-8](https://www.nature.com/articles/s41598-025-10640-8)  
+   Link: <a href="https://www.nature.com/articles/s41598-025-10640-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-10640-8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A study on the use of Flashbulb Memories features to...by F Battista · 2025 — Our study aimed to test whether it is possible to distingu...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/flashbulb-memories](https://thedecisionlab.com/reference-guide/psychology/flashbulb-memories)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/flashbulb-memories" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/flashbulb-memories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabFlashbulb MemoriesOver the past three decades, brain imaging studies have linked flashbulb memory formation to coordinate...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Ulric Neisser  
-   Link: [https://en.wikipedia.org/wiki/Ulric_Neisser](https://en.wikipedia.org/wiki/Ulric_Neisser)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ulric_Neisser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ulric_Neisser</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ulric NeisserUlric Richard Gustav Neisser (December 8, 1928 – February 17, 2012) was a German-American psychologist, Cornell Universit...</p></details>
    Published: December 8, 1928  
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/12930476/](https://pubmed.ncbi.nlm.nih.gov/12930476/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedConfidence, not consistency, characterizes flashbulb...by JM Talarico · 2003 · Cited by 1179 — On September 12, 2001, 54 Duke stud...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12930476/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12930476/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence, not consistency, characterizes flashbulb...by JM Talarico · 2003 · Cited by 1179 — On September 12, 2001, 54 Duke stud...</p></details>
    Published: September 12, 2001  
 
 13. <a id="endnote-13"></a>
    Source: psychologytoday.com  
    Title: the consistency flashbulb memories  
-   Link: [https://www.psychologytoday.com/au/blog/ulterior-motives/201506/the-consistency-flashbulb-memories](https://www.psychologytoday.com/au/blog/ulterior-motives/201506/the-consistency-flashbulb-memories)  
+   Link: <a href="https://www.psychologytoday.com/au/blog/ulterior-motives/201506/the-consistency-flashbulb-memories" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/au/blog/ulterior-motives/201506/the-consistency-flashbulb-memories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They feel as though all of the details have been preserved. But, research on memory...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Flashbulb](https://en.wikipedia.org/wiki/Flashbulb)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flashbulb" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flashbulb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FlashbulbFlashbulb may refer to: Flashbulb (photography), lightbulb used in flash photography; Flashbulb memory, a vivid memory of an...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/September](https://en.wikipedia.org/wiki/September)  
+   Link: <a href="https://en.wikipedia.org/wiki/September" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/September</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SeptemberSeptember is the ninth month of the year in the Julian and Gregorian calendars. Its length is 30 days.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Flashbulb memory  
-   Link: [https://en.wikipedia.org/wiki/Flashbulb_memory](https://en.wikipedia.org/wiki/Flashbulb_memory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flashbulb_memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flashbulb_memory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flashbulb memoryA number of studies suggest that flashbulb memories are not especially accurate, but that they are experienced with gr...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12264266/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12264266/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby F Battista · 2025 — Our study aimed to test whether it is possible to distinguish between true and fabricated autobiographical memo...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12264266/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12264266/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Battista · 2025 — Our study aimed to test whether it is possible to distinguish between true and fabricated autobiographical memo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25751741/](https://pubmed.ncbi.nlm.nih.gov/25751741/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedby W Hirst · 2015 · Cited by 305 — The study, therefore, examines retention of flashbulb memories and event memories at a substanti...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25751741/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25751741/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by W Hirst · 2015 · Cited by 305 — The study, therefore, examines retention of flashbulb memories and event memories at a substanti...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/monitor/2011/09/memories](https://www.apa.org/monitor/2011/09/memories)  
+   Link: <a href="https://www.apa.org/monitor/2011/09/memories" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/monitor/2011/09/memories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Seared in our memories1 Sept 2011 — Flashbulb memory or a detailed recollection of a memorable event is common as part of a public traged...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: psychologytoday.com  
    Title: the consistency flashbulb memories  
-   Link: [https://www.psychologytoday.com/us/blog/ulterior-motives/201506/the-consistency-flashbulb-memories](https://www.psychologytoday.com/us/blog/ulterior-motives/201506/the-consistency-flashbulb-memories)  
+   Link: <a href="https://www.psychologytoday.com/us/blog/ulterior-motives/201506/the-consistency-flashbulb-memories" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/ulterior-motives/201506/the-consistency-flashbulb-memories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Consistency of Flashbulb MemoriesJun 26, 2015 — Although flashbulb memories are not like videos of the event, they are probably more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cognitivepsychology.com  
    Title: Flashbulb Memory  
-   Link: [https://www.cognitivepsychology.com/Flashbulb_Memory](https://www.cognitivepsychology.com/Flashbulb_Memory)  
+   Link: <a href="https://www.cognitivepsychology.com/Flashbulb_Memory" target="_blank" rel="noopener noreferrer nofollow">https://www.cognitivepsychology.com/Flashbulb_Memory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Psychology ReferenceDespite their vividness and the high confidence people place in them, flashbulb memories are not as accurat...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: flashbulbs.com  
-   Link: [https://flashbulbs.com/](https://flashbulbs.com/)  
+   Link: <a href="https://flashbulbs.com/" target="_blank" rel="noopener noreferrer nofollow">https://flashbulbs.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeWhy Flashbulbs? Nothing produces the quality and quantity of light generated by a flashbulb. Small, portable, easily fired and relati...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/gr/553716825/neisser-and-harsch-study-flash-cards/](https://quizlet.com/gr/553716825/neisser-and-harsch-study-flash-cards/)  
+   Link: <a href="https://quizlet.com/gr/553716825/neisser-and-harsch-study-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gr/553716825/neisser-and-harsch-study-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neisser and Harsch study FlashcardsA number of studies suggest that flashbulb memories are not especially accurate, but that they are exp...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: memlab.psychol.cam.ac.uk  
-   Link: [https://www.memlab.psychol.cam.ac.uk/pubs/Hirst2015%20JEPG.pdf](https://www.memlab.psychol.cam.ac.uk/pubs/Hirst2015%20JEPG.pdf)  
+   Link: <a href="https://www.memlab.psychol.cam.ac.uk/pubs/Hirst2015%20JEPG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.memlab.psychol.cam.ac.uk/pubs/Hirst2015%20JEPG.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ten-Year Follow-Up of a Study of Memory for the Attack...by W Hirst · Cited by 305 — First, we examined the consistency of flashbulb mem...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/flashbulb](https://www.merriam-webster.com/dictionary/flashbulb)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/flashbulb" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/flashbulb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FLASHBULB Definition &amp; MeaningThe meaning of FLASHBULB is an electric bulb that can be used only once to produce a brief and very bright...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: hub.edubirdie.com  
    Title: reliability of our memory analysis of the effect of flashbulb memory  
-   Link: [https://hub.edubirdie.com/examples/reliability-of-our-memory-analysis-of-the-effect-of-flashbulb-memory/](https://hub.edubirdie.com/examples/reliability-of-our-memory-analysis-of-the-effect-of-flashbulb-memory/)  
+   Link: <a href="https://hub.edubirdie.com/examples/reliability-of-our-memory-analysis-of-the-effect-of-flashbulb-memory/" target="_blank" rel="noopener noreferrer nofollow">https://hub.edubirdie.com/examples/reliability-of-our-memory-analysis-of-the-effect-of-flashbulb-memory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reliability of Flashbulb Memories - Free Essay Example7 Jan 2026 — First coined by Brown and Kulik in 1977, flashbulb memory is often per...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: news.lafayette.edu  
    Title: remembering 9 11 are flashbulb memories accurate 20 years later  
-   Link: [https://news.lafayette.edu/2021/09/07/remembering-9-11-are-flashbulb-memories-accurate-20-years-later/](https://news.lafayette.edu/2021/09/07/remembering-9-11-are-flashbulb-memories-accurate-20-years-later/)  
+   Link: <a href="https://news.lafayette.edu/2021/09/07/remembering-9-11-are-flashbulb-memories-accurate-20-years-later/" target="_blank" rel="noopener noreferrer nofollow">https://news.lafayette.edu/2021/09/07/remembering-9-11-are-flashbulb-memories-accurate-20-years-later/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9/11: Are Flashbulb Memories Accurate 20...7 Sept 2021 — Cognitive psychologist was among the first to connect flashbulb memories to the...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: simplypsychology.org  
-   Link: [https://www.simplypsychology.org/flashbulb-memory.html](https://www.simplypsychology.org/flashbulb-memory.html)  
+   Link: <a href="https://www.simplypsychology.org/flashbulb-memory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/flashbulb-memory.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>long-lasting memory for the circumstances surrounding learning about a dramatic event.Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/40064167](https://www.jstor.org/stable/40064167)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JSTORConfidence, Not Consistency, Characterizes Flashbulb...by JM Talarico · 2003 · Cited by 1180 — Neisser (Eds.), Affect and accuracy...</p></details>
+   Link: <a href="https://www.jstor.org/stable/40064167" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/40064167</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence, Not Consistency, Characterizes Flashbulb...by JM Talarico · 2003 · Cited by 1180 — Neisser (Eds.), Affect and accuracy...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: ojs.lib.uwo.ca  
    Title: ca View of How Much do We Really Remember About 9/11?  
-   Link: [https://ojs.lib.uwo.ca/index.php/wupj/article/view/1632/1023](https://ojs.lib.uwo.ca/index.php/wupj/article/view/1632/1023)  
+   Link: <a href="https://ojs.lib.uwo.ca/index.php/wupj/article/view/1632/1023" target="_blank" rel="noopener noreferrer nofollow">https://ojs.lib.uwo.ca/index.php/wupj/article/view/1632/1023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Salna · 2013 — 2013 WUPJ, September2013, Volume 1CognitionHow Much do We ReallyRemember About 9/11?A Critical Analysis of the Neuros...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: teachertoolkit.co.uk  
    Title: talarico psychologicalscience vol14 no5 2003  
-   Link: [https://www.teachertoolkit.co.uk/wp-content/uploads/2014/06/talarico-psychologicalscience-vol14-no5-2003.pdf](https://www.teachertoolkit.co.uk/wp-content/uploads/2014/06/talarico-psychologicalscience-vol14-no5-2003.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TeacherToolkitConfidence, not consistency, characterizes flashbulb memoriesby JM Talarico · 2003 · Cited by 1180 — The properties of flas...</p></details>
+   Link: <a href="https://www.teachertoolkit.co.uk/wp-content/uploads/2014/06/talarico-psychologicalscience-vol14-no5-2003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.teachertoolkit.co.uk/wp-content/uploads/2014/06/talarico-psychologicalscience-vol14-no5-2003.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>nfidence, not consistency, characterizes flashbulb memoriesby JM Talarico · 2003 · Cited by 1180 — The properties of flas...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: robertglazer.com  
-   Link: [https://robertglazer.com/friday-forward/flashbulb-memory-flaw/](https://robertglazer.com/friday-forward/flashbulb-memory-flaw/)  
+   Link: <a href="https://robertglazer.com/friday-forward/flashbulb-memory-flaw/" target="_blank" rel="noopener noreferrer nofollow">https://robertglazer.com/friday-forward/flashbulb-memory-flaw/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Your Memory Is Not As Good As You Think16 Sept 2021 — While flashbulb memories are vivid, they aren&#x27;t always accurate...</p></details>

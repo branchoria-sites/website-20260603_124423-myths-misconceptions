@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - false-balance
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - false-balance
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Giving weak claims equal weight with strong evidence can make a misconception look like a live debate.
 hero_summary: Giving weak claims equal weight with strong evidence can make a misconception look like a live debate.
 layout: default
 permalink: /false-balance/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: False Balance
 title: When Both Sides Framing Misleads Readers
-title_full: When Both Sides Framing Misleads Readers | Mythcraft
+title_full: When Both Sides Framing Misleads Readers
 display_title_short: False Balance
 display_title: False Balance
 heading_title: When Both Sides Framing Misleads Readers
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 next_link:
   basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
-date: '2026-06-09 04:10:41 '
+date: '2026-06-11 21:54:28 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-overview.webp
@@ -501,8 +501,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-ov
 
 ## Introduction
 
-False balance happens when weak, unsupported or fringe claims are presented as if they deserve the same weight as a much stronger evidence base. It often begins as a well-meant attempt to be fair: quote one person “for” and one person “against”, give each side [equal airtime]({{ 'equal-airtime/' | relative_url }}), and let the audience decide. The problem is that this can make a settled or heavily one-sided question look like an open contest. In [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}), that framing is powerful because it turns correction into spectacle: the false claim appears not as a failed claim, but as one “side” of a debate.
-
+False balance happens when weak, unsupported or fringe claims are presented as if they deserve the same weight as a much stronger evidence base. It often begins as a well-meant attempt to be fair: quote one person “for” and one person “against”, give each side [equal airtime]({{ 'equal-airtime/' | relative_url }}), and let the audience decide. The problem is that this can make a settled or heavily one-sided question look like an open contest. In myths and misconceptions, that framing is powerful because it turns [correction]({{ 'correction/' | relative_url }}) into spectacle: the false claim appears not as a failed claim, but as one “side” of a debate.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-overview.webp" | relative_url }}" alt="Overview image for False Balance" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean minority views should never be reported. It means readers need to know what kind of minority claim they are seeing: a serious unresolved scientific disagreement, an early hypothesis, a political objection, a personal testimony, a commercial talking point, or a claim already tested and found wanting. Good reporting does not hide disagreement; it shows its weight.
@@ -521,14 +520,13 @@ False balance is therefore different from ordinary debate coverage. In a live po
 
 False balance works because it uses familiar signals of legitimacy. A studio debate, a quoted “sceptic”, a headline built around “critics say”, or a panel with one supporter and one opponent all suggest that the issue has two broadly comparable sides. Readers are used to [politics]({{ 'politics/' | relative_url }}) being presented this way, so the format can smuggle that habit into topics where evidence is not evenly distributed.
 
-A classic example is climate change coverage. Maxwell and Jules Boykoff’s influential study of US prestige-press coverage from 1988 to 2002 argued that journalistic norms of balanced reporting contributed to a gap between scientific discourse and public discourse on global warming. The finding was not that journalists invented climate scepticism; it was that routine professional habits helped make the public debate look less settled than the scientific literature was becoming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0959378003000669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectBalance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2926 — This paper demonstrates that...</span></span></span>
+A classic example is climate change coverage. Maxwell and Jules Boykoff’s influential study of US prestige-press coverage from 1988 to 2002 argued that journalistic norms of balanced reporting contributed to a gap between scientific discourse and public discourse on global warming. The finding was not that journalists invented climate scepticism; it was that routine professional habits helped make the public debate look less settled than the scientific literature was becoming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0959378003000669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Balance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2926 — This paper demonstrates that...</span></span></span>
 
 That matters because scientific consensus is not a popularity contest. It is a signal that many independent lines of evidence have been tested, criticised, replicated and weighed. Cook and colleagues’ 2013 study examined 11,944 climate abstracts from 1991 to 2011 and found that, among papers expressing a position on human-caused global warming, 97.1% endorsed the consensus position. The exact percentage is less important than the structural point: a small rejection minority should not be framed as half of the expert landscape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cssn.org/wp-content/uploads/2020/12/Quantifying-the-consensus-on-anthropogenic-global-warming-in-the-scientific-literature-John-Cook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cssn.org">[Brown Climate Social Science Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cssn.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The same pattern appeared in vaccine reporting. The discredited claim that the measles, mumps and rubella vaccine was linked to autism began with Andrew Wakefield’s 1998 Lancet paper, which was later retracted, with subsequent investigations and reviews finding serious scientific and ethical failures. Yet the media controversy lasted far longer than the evidence warranted, partly because the story was repeatedly framed as anxious parents and dissenting doctors versus medical authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span><span class="citation-popover-snippet">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span><span class="citation-popover-snippet">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span></span></span>
 
 The result is not only confusion about facts. False balance can change what people think experts think. In an experiment on autism-[vaccine coverage]({{ 'vaccine-coverage/' | relative_url }}), Graham Dixon and Christopher Clarke randomly assigned 327 participants to different news articles. Readers exposed to a “balanced” presentation of claims for and against an autism-vaccine link were less certain that [vaccines]({{ 'vaccines/' | relative_url }}) did not cause autism and more likely to believe experts were divided. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23193194/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-1-dark.svg" | relative_url }}" alt="False Balance illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Uncertainty Gets Exaggerated
@@ -538,7 +536,6 @@ Uncertainty is normal in real evidence. Good science includes margins of error, 
 This is a common route from uncertainty to misconception. A study may leave open a narrow question, such as the exact size of an effect, the best policy response, or the risk profile for a subgroup. A weak claim then reframes that uncertainty as if the whole topic is unsettled. The move is often rhetorical rather than evidential: “scientists are still debating details” becomes “scientists do not really know”.
 
 Three mechanisms are especially important:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -552,7 +549,6 @@ Research on false-balance mitigation suggests that “weight-of-evidence” stat
 
 But weighting evidence is not a magic phrase added at the end. The entire report has to make proportion visible: who has relevant expertise, what evidence has been tested, how many studies point in each direction, whether the claim has survived review, and whether the minority position is scientifically credible or merely visible.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dXouSNjuMX0" title="The Media Bias Nobody is Talking About | Robert Reich" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dXouSNjuMX0" target="_blank" rel="noopener noreferrer">The Media Bias Nobody is Talking About | Robert Reich</a></p><p class="youtube-embed-meta">Channel: Robert Reich &middot; Views: 137.5K &middot; Uploaded: August 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dXouSNjuMX0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dXouSNjuMX0">Open on YouTube</a></p></div></div></div>
 
 ## Why “Minority Claim” Does Not Always Mean “Wrong”
@@ -563,17 +559,20 @@ That distinction is essential because “avoid false balance” can itself be mi
 
 The test is not whether a claim is popular. The test is whether it is supportable. A responsible account asks:
 
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * What evidence is the minority claim based on?
 * Has it been independently checked?
 * Does it address the strongest evidence against it?
 * Are the sources qualified on the specific question?
 * Are there conflicts of interest, ideological incentives or commercial motives?
-* Is the disagreement about facts, values, policy, interpretation or [personal experience]({{ 'anecdotes/' | relative_url }})?
+* Is the disagreement about facts, values, policy, interpretation or personal experience?
 
-This is why due weight is better than equal weight. The BBC’s own editorial material has recognised that due impartiality is “more than a simple matter of ‘balance’ between opposing viewpoints”, and BBC Trust science-impartiality reviews stressed that science coverage should not give undue attention to marginal opinion or equal weight to opinion and evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://downloads.bbc.co.uk/guidelines/editorialguidelines/pdfs/Editorial_Guidelines_in_full.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: downloads.bbc.co.uk">[downloads.bbc.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">downloads.bbc.co.uk</span><span class="citation-popover-snippet">Open source on bbc.co.uk.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/trust_conclusions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: downloads.bbc.co.uk">[downloads.bbc.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">downloads.bbc.co.uk</span><span class="citation-popover-snippet">Open source on bbc.co.uk.</span></span></span>
+</div>
+
+This is why due weight is better than equal weight. The BBC’s own editorial material has recognised that [due impartiality]({{ 'due-impartiality/' | relative_url }}) is “more than a simple matter of ‘balance’ between opposing viewpoints”, and BBC Trust science-impartiality reviews stressed that science coverage should not give undue attention to marginal opinion or equal weight to opinion and evidence. [downloads.bbc.co.uk+2downloads.bbc.co.uk]
 
 UK broadcasting rules make a similar distinction. Ofcom’s Broadcasting Code requires news to be reported with due accuracy and due impartiality, while its guidance explains that due impartiality does not require an alternative viewpoint in every news story. In other words, impartiality is meant to be appropriate to the subject, not mechanically symmetrical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-five-due-impartiality-accuracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">www.ofcom.org.uk Section five: Due impartiality and due accuracy</span><span class="citation-popover-snippet">www.ofcom.org.uk Section five: Due impartiality and due accuracy</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-2-dark.svg" | relative_url }}" alt="False Balance illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How False Balance Sustains Myths
@@ -585,7 +584,6 @@ This is why false balance is especially useful to misinformation. It does not ne
 False balance also creates a trap for corrections. When a myth is framed as one side of a debate, debunking can be misread as censorship or partisanship. The corrective voice looks like just another contestant. That is why clear evidence-weighting matters at the first presentation, not only after a misleading claim has spread.
 
 The Canadian Association of Journalists’ 2024 statement on false balance puts the issue in ethical terms: journalism is evidence-based, and presenting opposing views as equally supported by evidence and expertise when one is not can mislead the public. That framing is useful because it treats false balance not as a stylistic flaw, but as a failure of verification and proportion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://caj.ca/wp-content/uploads/False-Balance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caj.ca">[Canadian Association of Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caj.ca</span><span class="citation-popover-title">False Balance</span><span class="citation-popover-snippet">False Balance</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O7pgSZyU4_g" title="False Balance explained (explainity® explainer video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O7pgSZyU4_g" target="_blank" rel="noopener noreferrer">False Balance explained (explainity® explainer video)</a></p><p class="youtube-embed-meta">Channel: explainitychannel &middot; Views: 2.5K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O7pgSZyU4_g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O7pgSZyU4_g">Open on YouTube</a></p></div></div></div>
 
@@ -605,7 +603,6 @@ A better approach usually includes four moves.
 
 A useful rule is: include the claim only with the information needed to evaluate it. Unsupported minority claims should not float alone as memorable soundbites. They should be placed next to the evidence that shows their status.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9ixY9pr9Fb8" title="Ep. 101: Truth or Trend: Tackling Medical Misinformation on Social Media with Dr. David Stukus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9ixY9pr9Fb8" target="_blank" rel="noopener noreferrer">Ep. 101: Truth or Trend: Tackling Medical Misinformation on Social Media with Dr. David Stukus</a></p><p class="youtube-embed-meta">Channel: Nemours &middot; Views: 299 &middot; Uploaded: October 2024 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9ixY9pr9Fb8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9ixY9pr9Fb8">Open on YouTube</a></p></div></div></div>
 
 ## What Readers Should Watch For
@@ -613,7 +610,6 @@ A useful rule is: include the claim only with the information needed to evaluate
 False balance is easiest to spot when a story gives equal shape to unequal evidence. The warning sign is not disagreement itself. It is disproportion.
 
 A reader should be cautious when a report:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -627,7 +623,6 @@ A reader should be cautious when a report:
 </div>
 
 The best question is not “Did the article include both sides?” but “Did the article show how much support each side has?” A myth often survives by borrowing the clothing of fairness. Good evidence-aware reporting takes that clothing off and shows the reader what is underneath: the quality of the methods, the strength of the consensus, the relevance of the expertise, and the limits of what is still genuinely unknown.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-3-dark.svg" | relative_url }}" alt="False Balance illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -1027,141 +1022,141 @@ The best question is not “Did the article include both sides?” but “Did th
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0959378003000669](https://www.sciencedirect.com/science/article/pii/S0959378003000669)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectBalance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2926 — This paper demonstrates that...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0959378003000669" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0959378003000669</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Balance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2926 — This paper demonstrates that...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWeight-of-Evidence Strategies to Mitigate the Influence  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/</a>  
 
 3. <a id="endnote-3"></a>
    Source: downloads.bbc.co.uk  
-   Link: [https://downloads.bbc.co.uk/guidelines/editorialguidelines/pdfs/Editorial_Guidelines_in_full.pdf](https://downloads.bbc.co.uk/guidelines/editorialguidelines/pdfs/Editorial_Guidelines_in_full.pdf)  
+   Link: <a href="https://downloads.bbc.co.uk/guidelines/editorialguidelines/pdfs/Editorial_Guidelines_in_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.bbc.co.uk/guidelines/editorialguidelines/pdfs/Editorial_Guidelines_in_full.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: downloads.bbc.co.uk  
-   Link: [https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/trust_conclusions.pdf](https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/trust_conclusions.pdf)  
+   Link: <a href="https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/trust_conclusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/trust_conclusions.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: downloads.bbc.co.uk  
-   Link: [https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/science_impartiality_followup.pdf](https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/science_impartiality_followup.pdf)  
+   Link: <a href="https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/science_impartiality_followup.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/science_impartiality_followup.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: ofcom.org.uk  
    Title: www.ofcom.org.uk Section five: Due impartiality and due accuracy  
-   Link: [https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-five-due-impartiality-accuracy](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-five-due-impartiality-accuracy)  
+   Link: <a href="https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-five-due-impartiality-accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-five-due-impartiality-accuracy</a>  
 
 7. <a id="endnote-7"></a>
    Source: ofcom.org.uk  
-   Link: [https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-guidance/programme-guidance/broadcast-code-guidance/section5.pdf?v=328577](https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-guidance/programme-guidance/broadcast-code-guidance/section5.pdf?v=328577)  
+   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-guidance/programme-guidance/broadcast-code-guidance/section5.pdf?v=328577" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-guidance/programme-guidance/broadcast-code-guidance/section5.pdf?v=328577</a>  
 
 8. <a id="endnote-8"></a>
    Source: ofcom.org.uk  
-   Link: [https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/foi/2024/may/broadcast-coverage-of-climate-energy-and-net-zero.pdf?v=356435](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/foi/2024/may/broadcast-coverage-of-climate-energy-and-net-zero.pdf?v=356435)  
+   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/foi/2024/may/broadcast-coverage-of-climate-energy-and-net-zero.pdf?v=356435" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/foi/2024/may/broadcast-coverage-of-climate-energy-and-net-zero.pdf?v=356435</a>  
 
 9. <a id="endnote-9"></a>
    Source: downloads.bbc.co.uk  
-   Link: [https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/science_impartiality.pdf](https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/science_impartiality.pdf)  
+   Link: <a href="https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/science_impartiality.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/science_impartiality.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: ofcom.org.uk  
-   Link: [https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-codes/2025/guidance-notes-section-five-due-impartiality-and-due-accuracy-and-undue-prominence-of-views-and-opinions.pdf?v=406322](https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-codes/2025/guidance-notes-section-five-due-impartiality-and-due-accuracy-and-undue-prominence-of-views-and-opinions.pdf?v=406322)  
+   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-codes/2025/guidance-notes-section-five-due-impartiality-and-due-accuracy-and-undue-prominence-of-views-and-opinions.pdf?v=406322" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-codes/2025/guidance-notes-section-five-due-impartiality-and-due-accuracy-and-undue-prominence-of-views-and-opinions.pdf?v=406322</a>  
 
 11. <a id="endnote-11"></a>
    Source: fair.org  
    Title: Journalistic Balance as Global Warming Bias  
-   Link: [https://fair.org/home/journalistic-balance-as-global-warming-bias/](https://fair.org/home/journalistic-balance-as-global-warming-bias/)  
+   Link: <a href="https://fair.org/home/journalistic-balance-as-global-warming-bias/" target="_blank" rel="noopener noreferrer nofollow">https://fair.org/home/journalistic-balance-as-global-warming-bias/</a>  
 
 12. <a id="endnote-12"></a>
    Source: healthjournalism.org  
-   Link: [https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/](https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/)  
+   Link: <a href="https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/" target="_blank" rel="noopener noreferrer nofollow">https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Health Care JournalistsFalse balance (false equivalence)This lapse in responsible reporting refers to using outliers&#x27; voic...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cssn.org  
-   Link: [https://cssn.org/wp-content/uploads/2020/12/Quantifying-the-consensus-on-anthropogenic-global-warming-in-the-scientific-literature-John-Cook.pdf](https://cssn.org/wp-content/uploads/2020/12/Quantifying-the-consensus-on-anthropogenic-global-warming-in-the-scientific-literature-John-Cook.pdf)  
+   Link: <a href="https://cssn.org/wp-content/uploads/2020/12/Quantifying-the-consensus-on-anthropogenic-global-warming-in-the-scientific-literature-John-Cook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cssn.org/wp-content/uploads/2020/12/Quantifying-the-consensus-on-anthropogenic-global-warming-in-the-scientific-literature-John-Cook.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23193194/](https://pubmed.ncbi.nlm.nih.gov/23193194/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23193194/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23193194/</a>  
 
 15. <a id="endnote-15"></a>
    Source: caj.ca  
    Title: False Balance  
-   Link: [https://caj.ca/wp-content/uploads/False-Balance.pdf](https://caj.ca/wp-content/uploads/False-Balance.pdf)  
+   Link: <a href="https://caj.ca/wp-content/uploads/False-Balance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://caj.ca/wp-content/uploads/False-Balance.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/environment/2018/apr/09/bbc-radio-4-broke-impartiality-rules-in-nigel-lawson-climate-change-interview](https://www.theguardian.com/environment/2018/apr/09/bbc-radio-4-broke-impartiality-rules-in-nigel-lawson-climate-change-interview)  
+   Link: <a href="https://www.theguardian.com/environment/2018/apr/09/bbc-radio-4-broke-impartiality-rules-in-nigel-lawson-climate-change-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2018/apr/09/bbc-radio-4-broke-impartiality-rules-in-nigel-lawson-climate-change-interview</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: False balance  
-   Link: [https://en.wikipedia.org/wiki/False_balance](https://en.wikipedia.org/wiki/False_balance)  
+   Link: <a href="https://en.wikipedia.org/wiki/False_balance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_balance</a>  
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
    Title: mps criticise bbc false balance climate change coverage  
-   Link: [https://www.theguardian.com/environment/2014/apr/02/mps-criticise-bbc-false-balance-climate-change-coverage](https://www.theguardian.com/environment/2014/apr/02/mps-criticise-bbc-false-balance-climate-change-coverage)  
+   Link: <a href="https://www.theguardian.com/environment/2014/apr/02/mps-criticise-bbc-false-balance-climate-change-coverage" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2014/apr/02/mps-criticise-bbc-false-balance-climate-change-coverage</a>  
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
    Title: enforced veganism ofcom gb news flout accuracy rules say climate campaigners  
-   Link: [https://www.theguardian.com/environment/2025/oct/25/enforced-veganism-ofcom-gb-news-flout-accuracy-rules-say-climate-campaigners](https://www.theguardian.com/environment/2025/oct/25/enforced-veganism-ofcom-gb-news-flout-accuracy-rules-say-climate-campaigners)  
+   Link: <a href="https://www.theguardian.com/environment/2025/oct/25/enforced-veganism-ofcom-gb-news-flout-accuracy-rules-say-climate-campaigners" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2025/oct/25/enforced-veganism-ofcom-gb-news-flout-accuracy-rules-say-climate-campaigners</a>  
 
 20. <a id="endnote-20"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/false](https://dictionary.cambridge.org/dictionary/english/false)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/false" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/false</a>  
 
 21. <a id="endnote-21"></a>
    Source: gymglish.com  
-   Link: [https://www.gymglish.com/en/gymglish/english-translation/false](https://www.gymglish.com/en/gymglish/english-translation/false)  
+   Link: <a href="https://www.gymglish.com/en/gymglish/english-translation/false" target="_blank" rel="noopener noreferrer nofollow">https://www.gymglish.com/en/gymglish/english-translation/false</a>  
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Truth or Trend: Tackling Medical Misinformation on Social Media  
-   Link: [https://www.youtube.com/watch?v=9ixY9pr9Fb8](https://www.youtube.com/watch?v=9ixY9pr9Fb8)  
+   Link: <a href="https://www.youtube.com/watch?v=9ixY9pr9Fb8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9ixY9pr9Fb8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos are relevant because they explore the concept of false balance in journalism, media bias, the impact of logical fallacies on...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: How a Group of Grandmothers Reclaimed Argentina's Stolen Grandchildren  
-   Link: [https://www.youtube.com/watch?v=33_keJBtmn8](https://www.youtube.com/watch?v=33_keJBtmn8)  
+   Link: <a href="https://www.youtube.com/watch?v=33_keJBtmn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=33_keJBtmn8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Truth or Trend: Tackling Medical Misinformation on Social Media...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Critical Thinking and Logical Fallacies in Modern Discourse  
-   Link: [https://www.youtube.com/watch?v=Mhhr-UIRgjM](https://www.youtube.com/watch?v=Mhhr-UIRgjM)  
+   Link: <a href="https://www.youtube.com/watch?v=Mhhr-UIRgjM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mhhr-UIRgjM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How a Group of Grandmothers Reclaimed Argentina&#x27;s Stolen Grandchildren...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/radiotimes/posts/some-edits-were-made-so-the-content-was-compliant-with-bbc-editorial-guidelines-/740815628092359/](https://www.facebook.com/radiotimes/posts/some-edits-were-made-so-the-content-was-compliant-with-bbc-editorial-guidelines-/740815628092359/)  
+   Link: <a href="https://www.facebook.com/radiotimes/posts/some-edits-were-made-so-the-content-was-compliant-with-bbc-editorial-guidelines-/740815628092359/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/radiotimes/posts/some-edits-were-made-so-the-content-was-compliant-with-bbc-editorial-guidelines-/740815628092359/</a>  
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/258186592_Heightening_Uncertainty_Around_Certain_Science_Media_Coverage_False_Balance_and_the_Autism-Vaccine_Controversy](https://www.researchgate.net/publication/258186592_Heightening_Uncertainty_Around_Certain_Science_Media_Coverage_False_Balance_and_the_Autism-Vaccine_Controversy)  
+   Link: <a href="https://www.researchgate.net/publication/258186592_Heightening_Uncertainty_Around_Certain_Science_Media_Coverage_False_Balance_and_the_Autism-Vaccine_Controversy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258186592_Heightening_Uncertainty_Around_Certain_Science_Media_Coverage_False_Balance_and_the_Autism-Vaccine_Controversy</a>  
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/304663753_Rethinking_balance_and_impartiality_in_journalism_How_the_BBC_attempted_and_failed_to_change_the_paradigm](https://www.researchgate.net/publication/304663753_Rethinking_balance_and_impartiality_in_journalism_How_the_BBC_attempted_and_failed_to_change_the_paradigm)  
+   Link: <a href="https://www.researchgate.net/publication/304663753_Rethinking_balance_and_impartiality_in_journalism_How_the_BBC_attempted_and_failed_to_change_the_paradigm" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/304663753_Rethinking_balance_and_impartiality_in_journalism_How_the_BBC_attempted_and_failed_to_change_the_paradigm</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/620055799716703/](https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/620055799716703/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/620055799716703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/620055799716703/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/715392017252165/](https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/715392017252165/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/715392017252165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/715392017252165/</a>  
 
 30. <a id="endnote-30"></a>
    Source: slideshare.net  
-   Link: [https://www.slideshare.net/slideshow/bbc-editorialguidelineswholedocument/227928715](https://www.slideshare.net/slideshow/bbc-editorialguidelineswholedocument/227928715)  
+   Link: <a href="https://www.slideshare.net/slideshow/bbc-editorialguidelineswholedocument/227928715" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/bbc-editorialguidelineswholedocument/227928715</a>  
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change](https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change)  
+   Link: <a href="https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change</a>

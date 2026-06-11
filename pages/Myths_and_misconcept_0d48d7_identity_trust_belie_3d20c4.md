@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - identity
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - identity
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: People often judge claims through trust, community and identity as much as through evidence alone.
 hero_summary: People often judge claims through trust, community and identity as much as through evidence alone.
 layout: default
 permalink: /identity/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Identity
 title: Why Trusted People Make Myths Stick
-title_full: Why Trusted People Make Myths Stick | Mythcraft
+title_full: Why Trusted People Make Myths Stick
 display_title_short: Identity
 display_title: Identity
 heading_title: Why Trusted People Make Myths Stick
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 next_link:
   basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
-date: '2026-06-09 04:11:57 '
+date: '2026-06-11 21:55:08 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-overview.webp
@@ -501,8 +501,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-ov
 
 ## Introduction
 
-Trusted people make myths stick because belief is social as well as factual. People rarely assess every claim from first principles; they use shortcuts such as “Who is saying this?”, “Do people like me believe it?” and “What would accepting or rejecting this claim say about my loyalty, intelligence or values?” That is why a doubtful health tip from a parent, a classroom myth from a teacher, a rumour from a community leader, or a misleading claim from a favourite influencer can feel more persuasive than the same words from a stranger.
-
+Trusted people make myths stick because belief is social as well as factual. People rarely assess every claim from first principles; they use shortcuts such as Who is saying this?, Do people like me believe it? and What would accepting or rejecting this claim say about my loyalty, intelligence or values? That is why a doubtful health tip from a parent, a classroom myth from a teacher, a rumour from a community leader, or a misleading claim from a favourite influencer can feel more persuasive than the same words from a stranger.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-overview.webp" | relative_url }}" alt="Overview image for Identity" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean people are irrational or indifferent to evidence. It means source trust is part of how evidence is weighed. Research on misinformation shows that people attend to credibility, expertise, reliability and group identity when deciding what to believe, and that [corrections]({{ 'corrections/' | relative_url }}) can fail when they appear to come from an untrusted or hostile out-group. The practical lesson is clear: myths are not only corrected by better facts, but by better routes for those facts to reach people without threatening belonging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery Belief updating in the face of misinformation</span><span class="citation-popover-snippet">UCL Discovery Belief updating in the face of misinformation</span></span></span>
@@ -513,24 +512,22 @@ When a claim arrives from someone trusted, it does not arrive as a bare proposit
 
 Source credibility usually has two parts: perceived expertise and perceived trustworthiness. Expertise asks whether the source is likely to know; trustworthiness asks whether the source is likely to tell the truth. A surgeon and a neighbour may both be trusted, but in different ways. A surgeon may be trusted on surgery because of expertise; a neighbour may be trusted on local events because of proximity and shared experience. Myths exploit this distinction when a familiar source speaks confidently outside their actual expertise.
 
-Recent work on belief updating suggests that people are sensitive to source reliability in ways that can be reasonable. If a reliable source makes a claim and a less reliable source later corrects it, people may not fully update because, from their point of view, the [correction]({{ 'correction/' | relative_url }}) has not earned enough weight. Studies on source reliability and misinformation correction argue that the [continued influence]({{ 'old-stories/' | relative_url }}) of false information can partly reflect this comparison between the original source and the correcting source, rather than a simple refusal to learn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery Belief updating in the face of misinformation</span><span class="citation-popover-snippet">UCL Discovery Belief updating in the face of misinformation</span></span></span>
+Recent work on belief updating suggests that people are sensitive to source reliability in ways that can be reasonable. If a reliable source makes a claim and a less reliable source later corrects it, people may not fully update because, from their point of view, the [correction]({{ 'correction/' | relative_url }}) has not earned enough weight. Studies on source reliability and misinformation correction argue that the continued influence of false information can partly reflect this comparison between the original source and the correcting source, rather than a simple refusal to learn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery Belief updating in the face of misinformation</span><span class="citation-popover-snippet">UCL Discovery Belief updating in the face of misinformation</span></span></span>
 
 This matters for everyday misconceptions. A child who learns an oversimplified science claim from a beloved teacher may not abandon it after seeing a dry correction online. A patient who hears a false health claim from a long-trusted clinician may discount a later social media fact-check. A voter who receives a rumour from a leader they see as defending their community may read official correction as damage control. In each case, the belief is anchored not only in content but in the credibility relationship that delivered it.
 
-The same mechanism works online. UNESCO reported in 2024 that many digital content creators had become important information sources for audiences, yet 62% did not carry out rigorous and systematic fact-checking before sharing information. The risk is not simply that creators have large audiences; it is that followers may treat familiarity, [personal experience]({{ 'anecdotes/' | relative_url }}), popularity and perceived authenticity as signs of credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Open source on unesco.org.</span></span></span>
-
+The same mechanism works online. UNESCO reported in 2024 that many digital content creators had become important information sources for audiences, yet 62% did not carry out rigorous and systematic fact-checking before sharing information. The risk is not simply that creators have large audiences; it is that followers may treat familiarity, personal experience, popularity and perceived authenticity as signs of credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Open source on unesco.org.</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-1-dark.svg" | relative_url }}" alt="Identity illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Community signals and belonging
 
-Myths become especially durable when they become group signals. A claim can start as a factual statement and then acquire social meaning: believing it marks someone as sensible, loyal, sceptical, patriotic, spiritual, independent, compassionate or “awake”. Rejecting it may then feel less like changing one’s mind and more like betraying one’s people.
+Myths become especially durable when they become group signals. A claim can start as a factual statement and then acquire social meaning: believing it marks someone as sensible, loyal, sceptical, patriotic, spiritual, independent, compassionate or awake. Rejecting it may then feel less like changing ones mind and more like betraying ones people.
 
-This is the logic behind identity-protective cognition: people may selectively credit or dismiss evidence in ways that protect their standing in a valued group. Dan Kahan’s work describes this as a tendency to process information in line with beliefs that predominate in one’s cultural group, especially on decision-relevant science and public issues. The important point is not that identity always overwhelms evidence, but that evidence is often interpreted through identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is the logic behind identity-protective cognition: people may selectively credit or dismiss evidence in ways that protect their standing in a valued group. Dan Kahans work describes this as a tendency to process information in line with beliefs that predominate in ones cultural group, especially on decision-relevant science and public issues. The important point is not that identity always overwhelms evidence, but that evidence is often interpreted through identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Community signals can make myths feel safer than uncertainty. If everyone in a group repeats a claim, questions it only privately, or treats doubters as naive, the claim gains social reinforcement. The myth becomes part of the local [common sense]({{ 'common-sense/' | relative_url }}). This can happen in families, workplaces, classrooms, fandoms, political groups, wellness communities and professional subcultures. The claim may be false, but the social cost of doubting it is real.
 
 Several signals strengthen this effect:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -542,56 +539,52 @@ Several signals strengthen this effect:
 
 </div>
 
-Research on trust, political identity and information processing describes how identity and trust shape what people attend to, which sources they treat as legitimate and how they respond to competing claims. The same pattern helps explain why some myths persist even after [public correction]({{ 'public-replies/' | relative_url }}): the correction may answer the factual claim while ignoring the social role the claim now plays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7935065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrust in information, political identity and the brain</span><span class="citation-popover-snippet">PMCTrust in information, political identity and the brain</span></span></span>
+Research on trust, political identity and information processing describes how identity and trust shape what people attend to, which sources they treat as legitimate and how they respond to competing claims. The same pattern helps explain why some myths persist even after public correction: the correction may answer the factual claim while ignoring the social role the claim now plays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7935065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrust in information, political identity and the brain</span><span class="citation-popover-snippet">PMCTrust in information, political identity and the brain</span></span></span>
 
 Health communication offers a clear example. Vaccine attitudes, for instance, can become signals of political, religious or community identity. Evidence reviews on vaccine communication note that in polarised settings the messenger can matter as much as the message, because out-group institutions may be discounted regardless of the strength of the evidence. Healthcare providers often remain highly trusted, but local clinicians, faith leaders, educators and civic organisations may be crucial where distant authorities are mistrusted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrusted messengers and trusted messages</span><span class="citation-popover-snippet">PMCTrusted messengers and trusted messages</span></span></span>
 
-This does not mean “use someone from the same group” is a magic solution. Trusted messengers can spread myths as well as correct them. A charismatic in-group figure with poor evidence standards can make misinformation more resilient precisely because the audience feels seen and respected. The real mechanism is relational trust; whether it improves belief depends on whether that trust is connected to accuracy, accountability and willingness to correct mistakes.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hCL9_sFLdcY" title="The Psychology of Ignorance: Why the Least Informed Argue with Experts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hCL9_sFLdcY" target="_blank" rel="noopener noreferrer">The Psychology of Ignorance: Why the Least Informed Argue with Experts</a></p><p class="youtube-embed-meta">Channel: RJ Starr</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hCL9_sFLdcY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hCL9_sFLdcY">Open on YouTube</a></p></div></div></div>
+This does not mean use someone from the same group is a magic solution. Trusted messengers can spread myths as well as correct them. A charismatic in-group figure with poor evidence standards can make misinformation more resilient precisely because the audience feels seen and respected. The real mechanism is relational trust; whether it improves belief depends on whether that trust is connected to accuracy, accountability and willingness to correct mistakes.
 
 ## Why corrections can feel like attacks
 
-A correction is often written as if the only problem is missing information. But when a myth is tied to identity, the listener may hear something else: “Your people are gullible”, “Your parents were wrong”, “Your community is backward”, “Your leader lied to you”, or “People like you are the problem.” Even a technically accurate correction can fail if it sounds like status loss.
+A correction is often written as if the only problem is missing information. But when a myth is tied to identity, the listener may hear something else: Your people are gullible, Your parents were wrong, Your community is backward, Your leader lied to you, or People like you are the problem. Even a technically accurate correction can fail if it sounds like status loss.
 
 This is why tone and source matter. A correction from a hostile out-group may be processed as an attack, while the same correction from a trusted in-group figure may feel like care. The factual content has not changed, but the social meaning has. Research on source credibility effects in misinformation has found that credibility is not a simple switch; studies vary in how they define credibility, how they measure effects, and whether the source is the original claimant, the correction provider or the platform presenting the cue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[Advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Corrections also affect how people judge the original source. Work on the continued influence effect suggests that corrections reduce belief partly by changing perceptions of the misinformation source. If a correction makes the original source seem less credible, the myth loses support. But if the original source is loved, prestigious or identity-defining, lowering that source’s credibility may be psychologically difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span>
+Corrections also affect how people judge the original source. Work on the continued influence effect suggests that corrections reduce belief partly by changing perceptions of the misinformation source. If a correction makes the original source seem less credible, the myth loses support. But if the original source is loved, prestigious or identity-defining, lowering that sources credibility may be psychologically difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span>
 
-This is why blunt [debunking]({{ 'debunking/' | relative_url }}) can be socially clumsy even when it is factually right. Saying “your doctor is wrong”, “your community is spreading nonsense” or “only idiots believe this” may win an argument while losing the person. It asks the listener to accept not only a new fact, but a humiliating reclassification of someone they trust. Many people will defend the relationship before they evaluate the evidence.
+This is why blunt [debunking]({{ 'debunking/' | relative_url }}) can be socially clumsy even when it is factually right. Saying your doctor is wrong, your community is spreading nonsense or only idiots believe this may win an argument while losing the person. It asks the listener to accept not only a new fact, but a humiliating reclassification of someone they trust. Many people will defend the relationship before they evaluate the evidence.
 
-Better correction separates the person’s dignity from the claim’s accuracy. It makes room for sentences such as: “I can see why that sounded convincing”, “Lots of careful people heard the same thing”, “The evidence has changed”, “That source is strong on some things but not this one”, or “Here is the part that was true, and here is where the myth adds something unsupported.” These moves do not soften the evidence; they reduce the identity threat around hearing it.
+Better correction separates the persons dignity from the claims accuracy. It makes room for sentences such as: I can see why that sounded convincing, Lots of careful people heard the same thing, The evidence has changed, That source is strong on some things but not this one, or Here is the part that was true, and here is where the myth adds something unsupported. These moves do not soften the evidence; they reduce the identity threat around hearing it.
 
 ## Trusted messengers can correct myths, but only with guardrails
 
 The idea of trusted messengers is now common in public health, crisis communication and misinformation response. The basic principle is sensible: people are more likely to consider information when it comes through someone they already recognise as legitimate. Community-based organisations, local clinicians, faith leaders, youth workers, educators and peer networks can translate abstract evidence into familiar language and local concerns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345350/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDon&#x27;t believe them! Reducing misinformation influence</span><span class="citation-popover-snippet">PMCDon&#x27;t believe them! Reducing misinformation influence</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0010027724002865" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
 
-But “trusted” should not be confused with “accurate”. A trusted messenger strategy works only when trust is paired with evidence discipline. Otherwise it simply moves misinformation through more intimate channels. A local leader repeating a false rumour may be more damaging than a distant anonymous account because the audience has fewer reasons to doubt them.
+But trusted should not be confused with accurate. A trusted messenger strategy works only when trust is paired with evidence discipline. Otherwise it simply moves misinformation through more intimate channels. A local leader repeating a false rumour may be more damaging than a distant anonymous account because the audience has fewer reasons to doubt them.
 
 Useful trusted-source correction has three features.
 
 **First, the messenger has the right kind of credibility.** A person may be trusted as a community advocate but still need scientific support to answer technical questions. In health contexts, partnerships often work best when local messengers are supported by clinicians, public health teams or trained communicators rather than expected to improvise expertise.
 
-**Second, the message preserves belonging.** The correction should make it possible for someone to change their mind without feeling expelled from their group. This is why “people like us check before sharing” can be stronger than “people like you are wrong”.
+**Second, the message preserves belonging.** The correction should make it possible for someone to change their mind without feeling expelled from their group. This is why people like us check before sharing can be stronger than people like you are wrong.
 
 **Third, the messenger can acknowledge uncertainty without surrendering accuracy.** Many myths grow in the gap between overconfident official statements and lived experience. A trusted source can say what is known, what is still uncertain, and what would change the assessment. That kind of transparency can build credibility because it does not ask for blind trust.
 
-Evidence from public health communication repeatedly points to the importance of existing relationships. CDC-related guidance on vaccine confidence has urged communicators to identify community leaders and trusted messengers, while practical health-rumour guidance stresses that partnerships are best built over time rather than invented during a crisis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacks.cdc.gov/view/cdc/104372/cdc_104372_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.cdc.gov">[CDC Stacks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.cdc.gov</span><span class="citation-popover-title">Stacks COVID-19 Vaccine Confidence</span><span class="citation-popover-snippet">Stacks COVID-19 Vaccine Confidence</span></span></span>
+Evidence from public health communication repeatedly points to the importance of existing relationships. CDC-related guidance on vaccine [confidence]({{ 'confidence/' | relative_url }}) has urged communicators to identify community leaders and trusted messengers, while practical health-rumour guidance stresses that partnerships are best built over time rather than invented during a crisis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacks.cdc.gov/view/cdc/104372/cdc_104372_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.cdc.gov">[CDC Stacks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.cdc.gov</span><span class="citation-popover-title">Stacks COVID-19 Vaccine Confidence</span><span class="citation-popover-snippet">Stacks COVID-19 Vaccine Confidence</span></span></span>
 
 The same principle applies outside health. After violent incidents or public emergencies, rumours can spread quickly when official information is delayed, incomplete or mistrusted. Analysis cited in UK reporting on post-incident misinformation has argued that non-government voices such as community leaders, local councillors and police can be more effective when they share accurate information in a coordinated way, especially where public trust in institutions is low. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-2-dark.svg" | relative_url }}" alt="Identity illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The influencer problem: intimacy without verification
 
-Influencers complicate belief formation because they can feel like friends while operating as media channels. A follower may see an influencer daily, learn their routines, hear personal stories, and develop a sense of emotional familiarity. This “relational” feeling can make a claim seem less like broadcast information and more like advice from someone known.
+Influencers complicate belief formation because they can feel like friends while operating as media channels. A follower may see an influencer daily, learn their routines, hear personal stories, and develop a sense of emotional familiarity. This relational feeling can make a claim seem less like broadcast information and more like advice from someone known.
 
-That intimacy can be useful when creators take accuracy seriously. It can help good information reach audiences who avoid traditional institutions. But it also creates a credibility shortcut: “I trust this person” becomes “this claim is probably true.” UNESCO’s work on digital content creators highlights the concern that many creators do not systematically verify information before sharing it, even as audiences increasingly rely on them as information relays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/digital-content-creators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Open source on unesco.org.</span></span></span>
+That intimacy can be useful when creators take accuracy seriously. It can help good information reach audiences who avoid traditional institutions. But it also creates a credibility shortcut: I trust this person becomes this claim is probably true. UNESCOs work on digital content creators highlights the concern that many creators do not systematically verify information before sharing it, even as audiences increasingly rely on them as information relays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/digital-content-creators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Open source on unesco.org.</span></span></span>
 
-The Reuters Institute’s 2025 Digital News Report describes a wider shift away from traditional news brands towards social media, video platforms and online personalities in many markets. That does not automatically make audiences less informed, but it changes how trust is built. Institutional news brands usually ask for trust through editorial standards, professional routines and public accountability. Influencers often ask for trust through authenticity, consistency and perceived personal connection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">digital news report</span><span class="citation-popover-snippet">digital news report</span></span></span>
+The Reuters Institutes 2025 Digital News Report describes a wider shift away from traditional news brands towards social media, video [platforms]({{ 'platforms/' | relative_url }}) and online personalities in many markets. That does not automatically make audiences less informed, but it changes how trust is built. Institutional news brands usually ask for trust through editorial standards, professional routines and public accountability. Influencers often ask for trust through authenticity, consistency and perceived personal connection. [reutersinstitute.[politics]({{ 'politics/' | relative_url }}). ox.ac.uk]
 
-For myths and misconceptions, this difference matters. A newspaper correction may be visible but emotionally distant. An influencer’s mistaken claim may be casual, repeated, and embedded in a broader identity package: what to buy, who to admire, which experts to distrust, what counts as common sense. The myth is not just a claim; it is part of a lifestyle script.
+For myths and misconceptions, this difference matters. A newspaper correction may be visible but emotionally distant. An influencers mistaken claim may be casual, repeated, and embedded in a broader identity package: what to buy, who to admire, which experts to distrust, what counts as common sense. The myth is not just a claim; it is part of a lifestyle script.
 
 A useful reader habit is to separate **trust in the person** from **trust in the claim**. Someone may be sincere, funny, kind or politically aligned and still be wrong about medicine, history, finance, crime, climate or law. The stronger the personal attachment, the more important it is to ask: What is their source? Is this their field? Have they corrected mistakes before? Are they selling something? Would I believe the same claim from someone I did not like?
 
@@ -605,20 +598,18 @@ A good correction usually does four things.
 
 **It distinguishes the source from the claim.** A trusted person can be mistaken without being malicious. This distinction helps people update without feeling forced to denounce someone they care about.
 
-**It explains the mechanism of the myth.** People are more willing to let go of a false claim when they understand why it seemed plausible. For example: “That story spread because early reports were incomplete”, “That statistic leaves out the comparison group”, or “That video cuts away before the relevant moment.”
+**It explains the mechanism of the myth.** People are more willing to let go of a false claim when they understand why it seemed plausible. For example: That story spread because early reports were incomplete, That statistic leaves out the comparison group, or That video cuts away before the relevant moment.
 
 **It offers a replacement explanation.** Removing a myth leaves a gap. A correction should give the listener a better account to use in conversation, not just a negation.
 
 Social correction can work, but it has risks. Experiments across the UK, Italy and Germany found that corrective cues from other social media users reduced perceived accuracy of false news posts, but also that incorrect corrections could reduce trust in true posts. In other words, peer correction is powerful enough to help and powerful enough to harm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41541-026-01487-9_reference.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Vaccine communication</span><span class="citation-popover-snippet">Vaccine communication</span></span></span>
 
-This is why correction should be careful, specific and proportionate. The aim is not to perform superiority in front of the group. It is to reduce the myth’s credibility while preserving the relationships through which better information can travel.
+This is why correction should be careful, specific and proportionate. The aim is not to perform superiority in front of the group. It is to reduce the myths credibility while preserving the relationships through which better information can travel.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LUqwlucblTk" title="How to Talk to Conspiracy Theorist Family &amp; Friends" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LUqwlucblTk" target="_blank" rel="noopener noreferrer">How to Talk to Conspiracy Theorist Family &amp; Friends</a></p><p class="youtube-embed-meta">Channel: David Pakman Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LUqwlucblTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LUqwlucblTk">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-3-dark.svg" | relative_url }}" alt="Identity illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to judge a trusted source without becoming cynical
 
-The answer to misplaced trust is not universal mistrust. People need trusted sources. The realistic goal is calibrated trust: confidence that matches the source’s knowledge, incentives, track record and accountability.
+The answer to misplaced trust is not universal mistrust. People need trusted sources. The realistic goal is calibrated trust: confidence that matches the sources knowledge, incentives, track record and accountability.
 
 A practical test is to ask five questions:
 
@@ -628,23 +619,17 @@ A practical test is to ask five questions:
 4. **What incentives shape the claim?** Money, status, politics, attention and group approval can all affect what gets said.
 5. **Would this claim survive outside the group?** If the evidence only sounds strong among people who already agree, identity may be doing more work than proof.
 
-This approach avoids two common mistakes. One is naive trust: believing a claim because it comes from “our” person. The other is blanket cynicism: assuming all authorities, experts or institutions are equally corrupt. Both make myths easier to spread. Naive trust lets false claims ride on relationships; blanket cynicism leaves people vulnerable to whoever performs anti-establishment authenticity most convincingly.
+This approach avoids two common mistakes. One is naive trust: believing a claim because it comes from our person. The other is blanket cynicism: assuming all authorities, experts or institutions are equally corrupt. Both make myths easier to spread. Naive trust lets false claims ride on relationships; blanket cynicism leaves people vulnerable to whoever performs anti-establishment authenticity most convincingly.
 
 A healthier stance is earned trust. Doctors, teachers, journalists, scientists, community leaders and creators can all be valuable sources, but their claims still need proportionate scrutiny. The more consequential the belief, the more important it is to check whether the trusted source is also a well-placed source.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-3-dark.svg" | relative_url }}" alt="Identity illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this mechanism matters
 
 Identity and trust explain why some myths survive repeated correction. They also explain why the same correction can work in one community and fail in another. The issue is not only whether the evidence is strong, but whether the person hearing it can accept it without losing face, loyalty or belonging.
 
 This has practical consequences. Schools need to correct old classroom myths without undermining trust in teachers. Health systems need to work through clinicians and community organisations, not only national announcements. Journalists and fact-checkers need to understand which sources audiences already trust. Families need ways to challenge false claims without turning every conversation into a loyalty test. Platforms need to recognise that misinformation spreads not only through content, but through relationships and status.
 
-The most durable myths are often protected by people, not just by arguments. That makes them harder to dislodge, but not impossible. Corrections become more effective when they combine accurate evidence with credible messengers, social respect and a [replacement story]({{ 'better-story-524703/' | relative_url }}) that people can carry back into their own communities.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hz6GULbowAk" title="Why people fall for misinformation - Joseph Isaac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hz6GULbowAk" target="_blank" rel="noopener noreferrer">Why people fall for misinformation - Joseph Isaac</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hz6GULbowAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hz6GULbowAk">Open on YouTube</a></p></div></div></div>
-
+The most durable myths are often protected by people, not just by arguments. That makes them harder to dislodge, but not impossible. Corrections become more effective when they combine accurate evidence with credible messengers, social respect and a replacement story that people can carry back into their own communities.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -779,11 +764,11 @@ The most durable myths are often protected by people, not just by arguments. Tha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Posters â€“ England &amp; Wales, Educational Wall Art, Framed, Canvas, Print"><img src="{{ '/assets/images/marketplace-covers/d35735397948982a1832.jpg' | relative_url }}" alt="Listing image for UK Map Posters â€“ England &amp; Wales, Educational Wall Art, Framed, Canvas, Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print"><img src="{{ '/assets/images/marketplace-covers/d35735397948982a1832.jpg' | relative_url }}" alt="Listing image for UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK Map Posters â€“ England &amp; Wales, Educational Wall Art, Framed, Canvas, Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
         <div class="fr-book-actions">
@@ -1042,256 +1027,256 @@ The most durable myths are often protected by people, not just by arguments. Tha
 
 1. <a id="endnote-1"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067</a>  
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027724002865](https://www.sciencedirect.com/science/article/pii/S0010027724002865)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027724002865" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027724002865</a>  
 
 4. <a id="endnote-4"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey](https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey)  
+   Link: <a href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey</a>  
 
 5. <a id="endnote-5"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/digital-content-creators](https://www.unesco.org/en/digital-content-creators)  
+   Link: <a href="https://www.unesco.org/en/digital-content-creators" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/digital-content-creators</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCTrust in information, political identity and the brain  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7935065/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7935065/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7935065/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7935065/</a>  
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
    Title: Vaccine communication  
-   Link: [https://www.nature.com/articles/s41541-026-01487-9_reference.pdf](https://www.nature.com/articles/s41541-026-01487-9_reference.pdf)  
+   Link: <a href="https://www.nature.com/articles/s41541-026-01487-9_reference.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41541-026-01487-9_reference.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCTrusted messengers and trusted messages  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/</a>  
 
 9. <a id="endnote-9"></a>
    Source: advances.in  
-   Link: [https://advances.in/psychology/10.56296/aip00028/](https://advances.in/psychology/10.56296/aip00028/)  
+   Link: <a href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/aip00028/</a>  
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDon't believe them! Reducing misinformation influence  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11345350/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11345350/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345350/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11345350/</a>  
 
 11. <a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.3758/s13421-023-01402-w](https://link.springer.com/article/10.3758/s13421-023-01402-w)  
+   Link: <a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10939007/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10939007/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10939007/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10939007/</a>  
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0264410X25007716](https://www.sciencedirect.com/science/article/pii/S0264410X25007716)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0264410X25007716" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0264410X25007716</a>  
 
 14. <a id="endnote-14"></a>
    Source: stacks.cdc.gov  
    Title: Stacks COVID-19 Vaccine Confidence  
-   Link: [https://stacks.cdc.gov/view/cdc/104372/cdc_104372_DS1.pdf](https://stacks.cdc.gov/view/cdc/104372/cdc_104372_DS1.pdf)  
+   Link: <a href="https://stacks.cdc.gov/view/cdc/104372/cdc_104372_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/104372/cdc_104372_DS1.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online](https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online)  
+   Link: <a href="https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online</a>  
 
 16. <a id="endnote-16"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: digital news report  
-   Link: [https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025)  
+   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025</a>  
 
 17. <a id="endnote-17"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: dnr executive  
-   Link: [https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary)  
+   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
 
 18. <a id="endnote-18"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44271-024-00057-w](https://www.nature.com/articles/s44271-024-00057-w)  
+   Link: <a href="https://www.nature.com/articles/s44271-024-00057-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44271-024-00057-w</a>  
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027725000307](https://www.sciencedirect.com/science/article/pii/S0010027725000307)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027725000307" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725000307</a>  
 
 20. <a id="endnote-20"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X25002453](https://www.sciencedirect.com/science/article/pii/S2352250X25002453)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X25002453" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X25002453</a>  
 
 21. <a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0277953625006033](https://www.sciencedirect.com/science/article/pii/S0277953625006033)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0277953625006033" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0277953625006033</a>  
 
 22. <a id="endnote-22"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002312](https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002312)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002312" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002312</a>  
 
 23. <a id="endnote-23"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-026-42329-x](https://www.nature.com/articles/s41598-026-42329-x)  
+   Link: <a href="https://www.nature.com/articles/s41598-026-42329-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-42329-x</a>  
 
 24. <a id="endnote-24"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-024-57560-7](https://www.nature.com/articles/s41598-024-57560-7)  
+   Link: <a href="https://www.nature.com/articles/s41598-024-57560-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-57560-7</a>  
 
 25. <a id="endnote-25"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41541-021-00380-x](https://www.nature.com/articles/s41541-021-00380-x)  
+   Link: <a href="https://www.nature.com/articles/s41541-021-00380-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41541-021-00380-x</a>  
 
 26. <a id="endnote-26"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-30883-7](https://www.nature.com/articles/s41598-023-30883-7)  
+   Link: <a href="https://www.nature.com/articles/s41598-023-30883-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-30883-7</a>  
 
 27. <a id="endnote-27"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-026-48330-8_reference.pdf](https://www.nature.com/articles/s41598-026-48330-8_reference.pdf)  
+   Link: <a href="https://www.nature.com/articles/s41598-026-48330-8_reference.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-48330-8_reference.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-025-06419-x](https://www.nature.com/articles/s41599-025-06419-x)  
+   Link: <a href="https://www.nature.com/articles/s41599-025-06419-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-06419-x</a>  
 
 29. <a id="endnote-29"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41392-024-01735-1](https://www.nature.com/articles/s41392-024-01735-1)  
+   Link: <a href="https://www.nature.com/articles/s41392-024-01735-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41392-024-01735-1</a>  
 
 30. <a id="endnote-30"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/aps201728](https://www.nature.com/articles/aps201728)  
+   Link: <a href="https://www.nature.com/articles/aps201728" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/aps201728</a>  
 
 31. <a id="endnote-31"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-023-01655-5](https://www.nature.com/articles/s41599-023-01655-5)  
+   Link: <a href="https://www.nature.com/articles/s41599-023-01655-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-023-01655-5</a>  
 
 32. <a id="endnote-32"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/nature11247](https://www.nature.com/articles/nature11247)  
+   Link: <a href="https://www.nature.com/articles/nature11247" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/nature11247</a>  
 
 33. <a id="endnote-33"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-50591-6](https://www.nature.com/articles/s41598-023-50591-6)  
+   Link: <a href="https://www.nature.com/articles/s41598-023-50591-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-50591-6</a>  
 
 34. <a id="endnote-34"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: Digital News Report 2025  
-   Link: [https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf](https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf)  
+   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: mapping news creators and influencers social and video networks  
-   Link: [https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks](https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks)  
+   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks</a>  
 
 36. <a id="endnote-36"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: [https://reutersinstitute.politics.ox.ac.uk/news/our-podcast-digital-news-report-2025-episode-4-how-people-check-if-information-real-or-fake](https://reutersinstitute.politics.ox.ac.uk/news/our-podcast-digital-news-report-2025-episode-4-how-people-check-if-information-real-or-fake)  
+   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/news/our-podcast-digital-news-report-2025-episode-4-how-people-check-if-information-real-or-fake" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news/our-podcast-digital-news-report-2025-episode-4-how-people-check-if-information-real-or-fake</a>  
 
 37. <a id="endnote-37"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: types sources and claims covid 19 misinformation  
-   Link: [https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation)  
+   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation</a>  
 
 38. <a id="endnote-38"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.3758/s13421-025-01760-7](https://link.springer.com/article/10.3758/s13421-025-01760-7)  
+   Link: <a href="https://link.springer.com/article/10.3758/s13421-025-01760-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-025-01760-7</a>  
 
 39. <a id="endnote-39"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12889-025-23470-0](https://link.springer.com/article/10.1186/s12889-025-23470-0)  
+   Link: <a href="https://link.springer.com/article/10.1186/s12889-025-23470-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12889-025-23470-0</a>  
 
 40. <a id="endnote-40"></a>
    Source: discovery.ucl.ac.uk  
    Title: UCL Discovery Belief updating in the face of misinformation  
-   Link: [https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf](https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf</a>  
 
 41. <a id="endnote-41"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers](https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers)  
+   Link: <a href="https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers</a>  
 
 42. <a id="endnote-42"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2021nsf....2117694W/abstract](https://ui.adsabs.harvard.edu/abs/2021nsf....2117694W/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2021nsf....2117694W/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2021nsf....2117694W/abstract</a>  
 
 43. <a id="endnote-43"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/sciadv.abo6254](https://www.science.org/doi/10.1126/sciadv.abo6254)  
+   Link: <a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
 
 44. <a id="endnote-44"></a>
    Source: science.org  
-   Link: [https://www.science.org/toc/sciadv/11/35](https://www.science.org/toc/sciadv/11/35)  
+   Link: <a href="https://www.science.org/toc/sciadv/11/35" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/toc/sciadv/11/35</a>  
 
 45. <a id="endnote-45"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/sciadv.adg1199](https://www.science.org/doi/10.1126/sciadv.adg1199)  
+   Link: <a href="https://www.science.org/doi/10.1126/sciadv.adg1199" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.adg1199</a>  
 
 46. <a id="endnote-46"></a>
    Source: theguardian.com  
    Title: online influencers need urgent fact checking training warns unesco  
-   Link: [https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco](https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco)  
+   Link: <a href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco</a>  
 
 47. <a id="endnote-47"></a>
    Source: europeanjournalists.org  
-   Link: [https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/](https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/)  
+   Link: <a href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/</a>  
 
 48. <a id="endnote-48"></a>
    Source: informalscience.org  
-   Link: [https://informalscience.org/identity/dan-kahan/](https://informalscience.org/identity/dan-kahan/)  
+   Link: <a href="https://informalscience.org/identity/dan-kahan/" target="_blank" rel="noopener noreferrer nofollow">https://informalscience.org/identity/dan-kahan/</a>  
 
 49. <a id="endnote-49"></a>
    Source: vtechworks.lib.vt.edu  
-   Link: [https://vtechworks.lib.vt.edu/server/api/core/bitstreams/eb23e02a-cff8-4cd8-8f84-62f975214dff/content](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/eb23e02a-cff8-4cd8-8f84-62f975214dff/content)  
+   Link: <a href="https://vtechworks.lib.vt.edu/server/api/core/bitstreams/eb23e02a-cff8-4cd8-8f84-62f975214dff/content" target="_blank" rel="noopener noreferrer nofollow">https://vtechworks.lib.vt.edu/server/api/core/bitstreams/eb23e02a-cff8-4cd8-8f84-62f975214dff/content</a>  
 
 50. <a id="endnote-50"></a>
    Source: journalqd.org  
-   Link: [https://journalqd.org/article/view/2550](https://journalqd.org/article/view/2550)  
+   Link: <a href="https://journalqd.org/article/view/2550" target="_blank" rel="noopener noreferrer nofollow">https://journalqd.org/article/view/2550</a>  
 
 ### Additional References
 
 51. <a id="endnote-51"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf</a>  
 
 52. <a id="endnote-52"></a>
    Source: youtube.com  
    Title: Trust, Expertise, and Misinformation: A Psychologist's Perspective  
-   Link: [https://www.youtube.com/watch?v=kY6g0P0R7y0](https://www.youtube.com/watch?v=kY6g0P0R7y0)  
+   Link: <a href="https://www.youtube.com/watch?v=kY6g0P0R7y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kY6g0P0R7y0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Talk to People Who Believe Conspiracy Theories...</p></details>
 
 53. <a id="endnote-53"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-117shrg53086/html/CHRG-117shrg53086.htm](https://www.govinfo.gov/content/pkg/CHRG-117shrg53086/html/CHRG-117shrg53086.htm)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-117shrg53086/html/CHRG-117shrg53086.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-117shrg53086/html/CHRG-117shrg53086.htm</a>  
 
 54. <a id="endnote-54"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality](https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality)  
+   Link: <a href="https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality</a>  
 
 55. <a id="endnote-55"></a>
    Source: ofcom.org.uk  
-   Link: [https://www.ofcom.org.uk/media-use-and-attitudes/attitudes-to-news](https://www.ofcom.org.uk/media-use-and-attitudes/attitudes-to-news)  
+   Link: <a href="https://www.ofcom.org.uk/media-use-and-attitudes/attitudes-to-news" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/media-use-and-attitudes/attitudes-to-news</a>  
 
 56. <a id="endnote-56"></a>
    Source: almendron.com  
-   Link: [https://www.almendron.com/tribuna/wp-content/uploads/2017/05/belief-echoes-the-persistent-effects-of-corrected-misinformation.pdf](https://www.almendron.com/tribuna/wp-content/uploads/2017/05/belief-echoes-the-persistent-effects-of-corrected-misinformation.pdf)  
+   Link: <a href="https://www.almendron.com/tribuna/wp-content/uploads/2017/05/belief-echoes-the-persistent-effects-of-corrected-misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.almendron.com/tribuna/wp-content/uploads/2017/05/belief-echoes-the-persistent-effects-of-corrected-misinformation.pdf</a>  
 
 57. <a id="endnote-57"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf](https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf)  
+   Link: <a href="https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf</a>  
 
 58. <a id="endnote-58"></a>
    Source: dco.org  
-   Link: [https://dco.org/wp-content/uploads/2024/10/Online-Misinformation-in-the-Era-of-Digital-Economy.pdf](https://dco.org/wp-content/uploads/2024/10/Online-Misinformation-in-the-Era-of-Digital-Economy.pdf)  
+   Link: <a href="https://dco.org/wp-content/uploads/2024/10/Online-Misinformation-in-the-Era-of-Digital-Economy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dco.org/wp-content/uploads/2024/10/Online-Misinformation-in-the-Era-of-Digital-Economy.pdf</a>  
 
 59. <a id="endnote-59"></a>
    Source: immunizationmanagers.org  
-   Link: [https://www.immunizationmanagers.org/content/uploads/2022/03/Vaccine-Confidence-Guide-Chapter-3_033022.pdf](https://www.immunizationmanagers.org/content/uploads/2022/03/Vaccine-Confidence-Guide-Chapter-3_033022.pdf)  
+   Link: <a href="https://www.immunizationmanagers.org/content/uploads/2022/03/Vaccine-Confidence-Guide-Chapter-3_033022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.immunizationmanagers.org/content/uploads/2022/03/Vaccine-Confidence-Guide-Chapter-3_033022.pdf</a>  
 
 60. <a id="endnote-60"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DNDvvtKAkBi/?hl=en](https://www.instagram.com/reel/DNDvvtKAkBi/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DNDvvtKAkBi/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNDvvtKAkBi/?hl=en</a>

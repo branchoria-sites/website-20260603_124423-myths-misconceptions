@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - common-sense
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - common-sense
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A claim can feel sensible because it simplifies experience, not because reliable sources support it.
 hero_summary: A claim can feel sensible because it simplifies experience, not because reliable sources support it.
 layout: default
 permalink: /common-sense/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Common Sense
 title: When Common Sense Leads US Wrong
-title_full: When Common Sense Leads US Wrong | Mythcraft
+title_full: When Common Sense Leads US Wrong
 display_title_short: Common Sense
 display_title: Common Sense
 heading_title: When Common Sense Leads US Wrong
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 next_link:
   basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
-date: '2026-06-09 04:07:37 '
+date: '2026-06-11 21:52:37 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a-overview.webp
@@ -501,11 +501,10 @@ image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a-ov
 
 ## Introduction
 
-Common sense is useful for everyday navigation, but it is a weak evidence test. A claim can feel sensible because it compresses messy experience into a simple story, not because it has been checked against reliable evidence. That is why many [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) survive: they sound right before anyone asks what should follow if they were true.
-
+Common sense is useful for everyday navigation, but it is a weak evidence test. A claim can feel sensible because it compresses messy experience into a simple story, not because it has been checked against reliable evidence. That is why many myths and misconceptions survive: they sound right before anyone asks what should follow if they were true.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a-overview.webp" | relative_url }}" alt="Overview image for Common Sense" loading="eager" decoding="sync" fetchpriority="high">
-The danger is not that common sense is always wrong. It is that plausibility can arrive too quickly. A neat explanation can borrow authority from familiarity, [personal experience]({{ 'anecdotes/' | relative_url }}), cultural habit or [hindsight]({{ 'hindsight/' | relative_url }}). In misinformation research, people are often more vulnerable when attention is pulled away from accuracy, and accuracy prompts can improve the quality of what people share online. That finding matters because it shows that the first question should not be “Does this sound reasonable?” but “What would I expect to see if it were true, and do we actually see it?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureShifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1593 — The results show that subtly sh...</span></span></span>
+The danger is not that common sense is always wrong. It is that plausibility can arrive too quickly. A neat explanation can borrow authority from familiarity, personal experience, cultural habit or [hindsight]({{ 'hindsight/' | relative_url }}). In misinformation research, people are often more vulnerable when attention is pulled away from accuracy, and [accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) can improve the quality of what people share online. That finding matters because it shows that the first question should not be “Does this sound reasonable?” but “What would I expect to see if it were true, and do we actually see it?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1593 — The results show that subtly sh...</span></span></span>
 
 ## Why plausibility is seductive
 
@@ -516,7 +515,6 @@ The problem is that these claims can be psychologically satisfying before they a
 Learning styles offer a similar lesson. It feels sensible that visual learners should learn best visually and auditory learners auditorily. Yet the important claim is not merely that people have preferences; it is that matching instruction to those preferences improves learning. Reviews and education summaries repeatedly find little or no support for that matching hypothesis. The University of Michigan’s teaching centre states that no study has shown that teaching to an identified learning style improves retention, learning outcomes or student success, and a 2025 review by John Hattie and Gregory Donoghue says there is no evidence that matching learning styles to teaching styles makes much positive difference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlineteaching.umich.edu/articles/the-myth-of-learning-styles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlineteaching.umich.edu">[Online Teaching]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlineteaching.umich.edu</span><span class="citation-popover-title">the myth of learning styles</span><span class="citation-popover-snippet">the myth of learning styles</span></span></span>
 
 This is why “it makes sense” is not the same as “it is probably true”. Plausibility is often a property of the story, not of the world. A myth can be elegant, memorable and socially useful while still failing when tested.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a-Illustration-1-dark.svg" | relative_url }}" alt="Common Sense illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The hidden weakness: common sense explains after the fact
@@ -529,21 +527,19 @@ Duncan Watts’s work on the failure of common sense in social explanation is us
 
 The test is simple but demanding: could the same common-sense reasoning have predicted the opposite outcome? If so, it is not strong evidence. For example, if a student improves after personalised instruction, common sense may say, “Of course, people learn best in their preferred way.” If the student does not improve, another common-sense story is ready: “Of course, real learning requires challenge beyond comfort.” Both sound reasonable. Only a properly designed comparison can tell which explanation has evidence behind it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EF8tdXwa-AE" title="The Myth of Common Sense: Why Everything that Seems Obvious Isn&#x27;t" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EF8tdXwa-AE" target="_blank" rel="noopener noreferrer">The Myth of Common Sense: Why Everything that Seems Obvious Isn&#x27;t</a></p><p class="youtube-embed-meta">Channel: Santa Fe Institute &middot; Views: 89.1K &middot; Uploaded: August 2012 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EF8tdXwa-AE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EF8tdXwa-AE">Open on YouTube</a></p></div></div></div>
 
 ## Testing predictions against evidence
 
 A stronger evidence test begins by turning a plausible claim into a prediction. If the claim is true, what should reliably happen? What should not happen? What would count against it?
 
-For learning styles, the prediction is not vague. If matching works, then students identified as visual learners should learn the same material better when taught visually, while students with a different style should learn better when taught in their matched way. That interaction is the key test. The continuing weakness of evidence for this pattern is why the learning-styles claim remains a myth despite its intuitive appeal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMC - NIHby G Pennycook · 2022 · Cited by 126 — We review research that shows how a simple nudge or prompt that shifts attention to accur...</span></span></span>
+For learning styles, the prediction is not vague. If matching works, then students identified as visual learners should learn the same material better when taught visually, while students with a different style should learn better when taught in their matched way. That interaction is the key test. The continuing weakness of evidence for this pattern is why the learning-styles claim remains a myth despite its intuitive appeal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">NIHby G Pennycook · 2022 · Cited by 126 — We review research that shows how a simple nudge or prompt that shifts attention to accur...</span></span></span>
 
 For full-moon beliefs, the prediction is also testable. If the lunar cycle meaningfully affects psychiatric crises, admissions or violent behaviour, those outcomes should rise in detectable patterns around particular moon phases. Studies often fail to find such patterns. A Swiss Medical Weekly study reported no connection between lunar cycles and psychiatric inpatient admissions, discharge rates or length of stay, and a 2026 emergency psychiatry study likewise concluded that the moon had no significant influence on psychiatric emergency consultations at population level. <span class="citation-chip-wrap"><a class="citation-chip" href="https://smw.ch/index.php/smw/article/download/2616/4138?inline=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smw.ch">[smw.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smw.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For misinformation, the prediction may concern behaviour rather than a factual claim. If people share false claims mainly because they deeply prefer falsehoods that flatter their side, accuracy reminders might not do much. But experiments reviewed by Pennycook and colleagues find that small prompts shifting attention to accuracy can improve the quality of news people share. That does not mean bias is irrelevant; it means the “people believe what they want to believe” explanation is too simple. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
 Good evidence tests often make myths less comfortable because they remove the protection of vagueness. “It stands to reason” becomes “what would we observe?” A claim that cannot survive that move may still be a useful metaphor, but it should not be treated as knowledge.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a-Illustration-2-dark.svg" | relative_url }}" alt="Common Sense illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why personal experience can mislead
@@ -556,7 +552,6 @@ Another mechanism is confirmation bias. Raymond Nickerson’s widely cited revie
 
 This is why many myths do not feel like myths from the inside. They feel like accumulated observation. The weak point is not usually that people are inventing experiences; it is that experience alone rarely supplies a fair comparison group. Without counting misses as well as hits, and ordinary cases as well as vivid ones, the mind can mistake salience for evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aA3_7T18sH0" title="Why You Can&#x27;t Learn From Your Mistakes (Hindsight Bias)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aA3_7T18sH0" target="_blank" rel="noopener noreferrer">Why You Can&#x27;t Learn From Your Mistakes (Hindsight Bias)</a></p><p class="youtube-embed-meta">Channel: Scott D. Clary - Success Story Podcast &middot; Views: 1.3K &middot; Uploaded: October 2023 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aA3_7T18sH0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aA3_7T18sH0">Open on YouTube</a></p></div></div></div>
 
 ## Better questions to ask
@@ -567,18 +562,12 @@ A better evidence test asks: <span class="citation-chip-wrap"><a class="citation
 
 * **What exactly is being claimed?** “People have learning preferences” is weaker and more plausible than “matching teaching to those preferences improves learning outcomes.”
 * **What would follow if it were true?** A real effect should produce observable differences, not just satisfying [anecdotes]({{ 'anecdotes/' | relative_url }}).
-
-<div class="content-enhancement content-enhancement--comparison" markdown="1">
-
 * **What comparison is missing?** Many myths rely on examples without asking what happens in similar cases where the supposed cause is absent.
 * **Could the opposite also sound like common sense?** If both the claim and its opposite can be made to feel obvious, plausibility is doing little evidential work.
-* **What do higher-quality sources say?** Prefer systematic reviews, controlled studies, official statistics, primary research and expert institutions over repeated slogans or isolated stories.
+* **What do higher-quality sources say?** Prefer systematic reviews, controlled studies, official statistics, primary research and expert institutions over repeated [slogans]({{ 'slogans/' | relative_url }}) or isolated stories.
 * **What would change your mind?** A claim that has no imaginable disconfirming evidence is closer to belief-protection than evidence-testing.
 
-</div>
-
 These questions are especially important for myths and misconceptions because the false claim often contains a grain of truth. People do differ in preferences. The brain does have untapped potential for learning and adaptation. Emergency workers may genuinely remember intense nights around a full moon. But a grain of truth can support a misleading generalisation if the stronger version of the claim is never tested.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a-Illustration-3-dark.svg" | relative_url }}" alt="Common Sense illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The right role for common sense
@@ -589,9 +578,7 @@ In everyday life, common sense helps with low-stakes, familiar situations where 
 
 The strongest habit is to separate two questions that people often blend together: “Can I imagine why this might be true?” and “Has it survived a fair test?” Myths thrive in the gap between those questions. Common sense makes the first question easy. Evidence is what answers the second.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OtRJT4e0KL4" title="Everything Is Obvious by Duncan J. Watts (Book Summary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OtRJT4e0KL4" target="_blank" rel="noopener noreferrer">Everything Is Obvious by Duncan J. Watts (Book Summary)</a></p><p class="youtube-embed-meta">Channel: BooksxBits &middot; Views: 2.3K &middot; Uploaded: September 2020 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OtRJT4e0KL4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OtRJT4e0KL4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -973,124 +960,124 @@ The strongest habit is to separate two questions that people often blend togethe
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-021-03344-2](https://www.nature.com/articles/s41586-021-03344-2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureShifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1593 — The results show that subtly sh...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1593 — The results show that subtly sh...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNudging Social Media toward Accuracy  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby G Pennycook · 2022 · Cited by 126 — We review research that shows how a simple nudge or prompt that shifts attention to accur...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Pennycook · 2022 · Cited by 126 — We review research that shows how a simple nudge or prompt that shifts attention to accur...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: mcgovern.mit.edu  
    Title: In fact, scientists believe that we use our entire brain every day  
-   Link: [https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/](https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/)  
+   Link: <a href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow">https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT McGovern InstituteDo we only use 10 percent of our brain?January 26, 2024 — 26 Jan 2024 — The idea that we use 10 percent of our brai...</p></details>
    Published: January 26, 2024  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHindsight Bias and Developing Theories of Mind  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3649066/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3649066/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3649066/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3649066/</a>  
 
 5. <a id="endnote-5"></a>
    Source: books.google.com  
-   Link: [https://books.google.com/books/about/Everything_is_Obvious.html?id=n531Hz9qtp4C](https://books.google.com/books/about/Everything_is_Obvious.html?id=n531Hz9qtp4C)  
+   Link: <a href="https://books.google.com/books/about/Everything_is_Obvious.html?id=n531Hz9qtp4C" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Everything_is_Obvious.html?id=n531Hz9qtp4C</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Learning Styles Myth is Thriving in Higher Education  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/</a>  
 
 7. <a id="endnote-7"></a>
    Source: smw.ch  
-   Link: [https://smw.ch/index.php/smw/article/download/2616/4138?inline=1](https://smw.ch/index.php/smw/article/download/2616/4138?inline=1)  
+   Link: <a href="https://smw.ch/index.php/smw/article/download/2616/4138?inline=1" target="_blank" rel="noopener noreferrer nofollow">https://smw.ch/index.php/smw/article/download/2616/4138?inline=1</a>  
 
 8. <a id="endnote-8"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
 
 9. <a id="endnote-9"></a>
    Source: scholar.google.com  
-   Link: [https://scholar.google.com/citations?hl=en&user=AIbJenwAAAAJ](https://scholar.google.com/citations?hl=en&user=AIbJenwAAAAJ)  
+   Link: <a href="https://scholar.google.com/citations?hl=en&amp;user=AIbJenwAAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.com/citations?hl=en&amp;user=AIbJenwAAAAJ</a>  
 
 10. <a id="endnote-10"></a>
    Source: books.google.com  
    Title: Everything is Obvious  
-   Link: [https://books.google.com/books/about/Everything_is_Obvious.html?id=J8uwpwAACAAJ](https://books.google.com/books/about/Everything_is_Obvious.html?id=J8uwpwAACAAJ)  
+   Link: <a href="https://books.google.com/books/about/Everything_is_Obvious.html?id=J8uwpwAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Everything_is_Obvious.html?id=J8uwpwAACAAJ</a>  
 
 11. <a id="endnote-11"></a>
    Source: ide.mit.edu  
    Title: Pennycook et al Shifting attention to accuracy  
-   Link: [https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf](https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf)  
+   Link: <a href="https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: onlineteaching.umich.edu  
    Title: the myth of learning styles  
-   Link: [https://onlineteaching.umich.edu/articles/the-myth-of-learning-styles/](https://onlineteaching.umich.edu/articles/the-myth-of-learning-styles/)  
+   Link: <a href="https://onlineteaching.umich.edu/articles/the-myth-of-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://onlineteaching.umich.edu/articles/the-myth-of-learning-styles/</a>  
 
 13. <a id="endnote-13"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/biases/hindsight-bias](https://thedecisionlab.com/biases/hindsight-bias)  
+   Link: <a href="https://thedecisionlab.com/biases/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/hindsight-bias</a>  
 
 14. <a id="endnote-14"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Illusory truth effect  
-   Link: [https://thedecisionlab.com/biases/illusory-truth-effect](https://thedecisionlab.com/biases/illusory-truth-effect)  
+   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
 
 15. <a id="endnote-15"></a>
    Source: pages.ucsd.edu  
    Title: UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many  
-   Link: [https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf](https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf)  
+   Link: <a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Hindsight bias  
-   Link: [https://en.wikipedia.org/wiki/Hindsight_bias](https://en.wikipedia.org/wiki/Hindsight_bias)  
+   Link: <a href="https://en.wikipedia.org/wiki/Hindsight_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hindsight_bias</a>  
 
 17. <a id="endnote-17"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1430953/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1430953/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1430953/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1430953/full</a>  
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/242124604_Metacognitive_Experiences_and_the_Intricacies_of_Setting_People_Straight_Implications_for_Debiasing_and_Public_Information_Campaigns](https://www.researchgate.net/publication/242124604_Metacognitive_Experiences_and_the_Intricacies_of_Setting_People_Straight_Implications_for_Debiasing_and_Public_Information_Campaigns)  
+   Link: <a href="https://www.researchgate.net/publication/242124604_Metacognitive_Experiences_and_the_Intricacies_of_Setting_People_Straight_Implications_for_Debiasing_and_Public_Information_Campaigns" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242124604_Metacognitive_Experiences_and_the_Intricacies_of_Setting_People_Straight_Implications_for_Debiasing_and_Public_Information_Campaigns</a>  
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers](https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers)  
+   Link: <a href="https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers</a>  
 
 20. <a id="endnote-20"></a>
    Source: binodshankar.com  
-   Link: [https://binodshankar.com/book-summaries/50-great-myths-of-popular-psychology-shattering-widespread-misconceptions-about-human-behavior/](https://binodshankar.com/book-summaries/50-great-myths-of-popular-psychology-shattering-widespread-misconceptions-about-human-behavior/)  
+   Link: <a href="https://binodshankar.com/book-summaries/50-great-myths-of-popular-psychology-shattering-widespread-misconceptions-about-human-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://binodshankar.com/book-summaries/50-great-myths-of-popular-psychology-shattering-widespread-misconceptions-about-human-behavior/</a>  
 
 21. <a id="endnote-21"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/2015/01/need-know-learning-styles-myth-two-minutes](https://www.wired.com/2015/01/need-know-learning-styles-myth-two-minutes)  
+   Link: <a href="https://www.wired.com/2015/01/need-know-learning-styles-myth-two-minutes" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2015/01/need-know-learning-styles-myth-two-minutes</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/](https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/)  
+   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
 
 23. <a id="endnote-23"></a>
    Source: atlantic-books.co.uk  
-   Link: [https://atlantic-books.co.uk/book/everything-is-obvious/](https://atlantic-books.co.uk/book/everything-is-obvious/)  
+   Link: <a href="https://atlantic-books.co.uk/book/everything-is-obvious/" target="_blank" rel="noopener noreferrer nofollow">https://atlantic-books.co.uk/book/everything-is-obvious/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/310277441973955/posts/877231828611844/](https://www.facebook.com/groups/310277441973955/posts/877231828611844/)  
+   Link: <a href="https://www.facebook.com/groups/310277441973955/posts/877231828611844/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/310277441973955/posts/877231828611844/</a>  
 
 25. <a id="endnote-25"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/education-career/k12/learners](https://www.apa.org/education-career/k12/learners)  
+   Link: <a href="https://www.apa.org/education-career/k12/learners" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/education-career/k12/learners</a>  
 
 26. <a id="endnote-26"></a>
    Source: tedxmidatlantic.com  
-   Link: [https://tedxmidatlantic.com/talks/duncan-watts-the-myth-of-common-sense/](https://tedxmidatlantic.com/talks/duncan-watts-the-myth-of-common-sense/)  
+   Link: <a href="https://tedxmidatlantic.com/talks/duncan-watts-the-myth-of-common-sense/" target="_blank" rel="noopener noreferrer nofollow">https://tedxmidatlantic.com/talks/duncan-watts-the-myth-of-common-sense/</a>  
 
 27. <a id="endnote-27"></a>
    Source: nirandfar.com  
-   Link: [https://www.nirandfar.com/obvious/](https://www.nirandfar.com/obvious/)  
+   Link: <a href="https://www.nirandfar.com/obvious/" target="_blank" rel="noopener noreferrer nofollow">https://www.nirandfar.com/obvious/</a>

@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_large_correction_stu_7d2498
 - Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - backfire
 - political-corrections
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - backfire
 - political-corrections
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Political corrections can improve factual accuracy while still leaving identity, trust and voting attitudes largely unchanged.
 hero_summary: Political corrections can improve factual accuracy while still leaving identity, trust and voting attitudes largely unchanged.
 layout: default
 permalink: /political-corrections/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /backfire/
 nav_short_title: Political Corrections
 title: When Corrections Work But Minds Barely Move
-title_full: When Corrections Work But Minds Barely Move | Backfire
+title_full: When Corrections Work But Minds Barely Move
 display_title_short: Political Corrections
 display_title: Political Corrections
 heading_title: When Corrections Work But Minds Barely Move
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Does Debunking Really Make Myths Stronger? | Mythcraft
+parent_title: Does Debunking Really Make Myths Stronger?
 parent_permalink: /backfire/
 parent_nav_short_title: Backfire
 parent_heading_title: Does Debunking Really Make Myths Stronger?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Did Researchers Actually Find Backfire?
 up_link:
   basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
@@ -265,7 +265,7 @@ next_link:
   permalink: /study-evidence/
   short_title: Study Evidence
   heading_title: Did Researchers Actually Find Backfire?
-date: '2026-06-09 05:00:06 '
+date: '2026-06-11 22:19:24 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_po
 
 Political misinformation is one of the areas where fears about the [backfire]({{ 'backfire/' | relative_url }}) effect became most influential. The concern was not just that [corrections]({{ 'corrections/' | relative_url }}) might fail. It was that fact-checks could make people believe false claims even more strongly. Yet much of the evidence accumulated over the past decade points to a different problem. Political corrections often improve factual accuracy, but they do not necessarily change broader political attitudes, partisan loyalties, trust in leaders or voting behaviour. PNAS <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.osf.io/v1/resources/svbru_v1/providers/osfstorage/6536f8e013d27b0fcb94cf9b?action=download&amp;direct=&amp;version=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.osf.io">[OSF Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.osf.io</span><span class="citation-popover-snippet">Factual corrections that target misinformation improve belief accuracy. They do so across a wide variety of countries, political...Read...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-1-dark.svg" | relative_url }}" alt="Political Corrections illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters because a [correction]({{ 'correction/' | relative_url }}) that leaves someone's political [identity]({{ 'identity/' | relative_url }}) intact is not the same thing as a correction that backfires. Many apparent examples of “backfire” are better understood as cases where people accepted a factual correction while continuing to support the politician, party or worldview connected to the false claim. The correction worked in a narrow informational sense, but the larger political landscape barely moved.
 
@@ -285,7 +284,6 @@ That distinction matters because a [correction]({{ 'correction/' | relative_url 
 The strongest versions of the backfire story claim that correcting misinformation can increase belief in the misinformation itself. If a person believes a false claim at a level of 60 out of 100 before correction and 75 afterwards, that would be genuine backfire.
 
 Researchers increasingly distinguish that outcome from several other possibilities:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -296,7 +294,7 @@ Researchers increasingly distinguish that outcome from several other possibiliti
 
 </div>
 
-Only the first scenario is true backfire. The others involve limited effectiveness, persistence or motivated political behaviour rather than belief strengthening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Brendan Nyhan... Reifler, When corrections fail: The persistence of...</span></span></span>
+Only the first scenario is true backfire. The others involve limited effectiveness, persistence or motivated political behaviour rather than belief strengthening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Brendan Nyhan... Reifler, When corrections fail: The persistence of...</span></span></span>
 
 This distinction became clearer after large replication efforts struggled to find robust backfire effects. Thomas Wood and Ethan Porter tested dozens of politically contentious issues across more than 10,000 participants and reported no evidence that corrections systematically increased misperceptions. Instead, people generally moved toward greater factual accuracy even when the information challenged their political side. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Can citizens heed factual information, even when such information challenges their partisan and ideological attachments?Read more...</span></span></span>
 
@@ -312,9 +310,6 @@ Research on political misinformation repeatedly finds evidence for this separati
 
 This can look like resistance to facts when viewed from outside. A journalist may reveal that a claim was false, yet polling numbers barely move. Observers then conclude that fact-checking failed. But from a measurement perspective, two different outcomes are being combined:
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WyTVzZM2xPQ" title="The Backfire Effect: Why Facts Don’t Change People’s Minds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WyTVzZM2xPQ" target="_blank" rel="noopener noreferrer">The Backfire Effect: Why Facts Don’t Change People’s Minds</a></p><p class="youtube-embed-meta">Channel: Rafi Chowdhury &middot; Views: 60 &middot; Uploaded: October 2024 &middot; Length: 2 minutes 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WyTVzZM2xPQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WyTVzZM2xPQ">Open on YouTube</a></p></div></div></div>
-
 1. Did people become more accurate about the claim?
 2. Did people change their political preferences?
 
@@ -326,14 +321,14 @@ Political identities are usually constructed from networks of values, group loya
 
 As a result, correcting one claim rarely dismantles the larger identity structure supporting a political position. Someone may concede that a rumour about immigration, climate policy or election administration was inaccurate while still viewing the opposing political camp as threatening or untrustworthy.
 
-This helps explain why political attitudes often appear remarkably stable even when factual beliefs shift. The correction modifies one piece of information but leaves the underlying identity framework largely intact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.dartmouth.edu/nyhan/files/2021/03/jep.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.dartmouth.edu">[Dartmouth Sites]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.dartmouth.edu</span><span class="citation-popover-snippet">Dartmouth SitesFacts and Myths about Misperceptions | Brendan Nyhanby B Nyhan · Cited by 320 — Political misinformation often originates...</span></span></span>
+This helps explain why political attitudes often appear remarkably stable even when factual beliefs shift. The correction modifies one piece of information but leaves the underlying identity framework largely intact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.dartmouth.edu/nyhan/files/2021/03/jep.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.dartmouth.edu">[Dartmouth Sites]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.dartmouth.edu</span><span class="citation-popover-snippet">Dartmouth SitesFacts and Myths about Misperceptions &#124; Brendan Nyhanby B Nyhan · Cited by 320 — Political misinformation often originates...</span></span></span>
 
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-2-dark.svg" | relative_url }}" alt="Political Corrections illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Politics Keeps Myths Alive After Correction
 
 Another reason corrections can appear ineffective is that political misinformation is often continuously reinforced.
 
 Brendan Nyhan has argued that the durability of political misperceptions is better explained by repeated elite cues, partisan media environments and ongoing exposure than by classic backfire effects. Even when a correction succeeds, later messages may reintroduce the myth or surround it with sympathetic framing. PNAS PubMed A voter might encounter: <span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[carnegieendowment.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -348,8 +343,8 @@ Under those conditions, misinformation can remain influential without any need f
 
 Research reviews increasingly point toward this explanation. Political misinformation often originates with political elites and is sustained through repeated circulation by parties, activists and media outlets. The problem is not necessarily that corrections strengthen false beliefs; it is that corrections compete against a much larger information system. Dartmouth Sites <span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WyTVzZM2xPQ" title="The Backfire Effect: Why Facts Don’t Change People’s Minds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WyTVzZM2xPQ" target="_blank" rel="noopener noreferrer">The Backfire Effect: Why Facts Don’t Change People’s Minds</a></p><p class="youtube-embed-meta">Channel: Rafi Chowdhury &middot; Views: 60 &middot; Uploaded: October 2024 &middot; Length: 2 minutes 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WyTVzZM2xPQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WyTVzZM2xPQ">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-2-dark.svg" | relative_url }}" alt="Political Corrections illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Trust Can Matter More Than Accuracy
 
 Political communication also depends heavily on trust.
@@ -360,8 +355,6 @@ For example, some studies find that people respond differently depending on who 
 
 Again, this is not backfire in the strict sense. It is a question of source credibility and political trust.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-3-dark.svg" | relative_url }}" alt="Political Corrections illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Corrections Change Facts but Not Behaviour
 
 One of the most misunderstood findings in political communication is that knowledge gains do not automatically produce behavioural change.
@@ -378,9 +371,7 @@ A notable example comes from studies of election [campaigns]({{ 'campaigns/' | r
 
 This pattern can be frustrating for fact-checkers because public expectations are often unrealistic. Correcting a false claim is fundamentally an informational intervention. It is not necessarily a mechanism for changing identity, ideology or partisan allegiance.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/58jHhNzUHm4" title="How can you change someone&#x27;s mind? (hint: facts aren&#x27;t always enough) - Hugo Mercier" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=58jHhNzUHm4" target="_blank" rel="noopener noreferrer">How can you change someone&#x27;s mind? (hint: facts aren&#x27;t always enough) - Hugo Mercier</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=58jHhNzUHm4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=58jHhNzUHm4">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-3-dark.svg" | relative_url }}" alt="Political Corrections illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Myth of Correction Failure Persists
 
 The belief that political corrections do not work survives partly because people often judge success by the wrong standard.
@@ -392,10 +383,6 @@ But if the standard is narrower—whether people become more accurate about a sp
 The result is a persistent misunderstanding. Observers see unchanged political attitudes and conclude that the correction failed. Researchers measuring factual beliefs often see a different story: the correction worked, just not in the sweeping way people hoped.
 
 That gap between factual learning and political commitment helps explain why fears of widespread backfire have weakened while concerns about misinformation remain. The central challenge is often not that corrections make people believe myths more strongly. It is that [politics]({{ 'politics/' | relative_url }}) gives people many reasons to keep their identities, loyalties and preferences even after the facts become clearer. PNAS <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050718-032814?crawler=true&amp;mimetype=application%2Fpdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: annualreviews.org">[Annual Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">annualreviews.org</span><span class="citation-popover-title">annurev polisci 050718 032814</span><span class="citation-popover-snippet">Annual ReviewsPolitical Misinformationby J Jerit · 2020 · Cited by 396 — Perhaps as a re- sult, there are instances in which false belief...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BjQHuBvdyNg" title="Political Spectrums Explained — Why is there a left wing and right wing?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BjQHuBvdyNg" target="_blank" rel="noopener noreferrer">Political Spectrums Explained — Why is there a left wing and right wing?</a></p><p class="youtube-embed-meta">Channel: Mr. Beat</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BjQHuBvdyNg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BjQHuBvdyNg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -793,121 +780,121 @@ That gap between factual learning and political commitment helps explain why fea
 
 1. <a id="endnote-1"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.1912440117](https://www.pnas.org/doi/10.1073/pnas.1912440117)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1912440117</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brendan Nyhan... Reifler, When corrections fail: The persistence of...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: files.osf.io  
-   Link: [https://files.osf.io/v1/resources/svbru_v1/providers/osfstorage/6536f8e013d27b0fcb94cf9b?action=download&direct=&version=1](https://files.osf.io/v1/resources/svbru_v1/providers/osfstorage/6536f8e013d27b0fcb94cf9b?action=download&direct=&version=1)  
+   Link: <a href="https://files.osf.io/v1/resources/svbru_v1/providers/osfstorage/6536f8e013d27b0fcb94cf9b?action=download&amp;direct=&amp;version=1" target="_blank" rel="noopener noreferrer nofollow">https://files.osf.io/v1/resources/svbru_v1/providers/osfstorage/6536f8e013d27b0fcb94cf9b?action=download&amp;direct=&amp;version=1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Factual corrections that target misinformation improve belief accuracy. They do so across a wide variety of countries, political...Read...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can citizens heed factual information, even when such information challenges their partisan and ideological attachments?Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sites.dartmouth.edu  
-   Link: [https://sites.dartmouth.edu/nyhan/files/2021/03/jep.pdf](https://sites.dartmouth.edu/nyhan/files/2021/03/jep.pdf)  
+   Link: <a href="https://sites.dartmouth.edu/nyhan/files/2021/03/jep.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.dartmouth.edu/nyhan/files/2021/03/jep.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dartmouth SitesFacts and Myths about Misperceptions | Brendan Nyhanby B Nyhan · Cited by 320 — Political misinformation often originates...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Fact-checking](https://en.wikipedia.org/wiki/Fact-checking)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fact-checking" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fact-checking</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2505.08048](https://arxiv.org/abs/2505.08048)  
+   Link: <a href="https://arxiv.org/abs/2505.08048" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.08048</a>  
 
 8. <a id="endnote-8"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2122069119](https://www.pnas.org/doi/10.1073/pnas.2122069119)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2122069119" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2122069119</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time and skeptical opinion content erode the effects of...by B Nyhan · 2022 · Cited by 57 — Our results indicate that science coverage o...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ore.exeter.ac.uk  
-   Link: [https://ore.exeter.ac.uk/articles/journal_contribution/Taking_Fact-Checks_Literally_But_Not_Seriously_The_Effects_of_Journalistic_Fact-Checking_on_Factual_Beliefs_and_Candidate_Favorability/29753936/1/files/56778089.pdf](https://ore.exeter.ac.uk/articles/journal_contribution/Taking_Fact-Checks_Literally_But_Not_Seriously_The_Effects_of_Journalistic_Fact-Checking_on_Factual_Beliefs_and_Candidate_Favorability/29753936/1/files/56778089.pdf)  
+   Link: <a href="https://ore.exeter.ac.uk/articles/journal_contribution/Taking_Fact-Checks_Literally_But_Not_Seriously_The_Effects_of_Journalistic_Fact-Checking_on_Factual_Beliefs_and_Candidate_Favorability/29753936/1/files/56778089.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ore.exeter.ac.uk/articles/journal_contribution/Taking_Fact-Checks_Literally_But_Not_Seriously_The_Effects_of_Journalistic_Fact-Checking_on_Factual_Beliefs_and_Candidate_Favorability/29753936/1/files/56778089.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects...April 29, 2019 — by B Nyhan · 2019 · Cited by 576 — Nyhan and Reifler (2010) find that corrective information in mock news...</p></details>
    Published: April 29, 2019  
 
 10. <a id="endnote-10"></a>
    Source: annualreviews.org  
    Title: annurev polisci 050718 032814  
-   Link: [https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050718-032814?crawler=true&mimetype=application%2Fpdf](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050718-032814?crawler=true&mimetype=application%2Fpdf)  
+   Link: <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050718-032814?crawler=true&amp;mimetype=application%2Fpdf" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050718-032814?crawler=true&amp;mimetype=application%2Fpdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual ReviewsPolitical Misinformationby J Jerit · 2020 · Cited by 396 — Perhaps as a re- sult, there are instances in which false belief...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/33837144/](https://pubmed.ncbi.nlm.nih.gov/33837144/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33837144/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33837144/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Proc Natl Acad Sci U S A. 2021 Apr 13;118(15):e1912440117...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: [https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide](https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide)  
+   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scholar.google.com.py  
    Title: google.com.py Brendan Nyhan  
-   Link: [https://scholar.google.com.py/citations?hl=es&user=SbAA1v4AAAAJ](https://scholar.google.com.py/citations?hl=es&user=SbAA1v4AAAAJ)  
+   Link: <a href="https://scholar.google.com.py/citations?hl=es&amp;user=SbAA1v4AAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.com.py/citations?hl=es&amp;user=SbAA1v4AAAAJ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nyhan - Google AcadémicoWhen corrections fail: The persistence of political misperceptions. B Nyhan... How do social media feed algorith...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Why-the-backfire-effect-does-not-explain-the-of-Nyhan/ff9b7e09122bb1e9e2b340239405f5ace64de17d](https://www.semanticscholar.org/paper/Why-the-backfire-effect-does-not-explain-the-of-Nyhan/ff9b7e09122bb1e9e2b340239405f5ace64de17d)  
+   Link: <a href="https://www.semanticscholar.org/paper/Why-the-backfire-effect-does-not-explain-the-of-Nyhan/ff9b7e09122bb1e9e2b340239405f5ace64de17d" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Why-the-backfire-effect-does-not-explain-the-of-Nyhan/ff9b7e09122bb1e9e2b340239405f5ace64de17d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why the backfire effect does not explain the durability of...The research that is reviewed suggests that the accuracy-increasing effects...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: emc-lab.org  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2019.polpsych.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2019.polpsych.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2019.polpsych.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2019.polpsych.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7934973/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7934973/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7934973/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7934973/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of political misinformation: no evidence for an...by UKH Ecker · 2021 · Cited by 44 — Misinformation often has a continuing effect on pe...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: issuelab.org  
-   Link: [https://www.issuelab.org/resources/15316/15316.pdf](https://www.issuelab.org/resources/15316/15316.pdf)  
+   Link: <a href="https://www.issuelab.org/resources/15316/15316.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.issuelab.org/resources/15316/15316.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Fact-checking:by B Nyhan · 2012 · Cited by 14 — * Brendan Nyhan (nyhan@dartmouth.edu) is an Assistant Professor in the...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: discovery.ucl.ac.uk  
    Title: UCL Discovery Belief updating in the face of misinformation  
-   Link: [https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf](https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryBelief updating in the face of misinformation - UCL Discoveryby GA Sanna · 2025 · Cited by 14 — This paper investigates the...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: gwern.net  
-   Link: [https://gwern.net/doc/psychology/cognitive-bias/2018-wood.pdf](https://gwern.net/doc/psychology/cognitive-bias/2018-wood.pdf)  
+   Link: <a href="https://gwern.net/doc/psychology/cognitive-bias/2018-wood.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2018-wood.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rrected issues, we staged five separate studies comprised of 52 commonly.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: research-information.bris.ac.uk  
    Title: bris.ac.uk Lewandowsky, S., & Van Der Linden, S  
-   Link: [https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf](https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2021). Counteringby S Lewandowsky · 2021 · Cited by 1108 — Taking fact-checks literally but not seriously? The effects of journalistic f...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: eprints.soton.ac.uk  
    Title: We also document several instances of a “  
-   Link: [https://eprints.soton.ac.uk/500567/](https://eprints.soton.ac.uk/500567/)  
+   Link: <a href="https://eprints.soton.ac.uk/500567/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.soton.ac.uk/500567/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>corrections fail: the persistence of political misperceptionsby B Nyhan · 2010 · Cited by 4638 — Results indicate that corrections freque...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: openscholarship.wustl.edu  
-   Link: [https://openscholarship.wustl.edu/context/art_sci_etds/article/4581/viewcontent/1110493.pdf](https://openscholarship.wustl.edu/context/art_sci_etds/article/4581/viewcontent/1110493.pdf)  
+   Link: <a href="https://openscholarship.wustl.edu/context/art_sci_etds/article/4581/viewcontent/1110493.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openscholarship.wustl.edu/context/art_sci_etds/article/4581/viewcontent/1110493.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluations, Misinformation Corrections, and Racial...by D Lockett · 2024 · Cited by 2 — Hypothesis 1: Corrective comments will reduce m...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2623049](https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2623049)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2623049" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2623049</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Do Beliefs Echo? On the Persistent Effects of...by J Fenger · 2026 — ABSTRACT. Does misinformation continue to influence p...</p></details>

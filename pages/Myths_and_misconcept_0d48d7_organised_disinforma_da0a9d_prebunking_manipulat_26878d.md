@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_platform_behavior_ru_c5df69
 - Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_reporting_viral_fals_915704
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - campaigns
 - prebunking
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - campaigns
 - prebunking
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Prebunking prepares people to recognise emotional manipulation, scapegoating and false choices before a campaign reaches them.
 hero_summary: Prebunking prepares people to recognise emotional manipulation, scapegoating and false choices before a campaign reaches them.
 layout: default
 permalink: /prebunking-150aba/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /campaigns/
 nav_short_title: Prebunking
 title: Learning the Trick Before the Lie
-title_full: Learning the Trick Before the Lie | Campaigns
+title_full: Learning the Trick Before the Lie
 display_title_short: Prebunking
 display_title: Prebunking
 heading_title: Learning the Trick Before the Lie
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Falsehoods Are Spread on Purpose | Mythcraft
+parent_title: When Falsehoods Are Spread on Purpose
 parent_permalink: /campaigns/
 parent_nav_short_title: Campaigns
 parent_heading_title: When Falsehoods Are Spread on Purpose
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Can Platforms Stop Manipulation, Not Debate?
 up_link:
   basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
@@ -259,7 +259,7 @@ prev_link:
   permalink: /platform-rules/
   short_title: Platform Rules
   heading_title: Can Platforms Stop Manipulation, Not Debate?
-date: '2026-06-09 05:41:04 '
+date: '2026-06-11 22:39:50 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_prebunking_manipulat_26878d-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_prebunking_manipulat_26878d-Illustration-1.webp
@@ -268,11 +268,10 @@ image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_pr
 
 ## Introduction
 
-Prebunking is the idea of teaching people how manipulation works before they encounter a specific false claim. In the context of organised disinformation [campaigns]({{ 'campaigns/' | relative_url }}), this matters because coordinated actors rarely rely on a single lie. Instead, they repeatedly use familiar techniques—emotional manipulation, scapegoating, false choices, conspiracy framing, personal attacks and manufactured outrage—to make misleading narratives appear convincing. Prebunking aims to build recognition of those techniques in advance, making people less vulnerable when they later encounter them. Research from psychology, communication studies and large-scale online experiments suggests that this “inoculation” approach can improve people’s ability to identify manipulative content and reduce the perceived credibility of misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., &amp; Van Der Linden, S</span><span class="citation-popover-snippet">2021). Counteringby S Lewandowsky · 2021 · Cited by 1108 — We show that based on the available evidence, inoculation appears to be a pro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NCBIPrebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — In this chapter, we detail how a psyc...</span></span></span>
-
+Prebunking is the idea of teaching people how manipulation works before they encounter a specific false claim. In the context of organised disinformation [campaigns]({{ 'campaigns/' | relative_url }}), this matters because coordinated actors rarely rely on a single lie. Instead, they repeatedly use familiar techniques—emotional manipulation, scapegoating, false choices, conspiracy framing, personal attacks and manufactured outrage—to make misleading narratives appear convincing. Prebunking aims to build recognition of those techniques in advance, making people less vulnerable when they later encounter them. Research from psychology, communication studies and large-scale online experiments suggests that this “inoculation” approach can improve people’s ability to identify manipulative content and reduce the perceived credibility of misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., &amp; Van Der Linden, S</span><span class="citation-popover-snippet">2021). Counteringby S Lewandowsky · 2021 · Cited by 1108 — We show that based on the available evidence, inoculation appears to be a pro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — In this chapter, we detail how a psyc...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_prebunking_manipulat_26878d-Illustration-1-dark.svg" | relative_url }}" alt="Prebunking illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_prebunking_manipulat_26878d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_prebunking_manipulat_26878d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within responses to organised disinformation, prebunking occupies a distinctive role. It does not attempt to predict every future rumour. Instead, it focuses on the recurring tricks used to spread [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) across many different topics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cam.ac.uk">[University of Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cam.ac.uk</span><span class="citation-popover-snippet">University of CambridgeHow to &#x27;inoculate&#x27; millions against misinformation on social...This “prebunking” strategy pre-emptively exposes p...</span></span></span>
+Within responses to organised disinformation, prebunking occupies a distinctive role. It does not attempt to predict every future rumour. Instead, it focuses on the recurring tricks used to spread myths and misconceptions across many different topics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cam.ac.uk">[University of Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cam.ac.uk</span><span class="citation-popover-snippet">University of CambridgeHow to &#x27;inoculate&#x27; millions against misinformation on social...This “prebunking” strategy pre-emptively exposes p...</span></span></span>
 
 ## How inoculation differs from fact-checking
 
@@ -286,19 +285,17 @@ This distinction is especially relevant for organised disinformation. Campaigns 
 
 Evidence reviews generally find that inoculation-based interventions improve people’s ability to distinguish between trustworthy and misleading information and reduce the credibility assigned to misinformation, although the size and duration of effects vary between studies. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., &amp; Van Der Linden, S</span><span class="citation-popover-snippet">2021). Counteringby S Lewandowsky · 2021 · Cited by 1108 — We show that based on the available evidence, inoculation appears to be a pro...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gDfQHWQwJ8Q" title="Prebunking Manipulation Techniques: False Dichotomies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gDfQHWQwJ8Q" target="_blank" rel="noopener noreferrer">Prebunking Manipulation Techniques: False Dichotomies</a></p><p class="youtube-embed-meta">Channel: Info Interventions &middot; Views: 598.2K &middot; Uploaded: May 2021 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gDfQHWQwJ8Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gDfQHWQwJ8Q">Open on YouTube</a></p></div></div></div>
 
 ## Why organised campaigns are vulnerable to prebunking
 
 A common misconception is that disinformation succeeds mainly because people lack facts. In many organised campaigns, however, the persuasive force comes from manipulation rather than evidence.
 
-Coordinated campaigns often rely on predictable rhetorical patterns. They may encourage anger before presenting evidence, frame complex issues as a battle between only two options, identify a convenient group to blame for broader problems, or present disconnected claims that create confusion rather than understanding. Because these patterns recur across many campaigns, they can be taught in advance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPsychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — Based on 42 independent studies with...</span></span></span>
+Coordinated campaigns often rely on predictable rhetorical patterns. They may encourage anger before presenting evidence, frame complex issues as a battle between only two options, identify a convenient group to blame for broader problems, or present disconnected claims that create confusion rather than understanding. Because these patterns recur across many campaigns, they can be taught in advance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — Based on 42 independent studies with...</span></span></span>
 
-Researchers have compared this to learning a magician’s trick. Once the audience understands the mechanism, the performance loses some of its power. The goal is not to make people experts in every subject but to help them recognise when someone is attempting to manipulate attention, emotions or group identities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NCBIPrebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — In this chapter, we detail how a psyc...</span></span></span>
+Researchers have compared this to learning a magician’s trick. Once the audience understands the mechanism, the performance loses some of its power. The goal is not to make people experts in every subject but to help them recognise when someone is attempting to manipulate attention, emotions or group identities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — In this chapter, we detail how a psyc...</span></span></span>
 
-This focus on techniques rather than topics also makes prebunking more scalable. Public institutions cannot anticipate every future rumour, but they can educate people about recurring forms of manipulation that appear across many disinformation operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDFacts not Fakes: Tackling Disinformation, Strengthening...In a fast-moving information landscape re-shaped by digitalisation, streng...</span></span></span>
-
+This focus on techniques rather than topics also makes prebunking more scalable. Public institutions cannot anticipate every future rumour, but they can educate people about recurring forms of manipulation that appear across many disinformation operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Facts not Fakes: Tackling Disinformation, Strengthening...In a fast-moving information landscape re-shaped by digitalisation, streng...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ieMrNynj8bk" title="Prebunking and inoculating against disinformation? | Sander van der Linden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ieMrNynj8bk" target="_blank" rel="noopener noreferrer">Prebunking and inoculating against disinformation? | Sander van der Linden</a></p><p class="youtube-embed-meta">Channel: Global Minds for Ukraine &middot; Views: 875 &middot; Uploaded: March 2022 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ieMrNynj8bk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ieMrNynj8bk">Open on YouTube</a></p></div></div></div>
 
@@ -306,16 +303,15 @@ This focus on techniques rather than topics also makes prebunking more scalable.
 
 Research and practical prebunking campaigns frequently focus on a small set of recurring manipulation techniques. These include:
 
-* **Emotionally manipulative language:** content designed to provoke fear, outrage or panic before critical evaluation takes place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPsychological inoculation improves resilience against</span><span class="citation-popover-snippet">PMCby J Roozenbeek · 2022 · Cited by 610 — We developed five short videos that inoculate people against manipulation techniques commonly...</span></span></span>
-* **Scapegoating:** assigning blame for complex problems to a particular group, institution or minority without adequate evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCLimited effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different...</span></span></span>
-* **False dichotomies:** presenting only two options when more alternatives exist, creating an artificial sense of urgency or [conflict]({{ 'conflict/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10896732/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPsychological inoculation strategies to fight climate</span><span class="citation-popover-snippet">PMCby T Spampatti · 2023 · Cited by 86 — However, this analysis also yielded no evidence that the psychological inoculations protected pr...</span></span></span>
+* **Emotionally manipulative language:** content designed to provoke fear, outrage or panic before critical evaluation takes place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPsychological inoculation improves resilience against</span><span class="citation-popover-snippet">by J Roozenbeek · 2022 · Cited by 610 — We developed five short videos that inoculate people against manipulation techniques commonly...</span></span></span>
+* **Scapegoating:** assigning blame for complex problems to a particular group, institution or minority without adequate evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Limited effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different...</span></span></span>
+* **False dichotomies:** presenting only two options when more alternatives exist, creating an artificial sense of urgency or [conflict]({{ 'conflict/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10896732/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPsychological inoculation strategies to fight climate</span><span class="citation-popover-snippet">by T Spampatti · 2023 · Cited by 86 — However, this analysis also yielded no evidence that the psychological inoculations protected pr...</span></span></span>
 * **Ad hominem attacks:** discrediting individuals instead of engaging with their arguments or evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12980526/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Effects of Inoculation Interventions and Repetition on...by J Udry · 2025 — It is also unknown whether inoculation interventions are eff...</span></span></span>
-* **Deliberate incoherence or conspiracy-style reasoning:** overwhelming audiences with disconnected claims, contradictions or insinuations that create doubt without establishing a coherent case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPsychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — Based on 42 independent studies with...</span></span></span>
+* **Deliberate incoherence or conspiracy-style reasoning:** overwhelming audiences with disconnected claims, [contradictions]({{ 'contradictions/' | relative_url }}) or insinuations that create doubt without establishing a coherent case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — Based on 42 independent studies with...</span></span></span>
 
 Large-scale online experiments have tested short videos teaching these tactics. One widely cited study found that brief inoculation videos delivered through social media platforms improved participants’ ability to recognise manipulation techniques and increased resistance to misinformation at scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inoculation c...</span></span></span>
 
 The practical advantage is that these lessons remain useful even when the specific narrative changes. Someone who learns to recognise scapegoating can apply that knowledge whether the target is an ethnic minority, a political group, a public health agency or another institution.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_prebunking_manipulat_26878d-Illustration-2-dark.svg" | relative_url }}" alt="Prebunking illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_prebunking_manipulat_26878d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_prebunking_manipulat_26878d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the evidence says
@@ -326,24 +322,22 @@ A cross-cultural study of the online game *Bad News* found that exposing partici
 
 A 2022 study published in *Science Advances* reported that short inoculation videos delivered through social media improved misinformation resilience among large audiences. The videos focused on common manipulation techniques rather than specific claims, demonstrating that broad-spectrum prebunking can work at scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inoculation c...</span></span></span>
 
-Meta-analytic research has also found consistent benefits. A systematic review covering dozens of studies and more than 42,000 participants concluded that psychological inoculation reduces the perceived credibility of misinformation and improves discernment between reliable and unreliable information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPsychological inoculation improves resilience against</span><span class="citation-popover-snippet">PMCby J Roozenbeek · 2022 · Cited by 610 — We developed five short videos that inoculate people against manipulation techniques commonly...</span></span></span>
+Meta-analytic research has also found consistent benefits. A systematic review covering dozens of studies and more than 42,000 participants concluded that psychological inoculation reduces the perceived credibility of misinformation and improves discernment between reliable and unreliable information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPsychological inoculation improves resilience against</span><span class="citation-popover-snippet">by J Roozenbeek · 2022 · Cited by 610 — We developed five short videos that inoculate people against manipulation techniques commonly...</span></span></span>
 
-At the same time, the evidence is not uniformly positive. Some studies find smaller effects than others, and researchers continue to debate how long protection lasts, how often “booster” interventions are needed, and whether improvements in judgement always translate into changes in sharing behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCLimited effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10896732/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPsychological inoculation strategies to fight climate</span><span class="citation-popover-snippet">PMCby T Spampatti · 2023 · Cited by 86 — However, this analysis also yielded no evidence that the psychological inoculations protected pr...</span></span></span>
+At the same time, the evidence is not uniformly positive. Some studies find smaller effects than others, and researchers continue to debate how long protection lasts, how often “booster” interventions are needed, and whether improvements in judgement always translate into changes in sharing behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Limited effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10896732/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPsychological inoculation strategies to fight climate</span><span class="citation-popover-snippet">by T Spampatti · 2023 · Cited by 86 — However, this analysis also yielded no evidence that the psychological inoculations protected pr...</span></span></span>
 
 These limitations are important because they show that prebunking is not a cure-all. It can reduce vulnerability to manipulation, but it does not eliminate the social, political and economic factors that help disinformation campaigns gain traction.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_prebunking_manipulat_26878d-Illustration-3-dark.svg" | relative_url }}" alt="Prebunking illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_prebunking_manipulat_26878d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_prebunking_manipulat_26878d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where prebunking fits with institutional response
 
 Prebunking works best as one layer within a broader response to organised disinformation.
 
-Platforms may remove coordinated inauthentic networks. Journalists may investigate who is behind a campaign. Fact-checkers may correct specific claims. Regulators may require transparency around political advertising. Prebunking complements these measures by helping citizens recognise manipulation for themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/04/good-practice-principles-for-public-communication-responses-to-mis-and-disinformation_e047ea9c/6d141b44-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDGood Practice Principles for Public Communication...Pre-bunking has also been applied via innovative and interactive games, and is n...</span></span></span>
+Platforms may remove coordinated inauthentic networks. Journalists may investigate who is behind a campaign. Fact-checkers may correct specific claims. Regulators may require transparency around political advertising. Prebunking complements these measures by helping citizens recognise manipulation for themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/04/good-practice-principles-for-public-communication-responses-to-mis-and-disinformation_e047ea9c/6d141b44-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Good Practice Principles for Public Communication...Pre-bunking has also been applied via innovative and interactive games, and is n...</span></span></span>
 
-Organisations such as the OECD have identified prebunking as a promising public communication tool because it can strengthen information resilience without requiring authorities to anticipate every future falsehood. Instead of responding only after harmful narratives spread, institutions can prepare audiences to identify deceptive tactics before they become persuasive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDGovernance responses to disinformation (EN)This paper provides a holistic policy approach to the challenge of disinformation by explo...</span></span></span>
+Organisations such as the OECD have identified prebunking as a promising public communication tool because it can strengthen information resilience without requiring authorities to anticipate every future falsehood. Instead of responding only after harmful narratives spread, institutions can prepare audiences to identify deceptive tactics before they become persuasive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Governance responses to disinformation (EN)This paper provides a holistic policy approach to the challenge of disinformation by explo...</span></span></span>
 
 This is particularly valuable in an environment where organised campaigns continually adapt. The details of a rumour may change, but the underlying techniques often remain recognisable.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v_WXMEWiZi8" title="The Infodemic: Debunking Works (Let’s Get To It!) with Tim Caulfield" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v_WXMEWiZi8" target="_blank" rel="noopener noreferrer">The Infodemic: Debunking Works (Let’s Get To It!) with Tim Caulfield</a></p><p class="youtube-embed-meta">Channel: Center for Inquiry &middot; Views: 1.9K &middot; Uploaded: December 2020 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v_WXMEWiZi8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v_WXMEWiZi8">Open on YouTube</a></p></div></div></div>
 
@@ -749,155 +743,155 @@ For that reason, prebunking is less about predicting the next myth and more abou
 
 1. <a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK609022/](https://www.ncbi.nlm.nih.gov/books/NBK609022/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBIPrebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — In this chapter, we detail how a psyc...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK609022/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — In this chapter, we detail how a psyc...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPsychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — Based on 42 independent studies with...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — Based on 42 independent studies with...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPsychological inoculation improves resilience against  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby J Roozenbeek · 2022 · Cited by 610 — We developed five short videos that inoculate people against manipulation techniques commonly...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Roozenbeek · 2022 · Cited by 610 — We developed five short videos that inoculate people against manipulation techniques commonly...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDFacts not Fakes: Tackling Disinformation, Strengthening...In a fast-moving information landscape re-shaped by digitalisation, streng...</p></details>
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Facts not Fakes: Tackling Disinformation, Strengthening...In a fast-moving information landscape re-shaped by digitalisation, streng...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/04/good-practice-principles-for-public-communication-responses-to-mis-and-disinformation_e047ea9c/6d141b44-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/04/good-practice-principles-for-public-communication-responses-to-mis-and-disinformation_e047ea9c/6d141b44-en.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDGood Practice Principles for Public Communication...Pre-bunking has also been applied via innovative and interactive games, and is n...</p></details>
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/04/good-practice-principles-for-public-communication-responses-to-mis-and-disinformation_e047ea9c/6d141b44-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/04/good-practice-principles-for-public-communication-responses-to-mis-and-disinformation_e047ea9c/6d141b44-en.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Good Practice Principles for Public Communication...Pre-bunking has also been applied via innovative and interactive games, and is n...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/sciadv.abo6254](https://www.science.org/doi/10.1126/sciadv.abo6254)  
+   Link: <a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inoculation c...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCLimited effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Limited effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPsychological inoculation strategies to fight climate  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10896732/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10896732/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby T Spampatti · 2023 · Cited by 86 — However, this analysis also yielded no evidence that the psychological inoculations protected pr...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10896732/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10896732/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by T Spampatti · 2023 · Cited by 86 — However, this analysis also yielded no evidence that the psychological inoculations protected pr...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12980526/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12980526/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12980526/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12980526/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Inoculation Interventions and [Repetition](&amp;#123;&amp;#123; &#x27;repetition/&#x27; | relative_url &amp;#125;&amp;#125;) on...by J Udry · 2025 — It is also unknown whether inoculation interventions are eff...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDGovernance responses to disinformation (EN)This paper provides a holistic policy approach to the challenge of disinformation by explo...</p></details>
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governance responses to disinformation (EN)This paper provides a holistic policy approach to the challenge of disinformation by explo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/fr/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/4078bb32-fr.pdf](https://www.oecd.org/content/dam/oecd/fr/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/4078bb32-fr.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/fr/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/4078bb32-fr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/fr/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/4078bb32-fr.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>de représentants des gouvernements, du secteur des médias et du journalisme, de la...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en.html](https://www.oecd.org/en.html)  
+   Link: <a href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en.html</a>  
 
 13. <a id="endnote-13"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/disinformation-and-misinformation.html](https://www.oecd.org/en/topics/disinformation-and-misinformation.html)  
+   Link: <a href="https://www.oecd.org/en/topics/disinformation-and-misinformation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/disinformation-and-misinformation.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation and misinformationThe spread of false and misleading information poses significant risks to the well-being of people and s...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/oecd-report-on-public-communication_22f8031c-en/full-report/public-communication-responses-to-the-challenges-of-mis-and-disinformation_843573b6.html](https://www.oecd.org/en/publications/oecd-report-on-public-communication_22f8031c-en/full-report/public-communication-responses-to-the-challenges-of-mis-and-disinformation_843573b6.html)  
+   Link: <a href="https://www.oecd.org/en/publications/oecd-report-on-public-communication_22f8031c-en/full-report/public-communication-responses-to-the-challenges-of-mis-and-disinformation_843573b6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/oecd-report-on-public-communication_22f8031c-en/full-report/public-communication-responses-to-the-challenges-of-mis-and-disinformation_843573b6.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report of the independent High level Group on [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) and online disinformation.... misinformation on social media”, Postgraduate...R...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: advances.in  
    Title: A new study finds it works, even for those with a strong Russian identity  
-   Link: [https://advances.in/psychology/10.56296/aip00015/](https://advances.in/psychology/10.56296/aip00015/)  
+   Link: <a href="https://advances.in/psychology/10.56296/aip00015/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/aip00015/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity is key, but Inoculation helps – how to empower...by CT Ziemer · 2024 · Cited by 4 — Can &quot;inoculation&quot; fight pro-Kremlin disinfo...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: research-information.bris.ac.uk  
    Title: University of Bristol Lewandowsky, S., & Van Der Linden, S  
-   Link: [https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf](https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2021). Counteringby S Lewandowsky · 2021 · Cited by 1108 — We show that based on the available evidence, inoculation appears to be a pro...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cam.ac.uk  
-   Link: [https://www.cam.ac.uk/stories/inoculateexperiment](https://www.cam.ac.uk/stories/inoculateexperiment)  
+   Link: <a href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow">https://www.cam.ac.uk/stories/inoculateexperiment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of CambridgeHow to &#x27;inoculate&#x27; millions against misinformation on social...This “prebunking” strategy pre-emptively exposes p...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: global vaccination badnews  
-   Link: [https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/](https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewPrebunking interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 397 — This study fin...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Psychology](https://en.wikipedia.org/wiki/Psychology)  
+   Link: <a href="https://en.wikipedia.org/wiki/Psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PsychologyPsychology is the scientific study of the mind and behavior. Its subject matter includes the behavior of humans and nonhuman...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: stratcomcoe.org  
-   Link: [https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf](https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf)  
+   Link: <a href="https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>INOCULATION THEORY AND MISINFORMATIONAcross three levels, players learn about the use of emotionally manipulative language, the use of fa...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: joint-research-centre.ec.europa.eu  
-   Link: [https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-[debunking](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-[debunking)  
+   Link: <a href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-[debunking" target="_blank" rel="noopener noreferrer nofollow">https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-[debunking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and disinformation: both prebunking and...Oct 25, 2024 — A JRC-led study recently published in Nature now confirmed that both prebunking...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/132994/html/](https://committees.parliament.uk/writtenevidence/132994/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/132994/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/132994/html/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>use of cookiesCountering misinformation and fake news through inoculation and prebunking.... evidence for two prebunking interventions a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: firstdraftnews.org  
    Title: a guide to prebunking a promising way to inoculate against misinformation  
-   Link: [https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/](https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/)  
+   Link: <a href="https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A guide to prebunking: a promising way to inoculate against...29 Jun 2021 — The most accessible inoculation technique is prebunking — th...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=gDfQHWQwJ8Q](https://www.youtube.com/watch?v=gDfQHWQwJ8Q)  
+   Link: <a href="https://www.youtube.com/watch?v=gDfQHWQwJ8Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gDfQHWQwJ8Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking Manipulation Techniques: False DichotomiesIt&#x27;s a common manipulation technique called a false dichotomy or a false dilemma. It...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/41151144/](https://pubmed.ncbi.nlm.nih.gov/41151144/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedA signal detection theory meta-analysis of psychological...by A Simchon · Cited by 26 — The spread of harmful misinformation poses...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41151144/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41151144/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A signal detection theory meta-analysis of psychological...by A Simchon · Cited by 26 — The spread of harmful misinformation poses...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: repository.cam.ac.uk  
-   Link: [https://www.repository.cam.ac.uk/items/11d56920-f7ca-4552-b080-43edd3e9a163](https://www.repository.cam.ac.uk/items/11d56920-f7ca-4552-b080-43edd3e9a163)  
+   Link: <a href="https://www.repository.cam.ac.uk/items/11d56920-f7ca-4552-b080-43edd3e9a163" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/items/11d56920-f7ca-4552-b080-43edd3e9a163</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical thinking and misinformation vulnerability: experimental evidence...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: canada.ca  
    Title: countering disinformation guidebook public servants  
-   Link: [https://www.canada.ca/en/democratic-institutions/services/protecting-democratic-institutions/countering-disinformation-guidebook-public-servants.html](https://www.canada.ca/en/democratic-institutions/services/protecting-democratic-institutions/countering-disinformation-guidebook-public-servants.html)  
+   Link: <a href="https://www.canada.ca/en/democratic-institutions/services/protecting-democratic-institutions/countering-disinformation-guidebook-public-servants.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/democratic-institutions/services/protecting-democratic-institutions/countering-disinformation-guidebook-public-servants.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation: A Guidebook for Public Servants11 Jul 2024 — This guidebook is intended to provide an overview of disinformati...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: sciencelearn.org.nz  
    Title: manipulation tactics create an inoculation campaign  
-   Link: [https://www.sciencelearn.org.nz/resources/manipulation-tactics-create-an-inoculation-campaign](https://www.sciencelearn.org.nz/resources/manipulation-tactics-create-an-inoculation-campaign)  
+   Link: <a href="https://www.sciencelearn.org.nz/resources/manipulation-tactics-create-an-inoculation-campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencelearn.org.nz/resources/manipulation-tactics-create-an-inoculation-campaign</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Manipulation tactics – create an inoculation campaign30 June 2025 — Online algorithms, biases and incorrect information · Recognising fal...</p></details>
    Published: June 2025  
 
 29. <a id="endnote-29"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: [https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/](https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation: Systematic review and meta-analysis. Journal of...Read more...</p></details>

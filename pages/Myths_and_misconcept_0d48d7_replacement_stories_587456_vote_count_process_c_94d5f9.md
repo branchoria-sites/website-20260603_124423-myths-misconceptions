@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda
 - Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - rumour-gaps
 - vote-delays
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - rumour-gaps
 - vote-delays
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Explaining ballot verification and counting steps can replace a fraud rumour with a clearer account of why delays happen.
 hero_summary: Explaining ballot verification and counting steps can replace a fraud rumour with a clearer account of why delays happen.
 layout: default
 permalink: /vote-delays/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /rumour-gaps/
 nav_short_title: Vote Delays
 title: When Slow Counting Needs a Better Story
-title_full: When Slow Counting Needs a Better Story | Rumour Gaps
+title_full: When Slow Counting Needs a Better Story
 display_title_short: Vote Delays
 display_title: Vote Delays
 heading_title: When Slow Counting Needs a Better Story
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Debunks Need a Better Story | Mythcraft
+parent_title: Why Debunks Need a Better Story
 parent_permalink: /rumour-gaps/
 parent_nav_short_title: Rumour Gaps
 parent_heading_title: Why Debunks Need a Better Story
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When We Do Not Know Yet Is Better
 up_link:
   basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
@@ -259,7 +259,7 @@ prev_link:
   permalink: /uncertainty-3560c5/
   short_title: Uncertainty
   heading_title: When We Do Not Know Yet Is Better
-date: '2026-06-09 04:56:25 '
+date: '2026-06-11 22:17:31 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_vote_count_process_c_94d5f9-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_vote_count_process_c_94d5f9-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_vot
 
 ## Introduction
 
-Slow vote counts often become fertile ground for rumours because delays are highly visible while the administrative reasons behind them are not. When election results change over hours or days, some people reach for a simple explanation such as manipulation or hidden interference. A more useful [replacement story]({{ 'better-story-524703/' | relative_url }}) is often much less dramatic: election officials are carrying out verification, reconciliation, adjudication and [correction]({{ 'correction/' | relative_url }}) procedures designed to ensure that ballots are counted accurately before results become official. These processes can be slow, particularly when elections are close, when large numbers of postal ballots are involved, or when discrepancies require review. The key question is not simply why counting takes time, but how understanding the process can replace a misleading narrative with a clearer account of what officials are actually doing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/politics/interactive/2024/election-certification-presidential-results-challenges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">This process includes reconciliation, audits, and verification to ensure accuracy. Prolonged counting, as seen in Pennsylvania in 2020, c...</span></span></span>
-
+Slow vote counts often become fertile ground for rumours because delays are highly visible while the administrative reasons behind them are not. When election results change over hours or days, some people reach for a simple explanation such as manipulation or hidden interference. A more useful replacement story is often much less dramatic: election officials are carrying out verification, reconciliation, adjudication and [correction]({{ 'correction/' | relative_url }}) procedures designed to ensure that ballots are counted accurately before results become official. These processes can be slow, particularly when elections are close, when large numbers of postal ballots are involved, or when discrepancies require review. The key question is not simply why counting takes time, but how understanding the process can replace a misleading narrative with a clearer account of what officials are actually doing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/politics/interactive/2024/election-certification-presidential-results-challenges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">This process includes reconciliation, audits, and verification to ensure accuracy. Prolonged counting, as seen in Pennsylvania in 2020, c...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_vote_count_process_c_94d5f9-Illustration-1-dark.svg" | relative_url }}" alt="Vote Delays illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_vote_count_process_c_94d5f9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_vote_count_process_c_94d5f9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Delays Invite Simple Rumours
@@ -286,19 +285,20 @@ The strongest replacement story is usually procedural rather than argumentative.
 
 A typical count may involve:
 
+<div class="content-enhancement content-enhancement--decision" markdown="1">
+
 * Transporting sealed ballot boxes and associated paperwork from polling places to counting centres.
 * Verifying that the number of ballots matches the number of ballots issued or received.
 * Checking postal-ballot envelopes and voter information where required.
 * Separating and reviewing provisional or challenged ballots whose eligibility must be confirmed.
 * Adjudicating unclear or damaged ballots according to established rules.
-* Reconciling totals before results are finalised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.electoralcommission.org.uk/voting-and-elections/how-elections-work/how-votes-are-counted" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: electoralcommission.org.uk">[electoralcommission.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">electoralcommission.org.uk</span><span class="citation-popover-snippet">How votes are countedIf the count is taking place overnight then immediately after the polls close, polling station staff take the sealed...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.electoralcommission.org.uk/guidance-returning-officers-administering-local-government-elections-england/verification-and-count/count/reconciliation-count-totals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: electoralcommission.org.uk">[electoralcommission.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">electoralcommission.org.uk</span><span class="citation-popover-title">reconciliation count totals</span><span class="citation-popover-snippet">You must count all of the bundles and part bundles of ballot papers showing a valid vote for each candidate.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://votingrightslab.org/2024/06/24/ballot-verification-the-first-step-toward-securing-free-and-fair-elections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: votingrightslab.org">[Voting Rights Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">votingrightslab.org</span><span class="citation-popover-title">Voting Rights Lab Ballot Verification: The First Step Toward Securing Free</span><span class="citation-popover-snippet">Voters who cast their ballots by mail must also complete similarly rigorous verification procedures. In...Read more...</span></span></span>
+* Reconciling totals before results are finalised. [electoralcommission.org.uk+3electoralcommission.org.uk+3Voting Rights Lab]
+
+</div>
 
 Seen individually, these steps appear mundane. Collectively, they explain why counting is not always instantaneous. Each stage is designed to answer a specific question: Is this ballot authentic? Was it received correctly? Does the total number of ballots match the documented record? Has every ballot been assigned correctly?
 
 Once people understand these checkpoints, a delay becomes easier to interpret as evidence of procedure rather than evidence of wrongdoing.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HJr3MIsBpNc" title="WHY - Meaning and Pronunciation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HJr3MIsBpNc" target="_blank" rel="noopener noreferrer">WHY - Meaning and Pronunciation</a></p><p class="youtube-embed-meta">Channel: Accent Hero - British English &middot; Views: 1.4K &middot; Uploaded: March 2021 &middot; Length: 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HJr3MIsBpNc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HJr3MIsBpNc">Open on YouTube</a></p></div></div></div>
 
 ### Verification Before Counting
 
@@ -308,6 +308,7 @@ For postal ballots, election officials commonly inspect envelope information, si
 
 Similarly, provisional ballots are frequently set aside until eligibility questions can be resolved. Their delayed inclusion is not a sign that votes are being discovered unexpectedly; it reflects the fact that officials must first determine whether the ballot can legally be counted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csg.org/2024/10/30/provisional-ballots-mythbusters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csg.org">[csg.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csg.org</span><span class="citation-popover-title">provisional ballots mythbusters</span><span class="citation-popover-snippet">30 Oct 2024 — A provisional ballot, also known as a challenge or affidavit ballot, is a fail-safe method for states to ensure that all el...</span></span></span>
 
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_vote_count_process_c_94d5f9-Illustration-2-dark.svg" | relative_url }}" alt="Vote Delays illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_vote_count_process_c_94d5f9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_vote_count_process_c_94d5f9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reconciliation Before Certification
 
 Another source of delay is reconciliation. Election administrators do not simply total votes and stop. They compare the number of counted ballots with records showing how many ballots were issued, received or accepted.
@@ -316,8 +317,6 @@ Guidance for election officials emphasises that the final tally must reconcile w
 
 From the outside, this can look like an unexplained pause. From the inside, it is a quality-control mechanism designed to catch mistakes before results become official.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_vote_count_process_c_94d5f9-Illustration-2-dark.svg" | relative_url }}" alt="Vote Delays illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_vote_count_process_c_94d5f9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_vote_count_process_c_94d5f9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Corrections Sometimes Change Reported Totals
 
 One of the most misunderstood aspects of election administration is that correcting an error can cause numbers to change.
@@ -326,8 +325,7 @@ Many rumours treat any revision as evidence that something improper has occurred
 
 Human error can occur in ballot handling, reporting or tabulation. Election officials may discover mismatched paperwork, incorrectly recorded totals, equipment setup problems or procedural mistakes. When such issues are identified, officials often conduct recounts, audits or reconciliations to ensure that published results reflect the actual ballots cast. Real-world examples include jurisdictions that have recounted tens of thousands of ballots after procedural errors were discovered, not because new votes appeared but because existing votes needed to be verified and counted correctly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/[politics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">human error forces recount of 30000 absentee ballots in milwaukee</span><span class="citation-popover-snippet">PBS&#x27;Human error&#x27; forces recount of 30000 absentee ballots in...5 Nov 2024 — Election officials in Milwaukee are recounting more than 30...</span></span></span> VoxDev The important distinction is between a correction and a fabrication. A correction changes reported figures because an inconsistency has been <span class="citation-chip-wrap"><a class="citation-chip" href="https://voxdev.org/topic/institutions-political-economy/impact-human-error-vote-tallies-evidence-mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voxdev.org">[voxdev.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voxdev.org</span><span class="citation-popover-snippet">The impact of human error in vote tallies: Evidence from...by C Challu — Human error in vote counting leads to inconsistencies in vote t...</span></span></span> identified and addressed. The change is the visible outcome of a control process, not evidence that no controls exist.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nKLfjklpWLs" title="Data expert weighs in on the latest ballot totals for LA mayoral and California gubernatorial races" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nKLfjklpWLs" target="_blank" rel="noopener noreferrer">Data expert weighs in on the latest ballot totals for LA mayoral and California gubernatorial races</a></p><p class="youtube-embed-meta">Channel: CBS LA</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nKLfjklpWLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nKLfjklpWLs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HJr3MIsBpNc" title="WHY - Meaning and Pronunciation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HJr3MIsBpNc" target="_blank" rel="noopener noreferrer">WHY - Meaning and Pronunciation</a></p><p class="youtube-embed-meta">Channel: Accent Hero - British English &middot; Views: 1.4K &middot; Uploaded: March 2021 &middot; Length: 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HJr3MIsBpNc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HJr3MIsBpNc">Open on YouTube</a></p></div></div></div>
 
 ## When Accuracy and Speed Pull in Different Directions
 
@@ -337,15 +335,11 @@ Additional checks increase [confidence]({{ 'confidence/' | relative_url }}) that
 
 This creates a counterintuitive reality: a slower count can sometimes reflect more extensive verification rather than greater dysfunction. The mere existence of delay tells observers little about the integrity of the election unless they understand what work is being performed during that period.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8SdSfj16kY0" title="How Do Election Results Become Official?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8SdSfj16kY0" target="_blank" rel="noopener noreferrer">How Do Election Results Become Official?</a></p><p class="youtube-embed-meta">Channel: First Time Voter Expert</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8SdSfj16kY0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8SdSfj16kY0">Open on YouTube</a></p></div></div></div>
-
 ## Where Explanations Can Avoid Repeating the Myth
 
 When rumours arise around delayed counts, explanations are most effective when they focus on process rather than endlessly repeating the allegation.
 
 A useful explanation might say:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -359,8 +353,7 @@ A useful explanation might say:
 
 These explanations answer the underlying question that fuels the rumour: why are the numbers changing or taking so long? By supplying a concrete procedural account, they reduce the temptation to fill the gap with speculation.
 
-In the context of [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}), the lesson is straightforward. Delays in vote counting often become suspicious only when the process remains invisible. Once verification, reconciliation and correction procedures are made visible, a slower count can be understood not as a mystery requiring a rumour, but as a routine part of making sure the final result is accurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsl.org/elections-and-[campaigns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsl.org">[NCSL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsl.org</span><span class="citation-popover-snippet">Report Post-Election AuditsA post-election tabulation audit—often known as a post-election audit or PEA—checks that the equipment and pro...</span></span></span>
-
+In the context of myths and misconceptions, the lesson is straightforward. Delays in vote counting often become suspicious only when the process remains invisible. Once verification, reconciliation and correction procedures are made visible, a slower count can be understood not as a mystery requiring a rumour, but as a routine part of making sure the final result is accurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsl.org/elections-and-[campaigns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsl.org">[NCSL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsl.org</span><span class="citation-popover-snippet">Report Post-Election AuditsA post-election tabulation audit—often known as a post-election audit or PEA—checks that the equipment and pro...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_vote_count_process_c_94d5f9-Illustration-3-dark.svg" | relative_url }}" alt="Vote Delays illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_vote_count_process_c_94d5f9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_vote_count_process_c_94d5f9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -760,141 +753,141 @@ In the context of [myths and misconceptions]({{ 'myths-and-misconceptions/' | re
 
 1. <a id="endnote-1"></a>
    Source: electoralcommission.org.uk  
-   Link: [https://www.electoralcommission.org.uk/voting-and-elections/how-elections-work/how-votes-are-counted](https://www.electoralcommission.org.uk/voting-and-elections/how-elections-work/how-votes-are-counted)  
+   Link: <a href="https://www.electoralcommission.org.uk/voting-and-elections/how-elections-work/how-votes-are-counted" target="_blank" rel="noopener noreferrer nofollow">https://www.electoralcommission.org.uk/voting-and-elections/how-elections-work/how-votes-are-counted</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How votes are countedIf the count is taking place overnight then immediately after the polls close, polling station staff take the sealed...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: time.com  
-   Link: [https://time.com/7022314/election-night-2024-results-[timing](https://time.com/7022314/election-night-2024-results-[timing)  
+   Link: <a href="https://time.com/7022314/election-night-2024-results-[timing" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7022314/election-night-2024-results-[timing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts highlight that a close race between Vice President Kamala Harris and former President Donald Trump, along with the time-consuming...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sos.ca.gov  
-   Link: [https://www.sos.ca.gov/administration/regulations/current-regulations/elections/signature-verification-ballot-processing-and-ballot-counting-emergency-regulations](https://www.sos.ca.gov/administration/regulations/current-regulations/elections/signature-verification-ballot-processing-and-ballot-counting-emergency-regulations)  
+   Link: <a href="https://www.sos.ca.gov/administration/regulations/current-regulations/elections/signature-verification-ballot-processing-and-ballot-counting-emergency-regulations" target="_blank" rel="noopener noreferrer nofollow">https://www.sos.ca.gov/administration/regulations/current-regulations/elections/signature-verification-ballot-processing-and-ballot-counting-emergency-regulations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Signature Verification, Ballot Processing, and...The regulations set forth in this Chapter shall apply to ballots cast in elections held...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: csg.org  
    Title: provisional ballots mythbusters  
-   Link: [https://www.csg.org/2024/10/30/provisional-ballots-mythbusters/](https://www.csg.org/2024/10/30/provisional-ballots-mythbusters/)  
+   Link: <a href="https://www.csg.org/2024/10/30/provisional-ballots-mythbusters/" target="_blank" rel="noopener noreferrer nofollow">https://www.csg.org/2024/10/30/provisional-ballots-mythbusters/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Oct 2024 — A provisional ballot, also known as a challenge or affidavit ballot, is a fail-safe method for states to ensure that all el...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: electoralcommission.org.uk  
    Title: reconciliation count totals  
-   Link: [https://www.electoralcommission.org.uk/guidance-returning-officers-administering-local-government-elections-england/verification-and-count/count/reconciliation-count-totals](https://www.electoralcommission.org.uk/guidance-returning-officers-administering-local-government-elections-england/verification-and-count/count/reconciliation-count-totals)  
+   Link: <a href="https://www.electoralcommission.org.uk/guidance-returning-officers-administering-local-government-elections-england/verification-and-count/count/reconciliation-count-totals" target="_blank" rel="noopener noreferrer nofollow">https://www.electoralcommission.org.uk/guidance-returning-officers-administering-local-government-elections-england/verification-and-count/count/reconciliation-count-totals</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>You must count all of the bundles and part bundles of ballot papers showing a valid vote for each candidate.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pbs.org  
    Title: human error forces recount of 30000 absentee ballots in milwaukee  
-   Link: [https://www.pbs.org/newshour/[politics](https://www.pbs.org/newshour/[politics)  
+   Link: <a href="https://www.pbs.org/newshour/[politics" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/[politics</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PBS&#x27;Human error&#x27; forces recount of 30000 absentee ballots in...5 Nov 2024 — Election officials in Milwaukee are recounting more than 30...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: voxdev.org  
-   Link: [https://voxdev.org/topic/institutions-political-economy/impact-human-error-vote-tallies-evidence-mexico](https://voxdev.org/topic/institutions-political-economy/impact-human-error-vote-tallies-evidence-mexico)  
+   Link: <a href="https://voxdev.org/topic/institutions-political-economy/impact-human-error-vote-tallies-evidence-mexico" target="_blank" rel="noopener noreferrer nofollow">https://voxdev.org/topic/institutions-political-economy/impact-human-error-vote-tallies-evidence-mexico</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of human error in vote tallies: Evidence from...by C Challu — Human error in vote counting leads to inconsistencies in vote t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ncsl.org  
-   Link: [https://www.ncsl.org/elections-and-[campaigns](https://www.ncsl.org/elections-and-[campaigns)  
+   Link: <a href="https://www.ncsl.org/elections-and-[campaigns" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsl.org/elections-and-[campaigns</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report Post-Election AuditsA post-election tabulation audit—often known as a post-election audit or PEA—checks that the equipment and pro...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/politics/interactive/2024/election-certification-presidential-results-challenges/](https://www.washingtonpost.com/politics/interactive/2024/election-certification-presidential-results-challenges/)  
+   Link: <a href="https://www.washingtonpost.com/politics/interactive/2024/election-certification-presidential-results-challenges/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/politics/interactive/2024/election-certification-presidential-results-challenges/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This process includes reconciliation, audits, and verification to ensure accuracy. Prolonged counting, as seen in Pennsylvania in 2020, c...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: votingrightslab.org  
    Title: Voting Rights Lab Ballot Verification: The First Step Toward Securing Free  
-   Link: [https://votingrightslab.org/2024/06/24/ballot-verification-the-first-step-toward-securing-free-and-fair-elections/](https://votingrightslab.org/2024/06/24/ballot-verification-the-first-step-toward-securing-free-and-fair-elections/)  
+   Link: <a href="https://votingrightslab.org/2024/06/24/ballot-verification-the-first-step-toward-securing-free-and-fair-elections/" target="_blank" rel="noopener noreferrer nofollow">https://votingrightslab.org/2024/06/24/ballot-verification-the-first-step-toward-securing-free-and-fair-elections/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Voters who cast their ballots by mail must also complete similarly rigorous verification procedures. In...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aceproject.org  
-   Link: [https://aceproject.org/main/english/po/poh04a01.htm](https://aceproject.org/main/english/po/poh04a01.htm)  
+   Link: <a href="https://aceproject.org/main/english/po/poh04a01.htm" target="_blank" rel="noopener noreferrer nofollow">https://aceproject.org/main/english/po/poh04a01.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconciliation of Ballots or Envelopes Received —Any discrepancy between the initial calculation of total ballots at the voting station a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/why](https://www.merriam-webster.com/dictionary/why)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/why" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning22 May 2026 — 1. The cause, reason, or purpose for which know why you did it that is why you did it 2. For which: on...</p></details>
    Published: May 2026  
 
 13. <a id="endnote-13"></a>
    Source: votingrightslab.org  
    Title: ballot hand counts lead to inaccuracy  
-   Link: [https://votingrightslab.org/2024/02/27/ballot-hand-counts-lead-to-inaccuracy/](https://votingrightslab.org/2024/02/27/ballot-hand-counts-lead-to-inaccuracy/)  
+   Link: <a href="https://votingrightslab.org/2024/02/27/ballot-hand-counts-lead-to-inaccuracy/" target="_blank" rel="noopener noreferrer nofollow">https://votingrightslab.org/2024/02/27/ballot-hand-counts-lead-to-inaccuracy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Feb 2024 — The growing push in some states to ban electronic tabulation machines and force the hand counting of ballots...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Why](https://en.wikipedia.org/wiki/Why)  
+   Link: <a href="https://en.wikipedia.org/wiki/Why" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why - WikipediaReason (argument), a premise in support of an argument, for what reason or purpose; Grounding (metaphysics), a topic in...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=HJr3MIsBpNc](https://www.youtube.com/watch?v=HJr3MIsBpNc)  
+   Link: <a href="https://www.youtube.com/watch?v=HJr3MIsBpNc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HJr3MIsBpNc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WHY - Meaning and PronunciationHow to pronounce why? This video provides examples of British English pronunciations of why by male and fe...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/why](https://dictionary.cambridge.org/dictionary/english/why)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge DictionaryWHY definition: 1. for what reason: 2. used to express surprise or anger: 3. the reasons for some...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/why" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/why</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryWHY definition: 1. for what reason: 2. used to express surprise or anger: 3. the reasons for some...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: fvap.gov  
-   Link: [https://www.fvap.gov/uploads/FVAP/CRA-Report_C.1.VTDb_20130228.pdf](https://www.fvap.gov/uploads/FVAP/CRA-Report_C.1.VTDb_20130228.pdf)  
+   Link: <a href="https://www.fvap.gov/uploads/FVAP/CRA-Report_C.1.VTDb_20130228.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fvap.gov/uploads/FVAP/CRA-Report_C.1.VTDb_20130228.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A voter provides incorrect information. Out-of-date election resources, human error human- unintentional voter. None provided...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ballotpedia.org  
-   Link: [https://ballotpedia.org/Factors_affecting_the_speed_of_ballot_counting_and_delivery_of_unofficial_election_results%2C_with_a_case_study_of_California_and_Florida](https://ballotpedia.org/Factors_affecting_the_speed_of_ballot_counting_and_delivery_of_unofficial_election_results%2C_with_a_case_study_of_California_and_Florida)  
+   Link: <a href="https://ballotpedia.org/Factors_affecting_the_speed_of_ballot_counting_and_delivery_of_unofficial_election_results%2C_with_a_case_study_of_California_and_Florida" target="_blank" rel="noopener noreferrer nofollow">https://ballotpedia.org/Factors_affecting_the_speed_of_ballot_counting_and_delivery_of_unofficial_election_results%2C_with_a_case_study_of_California_and_Florida</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Factors affecting the speed of ballot counting and delivery...21 Apr 2025 — In some states, unofficial election results are usually repo...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: langeek.co  
-   Link: [https://langeek.co/en/grammar/course/491/why](https://langeek.co/en/grammar/course/491/why)  
+   Link: <a href="https://langeek.co/en/grammar/course/491/why" target="_blank" rel="noopener noreferrer nofollow">https://langeek.co/en/grammar/course/491/why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use &quot;Why&quot; in the English GrammarWhy as an interrogative adverb asks questions about the reason for something, gives suggestions, o...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: collinsdictionary.com  
-   Link: [https://www.collinsdictionary.com/dictionary/english/why](https://www.collinsdictionary.com/dictionary/english/why)  
+   Link: <a href="https://www.collinsdictionary.com/dictionary/english/why" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WHY definition and meaning | Collins English Dictionary4 meanings: 1. a. for what reason, purpose, or cause? b. (used in indirect questio...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: vote4mentalhealth.org  
-   Link: [https://vote4mentalhealth.org/process/](https://vote4mentalhealth.org/process/)  
+   Link: <a href="https://vote4mentalhealth.org/process/" target="_blank" rel="noopener noreferrer nofollow">https://vote4mentalhealth.org/process/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If you vote in person, your ballot will be counted after the polls close on Election Day. If you voted with a paper ballot...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: electionsgroup.com  
    Title: Ballot Proofing: Ensuring Accuracy in Elections Understanding the Guide  
-   Link: [https://electionsgroup.com/resource/ballot-proofing-guide/](https://electionsgroup.com/resource/ballot-proofing-guide/)  
+   Link: <a href="https://electionsgroup.com/resource/ballot-proofing-guide/" target="_blank" rel="noopener noreferrer nofollow">https://electionsgroup.com/resource/ballot-proofing-guide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Election administration requires precision and accuracy. Generating accurate ballots is critical to running a successful election. A...R...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: journals.sagepub.com  
    Title: Millions of voters cast VBM ballots every election,  
-   Link: [https://journals.sagepub.com/doi/10.1177/10659129261417974](https://journals.sagepub.com/doi/10.1177/10659129261417974)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/10659129261417974" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/10659129261417974</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vote-by-Mail Ballots: The Subjective Nature of...20 Jan 2026 — Vote-by-mail (VBM) is an established electoral practice across the United...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/grammar/comments/8cpyrx/what_do_they_mean_when_people_use_why_in_a/](https://www.reddit.com/r/grammar/comments/8cpyrx/what_do_they_mean_when_people_use_why_in_a/)  
+   Link: <a href="https://www.reddit.com/r/grammar/comments/8cpyrx/what_do_they_mean_when_people_use_why_in_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/grammar/comments/8cpyrx/what_do_they_mean_when_people_use_why_in_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aying &quot;indeed&quot; or (the more outdated) &quot;I declare.&quot; Examples:.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BillRitterABC7/posts/a-low-level-staffer-for-board-of-elections-apparently-didnt-erase-the-testing-nu/358482428961143/](https://www.facebook.com/BillRitterABC7/posts/a-low-level-staffer-for-board-of-elections-apparently-didnt-erase-the-testing-nu/358482428961143/)  
+   Link: <a href="https://www.facebook.com/BillRitterABC7/posts/a-low-level-staffer-for-board-of-elections-apparently-didnt-erase-the-testing-nu/358482428961143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BillRitterABC7/posts/a-low-level-staffer-for-board-of-elections-apparently-didnt-erase-the-testing-nu/358482428961143/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e testing numbers on the computer - thereby adding 135000 testing...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: theguardian.com  
    Title: The Guardian What is voter certification  
-   Link: [https://www.theguardian.com/us-news/2024/nov/11/what-is-election-certification](https://www.theguardian.com/us-news/2024/nov/11/what-is-election-certification)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/nov/11/what-is-election-certification" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/11/what-is-election-certification</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It became highly scrutinized after the 2020 US presidential election when Donald Trump and his allies questioned the results and targeted...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_misconceptions_feel_49be60
 - Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - key-terms
 - myth-to-model
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - key-terms
 - myth-to-model
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A repeated claim can become the starting point for a larger mistaken model about health, intelligence, history or science.
 hero_summary: A repeated claim can become the starting point for a larger mistaken model about health, intelligence, history or science.
 layout: default
 permalink: /myth-to-model/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /key-terms/
 nav_short_title: Myth to Model
 title: When Repeated Claims Shape Understanding
-title_full: When Repeated Claims Shape Understanding | Key Terms
+title_full: When Repeated Claims Shape Understanding
 display_title_short: Myth to Model
 display_title: Myth to Model
 heading_title: When Repeated Claims Shape Understanding
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: 'Myth or Misconception: What Is the Difference? | Mythcraft'
+parent_title: 'Myth or Misconception: What Is the Difference?'
 parent_permalink: /key-terms/
 parent_nav_short_title: Key Terms
 parent_heading_title: 'Myth or Misconception: What Is the Difference?'
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Is It a Myth or a Misconception?
 up_link:
   basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
@@ -265,7 +265,7 @@ next_link:
   permalink: /tell-them-apart/
   short_title: Tell Them Apart
   heading_title: Is It a Myth or a Misconception?
-date: '2026-06-09 05:36:19 '
+date: '2026-06-11 22:37:21 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-1.webp
@@ -274,11 +274,10 @@ image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_my
 
 ## Introduction
 
-A myth does not stay confined to a single false claim. Once a repeated story becomes familiar enough, people often begin using it as a building block for understanding other things. At that point, the myth stops functioning merely as a rumour or cultural cliché and starts acting as a misconception: a mistaken model that shapes reasoning, expectations and decisions.
-
+A myth does not stay confined to a single false claim. Once a repeated story becomes familiar enough, people often begin using it as a building block for understanding other things. At that point, the myth stops functioning merely as a rumour or cultural clich and starts acting as a misconception: a mistaken model that shapes reasoning, expectations and decisions.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-1-dark.svg" | relative_url }}" alt="Myth to Model illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This transition matters because correcting one factual error is usually easier than correcting an entire explanatory framework. A person who has absorbed a famous myth may not simply believe one false statement. They may use that statement to explain intelligence, health, history, human behaviour or scientific evidence. The result is a deeper misunderstanding that feels coherent from the inside, even when its foundations are wrong. Research on the “illusory truth effect” shows that repeated claims become more believable through familiarity alone, helping myths acquire the authority needed to reorganise reasoning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 122 — Repetition increases belief in in...</span></span></span>
+This transition matters because correcting one factual error is usually easier than correcting an entire explanatory framework. A person who has absorbed a famous myth may not simply believe one false statement. They may use that statement to explain intelligence, health, history, human behaviour or scientific evidence. The result is a deeper misunderstanding that feels coherent from the inside, even when its foundations are wrong. Research on the illusory truth effect shows that repeated claims become more believable through familiarity alone, helping myths acquire the authority needed to reorganise reasoning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry  2024  Cited by 122  Repetition increases belief in in...</span></span></span>
 
 ## How a Shared Story Seeds a Private Explanation
 
@@ -288,14 +287,11 @@ A person first encounters a claim socially. It may arrive through family convers
 
 Later, the claim becomes part of an individual's explanatory system. Instead of merely repeating it, they begin using it to interpret new information. The myth becomes a lens.
 
-Consider the famous claim that humans use only 10 per cent of their brains. As a myth, it is simply a repeated statement. As a misconception, it becomes a framework for understanding intelligence and human potential. People may conclude that hidden mental powers exist, that genius comes from activating unused brain regions, or that extraordinary cognitive abilities remain dormant in most people. The original claim generates an entire network of mistaken conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our Brains29 Aug 2018 — It was the basis of the movie Lucy (2014), which de...</span></span></span>
+Consider the famous claim that humans use only 10 per cent of their brains. As a myth, it is simply a repeated statement. As a misconception, it becomes a framework for understanding intelligence and human potential. People may conclude that hidden mental powers exist, that genius comes from activating unused brain regions, or that extraordinary cognitive abilities remain dormant in most people. The original claim generates an entire network of mistaken conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our Brains29 Aug 2018  It was the basis of the movie Lucy (2014), which de...</span></span></span>
 
 This process helps explain why some false beliefs prove remarkably durable. They are no longer isolated facts waiting to be corrected. They have become structural supports inside a larger mental model.
 
-Educational researchers have long noted that misconceptions often function as coherent systems rather than disconnected errors. Once a myth becomes part of such a system, removing it can create a gap in how a person explains the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMisconceptions Yesterday, Today, and Tomorrow</span><span class="citation-popover-snippet">PMC - NIHby MJ Leonard · 2014 · Cited by 175 — We review the use and meaning of the term misconceptions in education research today, desc...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhgwIhB58PA" title="The Biggest Myth In Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer">The Biggest Myth In Education</a></p><p class="youtube-embed-meta">Channel: Veritasium</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhgwIhB58PA">Open on YouTube</a></p></div></div></div>
+Educational researchers have long noted that misconceptions often function as coherent systems rather than disconnected errors. Once a myth becomes part of such a system, removing it can create a gap in how a person explains the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMisconceptions Yesterday, Today, and Tomorrow</span><span class="citation-popover-snippet">NIHby MJ Leonard  2014  Cited by 175  We review the use and meaning of the term misconceptions in education research today, desc...</span></span></span>
 
 ## Why Repetition Changes More Than Belief
 
@@ -319,21 +315,19 @@ In other words, repetition does not simply strengthen a belief. It can change th
 
 This is why myth [correction]({{ 'correction/' | relative_url }}) [campaigns]({{ 'campaigns/' | relative_url }}) often face difficulties. A myth may survive not because people have never encountered the correct information, but because the myth already provides an organising framework. Facts compete not only with the original claim but with the broader explanatory system that has grown around it.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Utp23dLL4Xk" title="The Illusory Truth Effect Of Our Own Words + Reflections On Suffering w/ Eric Ajna | DN Episode #82" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Utp23dLL4Xk" target="_blank" rel="noopener noreferrer">The Illusory Truth Effect Of Our Own Words + Reflections On Suffering w/ Eric Ajna | DN Episode #82</a></p><p class="youtube-embed-meta">Channel: Divine Nobodies Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Utp23dLL4Xk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Utp23dLL4Xk">Open on YouTube</a></p></div></div></div>
-
 ## When Famous Claims Become Worldviews
 
 Some myths become influential because they appear to explain complex subjects with a single memorable idea.
 
 ### Health and Human Potential
 
-Claims about hidden bodily capacities often evolve into larger misconceptions about medicine and performance. The 10 per cent brain myth is one example, but similar patterns appear in claims about “unlocking” unused abilities, miracle cures or detoxification processes.
+Claims about hidden bodily capacities often evolve into larger misconceptions about medicine and performance. The 10 per cent brain myth is one example, but similar patterns appear in claims about unlocking unused abilities, miracle cures or detoxification processes.
 
-The attraction lies partly in narrative simplicity. A difficult problem—learning, intelligence, illness or ageing—receives an apparently straightforward explanation. Once accepted, the claim encourages people to interpret future experiences through that framework. A temporary improvement in mood may become evidence of “activated brain power”. A subjective feeling after a treatment may be interpreted as proof that toxins were removed.
+The attraction lies partly in narrative simplicity. A difficult problemlearning, intelligence, illness or ageingreceives an apparently straightforward explanation. Once accepted, the claim encourages people to interpret future experiences through that framework. A temporary improvement in mood may become evidence of activated brain power. A subjective feeling after a treatment may be interpreted as proof that toxins were removed.
 
 The myth thus expands into a broader theory of how the body works.
 
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-2-dark.svg" | relative_url }}" alt="Myth to Model illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Science and Everyday Observation
 
 Many scientific misconceptions originate in observations that seem obvious.
@@ -344,8 +338,6 @@ When these explanations become culturally repeated, they gain the status of myth
 
 The distinction matters because the resulting misunderstanding is no longer about a single experiment or fact. It concerns the underlying rules people think govern reality.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-2-dark.svg" | relative_url }}" alt="Myth to Model illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### History and National Memory
 
 Historical myths often create especially powerful misconceptions because they help explain [identity]({{ 'identity/' | relative_url }}) and social belonging.
@@ -354,6 +346,7 @@ A repeated story about a nation's past can gradually become a framework through 
 
 In these cases, the misconception is not merely factual. It becomes interpretive. People use the myth to decide what events mean.
 
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-3-dark.svg" | relative_url }}" alt="Myth to Model illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Corrections Often Fail
 
 A common assumption is that misconceptions disappear once accurate information becomes available. Yet many famous myths remain influential despite decades of correction.
@@ -366,17 +359,13 @@ A misconception often survives because it answers questions. It explains why som
 
 For example, telling someone that humans use far more than 10 per cent of their brains addresses the myth itself. It does not automatically replace the larger belief that exceptional abilities are hidden and waiting to be unlocked. Unless an alternative explanation is offered, parts of the old model may remain intact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
 
-Researchers studying misconceptions in education frequently find that learners can memorise correct answers while continuing to rely on older intuitive models in practice. The misconception persists beneath the surface because it still feels explanatory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMisconceptions Yesterday, Today, and Tomorrow</span><span class="citation-popover-snippet">PMC - NIHby MJ Leonard · 2014 · Cited by 175 — We review the use and meaning of the term misconceptions in education research today, desc...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WZQjfCQritU" title="The Biggest Misconceptions About Pain Therapists Still Believe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WZQjfCQritU" target="_blank" rel="noopener noreferrer">The Biggest Misconceptions About Pain Therapists Still Believe</a></p><p class="youtube-embed-meta">Channel: PT Pro Talk Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WZQjfCQritU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WZQjfCQritU">Open on YouTube</a></p></div></div></div>
+Researchers studying misconceptions in education frequently find that learners can memorise correct answers while continuing to rely on older intuitive models in practice. The misconception persists beneath the surface because it still feels explanatory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMisconceptions Yesterday, Today, and Tomorrow</span><span class="citation-popover-snippet">NIHby MJ Leonard  2014  Cited by 175  We review the use and meaning of the term misconceptions in education research today, desc...</span></span></span>
 
 ## How to Spot a Myth That Has Become a Misconception
 
 One useful question is whether the claim merely exists as a slogan or whether it actively guides reasoning.
 
 Signs that a myth has become a deeper misconception include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -390,13 +379,11 @@ Signs that a myth has become a deeper misconception include:
 
 A repeated claim about intelligence, health or history is most dangerous when it stops sounding like a claim at all. It becomes an invisible premise.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-3-dark.svg" | relative_url }}" alt="Myth to Model illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Myth to Model
 
 The most significant misunderstandings often begin with surprisingly simple ideas. A catchy phrase, memorable statistic or widely repeated story gains familiarity through repetition. Over time, familiarity creates credibility. Credibility allows the claim to function as an explanation. Eventually, that explanation becomes a model for understanding the world.
 
-This is the point where [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) overlap most strongly. The myth supplies the socially repeated narrative. The misconception emerges when that narrative becomes part of a person's reasoning system.
+This is the point where myths and misconceptions overlap most strongly. The myth supplies the socially repeated narrative. The misconception emerges when that narrative becomes part of a person's reasoning system.
 
 Understanding this transition helps explain why some false beliefs survive correction efforts for generations. People are not only defending a claim. They are defending a model that helps make sense of their experience. Changing the belief therefore requires more than disproving a statement; it often requires replacing an entire way of understanding.
 
@@ -565,11 +552,11 @@ Understanding this transition helps explain why some false beliefs survive corre
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom Educational Posters - 20pcs 16â€� x 11â€� - Teacher Classroom Must Have..."><img src="{{ '/assets/images/marketplace-covers/e92cf70e662e4f29850a.jpg' | relative_url }}" alt="Listing image for Classroom Educational Posters - 20pcs 16â€� x 11â€� - Teacher Classroom Must Have..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..."><img src="{{ '/assets/images/marketplace-covers/e92cf70e662e4f29850a.jpg' | relative_url }}" alt="Listing image for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Classroom Educational Posters - 20pcs 16â€� x 11â€� - Teacher Classroom Must Have...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have...</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
         <div class="fr-book-actions">
@@ -797,102 +784,102 @@ Understanding this transition helps explain why some false beliefs survive corre
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: [https://en.wikipedia.org/wiki/Illusory_truth_effect](https://en.wikipedia.org/wiki/Illusory_truth_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811](https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 122 — Repetition increases belief in in...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry  2024  Cited by 122  Repetition increases belief in in...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Ten-percent-of-the-brain myth  
-   Link: [https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth](https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth</a>  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMisconceptions Yesterday, Today, and Tomorrow  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby MJ Leonard · 2014 · Cited by 175 — We review the use and meaning of the term misconceptions in education research today, desc...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby MJ Leonard  2014  Cited by 175  We review the use and meaning of the term misconceptions in education research today, desc...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2211949325000146](https://www.sciencedirect.com/science/article/pii/S2211949325000146)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-service teachers&#x27; misconceptions about brain and mind...by D Opre · 2025 · Cited by 4 — We investigate educational misconceptions th...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211949325000146" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211949325000146</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-service teachers&#x27; misconceptions about brain and mind...by D Opre  2025  Cited by 4  We investigate educational misconceptions th...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Psychology](https://en.wikipedia.org/wiki/Psychology)  
+   Link: <a href="https://en.wikipedia.org/wiki/Psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychology</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PsychologyPsychology is the scientific study of the mind and behavior.... Its subject matter includes the behavior of humans and nonh...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: psychologicalscience.org  
    Title: myth we only use 10 of our brains  
-   Link: [https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html](https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceMyth: We Only Use 10% of Our Brains29 Aug 2018 — It was the basis of the movie Lucy (2014), which de...</p></details>
+   Link: <a href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceMyth: We Only Use 10% of Our Brains29 Aug 2018  It was the basis of the movie Lucy (2014), which de...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Illusory truth effect  
-   Link: [https://thedecisionlab.com/biases/illusory-truth-effect](https://thedecisionlab.com/biases/illusory-truth-effect)  
+   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect - The Decision...The illusory truth effect, also known as the illusion of truth, describes how when we hear the sa...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: journalofcognition.org  
-   Link: [https://journalofcognition.org/articles/10.5334/joc.161](https://journalofcognition.org/articles/10.5334/joc.161)  
+   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.161</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>illusory truth effect is measured by comparing truth ratings for repeated versus new statements.... Source recollection, statement famil...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/psychology/illusory-truth-effect](https://www.ebsco.com/research-starters/psychology/illusory-truth-effect)  
+   Link: <a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/</a>  
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38113667/](https://pubmed.ncbi.nlm.nih.gov/38113667/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 122 — Repetition increases belief in informati...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38113667/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry  2024  Cited by 122  Repetition increases belief in informati...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: plymouth.ac.uk  
-   Link: [https://www.plymouth.ac.uk/discover/myths-of-the-brain](https://www.plymouth.ac.uk/discover/myths-of-the-brain)  
+   Link: <a href="https://www.plymouth.ac.uk/discover/myths-of-the-brain" target="_blank" rel="noopener noreferrer nofollow">https://www.plymouth.ac.uk/discover/myths-of-the-brain</a>  
 
 14. <a id="endnote-14"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/illusory](https://www.merriam-webster.com/dictionary/illusory)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/illusory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningillusory implies a false impression based on deceptive resemblance or faulty observation, or influenced by e...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/us/basics/illusory-truth-effect](https://www.psychologytoday.com/us/basics/illusory-truth-effect)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectStudies show that repetition increases the perception of validity—even when people start out knowing that the inform...</p></details>
+   Link: <a href="https://www.psychologytoday.com/us/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/illusory-truth-effect</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectStudies show that repetition increases the perception of validityeven when people start out knowing that the inform...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/gb/basics/illusory-truth-effect](https://www.psychologytoday.com/gb/basics/illusory-truth-effect)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectThe illusory truth effect is the tendency for any statement that is repeated frequently—whether it is factually true...</p></details>
+   Link: <a href="https://www.psychologytoday.com/gb/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/illusory-truth-effect</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectThe illusory truth effect is the tendency for any statement that is repeated frequentlywhether it is factually true...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/ed/precollege/topss/science/myths-misconceptions](https://www.apa.org/ed/precollege/topss/science/myths-misconceptions)  
+   Link: <a href="https://www.apa.org/ed/precollege/topss/science/myths-misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/ed/precollege/topss/science/myths-misconceptions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Myths and Misconceptions About PsychologyExplores common misperceptions that lead people to believe that psychology is not a science. For...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: news.vanderbilt.edu  
-   Link: [https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/](https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>shows that repeated statements are more often...6 Oct 2020 — This has been replicated many times in existing research studies and is kno...</p></details>
+   Link: <a href="https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>shows that repeated statements are more often...6 Oct 2020  This has been replicated many times in existing research studies and is kno...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: communicatingpsychologicalscience.com  
-   Link: [https://www.communicatingpsychologicalscience.com/blog/misconceptions-research-project-the-myth-that-we-only-use-10-of-our-brains](https://www.communicatingpsychologicalscience.com/blog/misconceptions-research-project-the-myth-that-we-only-use-10-of-our-brains)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wer stems from the notion that using 100% of one&#x27;s brain power will give people “psychic...Read more...</p></details>
+   Link: <a href="https://www.communicatingpsychologicalscience.com/blog/misconceptions-research-project-the-myth-that-we-only-use-10-of-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://www.communicatingpsychologicalscience.com/blog/misconceptions-research-project-the-myth-that-we-only-use-10-of-our-brains</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>wer stems from the notion that using 100% of one&#x27;s brain power will give people psychic...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/235927308_Misconceptions_about_Psychological_Science_A_Review](https://www.researchgate.net/publication/235927308_Misconceptions_about_Psychological_Science_A_Review)  
+   Link: <a href="https://www.researchgate.net/publication/235927308_Misconceptions_about_Psychological_Science_A_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235927308_Misconceptions_about_Psychological_Science_A_Review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions about Psychological Science: A ReviewThis article provides an overview of the available evidence on psychological misconce...</p></details>

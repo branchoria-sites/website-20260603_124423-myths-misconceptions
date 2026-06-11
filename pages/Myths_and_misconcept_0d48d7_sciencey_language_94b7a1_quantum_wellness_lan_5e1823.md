@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5
 - Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_untestable_healing_c_01f975
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - sciencey-words
 - quantum-claims
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - sciencey-words
 - quantum-claims
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Words like 'quantum', 'frequency' and 'resonance' can make vague wellness products sound precise without adding a testable claim.
 hero_summary: Words like 'quantum', 'frequency' and 'resonance' can make vague wellness products sound precise without adding a testable claim.
 layout: default
 permalink: /quantum-claims/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /sciencey-words/
 nav_short_title: Quantum Claims
 title: Why 'Quantum' Makes Weak Claims Sound Deeper
-title_full: Why 'Quantum' Makes Weak Claims Sound Deeper | Sciencey Words
+title_full: Why 'Quantum' Makes Weak Claims Sound Deeper
 display_title_short: Quantum Claims
 display_title: Quantum Claims
 heading_title: Why 'Quantum' Makes Weak Claims Sound Deeper
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Sciencey Language Makes Myths Persuasive | Mythcraft
+parent_title: Why Sciencey Language Makes Myths Persuasive
 parent_permalink: /sciencey-words/
 parent_nav_short_title: Sciencey Words
 parent_heading_title: Why Sciencey Language Makes Myths Persuasive
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The Claim That Cannot Lose
 up_link:
   basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
@@ -265,7 +265,7 @@ next_link:
   permalink: /untestable-claims/
   short_title: Untestable Claims
   heading_title: The Claim That Cannot Lose
-date: '2026-06-09 04:28:54 '
+date: '2026-06-11 22:04:10 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823-Illustration-1.webp
@@ -276,13 +276,12 @@ image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quant
 
 The word *quantum* has a precise meaning in physics, but in parts of the wellness industry it is often used very differently. Products and services are marketed as “quantum healing”, “quantum frequency therapy”, “quantum resonance”, “quantum energy balancing”, or “quantum wellness”, creating an impression of scientific sophistication. The problem is not that quantum physics is unreal. It is one of the most successful scientific theories ever developed. The problem is that the term is frequently detached from its scientific context and used as a source of authority rather than as part of a testable explanation. When that happens, the language can make a weak claim sound deeper than it really is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2020/11/sources-of-quantum-voodooism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerSources of Quantum VoodooismThe publication of Quantum Healing was a milestone in the rampant trivialization of quantum...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823-Illustration-1-dark.svg" | relative_url }}" alt="Quantum Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 A useful way to understand these claims is to look at the missing step between a scientific-sounding mechanism and a measurable outcome. Real science must explain not only *what* supposedly happens but also *how*, under what conditions, and with what evidence. Quantum wellness claims often skip those steps while relying on technical vocabulary to create an impression of precision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Through more than 50 examples, this guidance explains the how-tos...</span></span></span>
 
 ## How Real Physics Terms Get Stretched
 
-Quantum physics studies the behaviour of matter and energy at extremely small scales. Concepts such as superposition, entanglement and wave functions describe specific mathematical and experimental phenomena. In legitimate scientific work, these terms are used carefully and within strict boundaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10342414/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIt&#x27;s Time to Go Quantum in Medicine</span><span class="citation-popover-snippet">PMCby J Bisiani · 2023 · Cited by 33 — Utilizing quantum theory in the field of medicine can help in understanding and applying treatment...</span></span></span>
+Quantum physics studies the behaviour of matter and energy at extremely small scales. Concepts such as superposition, entanglement and wave functions describe specific mathematical and experimental phenomena. In legitimate scientific work, these terms are used carefully and within strict boundaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10342414/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIt&#x27;s Time to Go Quantum in Medicine</span><span class="citation-popover-snippet">by J Bisiani · 2023 · Cited by 33 — Utilizing quantum theory in the field of medicine can help in understanding and applying treatment...</span></span></span>
 
 In wellness marketing, however, the same words are often expanded far beyond their established meaning. A product may claim to “raise your quantum frequency”, “harmonise your quantum field”, or “use quantum resonance to restore balance”. These phrases sound technical, but they frequently lack clear definitions. If two practitioners use the same phrase but cannot describe the same measurable process, the terminology is functioning more as branding than as explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2020/11/sources-of-quantum-voodooism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerSources of Quantum VoodooismThe publication of Quantum Healing was a milestone in the rampant trivialization of quantum...</span></span></span>
 
@@ -298,9 +297,7 @@ The result is a kind of false technical depth. The language sounds as though it 
 
 A strong scientific claim requires a chain of reasoning:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A52zdLGcFrA" title="Are Trainers Lying About Quantum Healing?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A52zdLGcFrA" target="_blank" rel="noopener noreferrer">Are Trainers Lying About Quantum Healing?</a></p><p class="youtube-embed-meta">Channel: Barry Neale Hypnosis &middot; Views: 370 &middot; Uploaded: May 2025 &middot; Length: 3 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A52zdLGcFrA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A52zdLGcFrA">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -317,7 +314,6 @@ For example, a product might claim that it emits a beneficial frequency, aligns 
 
 This gap is often hidden by language that sounds explanatory but remains difficult to test. Terms such as “raising vibrational energy”, “optimising quantum coherence”, or “restoring energetic harmony” may create a feeling of understanding while leaving crucial questions unanswered:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What exactly is being measured?
@@ -329,7 +325,6 @@ This gap is often hidden by language that sounds explanatory but remains difficu
 </div>
 
 Without answers, the claim remains insulated from meaningful testing.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aQTWor_2nu4" title="Quantum Mysticism is Stupid (Deepak Chopra, Spirit Science, Actualized.org)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aQTWor_2nu4" target="_blank" rel="noopener noreferrer">Quantum Mysticism is Stupid (Deepak Chopra, Spirit Science, Actualized.org)</a></p><p class="youtube-embed-meta">Channel: Professor Dave Explains &middot; Views: 2.5M &middot; Uploaded: March 2021 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aQTWor_2nu4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aQTWor_2nu4">Open on YouTube</a></p></div></div></div>
 
@@ -348,14 +343,12 @@ The second statement is much more informative because it makes a measurable clai
 
 False technical depth often relies on the assumption that sounding scientific is close enough to being scientific.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823-Illustration-2-dark.svg" | relative_url }}" alt="Quantum Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Real Examples of the Pattern
 
 The wellness marketplace contains many products and services marketed with quantum-themed language, including pendants, patches, frequency devices, supplements and coaching programmes. The specific products vary, but the pattern is remarkably consistent.
 
 Claims frequently include combinations of:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -375,7 +368,6 @@ A notable example involved Quantum Wellness Botanical Institute and its ReJuvena
 
 The significance of such cases is not the word *quantum* itself. It is the broader lesson that scientific-sounding mechanisms do not remove the need for evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MUoR0sNCrH4" title="Ep 838:Quantum Resilience: How Energy &amp; Frequency Medicine Are Shaping Our Health W/ Quantum Upgrade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MUoR0sNCrH4" target="_blank" rel="noopener noreferrer">Ep 838:Quantum Resilience: How Energy &amp; Frequency Medicine Are Shaping Our Health W/ Quantum Upgrade</a></p><p class="youtube-embed-meta">Channel: Katie Wells &middot; Views: 182 &middot; Uploaded: October 2024 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MUoR0sNCrH4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MUoR0sNCrH4">Open on YouTube</a></p></div></div></div>
 
 ## How to Ask Whether a Claim Is Testable
@@ -383,7 +375,6 @@ The significance of such cases is not the word *quantum* itself. It is the broad
 A practical way to evaluate quantum wellness language is to ask whether the claim survives translation into plain English.
 
 If a company says a product “optimises quantum resonance”, ask:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -406,13 +397,12 @@ For example:
 
 The second statement may sound profound, but it provides no practical method for determining whether it is true.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823-Illustration-3-dark.svg" | relative_url }}" alt="Quantum Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Misconception Reveals
 
 The popularity of quantum wellness language does not show that quantum physics supports these products. It shows how scientific prestige can be borrowed by weak claims.
 
-Real quantum research is complex, mathematical and experimentally demanding. It has led to technologies such as semiconductors, lasers and quantum computing research. Those achievements arose from precise predictions, measurements and repeated testing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10342414/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIt&#x27;s Time to Go Quantum in Medicine</span><span class="citation-popover-snippet">PMCby J Bisiani · 2023 · Cited by 33 — Utilizing quantum theory in the field of medicine can help in understanding and applying treatment...</span></span></span>
+Real quantum research is complex, mathematical and experimentally demanding. It has led to technologies such as semiconductors, lasers and quantum computing research. Those achievements arose from precise predictions, measurements and repeated testing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10342414/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIt&#x27;s Time to Go Quantum in Medicine</span><span class="citation-popover-snippet">by J Bisiani · 2023 · Cited by 33 — Utilizing quantum theory in the field of medicine can help in understanding and applying treatment...</span></span></span>
 
 When wellness marketing uses words such as *quantum*, *frequency* and *resonance* without providing a measurable mechanism or credible evidence, the terminology often serves a rhetorical purpose rather than a scientific one. The language creates an impression of depth while leaving the crucial connection between mechanism and outcome unproven. That missing connection is where the real evaluation should begin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2020/11/sources-of-quantum-voodooism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerSources of Quantum VoodooismThe publication of Quantum Healing was a milestone in the rampant trivialization of quantum...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Through more than 50 examples, this guidance explains the how-tos...</span></span></span>
 
@@ -812,134 +802,134 @@ When wellness marketing uses words such as *quantum*, *frequency* and *resonance
 
 1. <a id="endnote-1"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/health-claims](https://www.ftc.gov/business-guidance/advertising-marketing/health-claims)  
+   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/health-claims</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Through more than 50 examples, this guidance explains the how-tos...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: link.aps.org  
-   Link: [https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.020145](https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.020145)  
+   Link: <a href="https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.020145" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.020145</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>APS LinksAnalysis of pseudoscientific beliefs in quantum mechanics of...by W Sciarretta · 2024 · Cited by 8 — In this empirical study, w...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCIt's Time to Go Quantum in Medicine  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10342414/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10342414/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby J Bisiani · 2023 · Cited by 33 — Utilizing quantum theory in the field of medicine can help in understanding and applying treatment...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10342414/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10342414/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Bisiani · 2023 · Cited by 33 — Utilizing quantum theory in the field of medicine can help in understanding and applying treatment...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Nonlocality Claims are Inconsistent with Hilbert Space Quantum Mechanics  
-   Link: [https://arxiv.org/abs/1901.07050](https://arxiv.org/abs/1901.07050)  
+   Link: <a href="https://arxiv.org/abs/1901.07050" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1901.07050</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv How Quantum is the Resonance Behavior in Vibrational Polariton Chemistry?  
-   Link: [https://arxiv.org/abs/2305.07296](https://arxiv.org/abs/2305.07296)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivHow Quantum is the Resonance Behavior in Vibrational Polariton Chemistry?May 12, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2305.07296" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.07296</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Quantum is the Resonance Behavior in Vibrational Polariton Chemistry?May 12, 2023...</p></details>
    Published: May 12, 2023  
 
 6. <a id="endnote-6"></a>
    Source: ftc.gov  
    Title: takes action stop anti aging cure all marketers making baseless health claims  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2020/02/ftc-takes-action-stop-anti-aging-cure-all-marketers-making-baseless-health-claims](https://www.ftc.gov/news-events/news/press-releases/2020/02/ftc-takes-action-stop-anti-aging-cure-all-marketers-making-baseless-health-claims)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2020/02/ftc-takes-action-stop-anti-aging-cure-all-marketers-making-baseless-health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2020/02/ftc-takes-action-stop-anti-aging-cure-all-marketers-making-baseless-health-claims</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC Takes Action to Stop Anti-Aging “Cure-All” Marketers...Feb 5, 2020 — The sellers of a pill called ReJuvenati...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/legal-library/browse/cases-proceedings/172-3131-quantum-wellness-botanical-institute-llc](https://www.ftc.gov/legal-library/browse/cases-proceedings/172-3131-quantum-wellness-botanical-institute-llc)  
+   Link: <a href="https://www.ftc.gov/legal-library/browse/cases-proceedings/172-3131-quantum-wellness-botanical-institute-llc" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/cases-proceedings/172-3131-quantum-wellness-botanical-institute-llc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionQuantum Wellness Botanical Institute, LLCThe sellers of a pill called ReJuvenation settled FTC charges that they...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ftc.gov  
    Title: press releases  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2025/09](https://www.ftc.gov/news-events/news/press-releases/2025/09)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2025/09" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2025/09</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 202530 Sept 2025 — FTC Denies Petition to Reopen EQT, Quantum Energy Order. Date. September 30, 2025. The Federal Trade Commiss...</p></details>
    Published: September 30, 2025  
 
 9. <a id="endnote-9"></a>
    Source: consumer.ftc.gov  
-   Link: [https://consumer.ftc.gov/node/76443](https://consumer.ftc.gov/node/76443)  
+   Link: <a href="https://consumer.ftc.gov/node/76443" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/node/76443</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reaches settlement with anti-aging pill sellerIn a proposed settlement announced today, the FTC says these claims were false or misleadin...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2020/11/sources-of-quantum-voodooism/](https://skepticalinquirer.org/2020/11/sources-of-quantum-voodooism/)  
+   Link: <a href="https://skepticalinquirer.org/2020/11/sources-of-quantum-voodooism/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/11/sources-of-quantum-voodooism/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerSources of Quantum VoodooismThe publication of Quantum Healing was a milestone in the rampant trivialization of quantum...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2025/06/calling-out-quantum-woo/](https://skepticalinquirer.org/2025/06/calling-out-quantum-woo/)  
+   Link: <a href="https://skepticalinquirer.org/2025/06/calling-out-quantum-woo/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/06/calling-out-quantum-woo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling Out Quantum WooSadri Hassani, a fellow physicist annoyed with popular abuse of quantum physics and a fellow skeptic familiar to r...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: thestudio108.com  
-   Link: [https://www.thestudio108.com/exploring-quantum-frequency-healing-amodern-approach-to-holistic-wellness/](https://www.thestudio108.com/exploring-quantum-frequency-healing-amodern-approach-to-holistic-wellness/)  
+   Link: <a href="https://www.thestudio108.com/exploring-quantum-frequency-healing-amodern-approach-to-holistic-wellness/" target="_blank" rel="noopener noreferrer nofollow">https://www.thestudio108.com/exploring-quantum-frequency-healing-amodern-approach-to-holistic-wellness/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Studio 108Exploring Quantum Frequency Healing: A Modern Approach...Quantum frequency healing is a way to improve health by using energy...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ghamahealth.com.au  
    Title: quantum wellness  
-   Link: [https://www.ghamahealth.com.au/blogs/wellness-blog/quantum-wellness?srsltid=AfmBOoq35cqNFN581aag9A_C5foNYnlBJ_xgLAiqNl-s4jNAXxUDj17Q](https://www.ghamahealth.com.au/blogs/wellness-blog/quantum-wellness?srsltid=AfmBOoq35cqNFN581aag9A_C5foNYnlBJ_xgLAiqNl-s4jNAXxUDj17Q)  
+   Link: <a href="https://www.ghamahealth.com.au/blogs/wellness-blog/quantum-wellness?srsltid=AfmBOoq35cqNFN581aag9A_C5foNYnlBJ_xgLAiqNl-s4jNAXxUDj17Q" target="_blank" rel="noopener noreferrer nofollow">https://www.ghamahealth.com.au/blogs/wellness-blog/quantum-wellness?srsltid=AfmBOoq35cqNFN581aag9A_C5foNYnlBJ_xgLAiqNl-s4jNAXxUDj17Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Claims &amp; Supplement Marketing3 Jan 2025 — Learn how to assess quantum wellness claims, supplement buzzwords, evidence, safety, placebo ef...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en&id=com.wellquantum](https://play.google.com/store/apps/details?hl=en&id=com.wellquantum)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.wellquantum" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.wellquantum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frequency for Wellness - Apps on Google Play22 Apr 2026 — Track your daily wellness metrics, receive AI-powered insights, and experience...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: jonesday.com  
-   Link: [https://www.jonesday.com/en/insights/2023/05/ftc-signals-[intent](https://www.jonesday.com/en/insights/2023/05/ftc-signals-[intent)  
+   Link: <a href="https://www.jonesday.com/en/insights/2023/05/ftc-signals-[intent" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2023/05/ftc-signals-[intent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Targets Deceptive Health Claims AdvertisingFTC warns companies advertising health- and wellness-related products against making unsub...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: topclassactions.com  
-   Link: [https://topclassactions.com/lawsuit-settlements/closed-settlements/rejuvenation-anti-aging-pills-660k-ftc-settlement/](https://topclassactions.com/lawsuit-settlements/closed-settlements/rejuvenation-anti-aging-pills-660k-ftc-settlement/)  
+   Link: <a href="https://topclassactions.com/lawsuit-settlements/closed-settlements/rejuvenation-anti-aging-pills-660k-ftc-settlement/" target="_blank" rel="noopener noreferrer nofollow">https://topclassactions.com/lawsuit-settlements/closed-settlements/rejuvenation-anti-aging-pills-660k-ftc-settlement/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ReJuvenation &#x27;Anti-Aging&#x27; Pills $660K FTC SettlementConsumers who purchased ReJuvenation “anti-aging” pills may be eligible for refund th...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2787803246/posts/10161879392598247/](https://www.facebook.com/groups/2787803246/posts/10161879392598247/)  
+   Link: <a href="https://www.facebook.com/groups/2787803246/posts/10161879392598247/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2787803246/posts/10161879392598247/</a>  
 
 18. <a id="endnote-18"></a>
    Source: openmedscience.com  
-   Link: [https://openmedscience.com/the-science-behind-leela-quantum-tech-bridging-physics-energy-and-human-well-being/](https://openmedscience.com/the-science-behind-leela-quantum-tech-bridging-physics-energy-and-human-well-being/)  
+   Link: <a href="https://openmedscience.com/the-science-behind-leela-quantum-tech-bridging-physics-energy-and-human-well-being/" target="_blank" rel="noopener noreferrer nofollow">https://openmedscience.com/the-science-behind-leela-quantum-tech-bridging-physics-energy-and-human-well-being/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Behind Quantum Wellness Technology22 Oct 2025 — Explore quantum wellness technology and its impact on health, vitality, and E...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: bclplaw.com  
    Title: ftc deceptive advertising health claims settlement scientific proof required  
-   Link: [https://www.bclplaw.com/en-US/events-insights-news/ftc-deceptive-advertising-health-claims-settlement-scientific-proof-required.html](https://www.bclplaw.com/en-US/events-insights-news/ftc-deceptive-advertising-health-claims-settlement-scientific-proof-required.html)  
+   Link: <a href="https://www.bclplaw.com/en-US/events-insights-news/ftc-deceptive-advertising-health-claims-settlement-scientific-proof-required.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bclplaw.com/en-US/events-insights-news/ftc-deceptive-advertising-health-claims-settlement-scientific-proof-required.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Deceptive Advertising Health Claims Settlement1 Jul 2020 — Then the smart device adjusts the photonic and thermal kinetic energies, s...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: mondaq.com  
    Title: marketers of rejuvenation pills agree to pay $660k to settle ftc charges  
-   Link: [https://www.mondaq.com/unitedstates/advertising-marketing-branding/891162/marketers-of-rejuvenation-pills-agree-to-pay-%24660k-to-settle-ftc-charges](https://www.mondaq.com/unitedstates/advertising-marketing-branding/891162/marketers-of-rejuvenation-pills-agree-to-pay-%24660k-to-settle-ftc-charges)  
+   Link: <a href="https://www.mondaq.com/unitedstates/advertising-marketing-branding/891162/marketers-of-rejuvenation-pills-agree-to-pay-%24660k-to-settle-ftc-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.mondaq.com/unitedstates/advertising-marketing-branding/891162/marketers-of-rejuvenation-pills-agree-to-pay-%24660k-to-settle-ftc-charges</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketers Of ReJuvenation Pills Agree To Pay $660K to...Feb 7, 2020 — The FTC alleged that Quantum made numerous false claims about its...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: advertisinglaw.fkks.com  
    Title: marketers of rejuvenation pills agree to pay 660k to settle ftc charges  
-   Link: [https://advertisinglaw.fkks.com/post/102fy7h/marketers-of-rejuvenation-pills-agree-to-pay-660k-to-settle-ftc-charges](https://advertisinglaw.fkks.com/post/102fy7h/marketers-of-rejuvenation-pills-agree-to-pay-660k-to-settle-ftc-charges)  
+   Link: <a href="https://advertisinglaw.fkks.com/post/102fy7h/marketers-of-rejuvenation-pills-agree-to-pay-660k-to-settle-ftc-charges" target="_blank" rel="noopener noreferrer nofollow">https://advertisinglaw.fkks.com/post/102fy7h/marketers-of-rejuvenation-pills-agree-to-pay-660k-to-settle-ftc-charges</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of ReJuvenation Pills Agree to Pay $660K to Settle...Feb 5, 2020 — The FTC alleged that Quantum made numerous false claims about its pro...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: hunton.com  
    Title: ftc ends fountain of youth claims by sellers of rejuvenation pills  
-   Link: [https://www.hunton.com/hunton-retail-law-resource/ftc-ends-fountain-of-youth-claims-by-sellers-of-rejuvenation-pills](https://www.hunton.com/hunton-retail-law-resource/ftc-ends-fountain-of-youth-claims-by-sellers-of-rejuvenation-pills)  
+   Link: <a href="https://www.hunton.com/hunton-retail-law-resource/ftc-ends-fountain-of-youth-claims-by-sellers-of-rejuvenation-pills" target="_blank" rel="noopener noreferrer nofollow">https://www.hunton.com/hunton-retail-law-resource/ftc-ends-fountain-of-youth-claims-by-sellers-of-rejuvenation-pills</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hunton Andrews KurthFTC Ends Fountain of Youth Claims by Sellers...6 Feb 2020 — On February 5, 2020, the FTC announced two settlements t...</p></details>
    Published: February 5, 2020  
 
 23. <a id="endnote-23"></a>
    Source: medium.com  
-   Link: [https://medium.com/illumination/a-brief-overview-of-quantum-quackery-bd7d22b6cc93](https://medium.com/illumination/a-brief-overview-of-quantum-quackery-bd7d22b6cc93)  
+   Link: <a href="https://medium.com/illumination/a-brief-overview-of-quantum-quackery-bd7d22b6cc93" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/a-brief-overview-of-quantum-quackery-bd7d22b6cc93</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Brief Overview Of Quantum Quackery | by Sunny LabhQuantum quackery is the use of quantum physics terminology and concepts to support or...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: eureka.patsnap.com  
    Title: report how to align quantum healing with personal health goals  
-   Link: [https://eureka.patsnap.com/report-how-to-align-quantum-healing-with-personal-health-goals](https://eureka.patsnap.com/report-how-to-align-quantum-healing-with-personal-health-goals)  
+   Link: <a href="https://eureka.patsnap.com/report-how-to-align-quantum-healing-with-personal-health-goals" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-how-to-align-quantum-healing-with-personal-health-goals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Align Quantum Healing with Personal Health Goals4 Sept 2025 — They often incorporate biofeedback mechanisms, energy field assessments...</p></details>

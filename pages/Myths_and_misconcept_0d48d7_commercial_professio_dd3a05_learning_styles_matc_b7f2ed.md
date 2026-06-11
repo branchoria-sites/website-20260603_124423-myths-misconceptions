@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4
 - Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - commercial-myths
 - learning-styles
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - commercial-myths
 - learning-styles
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Learning-style labels can feel useful, but the evidence does not support matching lessons to fixed sensory types.
 hero_summary: Learning-style labels can feel useful, but the evidence does not support matching lessons to fixed sensory types.
 layout: default
 permalink: /learning-styles-2d3803/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /commercial-myths/
 nav_short_title: Learning styles
 title: Do learning styles products really help?
-title_full: Do learning styles products really help? | Commercial Myths
+title_full: Do learning styles products really help?
 display_title_short: Learning styles
 display_title: Learning styles
 heading_title: Do learning styles products really help?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Myths Come in Professional Packaging | Mythcraft
+parent_title: When Myths Come in Professional Packaging
 parent_permalink: /commercial-myths/
 parent_nav_short_title: Commercial Myths
 parent_heading_title: When Myths Come in Professional Packaging
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When evidence based becomes a sales phrase
 up_link:
   basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
@@ -265,7 +265,7 @@ next_link:
   permalink: /evidence-based/
   short_title: “Evidence Based”
   heading_title: When evidence based becomes a sales phrase
-date: '2026-06-09 05:01:30 '
+date: '2026-06-11 22:20:03 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_learning_styles_matc_b7f2ed-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_learning_styles_matc_b7f2ed-Illustration-1.webp
@@ -274,16 +274,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_le
 
 ## Introduction
 
-Learning styles products are among the most successful examples of a professional-looking education myth. These products typically promise to identify whether a learner is visual, auditory, kinaesthetic, or another defined type, and then improve outcomes by matching teaching to that style. The central problem is not that people have preferences. Many do. The problem is that the key claim behind these products—that students learn better when instruction is matched to a diagnosed style—has repeatedly failed to gain convincing empirical support. Major reviews, higher-education analyses, and more recent meta-analyses have all concluded that the evidence for this matching approach is weak, inconsistent, or absent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4887 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 465 — The basic idea behind the use of...</span></span></span>
-
+Learning styles products are among the most successful examples of a professional-looking education myth. These products typically promise to identify whether a learner is visual, auditory, kinaesthetic, or another defined type, and then improve outcomes by matching teaching to that style. The central problem is not that people have preferences. Many do. The problem is that the key claim behind these products—that students learn better when instruction is matched to a diagnosed style—has repeatedly failed to gain convincing empirical support. Major reviews, higher-education analyses, and more recent meta-analyses have all concluded that the evidence for this matching approach is weak, inconsistent, or absent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4887 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 465 — The basic idea behind the use of...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_learning_styles_matc_b7f2ed-Illustration-1-dark.svg" | relative_url }}" alt="Learning styles illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_learning_styles_matc_b7f2ed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_learning_styles_matc_b7f2ed-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because learning-styles assessments, training courses, certification programmes, and classroom resources continue to be marketed as personalised learning solutions. The products often sound scientific, but the evidence required to justify their use is much stronger than the evidence currently available. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">2008) coined the term meshing hypothesis to describe the claim that instruction style should be matched to students&#x27; preferred learning...</span></span></span>
 
 ## What learning-style products usually claim
 
-Most learning-styles products begin with a questionnaire, inventory, or diagnostic tool. Learners are assigned to categories such as visual, auditory, read/write, kinaesthetic, converger, diverger, or other style labels depending on the model being used. The product then recommends adapting lessons, study materials, or teaching methods to fit the identified style. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4887 — Learning styles refers to the concept that individuals...</span></span></span> PMC The commercial appeal is obvious. Schools are under pressure to personalise learning <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Learning Styles Myth is Thriving in Higher Education</span><span class="citation-popover-snippet">2008) determined that there was no evidence to support the use of Learning Styles in education, based...Read more...</span></span></span>, and a simple classification system appears to offer an efficient route to doing so. A package may include:
-
+Most learning-styles products begin with a questionnaire, inventory, or diagnostic tool. Learners are assigned to categories such as visual, auditory, read/write, kinaesthetic, converger, diverger, or other style labels depending on the model being used. The product then recommends adapting lessons, study materials, or teaching methods to fit the identified style. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4887 — Learning styles refers to the concept that individuals...</span></span></span> PMC The commercial appeal is obvious. Schools are under pressure to personalise learning <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Learning Styles Myth is Thriving in Higher Education</span><span class="citation-popover-snippet">2008) determined that there was no evidence to support the use of Learning Styles in education, based...Read more...</span></span></span>, and a simple classification system appears to offer an efficient route to doing so. A package may include:
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -298,12 +296,11 @@ Most learning-styles products begin with a questionnaire, inventory, or diagnost
 
 The crucial selling point is usually the same: learners supposedly achieve more when teaching is tailored to their preferred sensory mode. Researchers often refer to this as the “matching” or “meshing” hypothesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[bjorklab.psych.ucla.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Learning Styles</span><span class="citation-popover-snippet">December 8, 2009 — by H Pashler · Cited by 5022 — Note that the learning-styles hypothesis, as defined here, could be true without the me...</span><span class="citation-popover-meta">Published: December 8, 2009</span></span></span> PMC The existence of preferences is rarely disputed. Many people enjoy diagrams <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Learning Styles Myth is Thriving in Higher Education</span><span class="citation-popover-snippet">2008) determined that there was no evidence to support the use of Learning Styles in education, based...Read more...</span></span></span>, discussion, demonstrations, reading, or practical activities to different degrees. The commercial leap is the assumption that preference reliably predicts the most effective form of instruction and that matching teaching to that preference improves learning outcomes. That stronger claim is where the evidence problem begins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poorvucenter.yale.edu">[Poorvu Center for Teaching and Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poorvucenter.yale.edu</span><span class="citation-popover-snippet">Poorvu Center for Teaching and LearningLearning Styles as a MythAt a Glance · Research indicates that there is no scientific evidence to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mirjamglessmer.com">[Adventures in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mirjamglessmer.com</span><span class="citation-popover-title">the learning styles myth based on pashler et al 2008 nancekivell et al 2020</span><span class="citation-popover-snippet">The learning styles myth (based on Pashler et al., 200825 Jun 2021 — Learning styles are a bit of a myth. When you ask people, yes, they...</span></span></span> Oceanography and Teaching
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C9hTWRwfZOc" title="Good Thinking! — Sending &quot;Learning Styles&quot; Out of Style" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C9hTWRwfZOc" target="_blank" rel="noopener noreferrer">Good Thinking! — Sending &quot;Learning Styles&quot; Out of Style</a></p><p class="youtube-embed-meta">Channel: Smithsonian Science Education Center (SSEC) &middot; Views: 73.4K &middot; Uploaded: June 2015 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C9hTWRwfZOc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C9hTWRwfZOc">Open on YouTube</a></p></div></div></div>
 
 ## Why the matching evidence never arrived
 
-The most influential review of learning-styles research was conducted by Harold Pashler and colleagues. Rather than asking whether people had preferences, the review examined whether matching instruction to a diagnosed style produced better learning. The authors concluded that there was insufficient evidence to justify educational practices based on learning-styles assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4887 — Learning styles refers to the concept that individuals...</span></span></span>
+The most influential review of learning-styles research was conducted by Harold Pashler and colleagues. Rather than asking whether people had preferences, the review examined whether matching instruction to a diagnosed style produced better learning. The authors concluded that there was insufficient evidence to justify educational practices based on learning-styles assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4887 — Learning styles refers to the concept that individuals...</span></span></span>
 
 Importantly, researchers have argued that a proper test of the matching hypothesis requires a specific experimental design. Learners must first be classified into styles, then randomly assigned to matched or mismatched instructional methods, and finally assessed using the same outcome measures. If learning styles are real in the way the products claim, different groups should benefit from different forms of instruction in a predictable crossover pattern. This demanding test has rarely produced supportive findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[bjorklab.psych.ucla.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Learning Styles</span><span class="citation-popover-snippet">December 8, 2009 — by H Pashler · Cited by 5022 — Note that the learning-styles hypothesis, as defined here, could be true without the me...</span><span class="citation-popover-meta">Published: December 8, 2009</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it really a neuromyth?</span><span class="citation-popover-snippet">A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 27 — The review by Pashler et al. (2008) concluded that t...</span></span></span>
 
@@ -311,18 +308,16 @@ Subsequent reviews reached similar conclusions. Analyses in higher education rep
 
 A 2024 meta-analysis revisited the issue and again noted that earlier reviews consistently found little or no empirical support for matching instruction to learning styles. Even where positive findings occasionally appeared, they were not sufficiently consistent or robust to justify widespread educational adoption. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Learning Styles Myth is Thriving in Higher Education</span><span class="citation-popover-snippet">2008) determined that there was no evidence to support the use of Learning Styles in education, based...Read more...</span></span></span>
 
-The striking feature of the learning-styles story is not that researchers never looked for evidence. It is that the core prediction was investigated repeatedly and failed to receive convincing support despite decades of attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4887 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modality-Specific Learning Style Hypothesis: A Mini-Reviewby K Aslaksen · 2018 · Cited by 98 — This mini-review presents literature, whic...</span></span></span>
-
+The striking feature of the learning-styles story is not that researchers never looked for evidence. It is that the core prediction was investigated repeatedly and failed to receive convincing support despite decades of attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4887 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modality-Specific Learning Style Hypothesis: A Mini-Reviewby K Aslaksen · 2018 · Cited by 98 — This mini-review presents literature, whic...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_learning_styles_matc_b7f2ed-Illustration-2-dark.svg" | relative_url }}" alt="Learning styles illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_learning_styles_matc_b7f2ed-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_learning_styles_matc_b7f2ed-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why preferences are not the same as evidence
 
-One reason learning-styles products remain attractive is that they are built around an observation that feels true. People often express strong preferences about how they like information presented. However, liking a format and learning best from it are not the same thing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poorvucenter.yale.edu">[Poorvu Center for Teaching and Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poorvucenter.yale.edu</span><span class="citation-popover-snippet">Poorvu Center for Teaching and LearningLearning Styles as a MythAt a Glance · Research indicates that there is no scientific evidence to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwaterloo.ca">[University of Waterloo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwaterloo.ca</span><span class="citation-popover-snippet">University of WaterlooUnderstanding Learning Styles | Centre for Teaching...by SF Model — This Teaching Tip discusses the distinction be...</span></span></span>
+One reason learning-styles products remain attractive is that they are built around an observation that feels true. People often express strong preferences about how they like information presented. However, liking a format and learning best from it are not the same thing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poorvucenter.yale.edu">[Poorvu Center for Teaching and Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poorvucenter.yale.edu</span><span class="citation-popover-snippet">Poorvu Center for Teaching and LearningLearning Styles as a MythAt a Glance · Research indicates that there is no scientific evidence to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwaterloo.ca">[University of Waterloo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwaterloo.ca</span><span class="citation-popover-snippet">University of WaterlooUnderstanding Learning Styles &#124; Centre for Teaching...by SF Model — This Teaching Tip discusses the distinction be...</span></span></span>
 
 A student may prefer watching a video rather than reading a text. That preference does not demonstrate that video will produce superior understanding, retention, or transfer of knowledge. In some situations, the most effective method depends less on the learner and more on the content being taught.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[For example:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Learning Styles</span><span class="citation-popover-snippet">December 8, 2009 — by H Pashler · Cited by 5022 — Note that the learning-styles hypothesis, as defined here, could be true without the me...</span><span class="citation-popover-meta">Published: December 8, 2009</span></span></span>
-
+For example: <span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[bjorklab.psych.ucla.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Learning Styles</span><span class="citation-popover-snippet">December 8, 2009 — by H Pashler · Cited by 5022 — Note that the learning-styles hypothesis, as defined here, could be true without the me...</span><span class="citation-popover-meta">Published: December 8, 2009</span></span></span>
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -333,10 +328,9 @@ A student may prefer watching a video rather than reading a text. That preferenc
 
 </div>
 
-The format should usually follow the nature of the material rather than a fixed learner category. Researchers have frequently noted that instructional methods should be chosen because they fit the subject matter, not because a learner has been labelled with a sensory style. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4887 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poorvucenter.yale.edu">[Poorvu Center for Teaching and Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poorvucenter.yale.edu</span><span class="citation-popover-snippet">Poorvu Center for Teaching and LearningLearning Styles as a MythAt a Glance · Research indicates that there is no scientific evidence to...</span></span></span>
+The format should usually follow the nature of the material rather than a fixed learner category. Researchers have frequently noted that instructional methods should be chosen because they fit the subject matter, not because a learner has been labelled with a sensory style. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4887 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poorvucenter.yale.edu">[Poorvu Center for Teaching and Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poorvucenter.yale.edu</span><span class="citation-popover-snippet">Poorvu Center for Teaching and LearningLearning Styles as a MythAt a Glance · Research indicates that there is no scientific evidence to...</span></span></span>
 
 Another concern is that labels can become self-limiting. A pupil who is repeatedly described as a “visual learner” may begin to avoid activities involving reading, discussion, or other approaches that could be beneficial. The label can subtly shift attention away from adaptability and practice towards a fixed [identity]({{ 'identity/' | relative_url }}). The Education Endowment Foundation has warned that restricting pupils to activities matched to reported preferences may hinder progress and that learner labels can undermine beliefs about improvement through effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">reported preferences may damage their progress.Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mJ1VNxPFQac" title="#1055 Michael Axelrod - Pseudoscience, Fringe Science, and Controversies in School Psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mJ1VNxPFQac" target="_blank" rel="noopener noreferrer">#1055 Michael Axelrod - Pseudoscience, Fringe Science, and Controversies in School Psychology</a></p><p class="youtube-embed-meta">Channel: The Dissenter &middot; Views: 421 &middot; Uploaded: February 2025 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mJ1VNxPFQac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mJ1VNxPFQac">Open on YouTube</a></p></div></div></div>
 
@@ -344,12 +338,11 @@ Another concern is that labels can become self-limiting. A pupil who is repeated
 
 The persistence of learning-styles products is itself an important lesson about educational myths.
 
-First, the idea is intuitive. Most people can easily recall occasions when a diagram, explanation, or demonstration helped them understand something. That [personal experience]({{ 'anecdotes/' | relative_url }}) can make the broader theory feel self-evident even when the evidence for matching is weak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlineteaching.umich.edu/articles/the-myth-of-learning-styles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlineteaching.umich.edu">[onlineteaching.umich.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlineteaching.umich.edu</span><span class="citation-popover-title">the myth of learning styles</span><span class="citation-popover-snippet">Roundup on Research: The Myth of &#x27;Learning Styles&#x27;10 Jan 2024 — The idea of learning styles is that there are stable, consistent methods...</span></span></span>
+First, the idea is intuitive. Most people can easily recall occasions when a diagram, explanation, or demonstration helped them understand something. That personal experience can make the broader theory feel self-evident even when the evidence for matching is weak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlineteaching.umich.edu/articles/the-myth-of-learning-styles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlineteaching.umich.edu">[onlineteaching.umich.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlineteaching.umich.edu</span><span class="citation-popover-title">the myth of learning styles</span><span class="citation-popover-snippet">Roundup on Research: The Myth of &#x27;Learning Styles&#x27;10 Jan 2024 — The idea of learning styles is that there are stable, consistent methods...</span></span></span>
 
 Second, the products offer a reassuring form of personalisation. A questionnaire produces a clear result, and the result suggests a clear action. Educational decision-makers often find such simplicity attractive compared with more nuanced evidence about learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swansea.ac.uk">[swansea.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swansea.ac.uk</span><span class="citation-popover-snippet">He said: “There is no sign that this is...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">2008) coined the term meshing hypothesis to describe the claim that instruction style should be matched to students&#x27; preferred learning...</span></span></span>
 
 Third, the idea has become culturally embedded. Surveys and reviews have found that belief in matching instruction to learning styles remains widespread among educators despite years of criticism from researchers. One review highlighted the continued global persistence of the belief, while other analyses have documented high levels of endorsement among teachers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swansea.ac.uk">[swansea.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swansea.ac.uk</span><span class="citation-popover-snippet">He said: “There is no sign that this is...Read more...</span></span></span> Frontiers The result is a self-reinforcing cycle. New teachers encounter learning-styles language during training <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[frontiersin.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">2008) coined the term meshing hypothesis to describe the claim that instruction style should be matched to students&#x27; preferred learning...</span></span></span>, schools purchase learning-styles resources, pupils receive learning-style labels, and the concept gains credibility through familiarity rather than evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swansea.ac.uk">[swansea.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swansea.ac.uk</span><span class="citation-popover-snippet">He said: “There is no sign that this is...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_learning_styles_matc_b7f2ed-Illustration-3-dark.svg" | relative_url }}" alt="Learning styles illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_learning_styles_matc_b7f2ed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_learning_styles_matc_b7f2ed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How schools can use variety without labelling pupils
@@ -357,7 +350,6 @@ Third, the idea has become culturally embedded. Surveys and reviews have found t
 Rejecting learning-styles products does not mean teaching every lesson in the same way. In fact, research-supported teaching often involves presenting ideas through multiple representations and encouraging learners to engage with material in different forms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poorvucenter.yale.edu">[Poorvu Center for Teaching and Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poorvucenter.yale.edu</span><span class="citation-popover-snippet">Poorvu Center for Teaching and LearningLearning Styles as a MythAt a Glance · Research indicates that there is no scientific evidence to...</span></span></span>
 
 A practical alternative is to focus on the demands of the content rather than on learner categories. Teachers can:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -371,11 +363,9 @@ A practical alternative is to focus on the demands of the content rather than on
 
 This approach preserves variety without assuming that each pupil belongs to a fixed sensory type. It also avoids spending time and money on assessments that have not demonstrated educational value. EEF <span class="citation-chip-wrap"><a class="citation-chip" href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poorvucenter.yale.edu">[Poorvu Center for Teaching and Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poorvucenter.yale.edu</span><span class="citation-popover-snippet">Poorvu Center for Teaching and LearningLearning Styles as a MythAt a Glance · Research indicates that there is no scientific evidence to...</span></span></span>
 
-The key distinction is simple. Offering diverse ways to engage with knowledge is a sensible teaching practice. Diagnosing learners into fixed styles and matching instruction to those labels is a much stronger claim, and decades of research have not provided the evidence needed to support it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4887 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 465 — The basic idea behind the use of...</span></span></span>
-
+The key distinction is simple. Offering diverse ways to engage with knowledge is a sensible teaching practice. Diagnosing learners into fixed styles and matching instruction to those labels is a much stronger claim, and decades of research have not provided the evidence needed to support it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4887 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 465 — The basic idea behind the use of...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_bWueJub_eU" title="Learning Styles - The BIGGEST Myth in Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer">Learning Styles - The BIGGEST Myth in Education</a></p><p class="youtube-embed-meta">Channel: Digital Learning Consultant &middot; Views: 336 &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_bWueJub_eU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -773,167 +763,167 @@ The key distinction is simple. Offering diverse ways to engage with knowledge is
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 465 — The basic idea behind the use of...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCIs it really a neuromyth?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 27 — The review by Pashler et al. (2008) concluded that t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Learning Styles Myth is Thriving in Higher Education  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2008) determined that there was no evidence to support the use of Learning Styles in education, based...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: bjorklab.psych.ucla.edu  
    Title: Learning Styles  
-   Link: [https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf](https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf)  
+   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 8, 2009 — by H Pashler · Cited by 5022 — Note that the learning-styles hypothesis, as defined here, could be true without the me...</p></details>
    Published: December 8, 2009  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Modality-Specific Learning Style Hypothesis: A Mini-Reviewby K Aslaksen · 2018 · Cited by 98 — This mini-review presents literature, whic...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: onlineteaching.umich.edu  
    Title: the myth of learning styles  
-   Link: [https://onlineteaching.umich.edu/articles/the-myth-of-learning-styles/](https://onlineteaching.umich.edu/articles/the-myth-of-learning-styles/)  
+   Link: <a href="https://onlineteaching.umich.edu/articles/the-myth-of-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://onlineteaching.umich.edu/articles/the-myth-of-learning-styles/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roundup on Research: The Myth of &#x27;Learning Styles&#x27;10 Jan 2024 — The idea of learning styles is that there are stable, consistent methods...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reported preferences may damage their progress.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles/technical-appendix](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles/technical-appendix)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles/technical-appendix" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles/technical-appendix</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning styles: Technical AppendixThe idea underpinning learning styles is that individuals all have a particular approach to or style o...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: swansea.ac.uk  
-   Link: [https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php](https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php)  
+   Link: <a href="https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php" target="_blank" rel="noopener noreferrer nofollow">https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>He said: “There is no sign that this is...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Good Thinking! — Sending "Learning Styles" Out of Style  
-   Link: [https://www.youtube.com/watch?v=C9hTWRwfZOc](https://www.youtube.com/watch?v=C9hTWRwfZOc)  
+   Link: <a href="https://www.youtube.com/watch?v=C9hTWRwfZOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C9hTWRwfZOc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles - The BIGGEST Myth in Education...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Learning Styles  
-   Link: [https://www.youtube.com/watch?v=_bWueJub_eU](https://www.youtube.com/watch?v=_bWueJub_eU)  
+   Link: <a href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_bWueJub_eU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Problem with Brain-Based Learning...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26162104/](https://pubmed.ncbi.nlm.nih.gov/26162104/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4887 — Learning styles refers to the concept that individuals...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26162104/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4887 — Learning styles refers to the concept that individuals...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full)  
+   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2008) coined the term meshing hypothesis to describe the claim that instruction style should be matched to students&#x27; preferred learning...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: uwaterloo.ca  
-   Link: [https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style](https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style)  
+   Link: <a href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow">https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of WaterlooUnderstanding Learning Styles | Centre for Teaching...by SF Model — This Teaching Tip discusses the distinction be...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: poorvucenter.yale.edu  
-   Link: [https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth](https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth)  
+   Link: <a href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow">https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Poorvu Center for Teaching and LearningLearning Styles as a MythAt a Glance · Research indicates that there is no scientific evidence to...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: mirjamglessmer.com  
    Title: the learning styles myth based on pashler et al 2008 nancekivell et al 2020  
-   Link: [https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/](https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/)  
+   Link: <a href="https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/" target="_blank" rel="noopener noreferrer nofollow">https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The learning styles myth (based on Pashler et al., 200825 Jun 2021 — Learning styles are a bit of a myth. When you ask people, yes, they...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.01908/full?field=&id=168518&journalName=Frontiers_in_Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.01908/full?field=&id=168518&journalName=Frontiers_in_Psychology)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.01908/full?field=&amp;id=168518&amp;journalName=Frontiers_in_Psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.01908/full?field=&amp;id=168518&amp;journalName=Frontiers_in_Psychology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2008) determined that there was no evidence to support the use of Learning Styles in education, based upon a lack of...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Learning](https://en.wikipedia.org/wiki/Learning)  
+   Link: <a href="https://en.wikipedia.org/wiki/Learning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Learning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LearningLearning is the process of acquiring new understanding, knowledge, behaviors, skills, values, attitudes, and preferences.Read...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: structural-learning.com  
-   Link: [https://www.structural-learning.com/post/learning-styles-myth-debunked](https://www.structural-learning.com/post/learning-styles-myth-debunked)  
+   Link: <a href="https://www.structural-learning.com/post/learning-styles-myth-debunked" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/learning-styles-myth-debunked</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles | The VAK Myth in Your Classroom24 Apr 2026 — Teachers worldwide believe that students learn best when taught in their pr...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01538/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01538/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01538/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01538/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Modality-Specific Learning Style Hypothesis: A Mini-...by K Aslaksen · 2018 · Cited by 93 — The concept of matching instructional st...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: evidenceforlearning.org.au  
-   Link: [https://evidenceforlearning.org.au/education-evidence/teaching-learning-toolkit/learning-styles](https://evidenceforlearning.org.au/education-evidence/teaching-learning-toolkit/learning-styles)  
+   Link: <a href="https://evidenceforlearning.org.au/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://evidenceforlearning.org.au/education-evidence/teaching-learning-toolkit/learning-styles</a>  
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/](https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/)  
+   Link: <a href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Children have different learning stylesAlthough as many as 71 different learning style schemes have been proposed[i], most typically lear...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Children have different learning stylesThe Education Endowment Foundation Teaching and Learning Toolkit provides an excellent summary of...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: gc-bs.org  
-   Link: [https://gc-bs.org/articles/from-styles-to-science-[debunking](https://gc-bs.org/articles/from-styles-to-science-[debunking)  
+   Link: <a href="https://gc-bs.org/articles/from-styles-to-science-[debunking" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/from-styles-to-science-[debunking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Learning Styles Myth and Embracing...Jan 12, 2026 — In 2015, educational researcher Joshua Cuevas published another compre...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/](https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/)  
+   Link: <a href="https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>problem with learning styles: debunking the meshing...22 Feb 2018 — The idea that catering to a learner&#x27;s favoured sensory preference, o...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/1477878515606621](https://journals.sagepub.com/doi/10.1177/1477878515606621)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1477878515606621" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1477878515606621</a>  
 
 27. <a id="endnote-27"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1111/j.1539-6053.2009.01038.x](https://journals.sagepub.com/doi/10.1111/j.1539-6053.2009.01038.x)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1111/j.1539-6053.2009.01038.x</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLearning Styles: Concepts and EvidenceThe term “learning styles” refers to the concept that individuals differ in regard to...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: cronfa.swan.ac.uk  
    Title: swan.ac.uk Evidence-Based Higher Education – Is the Learning  
-   Link: [https://cronfa.swan.ac.uk/Record/cronfa32734](https://cronfa.swan.ac.uk/Record/cronfa32734)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cronfaby PM Newton · 2017 · Cited by 463 — The basic idea behind the use of &#x27;Learning Styles&#x27; is that learners can be categorized into on...</p></details>
+   Link: <a href="https://cronfa.swan.ac.uk/Record/cronfa32734" target="_blank" rel="noopener noreferrer nofollow">https://cronfa.swan.ac.uk/Record/cronfa32734</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by PM Newton · 2017 · Cited by 463 — The basic idea behind the use of &#x27;Learning Styles&#x27; is that learners can be categorized into on...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
    Title: Why do learning styles persist in education despite a lack  
-   Link: [https://www.facebook.com/groups/sharingbestpractice/posts/2540407246292771/](https://www.facebook.com/groups/sharingbestpractice/posts/2540407246292771/)  
+   Link: <a href="https://www.facebook.com/groups/sharingbestpractice/posts/2540407246292771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/sharingbestpractice/posts/2540407246292771/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>instruction &#x27;matching student learning styles&#x27; does NOT result in improved learning.... Study says no evidence for actual learning style...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: linkedin.com  
    Title: Education Endowment Foundation (EEF)'s Post Tes Explains  
-   Link: [https://www.linkedin.com/posts/education-endowment-foundation_what-are-learning-styles-activity-6988929166268080128-sPKL](https://www.linkedin.com/posts/education-endowment-foundation_what-are-learning-styles-activity-6988929166268080128-sPKL)  
+   Link: <a href="https://www.linkedin.com/posts/education-endowment-foundation_what-are-learning-styles-activity-6988929166268080128-sPKL" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/education-endowment-foundation_what-are-learning-styles-activity-6988929166268080128-sPKL</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Education Endowment Foundation (EEF)&#x27;s PostTes Explains - What are learning styles? “Teaching to learning styles is considered an example...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: alumni.cam.ac.uk  
    Title: this idea must die “learning styles determine outcomes”  
-   Link: [https://www.alumni.cam.ac.uk/magazine/issue-99/this-idea-must-die-%E2%80%9Clearning-styles-determine-outcomes%E2%80%9D](https://www.alumni.cam.ac.uk/magazine/issue-99/this-idea-must-die-%E2%80%9Clearning-styles-determine-outcomes%E2%80%9D)  
+   Link: <a href="https://www.alumni.cam.ac.uk/magazine/issue-99/this-idea-must-die-%E2%80%9Clearning-styles-determine-outcomes%E2%80%9D" target="_blank" rel="noopener noreferrer nofollow">https://www.alumni.cam.ac.uk/magazine/issue-99/this-idea-must-die-%E2%80%9Clearning-styles-determine-outcomes%E2%80%9D</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There is no evidence whatsoever to back it up. The idea has been extensively and empirically tested to see if children learn...Read more...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_condescending_correc_7062df_reactance_shaming_co_0ba2e1
 - Myths_and_misconcept_0d48d7_condescending_correc_7062df_replacement_explanat_3e144b
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - tone
 - face-saving
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - tone
 - face-saving
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Face-saving corrections make it easier to accept better information without treating the original mistake as a personal failure.
 hero_summary: Face-saving corrections make it easier to accept better information without treating the original mistake as a personal failure.
 layout: default
 permalink: /face-saving/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /tone/
 nav_short_title: Face saving
 title: How to Correct Without Cornering Someone
-title_full: How to Correct Without Cornering Someone | Tone
+title_full: How to Correct Without Cornering Someone
 display_title_short: Face saving
 display_title: Face saving
 heading_title: How to Correct Without Cornering Someone
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Shaming People Makes Corrections Harder | Mythcraft
+parent_title: Why Shaming People Makes Corrections Harder
 parent_permalink: /tone/
 parent_nav_short_title: Tone
 parent_heading_title: Why Shaming People Makes Corrections Harder
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The Missing Piece in Many Corrections
 up_link:
   basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
@@ -259,7 +259,7 @@ next_link:
   permalink: /intent/
   short_title: Intent
   heading_title: Mistaken Is Not Always Malicious
-date: '2026-06-09 05:07:25 '
+date: '2026-06-11 22:22:46 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_fa
 ## Introduction
 
 When people abandon a myth or misconception, they are not only updating a belief; they are often managing a [social risk]({{ 'social-risk/' | relative_url }}). Admitting “I was wrong” can feel like a loss of competence, status or credibility, especially in front of friends, colleagues or an online audience. Face-saving wording reduces that social cost without weakening the correction itself. The goal is not to avoid disagreement or soften facts beyond recognition. It is to make accepting better information feel compatible with being a reasonable person. Research on misinformation correction, autonomy-supportive communication and psychological reactance suggests that people are generally more receptive when [corrections]({{ 'corrections/' | relative_url }}) preserve their sense of agency and competence rather than threatening it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Corrections have to point to the misinformation so they neces...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains Motivation21 Jun 2018 — Self-Determination Theory posits that autonomy, competence &amp; relatedness are fundamental psyc...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-1-dark.svg" | relative_url }}" alt="Face saving illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why changing your mind can feel socially costly
@@ -329,15 +328,12 @@ This preserves respect while maintaining a clear correction.
 
 These approaches align with broader findings that autonomy-supportive communication—communication that respects a person's ability to evaluate information—tends to reduce resistance and encourage engagement. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://sk.sagepub.com/ency/edvol/socialpsychology/chpt/selfdetermination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sk.sagepub.com">[SAGE Knowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sk.sagepub.com</span><span class="citation-popover-title">SAGE Knowledge Encyclopedia of Social Psychology</span><span class="citation-popover-snippet">SAGE KnowledgeEncyclopedia of Social Psychology - Self-Determination TheoryStudies also show that when authority figures are autonomy sup...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RcGkHrPSzDc" title="Try THIS the Next Time You Have an Uncomfortable Conversation | Simon Sinek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RcGkHrPSzDc" target="_blank" rel="noopener noreferrer">Try THIS the Next Time You Have an Uncomfortable Conversation | Simon Sinek</a></p><p class="youtube-embed-meta">Channel: Simon Sinek</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RcGkHrPSzDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RcGkHrPSzDc">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-2-dark.svg" | relative_url }}" alt="Face saving illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The most useful face-saving phrases
 
 Certain formulations repeatedly create an "exit ramp" for people who want to update their views.
 
 **Normalising the mistake**
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -351,7 +347,6 @@ These phrases reduce the feeling of being singled out.
 
 **Emphasising information rather than blame**
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “The current evidence suggests…”
@@ -363,7 +358,6 @@ These phrases reduce the feeling of being singled out.
 The focus moves from personal error to factual clarification.
 
 **Creating room for revision**
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -377,7 +371,6 @@ The correction becomes a shared learning process rather than a judgement.
 
 **Inviting evaluation**
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * “What do you make of this evidence?”
@@ -388,8 +381,6 @@ The correction becomes a shared learning process rather than a judgement.
 
 Such wording preserves autonomy instead of demanding submission. Research on motivation and [reactance]({{ 'reactance/' | relative_url }}) consistently finds that people are less resistant when they feel they are choosing to reconsider rather than being forced to concede. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains Motivation21 Jun 2018 — Self-Determination Theory posits that autonomy, competence &amp; relatedness are fundamental psyc...</span></span></span>
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-2-dark.svg" | relative_url }}" alt="Face saving illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples that keep the correction clear and usable
 
 Face-saving language is most effective when it remains specific. Vagueness can make corrections sound evasive. The correction still needs a clear factual replacement.
@@ -406,9 +397,7 @@ More effective:
 
 The factual correction remains direct, but the listener is not portrayed as gullible.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FbtHJm8vFpE" title="How to Disagree with Someone More Powerful: The Harvard Business Review Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FbtHJm8vFpE" target="_blank" rel="noopener noreferrer">How to Disagree with Someone More Powerful: The Harvard Business Review Guide</a></p><p class="youtube-embed-meta">Channel: Harvard Business Review</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FbtHJm8vFpE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FbtHJm8vFpE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-3-dark.svg" | relative_url }}" alt="Face saving illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Historical misconception
 
 Less effective:
@@ -433,8 +422,6 @@ More effective:
 
 The person can revise or delete the post without feeling publicly shamed.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-3-dark.svg" | relative_url }}" alt="Face saving illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What face-saving is not
 
 Face-saving corrections are sometimes mistaken for excessive politeness or unwillingness to state facts. That misses the point.
@@ -445,17 +432,13 @@ A face-saving correction can still be unequivocal:
 
 The difference lies in whether the wording turns the factual disagreement into a personal indictment.
 
-Likewise, face-saving is not appropriate in every circumstance. Deliberate deception, repeated bad-faith behaviour or situations involving immediate harm may require more direct confrontation. However, many [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) are shared by people acting in good faith. In those cases, reducing unnecessary status threats can make factual updates more likely, not less. [Debunking]({{ 'debunking/' | relative_url }}) research consistently finds that effective corrections work best when they provide a clear alternative explanation rather than simply attacking the mistaken belief or the person holding it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Corrections have to point to the misinformation so they neces...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cssn.org">[Brown Climate Social Science Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cssn.org</span><span class="citation-popover-title">DB2020paper 1</span><span class="citation-popover-snippet">Misinformation often continues to influence reasoning post-correction, and outdated information is not simply erased (the “continued infl...</span></span></span>
+Likewise, face-saving is not appropriate in every circumstance. Deliberate deception, repeated bad-faith behaviour or situations involving immediate harm may require more direct confrontation. However, many myths and misconceptions are shared by people acting in good faith. In those cases, reducing unnecessary status threats can make factual updates more likely, not less. [Debunking]({{ 'debunking/' | relative_url }}) research consistently finds that effective corrections work best when they provide a clear alternative explanation rather than simply attacking the mistaken belief or the person holding it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Corrections have to point to the misinformation so they neces...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cssn.org">[Brown Climate Social Science Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cssn.org</span><span class="citation-popover-title">DB2020paper 1</span><span class="citation-popover-snippet">Misinformation often continues to influence reasoning post-correction, and outdated information is not simply erased (the “continued infl...</span></span></span>
 
 ## The practical mechanism
 
-Face-saving wording works because it changes the social meaning of being corrected. Instead of communicating, “You are the problem,” it communicates, “This information needs updating.” That distinction gives people a way to align themselves with better evidence without treating the original mistake as a personal failure.
+Face-saving wording works because it changes the social meaning of being corrected. Instead of [communicating]({{ 'communicating/' | relative_url }}), “You are the problem,” it communicates, “This information needs updating.” That distinction gives people a way to align themselves with better evidence without treating the original mistake as a personal failure.
 
 For myths and misconceptions, that small shift can matter. People often update more readily when they can retain dignity while doing so. The correction remains clear, but accepting it no longer requires public self-demotion. In many everyday conversations, that difference is what turns a correction from a confrontation into a revision. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains Motivation21 Jun 2018 — Self-Determination Theory posits that autonomy, competence &amp; relatedness are fundamental psyc...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nIPkCbYn85c" title="How To Be Assertive and Speak Powerfully (Don&#x27;t Be too Polite)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nIPkCbYn85c" target="_blank" rel="noopener noreferrer">How To Be Assertive and Speak Powerfully (Don&#x27;t Be too Polite)</a></p><p class="youtube-embed-meta">Channel: How Communication Works</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nIPkCbYn85c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nIPkCbYn85c">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -854,163 +837,163 @@ For myths and misconceptions, that small shift can matter. People often update m
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCShould or could?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6393822/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6393822/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6393822/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6393822/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing the use of autonomy-supportive...by MB Altendorf · 2019 · Cited by 31 — Theories of human motivation and reactance. Self-determi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPutting Self‐Determination Theory Into Practice  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby A Neufeld · 2025 · Cited by 10 — Supporting basic psychological needs in a deliberate and integrated way promotes engagement...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby A Neufeld · 2025 · Cited by 10 — Supporting basic psychological needs in a deliberate and integrated way promotes engagement...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-determination theory: its application to health behavior...by H Patrick · 2012 · Cited by 839 — As the science of behavior c...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: face.com  
-   Link: [https://face.com/](https://face.com/)  
+   Link: <a href="https://face.com/" target="_blank" rel="noopener noreferrer nofollow">https://face.com/</a>  
 
 5. <a id="endnote-5"></a>
    Source: climatechangecommunication.org  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Corrections have to point to the misinformation so they neces...</p></details>
    Published: October 11, 2020  
 
 6. <a id="endnote-6"></a>
    Source: selfdeterminationtheory.org  
    Title: 1987 DeciRyan JPSP  
-   Link: [https://selfdeterminationtheory.org/SDT/documents/1987_DeciRyan_JPSP.pdf](https://selfdeterminationtheory.org/SDT/documents/1987_DeciRyan_JPSP.pdf)  
+   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/1987_DeciRyan_JPSP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/1987_DeciRyan_JPSP.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheoryThe Support of Autonomy and the Control of Behaviorby EL Deci · 1987 · Cited by 6672 — Furthermore, it shows tha...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: open.ncl.ac.uk  
-   Link: [https://open.ncl.ac.uk/theories/20/self-determination-theory/](https://open.ncl.ac.uk/theories/20/self-determination-theory/)  
+   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: A reviewSpecifically, they include autonomy, which refers to the ability to regulate one&#x27;s actions in a self-d...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sk.sagepub.com  
    Title: SAGE Knowledge Encyclopedia of Social Psychology  
-   Link: [https://sk.sagepub.com/ency/edvol/socialpsychology/chpt/selfdetermination-theory](https://sk.sagepub.com/ency/edvol/socialpsychology/chpt/selfdetermination-theory)  
+   Link: <a href="https://sk.sagepub.com/ency/edvol/socialpsychology/chpt/selfdetermination-theory" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/socialpsychology/chpt/selfdetermination-theory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SAGE KnowledgeEncyclopedia of Social Psychology - Self-Determination TheoryStudies also show that when authority figures are autonomy sup...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ukcoaching.org  
-   Link: [https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/](https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/)  
+   Link: <a href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory emphasises that people are most motivated and fulfilled when their basic needs for aut...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cssn.org  
    Title: DB2020paper 1  
-   Link: [https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf](https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf)  
+   Link: <a href="https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation often continues to influence reasoning post-correction, and outdated information is not simply erased (the “continued infl...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: selfdeterminationtheory.org  
-   Link: [https://selfdeterminationtheory.org/theory/](https://selfdeterminationtheory.org/theory/)  
+   Link: <a href="https://selfdeterminationtheory.org/theory/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/theory/</a>  
 
 12. <a id="endnote-12"></a>
    Source: selfdeterminationtheory.org  
-   Link: [https://selfdeterminationtheory.org/research/autonomy-supportive-practices/](https://selfdeterminationtheory.org/research/autonomy-supportive-practices/)  
+   Link: <a href="https://selfdeterminationtheory.org/research/autonomy-supportive-practices/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/research/autonomy-supportive-practices/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy-Supportive PracticesExploring the pathways through which teacher support predicts changes in students&#x27; academic coping across th...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: simplypsychology.org  
-   Link: [https://www.simplypsychology.org/self-determination-theory.html](https://www.simplypsychology.org/self-determination-theory.html)  
+   Link: <a href="https://www.simplypsychology.org/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-determination-theory.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is a theory that deals with two huge factors: people&#x27;s inherent growth tendencies.Read m...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Face](https://en.wikipedia.org/wiki/Face)  
+   Link: <a href="https://en.wikipedia.org/wiki/Face" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Face</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FaceThe face is the front of the head in humans and many other animals that features most of the sense organs including the eyes, nose...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: rccs.org.uk  
    Title: Self Determination Theory Explained  
-   Link: [https://www.rccs.org.uk/post/self-determination-theory](https://www.rccs.org.uk/post/self-determination-theory)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RCCS9 Jan 2026 — SDT highlights that intrinsic motivation thrives when autonomy, competence and relatedness are supported. Extrinsic Moti...</p></details>
+   Link: <a href="https://www.rccs.org.uk/post/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/self-determination-theory</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Jan 2026 — SDT highlights that intrinsic motivation thrives when autonomy, competence and relatedness are supported. Extrinsic Moti...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/face](https://dictionary.cambridge.org/dictionary/english/face)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionary7 days ago — FACE definition: 1. the front of the head, where the eyes, nose, and mouth are: 2. a...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/face" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/face</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — FACE definition: 1. the front of the head, where the eyes, nose, and mouth are: 2. a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/51245607_Self-Determination_Theory_and_Diminished_Functioning_The_Role_of_Interpersonal_Control_and_Psychological_Need_Thwarting](https://www.researchgate.net/publication/51245607_Self-Determination_Theory_and_Diminished_Functioning_The_Role_of_Interpersonal_Control_and_Psychological_Need_Thwarting)  
+   Link: <a href="https://www.researchgate.net/publication/51245607_Self-Determination_Theory_and_Diminished_Functioning_The_Role_of_Interpersonal_Control_and_Psychological_Need_Thwarting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51245607_Self-Determination_Theory_and_Diminished_Functioning_The_Role_of_Interpersonal_Control_and_Psychological_Need_Thwarting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory and Diminished Functioning...23 Jun 2011 — PDF | Drawing from self-determination theory, three studies explore...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: book.all-means-all.education  
    Title: self determination  
-   Link: [https://book.all-means-all.education/ama-2025-en/chapter/self-determination/](https://book.all-means-all.education/ama-2025-en/chapter/self-determination/)  
+   Link: <a href="https://book.all-means-all.education/ama-2025-en/chapter/self-determination/" target="_blank" rel="noopener noreferrer nofollow">https://book.all-means-all.education/ama-2025-en/chapter/self-determination/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It recognises the learner as an active participant in their own...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: positivepsychology.com  
    Title: self determination theory  
-   Link: [https://positivepsychology.com/self-determination-theory/](https://positivepsychology.com/self-determination-theory/)  
+   Link: <a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and How It Explains Motivation21 Jun 2018 — Self-Determination Theory posits that autonomy, competence &amp; relatedness are fundamental psyc...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: structural-learning.com  
    Title: Learners need autonomy, competence, and relatedness to do well.Read more  
-   Link: [https://www.structural-learning.com/post/self-determination-theory](https://www.structural-learning.com/post/self-determination-theory)  
+   Link: <a href="https://www.structural-learning.com/post/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/self-determination-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: Autonomy, Competence, andNov 23, 2023 — Deci and Ryan (1985) showed that self-determination theory (SDT) matters...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: communityengagementhub.org  
-   Link: [https://communityengagementhub.org/resource/the-debunking-handbook/](https://communityengagementhub.org/resource/the-debunking-handbook/)  
+   Link: <a href="https://communityengagementhub.org/resource/the-debunking-handbook/" target="_blank" rel="noopener noreferrer nofollow">https://communityengagementhub.org/resource/the-debunking-handbook/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The debunking handbookA handbook on how to prevent and debunk misinformation. Available in multiple languages. Related Resources. Managin...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/?locale=en_GB](https://www.facebook.com/?locale=en_GB)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook – log in or sign upCreate an account or log in to Facebook. Connect with friends, family and other people you know. Share photos...</p></details>
+   Link: <a href="https://www.facebook.com/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/?locale=en_GB</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>log in or sign upCreate an account or log in to Facebook. Connect with friends, family and other people you know. Share photos...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ltrr.arizona.edu  
-   Link: [https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf](https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf)  
+   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unless great care is taken, any effort to debunk misinformation can inadvertently reinforce the very myths one seeks to correct.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: verywellmind.com  
    Title: what is self determination theory 2795387  
-   Link: [https://www.verywellmind.com/what-is-self-determination-theory-2795387](https://www.verywellmind.com/what-is-self-determination-theory-2795387)  
+   Link: <a href="https://www.verywellmind.com/what-is-self-determination-theory-2795387" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-self-determination-theory-2795387</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Determination Theory Explains Motivation29 Oct 2025 — Self-determination theory suggests that fulfilling the core needs for auto...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: skepticalscience.com  
    Title: debunking handbook 2020 references  
-   Link: [https://skepticalscience.com/debunking-handbook-2020-references.html](https://skepticalscience.com/debunking-handbook-2020-references.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: References26 Oct 2020 — A meta-analytic examination of the [continued influence](&amp;#123;&amp;#123; &#x27;old-stories/&#x27; | relative_url &amp;#125;&amp;#125;) of misinformation in the face...</p></details>
+   Link: <a href="https://skepticalscience.com/debunking-handbook-2020-references.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-references.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: References26 Oct 2020 — A meta-analytic examination of the continued influence of misinformation in the face...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: research-information.bris.ac.uk  
    Title: debunking handbook 2020  
-   Link: [https://research-information.bris.ac.uk/en/datasets/debunking-handbook-2020/](https://research-information.bris.ac.uk/en/datasets/debunking-handbook-2020/)  
+   Link: <a href="https://research-information.bris.ac.uk/en/datasets/debunking-handbook-2020/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/datasets/debunking-handbook-2020/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook 2020This handbook compiles expert data about debunking misinformation. You may download a PDF of the handbook in the &quot;Highlights...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/15534510.2021.1908910](https://www.tandfonline.com/doi/full/10.1080/15534510.2021.1908910)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/15534510.2021.1908910" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15534510.2021.1908910</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Autonomy supportive and reactance...by D Wilbur · 2021 · Cited by 9 — Self-determination theory holds that people who live...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: bristol.ac.uk  
    Title: debunking handbook  
-   Link: [https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html](https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html)  
+   Link: <a href="https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October: Debunking Handbook | News and features14 Oct 2020 — &quot;This handbook helps explain how best to combat misinformation, namely throu...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12256544/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12256544/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12256544/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12256544/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>emotional and motivational costs of poorly delivered...by DR Akolgo · 2025 · Cited by 5 — This study uses psychological reactance theory...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12121785/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12121785/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby L Ye · 2025 · Cited by 14 — This study examines how autonomy-supportive organizational environments contribute to the satisfaction...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12121785/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12121785/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Ye · 2025 · Cited by 14 — This study examines how autonomy-supportive organizational environments contribute to the satisfaction...</p></details>

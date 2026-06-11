@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_correction_timing_c61362_late_warning_labels_d575c0
 - Myths_and_misconcept_0d48d7_correction_timing_c61362_repetition_familiari_8b4976
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - timing
 - amplification
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - timing
 - amplification
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Some rumours need public correction, while others are better handled quietly before a wider audience sees them.
 hero_summary: Some rumours need public correction, while others are better handled quietly before a wider audience sees them.
 layout: default
 permalink: /amplification/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /timing/
 nav_short_title: Amplification
 title: Can a correction spread the myth further?
-title_full: Can a correction spread the myth further? | Timing
+title_full: Can a correction spread the myth further?
 display_title_short: Amplification
 display_title: Amplification
 heading_title: Can a correction spread the myth further?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Should a Myth Be Corrected? | Mythcraft
+parent_title: When Should a Myth Be Corrected?
 parent_permalink: /timing/
 parent_nav_short_title: Timing
 parent_heading_title: When Should a Myth Be Corrected?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Do warning labels arrive too late?
 up_link:
   basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
@@ -259,7 +259,7 @@ next_link:
   permalink: /familiarity-7d16d3/
   short_title: Familiarity
   heading_title: Why do repeated myths start feeling true?
-date: '2026-06-09 04:25:59 '
+date: '2026-06-11 22:02:38 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_corre
 
 Correcting a rumour is not always a simple matter of publishing the facts. Sometimes a public rebuttal gives a fringe claim its largest audience. The challenge is to distinguish between a rumour that is already spreading and one that remains largely confined to a small community. In the first case, [correction]({{ 'correction/' | relative_url }}) may reduce harm. In the second, a prominent correction can inadvertently act as free publicity.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-1-dark.svg" | relative_url }}" alt="Amplification illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on misinformation suggests that the greatest risk is not usually that [corrections]({{ 'corrections/' | relative_url }}) make people believe a claim more strongly. Large reviews have found little evidence for widespread “[backfire]({{ 'backfire/' | relative_url }}) effects” in which corrections systematically strengthen false beliefs. However, there is a separate and more practical concern: corrections can expose new audiences to a rumour and increase familiarity with it. The key decision is therefore not whether correction works at all, but whether a correction will reach more people than the rumour itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 102 — A significant drawback...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7462781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCSearching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when peo...</span></span></span>
+Research on misinformation suggests that the greatest risk is not usually that [corrections]({{ 'corrections/' | relative_url }}) make people believe a claim more strongly. Large reviews have found little evidence for widespread “[backfire]({{ 'backfire/' | relative_url }}) effects” in which corrections systematically strengthen false beliefs. However, there is a separate and more practical concern: corrections can expose new audiences to a rumour and increase familiarity with it. The key decision is therefore not whether correction works at all, but whether a correction will reach more people than the rumour itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 102 — A significant drawback...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7462781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when peo...</span></span></span>
 
 ## Can a correction spread the myth further?
 
@@ -286,7 +285,6 @@ A useful starting point is to assess reach before responding publicly.
 
 A rumour may still be too small for a major rebuttal when:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * It is circulating only in a niche forum, private group or limited local network.
@@ -298,10 +296,9 @@ A rumour may still be too small for a major rebuttal when:
 
 In these situations, a high-profile correction may transform an obscure rumour into a wider public conversation.
 
-Professional fact-checkers often make similar judgements. Research into fact-checking prioritisation shows that organisations routinely assess potential harm, likely spread and public visibility before deciding which claims deserve substantial resources. Not every false claim receives a public fact-check because attention itself can become a vector for dissemination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.11678" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivMisinformation as a harm: structured approaches for fact-checking prioritizationDecember 18, 2023...</span><span class="citation-popover-meta">Published: December 18, 2023</span></span></span>
+Professional fact-checkers often make similar judgements. Research into fact-checking prioritisation shows that organisations routinely assess potential harm, likely spread and public visibility before deciding which claims deserve substantial resources. Not every false claim receives a public fact-check because attention itself can become a vector for dissemination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.11678" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Misinformation as a harm: structured approaches for fact-checking prioritizationDecember 18, 2023...</span><span class="citation-popover-meta">Published: December 18, 2023</span></span></span>
 
 A useful rule is to compare the expected audience of the correction with the current audience of the rumour. If the correction is likely to reach ten times as many people as the original claim, amplification risk is high.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EZsaA0w_0z0" title="The Facts about Fact Checking: Crash Course Navigating Digital Information #2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EZsaA0w_0z0" target="_blank" rel="noopener noreferrer">The Facts about Fact Checking: Crash Course Navigating Digital Information #2</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 755.5K &middot; Uploaded: January 2019 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EZsaA0w_0z0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EZsaA0w_0z0">Open on YouTube</a></p></div></div></div>
 
@@ -321,7 +318,6 @@ For clearly false or harmful content, reporting mechanisms, moderation systems a
 
 This approach is particularly relevant when the rumour has little public traction but poses potential harm if amplified.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-2-dark.svg" | relative_url }}" alt="Amplification illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Community correction
 
@@ -334,7 +330,6 @@ The goal in these cases is containment rather than broad public persuasion.
 Amplification concerns diminish once a rumour has already escaped its original niche.
 
 A public rebuttal becomes more defensible when one or more of the following conditions apply:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -350,19 +345,17 @@ At this stage, the costs of inaction often exceed the risks of amplification.
 
 An important insight from misinformation research is that corrections generally reduce belief in false claims, even if they do not eliminate misinformation entirely. Reviews and meta-analyses consistently find that [debunking]({{ 'debunking/' | relative_url }}) has positive effects on accuracy beliefs. The question becomes less about avoiding attention and more about ensuring that the correction reaches the same audiences as the rumour. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: joint-research-centre.ec.europa.eu">[Joint Research Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">joint-research-centre.ec.europa.eu</span><span class="citation-popover-snippet">Joint Research CentreMisinformation and disinformation: both prebunking and...25 Oct 2024 — Misinformation and disinformation: both preb...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvzQ0WPzRSo" title="Debunking CNN&#x27;s Viral 62 Million Men Hoax" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvzQ0WPzRSo" target="_blank" rel="noopener noreferrer">Debunking CNN&#x27;s Viral 62 Million Men Hoax</a></p><p class="youtube-embed-meta">Channel: Taylor Lorenz &middot; Views: 148.7K &middot; Uploaded: May 2026 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvzQ0WPzRSo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvzQ0WPzRSo">Open on YouTube</a></p></div></div></div>
 
 ## Signs that amplification risk is being overestimated
 
 Fear of amplification can sometimes become an excuse for inaction.
 
-One reason is that the idea of a correction making things worse has often been linked to the broader “backfire effect” debate. Yet extensive reviews of the literature have found that strong backfire effects appear much rarer than early discussions suggested. Most corrections either help or have little effect; they do not usually increase belief in the misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 102 — A significant drawback...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7462781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCSearching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when peo...</span></span></span>
+One reason is that the idea of a correction making things worse has often been linked to the broader “backfire effect” debate. Yet extensive reviews of the literature have found that strong backfire effects appear much rarer than early discussions suggested. Most corrections either help or have little effect; they do not usually increase belief in the misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 102 — A significant drawback...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7462781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when peo...</span></span></span>
 
 Another reason is that rumours rarely remain static. A claim that appears marginal today can become mainstream tomorrow if it is adopted by influential actors or connected to a breaking news event. Waiting indefinitely to avoid amplification can leave the field open for the rumour to grow without challenge.
 
 The more useful question is not “Could a correction spread the rumour?” but “Is the rumour already spreading enough that a correction is needed?”
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uOxxgaZMZfk" title="How NOT to Argue - The Backfire effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uOxxgaZMZfk" target="_blank" rel="noopener noreferrer">How NOT to Argue - The Backfire effect</a></p><p class="youtube-embed-meta">Channel: Best Class Ever &middot; Views: 2.1K &middot; Uploaded: June 2017 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uOxxgaZMZfk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uOxxgaZMZfk">Open on YouTube</a></p></div></div></div>
 
@@ -384,7 +377,6 @@ If most readers would learn about the rumour for the first time from the correct
 If silence allows the rumour to become the dominant explanation, public correction may be the safer option.
 
 The strongest responses often combine proportionality with [timing]({{ 'timing/' | relative_url }}): use targeted measures while a rumour remains small, but shift to visible public correction once the claim has achieved significant reach or poses meaningful harm. The objective is not to rebut every rumour publicly. It is to ensure that the response attracts less attention than the falsehood would attract if left alone.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-3-dark.svg" | relative_url }}" alt="Amplification illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -784,102 +776,102 @@ The strongest responses often combine proportionality with [timing]({{ 'timing/'
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 102 — A significant drawback...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 102 — A significant drawback...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7462781/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7462781/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSearching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when peo...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7462781/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7462781/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when peo...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-020-00241-6](https://link.springer.com/article/10.1186/s41235-020-00241-6)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00241-6</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>corrections spread misinformation to new audiences...by UKH Ecker · 2020 · Cited by 203 — Misinformation often continues to influence in...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2312.11678](https://arxiv.org/abs/2312.11678)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMisinformation as a harm: structured approaches for fact-checking prioritizationDecember 18, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2312.11678" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.11678</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation as a harm: structured approaches for fact-checking prioritizationDecember 18, 2023...</p></details>
    Published: December 18, 2023  
 
 5. <a id="endnote-5"></a>
    Source: davidson.edu  
-   Link: [https://www.davidson.edu/news/2024/10/02/research-finds-simple-corrections-can-slow-spread-misinformation-online](https://www.davidson.edu/news/2024/10/02/research-finds-simple-corrections-can-slow-spread-misinformation-online)  
+   Link: <a href="https://www.davidson.edu/news/2024/10/02/research-finds-simple-corrections-can-slow-spread-misinformation-online" target="_blank" rel="noopener noreferrer nofollow">https://www.davidson.edu/news/2024/10/02/research-finds-simple-corrections-can-slow-spread-misinformation-online</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Davidson CollegeResearch Finds Simple Corrections Can Slow Spread of...Oct 2, 2024 — Research Finds Simple Corrections Can Slow Spread o...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.04852](https://arxiv.org/abs/2403.04852)  
+   Link: <a href="https://arxiv.org/abs/2403.04852" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.04852</a>  
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41562-025-02294-3](https://www.nature.com/articles/s41562-025-02294-3)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureA meta-analysis of correction effects in science-relevant...by MS Chan · 2025 — We specified changes to codes for negative misinfo...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41562-025-02294-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-025-02294-3</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of correction effects in science-relevant...by MS Chan · 2025 — We specified changes to codes for negative misinfo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1892 — Misinformation has been identified as...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: joint-research-centre.ec.europa.eu  
-   Link: [https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en)  
+   Link: <a href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en" target="_blank" rel="noopener noreferrer nofollow">https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Research CentreMisinformation and disinformation: both prebunking and...25 Oct 2024 — Misinformation and disinformation: both preb...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: climatechangecommunication.org  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking HandbookMisinformation is false information that is spread either by mistake or with [intent](&amp;#123;&amp;#123; &#x27;intent/&#x27; | relative_url &amp;#125;&amp;#125;) to mislead. When there is intent to...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: [https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/](https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>evidence from a two-wave panel studyby L Horvath · 2024 · Cited by 1 — The fact check itself, featuring both an explanatory text and a gr...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: kff.org  
-   Link: [https://www.kff.org/health-information-trust/from-margins-to-mainstream-how-amplification-may-be-giving-misinformation-new-reach/](https://www.kff.org/health-information-trust/from-margins-to-mainstream-how-amplification-may-be-giving-misinformation-new-reach/)  
+   Link: <a href="https://www.kff.org/health-information-trust/from-margins-to-mainstream-how-amplification-may-be-giving-misinformation-new-reach/" target="_blank" rel="noopener noreferrer nofollow">https://www.kff.org/health-information-trust/from-margins-to-mainstream-how-amplification-may-be-giving-misinformation-new-reach/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Amplification May Be Giving Misinformation New ReachOct 9, 2025 — Efforts to correct misinformation can unintentionally amplify it by...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: research-information.bris.ac.uk  
    Title: can corrections spread misinformation to new audiences testing fo  
-   Link: [https://research-information.bris.ac.uk/en/publications/can-corrections-spread-misinformation-to-new-audiences-testing-fo/](https://research-information.bris.ac.uk/en/publications/can-corrections-spread-misinformation-to-new-audiences-testing-fo/)  
+   Link: <a href="https://research-information.bris.ac.uk/en/publications/can-corrections-spread-misinformation-to-new-audiences-testing-fo/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/publications/can-corrections-spread-misinformation-to-new-audiences-testing-fo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>corrections spread misinformation to new audiences...by UKH Ecker · 2020 · Cited by 202 — Misinformation often continues to influence in...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: firstdraftnews.org  
    Title: the psychology of misinformation why its so hard to correct  
-   Link: [https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/](https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/)  
+   Link: <a href="https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation, information disorder, misinformation, visual misinformation. Why does our psychology make misinformation so hard to corre...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: impact.stanford.edu  
    Title: you know its [fake news](&#123;&#123; 'fake-news/' | relative_url &#125;&#125;) it still affects what you believe  
-   Link: [https://impact.stanford.edu/article/you-know-its-fake-news-it-still-affects-what-you-believe](https://impact.stanford.edu/article/you-know-its-fake-news-it-still-affects-what-you-believe)  
+   Link: <a href="https://impact.stanford.edu/article/you-know-its-fake-news-it-still-affects-what-you-believe" target="_blank" rel="noopener noreferrer nofollow">https://impact.stanford.edu/article/you-know-its-fake-news-it-still-affects-what-you-believe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Know It&#x27;s Fake News; It Still Affects What You BelieveJun 30, 2022 — My research addresses whether misinformation we already recognize as...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: lindau-nobel.org  
-   Link: [https://www.lindau-nobel.org/blog-fact-checking-an-effective-weapon-against-misinformation/](https://www.lindau-nobel.org/blog-fact-checking-an-effective-weapon-against-misinformation/)  
+   Link: <a href="https://www.lindau-nobel.org/blog-fact-checking-an-effective-weapon-against-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.lindau-nobel.org/blog-fact-checking-an-effective-weapon-against-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-Checking – An Effective Weapon Against...4 May 2018 — As independent checks, they are a way to tackle misinformation...</p></details>
    Published: May 2018  
 
 17. <a id="endnote-17"></a>
    Source: lse.ac.uk  
-   Link: [https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2018/04/Bob-Ward-Debunking-myths-EGU-April-2018.pdf](https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2018/04/Bob-Ward-Debunking-myths-EGU-April-2018.pdf)  
+   Link: <a href="https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2018/04/Bob-Ward-Debunking-myths-EGU-April-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2018/04/Bob-Ward-Debunking-myths-EGU-April-2018.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3. Identify the most important part of the myth or fake news.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchbriefings.files.parliament.uk  
-   Link: [https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf](https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf)  
+   Link: <a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.ukDisinformation: sources, spread and impact25 Apr 2024 — Content can be created as disinformation and unknowingly shared as m...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: normalcurves.com  
    Title: the backfire effect can fact checking make false beliefs stronger  
-   Link: [https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/](https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/)  
+   Link: <a href="https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/" target="_blank" rel="noopener noreferrer nofollow">https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The “backfire effect” claims that debunking myths can actually make false beliefs stronger.Read more...</p></details>

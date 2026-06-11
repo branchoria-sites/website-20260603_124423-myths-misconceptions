@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - politics
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - politics
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Political myths are hard to correct when accepting the correction feels like rejecting a group or worldview.
 hero_summary: Political myths are hard to correct when accepting the correction feels like rejecting a group or worldview.
 layout: default
 permalink: /politics/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Politics
 title: Why Political Myths Resist Correction
-title_full: Why Political Myths Resist Correction | Mythcraft
+title_full: Why Political Myths Resist Correction
 display_title_short: Politics
 display_title: Politics
 heading_title: Why Political Myths Resist Correction
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 next_link:
   basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
-date: '2026-06-09 04:17:22 '
+date: '2026-06-11 21:58:05 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95-overview.webp
@@ -501,22 +501,20 @@ image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95-ov
 
 ## Introduction
 
-Political myths are often difficult to correct because they are rarely experienced as simple factual claims. They can become tied to identity, loyalty and belonging. Accepting a correction may feel less like updating information and more like distancing oneself from a political community, social network or moral worldview. Research on political misinformation repeatedly finds that people do not evaluate evidence in a vacuum. They interpret claims through group affiliations, [trusted messengers]({{ 'trusted-fixes/' | relative_url }}) and perceived [social risks]({{ 'social-risk/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/08/Ideology-motivated-reasoning.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndg.asc.upenn.edu">[ndg.asc.upenn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndg.asc.upenn.edu</span><span class="citation-popover-title">Ideology motivated reasoning</span><span class="citation-popover-snippet">Ideology, motivated reasoning, and cognitive reflectionby DM Kahan · 2013 · Cited by 2084 — When in- dividuals display identity-protectiv...</span></span></span>
-
+Political myths are often difficult to correct because they are rarely experienced as simple factual claims. They can become tied to identity, loyalty and belonging. Accepting a [correction]({{ 'correction/' | relative_url }}) may feel less like updating information and more like distancing oneself from a political community, social network or moral worldview. Research on political misinformation repeatedly finds that people do not evaluate evidence in a vacuum. They interpret claims through group affiliations, trusted messengers and perceived [social risks]({{ 'social-risk/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/08/Ideology-motivated-reasoning.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndg.asc.upenn.edu">[ndg.asc.upenn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndg.asc.upenn.edu</span><span class="citation-popover-title">Ideology motivated reasoning</span><span class="citation-popover-snippet">Ideology, motivated reasoning, and cognitive reflectionby DM Kahan · 2013 · Cited by 2084 — When in- dividuals display identity-protectiv...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95-overview.webp" | relative_url }}" alt="Overview image for Politics" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean people are incapable of changing their minds. Evidence suggests that factual [corrections]({{ 'corrections/' | relative_url }}) usually help more than they harm, and dramatic “[backfire]({{ 'backfire/' | relative_url }}) effects” appear to be less common than once feared. The challenge is that political myths often survive because they serve social as well as informational functions. Correcting them therefore requires understanding identity-protective reasoning, trust networks and the conditions under which people can reconsider a belief without feeling that they are betraying their group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">backfire effect · misinformation · fake news · fact checking. Acknowledgments. I...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUsing narratives to correct politically charged health</span><span class="citation-popover-snippet">PMCby HM Lillie · 2024 · Cited by 10 — This study investigated the efficacy of a narrative corrective with a relief ending for correcting...</span></span></span>
+This does not mean people are incapable of changing their minds. Evidence suggests that factual [corrections]({{ 'corrections/' | relative_url }}) usually help more than they harm, and dramatic “[backfire]({{ 'backfire/' | relative_url }}) effects” appear to be less common than once feared. The challenge is that political myths often survive because they serve social as well as informational functions. Correcting them therefore requires understanding identity-protective reasoning, trust networks and the conditions under which people can reconsider a belief without feeling that they are betraying their group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">backfire effect · misinformation · fake news · fact checking. Acknowledgments. I...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUsing narratives to correct politically charged health</span><span class="citation-popover-snippet">by HM Lillie · 2024 · Cited by 10 — This study investigated the efficacy of a narrative corrective with a relief ending for correcting...</span></span></span>
 
 ## Why political myths become identity markers
 
 Political arguments are often framed as disagreements about facts, but many are also struggles over status, values and collective [identity]({{ 'identity/' | relative_url }}). A claim about election integrity, immigration, climate policy or public health can become a signal of group membership. Once that happens, rejecting the claim may carry social costs.
 
-Researchers associated with the cultural cognition framework describe this process as “identity-protective cognition”. People tend to evaluate information in ways that protect their standing within groups they value. Information that threatens group norms or shared narratives can feel personally threatening even when it concerns an empirical question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/08/Ideology-motivated-reasoning.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndg.asc.upenn.edu">[ndg.asc.upenn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndg.asc.upenn.edu</span><span class="citation-popover-title">Ideology motivated reasoning</span><span class="citation-popover-snippet">Ideology, motivated reasoning, and cognitive reflectionby DM Kahan · 2013 · Cited by 2084 — When in- dividuals display identity-protectiv...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNMisconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 565 — Identity protective cognition refer...</span></span></span>
+Researchers associated with the cultural cognition framework describe this process as “identity-protective cognition”. People tend to evaluate information in ways that protect their standing within groups they value. Information that threatens group norms or shared narratives can feel personally threatening even when it concerns an empirical question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/08/Ideology-motivated-reasoning.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndg.asc.upenn.edu">[ndg.asc.upenn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndg.asc.upenn.edu</span><span class="citation-popover-title">Ideology motivated reasoning</span><span class="citation-popover-snippet">Ideology, motivated reasoning, and cognitive reflectionby DM Kahan · 2013 · Cited by 2084 — When in- dividuals display identity-protectiv...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 565 — Identity protective cognition refer...</span></span></span>
 
 This helps explain a common puzzle: why highly educated people can still hold demonstrably false political beliefs. More knowledge does not automatically eliminate motivated reasoning. In some situations, people with stronger reasoning skills become better at defending conclusions that align with their political identities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/08/Ideology-motivated-reasoning.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndg.asc.upenn.edu">[ndg.asc.upenn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndg.asc.upenn.edu</span><span class="citation-popover-title">Ideology motivated reasoning</span><span class="citation-popover-snippet">Ideology, motivated reasoning, and cognitive reflectionby DM Kahan · 2013 · Cited by 2084 — When in- dividuals display identity-protectiv...</span></span></span>
 
 The result is not usually conscious dishonesty. Instead, people may:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -529,11 +527,10 @@ The result is not usually conscious dishonesty. Instead, people may:
 
 These tendencies are not limited to one ideology or political camp. Studies of motivated reasoning have found versions of the pattern across a range of political identities and policy disputes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.culturalcognition.net/blog/2013/5/15/motivated-reasoning-its-cognates.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culturalcognition.net">[The Cultural Cognition Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culturalcognition.net</span><span class="citation-popover-title">The Cultural Cognition Project Motivated reasoning &amp; its cognates</span><span class="citation-popover-snippet">The Cultural Cognition ProjectMotivated reasoning &amp; its cognates - Cultural Cognition of...15 May 2013 — Identity-protective cognition...</span><span class="citation-popover-meta">Published: May 2013</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95-Illustration-1-dark.svg" | relative_url }}" alt="Politics illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Identity-protective reasoning is about belonging, not just belief
 
-One reason political myths resist [correction]({{ 'correction/' | relative_url }}) is that people often belong to communities built around shared interpretations of events.
+One reason political myths resist correction is that people often belong to communities built around shared interpretations of events.
 
 In strongly polarised environments, political identity can function like a social identity. Friends, family members, media habits and cultural preferences may cluster around the same political affiliation. A factual correction can therefore carry implications beyond the claim itself. The person receiving the correction may wonder whether accepting it means questioning trusted allies or admitting that political opponents were right. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995128" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">Taking Fact-checks Literally But Not Seriously?</span><span class="citation-popover-snippet">The Effects...by B Nyhan · 2019 · Cited by 576 — Keywords: Fact checking, corrections, misperceptions, backfire effect, debunking, motiv...</span></span></span>
 
@@ -544,16 +541,15 @@ Research on identity-protective cognition argues that people often face two comp
 1. **Accuracy goals**, which encourage them to understand reality correctly.
 2. **Identity goals**, which encourage them to remain aligned with valued groups.
 
-When these pressures conflict, identity concerns can become unusually powerful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/08/Ideology-motivated-reasoning.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndg.asc.upenn.edu">[ndg.asc.upenn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndg.asc.upenn.edu</span><span class="citation-popover-title">Ideology motivated reasoning</span><span class="citation-popover-snippet">Ideology, motivated reasoning, and cognitive reflectionby DM Kahan · 2013 · Cited by 2084 — When in- dividuals display identity-protectiv...</span></span></span>
+When these pressures [conflict]({{ 'conflict/' | relative_url }}), identity concerns can become unusually powerful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/08/Ideology-motivated-reasoning.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndg.asc.upenn.edu">[ndg.asc.upenn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndg.asc.upenn.edu</span><span class="citation-popover-title">Ideology motivated reasoning</span><span class="citation-popover-snippet">Ideology, motivated reasoning, and cognitive reflectionby DM Kahan · 2013 · Cited by 2084 — When in- dividuals display identity-protectiv...</span></span></span>
 
 This does not mean facts cease to matter. Rather, facts are filtered through concerns about trust, reputation and group membership.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1KFtQV7SiII" title="Are Smart People Ruining Democracy? | Dan Kahan | TEDxVienna" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1KFtQV7SiII" target="_blank" rel="noopener noreferrer">Are Smart People Ruining Democracy? | Dan Kahan | TEDxVienna</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 27.2K &middot; Uploaded: December 2018 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1KFtQV7SiII" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1KFtQV7SiII">Open on YouTube</a></p></div></div></div>
 
 ## Why simple fact-checking sometimes has limited impact
 
-Fact-checking remains valuable. Studies generally find that corrections improve factual accuracy more often than they worsen it. Yet factual corrections do not always translate into major attitude change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">backfire effect · misinformation · fake news · fact checking. Acknowledgments. I...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUsing narratives to correct politically charged health</span><span class="citation-popover-snippet">PMCby HM Lillie · 2024 · Cited by 10 — This study investigated the efficacy of a narrative corrective with a relief ending for correcting...</span></span></span>
+Fact-checking remains valuable. Studies generally find that corrections improve factual accuracy more often than they worsen it. Yet factual corrections do not always translate into major attitude change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">backfire effect · misinformation · fake news · fact checking. Acknowledgments. I...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUsing narratives to correct politically charged health</span><span class="citation-popover-snippet">by HM Lillie · 2024 · Cited by 10 — This study investigated the efficacy of a narrative corrective with a relief ending for correcting...</span></span></span>
 
 Part of the reason is that political beliefs are often connected to broader narratives. Correcting one false claim may leave the underlying worldview untouched.
 
@@ -569,7 +565,6 @@ People rarely evaluate political information purely on content. They also evalua
 
 Research consistently shows that trust functions as a shortcut for judging credibility. When a correction comes from someone perceived as hostile, biased or outside the group, resistance is more likely. When similar information comes from a trusted insider, it often receives a fairer hearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchsquare.com/article/rs-8663461/latest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchsquare.com">[Research Square]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchsquare.com</span><span class="citation-popover-snippet">The rise of election-related misinformation has been linked to a decline...</span></span></span> ResearchGate This is why political corrections sometimes succeed when delivered by: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/400679083_Who_are_Effective_and_Trustworthy_Messengers_for_Election-Related_Communications_How_Local_Messengers_Impact_Effectiveness_of_Psychological_Inoculation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Recent research suggests that psychological...Read more...</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Members of the same political party.
@@ -584,7 +579,6 @@ The importance of messenger credibility has been observed across election misinf
 
 Interestingly, some newer research suggests that even fact-checkers perceived as politically aligned with a target audience can reduce misinformation beliefs without producing widespread backlash. The effectiveness appears to depend partly on whether recipients view the messenger as understanding their values and concerns.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95-Illustration-2-dark.svg" | relative_url }}" alt="Politics illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Group cues can outweigh raw evidence
 
@@ -596,7 +590,6 @@ This process is visible in online political communities. Research examining misi
 
 In practice, this means that evidence competes with social signals. Individuals may ask:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What do people like me believe?
@@ -607,7 +600,6 @@ In practice, this means that evidence competes with social signals. Individuals 
 </div>
 
 These questions are often implicit rather than deliberate. Yet they can strongly influence how political myths survive.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HRZjSCOG3Ko" title="Dan Kahan: Thesis of &quot;public irrationality&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HRZjSCOG3Ko" target="_blank" rel="noopener noreferrer">Dan Kahan: Thesis of &quot;public irrationality&quot;</a></p><p class="youtube-embed-meta">Channel: spitfirestrategies &middot; Views: 1.9K &middot; Uploaded: November 2012 &middot; Length: 1 minute 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HRZjSCOG3Ko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HRZjSCOG3Ko">Open on YouTube</a></p></div></div></div>
 
@@ -624,7 +616,6 @@ People are generally more receptive when corrections avoid suggesting that holdi
 A correction that focuses on evidence while respecting the person's underlying concerns creates less pressure to defend identity. Instead of attacking motives, it addresses the claim itself.
 
 For example, someone concerned about election integrity, public safety or government accountability can have those concerns acknowledged before discussing whether a particular allegation is supported by evidence.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95-Illustration-3-dark.svg" | relative_url }}" alt="Politics illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Offer a replacement explanation
@@ -643,8 +634,7 @@ This does not guarantee success, but it can reduce the perception that the corre
 
 People are more willing to update beliefs when doing so does not require public humiliation or social isolation.
 
-Private reflection, respectful dialogue and opportunities to revise views gradually can be more effective than public shaming. Evidence from misinformation research increasingly points toward lowering social threat rather than intensifying confrontation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUsing narratives to correct politically charged health</span><span class="citation-popover-snippet">PMCby HM Lillie · 2024 · Cited by 10 — This study investigated the efficacy of a narrative corrective with a relief ending for correcting...</span></span></span>
-
+Private reflection, respectful dialogue and opportunities to revise views gradually can be more effective than public shaming. Evidence from misinformation research increasingly points toward lowering social threat rather than intensifying confrontation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUsing narratives to correct politically charged health</span><span class="citation-popover-snippet">by HM Lillie · 2024 · Cited by 10 — This study investigated the efficacy of a narrative corrective with a relief ending for correcting...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QBUcOb_hnjU" title="Identity Protective Cognition: How Is It Possible to Convince a Person Against Their Beliefs?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QBUcOb_hnjU" target="_blank" rel="noopener noreferrer">Identity Protective Cognition: How Is It Possible to Convince a Person Against Their Beliefs?</a></p><p class="youtube-embed-meta">Channel: Ripped Kittens &middot; Views: 1.8K &middot; Uploaded: May 2018 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QBUcOb_hnjU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QBUcOb_hnjU">Open on YouTube</a></p></div></div></div>
 
@@ -653,7 +643,6 @@ Private reflection, respectful dialogue and opportunities to revise views gradua
 A political myth can survive long after the factual basis collapses because the myth is serving functions beyond information.
 
 It may:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -1074,149 +1063,149 @@ The most successful approaches therefore do more than provide evidence. They red
 1. <a id="endnote-1"></a>
    Source: ndg.asc.upenn.edu  
    Title: Ideology motivated reasoning  
-   Link: [https://ndg.asc.upenn.edu/wp-content/uploads/2017/08/Ideology-motivated-reasoning.pdf](https://ndg.asc.upenn.edu/wp-content/uploads/2017/08/Ideology-motivated-reasoning.pdf)  
+   Link: <a href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/08/Ideology-motivated-reasoning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndg.asc.upenn.edu/wp-content/uploads/2017/08/Ideology-motivated-reasoning.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ideology, motivated reasoning, and cognitive reflectionby DM Kahan · 2013 · Cited by 2084 — When in- dividuals display identity-protectiv...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNMisconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 565 — Identity protective cognition refer...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 565 — Identity protective cognition refer...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.1912440117](https://www.pnas.org/doi/10.1073/pnas.1912440117)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1912440117</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>backfire effect · misinformation · fake news · fact checking. Acknowledgments. I...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, we aimed to examine whether...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: papers.ssrn.com  
    Title: Taking Fact-checks Literally But Not Seriously?  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995128](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995128)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995128" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995128</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects...by B Nyhan · 2019 · Cited by 576 — Keywords: Fact checking, corrections, misperceptions, backfire effect, debunking, motiv...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: calgara.github.io  
-   Link: [https://calgara.github.io/Pol157_Spring2019/Nyhan%20%26%20Reifler%202010.pdf](https://calgara.github.io/Pol157_Spring2019/Nyhan%20%26%20Reifler%202010.pdf)  
+   Link: <a href="https://calgara.github.io/Pol157_Spring2019/Nyhan%20%26%20Reifler%202010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://calgara.github.io/Pol157_Spring2019/Nyhan%20%26%20Reifler%202010.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Corrections Fail: The Persistence of Political...by B Nyhan · 2010 · Cited by 4606 — our findings and test the generality of the ba...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2211368120300516](https://www.sciencedirect.com/science/article/pii/S2211368120300516)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211368120300516</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when people...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400679083_Who_are_Effective_and_Trustworthy_Messengers_for_Election-Related_Communications_How_Local_Messengers_Impact_Effectiveness_of_Psychological_Inoculation](https://www.researchgate.net/publication/400679083_Who_are_Effective_and_Trustworthy_Messengers_for_Election-Related_Communications_How_Local_Messengers_Impact_Effectiveness_of_Psychological_Inoculation)  
+   Link: <a href="https://www.researchgate.net/publication/400679083_Who_are_Effective_and_Trustworthy_Messengers_for_Election-Related_Communications_How_Local_Messengers_Impact_Effectiveness_of_Psychological_Inoculation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400679083_Who_are_Effective_and_Trustworthy_Messengers_for_Election-Related_Communications_How_Local_Messengers_Impact_Effectiveness_of_Psychological_Inoculation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recent research suggests that psychological...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCUsing narratives to correct politically charged health  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby HM Lillie · 2024 · Cited by 10 — This study investigated the efficacy of a narrative corrective with a relief ending for correcting...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by HM Lillie · 2024 · Cited by 10 — This study investigated the efficacy of a narrative corrective with a relief ending for correcting...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0277953625006033](https://www.sciencedirect.com/science/article/pii/S0277953625006033)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0277953625006033" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0277953625006033</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, trust, and health: The case for information...by A Palmer · 2025 · Cited by 24 — We present empirical evidence demonstra...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027725003142](https://www.sciencedirect.com/science/article/pii/S0010027725003142)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027725003142" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725003142</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On political topics specifically, we find that a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2182588](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2182588)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2182588" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2182588</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.comIdeology, Motivated Reasoning, and Cognitive Reflectionby DM Kahan · 2012 · Cited by 2090 — This paper describes a study of three...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: informalscience.org  
-   Link: [https://informalscience.org/identity/dan-kahan/](https://informalscience.org/identity/dan-kahan/)  
+   Link: <a href="https://informalscience.org/identity/dan-kahan/" target="_blank" rel="noopener noreferrer nofollow">https://informalscience.org/identity/dan-kahan/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity | Dan KahanDan Kahan&#x27;s identity-related work has focused on “identity protective cognition”, which refers to the tendency of ind...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: culturalcognition.net  
    Title: The Cultural Cognition Project Motivated reasoning & its cognates  
-   Link: [https://www.culturalcognition.net/blog/2013/5/15/motivated-reasoning-its-cognates.html](https://www.culturalcognition.net/blog/2013/5/15/motivated-reasoning-its-cognates.html)  
+   Link: <a href="https://www.culturalcognition.net/blog/2013/5/15/motivated-reasoning-its-cognates.html" target="_blank" rel="noopener noreferrer nofollow">https://www.culturalcognition.net/blog/2013/5/15/motivated-reasoning-its-cognates.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cultural Cognition ProjectMotivated reasoning &amp; its cognates - Cultural Cognition of...15 May 2013 — Identity-protective cognition...</p></details>
    Published: May 2013  
 
 15. <a id="endnote-15"></a>
    Source: researchsquare.com  
-   Link: [https://www.researchsquare.com/article/rs-8663461/latest](https://www.researchsquare.com/article/rs-8663461/latest)  
+   Link: <a href="https://www.researchsquare.com/article/rs-8663461/latest" target="_blank" rel="noopener noreferrer nofollow">https://www.researchsquare.com/article/rs-8663461/latest</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The rise of election-related misinformation has been linked to a decline...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: [https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide](https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide)  
+   Link: <a href="https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie EndowmentCountering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cssh.northeastern.edu  
    Title: backfire effects  
-   Link: [https://cssh.northeastern.edu/nulab/backfire-effects/](https://cssh.northeastern.edu/nulab/backfire-effects/)  
+   Link: <a href="https://cssh.northeastern.edu/nulab/backfire-effects/" target="_blank" rel="noopener noreferrer nofollow">https://cssh.northeastern.edu/nulab/backfire-effects/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In other words, instead of belief...Read more...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: fondationdescartes.org  
-   Link: [https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/](https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/)  
+   Link: <a href="https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/" target="_blank" rel="noopener noreferrer nofollow">https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False ideas, fake information, and the logic of identity-...This 2017 article is a preparatory work proposed by social scientist Dan Kah...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: [https://misinforeview.hks.harvard.edu/article/the-small-effects-of-short-user-corrections-on-misinformation-in-brazil-india-and-the-united-kingdom/](https://misinforeview.hks.harvard.edu/article/the-small-effects-of-short-user-corrections-on-misinformation-in-brazil-india-and-the-united-kingdom/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/the-small-effects-of-short-user-corrections-on-misinformation-in-brazil-india-and-the-united-kingdom/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/the-small-effects-of-short-user-corrections-on-misinformation-in-brazil-india-and-the-united-kingdom/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>small effects of short user corrections on...by S Altay · 2025 · Cited by 1 — We found that in India and Brazil, short user corrections...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: cambridge.org  
    Title: identityprotective reasoning an epistemic and political defense  
-   Link: [https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5C62B4A3FC3F564ADE86BA5B7C5EF2BE/S1742360025000176a.pdf/identityprotective_reasoning_an_epistemic_and_political_defense.pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5C62B4A3FC3F564ADE86BA5B7C5EF2BE/S1742360025000176a.pdf/identityprotective_reasoning_an_epistemic_and_political_defense.pdf)  
+   Link: <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5C62B4A3FC3F564ADE86BA5B7C5EF2BE/S1742360025000176a.pdf/identityprotective_reasoning_an_epistemic_and_political_defense.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5C62B4A3FC3F564ADE86BA5B7C5EF2BE/S1742360025000176a.pdf/identityprotective_reasoning_an_epistemic_and_political_defense.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kahan 2017, he claims that individuals are motivated to defend beliefs that are standard in their group, and in Kahan 2015 the motivation is...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ore.exeter.ac.uk  
    Title: exeter.ac.uk Taking Fact-checks Literally But Not Seriously?  
-   Link: [https://ore.exeter.ac.uk/articles/journal_contribution/Taking_Fact-Checks_Literally_But_Not_Seriously_The_Effects_of_Journalistic_Fact-Checking_on_Factual_Beliefs_and_Candidate_Favorability/29753936/1/files/56778089.pdf](https://ore.exeter.ac.uk/articles/journal_contribution/Taking_Fact-Checks_Literally_But_Not_Seriously_The_Effects_of_Journalistic_Fact-Checking_on_Factual_Beliefs_and_Candidate_Favorability/29753936/1/files/56778089.pdf)  
+   Link: <a href="https://ore.exeter.ac.uk/articles/journal_contribution/Taking_Fact-Checks_Literally_But_Not_Seriously_The_Effects_of_Journalistic_Fact-Checking_on_Factual_Beliefs_and_Candidate_Favorability/29753936/1/files/56778089.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ore.exeter.ac.uk/articles/journal_contribution/Taking_Fact-Checks_Literally_But_Not_Seriously_The_Effects_of_Journalistic_Fact-Checking_on_Factual_Beliefs_and_Candidate_Favorability/29753936/1/files/56778089.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects...by B Nyhan · 2019 · Cited by 576 — “Emotions, partisanship, and misperceptions: How anger and anx- iety moderate the effec...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: who knowingly shares false political information online  
-   Link: [https://misinforeview.hks.harvard.edu/article/who-knowingly-shares-false-political-information-online/](https://misinforeview.hks.harvard.edu/article/who-knowingly-shares-false-political-information-online/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/who-knowingly-shares-false-political-information-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/who-knowingly-shares-false-political-information-online/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewWho knowingly shares false political information online?by S Littrell · 2023 · Cited by 28 — We found that 14 percen...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf](https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf)  
+   Link: <a href="https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>individuals to selectively credit and dismiss evi- dence in patterns that reflect the...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: srbluemle.wordpress.com  
    Title: motivated reasoning and identity protective cognition  
-   Link: [https://srbluemle.wordpress.com/2020/10/05/motivated-reasoning-and-identity-protective-cognition/](https://srbluemle.wordpress.com/2020/10/05/motivated-reasoning-and-identity-protective-cognition/)  
+   Link: <a href="https://srbluemle.wordpress.com/2020/10/05/motivated-reasoning-and-identity-protective-cognition/" target="_blank" rel="noopener noreferrer nofollow">https://srbluemle.wordpress.com/2020/10/05/motivated-reasoning-and-identity-protective-cognition/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reasoning and identity protective cognitionOct 5, 2020 — Kahan, by contrast, emphasizes that identity protective cognition is, when pract...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: merriam-webster.com  
    Title: POLITICA L Definition & Meaning4 days ago — 1  
-   Link: [https://www.merriam-webster.com/dictionary/political](https://www.merriam-webster.com/dictionary/political)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/political" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/political</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a: of or relating to government, a government, or the conduct of government b: of, relating to, or concerned with the making as disting...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: cidob.org  
-   Link: [https://www.cidob.org/sites/default/files/2025-10/REGROUP%20focus%20paper%20no.%208.pdf](https://www.cidob.org/sites/default/files/2025-10/REGROUP%20focus%20paper%20no.%208.pdf)  
+   Link: <a href="https://www.cidob.org/sites/default/files/2025-10/REGROUP%20focus%20paper%20no.%208.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cidob.org/sites/default/files/2025-10/REGROUP%20focus%20paper%20no.%208.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3. Avoid overreliance on “Western epistemic authority...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: mattnurse.com  
    Title: The winding story of the backfire effect  
-   Link: [https://mattnurse.com/2019/06/29/the-story-of-the-backfire-effect/](https://mattnurse.com/2019/06/29/the-story-of-the-backfire-effect/)  
+   Link: <a href="https://mattnurse.com/2019/06/29/the-story-of-the-backfire-effect/" target="_blank" rel="noopener noreferrer nofollow">https://mattnurse.com/2019/06/29/the-story-of-the-backfire-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Matthew S Nurse29 Jun 2019 — Misinformation is now able to spread rapidly across social media networks (Vosoughi, Roy, &amp; Aral, 2018) and...</p></details>

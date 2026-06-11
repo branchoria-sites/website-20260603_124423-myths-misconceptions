@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_condescending_correc_7062df_public_correction_sh_e43b0f
 - Myths_and_misconcept_0d48d7_condescending_correc_7062df_reactance_shaming_co_0ba2e1
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - tone
 - replacements
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - tone
 - replacements
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: The strongest corrections do more than say a myth is wrong; they give readers a clearer explanation to use instead.
 hero_summary: The strongest corrections do more than say a myth is wrong; they give readers a clearer explanation to use instead.
 layout: default
 permalink: /replacements/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /tone/
 nav_short_title: Replacements
 title: The Missing Piece in Many Corrections
-title_full: The Missing Piece in Many Corrections | Tone
+title_full: The Missing Piece in Many Corrections
 display_title_short: Replacements
 display_title: Replacements
 heading_title: The Missing Piece in Many Corrections
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Shaming People Makes Corrections Harder | Mythcraft
+parent_title: Why Shaming People Makes Corrections Harder
 parent_permalink: /tone/
 parent_nav_short_title: Tone
 parent_heading_title: Why Shaming People Makes Corrections Harder
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Harsh Corrections Can Trigger Defiance
 up_link:
   basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
@@ -259,7 +259,7 @@ prev_link:
   permalink: /reactance/
   short_title: Reactance
   heading_title: Why Harsh Corrections Can Trigger Defiance
-date: '2026-06-09 05:09:30 '
+date: '2026-06-11 22:23:48 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_replacement_explanat_3e144b-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_replacement_explanat_3e144b-Illustration-1.webp
@@ -270,17 +270,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_re
 
 Many [corrections]({{ 'corrections/' | relative_url }}) fail for a simple reason: they remove a false claim but leave nothing useful in its place. When people hear that a familiar explanation is wrong, they are often left with an unanswered question. If a [correction]({{ 'correction/' | relative_url }}) merely says “that’s false”, readers may continue relying on the myth because it still provides the only available explanation they can remember. Research on misinformation consistently finds that corrections work better when they replace the false account with a credible alternative explanation rather than simply negating it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cssn.org">[Brown Climate Social Science Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cssn.org</span><span class="citation-popover-title">DB2020paper 1</span><span class="citation-popover-snippet">Corrections are more effective if in addition to providing a simple retraction (“not true”), they propose a causal alternative, and gener...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Chapman University Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Chapman University Digital CommonsA Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 642 — Rather...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_replacement_explanat_3e144b-Illustration-1-dark.svg" | relative_url }}" alt="Replacements illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_replacement_explanat_3e144b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_replacement_explanat_3e144b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters especially when [correcting myths]({{ 'better-corrections-e615f7/' | relative_url }}) without sounding condescending. A [respectful correction]({{ 'respectful-correction/' | relative_url }}) does not just point out an error. It helps the reader understand what happened instead, why the misunderstanding arose, and what explanation best fits the evidence. The replacement explanation becomes an exit ramp: people can update their beliefs without feeling that they are being mocked, shamed, or left confused. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Corrections are most successful if people are suspicious, or...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/print.php?n=4891" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">Skeptical ScienceThe Debunking Handbook 2020: Debunk often and properly26 Oct 2020 — Provide a clear explanation of (1) why it is now cle...</span></span></span>
+This matters especially when correcting myths without sounding condescending. A [respectful correction]({{ 'respectful-correction/' | relative_url }}) does not just point out an error. It helps the reader understand what happened instead, why the misunderstanding arose, and what explanation best fits the evidence. The replacement explanation becomes an exit ramp: people can update their beliefs without feeling that they are being mocked, shamed, or left confused. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Corrections are most successful if people are suspicious, or...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/print.php?n=4891" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">Skeptical ScienceThe Debunking Handbook 2020: Debunk often and properly26 Oct 2020 — Provide a clear explanation of (1) why it is now cle...</span></span></span>
 
 ## The Missing Piece in Many Corrections
 
 A myth often survives because it fills an explanatory need. It answers a question, links events together, or provides a simple cause for something people want to understand.
 
-Psychologists studying the “[continued influence]({{ 'old-stories/' | relative_url }}) effect” have repeatedly found that misinformation can continue shaping reasoning even after people learn that it is false. Simply retracting a claim does not always erase its influence because people have already incorporated it into their mental model of what happened. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span> The practical implication is straightforward: if a correction removes a familiar explanation, it should offer another explanation that makes at least as much sense.
+Psychologists studying the “continued influence effect” have repeatedly found that misinformation can continue shaping reasoning even after people learn that it is false. Simply retracting a claim does not always erase its influence because people have already incorporated it into their mental model of what happened. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span> The practical implication is straightforward: if a correction removes a familiar explanation, it should offer another explanation that makes at least as much sense.
 
-Researchers behind the Debunking Handbook describe this as “filling the gap”. When misinformation is removed, a gap appears in the reader's understanding. Effective debunking fills that gap with an alternative account that explains the facts more accurately. Corrections that include a causal alternative are generally more successful than corrections that merely state that a claim is untrue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/print.php?n=4891" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">Skeptical ScienceThe Debunking Handbook 2020: Debunk often and properly26 Oct 2020 — Provide a clear explanation of (1) why it is now cle...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">The Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — The most effective way to reduce the effect of misinformatio...</span></span></span>
+Researchers behind the [Debunking]({{ 'debunking/' | relative_url }}) Handbook describe this as “filling the gap”. When misinformation is removed, a gap appears in the reader's understanding. Effective debunking fills that gap with an alternative account that explains the facts more accurately. Corrections that include a causal alternative are generally more successful than corrections that merely state that a claim is untrue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/print.php?n=4891" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">Skeptical ScienceThe Debunking Handbook 2020: Debunk often and properly26 Oct 2020 — Provide a clear explanation of (1) why it is now cle...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">The Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — The most effective way to reduce the effect of misinformatio...</span></span></span>
 
 This approach is also less likely to sound patronising. “That's wrong” can feel like a judgement. “Here's what actually happened” feels more like assistance.
 
@@ -300,7 +299,6 @@ Consider the difference:
 * **Replacement explanation:** “That chart starts during an unusually low year, which makes later numbers appear dramatic. Looking at the full decade shows crime remained within its normal range.”
 
 The second response answers the reader's likely follow-up question before it is asked.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iQRSZpBWoPE" title="Breaking Down Misleading Arguments &amp; Why Science Communication Fails with John Cook | TGS 212" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iQRSZpBWoPE" target="_blank" rel="noopener noreferrer">Breaking Down Misleading Arguments &amp; Why Science Communication Fails with John Cook | TGS 212</a></p><p class="youtube-embed-meta">Channel: Nate Hagens &middot; Views: 10.8K &middot; Uploaded: February 2026 &middot; Length: 1 hour 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iQRSZpBWoPE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iQRSZpBWoPE">Open on YouTube</a></p></div></div></div>
 
@@ -344,7 +342,6 @@ This establishes disagreement but does little to help the reader rebuild their u
 
 The second version not only rejects the myth but explains why the myth existed and what evidence replaced it.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_replacement_explanat_3e144b-Illustration-2-dark.svg" | relative_url }}" alt="Replacements illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_replacement_explanat_3e144b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_replacement_explanat_3e144b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Misleading chart
 
@@ -352,7 +349,7 @@ Charts often become persuasive because they appear objective.
 
 **Before**
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bristol.ac.uk">[“This graph is misleading.”]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bristol.ac.uk</span><span class="citation-popover-title">debunking handbook</span><span class="citation-popover-snippet">October: Debunking Handbook | News and features14 Oct 2020 — &quot;This handbook helps explain how best to combat misinformation, namely throu...</span></span></span>
+<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bristol.ac.uk">[“This graph is misleading.”]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bristol.ac.uk</span><span class="citation-popover-title">debunking handbook</span><span class="citation-popover-snippet">October: Debunking Handbook &#124; News and features14 Oct 2020 — &quot;This handbook helps explain how best to combat misinformation, namely throu...</span></span></span>
 
 Readers may wonder how.
 
@@ -361,7 +358,6 @@ Readers may wonder how.
 “This graph uses a truncated vertical axis, which exaggerates small changes. When the same data are displayed on a full scale, the trend becomes much less dramatic.”
 
 The correction replaces suspicion with an understandable mechanism.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2jmF5z_ZNFE" title="Why Continued Influence Effect is THE Most Important Phenomenon to Recognize #podcast #psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2jmF5z_ZNFE" target="_blank" rel="noopener noreferrer">Why Continued Influence Effect is THE Most Important Phenomenon to Recognize #podcast #psychology</a></p><p class="youtube-embed-meta">Channel: SilverDisobedience PerceptionDynamics•Dian Griesel &middot; Views: 7.0K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2jmF5z_ZNFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2jmF5z_ZNFE">Open on YouTube</a></p></div></div></div>
 
@@ -379,14 +375,12 @@ Viral images frequently survive fact-checking because people remember the image 
 
 The replacement explanation preserves the reality of the image while correcting the mistaken context.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_replacement_explanat_3e144b-Illustration-3-dark.svg" | relative_url }}" alt="Replacements illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_replacement_explanat_3e144b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_replacement_explanat_3e144b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Makes a Good Replacement Explanation?
 
 Not every alternative explanation improves a correction. Research and practitioner guidance suggest several qualities matter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Corrections are most successful if people are suspicious, or...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cssn.org">[Brown Climate Social Science Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cssn.org</span><span class="citation-popover-title">DB2020paper 1</span><span class="citation-popover-snippet">Corrections are more effective if in addition to providing a simple retraction (“not true”), they propose a causal alternative, and gener...</span></span></span>
 
 A useful replacement should be:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -399,7 +393,6 @@ A useful replacement should be:
 </div>
 
 Importantly, a replacement explanation is not the same as overwhelming someone with information. The Debunking Handbook and related research warn that excessive complexity can reduce effectiveness. A concise explanation that resolves the key confusion is usually more useful than a lengthy technical lecture. Center for Climate Change Communication <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Chapman University Digital CommonsA Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 642 — Rather...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SSPLiCvh7xA" title="UQx DENIAL101x 1.4.4.1 Structure of an effective debunking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SSPLiCvh7xA" target="_blank" rel="noopener noreferrer">UQx DENIAL101x 1.4.4.1 Structure of an effective debunking</a></p><p class="youtube-embed-meta">Channel: UQx Denial101x Making Sense of Climate Science Denial &middot; Views: 2.8K &middot; Uploaded: August 2016 &middot; Length: 3 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SSPLiCvh7xA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SSPLiCvh7xA">Open on YouTube</a></p></div></div></div>
 
@@ -416,7 +409,7 @@ Compare these approaches:
 
 Both challenge the claim. Only one helps the reader understand the error without implying stupidity.
 
-This distinction matters because belief revision is often easier when people can adopt a new explanation without feeling that they are surrendering social status or admitting personal inadequacy. Respectful debunking creates room for learning. Replacement explanations provide the substance that fills that room. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe rational continued influence of misinformationby SAC Desai · 2020 · Cited by 71 — Studies on the &#x27;Continued Influence Ef...</span></span></span>
+This distinction matters because belief revision is often easier when people can adopt a new explanation without feeling that they are surrendering social status or admitting personal inadequacy. Respectful debunking creates room for learning. Replacement explanations provide the substance that fills that room. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The rational continued influence of misinformationby SAC Desai · 2020 · Cited by 71 — Studies on the &#x27;Continued Influence Ef...</span></span></span>
 
 ## The Practical Takeaway
 
@@ -820,152 +813,152 @@ A correction that only negates leaves a vacuum. A correction that supplies a cle
 
 1. <a id="endnote-1"></a>
    Source: digitalcommons.chapman.edu  
-   Link: [https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&context=comm_articles](https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&context=comm_articles)  
+   Link: <a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapman University Digital CommonsA Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 642 — Rather...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729](https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe rational continued influence of misinformationby SAC Desai · 2020 · Cited by 71 — Studies on the &#x27;Continued Influence Ef...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The rational continued influence of misinformationby SAC Desai · 2020 · Cited by 71 — Studies on the &#x27;Continued Influence Ef...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing](https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing)  
+   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Misinformation and Its Correction Continued...We look at people&#x27;s [memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;) for misinformation and answer the questions o...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S004727272500043X](https://www.sciencedirect.com/science/article/pii/S004727272500043X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 21 — We conduct a randomized survey experiment to...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “[fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;)” on social media: Immediate and...by LM Berger · 2025 · Cited by 21 — We conduct a randomized survey experiment to...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cssn.org  
    Title: DB2020paper 1  
-   Link: [https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf](https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf)  
+   Link: <a href="https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Corrections are more effective if in addition to providing a simple retraction (“not true”), they propose a causal alternative, and gener...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: climatechangecommunication.org  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Corrections are most successful if people are suspicious, or...</p></details>
    Published: October 11, 2020  
 
 8. <a id="endnote-8"></a>
    Source: skepticalscience.com  
-   Link: [https://skepticalscience.com/print.php?n=4891](https://skepticalscience.com/print.php?n=4891)  
+   Link: <a href="https://skepticalscience.com/print.php?n=4891" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=4891</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceThe Debunking Handbook 2020: Debunk often and properly26 Oct 2020 — Provide a clear explanation of (1) why it is now cle...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: skepticalscience.com  
    Title: Debunking Handbook Part 5 Filling gap with alternative explanation  
-   Link: [https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html](https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html)  
+   Link: <a href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceThe Debunking Handbook Part 5: Filling the gap with an...25 Nov 2011 — The most effective way to reduce the effect of m...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: shapingtomorrowsworld.org  
-   Link: [https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html](https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html)  
+   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — The most effective way to reduce the effect of misinformatio...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: emc-lab.org  
    Title: Ecker Memory & Cognition Lab Highlights  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2015.jml.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2015.jml.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2015.jml.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2015.jml.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The data suggest...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ltrr.arizona.edu  
-   Link: [https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf](https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf)  
+   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Handbookby S Lewandowsky — The most effective way to reduce the effect of misinformation is to provide an alternative explanati...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: climatecommunication.gmu.edu  
    Title: the debunking handbook 2020  
-   Link: [https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/](https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/)  
+   Link: <a href="https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/" target="_blank" rel="noopener noreferrer nofollow">https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationThe Debunking Handbook 202013 Sept 2023 — The Debunking Handbook 2020 summarizes the current state...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: digitalcommons.unl.edu  
-   Link: [https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf](https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsThe Debunking Handbook 2020 - DigitalCommons@UNLby S Lewandowsky · Cited by 502 — Corrections are most successful if peopl...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: shapingtomorrowsworld.org  
-   Link: [https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-[backfire](https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-[backfire)  
+   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-[backfire" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-[backfire</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping Tomorrows WorldThe Debunking Handbook Part 2: The Familiarity Backfire Effect18 Nov 2011 — Ideally, avoid mentioning the myth alt...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: shapingtomorrowsworld.org  
-   Link: [https://www.shapingtomorrowsworld.org/debunking-handbook-part-1-first-myth-about-debunking.html](https://www.shapingtomorrowsworld.org/debunking-handbook-part-1-first-myth-about-debunking.html)  
+   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-1-first-myth-about-debunking.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-1-first-myth-about-debunking.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ive explanation that accounts for important qualities in the original misinformation.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: etd.ohiolink.edu  
-   Link: [https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&disposition=inline](https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&disposition=inline)  
+   Link: <a href="https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&amp;disposition=inline" target="_blank" rel="noopener noreferrer nofollow">https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&amp;disposition=inline</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ohiolink.edu1 Mechanisms in Continued Influence of Misinformationby VL Westbrook · 2022 · Cited by 1 — Research on the CIE has shown that...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bristol.ac.uk  
    Title: debunking handbook  
-   Link: [https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html](https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html)  
+   Link: <a href="https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October: Debunking Handbook | News and features14 Oct 2020 — &quot;This handbook helps explain how best to combat misinformation, namely throu...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: communityengagementhub.org  
-   Link: [https://communityengagementhub.org/resource/the-debunking-handbook/](https://communityengagementhub.org/resource/the-debunking-handbook/)  
+   Link: <a href="https://communityengagementhub.org/resource/the-debunking-handbook/" target="_blank" rel="noopener noreferrer nofollow">https://communityengagementhub.org/resource/the-debunking-handbook/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The debunking handbookA handbook on how to prevent and debunk misinformation. Available in multiple languages. Related Resources. Managin...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: research-information.bris.ac.uk  
-   Link: [https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf](https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=iQRSZpBWoPE](https://www.youtube.com/watch?v=iQRSZpBWoPE)  
+   Link: <a href="https://www.youtube.com/watch?v=iQRSZpBWoPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iQRSZpBWoPE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos are relevant because they explore the psychological &quot;continued influence effect&quot; and the necessity of providing replacement...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: education.umd.edu  
    Title: 10 14 20 debunking handbook 2020 countering misinformation  
-   Link: [https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation](https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation)  
+   Link: <a href="https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook 2020: Countering Misinformation14 Oct 2020 — The Debunking Handbook 2020 aims to do just that by summarizing the current state o...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: fondationdescartes.org  
    Title: how to effectively correct misinformation  
-   Link: [https://www.fondationdescartes.org/en/2020/07/how-to-effectively-correct-misinformation/](https://www.fondationdescartes.org/en/2020/07/how-to-effectively-correct-misinformation/)  
+   Link: <a href="https://www.fondationdescartes.org/en/2020/07/how-to-effectively-correct-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.fondationdescartes.org/en/2020/07/how-to-effectively-correct-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?Jun 30, 2020 — How can belief in misinformation be effectively corrected? Researchers in cognitive psychology investigate a series of so...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: [https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/](https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>evidence from a two-wave panel studyby L Horvath · 2024 · Cited by 1 — Correcting campaign misinformation: Experimental evidence from a t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: elias-tsakas.com  
    Title: Updating Misinformation  
-   Link: [https://www.elias-tsakas.com/Research/Papers/UpdatingMisinformation.pdf](https://www.elias-tsakas.com/Research/Papers/UpdatingMisinformation.pdf)  
+   Link: <a href="https://www.elias-tsakas.com/Research/Papers/UpdatingMisinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.elias-tsakas.com/Research/Papers/UpdatingMisinformation.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2010) study the influence of ex-ante warning subjects about misinformation. They consider a setting with a causal narrative and retract...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Ep4: Stephan Lewandowsky: Sticky Lies And Engineered Beliefs  
-   Link: [https://www.youtube.com/watch?v=nHz3SXsJb_E](https://www.youtube.com/watch?v=nHz3SXsJb_E)  
+   Link: <a href="https://www.youtube.com/watch?v=nHz3SXsJb_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nHz3SXsJb_E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Down Misleading Arguments &amp; Why Science Communication Fails with John Cook | TGS 212...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Why Continued Influence Effect is THE Most Important Phenomenon to Recognize  
-   Link: [https://www.youtube.com/watch?v=2jmF5z_ZNFE](https://www.youtube.com/watch?v=2jmF5z_ZNFE)  
+   Link: <a href="https://www.youtube.com/watch?v=2jmF5z_ZNFE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2jmF5z_ZNFE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep4: Stephan Lewandowsky: Sticky Lies And Engineered Beliefs...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby IP Kan · 2021 · Cited by 27 — Our results contribute to our understanding of how fake news persists and how we may begin to mitigat...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — Our results contribute to our understanding of how fake news persists and how we may begin to mitigat...</p></details>

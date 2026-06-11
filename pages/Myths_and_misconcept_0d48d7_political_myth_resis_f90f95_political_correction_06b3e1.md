@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a
 - Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - politics
 - social-risk
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - politics
 - social-risk
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Accepting a correction can threaten friendships, family ties, status, and belonging when a myth has become a group signal.
 hero_summary: Accepting a correction can threaten friendships, family ties, status, and belonging when a myth has become a group signal.
 layout: default
 permalink: /social-risk/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /politics/
 nav_short_title: Social Risk
 title: Why Changing Your Mind Can Feel Like Betrayal
-title_full: Why Changing Your Mind Can Feel Like Betrayal | Politics
+title_full: Why Changing Your Mind Can Feel Like Betrayal
 display_title_short: Social Risk
 display_title: Social Risk
 heading_title: Why Changing Your Mind Can Feel Like Betrayal
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Political Myths Resist Correction | Mythcraft
+parent_title: Why Political Myths Resist Correction
 parent_permalink: /politics/
 parent_nav_short_title: Politics
 parent_heading_title: Why Political Myths Resist Correction
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Smart People Defend False Political Claims
 up_link:
   basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
@@ -259,7 +259,7 @@ prev_link:
   permalink: /smart-defenses/
   short_title: Smart Defenses
   heading_title: When Smart People Defend False Political Claims
-date: '2026-06-09 05:45:11 '
+date: '2026-06-11 22:42:07 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_political_correction_06b3e1-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_political_correction_06b3e1-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_po
 
 Political myths often survive not because people never encounter [corrections]({{ 'corrections/' | relative_url }}), but because accepting a [correction]({{ 'correction/' | relative_url }}) can carry social consequences. In highly polarised environments, a factual claim may double as a signal of loyalty, identity or belonging. Admitting that a political belief was wrong can feel less like updating information and more like risking conflict with friends, family members, colleagues or online communities.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_political_correction_06b3e1-Illustration-1-dark.svg" | relative_url }}" alt="Social Risk illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_political_correction_06b3e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_political_correction_06b3e1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on misinformation, social [identity]({{ 'identity/' | relative_url }}) and political psychology suggests that many people experience political disagreements through a social lens. A correction may threaten relationships, status within a group or a sense of moral consistency. As a result, the obstacle is often not a lack of information. The obstacle is the fear that changing one's mind will be interpreted as changing sides. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectUpdating the identity-based model of belief: From false...by JJ Van Bavel · 2024 · Cited by 92 — The spread of misinformati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic ScholarMisinformation and Identity-Protective Cognition2 Oct 2017 — This paper synthesizes existing work on misinformation relat...</span></span></span>
+Research on misinformation, social [identity]({{ 'identity/' | relative_url }}) and political psychology suggests that many people experience political disagreements through a social lens. A correction may threaten relationships, status within a group or a sense of moral consistency. As a result, the obstacle is often not a lack of information. The obstacle is the fear that changing one's mind will be interpreted as changing sides. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Updating the identity-based model of belief: From false...by JJ Van Bavel · 2024 · Cited by 92 — The spread of misinformati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic ScholarMisinformation and Identity-Protective Cognition2 Oct 2017 — This paper synthesizes existing work on misinformation relat...</span></span></span>
 
 ## Why Changing Your Mind Can Feel Like Betrayal
 
@@ -283,7 +282,7 @@ When this happens, accepting a correction can create a [conflict]({{ 'conflict/'
 * Being accurate.
 * Remaining aligned with a valued group.
 
-Researchers studying identity-protective cognition argue that people often process information in ways that protect their standing within important social groups. The pressure is not necessarily conscious. Instead, information that threatens a group's shared narrative can feel personally unsettling because it risks social separation or loss of status. Semantic Scholar <span class="citation-chip-wrap"><a class="citation-chip" href="https://informalscience.org/identity/dan-kahan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informalscience.org">[2informalscience.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informalscience.org</span><span class="citation-popover-snippet">Identity | Dan KahanDan Kahan&#x27;s identity-related work has focused on “identity protective cognition”, which refers to the tendency of ind...</span></span></span>
+Researchers studying identity-protective cognition argue that people often process information in ways that protect their standing within important social groups. The pressure is not necessarily conscious. Instead, information that threatens a group's shared narrative can feel personally unsettling because it risks social separation or loss of status. Semantic Scholar <span class="citation-chip-wrap"><a class="citation-chip" href="https://informalscience.org/identity/dan-kahan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informalscience.org">[2informalscience.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informalscience.org</span><span class="citation-popover-snippet">Identity &#124; Dan KahanDan Kahan&#x27;s identity-related work has focused on “identity protective cognition”, which refers to the tendency of ind...</span></span></span>
 
 This helps explain why political corrections can feel unusually charged. A person may not only be evaluating whether a claim is true. They may also be evaluating what accepting the correction would communicate about who they are.
 
@@ -296,7 +295,6 @@ Political communities often develop shared stories about national events, instit
 A claim that began as an empirical question may gradually become a symbolic marker. Members signal commitment by repeating it, defending it or treating scepticism as suspicious. Under these conditions, changing one's position may be interpreted by others as evidence of weakened commitment to the group itself. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hybridcoe.fi/wp-content/uploads/2023/11/20231108-Hybrid-CoE-SA-34-Identity-as-a-tool-for-disinformation-WEB.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hybridcoe.fi">[2hybridcoe.fi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hybridcoe.fi</span><span class="citation-popover-snippet">Identity as a tool for disinformation: Exploiting social...8 Nov 2023 — Identities can therefore be manipulated and attacked through the...</span></span></span>
 
 This dynamic appears across ideological and national contexts. The specific beliefs differ, but the underlying mechanism is similar: factual positions become social badges.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kARkOdRHaj8" title="How to Deal with Difficult People | Jay Johnson | TEDxLivoniaCCLibrary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kARkOdRHaj8" target="_blank" rel="noopener noreferrer">How to Deal with Difficult People | Jay Johnson | TEDxLivoniaCCLibrary</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 5.8M &middot; Uploaded: October 2018 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kARkOdRHaj8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kARkOdRHaj8">Open on YouTube</a></p></div></div></div>
 
@@ -320,7 +318,6 @@ This does not mean people are secretly free of political bias. It does suggest t
 
 For many people, [politics]({{ 'politics/' | relative_url }}) is intertwined with family, friendship and community ties. Admitting error may trigger uncomfortable questions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Will friends see me differently?
@@ -332,8 +329,7 @@ For many people, [politics]({{ 'politics/' | relative_url }}) is intertwined wit
 
 These concerns can make silence feel safer than open revision. A person may privately reconsider a belief while avoiding public acknowledgment of the change.
 
-The stronger the social connection between political identity and everyday relationships, the higher these perceived costs become. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4980014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExplaining Lifelong Loyalty: The Role of Identity Fusion</span><span class="citation-popover-snippet">PMCby M Newson · 2016 · Cited by 176 — In Van Vugt and Hart&#x27;s study [17], positive group perception explained group loyalty better than &#x27;...</span></span></span>
-
+The stronger the social connection between political identity and everyday relationships, the higher these perceived costs become. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4980014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExplaining Lifelong Loyalty: The Role of Identity Fusion</span><span class="citation-popover-snippet">by M Newson · 2016 · Cited by 176 — In Van Vugt and Hart&#x27;s study [17], positive group perception explained group loyalty better than &#x27;...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_political_correction_06b3e1-Illustration-2-dark.svg" | relative_url }}" alt="Social Risk illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_political_correction_06b3e1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_political_correction_06b3e1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Losing status inside a community
@@ -342,7 +338,7 @@ Political groups often reward consistency and commitment. Members who strongly d
 
 In online spaces, these pressures can be amplified. Social media platforms make political expressions visible, searchable and easy to judge. A correction is no longer merely a private update. It can become a public performance witnessed by allies, critics and strangers alike.
 
-Research on misinformation challenges online has found that social concerns are among the most common barriers preventing people from correcting false claims or confronting misleading content. Many users anticipate conflict, backlash or damaged relationships if they speak up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectUpdating the identity-based model of belief: From false...by JJ Van Bavel · 2024 · Cited by 92 — The spread of misinformati...</span></span></span>
+Research on misinformation challenges online has found that social concerns are among the most common barriers preventing people from correcting false claims or confronting misleading content. Many users anticipate conflict, backlash or damaged relationships if they speak up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Updating the identity-based model of belief: From false...by JJ Van Bavel · 2024 · Cited by 92 — The spread of misinformati...</span></span></span>
 
 ### The fear of helping the opposition
 
@@ -350,8 +346,7 @@ Another social risk comes from zero-sum political thinking. In highly polarised 
 
 People may worry that acknowledging one false claim will be interpreted as conceding a broader political battle. As a result, the factual correction becomes linked to concerns about collective success or failure rather than accuracy alone.
 
-This helps explain why some myths persist even after substantial evidence accumulates against them. The social meaning attached to the belief may become more important than the factual claim itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectUpdating the identity-based model of belief: From false...by JJ Van Bavel · 2024 · Cited by 92 — The spread of misinformati...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/401514533_Partisan_Expressive_Responding_Lessons_from_Two_Decades_of_Research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">401514533 Partisan Expressive Responding Lessons from Two Decades of Research</span><span class="citation-popover-snippet">PDF) Partisan Expressive Responding: Lessons from Two...19 May 2026 — Research on partisan expressive responding suggests that the beli...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
-
+This helps explain why some myths persist even after substantial evidence accumulates against them. The social meaning attached to the belief may become more important than the factual claim itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Updating the identity-based model of belief: From false...by JJ Van Bavel · 2024 · Cited by 92 — The spread of misinformati...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/401514533_Partisan_Expressive_Responding_Lessons_from_Two_Decades_of_Research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">401514533 Partisan Expressive Responding Lessons from Two Decades of Research</span><span class="citation-popover-snippet">PDF) Partisan Expressive Responding: Lessons from Two...19 May 2026 — Research on partisan expressive responding suggests that the beli...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k-Fp7w84ECU" title="Dealing with Hostile Conversations (5 Steps)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k-Fp7w84ECU" target="_blank" rel="noopener noreferrer">Dealing with Hostile Conversations (5 Steps)</a></p><p class="youtube-embed-meta">Channel: Vinh Giang &middot; Views: 2.6M &middot; Uploaded: December 2024 &middot; Length: 1 minute 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k-Fp7w84ECU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k-Fp7w84ECU">Open on YouTube</a></p></div></div></div>
 
@@ -359,7 +354,7 @@ This helps explain why some myths persist even after substantial evidence accumu
 
 A common assumption is that people reject corrections because they have not seen enough evidence. Sometimes that is true. But in politically charged contexts, evidence can collide with social incentives.
 
-Researchers increasingly describe misinformation as part of a broader social system involving identity, belonging and group cohesion. Groups may collectively resist uncomfortable information because accepting it threatens shared narratives that help maintain solidarity and status. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectUpdating the identity-based model of belief: From false...by JJ Van Bavel · 2024 · Cited by 92 — The spread of misinformati...</span></span></span>
+Researchers increasingly describe misinformation as part of a broader social system involving identity, belonging and group cohesion. Groups may collectively resist uncomfortable information because accepting it threatens shared narratives that help maintain solidarity and status. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Updating the identity-based model of belief: From false...by JJ Van Bavel · 2024 · Cited by 92 — The spread of misinformati...</span></span></span>
 
 This means that factual accuracy and social safety do not always point in the same direction. A correction can be intellectually persuasive while remaining socially costly.
 
@@ -372,7 +367,6 @@ The distinction matters because it changes how myth persistence is understood. T
 Evidence from political communication research suggests that corrections can be more effective when delivered by people perceived as members of the same community. Shared identity reduces the fear that accepting new information requires joining an opposing camp. <span class="citation-chip-wrap"><a class="citation-chip" href="https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/6312bf995351a3f5e0ed3b89/original/partisan-political-beliefs-and-social-learning.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: preprints.apsanet.org">[APSA Preprints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">preprints.apsanet.org</span><span class="citation-popover-title">partisan political beliefs and social learning</span><span class="citation-popover-snippet">APSA PreprintsPartisan Political Beliefs and Social Learningby P Matthews · 2022 — We find that participants are responsive to the cues o...</span></span></span>
 
 When a correction is framed as protecting the group's values rather than attacking them, people may find it easier to reconsider a claim without feeling disloyal.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_political_correction_06b3e1-Illustration-3-dark.svg" | relative_url }}" alt="Social Risk illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_political_correction_06b3e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_political_correction_06b3e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Creating room for uncertainty
@@ -389,14 +383,13 @@ A person can remain committed to a political movement, value system or community
 
 Where that distinction collapses, myths become unusually resistant. Rejecting a false claim starts to resemble rejecting the group itself.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GxAu7BTZQRY" title="Cognitive Dissonance: Your Response to Conflicting Beliefs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GxAu7BTZQRY" target="_blank" rel="noopener noreferrer">Cognitive Dissonance: Your Response to Conflicting Beliefs</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 237.2K &middot; Uploaded: October 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GxAu7BTZQRY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GxAu7BTZQRY">Open on YouTube</a></p></div></div></div>
 
 ## Social Risk Helps Explain Why Myths Persist
 
 Political myths are often sustained by more than confusion or lack of information. They can persist because beliefs become woven into relationships, identities and social expectations. In those circumstances, accepting a correction may carry emotional and social costs that extend far beyond the disputed fact.
 
-Understanding this mechanism helps explain why misinformation can survive repeated [debunking]({{ 'debunking/' | relative_url }}). People are not only deciding what is true. They are also navigating questions of trust, loyalty, status and belonging. When changing one's mind feels socially dangerous, even strong evidence may struggle to compete with the desire to remain connected to a valued group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectUpdating the identity-based model of belief: From false...by JJ Van Bavel · 2024 · Cited by 92 — The spread of misinformati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic ScholarMisinformation and Identity-Protective Cognition2 Oct 2017 — This paper synthesizes existing work on misinformation relat...</span></span></span>
+Understanding this mechanism helps explain why misinformation can survive repeated [debunking]({{ 'debunking/' | relative_url }}). People are not only deciding what is true. They are also navigating questions of trust, loyalty, status and belonging. When changing one's mind feels socially dangerous, even strong evidence may struggle to compete with the desire to remain connected to a valued group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Updating the identity-based model of belief: From false...by JJ Van Bavel · 2024 · Cited by 92 — The spread of misinformati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic ScholarMisinformation and Identity-Protective Cognition2 Oct 2017 — This paper synthesizes existing work on misinformation relat...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -794,150 +787,150 @@ Understanding this mechanism helps explain why misinformation can survive repeat
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002324](https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002324)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectUpdating the identity-based model of belief: From false...by JJ Van Bavel · 2024 · Cited by 92 — The spread of misinformati...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002324" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002324</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Updating the identity-based model of belief: From false...by JJ Van Bavel · 2024 · Cited by 92 — The spread of misinformati...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: informalscience.org  
-   Link: [https://informalscience.org/identity/dan-kahan/](https://informalscience.org/identity/dan-kahan/)  
+   Link: <a href="https://informalscience.org/identity/dan-kahan/" target="_blank" rel="noopener noreferrer nofollow">https://informalscience.org/identity/dan-kahan/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity | Dan KahanDan Kahan&#x27;s identity-related work has focused on “identity protective cognition”, which refers to the tendency of ind...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: hybridcoe.fi  
-   Link: [https://www.hybridcoe.fi/wp-content/uploads/2023/11/20231108-Hybrid-CoE-SA-34-Identity-as-a-tool-for-disinformation-WEB.pdf](https://www.hybridcoe.fi/wp-content/uploads/2023/11/20231108-Hybrid-CoE-SA-34-Identity-as-a-tool-for-disinformation-WEB.pdf)  
+   Link: <a href="https://www.hybridcoe.fi/wp-content/uploads/2023/11/20231108-Hybrid-CoE-SA-34-Identity-as-a-tool-for-disinformation-WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hybridcoe.fi/wp-content/uploads/2023/11/20231108-Hybrid-CoE-SA-34-Identity-as-a-tool-for-disinformation-WEB.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity as a tool for disinformation: Exploiting social...8 Nov 2023 — Identities can therefore be manipulated and attacked through the...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: people.jacobs.cornell.edu  
    Title: The Role of Source and Expressive Responding in Political  
-   Link: [https://people.jacobs.cornell.edu/mor/publications/thegoods/jakesch_cplusj19__trustnews.pdf](https://people.jacobs.cornell.edu/mor/publications/thegoods/jakesch_cplusj19__trustnews.pdf)  
+   Link: <a href="https://people.jacobs.cornell.edu/mor/publications/thegoods/jakesch_cplusj19__trustnews.pdf" target="_blank" rel="noopener noreferrer nofollow">https://people.jacobs.cornell.edu/mor/publications/thegoods/jakesch_cplusj19__trustnews.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Studies have observed that readers are more likely to trust news sources that align with their own political leanings...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: johnbullock.org  
    Title: Partisan Bias in Factual Beliefs about Politics  
-   Link: [https://johnbullock.org/papers/partisanBiasInFactualBeliefs.pdf](https://johnbullock.org/papers/partisanBiasInFactualBeliefs.pdf)  
+   Link: <a href="https://johnbullock.org/papers/partisanBiasInFactualBeliefs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://johnbullock.org/papers/partisanBiasInFactualBeliefs.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 24, 2020 — by JG Bullock · 2015 · Cited by 800 — The model shows that incentives can reduce partisan divergence when expressive r...</p></details>
    Published: October 24, 2020  
 
 6. <a id="endnote-6"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/perspectives-on-politics/article/expressive-survey-responding-a-closer-look-at-the-evidence-and-its-implications-for-american-democracy/6A103C2A09C4F37C5AEA5F95A7E869DD](https://www.cambridge.org/core/journals/perspectives-on-politics/article/expressive-survey-responding-a-closer-look-at-the-evidence-and-its-implications-for-american-democracy/6A103C2A09C4F37C5AEA5F95A7E869DD)  
+   Link: <a href="https://www.cambridge.org/core/journals/perspectives-on-politics/article/expressive-survey-responding-a-closer-look-at-the-evidence-and-its-implications-for-american-democracy/6A103C2A09C4F37C5AEA5F95A7E869DD" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/perspectives-on-politics/article/expressive-survey-responding-a-closer-look-at-the-evidence-and-its-implications-for-american-democracy/6A103C2A09C4F37C5AEA5F95A7E869DD</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentExpressive Survey Responding: A Closer Look at the...by A Malka · 2023 · Cited by 60 — Concerns a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: 401514533 Partisan Expressive Responding Lessons from Two Decades of Research  
-   Link: [https://www.researchgate.net/publication/401514533_Partisan_Expressive_Responding_Lessons_from_Two_Decades_of_Research](https://www.researchgate.net/publication/401514533_Partisan_Expressive_Responding_Lessons_from_Two_Decades_of_Research)  
+   Link: <a href="https://www.researchgate.net/publication/401514533_Partisan_Expressive_Responding_Lessons_from_Two_Decades_of_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401514533_Partisan_Expressive_Responding_Lessons_from_Two_Decades_of_Research</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Partisan Expressive Responding: Lessons from Two...19 May 2026 — Research on partisan expressive responding suggests that the beli...</p></details>
    Published: May 2026  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExplaining Lifelong Loyalty: The Role of Identity Fusion  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4980014/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4980014/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby M Newson · 2016 · Cited by 176 — In Van Vugt and Hart&#x27;s study [17], positive group perception explained [group loyalty](&amp;#123;&amp;#123; &#x27;group-loyalty/&#x27; | relative_url &amp;#125;&amp;#125;) better than &#x27;...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4980014/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4980014/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Newson · 2016 · Cited by 176 — In Van Vugt and Hart&#x27;s study [17], positive group perception explained [group loyalty](&amp;#123;&amp;#123; &#x27;group-loyalty/&#x27; | relative_url &amp;#125;&amp;#125;) better than &#x27;...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Why do we not stand up to misinformation?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0160791X2300249X](https://www.sciencedirect.com/science/article/pii/S0160791X2300249X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0160791X2300249X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0160791X2300249X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>S Gurgun · 2024 · Cited by 59 —... identity threats and political self-censorship on social media&#x27;. Int. J... correcting...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/317999685_Misconceptions_Misinformation_and_the_Logic_of_Identity-Protective_Cognition](https://www.researchgate.net/publication/317999685_Misconceptions_Misinformation_and_the_Logic_of_Identity-Protective_Cognition)  
+   Link: <a href="https://www.researchgate.net/publication/317999685_Misconceptions_Misinformation_and_the_Logic_of_Identity-Protective_Cognition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317999685_Misconceptions_Misinformation_and_the_Logic_of_Identity-Protective_Cognition</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions, Misinformation, and the Logic of Identity-...This tendency is compounded by identity-protective cognition, in which indi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: studies and evolving threats.Read more  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11724212/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11724212/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCUnderstanding and Combating Misinformation - PMC - NIHby NL Bragazzi · 2024 · Cited by 21 — As previously said, misinformation can pla...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11724212/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11724212/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding and Combating Misinformation - PMC - NIHby NL Bragazzi · 2024 · Cited by 21 — As previously said, misinformation can pla...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X25002064](https://www.sciencedirect.com/science/article/pii/S2352250X25002064)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectA social-psychological model of the self-reinforcing cycle...by T Gkinopoulos · 2025 · Cited by 3 — While prior research ha...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X25002064" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X25002064</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A social-psychological model of the self-reinforcing cycle...by T Gkinopoulos · 2025 · Cited by 3 — While prior research ha...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE](https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE)  
+   Link: <a href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Identity-protective reasoning – motivated...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
    Title: To correct or not to correct?  
-   Link: [https://www.researchgate.net/publication/347314690_To_correct_or_not_to_correct_Social_identity_threats_increase_willingness_to_denounce_fake_news_through_presumed_media_influence_and_hostile_media_perceptions](https://www.researchgate.net/publication/347314690_To_correct_or_not_to_correct_Social_identity_threats_increase_willingness_to_denounce_fake_news_through_presumed_media_influence_and_hostile_media_perceptions)  
+   Link: <a href="https://www.researchgate.net/publication/347314690_To_correct_or_not_to_correct_Social_identity_threats_increase_willingness_to_denounce_fake_news_through_presumed_media_influence_and_hostile_media_perceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347314690_To_correct_or_not_to_correct_Social_identity_threats_increase_willingness_to_denounce_fake_news_through_presumed_media_influence_and_hostile_media_perceptions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social identity threats increase...2 Dec 2020 —... political misinformation spreading on social media, user correction... [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) as...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc](https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc)  
+   Link: <a href="https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic ScholarMisinformation and Identity-Protective Cognition2 Oct 2017 — This paper synthesizes existing work on misinformation relat...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: preprints.apsanet.org  
    Title: partisan political beliefs and social learning  
-   Link: [https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/6312bf995351a3f5e0ed3b89/original/partisan-political-beliefs-and-social-learning.pdf](https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/6312bf995351a3f5e0ed3b89/original/partisan-political-beliefs-and-social-learning.pdf)  
+   Link: <a href="https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/6312bf995351a3f5e0ed3b89/original/partisan-political-beliefs-and-social-learning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/6312bf995351a3f5e0ed3b89/original/partisan-political-beliefs-and-social-learning.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>APSA PreprintsPartisan Political Beliefs and Social Learningby P Matthews · 2022 — We find that participants are responsive to the cues o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/The-roles-of-information-deficits-and-identity-in-Nyhan-Reifler/65eb15ca42184864c8d46e4f4672bcff047648da](https://www.semanticscholar.org/paper/The-roles-of-information-deficits-and-identity-in-Nyhan-Reifler/65eb15ca42184864c8d46e4f4672bcff047648da)  
+   Link: <a href="https://www.semanticscholar.org/paper/The-roles-of-information-deficits-and-identity-in-Nyhan-Reifler/65eb15ca42184864c8d46e4f4672bcff047648da" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-roles-of-information-deficits-and-identity-in-Nyhan-Reifler/65eb15ca42184864c8d46e4f4672bcff047648da</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its resistance to correction.Read more...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: resdal.org  
-   Link: [https://www.resdal.org/Archivo/vconflict-identity.htm](https://www.resdal.org/Archivo/vconflict-identity.htm)  
+   Link: <a href="https://www.resdal.org/Archivo/vconflict-identity.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.resdal.org/Archivo/vconflict-identity.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Identity, Group Loyalty, and Intergroup ConflictThis study was designed to test and get some empirical verification of whether the...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: europarl.europa.eu  
-   Link: [https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653635/EXPO_STU%282021%29653635_EN.pdf](https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653635/EXPO_STU%282021%29653635_EN.pdf)  
+   Link: <a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653635/EXPO_STU%282021%29653635_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653635/EXPO_STU%282021%29653635_EN.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Under this definition, the risk of harm includes threats to...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pen.org  
-   Link: [https://pen.org/the-psychology-of-belief-and-how-perceived-threats-to-identity-are-linked-to-misinformation/](https://pen.org/the-psychology-of-belief-and-how-perceived-threats-to-identity-are-linked-to-misinformation/)  
+   Link: <a href="https://pen.org/the-psychology-of-belief-and-how-perceived-threats-to-identity-are-linked-to-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://pen.org/the-psychology-of-belief-and-how-perceived-threats-to-identity-are-linked-to-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychology of belief, and how perceived threats to...28 Oct 2024 — The psychology of belief, and how perceived threats to identity a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Are Smart People Ruining Democracy? | Dan Kahan | TEDx Vienna  
-   Link: [http://www.youtube.com/watch?v=1KFtQV7SiII](http://www.youtube.com/watch?v=1KFtQV7SiII)  
+   Link: <a href="http://www.youtube.com/watch?v=1KFtQV7SiII" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1KFtQV7SiII</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why is it hard to change political opinions social risk Dealing with Hostile Conversations (5 Steps) Vinh Giang...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/02691728.2024.2362680](https://www.tandfonline.com/doi/full/10.1080/02691728.2024.2362680)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02691728.2024.2362680" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02691728.2024.2362680</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: How Partisanship Can Moderate the Influence...by M van Doorn · 2025 · Cited by 2 — Partisan epistem...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=QBUcOb_hnjU](http://www.youtube.com/watch?v=QBUcOb_hnjU)  
+   Link: <a href="http://www.youtube.com/watch?v=QBUcOb_hnjU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QBUcOb_hnjU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Dissonance: Your Response to Conflicting Beliefs...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11574615/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11574615/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11574615/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11574615/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>belief in new misinformation is resistant to accuracy...by J Stein · 2024 · Cited by 5 — We study how experimental participants rate the...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: How to Deal with Difficult People | Jay Johnson | TEDx Livonia CCLibrary  
-   Link: [http://www.youtube.com/watch?v=kARkOdRHaj8](http://www.youtube.com/watch?v=kARkOdRHaj8)  
+   Link: <a href="http://www.youtube.com/watch?v=kARkOdRHaj8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kARkOdRHaj8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Smart People Ruining Democracy? | Dan Kahan | TEDxVienna...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8643655/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8643655/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8643655/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8643655/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There is much concern today about the spread of fake news and the misinformation it can produce among the public.Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pcl.sites.stanford.edu  
    Title: peterson ajps partisan gaps  
-   Link: [https://pcl.sites.stanford.edu/sites/g/files/sbiybj22066/files/media/file/peterson-ajps-partisan-gaps.pdf](https://pcl.sites.stanford.edu/sites/g/files/sbiybj22066/files/media/file/peterson-ajps-partisan-gaps.pdf)  
+   Link: <a href="https://pcl.sites.stanford.edu/sites/g/files/sbiybj22066/files/media/file/peterson-ajps-partisan-gaps.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pcl.sites.stanford.edu/sites/g/files/sbiybj22066/files/media/file/peterson-ajps-partisan-gaps.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In one, partisan divides reflect genuine differences in factual beliefs...</p></details>

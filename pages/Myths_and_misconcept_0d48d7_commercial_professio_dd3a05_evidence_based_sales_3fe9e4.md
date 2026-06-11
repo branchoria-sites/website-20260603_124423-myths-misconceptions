@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_learning_styles_matc_b7f2ed
 - Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - commercial-myths
 - evidence-labels
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - commercial-myths
 - evidence-labels
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A product is not proven just because it cites research on a broad principle such as feedback, motivation or practice.
 hero_summary: A product is not proven just because it cites research on a broad principle such as feedback, motivation or practice.
 layout: default
 permalink: /evidence-based/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /commercial-myths/
 nav_short_title: “Evidence Based”
 title: When evidence based becomes a sales phrase
-title_full: When evidence based becomes a sales phrase | Commercial Myths
+title_full: When evidence based becomes a sales phrase
 display_title_short: “Evidence Based”
 display_title: “Evidence Based”
 heading_title: When evidence based becomes a sales phrase
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Myths Come in Professional Packaging | Mythcraft
+parent_title: When Myths Come in Professional Packaging
 parent_permalink: /commercial-myths/
 parent_nav_short_title: Commercial Myths
 parent_heading_title: When Myths Come in Professional Packaging
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Do learning styles products really help?
 up_link:
   basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
@@ -259,7 +259,7 @@ prev_link:
   permalink: /learning-styles-2d3803/
   short_title: Learning styles
   heading_title: Do learning styles products really help?
-date: '2026-06-09 05:01:06 '
+date: '2026-06-11 22:19:48 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4-Illustration-1.webp
@@ -270,11 +270,10 @@ image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_ev
 
 “Evidence-based” is one of the most persuasive phrases in education, training, coaching and professional development. Used carefully, it signals that decisions are informed by research rather than intuition alone. Used loosely, it can become part of the marketing. A common misconception is that a programme is proven simply because its website cites studies about feedback, motivation, [memory]({{ 'memory/' | relative_url }}), practice or other broad learning principles. In reality, evidence supporting a general mechanism is not the same as evidence showing that a specific product, training package or intervention produces the outcomes it claims. The distinction matters because buyers often invest money, time and organisational trust in programmes that have borrowed the authority of research without demonstrating their own effectiveness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nesta.org.uk/documents/What-Counts-as-Good-Evidence-WEB.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nesta.org.uk">[media.nesta.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nesta.org.uk</span><span class="citation-popover-snippet">What counts as good evidence?February 22, 2013 — by SM Nutley · 2013 · Cited by 306 — Research–based – the programme or practice is based...</span><span class="citation-popover-meta">Published: February 22, 2013</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4-Illustration-1-dark.svg" | relative_url }}" alt="“Evidence Based” illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why broad research does not prove a product
 
-A programme may be built around an idea that has substantial research support. For example, there is strong evidence that feedback can improve learning under the right conditions, and there is extensive research on retrieval practice, spaced learning and other instructional approaches. Yet evidence for a principle does not automatically transfer to every branded system that claims to apply it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-using-research-evidence-navigating-the-maze-of-evidence-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog using research evidence navigating the maze of evidence claims</span><span class="citation-popover-snippet">Using Research Evidence — navigating the maze of… | EEF11 Jan 2024 — The EEF&#x27;s concise guide on using research evidence includes informat...</span></span></span>
+A programme may be built around an idea that has substantial research support. For example, there is strong evidence that feedback can improve learning under the right conditions, and there is extensive research on retrieval practice, spaced learning and other instructional approaches. Yet evidence for a principle does not automatically transfer to every branded system that claims to apply it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-using-research-evidence-navigating-the-maze-of-evidence-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog using research evidence navigating the maze of evidence claims</span><span class="citation-popover-snippet">Using Research Evidence — navigating the maze of… &#124; EEF11 Jan 2024 — The EEF&#x27;s concise guide on using research evidence includes informat...</span></span></span>
 
 The key question is whether the programme itself has been tested. A company might cite dozens of studies showing that feedback matters, but those studies do not prove that its training package, software platform or consultancy process improves outcomes. Between a general principle and a commercial product lie many design choices: implementation methods, user training, context, dosage, measurement and fidelity. Any of these can influence whether a programme succeeds, fails or produces no meaningful effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/feedback" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFTeacher Feedback to Improve Pupil Learning11 Jun 2021 — This guidance report focuses on teacher-delivered feedback and is relevant to...</span></span></span>
 
@@ -294,29 +293,25 @@ Good programme evidence usually includes several features:
 * **A comparison group**, allowing evaluators to estimate what would have happened without the programme.
 * **Relevant outcome measures**, such as learning, performance, behaviour or attainment rather than simple satisfaction ratings.
 * **Replication**, showing that results are not dependent on a single setting or unusually favourable conditions.
-* **Transparency**, including publication of methods, limitations and findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ies.ed.gov/ncee/wwc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ies.ed.gov">[ies.ed.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ies.ed.gov</span><span class="citation-popover-title">WW C | Find What Works!</span><span class="citation-popover-snippet">WWC | Find What Works! - Institute of Education SciencesIntervention Reports: summaries of findings of the highest-quality research on a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.3102/00346543231152262" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHow Consistent Are Meanings of “Evidence-Based”? A...21 Feb 2023 — Clearinghouses set standards of scientific quality to ve...</span></span></span>
+* **Transparency**, including publication of methods, limitations and findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ies.ed.gov/ncee/wwc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ies.ed.gov">[ies.ed.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ies.ed.gov</span><span class="citation-popover-title">WW C &#124; Find What Works!</span><span class="citation-popover-snippet">WWC &#124; Find What Works! - Institute of Education SciencesIntervention Reports: summaries of findings of the highest-quality research on a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.3102/00346543231152262" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHow Consistent Are Meanings of “Evidence-Based”? A...21 Feb 2023 — Clearinghouses set standards of scientific quality to ve...</span></span></span>
 
-This is why organisations such as the Education Endowment Foundation (EEF) and the What Works Clearinghouse place substantial emphasis on evaluation quality. Their focus is not simply whether an intervention sounds plausible but whether credible evidence indicates that it improves outcomes in practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ies.ed.gov/ncee/wwc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ies.ed.gov">[ies.ed.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ies.ed.gov</span><span class="citation-popover-title">WW C | Find What Works!</span><span class="citation-popover-snippet">WWC | Find What Works! - Institute of Education SciencesIntervention Reports: summaries of findings of the highest-quality research on a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Teaching and Learning ToolkitThe EEF is an independent charity dedicated to breaking the link between family income and educational achie...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ua7NTspSJKI" title="Using WWC Resources to Identify Interventions that Meet the ESSA Tiers of Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ua7NTspSJKI" target="_blank" rel="noopener noreferrer">Using WWC Resources to Identify Interventions that Meet the ESSA Tiers of Evidence</a></p><p class="youtube-embed-meta">Channel: Institute of Education Sciences &middot; Views: 1.7K &middot; Uploaded: May 2020 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ua7NTspSJKI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ua7NTspSJKI">Open on YouTube</a></p></div></div></div>
+This is why organisations such as the Education Endowment Foundation (EEF) and the What Works Clearinghouse place substantial emphasis on evaluation quality. Their focus is not simply whether an intervention sounds plausible but whether credible evidence indicates that it improves outcomes in practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ies.ed.gov/ncee/wwc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ies.ed.gov">[ies.ed.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ies.ed.gov</span><span class="citation-popover-title">WW C &#124; Find What Works!</span><span class="citation-popover-snippet">WWC &#124; Find What Works! - Institute of Education SciencesIntervention Reports: summaries of findings of the highest-quality research on a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Teaching and Learning ToolkitThe EEF is an independent charity dedicated to breaking the link between family income and educational achie...</span></span></span>
 
 ### Plausible is not the same as effective
 
 One reason citation borrowing is persuasive is that many programmes are built around ideas that genuinely sound sensible.
 
-The learning-styles movement illustrates the problem. The underlying observation that people have preferences is uncontroversial. However, the stronger claim—that learners should be classified and taught according to their preferred style—requires direct evidence. Major reviews found that the evidence needed to support this matching approach was lacking, despite widespread promotion and commercial adoption. Many learning-styles products therefore rested on a plausible-sounding mechanism rather than demonstrated programme effectiveness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4949 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283145/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using these standards, some clearinghouses rate interventions as “evidence-based”...Read more...</span></span></span>
+The learning-styles movement illustrates the problem. The underlying observation that people have preferences is uncontroversial. However, the stronger claim—that learners should be classified and taught according to their preferred style—requires direct evidence. Major reviews found that the evidence needed to support this matching approach was lacking, despite widespread promotion and commercial adoption. Many learning-styles products therefore rested on a plausible-sounding mechanism rather than demonstrated programme effectiveness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4949 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283145/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using these standards, some clearinghouses rate interventions as “evidence-based”...Read more...</span></span></span>
 
 The lesson extends beyond learning styles. Any programme can cite valid research while still lacking proof that its own implementation works.
 
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4-Illustration-2-dark.svg" | relative_url }}" alt="“Evidence Based” illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How buyers can spot citation borrowing
 
 Governance decisions become easier when buyers learn to separate evidence about a principle from evidence about a programme.
 
 Several warning signs are worth examining.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4-Illustration-2-dark.svg" | relative_url }}" alt="“Evidence Based” illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Research is cited, but the programme is not evaluated
 
 A provider may present a long bibliography yet offer no independent studies of the actual intervention. The references discuss broad topics such as motivation, neuroscience, feedback or behaviour change, but none directly test the programme being sold.
@@ -329,8 +324,7 @@ Case studies and testimonials can be useful sources of practical insight, but th
 
 Evidence claims become stronger when accompanied by independently collected outcome data rather than [anecdotes]({{ 'anecdotes/' | relative_url }}) alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eppi.ioe.ac.uk/cms/Portals/0/PDF%20reviews%20and%20summaries/CFHI_EVIDENCE_STANDARDS_REPORT_V15_PRINT.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eppi.ioe.ac.uk">[eppi.ioe.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eppi.ioe.ac.uk</span><span class="citation-popover-title">CFHI EVIDENCE STANDARDS REPORT V15 PRINT</span><span class="citation-popover-snippet">The research on the...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tzrwxLNHtRY" title="Model Context Protocol Clearly Explained | MCP Beyond the Hype" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tzrwxLNHtRY" target="_blank" rel="noopener noreferrer">Model Context Protocol Clearly Explained | MCP Beyond the Hype</a></p><p class="youtube-embed-meta">Channel: codebasics</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tzrwxLNHtRY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tzrwxLNHtRY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ua7NTspSJKI" title="Using WWC Resources to Identify Interventions that Meet the ESSA Tiers of Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ua7NTspSJKI" target="_blank" rel="noopener noreferrer">Using WWC Resources to Identify Interventions that Meet the ESSA Tiers of Evidence</a></p><p class="youtube-embed-meta">Channel: Institute of Education Sciences &middot; Views: 1.7K &middot; Uploaded: May 2020 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ua7NTspSJKI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ua7NTspSJKI">Open on YouTube</a></p></div></div></div>
 
 ### The phrase “evidence-based” is undefined
 
@@ -342,15 +336,11 @@ A programme may demonstrate that participants completed training, used materials
 
 Implementation evidence answers the question, “Was the programme delivered as intended?” Impact evidence answers the question, “Did it make a meaningful difference?” Both matter, but they are not interchangeable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">are designed to give you practical guidance and...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EUxf5DYk2R4" title="10.2. Experiments and causal claims" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EUxf5DYk2R4" target="_blank" rel="noopener noreferrer">10.2. Experiments and causal claims</a></p><p class="youtube-embed-meta">Channel: Jeanne Slattery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EUxf5DYk2R4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EUxf5DYk2R4">Open on YouTube</a></p></div></div></div>
-
 ## A better way to use evidence-based claims
 
 The phrase “evidence-based” becomes most useful when treated as the start of a conversation rather than the end of one.
 
 A responsible buyer asks three separate questions:
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4-Illustration-3-dark.svg" | relative_url }}" alt="“Evidence Based” illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -762,141 +752,141 @@ In governance terms, the goal is not to reject evidence-informed innovation. It 
 
 1. <a id="endnote-1"></a>
    Source: media.nesta.org.uk  
-   Link: [https://media.nesta.org.uk/documents/What-Counts-as-Good-Evidence-WEB.pdf](https://media.nesta.org.uk/documents/What-Counts-as-Good-Evidence-WEB.pdf)  
+   Link: <a href="https://media.nesta.org.uk/documents/What-Counts-as-Good-Evidence-WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.nesta.org.uk/documents/What-Counts-as-Good-Evidence-WEB.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What counts as good evidence?February 22, 2013 — by SM Nutley · 2013 · Cited by 306 — Research–based – the programme or practice is based...</p></details>
    Published: February 22, 2013  
 
 2. <a id="endnote-2"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: eef blog using research evidence navigating the maze of evidence claims  
-   Link: [https://educationendowmentfoundation.org.uk/news/eef-blog-using-research-evidence-navigating-the-maze-of-evidence-claims](https://educationendowmentfoundation.org.uk/news/eef-blog-using-research-evidence-navigating-the-maze-of-evidence-claims)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/eef-blog-using-research-evidence-navigating-the-maze-of-evidence-claims" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-using-research-evidence-navigating-the-maze-of-evidence-claims</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Research Evidence — navigating the maze of… | EEF11 Jan 2024 — The EEF&#x27;s concise guide on using research evidence includes informat...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/feedback](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/feedback)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/feedback" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/feedback</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EEFTeacher Feedback to Improve Pupil Learning11 Jun 2021 — This guidance report focuses on teacher-delivered feedback and is relevant to...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching and Learning ToolkitThe EEF is an independent charity dedicated to breaking the link between family income and educational achie...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: eppi.ioe.ac.uk  
    Title: CFHI EVIDENCE STANDARDS REPORT V15 PRINT  
-   Link: [https://eppi.ioe.ac.uk/cms/Portals/0/PDF%20reviews%20and%20summaries/CFHI_EVIDENCE_STANDARDS_REPORT_V15_PRINT.pdf](https://eppi.ioe.ac.uk/cms/Portals/0/PDF%20reviews%20and%20summaries/CFHI_EVIDENCE_STANDARDS_REPORT_V15_PRINT.pdf)  
+   Link: <a href="https://eppi.ioe.ac.uk/cms/Portals/0/PDF%20reviews%20and%20summaries/CFHI_EVIDENCE_STANDARDS_REPORT_V15_PRINT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eppi.ioe.ac.uk/cms/Portals/0/PDF%20reviews%20and%20summaries/CFHI_EVIDENCE_STANDARDS_REPORT_V15_PRINT.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The research on the...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283145/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283145/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283145/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283145/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using these standards, some clearinghouses rate interventions as “evidence-based”...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ies.ed.gov  
    Title: WW C | Find What Works!  
-   Link: [https://ies.ed.gov/ncee/wwc/](https://ies.ed.gov/ncee/wwc/)  
+   Link: <a href="https://ies.ed.gov/ncee/wwc/" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/ncee/wwc/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WWC | Find What Works! - Institute of Education SciencesIntervention Reports: summaries of findings of the highest-quality research on a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence](https://educationendowmentfoundation.org.uk/education-evidence)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>are designed to give you practical guidance and...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>evidence has been found (Pashler et al., 2008). The empirical evidence is clear that there is currently no evidence to support the use of...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: new guide to help education professionals to make best use of research evidence  
-   Link: [https://educationendowmentfoundation.org.uk/news/new-guide-to-help-education-professionals-to-make-best-use-of-research-evidence](https://educationendowmentfoundation.org.uk/news/new-guide-to-help-education-professionals-to-make-best-use-of-research-evidence)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/new-guide-to-help-education-professionals-to-make-best-use-of-research-evidence" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/new-guide-to-help-education-professionals-to-make-best-use-of-research-evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New guide to help education professionals to make best...11 Jan 2024 — A new guide, published by the Education Endowment Foundation (EEF...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/more-resources-and-support/using-research-evidence](https://educationendowmentfoundation.org.uk/education-evidence/more-resources-and-support/using-research-evidence)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/more-resources-and-support/using-research-evidence" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/more-resources-and-support/using-research-evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using research evidenceUsing research evidence well can therefore support teachers and leaders to refine their practice or make strategic...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: schools.oxfordshire.gov.uk  
-   Link: [https://schools.oxfordshire.gov.uk/sites/default/files/2023-09/EEF_Guide_for_School_Governors_and_Trustees_2019_-_print_version.pdf](https://schools.oxfordshire.gov.uk/sites/default/files/2023-09/EEF_Guide_for_School_Governors_and_Trustees_2019_-_print_version.pdf)  
+   Link: <a href="https://schools.oxfordshire.gov.uk/sites/default/files/2023-09/EEF_Guide_for_School_Governors_and_Trustees_2019_-_print_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://schools.oxfordshire.gov.uk/sites/default/files/2023-09/EEF_Guide_for_School_Governors_and_Trustees_2019_-_print_version.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EEF guide to becoming an evidence-informed school...Many of these have been developed by EEF Research Schools, a national network of sch...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Evidence informed teaching an evaluation of progress in England  
-   Link: [https://assets.publishing.service.gov.uk/media/5a749aca40f0b61938c7ece0/Evidence-informed_teaching_-_an_evaluation_of_progress_in_England.pdf](https://assets.publishing.service.gov.uk/media/5a749aca40f0b61938c7ece0/Evidence-informed_teaching_-_an_evaluation_of_progress_in_England.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a749aca40f0b61938c7ece0/Evidence-informed_teaching_-_an_evaluation_of_progress_in_England.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a749aca40f0b61938c7ece0/Evidence-informed_teaching_-_an_evaluation_of_progress_in_England.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>publishing.service.gov.ukEvidence-informed teaching: an evaluation of progress in...by M Coldwell · 2017 · Cited by 198 — In August 2014...</p></details>
    Published: August 2014  
 
 14. <a id="endnote-14"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EEFA School&#x27;s Guide to Implementation24 Apr 2024 — Our guidance on effective implementation - and its accompanying resources – help educa...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.3102/00346543231152262](https://journals.sagepub.com/doi/10.3102/00346543231152262)  
+   Link: <a href="https://journals.sagepub.com/doi/10.3102/00346543231152262" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.3102/00346543231152262</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsHow Consistent Are Meanings of “Evidence-Based”? A...21 Feb 2023 — Clearinghouses set standards of scientific quality to ve...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26162104/](https://pubmed.ncbi.nlm.nih.gov/26162104/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4949 — Learning styles refers to the concept that individuals...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26162104/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4949 — Learning styles refers to the concept that individuals...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: dera.ioe.ac.uk  
-   Link: [https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf](https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf)  
+   Link: <a href="https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Education Resource ArchiveEEF-Implementation-Guidance-Report.pdfThe guide can be used to help implement any school improvement de...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: gc-bs.org  
-   Link: [https://gc-bs.org/articles/from-styles-to-science-[debunking](https://gc-bs.org/articles/from-styles-to-science-[debunking)  
+   Link: <a href="https://gc-bs.org/articles/from-styles-to-science-[debunking" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/from-styles-to-science-[debunking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Learning Styles Myth and Embracing...12 Jan 2026 — In 2008, a team of prominent cognitive psychologists led by Harold Pash...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/](https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/)  
+   Link: <a href="https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>problem with learning styles: debunking the meshing...22 Feb 2018 — The idea that catering to a learner&#x27;s favoured sensory preference, o...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/news/government-confirms-funding-for-eef-to-support-evidence-informed-practice-in-the-post-16-space](https://educationendowmentfoundation.org.uk/news/government-confirms-funding-for-eef-to-support-evidence-informed-practice-in-the-post-16-space)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/government-confirms-funding-for-eef-to-support-evidence-informed-practice-in-the-post-16-space" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/government-confirms-funding-for-eef-to-support-evidence-informed-practice-in-the-post-16-space</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government confirms funding for EEF to support…4 Oct 2023 — The Government announced that the Education Endowment Foundation (EEF) would...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/news/new-report-finds-pilot-to-support-evidence-informed-school-improvement-shows-promise](https://educationendowmentfoundation.org.uk/news/new-report-finds-pilot-to-support-evidence-informed-school-improvement-shows-promise)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/new-report-finds-pilot-to-support-evidence-informed-school-improvement-shows-promise" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/new-report-finds-pilot-to-support-evidence-informed-school-improvement-shows-promise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New report finds pilot to support evidence-informed school…7 Dec 2023 — - Many schools made progress in aligning their use of teaching as...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: educationnext.org  
-   Link: [https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/](https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/)  
+   Link: <a href="https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Stubborn Myth of “Learning Styles”7 Apr 2020 — The idea of “learning styles” is persistent and popular in the field, in part because...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/news/eef-blog-the-eefs-new-and-updated-guide-to-effective-implementation-whats-changed](https://educationendowmentfoundation.org.uk/news/eef-blog-the-eefs-new-and-updated-guide-to-effective-implementation-whats-changed)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/eef-blog-the-eefs-new-and-updated-guide-to-effective-implementation-whats-changed" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-the-eefs-new-and-updated-guide-to-effective-implementation-whats-changed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EEF blog: The EEF&#x27;s new and updated guide to effective…24 Apr 2024 — Since it was launched in 2018, our guidance report on effective impl...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: new eef report 6 recommendations for improving behaviour in schools  
-   Link: [https://educationendowmentfoundation.org.uk/news/new-eef-report-6-recommendations-for-improving-behaviour-in-schools](https://educationendowmentfoundation.org.uk/news/new-eef-report-6-recommendations-for-improving-behaviour-in-schools)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/new-eef-report-6-recommendations-for-improving-behaviour-in-schools" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/new-eef-report-6-recommendations-for-improving-behaviour-in-schools</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving behaviour in schools: 6 recommendations...6 Jun 2019 — Today&#x27;s guidance report reviews the best available evidence to offer sc...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: lrfoundation.org.uk  
    Title: final evidence review and synthesis methods guide oct 25  
-   Link: [https://www.lrfoundation.org.uk/sites/default/files/2025-10/final-evidence-review-and-synthesis-methods-guide-oct-25.pdf](https://www.lrfoundation.org.uk/sites/default/files/2025-10/final-evidence-review-and-synthesis-methods-guide-oct-25.pdf)  
+   Link: <a href="https://www.lrfoundation.org.uk/sites/default/files/2025-10/final-evidence-review-and-synthesis-methods-guide-oct-25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lrfoundation.org.uk/sites/default/files/2025-10/final-evidence-review-and-synthesis-methods-guide-oct-25.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EVIDENCE REVIEW AND SYNTHESIS METHODS GUIDEby IA Scherer · 2025 — It helps reviewers to identify, extract, synthesise, and report evidenc...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: journals.lwbooks.co.uk  
-   Link: [https://journals.lwbooks.co.uk/forum/vol-58-issue-2/article-6288/](https://journals.lwbooks.co.uk/forum/vol-58-issue-2/article-6288/)  
+   Link: <a href="https://journals.lwbooks.co.uk/forum/vol-58-issue-2/article-6288/" target="_blank" rel="noopener noreferrer nofollow">https://journals.lwbooks.co.uk/forum/vol-58-issue-2/article-6288/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>At surface value, there may appear much to commend such an approach.Read more...</p></details>

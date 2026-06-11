@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_natural_health_model_ab9044
 - Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_retracted_causes_772da4
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - mental-models
 - contradictions
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - mental-models
 - contradictions
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Some conspiracy models survive correction by treating official denials, failed predictions, and expert consensus as part of the plot.
 hero_summary: Some conspiracy models survive correction by treating official denials, failed predictions, and expert consensus as part of the plot.
 layout: default
 permalink: /contradictions/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /mental-models/
 nav_short_title: Contradictions
 title: When Contradictions Make Myths Stronger
-title_full: When Contradictions Make Myths Stronger | Mental Models
+title_full: When Contradictions Make Myths Stronger
 display_title_short: Contradictions
 display_title: Contradictions
 heading_title: When Contradictions Make Myths Stronger
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Wrong Ideas Can Feel Coherent | Mythcraft
+parent_title: Why Wrong Ideas Can Feel Coherent
 parent_permalink: /mental-models/
 parent_nav_short_title: Mental Models
 parent_heading_title: Why Wrong Ideas Can Feel Coherent
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why False Causes Stick After Correction
 up_link:
   basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
@@ -265,7 +265,7 @@ next_link:
   permalink: /earth-models/
   short_title: Earth Models
   heading_title: When Wrong Earth Models Make Sense
-date: '2026-06-09 04:52:28 '
+date: '2026-06-11 22:15:42 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_contradictions_as_ev_de646c-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_contradictions_as_ev_de646c-Illustration-1.webp
@@ -274,23 +274,25 @@ image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_con
 
 ## Introduction
 
-A myth often survives not because it has strong evidence, but because it sits inside a mental model that explains away the lack of evidence. Conspiracy-based explanations are a particularly powerful example. In many conspiracy models, official denials, failed predictions, missing proof, expert disagreement, and even direct refutations are not treated as problems. Instead, they are reinterpreted as signs that the conspiracy is working. Researchers describe this pattern as a form of “self-sealing” or “self-insulating” reasoning: contrary evidence is absorbed into the theory rather than forcing it to change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/240357194/ConspiracyTheoryHandbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., &amp; Cook, J</span><span class="citation-popover-snippet">2020). The Conspiracy Theoryby S Lewandowsky · Cited by 202 — The self-sealing nature of conspiracy theories means that any evidence dis...</span></span></span> ResearchGate This mechanism matters because it helps explain why some myths remain coherent even after repeated corrections. The issue is not simply that <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/351734845_Conspiracy_Theories_and_Evidential_Self-Insulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateConspiracy Theories and Evidential Self-InsulationSpecifically, conspiracy theories are taken to be self-insulating beliefs i...</span></span></span> believers reject evidence. It is that the wider model already contains an explanation for why disconfirming evidence should be expected.
-
+A myth often survives not because it has strong evidence, but because it sits inside a mental model that explains away the lack of evidence. Conspiracy-based explanations are a particularly powerful example. In many conspiracy models, official denials, failed predictions, missing proof, expert disagreement, and even direct refutations are not treated as problems. Instead, they are reinterpreted as signs that the conspiracy is working. Researchers describe this pattern as a form of “self-sealing” or “self-insulating” reasoning: contrary evidence is absorbed into the theory rather than forcing it to change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/240357194/ConspiracyTheoryHandbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., &amp; Cook, J</span><span class="citation-popover-snippet">2020). The Conspiracy Theoryby S Lewandowsky · Cited by 202 — The self-sealing nature of conspiracy theories means that any evidence dis...</span></span></span> ResearchGate This mechanism matters because it helps explain why some myths remain coherent even after repeated corrections. The issue is not simply that <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/351734845_Conspiracy_Theories_and_Evidential_Self-Insulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Conspiracy Theories and Evidential Self-InsulationSpecifically, conspiracy theories are taken to be self-insulating beliefs i...</span></span></span> believers reject evidence. It is that the wider model already contains an explanation for why disconfirming evidence should be expected.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_contradictions_as_ev_de646c-Illustration-1-dark.svg" | relative_url }}" alt="Contradictions illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_contradictions_as_ev_de646c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_contradictions_as_ev_de646c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why disconfirming evidence can be absorbed
 
-Most ordinary explanations make risky predictions. If the prediction fails, [confidence]({{ 'confidence/' | relative_url }}) in the explanation usually declines. Conspiracy models often operate differently. They can be modified so that almost any outcome appears consistent with the underlying claim. Researchers studying conspiratorial thinking have repeatedly noted this tendency for counter-evidence to be reinterpreted as support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/240357194/ConspiracyTheoryHandbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., &amp; Cook, J</span><span class="citation-popover-snippet">2020). The Conspiracy Theoryby S Lewandowsky · Cited by 202 — The self-sealing nature of conspiracy theories means that any evidence dis...</span></span></span> DigitalCommons Several common moves make this possible: <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/scholcom/246/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[digitalcommons.unl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-title">Digital Commons The Conspiracy Theory Handbook</span><span class="citation-popover-snippet">DigitalCommonsThe Conspiracy Theory Handbook - UNL Digital Commonsby S Lewandowsky · 2020 · Cited by 202 — The Conspiracy Theory Handbook...</span></span></span>
+Most ordinary explanations make risky predictions. If the prediction fails, [confidence]({{ 'confidence/' | relative_url }}) in the explanation usually declines. Conspiracy models often operate differently. They can be modified so that almost any outcome appears consistent with the underlying claim. Researchers studying conspiratorial thinking have repeatedly noted this tendency for counter-evidence to be reinterpreted as support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/240357194/ConspiracyTheoryHandbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., &amp; Cook, J</span><span class="citation-popover-snippet">2020). The Conspiracy Theoryby S Lewandowsky · Cited by 202 — The self-sealing nature of conspiracy theories means that any evidence dis...</span></span></span> DigitalCommons Several common moves make this possible: <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/scholcom/246/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[digitalcommons.unl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-title">Digital Commons The Conspiracy Theory Handbook</span><span class="citation-popover-snippet">The Conspiracy Theory Handbook - UNL Digital Commonsby S Lewandowsky · 2020 · Cited by 202 — The Conspiracy Theory Handbook...</span></span></span>
+
+<div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * **Missing evidence becomes evidence of concealment.** If proof cannot be found, the absence itself is explained as the result of suppression or destruction.
 * **Contradictory evidence becomes planted evidence.** Documents, testimony, or data that challenge the claim are portrayed as deliberate disinformation.
 * **Failed predictions become proof of intervention.** If an expected event does not occur, believers may argue that conspirators changed their plans after being exposed.
-* **[Expert consensus]({{ 'false-balance-0e8d1b/' | relative_url }}) becomes evidence of coordination.** Agreement among specialists is interpreted not as independent confirmation but as a sign that institutions are working together.
+* **Expert consensus becomes evidence of coordination.** Agreement among specialists is interpreted not as independent confirmation but as a sign that institutions are working together.
+
+</div>
 
 The result is a system in which the theory gains explanatory flexibility. Each contradiction can be converted into another piece of the story rather than a reason to abandon it. Lewandowsky and Cook describe this as a hallmark of conspiratorial thinking: evidence against the theory can be treated as evidence for it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/240357194/ConspiracyTheoryHandbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., &amp; Cook, J</span><span class="citation-popover-snippet">2020). The Conspiracy Theoryby S Lewandowsky · Cited by 202 — The self-sealing nature of conspiracy theories means that any evidence dis...</span></span></span>
 
-This does not mean every allegation of conspiracy is automatically irrational. Real conspiracies do occur. The distinctive feature is not suspicion itself but the tendency to make the claim increasingly resistant to revision by redefining any challenge as part of the plot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">PMC - NIHby KM Douglas · 2017 · Cited by 2104 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
-
+This does not mean every allegation of conspiracy is automatically irrational. Real conspiracies do occur. The distinctive feature is not suspicion itself but the tendency to make the claim increasingly resistant to revision by redefining any challenge as part of the plot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2104 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bZfiqG8dq9Q" title="Self-Sealing Conspiracy Theories Explained (Flat Earth, Ice Walls, and “They’re Hiding It”)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bZfiqG8dq9Q" target="_blank" rel="noopener noreferrer">Self-Sealing Conspiracy Theories Explained (Flat Earth, Ice Walls, and “They’re Hiding It”)</a></p><p class="youtube-embed-meta">Channel: MR RUPP™️ &middot; Views: 396.4K &middot; Uploaded: April 2026 &middot; Length: 2 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bZfiqG8dq9Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bZfiqG8dq9Q">Open on YouTube</a></p></div></div></div>
 
@@ -299,7 +301,6 @@ This does not mean every allegation of conspiracy is automatically irrational. R
 The key mechanism is a shift in the meaning of evidence. Instead of asking, “What would count against this idea?”, the model begins with the assumption that hidden actors are manipulating appearances.
 
 Consider the logic:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -310,8 +311,7 @@ Consider the logic:
 
 </div>
 
-Once this pattern is established, contradictions stop functioning as tests. They become expected features of the world. The theory is no longer evaluated against evidence alone; it is evaluated through a prior assumption that evidence has been corrupted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/240357194/ConspiracyTheoryHandbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., &amp; Cook, J</span><span class="citation-popover-snippet">2020). The Conspiracy Theoryby S Lewandowsky · Cited by 202 — The self-sealing nature of conspiracy theories means that any evidence dis...</span></span></span> PhilArchive Philosophers and psychologists studying conspiracy beliefs often describe this as evidential self-insulation. The belief protects itself by s <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/NAPCTA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[philarchive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">However, the counter-evidence that is relevant to determining whether the...Read more...</span></span></span> upplying auxiliary explanations whenever a challenge appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/351734845_Conspiracy_Theories_and_Evidential_Self-Insulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateConspiracy Theories and Evidential Self-InsulationSpecifically, conspiracy theories are taken to be self-insulating beliefs i...</span></span></span> PhilArchive A useful comparison is a courtroom defence that can explain every possible verdict. If acquittal proves innocence and conviction also proves <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/NAPCTA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[philarchive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">However, the counter-evidence that is relevant to determining whether the...Read more...</span></span></span> innocence because the court is supposedly corrupt, then the verdict no longer tests the claim. Similarly, a conspiracy model becomes difficult to falsify when every possible outcome is already incorporated into the narrative.
-
+Once this pattern is established, contradictions stop functioning as tests. They become expected features of the world. The theory is no longer evaluated against evidence alone; it is evaluated through a prior assumption that evidence has been corrupted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/240357194/ConspiracyTheoryHandbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., &amp; Cook, J</span><span class="citation-popover-snippet">2020). The Conspiracy Theoryby S Lewandowsky · Cited by 202 — The self-sealing nature of conspiracy theories means that any evidence dis...</span></span></span> PhilArchive Philosophers and psychologists studying conspiracy beliefs often describe this as evidential self-insulation. The belief protects itself by s <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/NAPCTA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[philarchive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">However, the counter-evidence that is relevant to determining whether the...Read more...</span></span></span> upplying auxiliary explanations whenever a challenge appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/351734845_Conspiracy_Theories_and_Evidential_Self-Insulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Conspiracy Theories and Evidential Self-InsulationSpecifically, conspiracy theories are taken to be self-insulating beliefs i...</span></span></span> PhilArchive A useful comparison is a courtroom defence that can explain every possible verdict. If acquittal proves innocence and conviction also proves <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/NAPCTA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[philarchive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">However, the counter-evidence that is relevant to determining whether the...Read more...</span></span></span> innocence because the court is supposedly corrupt, then the verdict no longer tests the claim. Similarly, a conspiracy model becomes difficult to falsify when every possible outcome is already incorporated into the narrative.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_contradictions_as_ev_de646c-Illustration-2-dark.svg" | relative_url }}" alt="Contradictions illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_contradictions_as_ev_de646c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_contradictions_as_ev_de646c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Institutional distrust as a protective frame
@@ -321,7 +321,6 @@ Conspiracy models rarely rely on a single factual claim. More often, they depend
 In this framework, institutions such as governments, universities, scientific organisations, news media, courts, or public health agencies are viewed as fundamentally unreliable. Once that assumption is accepted, evidence from those institutions can be dismissed before it is examined.
 
 Research suggests that conspiratorial worldviews are associated with generalised suspicion about how knowledge is produced and communicated. A conspiratorial mindset often treats official sources as politically or strategically motivated, making institutional disagreement appear unsurprising rather than disconfirming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/not-so-different-after-all-antecedents-of-believing-in-misinformation-and-conspiracy-theories-on-covid-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">Misinformation Review Not so different after all?</span><span class="citation-popover-snippet">Antecedents of believing in...October 31, 2025 — by F Wintterlin · 2025 — We found that having a conspiratorial mindset and believing th...</span><span class="citation-popover-meta">Published: October 31, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/45174637" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Understanding Conspiracy Theoriesby KM Douglas · 2019 · Cited by 2288 — Scholarly effortstounderstand conspiracy theories have grown sign...</span></span></span> This creates a protective frame around the myth:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -334,9 +333,7 @@ Research suggests that conspiratorial worldviews are associated with generalised
 
 The theory therefore does more than explain an event. It also explains why other people do not accept the explanation. This is one reason conspiracy narratives can remain stable despite widespread disagreement. The disagreement itself is incorporated into the model. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.eur.nl/ws/portalfiles/portal/211143956/Conspiracy_Theories_Resistance_to_Evidence_and_Propaganda.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.eur.nl">[Erasmus University Rotterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.eur.nl</span><span class="citation-popover-title">Conspiracy Theories Resistance to Evidence and Propaganda</span><span class="citation-popover-snippet">Erasmus University RotterdamConspiracy Theories, Resistance to Evidence, and...by MG Napolitano · 2025 · Cited by 5 — I argue that some...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v_kWs72RxsY" title="Why Are Some Conspiracy Arguments Self-Sealing?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v_kWs72RxsY" target="_blank" rel="noopener noreferrer">Why Are Some Conspiracy Arguments Self-Sealing?</a></p><p class="youtube-embed-meta">Channel: All About Myths and Conspiracies &middot; Views: 7 &middot; Uploaded: December 2025 &middot; Length: 3 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v_kWs72RxsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v_kWs72RxsY">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_contradictions_as_ev_de646c-Illustration-3-dark.svg" | relative_url }}" alt="Contradictions illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_contradictions_as_ev_de646c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_contradictions_as_ev_de646c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why correction alone can strengthen commitment
 
 A common misconception is that stronger rebuttals automatically reduce belief. In reality, direct contradiction can sometimes be interpreted through the same conspiratorial lens.
@@ -347,8 +344,6 @@ Popular discussions often refer to a broad “[backfire]({{ 'backfire/' | relati
 
 The important point is not that facts never matter. Rather, facts compete with an interpretive framework that may already define which facts are trustworthy.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_contradictions_as_ev_de646c-Illustration-3-dark.svg" | relative_url }}" alt="Contradictions illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_contradictions_as_ev_de646c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_contradictions_as_ev_de646c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How corrections avoid feeding the model
 
 Because the mechanism is model-based, effective correction involves more than presenting a contradiction.
@@ -359,11 +354,9 @@ Research and practical guidance on misinformation suggest several approaches tha
 * **Provide an alternative explanation.** Replacing a myth with a more complete account reduces the explanatory gap that the myth was filling.
 * **Distinguish justified scepticism from universal distrust.** Acknowledging real institutional failures can prevent corrections from sounding like demands for blind trust.
 * **Encourage testability.** Asking what evidence would genuinely change the conclusion highlights whether the claim is functioning as a hypothesis or as an unfalsifiable belief.
-* **Focus on evaluation standards.** The question becomes not whether institutions are perfect, but whether the same standards of evidence are applied consistently to all explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/240357194/ConspiracyTheoryHandbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., &amp; Cook, J</span><span class="citation-popover-snippet">2020). The Conspiracy Theoryby S Lewandowsky · Cited by 202 — The self-sealing nature of conspiracy theories means that any evidence dis...</span></span></span> DigitalCommons The central challenge is that conspiracy models often survive by redefining contradictions as confirmation. Understanding that mechanism reve <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/scholcom/246/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[digitalcommons.unl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-title">Digital Commons The Conspiracy Theory Handbook</span><span class="citation-popover-snippet">DigitalCommonsThe Conspiracy Theory Handbook - UNL Digital Commonsby S Lewandowsky · 2020 · Cited by 202 — The Conspiracy Theory Handbook...</span></span></span> als why some myths can appear remarkably resilient. Their coherence does not come from accumulating evidence alone. It comes from a framework that already explains why evidence against the myth should be expected, distrusted, or transformed into support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/240357194/ConspiracyTheoryHandbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., &amp; Cook, J</span><span class="citation-popover-snippet">2020). The Conspiracy Theoryby S Lewandowsky · Cited by 202 — The self-sealing nature of conspiracy theories means that any evidence dis...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/351734845_Conspiracy_Theories_and_Evidential_Self-Insulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateConspiracy Theories and Evidential Self-InsulationSpecifically, conspiracy theories are taken to be self-insulating beliefs i...</span></span></span>
+* **Focus on evaluation standards.** The question becomes not whether institutions are perfect, but whether the same standards of evidence are applied consistently to all explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/240357194/ConspiracyTheoryHandbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., &amp; Cook, J</span><span class="citation-popover-snippet">2020). The Conspiracy Theoryby S Lewandowsky · Cited by 202 — The self-sealing nature of conspiracy theories means that any evidence dis...</span></span></span> DigitalCommons The central challenge is that conspiracy models often survive by redefining contradictions as confirmation. Understanding that mechanism reve <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/scholcom/246/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[digitalcommons.unl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-title">Digital Commons The Conspiracy Theory Handbook</span><span class="citation-popover-snippet">The Conspiracy Theory Handbook - UNL Digital Commonsby S Lewandowsky · 2020 · Cited by 202 — The Conspiracy Theory Handbook...</span></span></span> als why some myths can appear remarkably resilient. Their coherence does not come from accumulating evidence alone. It comes from a framework that already explains why evidence against the myth should be expected, distrusted, or transformed into support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/240357194/ConspiracyTheoryHandbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., &amp; Cook, J</span><span class="citation-popover-snippet">2020). The Conspiracy Theoryby S Lewandowsky · Cited by 202 — The self-sealing nature of conspiracy theories means that any evidence dis...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/351734845_Conspiracy_Theories_and_Evidential_Self-Insulation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Conspiracy Theories and Evidential Self-InsulationSpecifically, conspiracy theories are taken to be self-insulating beliefs i...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v_kWs72RxsY" title="Why Are Some Conspiracy Arguments Self-Sealing?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v_kWs72RxsY" target="_blank" rel="noopener noreferrer">Why Are Some Conspiracy Arguments Self-Sealing?</a></p><p class="youtube-embed-meta">Channel: All About Myths and Conspiracies &middot; Views: 7 &middot; Uploaded: December 2025 &middot; Length: 3 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v_kWs72RxsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v_kWs72RxsY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -761,124 +754,124 @@ Research and practical guidance on misinformation suggest several approaches tha
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/351734845_Conspiracy_Theories_and_Evidential_Self-Insulation](https://www.researchgate.net/publication/351734845_Conspiracy_Theories_and_Evidential_Self-Insulation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateConspiracy Theories and Evidential Self-InsulationSpecifically, conspiracy theories are taken to be self-insulating beliefs i...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/351734845_Conspiracy_Theories_and_Evidential_Self-Insulation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/351734845_Conspiracy_Theories_and_Evidential_Self-Insulation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy Theories and Evidential Self-InsulationSpecifically, conspiracy theories are taken to be self-insulating beliefs i...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: philarchive.org  
-   Link: [https://philarchive.org/archive/NAPCTA](https://philarchive.org/archive/NAPCTA)  
+   Link: <a href="https://philarchive.org/archive/NAPCTA" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/NAPCTA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, the counter-evidence that is relevant to determining whether the...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Psychology of Conspiracy Theories  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby KM Douglas · 2017 · Cited by 2104 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby KM Douglas · 2017 · Cited by 2104 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCConspiracy Theories  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9902059/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9902059/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9902059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9902059/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological approaches explain belief in conspiracy theories...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/404069176_Are_Conspiracy_Theories_Problematically_Self-Sealing](https://www.researchgate.net/publication/404069176_Are_Conspiracy_Theories_Problematically_Self-Sealing)  
+   Link: <a href="https://www.researchgate.net/publication/404069176_Are_Conspiracy_Theories_Problematically_Self-Sealing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404069176_Are_Conspiracy_Theories_Problematically_Self-Sealing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>That is, they are immune to disconfirmation, since conspiracy can always explain away...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/45174637](https://www.jstor.org/stable/45174637)  
+   Link: <a href="https://www.jstor.org/stable/45174637" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/45174637</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Conspiracy Theoriesby KM Douglas · 2019 · Cited by 2288 — Scholarly effortstounderstand conspiracy theories have grown sign...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 112 — The backfire effect is...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 112 — The backfire effect is...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: research-information.bris.ac.uk  
    Title: University of Bristol Lewandowsky, S., & Cook, J  
-   Link: [https://research-information.bris.ac.uk/files/240357194/ConspiracyTheoryHandbook.pdf](https://research-information.bris.ac.uk/files/240357194/ConspiracyTheoryHandbook.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/files/240357194/ConspiracyTheoryHandbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/240357194/ConspiracyTheoryHandbook.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2020). The Conspiracy Theoryby S Lewandowsky · Cited by 202 — The self-sealing nature of conspiracy theories means that any evidence dis...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: digitalcommons.unl.edu  
    Title: Digital Commons The Conspiracy Theory Handbook  
-   Link: [https://digitalcommons.unl.edu/scholcom/246/](https://digitalcommons.unl.edu/scholcom/246/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DigitalCommonsThe Conspiracy Theory Handbook - UNL Digital Commonsby S Lewandowsky · 2020 · Cited by 202 — The Conspiracy Theory Handbook...</p></details>
+   Link: <a href="https://digitalcommons.unl.edu/scholcom/246/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/scholcom/246/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Conspiracy Theory Handbook - UNL Digital Commonsby S Lewandowsky · 2020 · Cited by 202 — The Conspiracy Theory Handbook...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pure.eur.nl  
    Title: Conspiracy Theories Resistance to Evidence and Propaganda  
-   Link: [https://pure.eur.nl/ws/portalfiles/portal/211143956/Conspiracy_Theories_Resistance_to_Evidence_and_Propaganda.pdf](https://pure.eur.nl/ws/portalfiles/portal/211143956/Conspiracy_Theories_Resistance_to_Evidence_and_Propaganda.pdf)  
+   Link: <a href="https://pure.eur.nl/ws/portalfiles/portal/211143956/Conspiracy_Theories_Resistance_to_Evidence_and_Propaganda.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.eur.nl/ws/portalfiles/portal/211143956/Conspiracy_Theories_Resistance_to_Evidence_and_Propaganda.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Erasmus University RotterdamConspiracy Theories, Resistance to Evidence, and...by MG Napolitano · 2025 · Cited by 5 — I argue that some...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: Misinformation Review Not so different after all?  
-   Link: [https://misinforeview.hks.harvard.edu/article/not-so-different-after-all-antecedents-of-believing-in-misinformation-and-conspiracy-theories-on-covid-19/](https://misinforeview.hks.harvard.edu/article/not-so-different-after-all-antecedents-of-believing-in-misinformation-and-conspiracy-theories-on-covid-19/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/not-so-different-after-all-antecedents-of-believing-in-misinformation-and-conspiracy-theories-on-covid-19/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/not-so-different-after-all-antecedents-of-believing-in-misinformation-and-conspiracy-theories-on-covid-19/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Antecedents of believing in...October 31, 2025 — by F Wintterlin · 2025 — We found that having a conspiratorial mindset and believing th...</p></details>
    Published: October 31, 2025  
 
 12. <a id="endnote-12"></a>
    Source: pure.eur.nl  
    Title: Conspiracy Theories Resistance to Evidence and Propaganda  
-   Link: [https://pure.eur.nl/ws/files/211143956/Conspiracy_Theories_Resistance_to_Evidence_and_Propaganda.pdf](https://pure.eur.nl/ws/files/211143956/Conspiracy_Theories_Resistance_to_Evidence_and_Propaganda.pdf)  
+   Link: <a href="https://pure.eur.nl/ws/files/211143956/Conspiracy_Theories_Resistance_to_Evidence_and_Propaganda.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.eur.nl/ws/files/211143956/Conspiracy_Theories_Resistance_to_Evidence_and_Propaganda.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Erasmus University RotterdamConspiracy Theories, Resistance to Evidence, and...by MG Napolitano · 2025 · Cited by 5 — I argue that some...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/34790823/The_Study_of_Conspiracy_Theories](https://www.academia.edu/34790823/The_Study_of_Conspiracy_Theories)  
+   Link: <a href="https://www.academia.edu/34790823/The_Study_of_Conspiracy_Theories" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/34790823/The_Study_of_Conspiracy_Theories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Study of Conspiracy TheoriesThe study of conspiracy theories has undergone a drastic transformation in the last decade. While e...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/Ethpolsocpsy/posts/2851597824997904/](https://www.facebook.com/groups/Ethpolsocpsy/posts/2851597824997904/)  
+   Link: <a href="https://www.facebook.com/groups/Ethpolsocpsy/posts/2851597824997904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Ethpolsocpsy/posts/2851597824997904/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Backfire Effects and Personal Belief SystemsThe backfire effects: The finding that, faced with evidence that contradicts their belief...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/conspiracy-theories-are-self-sealing-and-are-immune-to-evidence-for-example-miss/632999805088969/](https://www.facebook.com/ThinkingPowers/posts/conspiracy-theories-are-self-sealing-and-are-immune-to-evidence-for-example-miss/632999805088969/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/conspiracy-theories-are-self-sealing-and-are-immune-to-evidence-for-example-miss/632999805088969/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/conspiracy-theories-are-self-sealing-and-are-immune-to-evidence-for-example-miss/632999805088969/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theories are self-sealing, and are immune...Conspiracy theories are self-sealing, and are immune to evidence...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: kar.kent.ac.uk  
    Title: kent.ac.uk Belief in conspiracy theories: Looking beyond gullibility  
-   Link: [https://kar.kent.ac.uk/74200/1/DouglasSSSP2018.pdf](https://kar.kent.ac.uk/74200/1/DouglasSSSP2018.pdf)  
+   Link: <a href="https://kar.kent.ac.uk/74200/1/DouglasSSSP2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/74200/1/DouglasSSSP2018.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inby K Douglas · 2019 · Cited by 65 — Conspiracy theories can also allow people to maintain consistency in their own beliefs (e.g., that...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: home-affairs.ec.europa.eu  
-   Link: [https://home-affairs.ec.europa.eu/system/files/2021-04/ran_conspiracy_theories_and_right-wing_2021_en.pdf](https://home-affairs.ec.europa.eu/system/files/2021-04/ran_conspiracy_theories_and_right-wing_2021_en.pdf)  
+   Link: <a href="https://home-affairs.ec.europa.eu/system/files/2021-04/ran_conspiracy_theories_and_right-wing_2021_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://home-affairs.ec.europa.eu/system/files/2021-04/ran_conspiracy_theories_and_right-wing_2021_en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>theories and right-wing extremismThe second section offers an overview of the most frequent conspiracy theories supporting right-wing ext...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Title: [Debunking](&#123;&#123; 'debunking/' | relative_url &#125;&#125;) Misinformation: Understanding the "[Continued Influence](&#123;&#123; 'old-stories/' | relative_url &#125;&#125;) Effect"  
-   Link: [https://www.youtube.com/watch?v=LqGq8uD4oP8](https://www.youtube.com/watch?v=LqGq8uD4oP8)  
+   Title: [Debunking](&#123;&#123; 'debunking/' | relative_url &#125;&#125;) Misinformation: Understanding the "Continued Influence Effect"  
+   Link: <a href="https://www.youtube.com/watch?v=LqGq8uD4oP8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LqGq8uD4oP8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Self-sealing&quot; conspiracy theories explanation Self-Sealing Conspiracy Theories Explained (Flat Earth, Ice Walls, and “They’re Hiding It”...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bZfiqG8dq9Q](https://www.youtube.com/watch?v=bZfiqG8dq9Q)  
+   Link: <a href="https://www.youtube.com/watch?v=bZfiqG8dq9Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bZfiqG8dq9Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Are Some Conspiracy Arguments Self-Sealing?...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: How Conspiracy Theories Work: Confirmation Bias and Self-Insulation  
-   Link: [https://www.youtube.com/watch?v=wX-yP3Z0N4Y](https://www.youtube.com/watch?v=wX-yP3Z0N4Y)  
+   Link: <a href="https://www.youtube.com/watch?v=wX-yP3Z0N4Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wX-yP3Z0N4Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Misinformation: Understanding the &quot;Continued Influence Effect&quot;...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Psychology of Conspiracy Theories: Why We Believe the Unbelievable  
-   Link: [https://www.youtube.com/watch?v=h0PT068oF0Y](https://www.youtube.com/watch?v=h0PT068oF0Y)  
+   Link: <a href="https://www.youtube.com/watch?v=h0PT068oF0Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h0PT068oF0Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Conspiracy Theories Work: Confirmation Bias and Self-Insulation...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/02691728.2025.2505459](https://www.tandfonline.com/doi/full/10.1080/02691728.2025.2505459)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02691728.2025.2505459" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02691728.2025.2505459</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I argue that some beliefs in conspiracies are self-insulated, in the sense that they are resistant to being...</p></details>

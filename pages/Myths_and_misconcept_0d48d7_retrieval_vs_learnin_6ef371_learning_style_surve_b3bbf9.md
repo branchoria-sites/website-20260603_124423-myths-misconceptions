@@ -8,25 +8,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_retrieval_checks_mis_90c7d4
 - Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_task_fit_not_labels_f5f606
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - study-practice
 - style-surveys
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - study-practice
 - style-surveys
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Students may prefer certain formats, but preference alone does not show that matching instruction improves achievement.
 hero_summary: Students may prefer certain formats, but preference alone does not show that matching instruction improves achievement.
 layout: default
 permalink: /style-surveys/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /study-practice/
 nav_short_title: Style surveys
 title: Why learning preferences do not prove learning styles
-title_full: Why learning preferences do not prove learning styles | Study Practice
+title_full: Why learning preferences do not prove learning styles
 display_title_short: Style surveys
 display_title: Style surveys
 heading_title: Why learning preferences do not prove learning styles
@@ -201,27 +201,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Helps Learning More Than Learning Styles? | Mythcraft
+parent_title: What Helps Learning More Than Learning Styles?
 parent_permalink: /study-practice/
 parent_nav_short_title: Study Practice
 parent_heading_title: What Helps Learning More Than Learning Styles?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
@@ -243,7 +243,7 @@ sibling_links:
   heading_title: Why rereading feels easier but works less well
 up_link:
   basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
@@ -253,7 +253,7 @@ prev_link:
   permalink: /self-testing/
   short_title: Self testing
   heading_title: Why rereading feels easier but works less well
-date: '2026-06-09 05:47:41 '
+date: '2026-06-11 22:43:44 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_learning_style_surve_b3bbf9-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_learning_style_surve_b3bbf9-Illustration-1.webp
@@ -262,32 +262,30 @@ image: /assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_le
 
 ## Introduction
 
-Learning-style surveys are often presented as a way to respect individual differences. A student completes a questionnaire, is labelled as a visual, auditory or kinaesthetic learner, and teachers are encouraged to adapt instruction accordingly. The problem is that these surveys usually measure preferences, not learning effectiveness. A learner may enjoy diagrams more than spoken explanations, or prefer listening to reading, but that does not demonstrate that learning outcomes improve when teaching is matched to that preference. Research reviews have repeatedly found that the key claim behind learning-[style matching]({{ 'style-matching/' | relative_url }})—the idea that students learn better when instruction is tailored to their identified style—lacks convincing empirical support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4979 — The most common—but not the only—hypothesis abou...</span></span></span>
-
+Learning-style surveys are often presented as a way to respect individual differences. A student completes a questionnaire, is labelled as a visual, auditory or kinaesthetic learner, and teachers are encouraged to adapt instruction accordingly. The problem is that these surveys usually measure preferences, not learning effectiveness. A learner may enjoy diagrams more than spoken explanations, or prefer listening to reading, but that does not demonstrate that learning outcomes improve when teaching is matched to that preference. Research reviews have repeatedly found that the key claim behind learning-[style matching]({{ 'style-matching/' | relative_url }})—the idea that students learn better when instruction is tailored to their identified style—lacks convincing empirical support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4979 — The most common—but not the only—hypothesis abou...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_learning_style_surve_b3bbf9-Illustration-1-dark.svg" | relative_url }}" alt="Style surveys illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_learning_style_surve_b3bbf9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_learning_style_surve_b3bbf9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because preference is easy to observe while learning is harder to measure. Students can accurately report what they like. Whether those likes lead to better understanding, retention and transfer of knowledge is a different question.
 
 ## The difference between liking a format and learning from it
 
-Many learning-style surveys ask questions about comfort, enjoyment or habits. A student might indicate that they prefer watching demonstrations, listening to explanations or engaging in hands-on activities. These responses reveal something real: people do have preferences for how information is presented. What they do not reveal is whether those formats produce superior learning outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwaterloo.ca">[University of Waterloo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwaterloo.ca</span><span class="citation-popover-snippet">University of WaterlooUnderstanding Learning Styles | Centre for Teaching...by SF Model — This Teaching Tip discusses the distinction be...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1897&amp;context=ij-sotl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.georgiasouthern.edu">[2digitalcommons.georgiasouthern.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.georgiasouthern.edu</span><span class="citation-popover-snippet">Learning Preferences Instead of Learning Stylesby CS Deale · 2019 · Cited by 43 — The case is made that learning preferences matter even...</span></span></span>
+Many learning-style surveys ask questions about comfort, enjoyment or habits. A student might indicate that they prefer watching demonstrations, listening to explanations or engaging in hands-on activities. These responses reveal something real: people do have preferences for how information is presented. What they do not reveal is whether those formats produce superior learning outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwaterloo.ca">[University of Waterloo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwaterloo.ca</span><span class="citation-popover-snippet">University of WaterlooUnderstanding Learning Styles &#124; Centre for Teaching...by SF Model — This Teaching Tip discusses the distinction be...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1897&amp;context=ij-sotl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.georgiasouthern.edu">[2digitalcommons.georgiasouthern.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.georgiasouthern.edu</span><span class="citation-popover-snippet">Learning Preferences Instead of Learning Stylesby CS Deale · 2019 · Cited by 43 — The case is made that learning preferences matter even...</span></span></span>
 
 The confusion arises because preference and performance often feel as though they should be linked. If learners enjoy a particular format, it seems reasonable to assume they learn better from it. Yet educational research frequently finds that the methods learners enjoy most are not always the methods that produce the strongest long-term retention. Activities that require effortful thinking, retrieval and practice can feel more difficult while producing better learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aft.org/ae/summer2018/willingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">American Federation of TeachersAsk the Cognitive Scientist: Does Tailoring Instruction to “...by DT Willingham · Cited by 43 — Research...</span></span></span>
 
 A useful comparison is physical exercise. Someone may prefer walking to strength training, but that preference alone does not prove walking is the most effective route to every fitness goal. Likewise, preferring visual material does not prove that visual presentation is the optimal way to learn every topic.
 
-Researchers evaluating learning styles have therefore focused on a stricter question: if students are classified by a survey, do students identified as one style learn more when taught in that style than when taught in another? Reviews of the evidence have found little support for this prediction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4979 — The most common—but not the only—hypothesis abou...</span></span></span>
+Researchers evaluating learning styles have therefore focused on a stricter question: if students are classified by a survey, do students identified as one style learn more when taught in that style than when taught in another? Reviews of the evidence have found little support for this prediction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4979 — The most common—but not the only—hypothesis abou...</span></span></span>
 
 ## What learning-style assessments fail to tell teachers
 
 The central weakness of many learning-style surveys is that they cannot establish the instructional decisions teachers actually need to make.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/855Now8h5Rs" title="Learning styles &amp; the importance of critical self-reflection | Tesia Marshik | TEDxUWLaCrosse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=855Now8h5Rs" target="_blank" rel="noopener noreferrer">Learning styles &amp; the importance of critical self-reflection | Tesia Marshik | TEDxUWLaCrosse</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 1.5M &middot; Uploaded: April 2015 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=855Now8h5Rs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=855Now8h5Rs">Open on YouTube</a></p></div></div></div>
 
 ### A label does not predict the best teaching method
 
-For a learning-style assessment to justify matched instruction, it must do more than sort students into categories. It must identify groups that benefit differently from different teaching methods. Researchers have described this as the "meshing" or "matching" hypothesis. A valid test would show that learners classified into one category perform better under one instructional approach while learners in another category perform better under a different approach. Reviews have found very few studies that meet the required research design, and those that do generally fail to provide strong support for the hypothesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learningguild.com/articles/research-discredits-learning-styles-matching-hypothesis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningguild.com">[Learning Guild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningguild.com</span><span class="citation-popover-title">Matching teaching to content produces better</span><span class="citation-popover-snippet">Learning GuildResearch Discredits Learning Styles “Matching Hypothesis”13 Mar 2019 — While appealing, the learning styles “matching hypot...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4979 — The most common—but not the only—hypothesis abou...</span></span></span>
+For a learning-style assessment to justify matched instruction, it must do more than sort students into categories. It must identify groups that benefit differently from different teaching methods. Researchers have described this as the "meshing" or "matching" hypothesis. A valid test would show that learners classified into one category perform better under one instructional approach while learners in another category perform better under a different approach. Reviews have found very few studies that meet the required research design, and those that do generally fail to provide strong support for the hypothesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learningguild.com/articles/research-discredits-learning-styles-matching-hypothesis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningguild.com">[Learning Guild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningguild.com</span><span class="citation-popover-title">Matching teaching to content produces better</span><span class="citation-popover-snippet">Learning GuildResearch Discredits Learning Styles “Matching Hypothesis”13 Mar 2019 — While appealing, the learning styles “matching hypot...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4979 — The most common—but not the only—hypothesis abou...</span></span></span>
 
 As a result, completing a survey may produce a category label without demonstrating that the label has practical instructional value.
 
@@ -295,14 +293,13 @@ As a result, completing a survey may produce a category label without demonstrat
 
 Learning-style inventories typically rely on self-report. Participants indicate how they think they learn best. However, people are not always accurate judges of the conditions that produce the strongest learning. Students may confuse ease, familiarity or enjoyment with effectiveness. A preference questionnaire therefore measures beliefs about learning as much as learning itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aft.org/ae/summer2018/willingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">American Federation of TeachersAsk the Cognitive Scientist: Does Tailoring Instruction to “...by DT Willingham · Cited by 43 — Research...</span></span></span>
 
-This is one reason researchers increasingly distinguish between learning styles and learning preferences. Preferences are real and can influence motivation or engagement. The stronger claim—that preferences identify the most effective instructional format—has not received comparable support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwaterloo.ca">[University of Waterloo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwaterloo.ca</span><span class="citation-popover-snippet">University of WaterlooUnderstanding Learning Styles | Centre for Teaching...by SF Model — This Teaching Tip discusses the distinction be...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1897&amp;context=ij-sotl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.georgiasouthern.edu">[2digitalcommons.georgiasouthern.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.georgiasouthern.edu</span><span class="citation-popover-snippet">Learning Preferences Instead of Learning Stylesby CS Deale · 2019 · Cited by 43 — The case is made that learning preferences matter even...</span></span></span>
+This is one reason researchers increasingly distinguish between learning styles and learning preferences. Preferences are real and can influence motivation or engagement. The stronger claim—that preferences identify the most effective instructional format—has not received comparable support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwaterloo.ca">[University of Waterloo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwaterloo.ca</span><span class="citation-popover-snippet">University of WaterlooUnderstanding Learning Styles &#124; Centre for Teaching...by SF Model — This Teaching Tip discusses the distinction be...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1897&amp;context=ij-sotl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.georgiasouthern.edu">[2digitalcommons.georgiasouthern.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.georgiasouthern.edu</span><span class="citation-popover-snippet">Learning Preferences Instead of Learning Stylesby CS Deale · 2019 · Cited by 43 — The case is made that learning preferences matter even...</span></span></span>
 
 ### Categories are often unstable and inconsistent
 
 Another challenge is that learning-style instruments vary widely. Different surveys use different dimensions, labels and theories. Reviews have noted that many instruments classify learners using overlapping or poorly defined categories, making it difficult to know what the labels actually represent. A student may receive different classifications depending on which questionnaire is used. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bradfordvts.co.uk/wp-content/onlineresources/teaching-learning/learning-personality-styles/learning%20styles%20-%20is%20it%20time%20to%20move%20on%20-%20opinion%20piece%20by%20coffield.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bradfordvts.co.uk">[bradfordvts.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bradfordvts.co.uk</span><span class="citation-popover-snippet">Learning styles: time to move on Frank CoffieldOctober 25, 2014 — by F Coffield · Cited by 22 — Second, not all learning styles questionn...</span><span class="citation-popover-meta">Published: October 25, 2014</span></span></span>
 
 If the classification itself is uncertain, [confidence]({{ 'confidence/' | relative_url }}) in instructional decisions based on that classification becomes difficult to justify.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_learning_style_surve_b3bbf9-Illustration-2-dark.svg" | relative_url }}" alt="Style surveys illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_learning_style_surve_b3bbf9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_learning_style_surve_b3bbf9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the surveys remain persuasive
@@ -314,9 +311,6 @@ First, they acknowledge individual differences. Teachers know students are not i
 There is also a subtle psychological effect. Being told that one is a "visual learner" can make past experiences seem more coherent. Successes and difficulties are explained through a simple narrative. Yet a satisfying explanation is not the same as an evidence-based one. Research has consistently found that belief in learning styles remains widespread even though empirical support for matched instruction remains weak. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evidencebased.education">[Evidence Based Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evidencebased.education</span><span class="citation-popover-title">the lingering learning styles myth</span><span class="citation-popover-snippet">The lingering &#x27;learning styles&#x27; mythAug 5, 2024 — &#x27;Learning styles&#x27; refers to the belief that individuals can be categorised into distinc...</span></span></span>
 
 A further risk is that labels may unintentionally narrow students' beliefs about what they can do. A learner who adopts a fixed [identity]({{ 'identity/' | relative_url }}) such as "I am not an auditory learner" may become less willing to practise skills that require listening, reading or other forms of learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.northampton.ac.uk/learntech/2016/06/16/question-whats-your-preferred-learning-style/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.northampton.ac.uk">[blogs.northampton.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.northampton.ac.uk</span><span class="citation-popover-snippet">Question: What&#x27;s Your Preferred Learning Style?16 Jun 2016 — Students don&#x27;t really learn better when receiving information in their prefe...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x8wUSgg5NLo" title="Learning Styles Debunked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x8wUSgg5NLo" target="_blank" rel="noopener noreferrer">Learning Styles Debunked</a></p><p class="youtube-embed-meta">Channel: Food Media Network &middot; Views: 822 &middot; Uploaded: September 2025 &middot; Length: 2 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x8wUSgg5NLo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x8wUSgg5NLo">Open on YouTube</a></p></div></div></div>
 
 ## Better evidence to collect during lessons
 
@@ -340,19 +334,16 @@ These measures reveal whether students are learning, not merely whether they enj
 
 Teachers can still use multiple representations of information—diagrams, spoken explanations, demonstrations, worked examples and discussion—but the choice should be guided by the content being taught and evidence of student understanding. Some subjects are inherently visual, some are inherently verbal, and many benefit from combining formats. The evidence does not suggest that these choices should be determined primarily by a learning-style survey. My College <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learningguild.com/articles/research-discredits-learning-styles-matching-hypothesis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningguild.com">[Learning Guild]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningguild.com</span><span class="citation-popover-title">Matching teaching to content produces better</span><span class="citation-popover-snippet">Learning GuildResearch Discredits Learning Styles “Matching Hypothesis”13 Mar 2019 — While appealing, the learning styles “matching hypot...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_learning_style_surve_b3bbf9-Illustration-3-dark.svg" | relative_url }}" alt="Style surveys illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_learning_style_surve_b3bbf9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_learning_style_surve_b3bbf9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What preference surveys can still be useful for
 
 Rejecting learning-style matching does not require ignoring student preferences altogether.
 
-Preferences can provide information about engagement, confidence and access. For example, students may have reasonable preferences about note-taking methods, classroom activities or the formats they find most motivating. Understanding those preferences may help create a more comfortable learning environment. The mistake is assuming that preference data automatically identifies the most effective route to learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwaterloo.ca">[University of Waterloo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwaterloo.ca</span><span class="citation-popover-snippet">University of WaterlooUnderstanding Learning Styles | Centre for Teaching...by SF Model — This Teaching Tip discusses the distinction be...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leadinglearning.com/episode-383-learning-styles-learner-preferences/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leadinglearning.com">[Leading Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leadinglearning.com</span><span class="citation-popover-title">episode 383 learning styles learner preferences</span><span class="citation-popover-snippet">Learning Styles and Learner PreferencesNov 14, 2023 — Learning styles are a pernicious myth, but learner preferences are a reality that l...</span></span></span>
+Preferences can provide information about engagement, confidence and access. For example, students may have reasonable preferences about note-taking methods, classroom activities or the formats they find most motivating. Understanding those preferences may help create a more comfortable learning environment. The mistake is assuming that preference data automatically identifies the most effective route to learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uwaterloo.ca">[University of Waterloo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uwaterloo.ca</span><span class="citation-popover-snippet">University of WaterlooUnderstanding Learning Styles &#124; Centre for Teaching...by SF Model — This Teaching Tip discusses the distinction be...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leadinglearning.com/episode-383-learning-styles-learner-preferences/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leadinglearning.com">[Leading Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leadinglearning.com</span><span class="citation-popover-title">episode 383 learning styles learner preferences</span><span class="citation-popover-snippet">Learning Styles and Learner PreferencesNov 14, 2023 — Learning styles are a pernicious myth, but learner preferences are a reality that l...</span></span></span>
 
-The evidence-based position is therefore narrower than many people expect. Students often have genuine preferences. Learning-style surveys can sometimes reveal those preferences. What they do not reliably show is that matching instruction to those preferences improves achievement. That gap between preference and proof is the central reason learning-style assessments remain one of education's most persistent misconceptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[pubs.acs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-title">Finding No Evidence for Learning Styles</span><span class="citation-popover-snippet">ACS PublicationsJul 11, 2017 — No experimental evidence exists to support the hypothesis that instruction designed in response to student...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The basic idea behind the use of &#x27;Lea...</span></span></span>
+The evidence-based position is therefore narrower than many people expect. Students often have genuine preferences. Learning-style surveys can sometimes reveal those preferences. What they do not reliably show is that matching instruction to those preferences improves achievement. That gap between preference and proof is the central reason learning-style assessments remain one of education's most persistent misconceptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[pubs.acs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-title">Finding No Evidence for Learning Styles</span><span class="citation-popover-snippet">ACS PublicationsJul 11, 2017 — No experimental evidence exists to support the hypothesis that instruction designed in response to student...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The basic idea behind the use of &#x27;Lea...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhgwIhB58PA" title="The Biggest Myth In Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer">The Biggest Myth In Education</a></p><p class="youtube-embed-meta">Channel: Veritasium</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhgwIhB58PA">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x8wUSgg5NLo" title="Learning Styles Debunked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x8wUSgg5NLo" target="_blank" rel="noopener noreferrer">Learning Styles Debunked</a></p><p class="youtube-embed-meta">Channel: Food Media Network &middot; Views: 822 &middot; Uploaded: September 2025 &middot; Length: 2 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x8wUSgg5NLo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x8wUSgg5NLo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -750,150 +741,150 @@ The evidence-based position is therefore narrower than many people expect. Stude
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The basic idea behind the use of &#x27;Lea...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The basic idea behind the use of &#x27;Lea...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: digitalcommons.georgiasouthern.edu  
-   Link: [https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1897&context=ij-sotl](https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1897&context=ij-sotl)  
+   Link: <a href="https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1897&amp;context=ij-sotl" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1897&amp;context=ij-sotl</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Preferences Instead of Learning Stylesby CS Deale · 2019 · Cited by 43 — The case is made that learning preferences matter even...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: blogs.northampton.ac.uk  
-   Link: [https://blogs.northampton.ac.uk/learntech/2016/06/16/question-whats-your-preferred-learning-style/](https://blogs.northampton.ac.uk/learntech/2016/06/16/question-whats-your-preferred-learning-style/)  
+   Link: <a href="https://blogs.northampton.ac.uk/learntech/2016/06/16/question-whats-your-preferred-learning-style/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.northampton.ac.uk/learntech/2016/06/16/question-whats-your-preferred-learning-style/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Question: What&#x27;s Your Preferred Learning Style?16 Jun 2016 — Students don&#x27;t really learn better when receiving information in their prefe...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: bradfordvts.co.uk  
-   Link: [https://bradfordvts.co.uk/wp-content/onlineresources/teaching-learning/learning-personality-styles/learning%20styles%20-%20is%20it%20time%20to%20move%20on%20-%20opinion%20piece%20by%20coffield.pdf](https://bradfordvts.co.uk/wp-content/onlineresources/teaching-learning/learning-personality-styles/learning%20styles%20-%20is%20it%20time%20to%20move%20on%20-%20opinion%20piece%20by%20coffield.pdf)  
+   Link: <a href="https://bradfordvts.co.uk/wp-content/onlineresources/teaching-learning/learning-personality-styles/learning%20styles%20-%20is%20it%20time%20to%20move%20on%20-%20opinion%20piece%20by%20coffield.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bradfordvts.co.uk/wp-content/onlineresources/teaching-learning/learning-personality-styles/learning%20styles%20-%20is%20it%20time%20to%20move%20on%20-%20opinion%20piece%20by%20coffield.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning styles: time to move on Frank CoffieldOctober 25, 2014 — by F Coffield · Cited by 22 — Second, not all learning styles questionn...</p></details>
    Published: October 25, 2014  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2690881/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2690881/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2690881/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2690881/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Styles: A Review of Theory, Application, and Best...by F Romanelli · 2009 · Cited by 578 — This review will describe various learning st...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aeon.co  
    Title: the evidence is clear learning styles theory doesnt work  
-   Link: [https://aeon.co/essays/the-evidence-is-clear-learning-styles-theory-doesnt-work](https://aeon.co/essays/the-evidence-is-clear-learning-styles-theory-doesnt-work)  
+   Link: <a href="https://aeon.co/essays/the-evidence-is-clear-learning-styles-theory-doesnt-work" target="_blank" rel="noopener noreferrer nofollow">https://aeon.co/essays/the-evidence-is-clear-learning-styles-theory-doesnt-work</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The evidence is clear: learning styles theory doesn&#x27;t work26 Jan 2023 — Yet, despite its appeal, there is simply no credible evidence to...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pubs.acs.org  
    Title: Finding No Evidence for Learning Styles  
-   Link: [https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424](https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424)  
+   Link: <a href="https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACS PublicationsJul 11, 2017 — No experimental evidence exists to support the hypothesis that instruction designed in response to student...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Learning Styles & the importance of critical self-reflection  
-   Link: [https://www.youtube.com/watch?v=855Now8h5Rs](https://www.youtube.com/watch?v=855Now8h5Rs)  
+   Link: <a href="https://www.youtube.com/watch?v=855Now8h5Rs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=855Now8h5Rs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles - The BIGGEST Myth in Education...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Learning Styles  
-   Link: [https://www.youtube.com/watch?v=_bWueJub_eU](https://www.youtube.com/watch?v=_bWueJub_eU)  
+   Link: <a href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_bWueJub_eU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning Styles Myth...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26162104/](https://pubmed.ncbi.nlm.nih.gov/26162104/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26162104/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: journals.sagepub.com  
    Title: j.1539 6053.2009.01038.x  
-   Link: [https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x](https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4979 — The most common—but not the only—hypothesis abou...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: uwaterloo.ca  
-   Link: [https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style](https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style)  
+   Link: <a href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow">https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of WaterlooUnderstanding Learning Styles | Centre for Teaching...by SF Model — This Teaching Tip discusses the distinction be...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aft.org  
-   Link: [https://www.aft.org/ae/summer2018/willingham](https://www.aft.org/ae/summer2018/willingham)  
+   Link: <a href="https://www.aft.org/ae/summer2018/willingham" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/summer2018/willingham</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Federation of TeachersAsk the Cognitive Scientist: Does Tailoring Instruction to “...by DT Willingham · Cited by 43 — Research...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: learningguild.com  
    Title: Matching teaching to content produces better  
-   Link: [https://www.learningguild.com/articles/research-discredits-learning-styles-matching-hypothesis](https://www.learningguild.com/articles/research-discredits-learning-styles-matching-hypothesis)  
+   Link: <a href="https://www.learningguild.com/articles/research-discredits-learning-styles-matching-hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://www.learningguild.com/articles/research-discredits-learning-styles-matching-hypothesis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning GuildResearch Discredits Learning Styles “Matching Hypothesis”13 Mar 2019 — While appealing, the learning styles “matching hypot...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: leadinglearning.com  
    Title: episode 383 learning styles learner preferences  
-   Link: [https://www.leadinglearning.com/episode-383-learning-styles-learner-preferences/](https://www.leadinglearning.com/episode-383-learning-styles-learner-preferences/)  
+   Link: <a href="https://www.leadinglearning.com/episode-383-learning-styles-learner-preferences/" target="_blank" rel="noopener noreferrer nofollow">https://www.leadinglearning.com/episode-383-learning-styles-learner-preferences/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles and Learner PreferencesNov 14, 2023 — Learning styles are a pernicious myth, but learner preferences are a reality that l...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: evidencebased.education  
    Title: the lingering learning styles myth  
-   Link: [https://evidencebased.education/resource/the-lingering-learning-styles-myth/](https://evidencebased.education/resource/the-lingering-learning-styles-myth/)  
+   Link: <a href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow">https://evidencebased.education/resource/the-lingering-learning-styles-myth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The lingering &#x27;learning styles&#x27; mythAug 5, 2024 — &#x27;Learning styles&#x27; refers to the belief that individuals can be categorised into distinc...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Learning](https://en.wikipedia.org/wiki/Learning)  
+   Link: <a href="https://en.wikipedia.org/wiki/Learning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Learning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LearningLearning is the process of acquiring new understanding, knowledge, behavior, skills, values, attitudes, and preferences. The a...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: techlearning.com  
-   Link: [https://www.techlearning.com/news/busting-the-myth-of-learning-styles](https://www.techlearning.com/news/busting-the-myth-of-learning-styles)  
+   Link: <a href="https://www.techlearning.com/news/busting-the-myth-of-learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.techlearning.com/news/busting-the-myth-of-learning-styles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite its deep-rooted presence in education, numerous studies, including those by Polly R. Husmann and Daniel T. Willingham, have found...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40cpearson_64433/the-learning-styles-myth-53518d54c53f](https://medium.com/%40cpearson_64433/the-learning-styles-myth-53518d54c53f)  
+   Link: <a href="https://medium.com/%40cpearson_64433/the-learning-styles-myth-53518d54c53f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40cpearson_64433/the-learning-styles-myth-53518d54c53f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning Styles MythThis is known as the meshing hypothesis, or matching hypothesis, when the learning preference is matched to the t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: gc-bs.org  
-   Link: [https://gc-bs.org/articles/from-styles-to-science-[debunking](https://gc-bs.org/articles/from-styles-to-science-[debunking)  
+   Link: <a href="https://gc-bs.org/articles/from-styles-to-science-[debunking" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/from-styles-to-science-[debunking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Learning Styles Myth and Embracing...12 Jan 2026 — The central claim, known as the meshing hypothesis, that learning is op...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/](https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/)  
+   Link: <a href="https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>My CollegeThe problem with learning styles: debunking the meshing...22 Feb 2018 — The idea that catering to a learner&#x27;s favoured sensory...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: mirjamglessmer.com  
    Title: the learning styles myth based on pashler et al 2008 nancekivell et al 2020  
-   Link: [https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/](https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/)  
+   Link: <a href="https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/" target="_blank" rel="noopener noreferrer nofollow">https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The learning styles myth (based on Pashler et al., 200825 Jun 2021 — Learning styles are a bit of a myth. When you ask people, yes, they...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Acceptable-and-non-acceptable-evidence-for-the-meshing-hypothesis-A-Acceptable_fig1_369942709](https://www.researchgate.net/figure/Acceptable-and-non-acceptable-evidence-for-the-meshing-hypothesis-A-Acceptable_fig1_369942709)  
+   Link: <a href="https://www.researchgate.net/figure/Acceptable-and-non-acceptable-evidence-for-the-meshing-hypothesis-A-Acceptable_fig1_369942709" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Acceptable-and-non-acceptable-evidence-for-the-meshing-hypothesis-A-Acceptable_fig1_369942709</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ce and not matching teaching and learning styles decreases learning performance.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: emerald.com  
-   Link: [https://www.emerald.com/books/edited-volume/12434/chapter/82609168/Learning-Styles-Learning-Preferences-and-Student](https://www.emerald.com/books/edited-volume/12434/chapter/82609168/Learning-Styles-Learning-Preferences-and-Student)  
+   Link: <a href="https://www.emerald.com/books/edited-volume/12434/chapter/82609168/Learning-Styles-Learning-Preferences-and-Student" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/books/edited-volume/12434/chapter/82609168/Learning-Styles-Learning-Preferences-and-Student</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>these with the related concepts of learning preferences and student choice.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: deansforimpact.org  
    Title: Learning styles: what does the research say?  
-   Link: [https://www.deansforimpact.org/about/news-and-blog/2016/04/28/learning-styles-what-does-the-research-say](https://www.deansforimpact.org/about/news-and-blog/2016/04/28/learning-styles-what-does-the-research-say)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| April 28, 201628 Apr 2016 — The idea that students will learn more if they receive instruction that specifically matches their learning...</p></details>
+   Link: <a href="https://www.deansforimpact.org/about/news-and-blog/2016/04/28/learning-styles-what-does-the-research-say" target="_blank" rel="noopener noreferrer nofollow">https://www.deansforimpact.org/about/news-and-blog/2016/04/28/learning-styles-what-does-the-research-say</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 28, 201628 Apr 2016 — The idea that students will learn more if they receive instruction that specifically matches their learning...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: bjorklab.psych.ucla.edu  
    Title: Pashler McDaniel Rohrer Bjork 2009 PSPI  
-   Link: [https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf](https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf)  
+   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stylesby H Pashler · Cited by 5025 — meshing hypothesis, according to which instruction is best provided in a format that matches the pre...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: wtmacademy.com  
    Title: learning styles vs learning preferences  
-   Link: [https://www.wtmacademy.com/learning-styles-vs-learning-preferences/](https://www.wtmacademy.com/learning-styles-vs-learning-preferences/)  
+   Link: <a href="https://www.wtmacademy.com/learning-styles-vs-learning-preferences/" target="_blank" rel="noopener noreferrer nofollow">https://www.wtmacademy.com/learning-styles-vs-learning-preferences/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles vs. Learning PreferencesJul 31, 2020 — Rather than talking about learning styles, it&#x27;s more helpful to think about learni...</p></details>

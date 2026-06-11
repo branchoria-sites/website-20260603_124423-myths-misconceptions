@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - influencers
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - influencers
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: People often use a familiar person's confidence as a shortcut for credibility, especially online.
 hero_summary: People often use a familiar person's confidence as a shortcut for credibility, especially online.
 layout: default
 permalink: /influencers/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Influencers
 title: When Authority Shortcuts Spread Myths
-title_full: When Authority Shortcuts Spread Myths | Mythcraft
+title_full: When Authority Shortcuts Spread Myths
 display_title_short: Influencers
 display_title: Influencers
 heading_title: When Authority Shortcuts Spread Myths
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 next_link:
   basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
-date: '2026-06-09 04:03:22 '
+date: '2026-06-11 21:50:19 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-overview.webp
@@ -503,20 +503,18 @@ image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-ove
 
 Influencers can spread myths quickly because audiences often use social signals as shortcuts for credibility. A confident voice, a familiar face, a large following or a verified-looking profile can make a claim feel trustworthy before the audience has checked whether the person is qualified to make it. This is not simply a problem of gullible users or dishonest celebrities. It is a normal human response to information overload: when there is too much to evaluate, people lean on cues such as authority, popularity, [confidence]({{ 'confidence/' | relative_url }}) and personal connection.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-overview.webp" | relative_url }}" alt="Overview image for Influencers" loading="eager" decoding="sync" fetchpriority="high">
-That shortcut becomes risky when popularity is mistaken for expertise. A myth repeated by a favourite creator, celebrity, wellness personality, political figure or community leader may travel faster than a careful [correction]({{ 'correction/' | relative_url }}) from an unfamiliar expert. Research on online credibility shows that authority cues can strongly shape perceived source credibility, while studies of influencer misinformation suggest that virality itself can reduce perceived deception and increase willingness to share. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSocial media and credibility indicators: The effect of influence cues - ScienceDirect...</span></span></span>
+That shortcut becomes risky when popularity is mistaken for expertise. A myth repeated by a favourite creator, celebrity, wellness personality, political figure or community leader may travel faster than a careful [correction]({{ 'correction/' | relative_url }}) from an unfamiliar expert. Research on online credibility shows that authority cues can strongly shape perceived source credibility, while studies of influencer misinformation suggest that virality itself can reduce perceived deception and increase willingness to share. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social media and credibility indicators: The effect of influence cues - ScienceDirect...</span></span></span>
 
 ## Why confidence feels like credibility
 
 A confident person is easier to follow than a cautious one. Myths often benefit from that imbalance. The false claim is usually simple, vivid and emotionally satisfying; the correction is often conditional, technical or less dramatic. An influencer who says “this is what they are not telling you” may therefore sound more compelling than an expert who says “the evidence is mixed, and here are the limits”.
 
-Online [platforms]({{ 'platforms/' | relative_url }}) intensify this effect because they strip claims from many of the cues people would use offline. A short video or post may show confidence, polish and emotional certainty, but not the speaker’s training, conflicts of interest, evidence base or error history. In one study of Twitter credibility cues, authority, [identity]({{ 'identity/' | relative_url }}) and bandwagon signals all affected perceived credibility, with authority cues having the strongest effect. The study’s important lesson is not that authority is useless, but that people may treat the appearance of authority as a substitute for checking the claim itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSocial media and credibility indicators: The effect of influence cues - ScienceDirect...</span></span></span>
+Online [platforms]({{ 'platforms/' | relative_url }}) intensify this effect because they strip claims from many of the cues people would use offline. A short video or post may show confidence, polish and emotional certainty, but not the speaker’s training, conflicts of interest, evidence base or error history. In one study of Twitter credibility cues, authority, [identity]({{ 'identity/' | relative_url }}) and bandwagon signals all affected perceived credibility, with authority cues having the strongest effect. The study’s important lesson is not that authority is useless, but that people may treat the appearance of authority as a substitute for checking the claim itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social media and credibility indicators: The effect of influence cues - ScienceDirect...</span></span></span>
 
 Influencer culture adds a further layer: familiarity. Followers may see the same creator every day, hear personal stories, watch behind-the-scenes content and feel that they “know” the person. This one-sided bond is often called a parasocial relationship: a felt relationship with a media figure who does not personally know the audience member. When a creator has become part of someone’s routine, their claims can arrive with the warmth of a recommendation from a friend, even when the topic is science, medicine, law or history.
 
 That is why confident myth-spreading often works even without formal credentials. The source does not need to be a doctor to sound doctor-like, a historian to sound historically authoritative, or a statistician to sound data-driven. The shortcut is emotional and social before it is evidential.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-Illustration-1-dark.svg" | relative_url }}" alt="Influencers illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Expertise versus popularity
@@ -525,48 +523,43 @@ The central confusion is simple: popularity proves reach, not accuracy. A large 
 
 This distinction matters most when a claim crosses domains. A fitness influencer may be knowledgeable about their own training routine but unreliable on hormones, [vaccines]({{ 'vaccines/' | relative_url }}) or eating disorders. A celebrity may have lived experience of illness without being qualified to interpret clinical trials. A political commentator may be persuasive about values while misreading a chart. The myth spreads when the audience transfers trust from one area to another: “I trust this person” becomes “this person must be right about this”.
 
-Health misinformation shows the mechanism clearly because the stakes are visible. A scoping review on social media influencers and adolescent health found that influencers had become an important source of health information for adolescents, but that lack of expertise and commercial interests created risks. The review identified problems including unrealistic body images, unhealthy diets, substance-use promotion and inaccurate diagnosis or treatment advice, while also noting that influencers can build unusually trustworthy relationships with followers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSocial media and credibility indicators: The effect of influence cues - ScienceDirect...</span></span></span>
+Health misinformation shows the mechanism clearly because the stakes are visible. A scoping review on social media influencers and adolescent health found that influencers had become an important source of health information for adolescents, but that lack of expertise and commercial interests created risks. The review identified problems including unrealistic body images, unhealthy diets, substance-use promotion and inaccurate diagnosis or treatment advice, while also noting that influencers can build unusually trustworthy relationships with followers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social media and credibility indicators: The effect of influence cues - ScienceDirect...</span></span></span>
 
 The same authority shortcut can work in the opposite direction when credible people learn to communicate well. Health workers, scientists, librarians and community leaders can use the same platforms to answer questions, correct myths and build trust. The difference is that responsible authority does not rely only on status. It makes evidence visible, explains uncertainty and shows when a claim falls outside the speaker’s competence.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wvb5coE0te0" title="Building a Healthy Information Environment: The Surgeon General&#x27;s Toolkit on Health Misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wvb5coE0te0" target="_blank" rel="noopener noreferrer">Building a Healthy Information Environment: The Surgeon General&#x27;s Toolkit on Health Misinformation</a></p><p class="youtube-embed-meta">Channel: Network of the National Library of Medicine [NNLM] &middot; Views: 145 &middot; Uploaded: April 2023 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wvb5coE0te0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wvb5coE0te0">Open on YouTube</a></p></div></div></div>
 
 ## How virality becomes a false signal
 
 A myth can look more credible simply because many people have already reacted to it. Likes, shares, comments, reposts and stitched videos are not just measurements of attention; they are social proof. They tell the next viewer that the claim is worth noticing. In fast-moving feeds, that can become a credibility cue before the content is understood.
 
-Research on false news diffusion helps explain why this matters. A major MIT study of Twitter data found that false news travelled farther, faster, deeper and more broadly than true news, and that the difference persisted even when bots were removed from the dataset. The researchers’ finding is especially relevant to myth spread because it points to human sharing behaviour, not just automated manipulation, as a driver of falsehood’s reach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories | MIT News | Massachusetts Institute of Technology...</span></span></span>
+Research on false news diffusion helps explain why this matters. A major MIT study of Twitter data found that false news travelled farther, faster, deeper and more broadly than true news, and that the difference persisted even when bots were removed from the dataset. The researchers’ finding is especially relevant to myth spread because it points to human sharing behaviour, not just automated manipulation, as a driver of falsehood’s reach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories &#124; MIT News &#124; Massachusetts Institute of Technology...</span></span></span>
 
 Influencer-specific research adds another piece. A 2025 study on TikTok and Instagram influencer misinformation found that higher virality reduced perceived deception, strengthened parasocial connection and increased sharing intentions. In other words, people were not merely seeing a viral post; they were reading its popularity as a sign that it might be acceptable, normal or trustworthy. Critical comments, however, could increase perceptions of deception in highly viral posts, suggesting that visible challenge can interrupt the shortcut. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14413582241273987" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Going Viral: Sharing of Misinformation by Social Media Influencers</span><span class="citation-popover-snippet">Sage JournalsGoing Viral: Sharing of Misinformation by Social Media Influencers - Rory Mulcahy, Renee Barnes, Retha de Villiers Scheepers...</span></span></span>
 
 This is why [corrections]({{ 'corrections/' | relative_url }}) from experts can struggle. A careful correction may be accurate but socially quiet. The myth may already have the crowd, the joke format, the celebrity name, the emotional story and the appearance of consensus. By the time the correction arrives, the audience may have seen the myth several times from people they recognise.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wvb5coE0te0" title="Building a Healthy Information Environment: The Surgeon General&#x27;s Toolkit on Health Misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wvb5coE0te0" target="_blank" rel="noopener noreferrer">Building a Healthy Information Environment: The Surgeon General&#x27;s Toolkit on Health Misinformation</a></p><p class="youtube-embed-meta">Channel: Network of the National Library of Medicine [NNLM] &middot; Views: 145 &middot; Uploaded: April 2023 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wvb5coE0te0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wvb5coE0te0">Open on YouTube</a></p></div></div></div>
+
 ## The influencer problem is also a training problem
 
 Many creators are not deliberately trying to deceive their audiences. They may be repeating something that sounded plausible, summarising a half-read article, sharing an anecdote, reacting to a trend or trusting another creator. That does not remove the harm, but it changes the solution: some myth spread comes from incentives and missing verification habits rather than only from bad faith.
 
-UNESCO’s 2024 survey of digital content creators is useful here. It found that 62% did not carry out rigorous and systematic fact-checking before sharing information, while 73% said they wanted training. UNESCO framed creators as an important part of the information ecosystem because they now engage large audiences with cultural, social and political news, often without the editorial routines used in journalism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">2/3 of digital content creators do not check their facts before</span><span class="citation-popover-snippet">UNESCO2/3 of digital content creators do not check their facts before...</span></span></span>
+UNESCO’s 2024 survey of digital content creators is useful here. It found that 62% did not carry out rigorous and systematic fact-checking before sharing information, while 73% said they wanted training. UNESCO framed creators as an important part of the information ecosystem because they now engage large audiences with cultural, social and political news, often without the editorial routines used in journalism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">2/3 of digital content creators do not check their facts before</span><span class="citation-popover-snippet">2/3 of digital content creators do not check their facts before...</span></span></span>
 
 This creates a mismatch. Platforms reward speed, confidence, novelty and engagement. Verification rewards slowness, doubt, context and sometimes silence. A creator who pauses to check a claim may miss the trend window; a creator who posts immediately may gain reach even if the claim is wrong. The authority shortcut then compounds the error: followers assume the creator has checked because the creator sounds certain and has a large audience.
 
-Commercial incentives can make the problem sharper. Sponsored posts, affiliate links, product launches and personal brands can blur the line between advice and advertising. A creator may sincerely believe a claim, but still benefit when followers accept it. In health, beauty, finance and lifestyle content, the audience may not always see where [personal experience]({{ 'anecdotes/' | relative_url }}) ends and commercial persuasion begins.
+Commercial incentives can make the problem sharper. Sponsored posts, affiliate links, product launches and personal brands can blur the line between advice and advertising. A creator may sincerely believe a claim, but still benefit when followers accept it. In health, beauty, finance and lifestyle content, the audience may not always see where personal experience ends and commercial persuasion begins.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-Illustration-2-dark.svg" | relative_url }}" alt="Influencers illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Corrections need more than an unfamiliar expert
 
 A common response to influencer-driven myths is to say: “Listen to experts instead.” That is true but incomplete. The audience may not know who counts as an expert, may distrust institutions, or may feel that official explanations do not speak to their everyday concerns. In some communities, a local pastor, youth worker, parent creator or niche educator may be more influential than a national authority.
 
-Public health organisations increasingly recognise this. The US Surgeon General’s health misinformation resources include guidance not only for health care providers but also for educators, librarians, faith leaders and trusted community members. The emphasis is practical: misinformation often spreads through communities, so responses need trusted people inside those communities, not only distant institutions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hhs.gov">[HHS.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hhs.gov</span><span class="citation-popover-title">Health Misinformation | HHS.gov</span><span class="citation-popover-snippet">Health Misinformation | HHS.gov</span></span></span>
+Public health organisations increasingly recognise this. The US Surgeon General’s health misinformation resources include guidance not only for health care providers but also for educators, librarians, faith leaders and trusted community members. The emphasis is practical: misinformation often spreads through communities, so responses need trusted people inside those communities, not only distant institutions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hhs.gov">[HHS.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hhs.gov</span><span class="citation-popover-title">Health Misinformation &#124; HHS.gov</span><span class="citation-popover-snippet">Health Misinformation &#124; HHS.gov</span></span></span>
 
 The World Health Organization has also produced social media guidance for health-care practitioners, aimed at helping them share authentic and reliable information online, create posts, reshare trusted sources and communicate vaccine-confidence messages. This approach treats credibility as something that must be carried into the spaces where myths are spreading, rather than waiting for audiences to leave those spaces and search official websites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/publications/m/item/a-social-media-toolkit-for-healthcare-practitioners-desktop" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">A Social Media Toolkit for Healthcare Practitioners - mobile...</span></span></span>
 
 The best corrective messenger is therefore not always the most senior expert. It may be the person who combines relevant expertise, audience trust, clarity and humility. A local clinician who answers common questions in plain language may outperform a formal statement. A creator who admits a previous mistake and shows how they checked it may teach better habits than a scolding correction.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UtkDlbLeetI" title="Quackery, Celebrity Doctors and TikTok Energy - Medical Misinformation Isn’t New" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UtkDlbLeetI" target="_blank" rel="noopener noreferrer">Quackery, Celebrity Doctors and TikTok Energy - Medical Misinformation Isn’t New</a></p><p class="youtube-embed-meta">Channel: Bangor University &middot; Views: 8 &middot; Uploaded: May 2026 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UtkDlbLeetI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UtkDlbLeetI">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-Illustration-2-dark.svg" | relative_url }}" alt="Influencers illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How audiences can check claims without becoming full-time fact-checkers
 
 The aim is not to treat every influencer as suspicious or every expert as right. The useful habit is to separate the source cue from the claim. A familiar person can be sincere and wrong. An unfamiliar expert can be accurate and poor at communication. A viral post can be popular because it is funny, frightening or identity-affirming, not because it is true.
@@ -587,7 +580,6 @@ Myths often travel with incentives: attention, sales, political loyalty, group i
 
 Social cues deserve special caution. A post with millions of views may still be wrong. A confident speaker may still be guessing. A creator who has been right before may still be outside their depth this time. The more consequential the decision — health, money, safety, voting, legal rights, reputational harm — the more the audience should slow down and look beyond the person delivering the claim.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-Illustration-3-dark.svg" | relative_url }}" alt="Influencers illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What responsible influencers do differently
 
@@ -599,9 +591,7 @@ They also avoid borrowing authority they have not earned. A creator can say, “
 
 The healthiest information environment is not one where audiences ignore influencers. It is one where audiences understand what influencer credibility can and cannot prove. Familiarity may tell you why a person is persuasive. It does not tell you whether the claim is true.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KWt_IL3JViY" title="How algorithms shape what you see on social media" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KWt_IL3JViY" target="_blank" rel="noopener noreferrer">How algorithms shape what you see on social media</a></p><p class="youtube-embed-meta">Channel: TODAY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KWt_IL3JViY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KWt_IL3JViY">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UtkDlbLeetI" title="Quackery, Celebrity Doctors and TikTok Energy - Medical Misinformation Isn’t New" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UtkDlbLeetI" target="_blank" rel="noopener noreferrer">Quackery, Celebrity Doctors and TikTok Energy - Medical Misinformation Isn’t New</a></p><p class="youtube-embed-meta">Channel: Bangor University &middot; Views: 8 &middot; Uploaded: May 2026 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UtkDlbLeetI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UtkDlbLeetI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -999,130 +989,130 @@ The healthiest information environment is not one where audiences ignore influen
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X](https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSocial media and credibility indicators: The effect of influence cues - ScienceDirect...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media and credibility indicators: The effect of influence cues - ScienceDirect...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S027795362300744X](https://www.sciencedirect.com/science/article/pii/S027795362300744X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSocial media influencers and adolescents’ health: A scoping review of the research field - ScienceDirect...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S027795362300744X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S027795362300744X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media influencers and adolescents’ health: A scoping review of the research field - ScienceDirect...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: news.mit.edu  
-   Link: [https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308](https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308)  
+   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories | MIT News | Massachusetts Institute of Technology...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: unesco.org  
    Title: 2/3 of digital content creators do not check their facts before  
-   Link: [https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey](https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO2/3 of digital content creators do not check their facts before...</p></details>
+   Link: <a href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>2/3 of digital content creators do not check their facts before...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: hhs.gov  
    Title: Health Misinformation | HHS.gov  
-   Link: [https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html](https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html)  
+   Link: <a href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: who.int  
    Title: World Health Organization  
-   Link: [https://www.who.int/publications/m/item/a-social-media-toolkit-for-healthcare-practitioners-desktop](https://www.who.int/publications/m/item/a-social-media-toolkit-for-healthcare-practitioners-desktop)  
+   Link: <a href="https://www.who.int/publications/m/item/a-social-media-toolkit-for-healthcare-practitioners-desktop" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/m/item/a-social-media-toolkit-for-healthcare-practitioners-desktop</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Social Media Toolkit for Healthcare Practitioners - mobile...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S004727272500043X](https://www.sciencedirect.com/science/article/pii/S004727272500043X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0040162523006583](https://www.sciencedirect.com/science/article/abs/pii/S0040162523006583)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0040162523006583" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0040162523006583</a>  
 
 9. <a id="endnote-9"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/digital-content-creators](https://www.unesco.org/en/digital-content-creators)  
+   Link: <a href="https://www.unesco.org/en/digital-content-creators" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/digital-content-creators</a>  
 
 10. <a id="endnote-10"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online](https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online)  
+   Link: <a href="https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online</a>  
 
 11. <a id="endnote-11"></a>
    Source: who.int  
-   Link: [https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds](https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds)  
+   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
 
 12. <a id="endnote-12"></a>
    Source: ouci.dntb.gov.ua  
-   Link: [https://ouci.dntb.gov.ua/en/works/7WdBwwz4/](https://ouci.dntb.gov.ua/en/works/7WdBwwz4/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/7WdBwwz4/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/7WdBwwz4/</a>  
 
 13. <a id="endnote-13"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DC4eXFXPqY0/](https://www.instagram.com/p/DC4eXFXPqY0/)  
+   Link: <a href="https://www.instagram.com/p/DC4eXFXPqY0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DC4eXFXPqY0/</a>  
 
 14. <a id="endnote-14"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Going Viral: Sharing of Misinformation by Social Media Influencers  
-   Link: [https://journals.sagepub.com/doi/10.1177/14413582241273987](https://journals.sagepub.com/doi/10.1177/14413582241273987)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/14413582241273987" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14413582241273987</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsGoing Viral: Sharing of Misinformation by Social Media Influencers - Rory Mulcahy, Renee Barnes, Retha de Villiers Scheepers...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: science.org  
-   Link: [https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots](https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots)  
+   Link: <a href="https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots</a>  
 
 16. <a id="endnote-16"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.aap9559](https://www.science.org/doi/10.1126/science.aap9559)  
+   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
 
 17. <a id="endnote-17"></a>
    Source: ebm.bmj.com  
-   Link: [https://ebm.bmj.com/content/30/6/420](https://ebm.bmj.com/content/30/6/420)  
+   Link: <a href="https://ebm.bmj.com/content/30/6/420" target="_blank" rel="noopener noreferrer nofollow">https://ebm.bmj.com/content/30/6/420</a>  
 
 18. <a id="endnote-18"></a>
    Source: europeanjournalists.org  
-   Link: [https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/](https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/)  
+   Link: <a href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/</a>  
 
 19. <a id="endnote-19"></a>
    Source: business-humanrights.org  
    Title: unesco warns that online influencers urgently need fact checking training  
-   Link: [https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/](https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/)  
+   Link: <a href="https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/</a>  
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: bridgeportct.gov  
    Title: social media influencers and health misinformation why we must be cautious  
-   Link: [https://www.bridgeportct.gov/news/social-media-influencers-and-health-misinformation-why-we-must-be-cautious](https://www.bridgeportct.gov/news/social-media-influencers-and-health-misinformation-why-we-must-be-cautious)  
+   Link: <a href="https://www.bridgeportct.gov/news/social-media-influencers-and-health-misinformation-why-we-must-be-cautious" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeportct.gov/news/social-media-influencers-and-health-misinformation-why-we-must-be-cautious</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/unesco/videos/behind-the-screens-study-reveals-a-critical-landscape-for-online-content-creatio/1327322601611148/](https://www.facebook.com/unesco/videos/behind-the-screens-study-reveals-a-critical-landscape-for-online-content-creatio/1327322601611148/)  
+   Link: <a href="https://www.facebook.com/unesco/videos/behind-the-screens-study-reveals-a-critical-landscape-for-online-content-creatio/1327322601611148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/videos/behind-the-screens-study-reveals-a-critical-landscape-for-online-content-creatio/1327322601611148/</a>  
 
 22. <a id="endnote-22"></a>
    Source: spokanetribe.com  
-   Link: [https://spokanetribe.com/wp-content/uploads/2021/11/HealthMisinformationToolkitNon508.pdf](https://spokanetribe.com/wp-content/uploads/2021/11/HealthMisinformationToolkitNon508.pdf)  
+   Link: <a href="https://spokanetribe.com/wp-content/uploads/2021/11/HealthMisinformationToolkitNon508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spokanetribe.com/wp-content/uploads/2021/11/HealthMisinformationToolkitNon508.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/biases/authority-bias](https://thedecisionlab.com/biases/authority-bias)  
+   Link: <a href="https://thedecisionlab.com/biases/authority-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/authority-bias</a>  
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/353556729_Fake_news_on_Facebook_examining_the_impact_of_heuristic_cues_on_perceived_credibility_and_sharing_intention](https://www.researchgate.net/publication/353556729_Fake_news_on_Facebook_examining_the_impact_of_heuristic_cues_on_perceived_credibility_and_sharing_intention)  
+   Link: <a href="https://www.researchgate.net/publication/353556729_Fake_news_on_Facebook_examining_the_impact_of_heuristic_cues_on_perceived_credibility_and_sharing_intention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353556729_Fake_news_on_Facebook_examining_the_impact_of_heuristic_cues_on_perceived_credibility_and_sharing_intention</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WBTVNews3/posts/researchers-found-that-fake-news-sped-through-twitter-farther-faster-deeper-and-/10155105921436455/](https://www.facebook.com/WBTVNews3/posts/researchers-found-that-fake-news-sped-through-twitter-farther-faster-deeper-and-/10155105921436455/)  
+   Link: <a href="https://www.facebook.com/WBTVNews3/posts/researchers-found-that-fake-news-sped-through-twitter-farther-faster-deeper-and-/10155105921436455/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WBTVNews3/posts/researchers-found-that-fake-news-sped-through-twitter-farther-faster-deeper-and-/10155105921436455/</a>  
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/395328308_Exploring_the_Impact_of_Social_Media_Influencers_on_Adults%27_Health_Behaviour_The_Role_of_Credibility_Trust_and_Emotional_Resonance](https://www.researchgate.net/publication/395328308_Exploring_the_Impact_of_Social_Media_Influencers_on_Adults%27_Health_Behaviour_The_Role_of_Credibility_Trust_and_Emotional_Resonance)  
+   Link: <a href="https://www.researchgate.net/publication/395328308_Exploring_the_Impact_of_Social_Media_Influencers_on_Adults%27_Health_Behaviour_The_Role_of_Credibility_Trust_and_Emotional_Resonance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395328308_Exploring_the_Impact_of_Social_Media_Influencers_on_Adults%27_Health_Behaviour_The_Role_of_Credibility_Trust_and_Emotional_Resonance</a>  
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/323649207_The_spread_of_true_and_false_news_online](https://www.researchgate.net/publication/323649207_The_spread_of_true_and_false_news_online)  
+   Link: <a href="https://www.researchgate.net/publication/323649207_The_spread_of_true_and_false_news_online" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323649207_The_spread_of_true_and_false_news_online</a>  
 
 28. <a id="endnote-28"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: [https://misinforeview.hks.harvard.edu/article/a-survey-of-expert-views-on-misinformation-definitions-determinants-solutions-and-future-of-the-field/](https://misinforeview.hks.harvard.edu/article/a-survey-of-expert-views-on-misinformation-definitions-determinants-solutions-and-future-of-the-field/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/a-survey-of-expert-views-on-misinformation-definitions-determinants-solutions-and-future-of-the-field/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/a-survey-of-expert-views-on-misinformation-definitions-determinants-solutions-and-future-of-the-field/</a>  
 
 29. <a id="endnote-29"></a>
    Source: researchportal.port.ac.uk  
-   Link: [https://researchportal.port.ac.uk/files/63065979/Thesis.pdf](https://researchportal.port.ac.uk/files/63065979/Thesis.pdf)  
+   Link: <a href="https://researchportal.port.ac.uk/files/63065979/Thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/files/63065979/Thesis.pdf</a>

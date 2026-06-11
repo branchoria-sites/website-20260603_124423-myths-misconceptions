@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_recommendation_syste_5b072a
 - Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_warning_labels_trust_d61bcf
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - platform-design
 - accuracy-nudges
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - platform-design
 - accuracy-nudges
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Accuracy prompts work by reminding users to consider truth, not just emotion, identity or social approval, before passing news along.
 hero_summary: Accuracy prompts work by reminding users to consider truth, not just emotion, identity or social approval, before passing news along.
 layout: default
 permalink: /accuracy-nudges/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /platform-design/
 nav_short_title: Accuracy Nudges
 title: Why Asking About Accuracy Changes Sharing
-title_full: Why Asking About Accuracy Changes Sharing | Platform Design
+title_full: Why Asking About Accuracy Changes Sharing
 display_title_short: Accuracy Nudges
 display_title: Accuracy Nudges
 heading_title: Why Asking About Accuracy Changes Sharing
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can Platform Design Slow Myths Down? | Mythcraft
+parent_title: Can Platform Design Slow Myths Down?
 parent_permalink: /platform-design/
 parent_nav_short_title: Platform Design
 parent_heading_title: Can Platform Design Slow Myths Down?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Do Misinformation Labels Actually Work?
 up_link:
   basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
@@ -259,7 +259,7 @@ next_link:
   permalink: /algorithms-84eed4/
   short_title: Algorithms
   heading_title: The Hidden Engine Behind Myth Spread
-date: '2026-06-09 05:41:51 '
+date: '2026-06-11 22:40:18 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_accuracy_prompts_sha_1e2681-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_accuracy_prompts_sha_1e2681-Illustration-1.webp
@@ -268,22 +268,18 @@ image: /assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_ac
 
 ## Introduction
 
-Accuracy prompts are one of the simplest [platform design]({{ 'platform-design/' | relative_url }}) choices for reducing the spread of [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) online. Rather than telling users what to believe, these prompts briefly redirect attention to a different question: “Is this accurate?” The idea is based on a finding that has emerged repeatedly in misinformation research: many people who share misleading content are not necessarily trying to spread falsehoods. Instead, they are often focused on other considerations such as humour, outrage, group identity, novelty, or social approval at the moment they decide to share. When attention is redirected towards accuracy, the quality of what people choose to pass on tends to improve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMC - NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span>
-
+[Accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) are one of the simplest [platform design]({{ 'platform-design/' | relative_url }}) choices for reducing the spread of myths and misconceptions online. Rather than telling users what to believe, these prompts briefly redirect attention to a different question: “Is this accurate?” The idea is based on a finding that has emerged repeatedly in misinformation research: many people who share misleading content are not necessarily trying to spread falsehoods. Instead, they are often focused on other considerations such as humour, outrage, group identity, novelty, or social approval at the moment they decide to share. When attention is redirected towards accuracy, the quality of what people choose to pass on tends to improve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_accuracy_prompts_sha_1e2681-Illustration-1-dark.svg" | relative_url }}" alt="Accuracy Nudges illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_accuracy_prompts_sha_1e2681-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_accuracy_prompts_sha_1e2681-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For [platforms]({{ 'platforms/' | relative_url }}) concerned with slowing the spread of myths, accuracy prompts are attractive because they preserve user choice. They do not remove content, impose fact-check labels on every post, or require complex moderation decisions. Instead, they attempt to make truthfulness more salient at the exact moment when sharing decisions are made. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">misinformation on social media: experimental evidence for a scalable accuracy nudge intervention.Read more...</span></span></span>
 
 ## How attention shapes misinformation sharing
 
-A common assumption is that people share misinformation because they cannot tell true claims from false ones. Research suggests the picture is more complicated. Many users show a larger gap between what they believe and what they are willing to share. They may recognise that a claim is doubtful yet still pass it along because attention has shifted towards other goals, such as entertaining friends, signalling political loyalty, expressing outrage, or joining a conversation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReview The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2163 — Rather than being bamboozled by partisanship, peop...</span></span></span>
+A common assumption is that people share misinformation because they cannot tell true claims from false ones. Research suggests the picture is more complicated. Many users show a larger gap between what they believe and what they are willing to share. They may recognise that a claim is doubtful yet still pass it along because attention has shifted towards other goals, such as entertaining friends, signalling political loyalty, expressing outrage, or joining a conversation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2163 — Rather than being bamboozled by partisanship, peop...</span></span></span>
 
-The central mechanism behind accuracy prompts is therefore not improved fact-checking skill. It is attentional redirection. The intervention works by bringing accuracy back into the decision process before sharing occurs. Researchers describe this as an “inattention to accuracy” problem: people often care about truth but fail to actively consider it in the rapid, socially driven environment of online feeds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMC - NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span> ScienceDirect This distinction matters. If misinformation sharing were mainly caused by deeply held false beliefs <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReview The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2163 — Rather than being bamboozled by partisanship, peop...</span></span></span>, a simple prompt would have little effect. The fact that brief reminders can change behaviour suggests that at least some misinformation spreads because users are not evaluating accuracy at all when making sharing decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAccuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 360 — Interventions that shift users attent...</span></span></span>
+The central mechanism behind accuracy prompts is therefore not improved fact-checking skill. It is attentional redirection. The intervention works by bringing accuracy back into the decision process before sharing occurs. Researchers describe this as an “inattention to accuracy” problem: people often care about truth but fail to actively consider it in the rapid, socially driven environment of online feeds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span> ScienceDirect This distinction matters. If misinformation sharing were mainly caused by deeply held false beliefs <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2163 — Rather than being bamboozled by partisanship, peop...</span></span></span>, a simple prompt would have little effect. The fact that brief reminders can change behaviour suggests that at least some misinformation spreads because users are not evaluating accuracy at all when making sharing decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 360 — Interventions that shift users attent...</span></span></span>
 
-A useful way to think about the mechanism is that social media constantly competes for attention. Likes, comments, emotional reactions and [identity]({{ 'identity/' | relative_url }}) signals are visible and immediate. Accuracy is often invisible. An accuracy prompt temporarily elevates truthfulness to the same level of attention as those competing incentives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMC - NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tIfxjKkbpyo" title="How Behavioral Science Can Tackle Misinformation And Obesity | Evelyn Gosnell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tIfxjKkbpyo" target="_blank" rel="noopener noreferrer">How Behavioral Science Can Tackle Misinformation And Obesity | Evelyn Gosnell</a></p><p class="youtube-embed-meta">Channel: Behavioral Grooves</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tIfxjKkbpyo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tIfxjKkbpyo">Open on YouTube</a></p></div></div></div>
+A useful way to think about the mechanism is that social media constantly competes for attention. Likes, comments, emotional reactions and [identity]({{ 'identity/' | relative_url }}) signals are visible and immediate. Accuracy is often invisible. An accuracy prompt temporarily elevates truthfulness to the same level of attention as those competing incentives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span>
 
 ## What the experiments actually found
 
@@ -293,10 +289,7 @@ The effect has been observed across multiple studies, topics and populations. A 
 
 Importantly, the intervention is often extremely small. Participants may be asked to rate the accuracy of a single headline, answer a brief question about truthfulness, or see a reminder encouraging careful consideration of accuracy. These modest interventions can alter later sharing choices even when users are not explicitly told which stories are true or false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">developing an accuracy prompt toolkit to reduce covid 19 misinformation online</span><span class="citation-popover-snippet">Misinformation ReviewDeveloping an accuracy-prompt toolkit to reduce COVID...by Z Epstein · 2021 · Cited by 135 — Here we examine the ut...</span></span></span>
 
-Researchers have also explored richer versions of the idea. Experiments involving checklists, requests for credibility assessments, or short explanations for why a claim is accurate or inaccurate generally reduce willingness to share false information. Some versions reduce sharing of true information as well, but the reduction is usually larger for false content, leading to a higher overall quality of shared material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2101.11824" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivExploring Lightweight Interventions at Posting Time to Reduce the Sharing of Misinformation on Social MediaJanuary 28, 2021...</span><span class="citation-popover-meta">Published: January 28, 2021</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v_WXMEWiZi8" title="The Infodemic: Debunking Works (Let’s Get To It!) with Tim Caulfield" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v_WXMEWiZi8" target="_blank" rel="noopener noreferrer">The Infodemic: Debunking Works (Let’s Get To It!) with Tim Caulfield</a></p><p class="youtube-embed-meta">Channel: Center for Inquiry &middot; Views: 1.9K &middot; Uploaded: December 2020 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v_WXMEWiZi8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v_WXMEWiZi8">Open on YouTube</a></p></div></div></div>
+Researchers have also explored richer versions of the idea. Experiments involving checklists, requests for credibility assessments, or short explanations for why a claim is accurate or inaccurate generally reduce willingness to share false information. Some versions reduce sharing of true information as well, but the reduction is usually larger for false content, leading to a higher overall quality of shared material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2101.11824" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Exploring Lightweight Interventions at Posting Time to Reduce the Sharing of Misinformation on Social MediaJanuary 28, 2021...</span><span class="citation-popover-meta">Published: January 28, 2021</span></span></span>
 
 ## Why these prompts work without telling people what is true
 
@@ -306,12 +299,11 @@ Instead, they rely on three behavioural effects:
 
 * **Attention activation:** users are reminded that accuracy is relevant to the current decision.
 * **Reflection encouragement:** people spend slightly longer evaluating content rather than reacting automatically.
-* **Goal realignment:** the prompt temporarily shifts motivation from social rewards towards informational quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMC - NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/00027162221092342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">accuracy nudge intervention...Read more...</span></span></span>
+* **Goal realignment:** the prompt temporarily shifts motivation from social rewards towards informational quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/00027162221092342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">accuracy nudge intervention...Read more...</span></span></span>
 
-This makes accuracy prompts different from [warning labels]({{ 'warning-labels/' | relative_url }}) or fact-check [corrections]({{ 'corrections/' | relative_url }}). Warning labels communicate that a platform or third party has reached a judgement about content. Accuracy prompts ask users to make their own judgement. As a result, they often avoid some of the resistance that accompanies direct correction efforts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMC - NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span>
+This makes accuracy prompts different from [warning labels]({{ 'warning-labels/' | relative_url }}) or fact-check [corrections]({{ 'corrections/' | relative_url }}). Warning labels communicate that a platform or third party has reached a judgement about content. Accuracy prompts ask users to make their own judgement. As a result, they often avoid some of the resistance that accompanies direct correction efforts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span>
 
 Evidence also suggests that the intervention operates across political groups. While some studies find modest differences in effect size between ideological groups, the general pattern remains: making accuracy salient tends to reduce misinformation sharing among both left-leaning and right-leaning participants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.cornell.edu">[Cornell Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.cornell.edu</span><span class="citation-popover-title">accuracy nudges decrease misinformation sharing left right</span><span class="citation-popover-snippet">Cornell ChronicleAccuracy &#x27;nudges&#x27; decrease misinformation-sharing on left, right4 Apr 2024 — They found that “nudges” regarding the impo...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_accuracy_prompts_sha_1e2681-Illustration-2-dark.svg" | relative_url }}" alt="Accuracy Nudges illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_accuracy_prompts_sha_1e2681-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_accuracy_prompts_sha_1e2681-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Best uses during fast-moving viral events
@@ -319,7 +311,6 @@ Evidence also suggests that the intervention operates across political groups. W
 Accuracy prompts are particularly relevant during breaking news events, public emergencies and viral rumours. These are moments when information spreads quickly, emotions run high and verification often lags behind sharing.
 
 In such circumstances, platforms can place prompts at several points in the user journey:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -330,12 +321,11 @@ In such circumstances, platforms can place prompts at several points in the user
 
 </div>
 
-The value of the intervention is speed. Fact-checking often requires hours or days. An accuracy prompt can be deployed immediately and at scale. Because it does not depend on evaluating individual claims, it can function even when reliable information is still emerging. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAccuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 360 — Interventions that shift users attent...</span></span></span>
+The value of the intervention is speed. Fact-checking often requires hours or days. An accuracy prompt can be deployed immediately and at scale. Because it does not depend on evaluating individual claims, it can function even when reliable information is still emerging. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 360 — Interventions that shift users attent...</span></span></span>
 
-The approach is especially useful against myths that rely on impulsive sharing. Rumours driven by surprise, anger or fear gain much of their reach from rapid transmission. Introducing a moment of reflection can weaken that advantage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMC - NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span>
+The approach is especially useful against myths that rely on impulsive sharing. Rumours driven by surprise, anger or fear gain much of their reach from rapid transmission. Introducing a moment of reflection can weaken that advantage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cSKGa_7XJkg" title="How false news can spread - Noah Tavlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer">How false news can spread - Noah Tavlin</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cSKGa_7XJkg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v_WXMEWiZi8" title="The Infodemic: Debunking Works (Let’s Get To It!) with Tim Caulfield" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v_WXMEWiZi8" target="_blank" rel="noopener noreferrer">The Infodemic: Debunking Works (Let’s Get To It!) with Tim Caulfield</a></p><p class="youtube-embed-meta">Channel: Center for Inquiry &middot; Views: 1.9K &middot; Uploaded: December 2020 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v_WXMEWiZi8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v_WXMEWiZi8">Open on YouTube</a></p></div></div></div>
 
 ## Where accuracy nudges fall short
 
@@ -345,17 +335,17 @@ First, the effect sizes are meaningful but not transformative. People still shar
 
 Second, repeated exposure may reduce effectiveness if users become accustomed to the prompts and stop noticing them. Researchers continue to investigate how often prompts should appear and how they can remain psychologically salient without becoming annoying. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">developing an accuracy prompt toolkit to reduce covid 19 misinformation online</span><span class="citation-popover-snippet">Misinformation ReviewDeveloping an accuracy-prompt toolkit to reduce COVID...by Z Epstein · 2021 · Cited by 135 — Here we examine the ut...</span></span></span>
 
-Third, accuracy prompts work best when the problem is inattention rather than deliberate deception. Users who knowingly spread false claims for political, financial or ideological reasons are less likely to be influenced by a reminder about truthfulness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMC - NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span>
+Third, accuracy prompts work best when the problem is inattention rather than deliberate deception. Users who knowingly spread false claims for political, financial or ideological reasons are less likely to be influenced by a reminder about truthfulness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span>
 
 Finally, platforms must balance effectiveness with user experience. Excessive prompting can create friction that frustrates users and reduces engagement. The challenge is to insert reminders at moments where the risk of misinformation spread is highest while keeping the intervention lightweight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prosocialdesign.org/library/accuracy-prompts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prosocialdesign.org">[prosocialdesign.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prosocialdesign.org</span><span class="citation-popover-snippet">Accuracy PromptsBy calling their attention to accuracy, users will be more apt to discern if a news item is misinformation and less likel...</span></span></span>
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_accuracy_prompts_sha_1e2681-Illustration-3-dark.svg" | relative_url }}" alt="Accuracy Nudges illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_accuracy_prompts_sha_1e2681-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_accuracy_prompts_sha_1e2681-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What accuracy prompts reveal about misinformation
 
 The broader significance of accuracy prompts extends beyond the intervention itself. Their success provides evidence about why myths and misconceptions spread in the first place.
 
-If many users respond to a brief reminder by sharing better information, then misinformation is not solely a problem of ignorance or gullibility. Part of the problem is attentional. Social media environments often encourage people to optimise for speed, identity and engagement rather than truth. Accuracy prompts work because they temporarily reverse that emphasis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMC - NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For platform designers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReview The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2163 — Rather than being bamboozled by partisanship, peop...</span></span></span>, this finding is important. It suggests that reducing false belief spread does not always require deciding what users can see. Sometimes it is enough to change what users are thinking about in the few seconds before they click “share”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599-025-05233-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Can shifting attention to accuracy reduce misinformation on...by Z Liu · 2025 · Cited by 3 — Therefore, accuracy-prompt interventions ha...</span></span></span>
+If many users respond to a brief reminder by sharing better information, then misinformation is not solely a problem of ignorance or gullibility. Part of the problem is attentional. Social media environments often encourage people to optimise for speed, identity and engagement rather than truth. Accuracy prompts work because they temporarily reverse that emphasis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For platform designers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2163 — Rather than being bamboozled by partisanship, peop...</span></span></span>, this finding is important. It suggests that reducing false belief spread does not always require deciding what users can see. Sometimes it is enough to change what users are thinking about in the few seconds before they click “share”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599-025-05233-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Can shifting attention to accuracy reduce misinformation on...by Z Liu · 2025 · Cited by 3 — Therefore, accuracy-prompt interventions ha...</span></span></span>
+
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_accuracy_prompts_sha_1e2681-Illustration-3-dark.svg" | relative_url }}" alt="Accuracy Nudges illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_accuracy_prompts_sha_1e2681-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_accuracy_prompts_sha_1e2681-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -754,128 +744,128 @@ If many users respond to a brief reminder by sharing better information, then mi
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNudging Social Media toward Accuracy  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Pennycook · 2022 · Cited by 122 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661321000516](https://www.sciencedirect.com/science/article/pii/S1364661321000516)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectReview The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2163 — Rather than being bamboozled by partisanship, peop...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2163 — Rather than being bamboozled by partisanship, peop...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-021-03344-2](https://www.nature.com/articles/s41586-021-03344-2)  
+   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation on social media: experimental evidence for a scalable accuracy nudge intervention.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: prosocialdesign.org  
-   Link: [https://www.prosocialdesign.org/library/accuracy-prompts](https://www.prosocialdesign.org/library/accuracy-prompts)  
+   Link: <a href="https://www.prosocialdesign.org/library/accuracy-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.prosocialdesign.org/library/accuracy-prompts</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy PromptsBy calling their attention to accuracy, users will be more apt to discern if a news item is misinformation and less likel...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41467-022-30073-5](https://www.nature.com/articles/s41467-022-30073-5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAccuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 360 — Interventions that shift users attent...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 360 — Interventions that shift users attent...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2101.11824](https://arxiv.org/abs/2101.11824)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExploring Lightweight Interventions at Posting Time to Reduce the Sharing of Misinformation on Social MediaJanuary 28, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2101.11824" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2101.11824</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Lightweight Interventions at Posting Time to Reduce the Sharing of Misinformation on Social MediaJanuary 28, 2021...</p></details>
    Published: January 28, 2021  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2108.01536](https://arxiv.org/abs/2108.01536)  
+   Link: <a href="https://arxiv.org/abs/2108.01536" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2108.01536</a>  
 
 8. <a id="endnote-8"></a>
    Source: news.cornell.edu  
    Title: accuracy nudges decrease misinformation sharing left right  
-   Link: [https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right](https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right)  
+   Link: <a href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow">https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cornell ChronicleAccuracy &#x27;nudges&#x27; decrease misinformation-sharing on left, right4 Apr 2024 — They found that “nudges” regarding the impo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-025-05233-9](https://www.nature.com/articles/s41599-025-05233-9)  
+   Link: <a href="https://www.nature.com/articles/s41599-025-05233-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05233-9</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can shifting attention to accuracy reduce misinformation on...by Z Liu · 2025 · Cited by 3 — Therefore, accuracy-prompt interventions ha...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2512.13643v1](https://arxiv.org/html/2512.13643v1)  
+   Link: <a href="https://arxiv.org/html/2512.13643v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.13643v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Several studies have found this intervention to reduce...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0277953624005896](https://www.sciencedirect.com/science/article/abs/pii/S0277953624005896)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0277953624005896" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0277953624005896</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the influence of message features on health...by X Xue · 2024 · Cited by 14 — Misinformation and disinformation about dietary...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: developing an accuracy prompt toolkit to reduce covid 19 misinformation online  
-   Link: [https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/](https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewDeveloping an accuracy-prompt toolkit to reduce COVID...by Z Epstein · 2021 · Cited by 135 — Here we examine the ut...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/00027162221092342](https://journals.sagepub.com/doi/abs/10.1177/00027162221092342)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/00027162221092342" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/00027162221092342</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>accuracy nudge intervention...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: mathworld.wolfram.com  
-   Link: [https://mathworld.wolfram.com/Accuracy.html](https://mathworld.wolfram.com/Accuracy.html)  
+   Link: <a href="https://mathworld.wolfram.com/Accuracy.html" target="_blank" rel="noopener noreferrer nofollow">https://mathworld.wolfram.com/Accuracy.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>from Wolfram MathWorldThe degree to which a given quantity is correct and free from error. For example, a quantity specified as 100+/-1 h...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/people/matthew-pennycook](https://www.gov.uk/government/people/matthew-pennycook)  
+   Link: <a href="https://www.gov.uk/government/people/matthew-pennycook" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/people/matthew-pennycook</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pennycook MPMatthew Pennycook was appointed Minister of State at the Ministry of Housing, Communities and Local Government on 6 July 2024...</p></details>
    Published: July 2024  
 
 16. <a id="endnote-16"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/accuracy](https://www.merriam-webster.com/dictionary/accuracy)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/accuracy</a>  
 
 17. <a id="endnote-17"></a>
    Source: x.com  
-   Link: [https://x.com/mtpennycook](https://x.com/mtpennycook)  
+   Link: <a href="https://x.com/mtpennycook" target="_blank" rel="noopener noreferrer nofollow">https://x.com/mtpennycook</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Posts - Labour MP for Greenwich and Woolwich | Minister of State for Housing and Planning | Email: matthew.p...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: osf.io  
-   Link: [https://osf.io/preprints/psyarxiv/awj97](https://osf.io/preprints/psyarxiv/awj97)  
+   Link: <a href="https://osf.io/preprints/psyarxiv/awj97" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/psyarxiv/awj97</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PsyArXiv, September 1, 2023. doi:10.31234/osf.io/awj97. Modern Language...Read more...</p></details>
    Published: September 1, 2023  
 
 19. <a id="endnote-19"></a>
    Source: osf.io  
-   Link: [https://osf.io/preprints/psyarxiv/u8anb_v1](https://osf.io/preprints/psyarxiv/u8anb_v1)  
+   Link: <a href="https://osf.io/preprints/psyarxiv/u8anb_v1" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/psyarxiv/u8anb_v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>accuracy prompts [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) interventions misinformation social media...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
    Title: 360387098 Nudging Social Media toward Accuracy  
-   Link: [https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy](https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy)  
+   Link: <a href="https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Nudging Social Media toward Accuracyby G PENNYCOOK · 2022 · Cited by 118 — Interventions that shift users attention toward the conc...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: property118.com  
-   Link: [https://www.property118.com/why-matthew-pennycook-is-wrong-about-the-renters-rights-act/](https://www.property118.com/why-matthew-pennycook-is-wrong-about-the-renters-rights-act/)  
+   Link: <a href="https://www.property118.com/why-matthew-pennycook-is-wrong-about-the-renters-rights-act/" target="_blank" rel="noopener noreferrer nofollow">https://www.property118.com/why-matthew-pennycook-is-wrong-about-the-renters-rights-act/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>have more to worry about under his Renters&#x27; Rights Act, and here is...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: members.parliament.uk  
-   Link: [https://members.parliament.uk/member/4520/contact](https://members.parliament.uk/member/4520/contact)  
+   Link: <a href="https://members.parliament.uk/member/4520/contact" target="_blank" rel="noopener noreferrer nofollow">https://members.parliament.uk/member/4520/contact</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>information for Matthew Pennycook - MPs and LordsMatthew Pennycook is the Labour MP for Greenwich and Woolwich, and has been an MP contin...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: thesaurus.com  
    Title: ACCURAC Y Synonyms & Antonyms  
-   Link: [https://www.thesaurus.com/browse/accuracy](https://www.thesaurus.com/browse/accuracy)  
+   Link: <a href="https://www.thesaurus.com/browse/accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.thesaurus.com/browse/accuracy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ACCURACY Synonyms &amp; Antonyms - 48 wordsFind 48 different ways to say ACCURACY, along with antonyms, related words, and example sentences...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Accuracy and precision  
-   Link: [https://en.wikipedia.org/wiki/Accuracy_and_precision](https://en.wikipedia.org/wiki/Accuracy_and_precision)  
+   Link: <a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Accuracy_and_precision</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy and precisionAccuracy is the proximity of measurement results to the accepted value; precision is the degree to which repeate...</p></details>

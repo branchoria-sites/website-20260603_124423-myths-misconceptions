@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75
 - Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_replacement_correcti_5f9954
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - slogans
 - health-slogans
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - slogans
 - health-slogans
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Simple health rules can mislead when they erase dose, context, trade-offs, and the difference between mild and serious risks.
 hero_summary: Simple health rules can mislead when they erase dose, context, trade-offs, and the difference between mild and serious risks.
 layout: default
 permalink: /health-slogans/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /slogans/
 nav_short_title: Health Slogans
 title: When health slogans leave out risk
-title_full: When health slogans leave out risk | Slogans
+title_full: When health slogans leave out risk
 display_title_short: Health Slogans
 display_title: Health Slogans
 heading_title: When health slogans leave out risk
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Myths Beat Nuance in a Sentence | Mythcraft
+parent_title: Why Myths Beat Nuance in a Sentence
 parent_permalink: /slogans/
 parent_nav_short_title: Slogans
 parent_heading_title: Why Myths Beat Nuance in a Sentence
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why repetition makes myths feel true
 up_link:
   basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
@@ -265,7 +265,7 @@ next_link:
   permalink: /repetition/
   short_title: Repetition
   heading_title: Why repetition makes myths feel true
-date: '2026-06-09 04:57:39 '
+date: '2026-06-11 22:18:05 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_health_slogans_risk_408d4c-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_health_slogans_risk_408d4c-Illustration-1.webp
@@ -276,10 +276,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_he
 
 [Health myths]({{ 'health-myths/' | relative_url }}) often survive because they sound like useful rules. “Natural is safe.” “Chemicals are dangerous.” “A little is good, so more is better.” These [slogans]({{ 'slogans/' | relative_url }}) are memorable precisely because they remove the details that make health decisions difficult. The problem is that health risks rarely depend on a substance alone. They depend on dose, duration, route of exposure, individual susceptibility, and the difference between a mild effect and a serious one. When a slogan strips away those conditions, it can turn a partly true observation into a misleading rule.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_health_slogans_risk_408d4c-Illustration-1-dark.svg" | relative_url }}" alt="Health Slogans illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_health_slogans_risk_408d4c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_health_slogans_risk_408d4c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In toxicology and risk assessment, one of the oldest principles is that the amount of exposure matters. A substance may be harmless, beneficial, or dangerous depending on how much reaches the body and under what circumstances. Public-health communication therefore focuses not only on hazards but also on exposure and likelihood of harm. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vdh.virginia.gov/environmental-health/public-health-toxicology/toxicology-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vdh.virginia.gov">[Virginia Department of Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vdh.virginia.gov</span><span class="citation-popover-title">Department of Health Toxicology Explained</span><span class="citation-popover-snippet">Almost any chemical can be harmful depending on the dose.Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/86yCnT1JdZA" title="“The dose makes the poison” is outdated" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=86yCnT1JdZA" target="_blank" rel="noopener noreferrer">“The dose makes the poison” is outdated</a></p><p class="youtube-embed-meta">Channel: Environmental Working Group (EWG) &middot; Views: 343 &middot; Uploaded: August 2025 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=86yCnT1JdZA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=86yCnT1JdZA">Open on YouTube</a></p></div></div></div>
 
@@ -292,7 +290,6 @@ This distinction explains why short slogans often mislead. A statement such as �
 Water provides a simple example. Drinking water is necessary for survival, yet consuming excessive amounts in a short period can cause water intoxication, a potentially dangerous condition. Oxygen is equally essential, but prolonged exposure to unusually high concentrations can damage tissues. These examples are not arguments that water or oxygen are generally dangerous; they illustrate that health effects depend on dose and context rather than category labels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chemicalsafetyfacts.org/health-and-safety/the-dose-makes-the-poison/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemicalsafetyfacts.org">[Chemical Safety Facts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemicalsafetyfacts.org</span><span class="citation-popover-title">Chemical Safety Facts“The Dose Makes the Poison”</span><span class="citation-popover-snippet">In other words, any chemical—even water and oxygen—can be toxic if too much is ingested or absorbed into the body.Read more...</span></span></span> Wikipedia Context includes more than quantity. Exposure route matters as well. A substance swallowed <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_dose_makes_the_poison" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The dose makes the poison</span><span class="citation-popover-snippet">The dose makes the poisonThe dose makes the poison is a proverb intended to indicate a basic principle of toxicology. It is credited t...</span></span></span>, inhaled, injected, or absorbed through the skin may produce very different effects. Duration also matters: a brief exposure can differ greatly from repeated exposure over months or years. Toxicologists evaluate dose, frequency, [timing]({{ 'timing/' | relative_url }}), and route together because no single factor gives the whole picture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vdh.virginia.gov/environmental-health/public-health-toxicology/toxicology-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vdh.virginia.gov">[virginia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vdh.virginia.gov</span><span class="citation-popover-title">Department of Health Toxicology Explained</span><span class="citation-popover-snippet">Almost any chemical can be harmful depending on the dose.Read more...</span></span></span> Department of Health <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.poison.org/what-is-a-poison-and-what-is-an-overdose" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poison.org">[Poison Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poison.org</span><span class="citation-popover-snippet">Poison ControlWhat is a poison? Clarifying poison-related termsConfused about the difference between poison, overdose, toxin and venom? W...</span></span></span>
 
 Another simplification hidden by slogans is the assumption that all harms are equal. Health messages often blur the distinction between a temporary symptom, a moderate health effect, and a life-threatening outcome. Yet risk communication depends heavily on both probability and severity. A common side effect and a rare severe complication are not interchangeable, even if both are technically “risks”. Effective communication must explain which outcome is being discussed and how likely it is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov.au/system/files/2025-10/enhealth-guidance-for-environmental-public-health-professionals-communicating-risks-to-health-from-environmental-hazards_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov.au">[Australian Centre for Disease Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov.au</span><span class="citation-popover-snippet">Australian Centre for Disease ControlCommunicating risks to health from environmental hazardsTypically, communication about risks to huma...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.regulation.org.uk/library/dh_risk_comms_advice.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulation.org.uk">[2regulation.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulation.org.uk</span><span class="citation-popover-snippet">COMMUNICATING ABOUT RISKS TO PUBLIC HEALTHCommunicating about risks to public health can be of vital importance in many different context...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4D9V2SnEOto" title="Radiation Risk Communication for Public Health" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4D9V2SnEOto" target="_blank" rel="noopener noreferrer">Radiation Risk Communication for Public Health</a></p><p class="youtube-embed-meta">Channel: Centers for Disease Control and Prevention (CDC) &middot; Views: 3.9K &middot; Uploaded: March 2021 &middot; Length: 1 hour 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4D9V2SnEOto" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4D9V2SnEOto">Open on YouTube</a></p></div></div></div>
 
@@ -308,7 +305,6 @@ These slogans persist because they offer emotional certainty. “Natural” beco
 
 There is also a reverse misconception hidden in some health marketing: “If a little helps, more must help more.” Many biological systems do not work this way. Medicines, supplements, and nutrients often have beneficial ranges beyond which benefits level off or risks increase. The relationship between dose and outcome is frequently more complicated than a straight line. Public-health guidance therefore focuses on recommended amounts rather than assuming that increasing intake always improves health. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/news-room/fact-sheets/detail/natural-toxins-in-food" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[WHO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">natural toxins in food</span><span class="citation-popover-snippet">These toxins are not harmful to the organisms themselves but they may be...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_health_slogans_risk_408d4c-Illustration-2-dark.svg" | relative_url }}" alt="Health Slogans illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_health_slogans_risk_408d4c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_health_slogans_risk_408d4c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why simple slogans spread despite being incomplete
 
@@ -320,7 +316,6 @@ The challenge is that adding context can make a message longer. A slogan can say
 
 This tension helps explain why myths often survive [corrections]({{ 'corrections/' | relative_url }}). The myth offers a portable rule. The [correction]({{ 'correction/' | relative_url }}) offers a conditional explanation. Unless communicators preserve the essential context while keeping messages understandable, the simpler version frequently wins.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P0-whz9NaMk" title="Module 3: Communicating Environmental and Health Risks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P0-whz9NaMk" target="_blank" rel="noopener noreferrer">Module 3: Communicating Environmental and Health Risks</a></p><p class="youtube-embed-meta">Channel: Centers for Disease Control and Prevention (CDC) &middot; Views: 1.1K &middot; Uploaded: March 2026 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P0-whz9NaMk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P0-whz9NaMk">Open on YouTube</a></p></div></div></div>
 
 ## How to write compact health claims without distorting them
@@ -328,7 +323,6 @@ This tension helps explain why myths often survive [corrections]({{ 'corrections
 Health messages do not have to become lengthy technical documents. They can remain concise while preserving the information people need.
 
 A more reliable health claim usually includes at least one of the following elements:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -349,7 +343,6 @@ Consider the difference between two statements:
 The second statement is only slightly longer, yet it preserves the key facts needed for informed judgement.
 
 The same principle applies across public health. Good communication does not merely identify a hazard. It explains the exposure, the likely outcome, and the circumstances that change the level of risk. By keeping those elements visible, health messages can remain memorable without becoming misleading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov.au/system/files/2025-10/enhealth-guidance-for-environmental-public-health-professionals-communicating-risks-to-health-from-environmental-hazards_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov.au">[Australian Centre for Disease Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov.au</span><span class="citation-popover-snippet">Australian Centre for Disease ControlCommunicating risks to health from environmental hazardsTypically, communication about risks to huma...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.regulation.org.uk/library/dh_risk_comms_advice.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulation.org.uk">[2regulation.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulation.org.uk</span><span class="citation-popover-snippet">COMMUNICATING ABOUT RISKS TO PUBLIC HEALTHCommunicating about risks to public health can be of vital importance in many different context...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_health_slogans_risk_408d4c-Illustration-3-dark.svg" | relative_url }}" alt="Health Slogans illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_health_slogans_risk_408d4c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_health_slogans_risk_408d4c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -750,118 +743,118 @@ The same principle applies across public health. Good communication does not mer
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: All things are poison and nothing is without poison  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4942381/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4942381/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCParacelsus Revisited: The Dose Concept in a Complex Worldby P Grandjean · 2016 · Cited by 211 — At the time that Paracelsus coined his...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4942381/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4942381/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paracelsus Revisited: The Dose Concept in a Complex Worldby P Grandjean · 2016 · Cited by 211 — At the time that Paracelsus coined his...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: vdh.virginia.gov  
    Title: Department of Health Toxicology Explained  
-   Link: [https://www.vdh.virginia.gov/environmental-health/public-health-toxicology/toxicology-explained/](https://www.vdh.virginia.gov/environmental-health/public-health-toxicology/toxicology-explained/)  
+   Link: <a href="https://www.vdh.virginia.gov/environmental-health/public-health-toxicology/toxicology-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.vdh.virginia.gov/environmental-health/public-health-toxicology/toxicology-explained/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Almost any chemical can be harmful depending on the dose.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: The dose makes the poison  
-   Link: [https://en.wikipedia.org/wiki/The_dose_makes_the_poison](https://en.wikipedia.org/wiki/The_dose_makes_the_poison)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_dose_makes_the_poison" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_dose_makes_the_poison</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The dose makes the poisonThe dose makes the poison is a proverb intended to indicate a basic principle of toxicology. It is credited t...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Toxicity](https://en.wikipedia.org/wiki/Toxicity)  
+   Link: <a href="https://en.wikipedia.org/wiki/Toxicity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Toxicity</a>  
 
 5. <a id="endnote-5"></a>
    Source: poison.org  
-   Link: [https://www.poison.org/what-is-a-poison-and-what-is-an-overdose](https://www.poison.org/what-is-a-poison-and-what-is-an-overdose)  
+   Link: <a href="https://www.poison.org/what-is-a-poison-and-what-is-an-overdose" target="_blank" rel="noopener noreferrer nofollow">https://www.poison.org/what-is-a-poison-and-what-is-an-overdose</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Poison ControlWhat is a poison? Clarifying poison-related termsConfused about the difference between poison, overdose, toxin and venom? W...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: regulation.org.uk  
-   Link: [https://www.regulation.org.uk/library/dh_risk_comms_advice.pdf](https://www.regulation.org.uk/library/dh_risk_comms_advice.pdf)  
+   Link: <a href="https://www.regulation.org.uk/library/dh_risk_comms_advice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.regulation.org.uk/library/dh_risk_comms_advice.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[COMMUNICATING](&amp;#123;&amp;#123; &#x27;communicating/&#x27; | relative_url &amp;#125;&amp;#125;) ABOUT RISKS TO PUBLIC HEALTHCommunicating about risks to public health can be of vital importance in many different context...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: who.int  
    Title: natural toxins in food  
-   Link: [https://www.who.int/news-room/fact-sheets/detail/natural-toxins-in-food](https://www.who.int/news-room/fact-sheets/detail/natural-toxins-in-food)  
+   Link: <a href="https://www.who.int/news-room/fact-sheets/detail/natural-toxins-in-food" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/fact-sheets/detail/natural-toxins-in-food</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These toxins are not harmful to the organisms themselves but they may be...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: toxicology.org  
-   Link: [https://www.toxicology.org/groups/ss/rass/docs/RASS-ISES-Kaden-Webinar.pdf](https://www.toxicology.org/groups/ss/rass/docs/RASS-ISES-Kaden-Webinar.pdf)  
+   Link: <a href="https://www.toxicology.org/groups/ss/rass/docs/RASS-ISES-Kaden-Webinar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.toxicology.org/groups/ss/rass/docs/RASS-ISES-Kaden-Webinar.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ntly high doses. • Evidence can come from observational.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cdn.who.int  
-   Link: [https://cdn.who.int/media/docs/default-source/food-safety/publications/chapter5-dose-response.pdf](https://cdn.who.int/media/docs/default-source/food-safety/publications/chapter5-dose-response.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHOChapter 5 Dose–response assessment and derivation of...December 7, 2020 — This approach considers all available dose–response data to...</p></details>
+   Link: <a href="https://cdn.who.int/media/docs/default-source/food-safety/publications/chapter5-dose-response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/food-safety/publications/chapter5-dose-response.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 5 Dose–response assessment and derivation of...December 7, 2020 — This approach considers all available dose–response data to...</p></details>
    Published: December 7, 2020  
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7437971/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7437971/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCRisk Communication for Environmental Health Practitionersby V Siegel · 2020 · Cited by 3 — CDC&#x27;s Crisis and Emergency Risk Communicati...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7437971/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7437971/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk Communication for Environmental Health Practitionersby V Siegel · 2020 · Cited by 3 — CDC&#x27;s Crisis and Emergency Risk Communicati...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cdc.gov.au  
-   Link: [https://www.cdc.gov.au/system/files/2025-10/enhealth-guidance-for-environmental-public-health-professionals-communicating-risks-to-health-from-environmental-hazards_0.pdf](https://www.cdc.gov.au/system/files/2025-10/enhealth-guidance-for-environmental-public-health-professionals-communicating-risks-to-health-from-environmental-hazards_0.pdf)  
+   Link: <a href="https://www.cdc.gov.au/system/files/2025-10/enhealth-guidance-for-environmental-public-health-professionals-communicating-risks-to-health-from-environmental-hazards_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov.au/system/files/2025-10/enhealth-guidance-for-environmental-public-health-professionals-communicating-risks-to-health-from-environmental-hazards_0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Centre for Disease ControlCommunicating risks to health from environmental hazardsTypically, communication about risks to huma...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: chemicalsafetyfacts.org  
    Title: Chemical Safety Facts“The Dose Makes the Poison”  
-   Link: [https://www.chemicalsafetyfacts.org/health-and-safety/the-dose-makes-the-poison/](https://www.chemicalsafetyfacts.org/health-and-safety/the-dose-makes-the-poison/)  
+   Link: <a href="https://www.chemicalsafetyfacts.org/health-and-safety/the-dose-makes-the-poison/" target="_blank" rel="noopener noreferrer nofollow">https://www.chemicalsafetyfacts.org/health-and-safety/the-dose-makes-the-poison/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In other words, any chemical—even water and oxygen—can be toxic if too much is ingested or absorbed into the body.Read more...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/media/130216/download](https://www.fda.gov/media/130216/download)  
+   Link: <a href="https://www.fda.gov/media/130216/download" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/media/130216/download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA to communicate important new and emerging safety information about marketed products to...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=P0-whz9NaMk](https://www.youtube.com/watch?v=P0-whz9NaMk)  
+   Link: <a href="https://www.youtube.com/watch?v=P0-whz9NaMk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P0-whz9NaMk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Module 3: Communicating Environmental and Health RisksModule 3 is based on Step 3 in the 5-step Land Reuse Model. It incorporates knowled...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=86yCnT1JdZA](https://www.youtube.com/watch?v=86yCnT1JdZA)  
+   Link: <a href="https://www.youtube.com/watch?v=86yCnT1JdZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=86yCnT1JdZA</a>  
 
 16. <a id="endnote-16"></a>
    Source: infectedbloodinquiry.org.uk  
-   Link: [https://www.infectedbloodinquiry.org.uk/sites/default/files/550-575/550-575/WITN3430087%20-%20Communicating%20about%20risks%20to%20public%20health%20-%20Pointers%20to%20Good%20Practice%20-%2001%20Nov%201997.pdf](https://www.infectedbloodinquiry.org.uk/sites/default/files/550-575/550-575/WITN3430087%20-%20Communicating%20about%20risks%20to%20public%20health%20-%20Pointers%20to%20Good%20Practice%20-%2001%20Nov%201997.pdf)  
+   Link: <a href="https://www.infectedbloodinquiry.org.uk/sites/default/files/550-575/550-575/WITN3430087%20-%20Communicating%20about%20risks%20to%20public%20health%20-%20Pointers%20to%20Good%20Practice%20-%2001%20Nov%201997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.infectedbloodinquiry.org.uk/sites/default/files/550-575/550-575/WITN3430087%20-%20Communicating%20about%20risks%20to%20public%20health%20-%20Pointers%20to%20Good%20Practice%20-%2001%20Nov%201997.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>• Responses to communication will be highly dependent both on recipients&#x27;.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/286690361_From_%27the_dose_makes_the_poison%27_to_%27the_timing_makes_the_poison%27_Conceptualizing_risk_in_the_synthetic_age](https://www.researchgate.net/publication/286690361_From_%27the_dose_makes_the_poison%27_to_%27the_timing_makes_the_poison%27_Conceptualizing_risk_in_the_synthetic_age)  
+   Link: <a href="https://www.researchgate.net/publication/286690361_From_%27the_dose_makes_the_poison%27_to_%27the_timing_makes_the_poison%27_Conceptualizing_risk_in_the_synthetic_age" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286690361_From_%27the_dose_makes_the_poison%27_to_%27the_timing_makes_the_poison%27_Conceptualizing_risk_in_the_synthetic_age</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y law and articulated within the discipline of toxicology over the...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=4D9V2SnEOto](https://www.youtube.com/watch?v=4D9V2SnEOto)  
+   Link: <a href="https://www.youtube.com/watch?v=4D9V2SnEOto" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4D9V2SnEOto</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation Risk Communication for Public HealthThis training provides an overview of important communication principles within the context...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wellcomecollection/posts/everything-is-poisonous-nothing-is-poisonous-it-is-all-a-matter-of-dose-claude-b/10157657503353538/?locale=el_GR](https://www.facebook.com/wellcomecollection/posts/everything-is-poisonous-nothing-is-poisonous-it-is-all-a-matter-of-dose-claude-b/10157657503353538/?locale=el_GR)  
+   Link: <a href="https://www.facebook.com/wellcomecollection/posts/everything-is-poisonous-nothing-is-poisonous-it-is-all-a-matter-of-dose-claude-b/10157657503353538/?locale=el_GR" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wellcomecollection/posts/everything-is-poisonous-nothing-is-poisonous-it-is-all-a-matter-of-dose-claude-b/10157657503353538/?locale=el_GR</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is attributed to the Swiss physician and alchemist...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: oecd.org  
    Title: 6954d334 en  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2002/07/oecd-guidance-document-on-risk-communication-for-chemical-risk-management_53270b93/6954d334-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2002/07/oecd-guidance-document-on-risk-communication-for-chemical-risk-management_53270b93/6954d334-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2002/07/oecd-guidance-document-on-risk-communication-for-chemical-risk-management_53270b93/6954d334-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2002/07/oecd-guidance-document-on-risk-communication-for-chemical-risk-management_53270b93/6954d334-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>dose-response functions, but to the question of what all this means for human health and environmental protection. Hazard data is hardly...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: stacks.cdc.gov  
    Title: cdc 188408 DS1  
-   Link: [https://stacks.cdc.gov/view/cdc/188408/cdc_188408_DS1.pdf](https://stacks.cdc.gov/view/cdc/188408/cdc_188408_DS1.pdf)  
+   Link: <a href="https://stacks.cdc.gov/view/cdc/188408/cdc_188408_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/188408/cdc_188408_DS1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CDC Stacks13 Talking With Patients and the Public About Endocrine-...by S Janssen · 2007 · Cited by 2 — Communication about environmenta...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: directorsblog.health.azdhs.gov  
    Title: AZ Dept  
-   Link: [https://directorsblog.health.azdhs.gov/the-dose-makes-the-poison/](https://directorsblog.health.azdhs.gov/the-dose-makes-the-poison/)  
+   Link: <a href="https://directorsblog.health.azdhs.gov/the-dose-makes-the-poison/" target="_blank" rel="noopener noreferrer nofollow">https://directorsblog.health.azdhs.gov/the-dose-makes-the-poison/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Health Services NewsThe Dose Makes the Poison – AZ Dept. of Health Services News19 Jun 2012 — “All things are poison, and nothing is w...</p></details>

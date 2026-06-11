@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_repeated_climate_cla_d86c1d
 - Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_writing_better_myth_849c9b
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - familiarity
 - headlines
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - familiarity
 - headlines
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Even a single prior encounter with a headline can make it feel more accurate later, especially when people read in passing.
 hero_summary: Even a single prior encounter with a headline can make it feel more accurate later, especially when people read in passing.
 layout: default
 permalink: /headlines/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /familiarity/
 nav_short_title: Headlines
 title: Why one headline can feel familiar enough
-title_full: Why one headline can feel familiar enough | Familiarity
+title_full: Why one headline can feel familiar enough
 display_title_short: Headlines
 display_title: Headlines
 heading_title: Why one headline can feel familiar enough
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Repetition Makes Claims Feel True | Mythcraft
+parent_title: Why Repetition Makes Claims Feel True
 parent_permalink: /familiarity/
 parent_nav_short_title: Familiarity
 parent_heading_title: Why Repetition Makes Claims Feel True
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When easy thinking feels like evidence
 up_link:
   basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
@@ -259,7 +259,7 @@ prev_link:
   permalink: /fluency/
   short_title: Fluency
   heading_title: When easy thinking feels like evidence
-date: '2026-06-09 05:18:07 '
+date: '2026-06-11 22:28:07 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_fake_news_headline_e_d64174-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_fake_news_headline_e_d64174-Illustration-1.webp
@@ -268,31 +268,26 @@ image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_fa
 
 ## Introduction
 
-A fake-news headline does not need to persuade someone immediately to become more influential later. Research suggests that even a single prior encounter can make a false headline feel more accurate when people see it again. The effect is usually small, but it is remarkably consistent. In online environments where people scroll rapidly past hundreds of headlines, memes and posts, that matters because many encounters are brief and forgettable. The headline may not be believed at first, yet the next time it appears it arrives with a feeling of familiarity that can be mistaken for evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPrior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1884 — This may have consequences for whether...</span></span></span>
-
+A fake-news headline does not need to persuade someone immediately to become more influential later. Research suggests that even a single prior encounter can make a false headline feel more accurate when people see it again. The effect is usually small, but it is remarkably consistent. In online environments where people scroll rapidly past hundreds of headlines, memes and posts, that matters because many encounters are brief and forgettable. The headline may not be believed at first, yet the next time it appears it arrives with a feeling of familiarity that can be mistaken for evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1884 — This may have consequences for whether...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_fake_news_headline_e_d64174-Illustration-1-dark.svg" | relative_url }}" alt="Headlines illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_fake_news_headline_e_d64174-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_fake_news_headline_e_d64174-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This finding sits within the broader pattern of [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) becoming more believable through familiarity. What makes fake-news headline studies distinctive is that they show how little exposure is needed. A person does not have to read the article, endorse it publicly or remember seeing it before. In many experiments, a single earlier glimpse was enough to raise later accuracy ratings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 116 — That is, repeated information seem...</span></span></span>
+This finding sits within the broader pattern of myths and misconceptions becoming more believable through familiarity. What makes fake-news headline studies distinctive is that they show how little exposure is needed. A person does not have to read the article, endorse it publicly or remember seeing it before. In many experiments, a single earlier glimpse was enough to raise later accuracy ratings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 116 — That is, repeated information seem...</span></span></span>
 
 ## What repeated-headline studies found
 
-One of the most influential studies on this question was conducted by psychologists Gordon Pennycook, Tyrone Cannon and David Rand. Participants were shown a mixture of real and [fake news]({{ 'fake-news/' | relative_url }}) headlines similar to those found on social media. Later, they rated the accuracy of headlines, some of which they had already encountered. The key result was straightforward: previously seen fake headlines were judged as more accurate than new fake headlines. This increase appeared after only one prior exposure and remained detectable after a delay of about a week. PMC PubMed The finding was important because the fake headlines used in the study were often implausible or politically charged. Familiarity still incre <span class="citation-chip-wrap"><a class="citation-chip" href="https://online.ucpress.edu/collabra/article/6/1/38/114468/Repetition-Increases-Perceived-Truth-Even-for" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[online.ucpress.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-snippet">This illusory truth... D. G.. (. 2018.). Prior exposure increases perceived accuracy of fake...Read more...</span></span></span> ased perceived accuracy even when the stories were broadly unbelievable overall. The researchers argued that social-media environments may unintentionally incubate belief simply by repeatedly placing headlines in front of users. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30247057/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedPrior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1884 — Moreover, this &quot;illusory truth effe...</span></span></span>
+One of the most influential studies on this question was conducted by psychologists Gordon Pennycook, Tyrone Cannon and David Rand. Participants were shown a mixture of real and [fake news]({{ 'fake-news/' | relative_url }}) headlines similar to those found on social media. Later, they rated the accuracy of headlines, some of which they had already encountered. The key result was straightforward: previously seen fake headlines were judged as more accurate than new fake headlines. This increase appeared after only one prior exposure and remained detectable after a delay of about a week. PMC PubMed The finding was important because the fake headlines used in the study were often implausible or politically charged. Familiarity still incre <span class="citation-chip-wrap"><a class="citation-chip" href="https://online.ucpress.edu/collabra/article/6/1/38/114468/Repetition-Increases-Perceived-Truth-Even-for" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[online.ucpress.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-snippet">This illusory truth... D. G.. (. 2018.). Prior exposure increases perceived accuracy of fake...Read more...</span></span></span> ased perceived accuracy even when the stories were broadly unbelievable overall. The researchers argued that social-media environments may unintentionally incubate belief simply by repeatedly placing headlines in front of users. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30247057/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1884 — Moreover, this &quot;illusory truth effe...</span></span></span>
 
-Another striking detail was that political disagreement did not eliminate the effect. Familiarity influenced judgments even when headlines conflicted with participants' political preferences. Prior knowledge and ideology still mattered, but [repetition]({{ 'repetition/' | relative_url }}) exerted an additional influence. The familiar headline gained a subtle advantage over the unfamiliar one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPrior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1884 — This may have consequences for whether...</span></span></span>
+Another striking detail was that political disagreement did not eliminate the effect. Familiarity influenced judgments even when headlines conflicted with participants' political preferences. Prior knowledge and ideology still mattered, but [repetition]({{ 'repetition/' | relative_url }}) exerted an additional influence. The familiar headline gained a subtle advantage over the unfamiliar one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1884 — This may have consequences for whether...</span></span></span>
 
 Subsequent reviews of the illusory truth effect have repeatedly cited these fake-news experiments as evidence that familiarity can alter perceived credibility in modern information environments, not just in laboratory trivia tasks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake news. J Exp Psychol Gen. (2018). J. Béna et al. Repetition could increase the perceiv...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake news. J Exp Psychol Gen. (2018). J. Béna et al. Repetition could increase the perceiv...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/siBTcYZpKpI" title="Should You Debate A Conspiracy Theorist? | Truth Talks | Big [If True]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=siBTcYZpKpI" target="_blank" rel="noopener noreferrer">Should You Debate A Conspiracy Theorist? | Truth Talks | Big [If True]</a></p><p class="youtube-embed-meta">Channel: Big [If True]</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=siBTcYZpKpI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=siBTcYZpKpI">Open on YouTube</a></p></div></div></div>
 
 ## Why passing exposure matters online
 
 The most unsettling aspect of these findings is that exposure can be extremely shallow.
 
-In many online settings, people encounter headlines while scrolling, browsing search results or glancing at social feeds. They may never open the article. They may not consciously evaluate whether the claim is true. Yet the headline still enters [memory]({{ 'memory/' | relative_url }}). When it appears again, processing it requires less effort. That ease creates a weak signal of familiarity, and the brain can misinterpret familiarity as credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 116 — That is, repeated information seem...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">true and false content (&#x27;falling for fake news&#x27;). Another approach is to focus on overall belief, or the extent to which news – regardles...</span></span></span>
+In many online settings, people encounter headlines while scrolling, browsing search results or glancing at social feeds. They may never open the article. They may not consciously evaluate whether the claim is true. Yet the headline still enters [memory]({{ 'memory/' | relative_url }}). When it appears again, processing it requires less effort. That ease creates a weak signal of familiarity, and the brain can misinterpret familiarity as credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 116 — That is, repeated information seem...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">true and false content (&#x27;falling for fake news&#x27;). Another approach is to focus on overall belief, or the extent to which news – regardles...</span></span></span>
 
 This helps explain why misinformation often spreads through exposure rather than persuasion. The mechanism does not require a dramatic conversion experience. Instead, it operates through accumulation:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -308,33 +303,28 @@ Each step is modest, but social-media [platforms]({{ 'platforms/' | relative_url
 
 Researchers have therefore emphasised that misinformation can benefit from visibility alone. A person may reject a headline when first seeing it yet still experience a familiarity boost later. The danger is not that every exposure creates belief. The danger is that repeated exposure gradually weakens the distinction between "I have heard this before" and "this has been verified". <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC10637098</span><span class="citation-popover-snippet">PMCby V Capraro · 2022 · Cited by 53 — In sum, Study 1 reveals that endorsing accuracy decreases intentions to share fake news, increases...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0010027723000550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Journal of Experimental Psychology: General, 147 (12) (2018), p. 1865. Crossref View in Scopus...Read mo...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_fake_news_headline_e_d64174-Illustration-2-dark.svg" | relative_url }}" alt="Headlines illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_fake_news_headline_e_d64174-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_fake_news_headline_e_d64174-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why people often do not notice the shift
 
 The familiarity effect is largely unconscious. People generally do not think, "I saw this headline last week, therefore it must be true."
 
-Instead, the headline simply feels easier to process. Psychologists describe this as [processing fluency]({{ 'fluency/' | relative_url }}): information that is easier to recognise or understand can feel more trustworthy even when no evidence has changed. The judgement emerges from a feeling rather than a deliberate argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake news. J Exp Psychol Gen. (2018). J. Béna et al. Repetition could increase the perceiv...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 402 — This is known as the illusory truth effec...</span></span></span>
+Instead, the headline simply feels easier to process. Psychologists describe this as processing [fluency]({{ 'fluency/' | relative_url }}): information that is easier to recognise or understand can feel more trustworthy even when no evidence has changed. The judgement emerges from a feeling rather than a deliberate argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake news. J Exp Psychol Gen. (2018). J. Béna et al. Repetition could increase the perceiv...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 402 — This is known as the illusory truth effec...</span></span></span>
 
-This is one reason the effect can survive fact-check labels or scepticism. In the original fake-news experiments, repeated headlines gained perceived accuracy even when they carried disputed-story warnings. The warning helped somewhat, but familiarity still exerted influence. The repeated headline retained its advantage over a completely new one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30247057/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedPrior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1884 — Moreover, this &quot;illusory truth effe...</span></span></span>
+This is one reason the effect can survive fact-check labels or scepticism. In the original fake-news experiments, repeated headlines gained perceived accuracy even when they carried disputed-story warnings. The warning helped somewhat, but familiarity still exerted influence. The repeated headline retained its advantage over a completely new one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30247057/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1884 — Moreover, this &quot;illusory truth effe...</span></span></span>
 
 The effect is also not limited to people who strongly identify with a false claim. Someone can remain uncertain about a headline and still experience an increase in perceived plausibility after seeing it before. The mechanism concerns familiarity more than commitment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC10637098</span><span class="citation-popover-snippet">PMCby V Capraro · 2022 · Cited by 53 — In sum, Study 1 reveals that endorsing accuracy decreases intentions to share fake news, increases...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eXdVDhOGqoE" title="AI Is Dangerous, but Not for the Reasons You Think | Sasha Luccioni | TED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eXdVDhOGqoE" target="_blank" rel="noopener noreferrer">AI Is Dangerous, but Not for the Reasons You Think | Sasha Luccioni | TED</a></p><p class="youtube-embed-meta">Channel: TED</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eXdVDhOGqoE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eXdVDhOGqoE">Open on YouTube</a></p></div></div></div>
 
 ## How accuracy prompts interrupt sharing
 
 Researchers have tested whether small interventions can interrupt this familiarity-driven process. One of the most promising approaches is surprisingly simple: ask people to think about accuracy before they decide whether to share information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/pausing-reduce-false-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">pausing reduce false news</span><span class="citation-popover-snippet">Journal of Experimental Psychology: General, 147(12), 1865-1880. doi:10.1037...Read more...</span></span></span>
 
-Studies from the misinformation literature have found that brief accuracy prompts improve people's ability to distinguish between true and false headlines. Instead of focusing attention on social reactions, outrage or entertainment value, the prompt redirects attention to the question of whether a claim is actually correct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake news. J Exp Psychol Gen. (2018). J. Béna et al. Repetition could increase the perceiv...</span></span></span>
+Studies from the misinformation literature have found that brief [accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) improve people's ability to distinguish between true and false headlines. Instead of focusing attention on social reactions, outrage or entertainment value, the prompt redirects attention to the question of whether a claim is actually correct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Prior exposure increases perceived accuracy of fake news. J Exp Psychol Gen. (2018). J. Béna et al. Repetition could increase the perceiv...</span></span></span>
 
 Related research suggests that repetition increases sharing partly because repeated statements feel more accurate. When familiarity boosts perceived truth, willingness to share tends to rise as well. Accuracy-focused interventions appear to weaken this chain by encouraging a more deliberate evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC10637098</span><span class="citation-popover-snippet">PMCby V Capraro · 2022 · Cited by 53 — In sum, Study 1 reveals that endorsing accuracy decreases intentions to share fake news, increases...</span></span></span>
 
 Other experiments have found benefits when participants explain why a headline is true or false rather than making a quick judgement. Requiring even a brief explanation can reduce the influence of misleading headlines because it forces attention away from familiarity and towards evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://online.ucpress.edu/collabra/article/9/1/87617/197211/Explaining-Why-Headlines-Are-True-or-False-Reduces" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[online.ucpress.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-title">Explaining Why Headlines Are True or False Reduces</span><span class="citation-popover-snippet">11 Sept 2023 — Thus, explanation prompts may help people realize that false information is actually unsubstantiated, reducing their incli...</span></span></span>
 
 The broader lesson is that familiarity works best when attention is elsewhere. A headline glimpsed in passing can gain credibility through recognition alone. Asking people to pause and assess accuracy creates a competing process: instead of relying on the feeling that a claim is known, they are encouraged to ask whether it is actually supported.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_fake_news_headline_e_d64174-Illustration-3-dark.svg" | relative_url }}" alt="Headlines illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_fake_news_headline_e_d64174-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_fake_news_headline_e_d64174-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this finding matters beyond fake news
@@ -344,10 +334,6 @@ The single-exposure effect changes how misinformation should be understood. It s
 That insight helps explain why [corrections]({{ 'corrections/' | relative_url }}) often struggle to keep pace with viral content. False headlines can benefit from countless brief encounters across feeds, screenshots, reposts and recommendations. Each exposure may seem trivial, yet together they create a familiarity advantage that later judgments must overcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC10637098</span><span class="citation-popover-snippet">PMCby V Capraro · 2022 · Cited by 53 — In sum, Study 1 reveals that endorsing accuracy decreases intentions to share fake news, increases...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC10637098</span><span class="citation-popover-snippet">PMCby V Capraro · 2022 · Cited by 53 — In sum, Study 1 reveals that endorsing accuracy decreases intentions to share fake news, increases...</span></span></span>
 
 For myths and misconceptions, the lesson is not that people are helpless against repetition. Rather, it is that recognition and truth are not the same thing. A headline can feel known long before it has earned credibility, and sometimes one passing encounter is enough to start that process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10637098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC10637098</span><span class="citation-popover-snippet">PMCby V Capraro · 2022 · Cited by 53 — In sum, Study 1 reveals that endorsing accuracy decreases intentions to share fake news, increases...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302894" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Repetition increases both the perceived truth and fakeness...by O Corneille · 2020 · Cited by 87 — Experiment 3 then tests the possibili...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9MJFRr7mY-Y" title="Fact vs. Fake: A Quick Lesson in Media Literacy | CBC Kids" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9MJFRr7mY-Y" target="_blank" rel="noopener noreferrer">Fact vs. Fake: A Quick Lesson in Media Literacy | CBC Kids</a></p><p class="youtube-embed-meta">Channel: CBC Kids</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9MJFRr7mY-Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9MJFRr7mY-Y">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -745,135 +731,135 @@ For myths and misconceptions, the lesson is not that people are helpless against
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPrior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1884 — This may have consequences for whether...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1884 — This may have consequences for whether...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811](https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prior exposure increases perceived accuracy of fake news. J Exp Psychol Gen. (2018). J. Béna et al. Repetition could increase the perceiv...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661321000516](https://www.sciencedirect.com/science/article/pii/S1364661321000516)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>true and false content (&#x27;falling for fake news&#x27;). Another approach is to focus on overall belief, or the extent to which news – regardles...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-021-00301-5](https://link.springer.com/article/10.1186/s41235-021-00301-5)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00301-5</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 402 — This is known as the illusory truth effec...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 116 — That is, repeated information seem...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 116 — That is, repeated information seem...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: online.ucpress.edu  
    Title: Explaining Why Headlines Are True or False Reduces  
-   Link: [https://online.ucpress.edu/collabra/article/9/1/87617/197211/Explaining-Why-Headlines-Are-True-or-False-Reduces](https://online.ucpress.edu/collabra/article/9/1/87617/197211/Explaining-Why-Headlines-Are-True-or-False-Reduces)  
+   Link: <a href="https://online.ucpress.edu/collabra/article/9/1/87617/197211/Explaining-Why-Headlines-Are-True-or-False-Reduces" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/9/1/87617/197211/Explaining-Why-Headlines-Are-True-or-False-Reduces</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Sept 2023 — Thus, explanation prompts may help people realize that false information is actually unsubstantiated, reducing their incli...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027723000550](https://www.sciencedirect.com/science/article/pii/S0010027723000550)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027723000550" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027723000550</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Experimental Psychology: General, 147 (12) (2018), p. 1865. Crossref View in Scopus...Read mo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010027720302894](https://www.sciencedirect.com/science/article/abs/pii/S0010027720302894)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302894" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302894</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repetition increases both the perceived truth and fakeness...by O Corneille · 2020 · Cited by 87 — Experiment 3 then tests the possibili...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-020-00257-y](https://link.springer.com/article/10.1186/s41235-020-00257-y)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-020-00257-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00257-y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Previous studies have demonstrated the...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-024-00585-3](https://link.springer.com/article/10.1186/s41235-024-00585-3)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-024-00585-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-024-00585-3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In fact, more fake news exposure improved younger and...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: online.ucpress.edu  
-   Link: [https://online.ucpress.edu/collabra/article/6/1/38/114468/Repetition-Increases-Perceived-Truth-Even-for](https://online.ucpress.edu/collabra/article/6/1/38/114468/Repetition-Increases-Perceived-Truth-Even-for)  
+   Link: <a href="https://online.ucpress.edu/collabra/article/6/1/38/114468/Repetition-Increases-Perceived-Truth-Even-for" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/6/1/38/114468/Repetition-Increases-Perceived-Truth-Even-for</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This illusory truth... D. G.. (. 2018.). Prior exposure increases perceived accuracy of fake...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/30247057/](https://pubmed.ncbi.nlm.nih.gov/30247057/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedPrior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1884 — Moreover, this &quot;illusory truth effe...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30247057/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30247057/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1884 — Moreover, this &quot;illusory truth effe...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Illusory Truth Effect  
-   Link: [https://thedecisionlab.com/biases/illusory-truth-effect](https://thedecisionlab.com/biases/illusory-truth-effect)  
+   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect - The Decision...Illusory Truth Effect is the positive feeling when we hear information that we believe to be true...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/psychology/illusory-truth-effect](https://www.ebsco.com/research-starters/psychology/illusory-truth-effect)  
+   Link: <a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It adds a theoretical understanding of why people believe fake news...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: pausing reduce false news  
-   Link: [https://misinforeview.hks.harvard.edu/article/pausing-reduce-false-news/](https://misinforeview.hks.harvard.edu/article/pausing-reduce-false-news/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/pausing-reduce-false-news/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/pausing-reduce-false-news/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Experimental Psychology: General, 147(12), 1865-1880. doi:10.1037...Read more...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/345396954_An_initial_accuracy_focus_reduces_the_effect_of_prior_exposure_on_perceived_accuracy_of_news_headlines](https://www.researchgate.net/publication/345396954_An_initial_accuracy_focus_reduces_the_effect_of_prior_exposure_on_perceived_accuracy_of_news_headlines)  
+   Link: <a href="https://www.researchgate.net/publication/345396954_An_initial_accuracy_focus_reduces_the_effect_of_prior_exposure_on_perceived_accuracy_of_news_headlines" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345396954_An_initial_accuracy_focus_reduces_the_effect_of_prior_exposure_on_perceived_accuracy_of_news_headlines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An initial accuracy focus reduces the effect of prior...8 May 2026 — The present study examined the effects that different ratings...</p></details>
    Published: May 2026  
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/383424465_Correcting_fake_news_headlines_after_repeated_exposure_memory_and_belief_accuracy_in_younger_and_older_adults](https://www.researchgate.net/publication/383424465_Correcting_fake_news_headlines_after_repeated_exposure_memory_and_belief_accuracy_in_younger_and_older_adults)  
+   Link: <a href="https://www.researchgate.net/publication/383424465_Correcting_fake_news_headlines_after_repeated_exposure_memory_and_belief_accuracy_in_younger_and_older_adults" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383424465_Correcting_fake_news_headlines_after_repeated_exposure_memory_and_belief_accuracy_in_younger_and_older_adults</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>memory and belief accuracy in younger and older adults8 Aug 2024 — The efficacy of fake news corrections in improving memory and belief a...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/The-illusory-truth-effect-for-fake-news-is-persistent-lasting-over-a-longer-filler-stage_fig2_317069544](https://www.researchgate.net/figure/The-illusory-truth-effect-for-fake-news-is-persistent-lasting-over-a-longer-filler-stage_fig2_317069544)  
+   Link: <a href="https://www.researchgate.net/figure/The-illusory-truth-effect-for-fake-news-is-persistent-lasting-over-a-longer-filler-stage_fig2_317069544" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/The-illusory-truth-effect-for-fake-news-is-persistent-lasting-over-a-longer-filler-stage_fig2_317069544</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect for fake news is persistent, lasting...The illusory truth effect for fake news is persistent, lasting over a l...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: prompting people to reflect on the accuracy of news headlines increases the qual  
-   Link: [https://www.facebook.com/NaturePortfolioJournals/posts/prompting-people-to-reflect-on-the-accuracy-of-news-headlines-increases-the-qual/10158484080983167/](https://www.facebook.com/NaturePortfolioJournals/posts/prompting-people-to-reflect-on-the-accuracy-of-news-headlines-increases-the-qual/10158484080983167/)  
+   Link: <a href="https://www.facebook.com/NaturePortfolioJournals/posts/prompting-people-to-reflect-on-the-accuracy-of-news-headlines-increases-the-qual/10158484080983167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NaturePortfolioJournals/posts/prompting-people-to-reflect-on-the-accuracy-of-news-headlines-increases-the-qual/10158484080983167/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Prompting people to reflect on the accuracy of news...20 Mar 2021 — Prompting people to reflect on the accuracy of news headlines increa...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: semanticscholar.org  
    Title: Semantic Scholar Prior Exposure Increases Perceived Accuracy of Fake News  
-   Link: [https://www.semanticscholar.org/paper/Prior-Exposure-Increases-Perceived-Accuracy-of-Fake-Pennycook-Cannon/9f9afe1dbfea155096635f0fb3ac126e6464de38](https://www.semanticscholar.org/paper/Prior-Exposure-Increases-Perceived-Accuracy-of-Fake-Pennycook-Cannon/9f9afe1dbfea155096635f0fb3ac126e6464de38)  
+   Link: <a href="https://www.semanticscholar.org/paper/Prior-Exposure-Increases-Perceived-Accuracy-of-Fake-Pennycook-Cannon/9f9afe1dbfea155096635f0fb3ac126e6464de38" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Prior-Exposure-Increases-Perceived-Accuracy-of-Fake-Pennycook-Cannon/9f9afe1dbfea155096635f0fb3ac126e6464de38</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>exposure increases subsequent perceptions of accuracy, both within the same session and after a week. Moreover, this “illusory truth effe...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: scienceopen.com  
-   Link: [https://www.scienceopen.com/document?vid=e4d5f2d5-e027-4d6f-bc1b-84bfbb37cfb5](https://www.scienceopen.com/document?vid=e4d5f2d5-e027-4d6f-bc1b-84bfbb37cfb5)  
+   Link: <a href="https://www.scienceopen.com/document?vid=e4d5f2d5-e027-4d6f-bc1b-84bfbb37cfb5" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceopen.com/document?vid=e4d5f2d5-e027-4d6f-bc1b-84bfbb37cfb5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Author(s): Gordon Pennycook, Tyrone D Cannon, David G. Rand. Publication date (Print): 2017.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
    Title: 317069544 Prior Exposure Increases Perceived Accuracy of Fake News  
-   Link: [https://www.researchgate.net/publication/317069544_Prior_Exposure_Increases_Perceived_Accuracy_of_Fake_News](https://www.researchgate.net/publication/317069544_Prior_Exposure_Increases_Perceived_Accuracy_of_Fake_News)  
+   Link: <a href="https://www.researchgate.net/publication/317069544_Prior_Exposure_Increases_Perceived_Accuracy_of_Fake_News" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317069544_Prior_Exposure_Increases_Perceived_Accuracy_of_Fake_News</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Prior Exposure Increases Perceived Accuracy of Fake News9 Feb 2026 — Moreover, this “illusory truth effect” for fake news headlines occur...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: fondationdescartes.org  
-   Link: [https://www.fondationdescartes.org/en/2020/05/why-do-people-believe-in-fake-news/](https://www.fondationdescartes.org/en/2020/05/why-do-people-believe-in-fake-news/)  
+   Link: <a href="https://www.fondationdescartes.org/en/2020/05/why-do-people-believe-in-fake-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.fondationdescartes.org/en/2020/05/why-do-people-believe-in-fake-news/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It should be noted that this study was carried out in English, and...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: journalistsresource.org  
    Title: fake news conspiracy theories journalism research  
-   Link: [https://journalistsresource.org/[politics](https://journalistsresource.org/[politics)  
+   Link: <a href="https://journalistsresource.org/[politics" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/[politics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news and the spread of misinformation: A research...Sep 1, 2017 — Using survey data collected during the 2006 Israeli election camp...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: osf.io  
-   Link: [https://osf.io/download/nkpgz/](https://osf.io/download/nkpgz/)  
+   Link: <a href="https://osf.io/download/nkpgz/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/nkpgz/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>47 politics. An important research goal is to understand how...Read more...</p></details>

@@ -8,25 +8,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_rereading_vs_self_te_abd7da
 - Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_task_fit_not_labels_f5f606
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - study-practice
 - check-gaps
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - study-practice
 - check-gaps
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Recall activities help teachers spot forgotten knowledge and misconceptions before they become harder to fix.
 hero_summary: Recall activities help teachers spot forgotten knowledge and misconceptions before they become harder to fix.
 layout: default
 permalink: /check-gaps/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /study-practice/
 nav_short_title: Check gaps
 title: How recall reveals what students really know
-title_full: How recall reveals what students really know | Study Practice
+title_full: How recall reveals what students really know
 display_title_short: Check gaps
 display_title: Check gaps
 heading_title: How recall reveals what students really know
@@ -201,27 +201,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Helps Learning More Than Learning Styles? | Mythcraft
+parent_title: What Helps Learning More Than Learning Styles?
 parent_permalink: /study-practice/
 parent_nav_short_title: Study Practice
 parent_heading_title: What Helps Learning More Than Learning Styles?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
@@ -243,7 +243,7 @@ sibling_links:
   heading_title: Why learning preferences do not prove learning styles
 up_link:
   basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
@@ -253,7 +253,7 @@ next_link:
   permalink: /fit-the-task/
   short_title: Fit the task
   heading_title: Match the method to the lesson, not the label
-date: '2026-06-09 05:48:39 '
+date: '2026-06-11 22:44:21 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_retrieval_checks_mis_90c7d4-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_retrieval_checks_mis_90c7d4-Illustration-1.webp
@@ -262,8 +262,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_re
 
 ## Introduction
 
-When schools try to address [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) about learning, one of the most important questions is practical: how do teachers find out what students actually understand? Retrieval practice provides a direct answer. By asking students to recall knowledge from memory rather than simply recognise it in notes or textbooks, teachers can expose misunderstandings, forgotten concepts and false [confidence]({{ 'confidence/' | relative_url }}) before those problems become entrenched. Research on retrieval practice is often discussed for its impact on long-term retention, but its value as a diagnostic tool is equally important. Properly designed recall activities reveal what students really know, giving teachers evidence that can guide reteaching and correction. Pooja K. Agarwal, Ph.D. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.retrievalpractice.org/why-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: retrievalpractice.org">[retrievalpractice.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">retrievalpractice.org</span><span class="citation-popover-title">Pooja K. Agarwal, Ph.D.What is retrieval practice?</span><span class="citation-popover-snippet">practice is a strategy in which bringing information to mind enhances and boosts learning.Read more...</span></span></span>
-
+When schools try to address myths and misconceptions about learning, one of the most important questions is practical: how do teachers find out what students actually understand? Retrieval practice provides a direct answer. By asking students to recall knowledge from memory rather than simply recognise it in notes or textbooks, teachers can expose misunderstandings, forgotten concepts and false [confidence]({{ 'confidence/' | relative_url }}) before those problems become entrenched. Research on retrieval practice is often discussed for its impact on long-term retention, but its value as a diagnostic tool is equally important. Properly designed recall activities reveal what students really know, giving teachers evidence that can guide reteaching and [correction]({{ 'correction/' | relative_url }}). Pooja K. Agarwal, Ph.D. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.retrievalpractice.org/why-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: retrievalpractice.org">[retrievalpractice.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">retrievalpractice.org</span><span class="citation-popover-title">Pooja K. Agarwal, Ph.D.What is retrieval practice?</span><span class="citation-popover-snippet">practice is a strategy in which bringing information to mind enhances and boosts learning.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_retrieval_checks_mis_90c7d4-Illustration-1-dark.svg" | relative_url }}" alt="Check gaps illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_retrieval_checks_mis_90c7d4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_retrieval_checks_mis_90c7d4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters in discussions of educational myths because time spent on weakly supported approaches, such as matching instruction to supposed learning styles, is time not spent on methods that generate actionable information about student understanding. Retrieval practice does not assume how students prefer to learn; it shows what they can actually remember and apply. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/feedback" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Open source on educationendowmentfoundation.org.uk.</span></span></span>
@@ -273,7 +272,6 @@ This matters in discussions of educational myths because time spent on weakly su
 A common classroom problem is that students often appear to understand material while it is being taught. They can follow explanations, recognise correct answers and copy worked examples. Yet this apparent understanding may disappear when they later need to recall or use the information independently.
 
 Retrieval practice removes many of these supports. When students must answer questions from [memory]({{ 'memory/' | relative_url }}), explain a concept without notes or complete a brief quiz on previous learning, gaps become visible. Information that seemed secure during instruction may prove fragile when recall is required. This makes retrieval activities a form of formative assessment: they provide evidence about current understanding rather than simply generating grades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://osotl.org/osotl/article/view/82/139" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osotl.org">[osotl.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osotl.org</span><span class="citation-popover-snippet">of The importance of quality and quantityby ASN Kim · 2024 — Retrieval practice may be particularly useful for students&#x27; learning when it...</span></span></span> CIRL The value lies not only in identifying forgotten facts. Recall tasks can reveal the structure of students' thinking. An incorrect answer ofte <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cirl.etoncollege.com/the-power-of-formative-testing-to-retrieve-what-we-have-learned/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cirl.etoncollege.com">[cirl.etoncollege.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cirl.etoncollege.com</span><span class="citation-popover-title">the power of formative testing to retrieve what we have learned</span><span class="citation-popover-snippet">Power of Formative Testing to Retrieve What We Have...3 Nov 2020 — &#x27;Formative testing&#x27; is a form of formative assessment where students...</span></span></span> n shows whether a learner has:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -288,7 +286,6 @@ Retrieval practice removes many of these supports. When students must answer que
 Because retrieval requires learners to generate answers rather than recognise them, teachers gain a clearer picture of what is stored in memory and how it is organised. Pooja K. Agarwal, Ph.D. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.retrievalpractice.org/why-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: retrievalpractice.org">[retrievalpractice.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">retrievalpractice.org</span><span class="citation-popover-title">Pooja K. Agarwal, Ph.D.What is retrieval practice?</span><span class="citation-popover-snippet">practice is a strategy in which bringing information to mind enhances and boosts learning.Read more...</span></span></span>
 
 Research on test-enhanced learning consistently shows that retrieval activities can strengthen learning while simultaneously providing information about learner performance. In classroom settings, low-stakes quizzes and recall opportunities have been shown to support retention and help teachers monitor progress over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdf.retrievalpractice.org/guide/Roediger_Agarwal_etal_2011_JEPA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdf.retrievalpractice.org">[pdf]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdf.retrievalpractice.org</span><span class="citation-popover-snippet">PDF Retrieval PracticeTest-Enhanced Learning in the Classroomby HL Roediger III · Cited by 637 — Given the power of retrieval practice du...</span></span></span> Retrieval Practice <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[2psychnet.wustl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-title">Roediger Karpicke 2006 PPS</span><span class="citation-popover-snippet">&amp; Roediger, 2006b), we have shown that if long-term retention is measured after a delay, the repeated-test...Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yfNO8LL0PMQ" title="Spaced Practice A Video for Students" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yfNO8LL0PMQ" target="_blank" rel="noopener noreferrer">Spaced Practice A Video for Students</a></p><p class="youtube-embed-meta">Channel: The Learning Scientists &middot; Views: 50.6K &middot; Uploaded: March 2022 &middot; Length: 4 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yfNO8LL0PMQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yfNO8LL0PMQ">Open on YouTube</a></p></div></div></div>
 
@@ -312,13 +309,12 @@ Recall tasks frequently uncover interference between related concepts. Students 
 
 These errors are especially useful diagnostically because they indicate where distinctions have not yet become clear. A pattern of similar mistakes across a class may signal that instruction should focus on comparison and contrast rather than simple review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/impact_article/assessment-as-learning-the-role-of-retrieval-practice-in-the-classroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-title">Psychological Science 17: 249-255.Read more</span><span class="citation-popover-snippet">My CollegeAssessment as learning: The role of retrieval practice in...by J Firth · Cited by 4 — Roediger HL and Karpicke JD (2006) Test...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_retrieval_checks_mis_90c7d4-Illustration-2-dark.svg" | relative_url }}" alt="Check gaps illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_retrieval_checks_mis_90c7d4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_retrieval_checks_mis_90c7d4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Illusions of long-term retention
 
 Students often believe they have learned material because they performed well immediately after teaching. Yet retrieval after a delay can reveal rapid forgetting.
 
-This is one reason repeated and spaced retrieval is valuable. It helps teachers distinguish between short-term performance and durable learning. A concept recalled successfully weeks later is a stronger indicator of understanding than a correct answer given minutes after instruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/testing-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Testing Effect</span><span class="citation-popover-snippet">ScienceDirectTesting Effect - an overviewThese findings suggest that retrieval practice during learning may slow the rate of forgetting...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/5574966_The_Critical_Importance_of_Retrieval_for_Learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[The]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) The Critical Importance of Retrieval for LearningThe results demonstrate the critical role of retrieval practice in consolidating l...</span></span></span>
+This is one reason repeated and spaced retrieval is valuable. It helps teachers distinguish between short-term performance and durable learning. A concept recalled successfully weeks later is a stronger indicator of understanding than a correct answer given minutes after instruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/testing-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Testing Effect</span><span class="citation-popover-snippet">Testing Effect - an overviewThese findings suggest that retrieval practice during learning may slow the rate of forgetting...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/5574966_The_Critical_Importance_of_Retrieval_for_Learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[The]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) The Critical Importance of Retrieval for LearningThe results demonstrate the critical role of retrieval practice in consolidating l...</span></span></span>
 
 ## How retrieval helps challenge classroom myths
 
@@ -330,7 +326,6 @@ Similarly, retrieval can challenge teacher assumptions. An engaging lesson may c
 
 The information generated by retrieval is therefore valuable at a governance and school-improvement level. Schools seeking evidence-informed practice need methods that produce observable indicators of learning. Regular retrieval opportunities create a stream of information about knowledge acquisition, curriculum coverage and persistent misconceptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/voices-from-the-classroom-beyond-the-quiz-feedback-and-retrieval-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">voices from the classroom beyond the quiz feedback and retrieval practice</span><span class="citation-popover-snippet">Voices from the classroom: Utilising talk to support retrieval…Nov 4, 2024 — Jennie also highlights the importance of feedback in retriev...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U_-TaSzYmx8" title="Retrieval Practice: A guide for parents, carers &amp; families" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U_-TaSzYmx8" target="_blank" rel="noopener noreferrer">Retrieval Practice: A guide for parents, carers &amp; families</a></p><p class="youtube-embed-meta">Channel: Kate Jones &middot; Views: 11.6K &middot; Uploaded: March 2022 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U_-TaSzYmx8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U_-TaSzYmx8">Open on YouTube</a></p></div></div></div>
 
 ## How to respond without turning practice into high-stakes testing
@@ -341,7 +336,7 @@ A common mistake is to treat retrieval solely as measurement. If recall activiti
 
 Effective responses to misconceptions typically include:
 
-* Immediate [correction]({{ 'correction/' | relative_url }}) of inaccurate answers.
+* Immediate correction of inaccurate answers.
 * Discussion of why a misconception is attractive but incorrect.
 * Brief reteaching of concepts that many students misunderstood.
 * Additional retrieval opportunities [after correction]({{ 'after-correction/' | relative_url }}).
@@ -350,7 +345,6 @@ Effective responses to misconceptions typically include:
 Feedback is especially important because retrieval can occasionally reinforce incorrect information if errors are left uncorrected. Several educational organisations and researchers highlight feedback as a crucial companion to retrieval practice, helping prevent misconceptions from becoming more deeply embedded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctl.wustl.edu">[Center for Teaching and Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctl.wustl.edu</span><span class="citation-popover-snippet">Center for Teaching and LearningUsing Retrieval Practice to Increase Student Learningby C Design — Giving feedback to students is an impo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/voices-from-the-classroom-beyond-the-quiz-feedback-and-retrieval-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">voices from the classroom beyond the quiz feedback and retrieval practice</span><span class="citation-popover-snippet">Voices from the classroom: Utilising talk to support retrieval…Nov 4, 2024 — Jennie also highlights the importance of feedback in retriev...</span></span></span>
 
 Teachers also benefit from looking for patterns rather than isolated mistakes. A single incorrect answer may reflect a momentary lapse, but repeated errors across a class often indicate a curriculum issue, an unclear explanation or a concept that requires more practice. Retrieval data become most valuable when they inform instructional decisions rather than simply recording performance. EEF <span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/impact_article/assessment-as-learning-the-role-of-retrieval-practice-in-the-classroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-title">Psychological Science 17: 249-255.Read more</span><span class="citation-popover-snippet">My CollegeAssessment as learning: The role of retrieval practice in...by J Firth · Cited by 4 — Roediger HL and Karpicke JD (2006) Test...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_retrieval_checks_mis_90c7d4-Illustration-3-dark.svg" | relative_url }}" alt="Check gaps illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_retrieval_checks_mis_90c7d4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_retrieval_checks_mis_90c7d4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes retrieval a better diagnostic tool than simple review
@@ -361,9 +355,7 @@ That distinction matters because misconceptions frequently remain hidden during 
 
 For schools seeking to reduce misconceptions and improve learning, retrieval practice therefore serves two functions at once. It strengthens memory and reveals misunderstanding. The combination is powerful: teachers discover where knowledge is weak, students become aware of gaps in their own understanding, and corrective action can occur before misconceptions become harder to change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdf.retrievalpractice.org/guide/Roediger_Agarwal_etal_2011_JEPA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdf.retrievalpractice.org">[pdf]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdf.retrievalpractice.org</span><span class="citation-popover-snippet">PDF Retrieval PracticeTest-Enhanced Learning in the Classroomby HL Roediger III · Cited by 637 — Given the power of retrieval practice du...</span></span></span> Retrieval Practice <span class="citation-chip-wrap"><a class="citation-chip" href="https://osotl.org/osotl/article/view/82/139" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osotl.org">[2osotl.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osotl.org</span><span class="citation-popover-snippet">of The importance of quality and quantityby ASN Kim · 2024 — Retrieval practice may be particularly useful for students&#x27; learning when it...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qgvHT9ov_TY" title="Beyond the Quiz: Feedback and retrieval practice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qgvHT9ov_TY" target="_blank" rel="noopener noreferrer">Beyond the Quiz: Feedback and retrieval practice</a></p><p class="youtube-embed-meta">Channel: Education Endowment Foundation &middot; Views: 1.1K &middot; Uploaded: October 2024 &middot; Length: 4 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qgvHT9ov_TY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qgvHT9ov_TY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -482,15 +474,15 @@ For schools seeking to reduce misconceptions and improve learning, retrieval pra
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT"><img src="{{ '/assets/images/marketplace-covers/352c61150a84d9a15ae7.jpg' | relative_url }}" alt="Listing image for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recall-reveals-what-students-really-know-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="how-recall-reveals-what-students-really-know-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print-Science Learning Poster-PERIODIC ELEMENTS TABLE-,A3,A2,A1,A0"><img src="https://i.ebayimg.com/images/g/5PcAAOSw8R1jBgmy/s-l225.jpg" alt="Listing image for Home Wall Art Print-Science Learning Poster-PERIODIC ELEMENTS TABLE-,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recall-reveals-what-students-really-know-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="how-recall-reveals-what-students-really-know-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print-Science Learning Poster-PERIODIC ELEMENTS TABLE-,A3,A2,A1,A0</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recall-reveals-what-students-really-know-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="how-recall-reveals-what-students-really-know-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning science poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recall-reveals-what-students-really-know-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="how-recall-reveals-what-students-really-know-learning-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +490,15 @@ For schools seeking to reduce misconceptions and improve learning, retrieval pra
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Taeyong Fact Check Official Sticker"><img src="{{ '/assets/images/marketplace-covers/74937a61ca50bbfbb460.jpg' | relative_url }}" alt="Listing image for NCT 127 Taeyong Fact Check Official Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recall-reveals-what-students-really-know-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="how-recall-reveals-what-students-really-know-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print-Science Learning Poster-PERIODIC ATOMIC ELEMENTS-A4,A3,A2,A1"><img src="https://i.ebayimg.com/images/g/H2kAAOSwvwZjBggp/s-l225.jpg" alt="Listing image for Home Wall Art Print-Science Learning Poster-PERIODIC ATOMIC ELEMENTS-A4,A3,A2,A1" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Taeyong Fact Check Official Sticker</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recall-reveals-what-students-really-know-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="how-recall-reveals-what-students-really-know-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print-Science Learning Poster-PERIODIC ATOMIC ELEMENTS-A4,A3,A2,A1</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recall-reveals-what-students-really-know-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="how-recall-reveals-what-students-really-know-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning science poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recall-reveals-what-students-really-know-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="how-recall-reveals-what-students-really-know-learning-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +506,15 @@ For schools seeking to reduce misconceptions and improve learning, retrieval pra
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nct 127 Fact Check And Sticker Photocards"><img src="{{ '/assets/images/marketplace-covers/e19779c1afa40b68544f.jpg' | relative_url }}" alt="Listing image for Nct 127 Fact Check And Sticker Photocards" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recall-reveals-what-students-really-know-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="how-recall-reveals-what-students-really-know-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print-Science Learning Poster-PERIODIC ELEMENTS TABLE-,A3,A2,A1,A0"><img src="https://i.ebayimg.com/images/g/MakAAOSwzdxjBglU/s-l225.jpg" alt="Listing image for Home Wall Art Print-Science Learning Poster-PERIODIC ELEMENTS TABLE-,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">Nct 127 Fact Check And Sticker Photocards</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recall-reveals-what-students-really-know-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="how-recall-reveals-what-students-really-know-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print-Science Learning Poster-PERIODIC ELEMENTS TABLE-,A3,A2,A1,A0</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recall-reveals-what-students-really-know-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="how-recall-reveals-what-students-really-know-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning science poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recall-reveals-what-students-really-know-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="how-recall-reveals-what-students-really-know-learning-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,15 +522,15 @@ For schools seeking to reduce misconceptions and improve learning, retrieval pra
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 [FACT CHECK] 5th Album EXHIBIT TAEIL Ver/CD+4 Post Card+Card+Sticker"><img src="{{ '/assets/images/marketplace-covers/36564e9179733ccf89e8.jpg' | relative_url }}" alt="Listing image for NCT 127 [FACT CHECK] 5th Album EXHIBIT TAEIL Ver/CD+4 Post Card+Card+Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recall-reveals-what-students-really-know-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="how-recall-reveals-what-students-really-know-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Amazing Science Boxset Learning Activities Include Poster, Wooden Model, Jigsaw"><img src="https://i.ebayimg.com/images/g/qnsAAeSwIwdpaRO6/s-l225.jpg" alt="Listing image for Amazing Science Boxset Learning Activities Include Poster, Wooden Model, Jigsaw" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 [FACT CHECK] 5th Album EXHIBIT TAEIL Ver/CD+4 Post Card+Card+Sticker</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recall-reveals-what-students-really-know-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="how-recall-reveals-what-students-really-know-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer">Amazing Science Boxset Learning Activities Include Poster, Wooden Model, Jigsaw</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recall-reveals-what-students-really-know-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="how-recall-reveals-what-students-really-know-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning science poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recall-reveals-what-students-really-know-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="how-recall-reveals-what-students-really-know-learning-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,7 +538,7 @@ For schools seeking to reduce misconceptions and improve learning, retrieval pra
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="check-gaps-how-recall-reveals-what-students-really-know-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-recall-reveals-what-students-really-know-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="how-recall-reveals-what-students-really-know-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -761,169 +753,169 @@ For schools seeking to reduce misconceptions and improve learning, retrieval pra
 
 1. <a id="endnote-1"></a>
    Source: osotl.org  
-   Link: [https://osotl.org/osotl/article/view/82/139](https://osotl.org/osotl/article/view/82/139)  
+   Link: <a href="https://osotl.org/osotl/article/view/82/139" target="_blank" rel="noopener noreferrer nofollow">https://osotl.org/osotl/article/view/82/139</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of The importance of quality and quantityby ASN Kim · 2024 — Retrieval practice may be particularly useful for students&#x27; learning when it...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cirl.etoncollege.com  
    Title: the power of formative testing to retrieve what we have learned  
-   Link: [https://cirl.etoncollege.com/the-power-of-formative-testing-to-retrieve-what-we-have-learned/](https://cirl.etoncollege.com/the-power-of-formative-testing-to-retrieve-what-we-have-learned/)  
+   Link: <a href="https://cirl.etoncollege.com/the-power-of-formative-testing-to-retrieve-what-we-have-learned/" target="_blank" rel="noopener noreferrer nofollow">https://cirl.etoncollege.com/the-power-of-formative-testing-to-retrieve-what-we-have-learned/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Power of Formative Testing to Retrieve What We Have...3 Nov 2020 — &#x27;Formative testing&#x27; is a form of formative assessment where students...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/feedback](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/feedback)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/feedback" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/feedback</a>  
 
 4. <a id="endnote-4"></a>
    Source: psychnet.wustl.edu  
    Title: Roediger Karpicke 2006 PPS  
-   Link: [https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf](https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf)  
+   Link: <a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Karpicke-2006_PPS.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Roediger, 2006b), we have shown that if long-term retention is measured after a delay, the repeated-test...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Testing Effect  
-   Link: [https://www.sciencedirect.com/topics/psychology/testing-effect](https://www.sciencedirect.com/topics/psychology/testing-effect)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectTesting Effect - an overviewThese findings suggest that retrieval practice during learning may slow the rate of forgetting...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/testing-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/testing-effect</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing Effect - an overviewThese findings suggest that retrieval practice during learning may slow the rate of forgetting...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: EEFGuest Blog: Retrieval practice  
-   Link: [https://educationendowmentfoundation.org.uk/news/guest-blog-retrieval-practice-a-common-good-or-just-commonplace-2](https://educationendowmentfoundation.org.uk/news/guest-blog-retrieval-practice-a-common-good-or-just-commonplace-2)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/guest-blog-retrieval-practice-a-common-good-or-just-commonplace-2" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/guest-blog-retrieval-practice-a-common-good-or-just-commonplace-2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A common good or just…Jul 22, 2021 — Retrieval practice – the process of recalling previously learnt material from our long-term memory –...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ctl.wustl.edu  
-   Link: [https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/](https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/)  
+   Link: <a href="https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/" target="_blank" rel="noopener noreferrer nofollow">https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Teaching and LearningUsing Retrieval Practice to Increase Student Learningby C Design — Giving feedback to students is an impo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: voices from the classroom beyond the quiz feedback and retrieval practice  
-   Link: [https://educationendowmentfoundation.org.uk/news/voices-from-the-classroom-beyond-the-quiz-feedback-and-retrieval-practice](https://educationendowmentfoundation.org.uk/news/voices-from-the-classroom-beyond-the-quiz-feedback-and-retrieval-practice)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/voices-from-the-classroom-beyond-the-quiz-feedback-and-retrieval-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/voices-from-the-classroom-beyond-the-quiz-feedback-and-retrieval-practice</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Voices from the classroom: Utilising talk to support retrieval…Nov 4, 2024 — Jennie also highlights the importance of feedback in retriev...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2211368114000655](https://www.sciencedirect.com/science/article/abs/pii/S2211368114000655)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211368114000655" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211368114000655</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The need for guided retrieval in elementary school childrenby JD Karpicke · 2014 · Cited by 151 — Three experiments were aimed at adaptin...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0959475217301810](https://www.sciencedirect.com/science/article/abs/pii/S0959475217301810)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475217301810" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475217301810</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the testing effect: Retrieval as a characteristic...by CL Bae · 2019 · Cited by 103 — In this experiment, we compared free...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
    Title: Would you like to learn more?  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010027720301359](https://www.sciencedirect.com/science/article/abs/pii/S0010027720301359)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720301359" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720301359</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval practice plus...by M Abel · 2020 · Cited by 58 — The results provide first evidence that retrieval practice plus feedback can...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: retrievalpractice.org  
    Title: Pooja K. Agarwal, Ph.D.What is retrieval practice?  
-   Link: [https://www.retrievalpractice.org/why-it-works](https://www.retrievalpractice.org/why-it-works)  
+   Link: <a href="https://www.retrievalpractice.org/why-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.retrievalpractice.org/why-it-works</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>practice is a strategy in which bringing information to mind enhances and boosts learning.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: my.chartered.college  
    Title: Psychological Science 17: 249-255.Read more  
-   Link: [https://my.chartered.college/impact_article/assessment-as-learning-the-role-of-retrieval-practice-in-the-classroom/](https://my.chartered.college/impact_article/assessment-as-learning-the-role-of-retrieval-practice-in-the-classroom/)  
+   Link: <a href="https://my.chartered.college/impact_article/assessment-as-learning-the-role-of-retrieval-practice-in-the-classroom/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/assessment-as-learning-the-role-of-retrieval-practice-in-the-classroom/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>My CollegeAssessment as learning: The role of retrieval practice in...by J Firth · Cited by 4 — Roediger HL and Karpicke JD (2006) Test...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pdf.retrievalpractice.org  
-   Link: [https://pdf.retrievalpractice.org/guide/Roediger_Agarwal_etal_2011_JEPA.pdf](https://pdf.retrievalpractice.org/guide/Roediger_Agarwal_etal_2011_JEPA.pdf)  
+   Link: <a href="https://pdf.retrievalpractice.org/guide/Roediger_Agarwal_etal_2011_JEPA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdf.retrievalpractice.org/guide/Roediger_Agarwal_etal_2011_JEPA.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PDF Retrieval PracticeTest-Enhanced Learning in the Classroomby HL Roediger III · Cited by 637 — Given the power of retrieval practice du...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/research-hub/assessment-and-feedback-in-an-online-context-checking-understanding/](https://my.chartered.college/research-hub/assessment-and-feedback-in-an-online-context-checking-understanding/)  
+   Link: <a href="https://my.chartered.college/research-hub/assessment-and-feedback-in-an-online-context-checking-understanding/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/research-hub/assessment-and-feedback-in-an-online-context-checking-understanding/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>My CollegeAssessment and feedback in an online context: Checking...One approach to checking understanding that works well online is usin...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/retrieval](https://dictionary.cambridge.org/dictionary/english/retrieval)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionarythe process of finding and bringing back something: the storage and retrieval of information...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/retrieval" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/retrieval</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarythe process of finding and bringing back something: the storage and retrieval of information...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english-chinese-traditional/the](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/the)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/the" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/the</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Traditional Chinese - Cambridge DictionaryTHE translate: 特定的, （用於名詞前，指聽者或讀者已知的事物或人，尤指已提到的或能被領會的事物或人）, （用於某些名詞前，表示泛指一類地方）, （用在帶有限制性定語的...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/retrieval](https://www.merriam-webster.com/dictionary/retrieval)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/retrieval" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/retrieval</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning5 May 2026 — 1. an act or process of retrieving 2. possibility of being retrieved or of recovering beyond retrievalRe...</p></details>
    Published: May 2026  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/The](https://en.wikipedia.org/wiki/The)  
+   Link: <a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The - WikipediaThe is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, im...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: education-ni.gov.uk  
    Title: Retrieval Practice  
-   Link: [https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF](https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Education-niRoediger, H. L., &amp; Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psycholo...</p></details>
+   Link: <a href="https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roediger, H. L., &amp; Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psycholo...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: teachertoolkit.co.uk  
    Title: The Power of Retrieval Practice  
-   Link: [https://www.teachertoolkit.co.uk/2024/10/10/the-power-of-testing/](https://www.teachertoolkit.co.uk/2024/10/10/the-power-of-testing/)  
+   Link: <a href="https://www.teachertoolkit.co.uk/2024/10/10/the-power-of-testing/" target="_blank" rel="noopener noreferrer nofollow">https://www.teachertoolkit.co.uk/2024/10/10/the-power-of-testing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Teachers can start small by using low-stakes quizzes, quick-fire questions.Read more...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/5574966_The_Critical_Importance_of_Retrieval_for_Learning](https://www.researchgate.net/publication/5574966_The_Critical_Importance_of_Retrieval_for_Learning)  
+   Link: <a href="https://www.researchgate.net/publication/5574966_The_Critical_Importance_of_Retrieval_for_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5574966_The_Critical_Importance_of_Retrieval_for_Learning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Critical Importance of Retrieval for LearningThe results demonstrate the critical role of retrieval practice in consolidating l...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: learningscientists.org  
-   Link: [https://www.learningscientists.org/spaced-practice](https://www.learningscientists.org/spaced-practice)  
+   Link: <a href="https://www.learningscientists.org/spaced-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/spaced-practice</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spaced PracticeColor Poster · Black &amp; White Poster; PowerPoint Slides · PDF of Slides; Bookmark Guides Color · Bookmark Guides B&amp;W; Bo...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/343139698_The_Advantages_of_Retrieval-Based_and_Spaced_Practice_Implications_for_Word_Learning_in_Clinical_and_Educational_Contexts](https://www.researchgate.net/publication/343139698_The_Advantages_of_Retrieval-Based_and_Spaced_Practice_Implications_for_Word_Learning_in_Clinical_and_Educational_Contexts)  
+   Link: <a href="https://www.researchgate.net/publication/343139698_The_Advantages_of_Retrieval-Based_and_Spaced_Practice_Implications_for_Word_Learning_in_Clinical_and_Educational_Contexts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343139698_The_Advantages_of_Retrieval-Based_and_Spaced_Practice_Implications_for_Word_Learning_in_Clinical_and_Educational_Contexts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Advantages of Retrieval-Based and Spaced PracticeConclusion Current research provides evidence that principles of retrieval-based and...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/research-hub/testing-and-spacing-effective-learning-strategies-for-the-classroom/](https://my.chartered.college/research-hub/testing-and-spacing-effective-learning-strategies-for-the-classroom/)  
+   Link: <a href="https://my.chartered.college/research-hub/testing-and-spacing-effective-learning-strategies-for-the-classroom/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/research-hub/testing-and-spacing-effective-learning-strategies-for-the-classroom/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and spacing: Effective learning strategies for the...Also, merging retrieval and spacing creates optimal learning situations; retrieval...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: my.chartered.college  
    Title: how do children with special educational needs experience retrieval practice 2  
-   Link: [https://my.chartered.college/impact_article/how-do-children-with-special-educational-needs-experience-retrieval-practice-2/](https://my.chartered.college/impact_article/how-do-children-with-special-educational-needs-experience-retrieval-practice-2/)  
+   Link: <a href="https://my.chartered.college/impact_article/how-do-children-with-special-educational-needs-experience-retrieval-practice-2/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/how-do-children-with-special-educational-needs-experience-retrieval-practice-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>do children with special educational needs...Sep 20, 2022 — Retrieval practice is known as a strategy that seeks to create a stronger re...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: researchschool.org.uk  
    Title: effective assessment and feedback strategies using educational technology  
-   Link: [https://researchschool.org.uk/news/effective-assessment-and-feedback-strategies-using-educational-technology](https://researchschool.org.uk/news/effective-assessment-and-feedback-strategies-using-educational-technology)  
+   Link: <a href="https://researchschool.org.uk/news/effective-assessment-and-feedback-strategies-using-educational-technology" target="_blank" rel="noopener noreferrer nofollow">https://researchschool.org.uk/news/effective-assessment-and-feedback-strategies-using-educational-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective assessment and feedback strategies using...21 Jun 2021 — Shuna Neave explains how her school have approached using technology...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qgvHT9ov_TY](https://www.youtube.com/watch?v=qgvHT9ov_TY)  
+   Link: <a href="https://www.youtube.com/watch?v=qgvHT9ov_TY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qgvHT9ov_TY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond the Quiz: Feedback and retrieval practiceThere are two main reasons why we need to always do feedback based on our retrieval activ...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/playlist?list=PLrQ6NZ9ybhqCtJJxMKvdgqJbVpkTQivgb](https://www.youtube.com/playlist?list=PLrQ6NZ9ybhqCtJJxMKvdgqJbVpkTQivgb)  
+   Link: <a href="https://www.youtube.com/playlist?list=PLrQ6NZ9ybhqCtJJxMKvdgqJbVpkTQivgb" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLrQ6NZ9ybhqCtJJxMKvdgqJbVpkTQivgb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning ScientistsThe Learning Scientists · 3:00 · Study Strategies: Retrieval Practice. The Learning Scientists · 2:05. Study Strategie...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=U_-TaSzYmx8](https://www.youtube.com/watch?v=U_-TaSzYmx8)  
+   Link: <a href="https://www.youtube.com/watch?v=U_-TaSzYmx8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U_-TaSzYmx8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval Practice: A guide for parents, carers &amp; familiesRetrieval practice helps memory and therefore that helps students with learning...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=yfNO8LL0PMQ](https://www.youtube.com/watch?v=yfNO8LL0PMQ)  
+   Link: <a href="https://www.youtube.com/watch?v=yfNO8LL0PMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yfNO8LL0PMQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spaced Practice A Video for StudentsIn this video, Dr. Cindy Nebel describes how students can use spaced practice to improve their learni...</p></details>

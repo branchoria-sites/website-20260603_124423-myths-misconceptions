@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_influencer_source_cr_0dc5b4
 - Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_trusted_messenger_co_ba3df3
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - identity
 - group-loyalty
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - identity
 - group-loyalty
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Some myths persist because accepting or rejecting them signals loyalty, courage, compassion, scepticism, or belonging.
 hero_summary: Some myths persist because accepting or rejecting them signals loyalty, courage, compassion, scepticism, or belonging.
 layout: default
 permalink: /group-loyalty/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /identity/
 nav_short_title: Group Loyalty
 title: When a myth becomes a loyalty test
-title_full: When a myth becomes a loyalty test | Identity
+title_full: When a myth becomes a loyalty test
 display_title_short: Group Loyalty
 display_title: Group Loyalty
 heading_title: When a myth becomes a loyalty test
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Trusted People Make Myths Stick | Mythcraft
+parent_title: Why Trusted People Make Myths Stick
 parent_permalink: /identity/
 parent_nav_short_title: Identity
 parent_heading_title: Why Trusted People Make Myths Stick
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How corrections avoid sounding like attacks
 up_link:
   basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
@@ -265,7 +265,7 @@ next_link:
   permalink: /influencers-5b6d7d/
   short_title: Influencers
   heading_title: Why familiar influencers can sound reliable
-date: '2026-06-09 04:49:30 '
+date: '2026-06-11 22:14:05 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-1.webp
@@ -276,16 +276,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_gr
 
 False claims do not survive only because people are confused or uninformed. They often survive because accepting them becomes a way of showing loyalty. In families, political movements, religious communities, wellness circles, workplaces and online fandoms, beliefs can function as social signals as much as factual judgments. A claim may start as a question about reality, but over time it can become a test of who belongs, who can be trusted and who is willing to stand with the group when challenged.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-1-dark.svg" | relative_url }}" alt="Group Loyalty illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is one reason [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) can feel morally important even when evidence is weak. Rejecting a false claim may come to feel less like correcting a mistake and more like abandoning friends, disrespecting elders, betraying a cause or helping an enemy. Research on [identity]({{ 'identity/' | relative_url }})-protective cognition suggests that people often evaluate information in ways that protect valued social identities rather than simply maximising factual accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNMisconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</span></span></span>
+This is one reason myths and misconceptions can feel morally important even when evidence is weak. Rejecting a false claim may come to feel less like correcting a mistake and more like abandoning friends, disrespecting elders, betraying a cause or helping an enemy. Research on [identity]({{ 'identity/' | relative_url }})-protective cognition suggests that people often evaluate information in ways that protect valued social identities rather than simply maximising factual accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</span></span></span>
 
 ## When a factual claim becomes a group signal
 
 Many beliefs begin as ordinary factual questions. Is a medical treatment effective? Did a historical event happen in a particular way? Is a scientific risk serious? Over time, however, these questions can acquire social meaning.
 
 Once a belief becomes associated with a community, accepting or rejecting it sends signals about character and allegiance. The belief itself becomes a badge. People may communicate:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -321,11 +319,7 @@ Group loyalty becomes especially powerful when a belief is attached to moral lan
 
 A claim may come to represent courage, compassion, patriotism, faithfulness, independence or care for vulnerable people. Once that happens, belief is no longer judged primarily on whether it is true. It is judged on whether it expresses the right moral character.
 
-Researchers studying misinformation have found that identity-congruent information is often processed differently from identity-threatening information. People are more likely to accept claims that reinforce important social identities and more likely to resist [corrections]({{ 'corrections/' | relative_url }}) that appear to threaten those identities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNMisconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</span></span></span> The shift often follows a predictable pattern:
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CXzAqNYMbp0" title="Open Your Mind, Shut Your Mouth: The Mental Mechanics of Modern Politics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CXzAqNYMbp0" target="_blank" rel="noopener noreferrer">Open Your Mind, Shut Your Mouth: The Mental Mechanics of Modern Politics</a></p><p class="youtube-embed-meta">Channel: Waywut Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CXzAqNYMbp0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CXzAqNYMbp0">Open on YouTube</a></p></div></div></div>
-
+Researchers studying misinformation have found that identity-congruent information is often processed differently from identity-threatening information. People are more likely to accept claims that reinforce important social identities and more likely to resist [corrections]({{ 'corrections/' | relative_url }}) that appear to threaten those identities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</span></span></span> The shift often follows a predictable pattern:
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -345,7 +339,6 @@ Once beliefs are moralised, disagreement may be interpreted through moral catego
 
 A sceptic may be described as:
 
-
 <div class="content-enhancement content-enhancement--tension" markdown="1">
 
 * Disloyal rather than unconvinced.
@@ -360,11 +353,10 @@ The result is that factual debate becomes a character judgment. People begin ask
 
 That transformation makes correction far more difficult because evidence now competes with moral identity.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-2-dark.svg" | relative_url }}" alt="Group Loyalty illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Identity protection and the fear of social loss
 
-The theory of identity-protective cognition, associated with the work of Dan Kahan and colleagues, proposes that people often evaluate information in ways that preserve standing within groups they value. On highly polarised topics, individuals may selectively credit or dismiss evidence depending on whether it aligns with the beliefs dominant in their community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNMisconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fondationdescartes.org">[Fondation Descartes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fondationdescartes.org</span><span class="citation-popover-title">Fondation Descartes False ideas, fake information, and the logic of identity</span><span class="citation-popover-snippet">protection of cultural identity and its impact on the emergence of fake news... research team on major themes related to information and...</span></span></span>
+The theory of identity-protective cognition, associated with the work of Dan Kahan and colleagues, proposes that people often evaluate information in ways that preserve standing within groups they value. On highly polarised topics, individuals may selectively credit or dismiss evidence depending on whether it aligns with the beliefs dominant in their community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fondationdescartes.org">[Fondation Descartes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fondationdescartes.org</span><span class="citation-popover-title">Fondation Descartes False ideas, fake information, and the logic of identity</span><span class="citation-popover-snippet">protection of cultural identity and its impact on the emergence of fake news... research team on major themes related to information and...</span></span></span>
 
 This does not necessarily happen consciously.
 
@@ -375,9 +367,6 @@ From the perspective of everyday life, this can be rational. Losing acceptance w
 Researchers have argued that identity-protective reasoning can be understood partly as a response to social realities. In some circumstances, preserving group trust may appear more valuable than publicly challenging a shared belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</span></span></span>
 
 The crucial point is that social incentives and truth-seeking incentives do not always point in the same direction.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hNND9N9EMTc" title="Hidden Tribes: The Appeal of Motivated Reasoning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hNND9N9EMTc" target="_blank" rel="noopener noreferrer">Hidden Tribes: The Appeal of Motivated Reasoning</a></p><p class="youtube-embed-meta">Channel: DemystifySci Investigates</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hNND9N9EMTc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hNND9N9EMTc">Open on YouTube</a></p></div></div></div>
 
 ## Why doubting can feel like betrayal
 
@@ -397,8 +386,7 @@ Several mechanisms reinforce this process.
 
 These dynamics help explain why evidence sometimes strengthens commitment instead of weakening it. New information is evaluated not only for accuracy but for what accepting it would communicate socially.
 
-Research on conspiracy beliefs has identified similar patterns. Some scholars argue that identity-based motivations encourage people to avoid information that threatens group cohesion, creating self-reinforcing cycles in which belief and selective information exposure support one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X25002064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA social-psychological model of the self-reinforcing cycle...by T Gkinopoulos · 2025 · Cited by 2 — This avoidance, in turn...</span></span></span>
-
+Research on conspiracy beliefs has identified similar patterns. Some scholars argue that identity-based motivations encourage people to avoid information that threatens group cohesion, creating self-reinforcing cycles in which belief and selective information exposure support one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X25002064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A social-psychological model of the self-reinforcing cycle...by T Gkinopoulos · 2025 · Cited by 2 — This avoidance, in turn...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-3-dark.svg" | relative_url }}" alt="Group Loyalty illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Historical patterns across different eras
@@ -411,14 +399,13 @@ Nationalist movements have frequently attached moral virtue to particular histor
 
 Political parties have long used symbolic beliefs to distinguish supporters from opponents. What matters is often not the specific claim but the willingness to affirm it publicly.
 
-The digital age has accelerated these tendencies rather than inventing them. Online communities can rapidly transform factual claims into identity markers because social approval, visibility and group reinforcement operate continuously. Shared beliefs spread through networks where belonging and reputation are constantly on display. Researchers increasingly describe misinformation as deeply connected to social identity processes rather than simply failures of knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/jices/article/doi/10.1108/JICES-07-2025-0195/1360204/Misinformation-and-polarisation-as-manifestations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">EmeraldMisinformation and polarisation as manifestations of social...This study argues that, although social identity is often considere...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</span></span></span>
+The digital age has accelerated these tendencies rather than inventing them. Online communities can rapidly transform factual claims into identity markers because social approval, visibility and group reinforcement operate continuously. Shared beliefs spread through networks where belonging and reputation are constantly on display. Researchers increasingly describe misinformation as deeply connected to social identity processes rather than simply failures of knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/jices/article/doi/10.1108/JICES-07-2025-0195/1360204/Misinformation-and-polarisation-as-manifestations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Misinformation and polarisation as manifestations of social...This study argues that, although social identity is often considere...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</span></span></span>
 
 ## Why facts alone often fail
 
 Many public debates assume that myths survive because people lack information. Sometimes that is true. But loyalty-based beliefs reveal a different problem.
 
 If a belief functions as a signal of belonging, providing contrary evidence may unintentionally raise the social stakes. The correction can be heard as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -431,10 +418,7 @@ If a belief functions as a signal of belonging, providing contrary evidence may 
 
 When corrections carry those implications, resistance becomes more understandable. People are defending social identities as well as factual claims.
 
-Research on misinformation repeatedly finds that successful correction depends not only on accuracy but also on trust, source credibility and identity concerns. Information that threatens a valued identity often encounters stronger resistance than information that merely challenges a factual misunderstanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNMisconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</span></span></span> This is why myths tied to loyalty can be unusually durable. They are supported by relationships, status and moral commitments, not just mistaken facts.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wEwGBIr_RIw" title="12 Cognitive Biases Explained - How to Think Better and More Logically Removing Bias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wEwGBIr_RIw" target="_blank" rel="noopener noreferrer">12 Cognitive Biases Explained - How to Think Better and More Logically Removing Bias</a></p><p class="youtube-embed-meta">Channel: Practical Psychology</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wEwGBIr_RIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wEwGBIr_RIw">Open on YouTube</a></p></div></div></div>
+Research on misinformation repeatedly finds that successful correction depends not only on accuracy but also on trust, source credibility and identity concerns. Information that threatens a valued identity often encounters stronger resistance than information that merely challenges a factual misunderstanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</span></span></span> This is why myths tied to loyalty can be unusually durable. They are supported by relationships, status and moral commitments, not just mistaken facts.
 
 ## The deeper reason loyalty can make myths feel moral
 
@@ -842,102 +826,102 @@ Once that question dominates, correcting the misconception requires more than su
 
 1. <a id="endnote-1"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNMisconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: centerconflictcooperation-newsletter.com  
    Title: Social identity shapes your belief in [fake news](&#123;&#123; 'fake-news/' | relative_url &#125;&#125;)  
-   Link: [https://www.centerconflictcooperation-newsletter.com/p/social-identity-shapes-your-belief](https://www.centerconflictcooperation-newsletter.com/p/social-identity-shapes-your-belief)  
+   Link: <a href="https://www.centerconflictcooperation-newsletter.com/p/social-identity-shapes-your-belief" target="_blank" rel="noopener noreferrer nofollow">https://www.centerconflictcooperation-newsletter.com/p/social-identity-shapes-your-belief</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 3, 2022 — To understand how partisanship works in the mind and brain, we have to return to one of the most fundamental theories in...</p></details>
    Published: August 3, 2022  
 
 3. <a id="endnote-3"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE](https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE)  
+   Link: <a href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X25002064](https://www.sciencedirect.com/science/article/pii/S2352250X25002064)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectA social-psychological model of the self-reinforcing cycle...by T Gkinopoulos · 2025 · Cited by 2 — This avoidance, in turn...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X25002064" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X25002064</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A social-psychological model of the self-reinforcing cycle...by T Gkinopoulos · 2025 · Cited by 2 — This avoidance, in turn...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: emerald.com  
-   Link: [https://www.emerald.com/jices/article/doi/10.1108/JICES-07-2025-0195/1360204/Misinformation-and-polarisation-as-manifestations](https://www.emerald.com/jices/article/doi/10.1108/JICES-07-2025-0195/1360204/Misinformation-and-polarisation-as-manifestations)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EmeraldMisinformation and polarisation as manifestations of social...This study argues that, although social identity is often considere...</p></details>
+   Link: <a href="https://www.emerald.com/jices/article/doi/10.1108/JICES-07-2025-0195/1360204/Misinformation-and-polarisation-as-manifestations" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/jices/article/doi/10.1108/JICES-07-2025-0195/1360204/Misinformation-and-polarisation-as-manifestations</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and polarisation as manifestations of social...This study argues that, although social identity is often considere...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: informalscience.org  
-   Link: [https://informalscience.org/identity/dan-kahan/](https://informalscience.org/identity/dan-kahan/)  
+   Link: <a href="https://informalscience.org/identity/dan-kahan/" target="_blank" rel="noopener noreferrer nofollow">https://informalscience.org/identity/dan-kahan/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity | Dan KahanDan Kahan&#x27;s identity-related work has focused on “identity protective cognition”, which refers to the tendency of ind...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: repository.cam.ac.uk  
-   Link: [https://www.repository.cam.ac.uk/items/fa35a87e-595f-4b64-aa44-3e9f2e8fdd76](https://www.repository.cam.ac.uk/items/fa35a87e-595f-4b64-aa44-3e9f2e8fdd76)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge RepositoryAccuracy and Social Motivations Shape Judgements of (Mis...by S Rathje · 2022 · Cited by 173 — Some theories focus o...</p></details>
+   Link: <a href="https://www.repository.cam.ac.uk/items/fa35a87e-595f-4b64-aa44-3e9f2e8fdd76" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/items/fa35a87e-595f-4b64-aa44-3e9f2e8fdd76</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>bridge RepositoryAccuracy and Social Motivations Shape Judgements of (Mis...by S Rathje · 2022 · Cited by 173 — Some theories focus o...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: fondationdescartes.org  
    Title: Fondation Descartes False ideas, fake information, and the logic of identity  
-   Link: [https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/](https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/)  
+   Link: <a href="https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/" target="_blank" rel="noopener noreferrer nofollow">https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>protection of cultural identity and its impact on the emergence of fake news... research team on major themes related to information and...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: repository.cam.ac.uk  
-   Link: [https://www.repository.cam.ac.uk/bitstreams/f897d791-4623-494b-8773-600bd44fb858/download](https://www.repository.cam.ac.uk/bitstreams/f897d791-4623-494b-8773-600bd44fb858/download)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge RepositoryThe Social Cognition of Misinformation and Implications for...by CS Traberg · 2025 — To examine the psychological un...</p></details>
+   Link: <a href="https://www.repository.cam.ac.uk/bitstreams/f897d791-4623-494b-8773-600bd44fb858/download" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/bitstreams/f897d791-4623-494b-8773-600bd44fb858/download</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>bridge RepositoryThe Social Cognition of Misinformation and Implications for...by CS Traberg · 2025 — To examine the psychological un...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/377292982_Updating_the_Identity-based_Model_of_Belief_From_False_Belief_to_the_Spread_of_Misinformation](https://www.researchgate.net/publication/377292982_Updating_the_Identity-based_Model_of_Belief_From_False_Belief_to_the_Spread_of_Misinformation)  
+   Link: <a href="https://www.researchgate.net/publication/377292982_Updating_the_Identity-based_Model_of_Belief_From_False_Belief_to_the_Spread_of_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377292982_Updating_the_Identity-based_Model_of_Belief_From_False_Belief_to_the_Spread_of_Misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Updating the Identity-based Model of Belief: From False...25 Apr 2026 — The identity-based model suggests that people spread misinformat...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf](https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf)  
+   Link: <a href="https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>individuals to selectively credit and dismiss evi- dence in patterns that reflect the...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/317999685_Misconceptions_Misinformation_and_the_Logic_of_Identity-Protective_Cognition](https://www.researchgate.net/publication/317999685_Misconceptions_Misinformation_and_the_Logic_of_Identity-Protective_Cognition)  
+   Link: <a href="https://www.researchgate.net/publication/317999685_Misconceptions_Misinformation_and_the_Logic_of_Identity-Protective_Cognition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317999685_Misconceptions_Misinformation_and_the_Logic_of_Identity-Protective_Cognition</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>emphasizes the role of group identity in shaping how individuals process information...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: elizabethsandelmd.com  
    Title: flying in the face of facts denialism anosognosia and the human brain  
-   Link: [https://elizabethsandelmd.com/insights/flying-in-the-face-of-facts-denialism-anosognosia-and-the-human-brain/](https://elizabethsandelmd.com/insights/flying-in-the-face-of-facts-denialism-anosognosia-and-the-human-brain/)  
+   Link: <a href="https://elizabethsandelmd.com/insights/flying-in-the-face-of-facts-denialism-anosognosia-and-the-human-brain/" target="_blank" rel="noopener noreferrer nofollow">https://elizabethsandelmd.com/insights/flying-in-the-face-of-facts-denialism-anosognosia-and-the-human-brain/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This irrational thinking is called motivated reasoning, a kind of reasoning that results...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pdfs.semanticscholar.org  
-   Link: [https://pdfs.semanticscholar.org/69b6/fb97529b86bc3b8f0f65d666aa987a1a91ed.pdf](https://pdfs.semanticscholar.org/69b6/fb97529b86bc3b8f0f65d666aa987a1a91ed.pdf)  
+   Link: <a href="https://pdfs.semanticscholar.org/69b6/fb97529b86bc3b8f0f65d666aa987a1a91ed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/69b6/fb97529b86bc3b8f0f65d666aa987a1a91ed.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Emotions and Identity-Protection Cognition...by M Wischnewski · 2021 · Cited by 17 — Previous studies about misinformation accep...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: dhi.ac.uk  
    Title: governance crone connelly 2016  
-   Link: [https://www.dhi.ac.uk/san/waysofbeing/data/governance-crone-connelly-2016.pdf](https://www.dhi.ac.uk/san/waysofbeing/data/governance-crone-connelly-2016.pdf)  
+   Link: <a href="https://www.dhi.ac.uk/san/waysofbeing/data/governance-crone-connelly-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhi.ac.uk/san/waysofbeing/data/governance-crone-connelly-2016.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The online presence of ideological groups has enabled the dissemination of group beliefs and ideas through a variety of new media.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/09515089.2024.2358089](https://www.tandfonline.com/doi/full/10.1080/09515089.2024.2358089)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09515089.2024.2358089" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09515089.2024.2358089</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Misinformation, observational equivalence and...by M van Doorn · 2025 · Cited by 3 — Nonetheless, these findings often dep...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10510974.2025.2515032](https://www.tandfonline.com/doi/full/10.1080/10510974.2025.2515032)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10510974.2025.2515032" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10510974.2025.2515032</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Interplay of Social Identity, Moral Framing, and Credibilityby H Song · 2026 · Cited by 1 — Extensive research has highlighted how po...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby Z Adams · 2023 · Cited by 127 — Most studies made reference to the effects of misinformation or fake news in their introduction as...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 127 — Most studies made reference to the effects of misinformation or fake news in their introduction as...</p></details>

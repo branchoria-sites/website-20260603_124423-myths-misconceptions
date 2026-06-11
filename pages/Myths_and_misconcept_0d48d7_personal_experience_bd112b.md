@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - anecdotes
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - anecdotes
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Many misconceptions begin when a real experience is stretched into a rule that evidence does not support.
 hero_summary: Many misconceptions begin when a real experience is stretched into a rule that evidence does not support.
 layout: default
 permalink: /anecdotes/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Anecdotes
 title: When Personal Experience Becomes a Myth
-title_full: When Personal Experience Becomes a Myth | Mythcraft
+title_full: When Personal Experience Becomes a Myth
 display_title_short: Anecdotes
 display_title: Anecdotes
 heading_title: When Personal Experience Becomes a Myth
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 next_link:
   basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
-date: '2026-06-09 04:05:44 '
+date: '2026-06-11 21:51:43 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b-overview.webp
@@ -503,9 +503,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b-ove
 
 Overgeneralising from personal experience is one of the most common ways a misconception begins. A person has a real experience, remembers it vividly, and then stretches it into a rule: “that treatment worked for me, so it works”, “I had a bad encounter with one person from that group, so they are all like that”, or “I ignored the warning once and nothing happened, so the warning is exaggerated”. The problem is not that the experience is fake. Often it is perfectly sincere. The mistake is treating one case, or a small cluster of cases, as if it can carry the weight of broader evidence.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b-overview.webp" | relative_url }}" alt="Overview image for Anecdotes" loading="eager" decoding="sync" fetchpriority="high">
-This matters because myths often grow from true fragments. Personal stories are memorable, emotionally persuasive and easy to share, while population-level evidence is slower, less vivid and harder to interpret. Research on judgement under uncertainty has long shown that people often lean on what comes easily to mind, what feels representative, or what fits an existing belief, even when the relevant evidence should include sample size, comparison groups and base rates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17835457/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedJudgment under Uncertainty: Heuristics and Biasesby A Tversky · 1974 · Cited by 58830 — This article described three heuristics tha...</span></span></span>
+This matters because myths often grow from true fragments. Personal stories are memorable, emotionally persuasive and easy to share, while population-level evidence is slower, less vivid and harder to interpret. Research on judgement under uncertainty has long shown that people often lean on what comes easily to mind, what feels representative, or what fits an existing belief, even when the relevant evidence should include sample size, comparison groups and base rates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17835457/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Judgment under Uncertainty: Heuristics and Biasesby A Tversky · 1974 · Cited by 58830 — This article described three heuristics tha...</span></span></span>
 
 ## Why anecdotes feel powerful
 
@@ -516,7 +515,6 @@ This is why personal experience can outrank better evidence in everyday reasonin
 The same pattern appears in studies of flawed science and medical choices. Research on science-related decision-making found that anecdotal evidence can become a strong barrier to evidence-based reasoning. A 2024 study also found that reading anecdotes about medical treatments shifted participants’ beliefs about treatment efficacy, including when the anecdotes concerned artificial or real treatments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhen and why do people act on flawed science?</span><span class="citation-popover-snippet">Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</span></span></span>
 
 The mechanism is simple but potent: a story supplies meaning before evidence has been weighed. Once a story feels like an explanation, later information is judged against it. If the story also fits someone’s existing worldview, group [identity]({{ 'identity/' | relative_url }}) or fears, it becomes even harder to treat it as merely one data point.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b-Illustration-1-dark.svg" | relative_url }}" alt="Anecdotes illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The limits of one case
@@ -531,14 +529,13 @@ The same caution applies to drug adverse-event reports. The US Food and Drug Adm
 
 That distinction is where many misconceptions begin. A real event is converted into a general rule before the basic evidential questions have been asked: How many cases are there? Compared with what? How were they selected? What else could explain the outcome? What happens when the claim is tested systematically?
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3IjIVD-KYF4" title="Kahneman and Tversky: How heuristics impact our judgment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3IjIVD-KYF4" target="_blank" rel="noopener noreferrer">Kahneman and Tversky: How heuristics impact our judgment</a></p><p class="youtube-embed-meta">Channel: Intermittent Diversion &middot; Views: 98.3K &middot; Uploaded: June 2018 &middot; Length: 4 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3IjIVD-KYF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3IjIVD-KYF4">Open on YouTube</a></p></div></div></div>
 
 ## How a real experience becomes a myth
 
 Personal experience usually becomes a myth through a chain of small reasoning shortcuts rather than one dramatic error. The experience is noticed, remembered, repeated and simplified until it becomes a portable rule.
 
-One common shortcut is the availability heuristic: people estimate frequency or likelihood partly by how easily examples come to mind. Tversky and Kahneman’s classic 1974 paper described availability as one of the heuristics people use when judging frequency and plausibility under uncertainty. This shortcut is useful in many ordinary situations, but it can mislead when memorable examples are not representative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17835457/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedJudgment under Uncertainty: Heuristics and Biasesby A Tversky · 1974 · Cited by 58830 — This article described three heuristics tha...</span></span></span>
+One common shortcut is the availability heuristic: people estimate frequency or likelihood partly by how easily examples come to mind. Tversky and Kahneman’s classic 1974 paper described availability as one of the heuristics people use when judging frequency and plausibility under uncertainty. This shortcut is useful in many ordinary situations, but it can mislead when memorable examples are not representative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17835457/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Judgment under Uncertainty: Heuristics and Biasesby A Tversky · 1974 · Cited by 58830 — This article described three heuristics tha...</span></span></span>
 
 Another shortcut is the “law of small numbers”: the tendency to expect [small samples]({{ 'small-samples/' | relative_url }}) to resemble the wider population more closely than they really do. Kahneman and Tversky argued that people often overestimate the stability and representativeness of small samples. In myth-making, this means a handful of striking cases can feel like a pattern even when they may be ordinary noise, coincidence or selection bias. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stats.org.uk">[stats.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stats.org.uk</span><span class="citation-popover-title">BELIE F IN THE LAW OF SMALL NUMBERS</span><span class="citation-popover-snippet">BELIEF IN THE LAW OF SMALL NUMBERS - Statisticsby A TVERSKY · 1971 · Cited by 5219 — We pro- posed a representation hypothesis according...</span></span></span>
 
@@ -554,7 +551,6 @@ The myth forms when these shortcuts combine:
 
 This is why correcting anecdote-based myths can be delicate. The experience may be real, painful or meaningful. The [correction]({{ 'correction/' | relative_url }}) is not “that did not happen”; it is “that happened, but it does not prove the wider rule being drawn from it”.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b-Illustration-2-dark.svg" | relative_url }}" alt="Anecdotes illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Personal experience is not useless
 
@@ -566,7 +562,6 @@ Personal experience also matters in communication. Research on science and lived
 
 The better rule is not “ignore anecdotes”. It is “put anecdotes in the right evidential role”. A story can suggest a possibility, illustrate a mechanism, identify a harm, or motivate a question. It becomes unreliable when it is asked to settle a claim about what is generally true.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jQXAsRsMl78" title="What is Anecdotal Evidence? (Easy Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jQXAsRsMl78" target="_blank" rel="noopener noreferrer">What is Anecdotal Evidence? (Easy Explanation)</a></p><p class="youtube-embed-meta">Channel: Social Science Explainer &middot; Views: 656 &middot; Uploaded: February 2025 &middot; Length: 3 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jQXAsRsMl78" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jQXAsRsMl78">Open on YouTube</a></p></div></div></div>
 
 ## Moving from story to evidence
@@ -574,7 +569,6 @@ The better rule is not “ignore anecdotes”. It is “put anecdotes in the rig
 The practical move is to keep the story, but change the question. Instead of asking “Did this happen to me or someone I know?”, ask “What would show whether this is common, causal and generalisable?”
 
 A useful evidence shift looks like this:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -590,7 +584,6 @@ This is why systematic evidence is so important for questions that affect health
 
 In everyday life, the same logic applies outside medicine. A teacher may remember one student who thrived under a harsh method, but that does not prove the method helps most students. A manager may trust an interview “gut feeling” because one past hire worked out, but that does not show the judgement method is reliable. A traveller may visit a city once, encounter rude service, and form a sweeping view of the place. Each case may be real; the myth begins when the case is promoted into a rule.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b-Illustration-3-dark.svg" | relative_url }}" alt="Anecdotes illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The fairest way to challenge anecdote-based myths
 
@@ -602,9 +595,7 @@ This approach also avoids a common trap in myth correction: replacing one overge
 
 The most reliable habit is to treat anecdotes as signals, not verdicts. A personal story can tell us where to look. It cannot, by itself, tell us what we will find when we look carefully.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wqtcTog8KZA" title="Base Rate Bias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wqtcTog8KZA" target="_blank" rel="noopener noreferrer">Base Rate Bias</a></p><p class="youtube-embed-meta">Channel: Ashley Hodgson &middot; Views: 6.5K &middot; Uploaded: October 2021 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wqtcTog8KZA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wqtcTog8KZA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1003,163 +994,163 @@ The most reliable habit is to treat anecdotes as signals, not verdicts. A person
 1. <a id="endnote-1"></a>
    Source: stats.org.uk  
    Title: BELIE F IN THE LAW OF SMALL NUMBERS  
-   Link: [https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf](https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf)  
+   Link: <a href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BELIEF IN THE LAW OF SMALL NUMBERS - Statisticsby A TVERSKY · 1971 · Cited by 5219 — We pro- posed a representation hypothesis according...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ideas.repec.org  
    Title: IDEAS/Re PEc When poignant stories outweigh cold hard facts: A meta  
-   Link: [https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html](https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html)  
+   Link: <a href="https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcWhen poignant stories outweigh cold hard facts: A meta...February 2, 2020 — by TH Freling · 2020 · Cited by 113 — The objecti...</p></details>
    Published: February 2, 2020  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhen and why do people act on flawed science?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/</a>  
 
 5. <a id="endnote-5"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/vaccine-safety-systems/vaers/index.html](https://www.cdc.gov/vaccine-safety-systems/vaers/index.html)  
+   Link: <a href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety-systems/vaers/index.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCan we shift belief in the 'Law of Small Numbers'?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9831339/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9831339/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9831339/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9831339/</a>  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7923648/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7923648/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7923648/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7923648/</a>  
 
 9. <a id="endnote-9"></a>
    Source: cochrane.org  
-   Link: [https://www.cochrane.org/](https://www.cochrane.org/)  
+   Link: <a href="https://www.cochrane.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/</a>  
 
 10. <a id="endnote-10"></a>
    Source: cochrane.org  
-   Link: [https://www.cochrane.org/about-us](https://www.cochrane.org/about-us)  
+   Link: <a href="https://www.cochrane.org/about-us" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us</a>  
 
 11. <a id="endnote-11"></a>
    Source: cochrane.org  
-   Link: [https://www.cochrane.org/products-and-services/cochrane-library](https://www.cochrane.org/products-and-services/cochrane-library)  
+   Link: <a href="https://www.cochrane.org/products-and-services/cochrane-library" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/products-and-services/cochrane-library</a>  
 
 12. <a id="endnote-12"></a>
    Source: cochrane.org  
-   Link: [https://www.cochrane.org/about-us/who-we-are/our-groups](https://www.cochrane.org/about-us/who-we-are/our-groups)  
+   Link: <a href="https://www.cochrane.org/about-us/who-we-are/our-groups" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/who-we-are/our-groups</a>  
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/17835457/](https://pubmed.ncbi.nlm.nih.gov/17835457/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedJudgment under Uncertainty: Heuristics and Biasesby A Tversky · 1974 · Cited by 58830 — This article described three heuristics tha...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17835457/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17835457/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Judgment under Uncertainty: Heuristics and Biasesby A Tversky · 1974 · Cited by 58830 — This article described three heuristics tha...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26209838/](https://pubmed.ncbi.nlm.nih.gov/26209838/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26209838/</a>  
 
 15. <a id="endnote-15"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/fda-adverse-event-monitoring-system-aems-public-dashboard](https://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/fda-adverse-event-monitoring-system-aems-public-dashboard)  
+   Link: <a href="https://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/fda-adverse-event-monitoring-system-aems-public-dashboard" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/fda-adverse-event-monitoring-system-aems-public-dashboard</a>  
 
 16. <a id="endnote-16"></a>
    Source: publichealth.jhu.edu  
    Title: what vaers is and isnt  
-   Link: [https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt](https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt)  
+   Link: <a href="https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt" target="_blank" rel="noopener noreferrer nofollow">https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt</a>  
 
 17. <a id="endnote-17"></a>
    Source: fda.gov  
    Title: vaccine adverse event reporting system vaers questions and answers  
-   Link: [https://www.fda.gov/[vaccines](https://www.fda.gov/[vaccines)  
+   Link: <a href="https://www.fda.gov/[vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/[vaccines</a>  
 
 18. <a id="endnote-18"></a>
    Source: thedecisionlab.com  
    Title: Availability Heuristic  
-   Link: [https://thedecisionlab.com/biases/availability-heuristic](https://thedecisionlab.com/biases/availability-heuristic)  
+   Link: <a href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/availability-heuristic</a>  
 
 19. <a id="endnote-19"></a>
    Source: cochranelibrary.com  
-   Link: [https://www.cochranelibrary.com/](https://www.cochranelibrary.com/)  
+   Link: <a href="https://www.cochranelibrary.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.cochranelibrary.com/</a>  
 
 20. <a id="endnote-20"></a>
    Source: cochranelibrary.com  
-   Link: [https://www.cochranelibrary.com/advanced-search](https://www.cochranelibrary.com/advanced-search)  
+   Link: <a href="https://www.cochranelibrary.com/advanced-search" target="_blank" rel="noopener noreferrer nofollow">https://www.cochranelibrary.com/advanced-search</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Anecdotal evidence  
-   Link: [https://en.wikipedia.org/wiki/Anecdotal_evidence](https://en.wikipedia.org/wiki/Anecdotal_evidence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Availability heuristic  
-   Link: [https://en.wikipedia.org/wiki/Availability_heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Availability_heuristic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Availability_heuristic</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Cochrane (organisation)  
-   Link: [https://en.wikipedia.org/wiki/Cochrane_%28organisation%29](https://en.wikipedia.org/wiki/Cochrane_%28organisation%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cochrane_%28organisation%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cochrane_%28organisation%29</a>  
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/user/CochraneCollab](https://www.youtube.com/user/CochraneCollab)  
+   Link: <a href="https://www.youtube.com/user/CochraneCollab" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/CochraneCollab</a>  
 
 25. <a id="endnote-25"></a>
    Source: vaers.hhs.gov  
-   Link: [https://vaers.hhs.gov/data.html](https://vaers.hhs.gov/data.html)  
+   Link: <a href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/data.html</a>  
 
 26. <a id="endnote-26"></a>
    Source: uk.linkedin.com  
-   Link: [https://uk.linkedin.com/company/cochrane](https://uk.linkedin.com/company/cochrane)  
+   Link: <a href="https://uk.linkedin.com/company/cochrane" target="_blank" rel="noopener noreferrer nofollow">https://uk.linkedin.com/company/cochrane</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: science.org  
    Title: antivaccine activists use government database side effects scare public  
-   Link: [https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public](https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public)  
+   Link: <a href="https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Danger of Small Sample Sizes and Personal Experience  
-   Link: [https://www.youtube.com/watch?v=gT-824_v1Xg](https://www.youtube.com/watch?v=gT-824_v1Xg)  
+   Link: <a href="https://www.youtube.com/watch?v=gT-824_v1Xg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gT-824_v1Xg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Cognitive Biases Distort Our Reality...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/226764072_Anecdotal_Statistical_and_Causal_Evidence_Their_Perceived_and_Actual_Persuasiveness](https://www.researchgate.net/publication/226764072_Anecdotal_Statistical_and_Causal_Evidence_Their_Perceived_and_Actual_Persuasiveness)  
+   Link: <a href="https://www.researchgate.net/publication/226764072_Anecdotal_Statistical_and_Causal_Evidence_Their_Perceived_and_Actual_Persuasiveness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226764072_Anecdotal_Statistical_and_Causal_Evidence_Their_Perceived_and_Actual_Persuasiveness</a>  
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/380077387_Base_Rate_Neglect_Bias_Can_it_be_Observed_in_HRM_Decisions_and_Can_it_be_Decreased_by_Visually_Presenting_the_Base_Rates_in_HRM_Decisions](https://www.researchgate.net/publication/380077387_Base_Rate_Neglect_Bias_Can_it_be_Observed_in_HRM_Decisions_and_Can_it_be_Decreased_by_Visually_Presenting_the_Base_Rates_in_HRM_Decisions)  
+   Link: <a href="https://www.researchgate.net/publication/380077387_Base_Rate_Neglect_Bias_Can_it_be_Observed_in_HRM_Decisions_and_Can_it_be_Decreased_by_Visually_Presenting_the_Base_Rates_in_HRM_Decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380077387_Base_Rate_Neglect_Bias_Can_it_be_Observed_in_HRM_Decisions_and_Can_it_be_Decreased_by_Visually_Presenting_the_Base_Rates_in_HRM_Decisions</a>  
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/353730747_The_influence_of_design_on_flower_personality_the_moderating_role_of_human_personality](https://www.researchgate.net/publication/353730747_The_influence_of_design_on_flower_personality_the_moderating_role_of_human_personality)  
+   Link: <a href="https://www.researchgate.net/publication/353730747_The_influence_of_design_on_flower_personality_the_moderating_role_of_human_personality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353730747_The_influence_of_design_on_flower_personality_the_moderating_role_of_human_personality</a>  
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/369977297_Revisiting_the_Belief_in_the_law_of_small_numbers_Conceptual_replication_and_extensions_Registered_Report_of_problems_reviewed_in_Tversky_and_Kahneman_1971](https://www.researchgate.net/publication/369977297_Revisiting_the_Belief_in_the_law_of_small_numbers_Conceptual_replication_and_extensions_Registered_Report_of_problems_reviewed_in_Tversky_and_Kahneman_1971)  
+   Link: <a href="https://www.researchgate.net/publication/369977297_Revisiting_the_Belief_in_the_law_of_small_numbers_Conceptual_replication_and_extensions_Registered_Report_of_problems_reviewed_in_Tversky_and_Kahneman_1971" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369977297_Revisiting_the_Belief_in_the_law_of_small_numbers_Conceptual_replication_and_extensions_Registered_Report_of_problems_reviewed_in_Tversky_and_Kahneman_1971</a>  
 
 33. <a id="endnote-33"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/pubs/databases/psycbooks/psycbooks-sample-counseling-titles-toc.pdf](https://www.apa.org/pubs/databases/psycbooks/psycbooks-sample-counseling-titles-toc.pdf)  
+   Link: <a href="https://www.apa.org/pubs/databases/psycbooks/psycbooks-sample-counseling-titles-toc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/databases/psycbooks/psycbooks-sample-counseling-titles-toc.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/](https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/)  
+   Link: <a href="https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/</a>  
 
 35. <a id="endnote-35"></a>
    Source: simplypsychology.org  
-   Link: [https://www.simplypsychology.org/base-rate-fallacy.html](https://www.simplypsychology.org/base-rate-fallacy.html)  
+   Link: <a href="https://www.simplypsychology.org/base-rate-fallacy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/base-rate-fallacy.html</a>  
 
 36. <a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/321222805_The_business_of_blogging_Effective_approaches_of_women_food_bloggers](https://www.researchgate.net/publication/321222805_The_business_of_blogging_Effective_approaches_of_women_food_bloggers)  
+   Link: <a href="https://www.researchgate.net/publication/321222805_The_business_of_blogging_Effective_approaches_of_women_food_bloggers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321222805_The_business_of_blogging_Effective_approaches_of_women_food_bloggers</a>

@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_training_cuts_learni_e9cba9
 - Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_wellcome_learning_st_d7ba60
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - teacher-belief
 - learner-labels
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - teacher-belief
 - learner-labels
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Calling a pupil a visual or auditory learner can turn a weak theory into a fixed label that narrows effort and strategy.
 hero_summary: Calling a pupil a visual or auditory learner can turn a weak theory into a fixed label that narrows effort and strategy.
 layout: default
 permalink: /learner-labels/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /teacher-belief/
 nav_short_title: Learner labels
 title: The hidden risk of learner labels
-title_full: The hidden risk of learner labels | Teacher Belief
+title_full: The hidden risk of learner labels
 display_title_short: Learner labels
 display_title: Learner labels
 heading_title: The hidden risk of learner labels
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Common Is Belief in Learning Styles? | Mythcraft
+parent_title: How Common Is Belief in Learning Styles?
 parent_permalink: /teacher-belief/
 parent_nav_short_title: Teacher Belief
 parent_heading_title: How Common Is Belief in Learning Styles?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why new teachers still inherit learning styles
 up_link:
   basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
@@ -265,7 +265,7 @@ next_link:
   permalink: /reported-use/
   short_title: Reported use
   heading_title: When belief becomes classroom routine
-date: '2026-06-09 05:22:22 '
+date: '2026-06-11 22:30:15 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-1.webp
@@ -274,20 +274,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_le
 
 ## Introduction
 
-One of the less discussed problems with learning-styles theory is not whether pupils have preferences, but what happens when those preferences become identities. If a child is repeatedly described as a “visual learner”, “auditory learner” or “kinaesthetic learner”, a tentative idea about learning can harden into a label. The risk is that the label begins to shape expectations—those of teachers, parents and the pupils themselves. Research has found little evidence that matching instruction to a supposed learning style improves learning outcomes, yet the practice of categorising learners remains widespread. Critics argue that the greater danger may be psychological and educational: labels can narrow what pupils believe they can do and what others expect them to achieve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The basic idea behind the use of &#x27;Lea...</span></span></span>
-
+One of the less discussed problems with learning-styles theory is not whether pupils have preferences, but what happens when those preferences become identities. If a child is repeatedly described as a “visual learner”, “auditory learner” or “kinaesthetic learner”, a tentative idea about learning can harden into a label. The risk is that the label begins to shape expectations—those of teachers, parents and the pupils themselves. Research has found little evidence that matching instruction to a supposed learning style improves learning outcomes, yet the practice of categorising learners remains widespread. Critics argue that the greater danger may be psychological and educational: labels can narrow what pupils believe they can do and what others expect them to achieve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The basic idea behind the use of &#x27;Lea...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-1-dark.svg" | relative_url }}" alt="Learner labels illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why labels can feel supportive at first
 
 The appeal of learner labels is easy to understand. They appear to recognise individual differences and offer a reassuring message that every child can succeed in their own way. A pupil who struggles with reading-heavy lessons may feel understood when told they are a “visual learner”, while a teacher may see the label as a route to more personalised teaching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evidencebased.education">[Evidence Based Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evidencebased.education</span><span class="citation-popover-title">the lingering learning styles myth</span><span class="citation-popover-snippet">Evidence Based EducationThe lingering &#x27;learning styles&#x27; myth5 Aug 2024 — &#x27;Learning styles&#x27; refers to the belief that individuals can be c...</span></span></span>
 
-The problem is that the label often sounds more scientific and stable than the evidence justifies. Learning-style frameworks typically suggest that learners belong to identifiable categories and learn best when teaching matches those categories. Major reviews of the evidence have repeatedly concluded that support for this [matching claim]({{ 'matching-claim/' | relative_url }}) is lacking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Pashler McDaniel Rohrer Bjork 2009 PSPI</span><span class="citation-popover-snippet">Bjork Learning and Forgetting LabLearning Stylesby H Pashler · Cited by 5025 — The learning-styles view has acquired great influence with...</span></span></span>
+The problem is that the label often sounds more scientific and stable than the evidence justifies. Learning-style frameworks typically suggest that learners belong to identifiable categories and learn best when teaching matches those categories. Major reviews of the evidence have repeatedly concluded that support for this [matching claim]({{ 'matching-claim/' | relative_url }}) is lacking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Pashler McDaniel Rohrer Bjork 2009 PSPI</span><span class="citation-popover-snippet">Bjork Learning and Forgetting LabLearning Stylesby H Pashler · Cited by 5025 — The learning-styles view has acquired great influence with...</span></span></span>
 
 As a result, what begins as an attempt to respect individuality can unintentionally communicate something stronger: that a pupil has a fixed way of learning and that other approaches are less suitable for them.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M7UyUfOXHug" title="xTalk Oct. 10, 2018: The Cognitive Science of Teaching and Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M7UyUfOXHug" target="_blank" rel="noopener noreferrer">xTalk Oct. 10, 2018: The Cognitive Science of Teaching and Learning</a></p><p class="youtube-embed-meta">Channel: MIT Residential Education in Open Learning</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M7UyUfOXHug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M7UyUfOXHug">Open on YouTube</a></p></div></div></div>
 
 ## How labels may restrict effort and strategy
 
@@ -299,9 +295,6 @@ This matters because successful learning often requires flexibility. Different s
 
 Researchers associated with educational neuroscience have also highlighted the danger that labelling children as a particular type of learner may restrict their self-[identity]({{ 'identity/' | relative_url }}). Instead of seeing themselves as capable of developing new skills, pupils may come to see themselves as belonging to a narrow category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[educationalneuroscience.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Children have different learning stylesTwo major difficulties with the use of learning styles in schools are that labelling children as a...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhgwIhB58PA" title="The Biggest Myth In Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer">The Biggest Myth In Education</a></p><p class="youtube-embed-meta">Channel: Veritasium</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhgwIhB58PA">Open on YouTube</a></p></div></div></div>
-
 ## When labels influence expectations
 
 The concern extends beyond pupils' self-perceptions. Labels can influence how adults interpret ability.
@@ -310,27 +303,22 @@ A large body of research on teacher expectations shows that expectations can aff
 
 Learning-style labels create a pathway through which such expectations can emerge. Once a pupil is categorised, adults may begin making assumptions about what that pupil finds difficult, what tasks suit them or how far they can progress. The label may not be intended as a judgement of ability, but it can become one in practice.
 
-Recent research has raised concerns that learning-style categories are not perceived neutrally. A 2023 study found that children, parents and teachers associated different learning-style labels with different expectations about intelligence and future success. Pupils described as “visual learners” were often viewed more favourably in academic contexts than those described as “hands-on” learners, even though the labels themselves are not measures of ability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41539-023-00190-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureBeware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — Educators&#x27; beliefs about whether in...</span></span></span>
+Recent research has raised concerns that learning-style categories are not perceived neutrally. A 2023 study found that children, parents and teachers associated different learning-style labels with different expectations about intelligence and future success. Pupils described as “visual learners” were often viewed more favourably in academic contexts than those described as “hands-on” learners, even though the labels themselves are not measures of ability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41539-023-00190-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Beware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — Educators&#x27; beliefs about whether in...</span></span></span>
 
 This illustrates how a classification system can quietly acquire status rankings that were never part of the original theory.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-2-dark.svg" | relative_url }}" alt="Learner labels illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The self-fulfilling prophecy problem
 
 The mechanism linking labels and outcomes is often described as a self-fulfilling prophecy.
 
-The process does not require overt discrimination. A teacher who believes a pupil learns mainly through movement may provide fewer opportunities for advanced reading tasks. A parent who accepts that a child is “not an auditory learner” may be less likely to encourage activities that rely on listening and verbal reasoning. The pupil then receives less practice in those areas and may perform less well, seemingly confirming the original label. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s12144-021-02250-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springerhow learning disorder labels affect teacher student&#x27;s...by DJ Franz · 2023 · Cited by 19 — One process possibly associated with...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S095947521930177X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSelf-fulfilling prophecies in the classroom: Teacher...by S Gentrup · 2020 · Cited by 539 — This study investigated the lin...</span></span></span>, the issue is not that all labels inevitably cause harm. Students can reject labels, exceed expectations and develop in unexpected ways. However, decades of research on educational labelling show that classifications can influence [confidence]({{ 'confidence/' | relative_url }}), participation and achievement when they become embedded in everyday interactions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/labelling-theory-education.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Simply PsychologyLabelling Theory (Education)by S McLeod — This theory shows that pupil responses to schools are not straightforward, and...</span></span></span> ReviseSociology The concern is therefore probabilistic rather than deterministic: learner labels increase the risk that expectations become narrower than the <span class="citation-chip-wrap"><a class="citation-chip" href="https://revisesociology.com/2017/11/01/labelling-self-fulfilling-prophecy-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revisesociology.com">[revisesociology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revisesociology.com</span><span class="citation-popover-title">labelling self fulfilling prophecy education</span><span class="citation-popover-snippet">Labelling Theory in Sociology &amp; the Self-Fulfilling Prophecy1 Nov 2017 — This post explores the relationship between labelling theory and...</span></span></span> learner's actual potential.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gOfLS0RC2k8" title="Teachers Talk Radio - The Science of Learning Controversy: The Sunday Lunch Show with Graham Stanley" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gOfLS0RC2k8" target="_blank" rel="noopener noreferrer">Teachers Talk Radio - The Science of Learning Controversy: The Sunday Lunch Show with Graham Stanley</a></p><p class="youtube-embed-meta">Channel: Teachers Talk Radio</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gOfLS0RC2k8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gOfLS0RC2k8">Open on YouTube</a></p></div></div></div>
+The process does not require overt discrimination. A teacher who believes a pupil learns mainly through movement may provide fewer opportunities for advanced reading tasks. A parent who accepts that a child is “not an auditory learner” may be less likely to encourage activities that rely on listening and verbal reasoning. The pupil then receives less practice in those areas and may perform less well, seemingly confirming the original label. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s12144-021-02250-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">how learning disorder labels affect teacher student&#x27;s...by DJ Franz · 2023 · Cited by 19 — One process possibly associated with...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S095947521930177X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-fulfilling prophecies in the classroom: Teacher...by S Gentrup · 2020 · Cited by 539 — This study investigated the lin...</span></span></span>, the issue is not that all labels inevitably cause harm. Students can reject labels, exceed expectations and develop in unexpected ways. However, decades of research on educational labelling show that classifications can influence [confidence]({{ 'confidence/' | relative_url }}), participation and achievement when they become embedded in everyday interactions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/labelling-theory-education.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Simply PsychologyLabelling Theory (Education)by S McLeod — This theory shows that pupil responses to schools are not straightforward, and...</span></span></span> ReviseSociology The concern is therefore probabilistic rather than deterministic: learner labels increase the risk that expectations become narrower than the <span class="citation-chip-wrap"><a class="citation-chip" href="https://revisesociology.com/2017/11/01/labelling-self-fulfilling-prophecy-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revisesociology.com">[revisesociology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revisesociology.com</span><span class="citation-popover-title">labelling self fulfilling prophecy education</span><span class="citation-popover-snippet">Labelling Theory in Sociology &amp; the Self-Fulfilling Prophecy1 Nov 2017 — This post explores the relationship between labelling theory and...</span></span></span> learner's actual potential.
 
 ## Better ways to talk about individual differences
 
 Rejecting learning-style labels does not require pretending that all pupils are identical. Learners differ in prior knowledge, motivation, interests, confidence, language background and many other factors that affect learning. The question is how those differences should be described.
 
 A more productive approach is to talk about strategies, strengths and current needs rather than fixed learner types. For example:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -345,7 +333,6 @@ These descriptions focus on what helps now rather than on what a learner permane
 Many researchers and evidence-informed education organisations recommend exposing pupils to multiple ways of engaging with information while helping them develop adaptable learning strategies. The emphasis shifts from “What type of learner are you?” to “What approach works best for this task, and how can you expand your toolkit?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evidencebased.education">[Evidence Based Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evidencebased.education</span><span class="citation-popover-title">the lingering learning styles myth</span><span class="citation-popover-snippet">Evidence Based EducationThe lingering &#x27;learning styles&#x27; myth5 Aug 2024 — &#x27;Learning styles&#x27; refers to the belief that individuals can be c...</span></span></span>
 
 This framing avoids turning preferences into identities. It encourages pupils to see learning ability as something that can grow and change, rather than something determined by a category assigned to them early in their education. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.structural-learning.com/post/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: structural-learning.com">[Structural Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">structural-learning.com</span><span class="citation-popover-snippet">What Research Showsby P Main · 2026 · Cited by 2 — Labelling learners according to a specific learning style can be detrimental to their...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-3-dark.svg" | relative_url }}" alt="Learner labels illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The key lesson
@@ -748,138 +735,138 @@ The strongest criticism of learner labels is not merely that the learning-styles
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The basic idea behind the use of &#x27;Lea...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The basic idea behind the use of &#x27;Lea...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles</a>  
 
 3. <a id="endnote-3"></a>
    Source: structural-learning.com  
-   Link: [https://www.structural-learning.com/post/learning-styles](https://www.structural-learning.com/post/learning-styles)  
+   Link: <a href="https://www.structural-learning.com/post/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/learning-styles</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Research Showsby P Main · 2026 · Cited by 2 — Labelling learners according to a specific learning style can be detrimental to their...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Children have different learning stylesTwo major difficulties with the use of learning styles in schools are that labelling children as a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S095947521930177X](https://www.sciencedirect.com/science/article/pii/S095947521930177X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSelf-fulfilling prophecies in the classroom: Teacher...by S Gentrup · 2020 · Cited by 539 — This study investigated the lin...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S095947521930177X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S095947521930177X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-fulfilling prophecies in the classroom: Teacher...by S Gentrup · 2020 · Cited by 539 — This study investigated the lin...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: fis.uni-bamberg.de  
-   Link: [https://fis.uni-bamberg.de/bitstreams/11431983-7227-4134-ae4e-693996888ab1/download](https://fis.uni-bamberg.de/bitstreams/11431983-7227-4134-ae4e-693996888ab1/download)  
+   Link: <a href="https://fis.uni-bamberg.de/bitstreams/11431983-7227-4134-ae4e-693996888ab1/download" target="_blank" rel="noopener noreferrer nofollow">https://fis.uni-bamberg.de/bitstreams/11431983-7227-4134-ae4e-693996888ab1/download</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-fulfilling prophecies in the classroomby S Gentrup · 2020 · Cited by 539 — This study investigated the link between teacher expectat...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41539-023-00190-x](https://www.nature.com/articles/s41539-023-00190-x)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureBeware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — Educators&#x27; beliefs about whether in...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41539-023-00190-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41539-023-00190-x</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — Educators&#x27; beliefs about whether in...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s12144-021-02250-0](https://link.springer.com/article/10.1007/s12144-021-02250-0)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springerhow learning disorder labels affect teacher student&#x27;s...by DJ Franz · 2023 · Cited by 19 — One process possibly associated with...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s12144-021-02250-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12144-021-02250-0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>how learning disorder labels affect teacher student&#x27;s...by DJ Franz · 2023 · Cited by 19 — One process possibly associated with...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: revisesociology.com  
    Title: labelling self fulfilling prophecy education  
-   Link: [https://revisesociology.com/2017/11/01/labelling-self-fulfilling-prophecy-education/](https://revisesociology.com/2017/11/01/labelling-self-fulfilling-prophecy-education/)  
+   Link: <a href="https://revisesociology.com/2017/11/01/labelling-self-fulfilling-prophecy-education/" target="_blank" rel="noopener noreferrer nofollow">https://revisesociology.com/2017/11/01/labelling-self-fulfilling-prophecy-education/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Labelling Theory in Sociology &amp; the Self-Fulfilling Prophecy1 Nov 2017 — This post explores the relationship between labelling theory and...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2590291120300061](https://www.sciencedirect.com/science/article/pii/S2590291120300061)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590291120300061" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590291120300061</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An integrative debate on learning styles and the...by LA Dantas · 2020 · Cited by 288 — This paper aims to present a contribution to the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26162104/](https://pubmed.ncbi.nlm.nih.gov/26162104/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26162104/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: evidencebased.education  
    Title: the lingering learning styles myth  
-   Link: [https://evidencebased.education/resource/the-lingering-learning-styles-myth/](https://evidencebased.education/resource/the-lingering-learning-styles-myth/)  
+   Link: <a href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow">https://evidencebased.education/resource/the-lingering-learning-styles-myth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence Based EducationThe lingering &#x27;learning styles&#x27; myth5 Aug 2024 — &#x27;Learning styles&#x27; refers to the belief that individuals can be c...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bjorklab.psych.ucla.edu  
    Title: Pashler McDaniel Rohrer Bjork 2009 PSPI  
-   Link: [https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf](https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf)  
+   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork Learning and Forgetting LabLearning Stylesby H Pashler · Cited by 5025 — The learning-styles view has acquired great influence with...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: educationnext.org  
-   Link: [https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/](https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/)  
+   Link: <a href="https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Education NextThe Stubborn Myth of “Learning Styles”7 Apr 2020 — Students may act on their label. If a student believes she or he has a p...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Learning styles  
-   Link: [https://en.wikipedia.org/wiki/Learning_styles](https://en.wikipedia.org/wiki/Learning_styles)  
+   Link: <a href="https://en.wikipedia.org/wiki/Learning_styles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Learning_styles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning stylesLearning styles refer to a range of theories that aim to account for differences in individuals&#x27; learning.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: simplypsychology.org  
-   Link: [https://www.simplypsychology.org/labelling-theory-education.html](https://www.simplypsychology.org/labelling-theory-education.html)  
+   Link: <a href="https://www.simplypsychology.org/labelling-theory-education.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/labelling-theory-education.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyLabelling Theory (Education)by S McLeod — This theory shows that pupil responses to schools are not straightforward, and...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/gb/701841338/teacher-labelling-and-the-self-fulfilling-prophecy-flash-cards/](https://quizlet.com/gb/701841338/teacher-labelling-and-the-self-fulfilling-prophecy-flash-cards/)  
+   Link: <a href="https://quizlet.com/gb/701841338/teacher-labelling-and-the-self-fulfilling-prophecy-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/701841338/teacher-labelling-and-the-self-fulfilling-prophecy-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Teacher Labelling and the self-fulfilling prophecy FlashcardsRosenthal and Jacobson speculated that the teachers had passed on their high...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: techlearning.com  
-   Link: [https://www.techlearning.com/news/busting-the-myth-of-learning-styles](https://www.techlearning.com/news/busting-the-myth-of-learning-styles)  
+   Link: <a href="https://www.techlearning.com/news/busting-the-myth-of-learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.techlearning.com/news/busting-the-myth-of-learning-styles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite its deep-rooted presence in education, numerous studies, including those by Polly R. Husmann and Daniel T. Willingham, have found...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: swansea.ac.uk  
-   Link: [https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php](https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php)  
+   Link: <a href="https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php" target="_blank" rel="noopener noreferrer nofollow">https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New review says ineffective &#x27;learning styles&#x27; theory persists...6 Jan 2021 — A new review by Swansea University reveals there is widespr...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: avadolearning.com  
-   Link: [https://www.avadolearning.com/blog/the-7-different-learning-styles-and-what-they-mean/](https://www.avadolearning.com/blog/the-7-different-learning-styles-and-what-they-mean/)  
+   Link: <a href="https://www.avadolearning.com/blog/the-7-different-learning-styles-and-what-they-mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.avadolearning.com/blog/the-7-different-learning-styles-and-what-they-mean/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual, Kinaesthetic, Aural, Social, Solitary, Verbal, Logical. Author Profile Picture. Avado.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: visible-learning.org  
-   Link: [https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/](https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/)  
+   Link: <a href="https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/" target="_blank" rel="noopener noreferrer nofollow">https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n; it has approximately 200 group structures that go from simple to complex (Numbered...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: slideshare.net  
-   Link: [https://www.slideshare.net/slideshow/labelling-and-selffulfilling-prophecy/30747874](https://www.slideshare.net/slideshow/labelling-and-selffulfilling-prophecy/30747874)  
+   Link: <a href="https://www.slideshare.net/slideshow/labelling-and-selffulfilling-prophecy/30747874" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/labelling-and-selffulfilling-prophecy/30747874</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and their behavior and performance conform to teacher expectations.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: nifdi.org  
    Title: Learning Styles: Is it learner modality?  
-   Link: [https://www.nifdi.org/resources/hempenstall-blog/401-content-modality-or-learner-modality-various-quotes-on-learning-styles](https://www.nifdi.org/resources/hempenstall-blog/401-content-modality-or-learner-modality-various-quotes-on-learning-styles)  
+   Link: <a href="https://www.nifdi.org/resources/hempenstall-blog/401-content-modality-or-learner-modality-various-quotes-on-learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/resources/hempenstall-blog/401-content-modality-or-learner-modality-various-quotes-on-learning-styles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Or Content...6 Nov 2013 — The idea of learning styles is that there are stable, consistent methods that individuals take in, organize, p...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: carlhendrick.substack.com  
    Title: the learning styles illusion [debunking](&#123;&#123; 'debunking/' | relative_url &#125;&#125;)  
-   Link: [https://carlhendrick.substack.com/p/the-learning-styles-illusion-debunking](https://carlhendrick.substack.com/p/the-learning-styles-illusion-debunking)  
+   Link: <a href="https://carlhendrick.substack.com/p/the-learning-styles-illusion-debunking" target="_blank" rel="noopener noreferrer nofollow">https://carlhendrick.substack.com/p/the-learning-styles-illusion-debunking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning Styles Myth Persists And How It Damages...New paper shows that learning style labels create harmful educational hierarchies...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1595027954050806/posts/2274711049415823/](https://www.facebook.com/groups/1595027954050806/posts/2274711049415823/)  
+   Link: <a href="https://www.facebook.com/groups/1595027954050806/posts/2274711049415823/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1595027954050806/posts/2274711049415823/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>g according to their supposed learning style.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: teachermagazine.com  
    Title: tackling the learning styles myth  
-   Link: [https://www.teachermagazine.com/au_en/articles/tackling-the-learning-styles-myth](https://www.teachermagazine.com/au_en/articles/tackling-the-learning-styles-myth)  
+   Link: <a href="https://www.teachermagazine.com/au_en/articles/tackling-the-learning-styles-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.teachermagazine.com/au_en/articles/tackling-the-learning-styles-myth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tackling the &#x27;learning styles&#x27; mythby T Vaughan · 2017 · Cited by 4 — The common myth for learning styles as an effective teaching and le...</p></details>

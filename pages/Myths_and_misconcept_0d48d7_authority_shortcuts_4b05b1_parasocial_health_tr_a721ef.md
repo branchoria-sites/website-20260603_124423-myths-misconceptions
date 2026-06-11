@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8
 - Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_viral_likes_false_cr_451d1d
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - influencers
 - felt-trust
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - influencers
 - felt-trust
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A familiar creator can make health advice feel personal and caring even when the claim needs medical expertise.
 hero_summary: A familiar creator can make health advice feel personal and caring even when the claim needs medical expertise.
 layout: default
 permalink: /felt-trust/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /influencers/
 nav_short_title: Felt Trust
 title: Why Influencer Health Advice Feels Personal
-title_full: Why Influencer Health Advice Feels Personal | Influencers
+title_full: Why Influencer Health Advice Feels Personal
 display_title_short: Felt Trust
 display_title: Felt Trust
 heading_title: Why Influencer Health Advice Feels Personal
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Authority Shortcuts Spread Myths | Mythcraft
+parent_title: When Authority Shortcuts Spread Myths
 parent_permalink: /influencers/
 parent_nav_short_title: Influencers
 parent_heading_title: When Authority Shortcuts Spread Myths
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Likes Make Myths Look True
 up_link:
   basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
@@ -265,7 +265,7 @@ next_link:
   permalink: /lane-drift/
   short_title: Lane Drift
   heading_title: When Trusted Influencers Leave Their Lane
-date: '2026-06-09 04:37:39 '
+date: '2026-06-11 22:08:27 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-1.webp
@@ -276,9 +276,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_par
 
 [Health myths]({{ 'health-myths/' | relative_url }}) often spread not because an influencer sounds scientific, but because they sound familiar. Many followers develop a sense of personal connection with creators they watch every day. When that creator discusses diet, supplements, hormones, mental health, [vaccines]({{ 'vaccines/' | relative_url }}), fertility, or chronic illness, the advice can feel less like information from a stranger and more like guidance from a trusted friend. This one-sided sense of closeness is known as a parasocial relationship. Research suggests that parasocial bonds can increase trust, engagement, and willingness to act on recommendations, making them a powerful pathway through which health misconceptions circulate online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parasocial interaction</span><span class="citation-popover-snippet">Parasocial interaction</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-1-dark.svg" | relative_url }}" alt="Felt Trust illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader problem of [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}), parasocial trust matters because it changes how people evaluate evidence. Instead of asking whether a claim is supported by medical research, followers may unconsciously ask whether they trust the person delivering it. That shift can make anecdotal stories feel more persuasive than [expert consensus]({{ 'false-balance-0e8d1b/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealthpost.org/mental-behavioral-health/familiar-faces-risky-choices-parasocial-relationships-and-health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthpost.org">[Public Health Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthpost.org</span><span class="citation-popover-title">familiar faces risky choices parasocial relationships and health</span><span class="citation-popover-snippet">Public Health PostFamiliar Faces, Risky Choices: Parasocial Relationships...Apr 3, 2026 — Polished aesthetics, repeated exposure, and la...</span></span></span>
+Within the broader problem of myths and misconceptions, parasocial trust matters because it changes how people evaluate evidence. Instead of asking whether a claim is supported by medical research, followers may unconsciously ask whether they trust the person delivering it. That shift can make anecdotal stories feel more persuasive than expert consensus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealthpost.org/mental-behavioral-health/familiar-faces-risky-choices-parasocial-relationships-and-health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthpost.org">[Public Health Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthpost.org</span><span class="citation-popover-title">familiar faces risky choices parasocial relationships and health</span><span class="citation-popover-snippet">Public Health PostFamiliar Faces, Risky Choices: Parasocial Relationships...Apr 3, 2026 — Polished aesthetics, repeated exposure, and la...</span></span></span>
 
 ## How One-Sided Familiarity Builds Trust
 
@@ -295,12 +294,11 @@ The result is that trust may be transferred from the influencer's personality to
 
 A notable concern is that social media [platforms]({{ 'platforms/' | relative_url }}) reward engagement rather than accuracy. Research examining nutrition content on TikTok found that highly engaging content was not necessarily more accurate or evidence-based. This means that emotionally compelling health messages can outperform careful, scientifically grounded explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHelpful or harmful?</span><span class="citation-popover-snippet">Navigating the impact of social media...by J Kaňková · 2024 · Cited by 50 — The findings underscore the importance of expanding health c...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/haJQAtaqI8Q" title="Parasocial Relationships Are Out of Control…" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=haJQAtaqI8Q" target="_blank" rel="noopener noreferrer">Parasocial Relationships Are Out of Control…</a></p><p class="youtube-embed-meta">Channel: Susannah Friesen &middot; Views: 697.3K &middot; Uploaded: September 2025 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=haJQAtaqI8Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=haJQAtaqI8Q">Open on YouTube</a></p></div></div></div>
 
 ## Where Lived Experience Stops Being Expertise
 
-[Personal experience]({{ 'anecdotes/' | relative_url }}) can be valuable. Patients often learn practical coping strategies from others who have faced similar health challenges. The problem arises when experience is mistaken for generalisable expertise.
+Personal experience can be valuable. Patients often learn practical coping strategies from others who have faced similar health challenges. The problem arises when experience is mistaken for generalisable expertise.
 
 An influencer may sincerely believe that a particular supplement, restrictive diet, detox programme, or alternative treatment improved their health. Yet an individual outcome does not establish that the same intervention is effective or safe for others. Medical expertise requires systematic evidence, understanding of risks, awareness of conflicting findings, and knowledge of how treatments affect different populations.
 
@@ -316,8 +314,7 @@ Several recurring patterns illustrate where lived experience becomes problematic
 
 **The expertise-transfer problem.** Success in fitness, beauty, parenting, or lifestyle content can lead audiences to assume competence in medicine and public health.
 
-These dynamics help explain why myths can survive even when corrections are available. The correction may come from an unknown expert, while the original claim came from someone the audience already trusts.
-
+These dynamics help explain why myths can survive even when [corrections]({{ 'corrections/' | relative_url }}) are available. The [correction]({{ 'correction/' | relative_url }}) may come from an unknown expert, while the original claim came from someone the audience already trusts.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-2-dark.svg" | relative_url }}" alt="Felt Trust illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Adolescents Face Special Risks
@@ -332,32 +329,29 @@ Young people often use social media to explore questions about appearance, fitne
 
 ### Stronger Parasocial Bonds Can Increase Trust
 
-Recent research examining young people and influencer health communication found that parasocial relationships help shape exposure to, trust in, and engagement with influencer health content. In practical terms, stronger feelings of connection can make followers more likely to accept recommendations and interact with health-related promotions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38039770/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSocial media influencers and adolescents&#x27; healthby E Engel · 2024 · Cited by 214 — To gain a better understanding of these challeng...</span></span></span>
-
+Recent research examining young people and influencer health communication found that parasocial relationships help shape exposure to, trust in, and engagement with influencer health content. In practical terms, stronger feelings of connection can make followers more likely to accept recommendations and interact with health-related promotions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38039770/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Social media influencers and adolescents&#x27; healthby E Engel · 2024 · Cited by 214 — To gain a better understanding of these challeng...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EVfOQqB9hzI" title="Why people form parasocial relationships – Cambridge Dictionary Word of the Year 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EVfOQqB9hzI" target="_blank" rel="noopener noreferrer">Why people form parasocial relationships – Cambridge Dictionary Word of the Year 2025</a></p><p class="youtube-embed-meta">Channel: Cambridge Dictionary &middot; Views: 9.1K &middot; Uploaded: November 2025 &middot; Length: 2 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EVfOQqB9hzI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EVfOQqB9hzI">Open on YouTube</a></p></div></div></div>
 
 ### Appearance and Wellness Content Often Overlap
 
-Many health myths aimed at adolescents are packaged as lifestyle advice. Nutrition trends, body-transformation routines, supplement promotions, and wellness hacks are often presented as routes to confidence, attractiveness, or success. Studies have raised concerns that inaccurate nutrition content and idealised health messaging can affect both health behaviours and wellbeing among young audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHelpful or harmful?</span><span class="citation-popover-snippet">Navigating the impact of social media...by J Kaňková · 2024 · Cited by 50 — The findings underscore the importance of expanding health c...</span></span></span>
+Many health myths aimed at adolescents are packaged as lifestyle advice. Nutrition trends, body-transformation routines, supplement promotions, and wellness hacks are often presented as routes to [confidence]({{ 'confidence/' | relative_url }}), attractiveness, or success. Studies have raised concerns that inaccurate nutrition content and idealised health messaging can affect both health behaviours and wellbeing among young audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHelpful or harmful?</span><span class="citation-popover-snippet">Navigating the impact of social media...by J Kaňková · 2024 · Cited by 50 — The findings underscore the importance of expanding health c...</span></span></span>
 
 ### Digital Health Literacy Is Uneven
 
 Many adolescents are skilled social media users but less experienced at evaluating scientific evidence, identifying conflicts of interest, or distinguishing professional expertise from popularity. This can make emotionally compelling stories particularly persuasive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691822002463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Parasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 152 — This study addresses consumers&#x27; complex psycho...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/44Yg5mwLouQ" title="How Health Influencers Spread Misinformation with Mallory DeMille" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=44Yg5mwLouQ" target="_blank" rel="noopener noreferrer">How Health Influencers Spread Misinformation with Mallory DeMille</a></p><p class="youtube-embed-meta">Channel: How To: Fitness Podcast &middot; Views: 99 &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=44Yg5mwLouQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=44Yg5mwLouQ">Open on YouTube</a></p></div></div></div>
 
 ## When Trust Helps and When It Harms
 
-Parasocial trust is not inherently harmful. The same psychological mechanism that allows misinformation to spread can also support beneficial health communication. During the COVID-19 pandemic, researchers observed that strong fan communities and parasocial engagement could help amplify public-health messages when trusted figures promoted evidence-based guidance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2110.04149" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivParasocial diffusion: K-pop fandoms help drive COVID-19 public health messaging on social mediaOctober 7, 2021...</span><span class="citation-popover-meta">Published: October 7, 2021</span></span></span>
+Parasocial trust is not inherently harmful. The same psychological mechanism that allows misinformation to spread can also support beneficial health communication. During the COVID-19 pandemic, researchers observed that strong fan communities and parasocial engagement could help amplify public-health messages when trusted figures promoted evidence-based guidance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2110.04149" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Parasocial diffusion: K-pop fandoms help drive COVID-19 public health messaging on social mediaOctober 7, 2021...</span><span class="citation-popover-meta">Published: October 7, 2021</span></span></span>
 
 The key distinction is not whether followers trust a creator, but whether that trust is attached to accurate information and appropriate expertise.
 
 Problems emerge when trust replaces verification. Influencers may encourage medical testing with limited evidence, promote unproven treatments, exaggerate risks, or frame complex health issues through emotionally powerful personal narratives. Studies examining influencer health content have highlighted concerns about fear-based messaging, omission of harms, and the promotion of interventions that lack strong supporting evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/2025/feb/27/social-media-influencers-are-fearmongering-to-promote-health-tests-with-limited-evidence-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Researchers analyzed 982 posts from Instagram and TikTok about full-body MRI scans, cancer genetic testing, testosterone blood tests, the...</span></span></span>
 
 In these situations, parasocial trust acts as a credibility shortcut. The follower's confidence comes less from evaluating the claim and more from confidence in the person making it.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-3-dark.svg" | relative_url }}" alt="Felt Trust illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Feeling of Trust Is Not the Same as Evidence
@@ -763,141 +757,141 @@ As health information increasingly moves through influencer culture, the most im
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Parasocial interaction  
-   Link: [https://en.wikipedia.org/wiki/Parasocial_interaction](https://en.wikipedia.org/wiki/Parasocial_interaction)  
+   Link: <a href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parasocial_interaction</a>  
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691822002463](https://www.sciencedirect.com/science/article/pii/S0001691822002463)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691822002463" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691822002463</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 152 — This study addresses consumers&#x27; complex psycho...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0195666324006160](https://www.sciencedirect.com/science/article/pii/S0195666324006160)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectProcessing and acceptance of health content creators...by M Lissens · 2025 · Cited by 9 — Nutrition misinformation on socia...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0195666324006160" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0195666324006160</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Processing and acceptance of health content creators...by M Lissens · 2025 · Cited by 9 — Nutrition misinformation on socia...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: phys.org  
    Title: 2026 03 social media toxicity power misinformation  
-   Link: [https://phys.org/news/2026-03-social-media-toxicity-power-misinformation.html](https://phys.org/news/2026-03-social-media-toxicity-power-misinformation.html)  
+   Link: <a href="https://phys.org/news/2026-03-social-media-toxicity-power-misinformation.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2026-03-social-media-toxicity-power-misinformation.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media influencers increase the toxicity and power of...Mar 12, 2026 — Researchers identified two influencer-specific mechanisms t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11901546/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11901546/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Quality, Accuracy, and Engagement of Nutrition Content...by M Zeng · 2025 · Cited by 36 — Future research should explore interven...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11901546/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11901546/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Quality, Accuracy, and Engagement of Nutrition Content...by M Zeng · 2025 · Cited by 36 — Future research should explore interven...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHelpful or harmful?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating the impact of social media...by J Kaňková · 2024 · Cited by 50 — The findings underscore the importance of expanding health c...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: vox.com  
    Title: health and wellness social media influencers pew report  
-   Link: [https://www.vox.com/good-medicine-newsletter/487970/health-and-wellness-social-media-influencers-pew-report](https://www.vox.com/good-medicine-newsletter/487970/health-and-wellness-social-media-influencers-pew-report)  
+   Link: <a href="https://www.vox.com/good-medicine-newsletter/487970/health-and-wellness-social-media-influencers-pew-report" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/good-medicine-newsletter/487970/health-and-wellness-social-media-influencers-pew-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The influencer landscape is a mix of evidence-based professionals and uncredentialed individuals offering advice based on anecdotal exper...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S027795362300744X](https://www.sciencedirect.com/science/article/pii/S027795362300744X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSocial media influencers and adolescents&#x27; healthby E Engel · 2024 · Cited by 214 — To gain a better understanding of these c...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S027795362300744X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S027795362300744X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media influencers and adolescents&#x27; healthby E Engel · 2024 · Cited by 214 — To gain a better understanding of these c...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2110.04149](https://arxiv.org/abs/2110.04149)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivParasocial diffusion: K-pop fandoms help drive COVID-19 public health messaging on social mediaOctober 7, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2110.04149" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2110.04149</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial diffusion: K-pop fandoms help drive COVID-19 public health messaging on social mediaOctober 7, 2021...</p></details>
    Published: October 7, 2021  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0747563225003437](https://www.sciencedirect.com/science/article/pii/S0747563225003437)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563225003437" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563225003437</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encouraging Critical Reflection as a Shield against Health...by J Kaňková · 2025 · Cited by 1 — First, it examined the effects of misinf...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0277953623008298](https://www.sciencedirect.com/science/article/pii/S0277953623008298)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0277953623008298" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0277953623008298</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of social media influencers on health outcomesby J Powell · 2024 · Cited by 179 — We also need to investigate the spread of he...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1054139X2500415X](https://www.sciencedirect.com/science/article/pii/S1054139X2500415X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1054139X2500415X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1054139X2500415X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Engagement With Influencers as Sources of Health...by E Engel · 2025 · Cited by 1 — This study examines influencers&#x27; role in shaping you...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: publichealthpost.org  
    Title: familiar faces risky choices parasocial relationships and health  
-   Link: [https://publichealthpost.org/mental-behavioral-health/familiar-faces-risky-choices-parasocial-relationships-and-health/](https://publichealthpost.org/mental-behavioral-health/familiar-faces-risky-choices-parasocial-relationships-and-health/)  
+   Link: <a href="https://publichealthpost.org/mental-behavioral-health/familiar-faces-risky-choices-parasocial-relationships-and-health/" target="_blank" rel="noopener noreferrer nofollow">https://publichealthpost.org/mental-behavioral-health/familiar-faces-risky-choices-parasocial-relationships-and-health/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Health PostFamiliar Faces, Risky Choices: Parasocial Relationships...Apr 3, 2026 — Polished aesthetics, repeated exposure, and la...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/society/2025/feb/27/social-media-influencers-are-fearmongering-to-promote-health-tests-with-limited-evidence-study-finds](https://www.theguardian.com/society/2025/feb/27/social-media-influencers-are-fearmongering-to-promote-health-tests-with-limited-evidence-study-finds)  
+   Link: <a href="https://www.theguardian.com/society/2025/feb/27/social-media-influencers-are-fearmongering-to-promote-health-tests-with-limited-evidence-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2025/feb/27/social-media-influencers-are-fearmongering-to-promote-health-tests-with-limited-evidence-study-finds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers analyzed 982 posts from Instagram and TikTok about full-body MRI scans, cancer genetic testing, testosterone blood tests, the...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38039770/](https://pubmed.ncbi.nlm.nih.gov/38039770/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedSocial media influencers and adolescents&#x27; healthby E Engel · 2024 · Cited by 214 — To gain a better understanding of these challeng...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38039770/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38039770/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media influencers and adolescents&#x27; healthby E Engel · 2024 · Cited by 214 — To gain a better understanding of these challeng...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/41171245/](https://pubmed.ncbi.nlm.nih.gov/41171245/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41171245/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41171245/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>health literacy, and parasocial relationships influence exposure, trust, and engagement...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/parasocial](https://dictionary.cambridge.org/dictionary/english/parasocial)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionary4 days ago — PARASOCIAL definition: 1. involving or relating to a connection that someone feels b...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/parasocial" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/parasocial</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary4 days ago — PARASOCIAL definition: 1. involving or relating to a connection that someone feels b...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/375674494_Social_media_influencers_and_adolescents%27_health_A_scoping_review_of_the_research_field](https://www.researchgate.net/publication/375674494_Social_media_influencers_and_adolescents%27_health_A_scoping_review_of_the_research_field)  
+   Link: <a href="https://www.researchgate.net/publication/375674494_Social_media_influencers_and_adolescents%27_health_A_scoping_review_of_the_research_field" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375674494_Social_media_influencers_and_adolescents%27_health_A_scoping_review_of_the_research_field</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Social media influencers and adolescents&#x27; health1 Dec 2023 — Most studies focused on the negative roles of SMIs, such as the promot...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: vogue.com  
-   Link: [https://www.vogue.com/article/what-is-a-parasocial-relationship](https://www.vogue.com/article/what-is-a-parasocial-relationship)  
+   Link: <a href="https://www.vogue.com/article/what-is-a-parasocial-relationship" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/what-is-a-parasocial-relationship</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Une relation parasociale est une connexion émotionnelle unilatérale que les gens forment avec des célébrités, des personnages médiatiques...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: news-medical.net  
-   Link: [https://www.news-medical.net/news/20231122/Navigating-the-influencer-landscape-The-positive-and-negative-effects-of-social-media-influencers-on-adolescents.aspx](https://www.news-medical.net/news/20231122/Navigating-the-influencer-landscape-The-positive-and-negative-effects-of-social-media-influencers-on-adolescents.aspx)  
+   Link: <a href="https://www.news-medical.net/news/20231122/Navigating-the-influencer-landscape-The-positive-and-negative-effects-of-social-media-influencers-on-adolescents.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20231122/Navigating-the-influencer-landscape-The-positive-and-negative-effects-of-social-media-influencers-on-adolescents.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating the influencer landscape: The positive and...Nov 22, 2023 — The study findings indicate that although SMIs can harm mental an...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: hifa.org  
-   Link: [https://www.hifa.org/dgroups-rss/social-media-influencers-and-health-misinformation](https://www.hifa.org/dgroups-rss/social-media-influencers-and-health-misinformation)  
+   Link: <a href="https://www.hifa.org/dgroups-rss/social-media-influencers-and-health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.hifa.org/dgroups-rss/social-media-influencers-and-health-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media influencers and health misinformationSocial media influencers and health misinformation... Dear HIFA colleagues. This week...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ouci.dntb.gov.ua  
-   Link: [https://ouci.dntb.gov.ua/en/works/lewxjxJ7/](https://ouci.dntb.gov.ua/en/works/lewxjxJ7/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/lewxjxJ7/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/lewxjxJ7/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>media influencers and adolescents&#x27; healthThis study analyzes Douyin using an integrated source–content–effect framework, identifies infot...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: scilit.com  
-   Link: [https://www.scilit.com/publications/d27ab4656618f83b4eb559a19fc1343f](https://www.scilit.com/publications/d27ab4656618f83b4eb559a19fc1343f)  
+   Link: <a href="https://www.scilit.com/publications/d27ab4656618f83b4eb559a19fc1343f" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/d27ab4656618f83b4eb559a19fc1343f</a>  
 
 24. <a id="endnote-24"></a>
    Source: thesun.co.uk  
-   Link: [https://www.thesun.co.uk/health/37526858/kardashians-influencers-bad-medical-advice-health/](https://www.thesun.co.uk/health/37526858/kardashians-influencers-bad-medical-advice-health/)  
+   Link: <a href="https://www.thesun.co.uk/health/37526858/kardashians-influencers-bad-medical-advice-health/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/health/37526858/kardashians-influencers-bad-medical-advice-health/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A study highlighted in the British Medical Journal noted that influencers often lack medical training, are swayed by industry deals, and...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: research.usc.edu.au  
-   Link: [https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621](https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621)  
+   Link: <a href="https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621" target="_blank" rel="noopener noreferrer nofollow">https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Viral: Sharing of Misinformation by Social Media...by R Mulcahy · Cited by 29 — It investigates the virality of misinformation posts by...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: publizistik.univie.ac.at  
-   Link: [https://publizistik.univie.ac.at/en/news/single-news/health-misinformation-by-social-media-influencers-encouraging-critical-reflection](https://publizistik.univie.ac.at/en/news/single-news/health-misinformation-by-social-media-influencers-encouraging-critical-reflection)  
+   Link: <a href="https://publizistik.univie.ac.at/en/news/single-news/health-misinformation-by-social-media-influencers-encouraging-critical-reflection" target="_blank" rel="noopener noreferrer nofollow">https://publizistik.univie.ac.at/en/news/single-news/health-misinformation-by-social-media-influencers-encouraging-critical-reflection</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation by social media influencersMar 25, 2026 — The study tracked the following outcomes: belief inaccuracy, message credibility...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: cancertherapyadvisor.com  
    Title: some social media influencers promote misinformation about pharmaceutical drugs  
-   Link: [https://www.cancertherapyadvisor.com/news/some-social-media-influencers-promote-misinformation-about-pharmaceutical-drugs/](https://www.cancertherapyadvisor.com/news/some-social-media-influencers-promote-misinformation-about-pharmaceutical-drugs/)  
+   Link: <a href="https://www.cancertherapyadvisor.com/news/some-social-media-influencers-promote-misinformation-about-pharmaceutical-drugs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cancertherapyadvisor.com/news/some-social-media-influencers-promote-misinformation-about-pharmaceutical-drugs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Some Social Media Influencers Promote Misinformation...Apr 1, 2026 — A review of 12 articles showed that social media influencers consis...</p></details>

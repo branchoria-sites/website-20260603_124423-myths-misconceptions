@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - algorithms
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - algorithms
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Digital platforms can reward emotional, repeatable claims before careful correction has time to catch up.
 hero_summary: Digital platforms can reward emotional, repeatable claims before careful correction has time to catch up.
 layout: default
 permalink: /algorithms/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Algorithms
 title: How Platforms Help Myths Travel Faster
-title_full: How Platforms Help Myths Travel Faster | Mythcraft
+title_full: How Platforms Help Myths Travel Faster
 display_title_short: Algorithms
 display_title: Algorithms
 heading_title: How Platforms Help Myths Travel Faster
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 next_link:
   basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
-date: '2026-06-09 04:02:56 '
+date: '2026-06-11 21:50:05 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-overview.webp
@@ -503,7 +503,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-over
 
 Social media algorithms amplify myths by deciding which claims are seen, repeated and rewarded at scale. A false story no longer needs to travel slowly through conversation, newspapers or local rumour networks. It can be ranked into millions of feeds because it attracts clicks, comments, watch time, anger, curiosity or [group loyalty]({{ 'group-loyalty/' | relative_url }}) before anyone has had time to check it. That does not mean algorithms invent every myth, or that users are passive victims. It means [platform design]({{ 'platform-design/' | relative_url }}) changes the speed, reach and incentives of myth-making.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-overview.webp" | relative_url }}" alt="Overview image for Algorithms" loading="eager" decoding="sync" fetchpriority="high">
 The clearest mechanism is simple: ranking systems often optimise for engagement, and myths are frequently built for engagement. They compress uncertainty into a memorable claim, trigger emotion, flatter identity and invite [repetition]({{ 'repetition/' | relative_url }}). Research on false news, recommender systems and platform experiments shows that algorithmic feeds can increase the visibility of divisive or unreliable content, although the size and direction of effects vary by platform, audience and design. The governance question is therefore not whether “the algorithm” is always guilty. It is which design choices predictably reward myth-like content, how [platforms]({{ 'platforms/' | relative_url }}) measure those risks, and what obligations should follow.
 
@@ -513,7 +512,7 @@ A myth can spread without a platform: people have always repeated vivid stories 
 
 This matters because visibility itself becomes a reward. A claim that gets early attention can be shown to more people, producing more reactions, which can justify still more distribution. Researchers describe this as a feedback loop between user behaviour and algorithmic ranking: social drivers and algorithmic mechanisms interact, making it hard to separate “what people want” from what platforms repeatedly place in front of them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-For [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}), the crucial feature is not only reach but [timing]({{ 'timing/' | relative_url }}). False or misleading claims can spread during the gap between event and verification: after a violent incident, a celebrity rumour, a public-health scare or a dramatic political clip. By the time officials, journalists or fact-checkers clarify what happened, the false version may already have become familiar, emotionally charged and socially useful to a community.
+For myths and misconceptions, the crucial feature is not only reach but [timing]({{ 'timing/' | relative_url }}). False or misleading claims can spread during the gap between event and verification: after a violent incident, a celebrity rumour, a public-health scare or a dramatic political clip. By the time officials, journalists or fact-checkers clarify what happened, the false version may already have become familiar, emotionally charged and socially useful to a community.
 
 The classic study of Twitter rumours by Soroush Vosoughi, Deb Roy and Sinan Aral found that false news diffused farther, faster and more broadly than true news in their dataset; MIT’s summary notes that false stories were 70 per cent more likely to be retweeted than true stories. The study did not prove that ranking algorithms alone caused the effect, but it showed why engagement systems face a structural problem: falsehoods can have features that make people want to pass them on. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -521,12 +520,11 @@ The classic study of Twitter rumours by Soroush Vosoughi, Deb Roy and Sinan Aral
 
 The first way algorithms help myths travel faster is by collapsing the distance between a small spark and a mass audience. A misleading claim that once needed repeated word of mouth can now move through recommendation surfaces, trending modules, “For You” feeds, short-video queues and reshare chains. The platform is not just a pipe; it is a sorting machine.
 
-This sorting can turn small early differences into large visibility differences. A post that provokes outrage or fascination may generate comments from supporters and opponents alike. To a ranking system, both can look like evidence of relevance. A correction that is careful, conditional and less emotionally charged may arrive later and attract less interaction. The result is a lopsided race: the myth is short, punchy and repeatable; the correction is slower, more qualified and less socially exciting.
+This sorting can turn small early differences into large visibility differences. A post that provokes outrage or fascination may generate comments from supporters and opponents alike. To a ranking system, both can look like evidence of relevance. A [correction]({{ 'correction/' | relative_url }}) that is careful, conditional and less emotionally charged may arrive later and attract less interaction. The result is a lopsided race: the myth is short, punchy and repeatable; the correction is slower, more qualified and less socially exciting.
 
 The same mechanism appears in crisis misinformation. A UK parliamentary report on social media, misinformation and harmful algorithms examined how platform incentives and recommender systems can contribute to the spread of harmful misleading content, including during fast-moving events where false claims can trigger offline consequences. The report also noted concerns about advertising models and monetisation around unreliable material, because visibility can be converted into revenue as well as influence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The scale problem is especially acute for myths that are not a single false post but a repeatable template: “the media are hiding this”, “this cure is being suppressed”, “this event was staged”, “this group is secretly responsible”. Platforms can remove or label one item while many near-duplicates, reaction videos, screenshots and coded references keep the narrative alive. Algorithmic systems trained on engagement may then recommend the theme even when individual pieces are moderated.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-Illustration-1-dark.svg" | relative_url }}" alt="Algorithms illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Engagement incentives
@@ -541,7 +539,6 @@ This is why “people chose to share it” is only a partial explanation. Users 
 
 A useful way to think about the mechanism is:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * **Emotion becomes a ranking signal** when anger, shock or amusement drives interaction.
@@ -552,7 +549,6 @@ A useful way to think about the mechanism is:
 </div>
 
 None of these steps requires a platform to intend deception. The harm can emerge from ordinary optimisation: recommend what keeps people watching, commenting and returning.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fkqBDjOExVk" title="Social media, misinformation and harmful algorithms - Science, Innovation and Technology Committee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fkqBDjOExVk" target="_blank" rel="noopener noreferrer">Social media, misinformation and harmful algorithms - Science, Innovation and Technology Committee</a></p><p class="youtube-embed-meta">Channel: UK Parliament &middot; Views: 1.3K &middot; Uploaded: January 2025 &middot; Length: 2 hours 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fkqBDjOExVk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fkqBDjOExVk">Open on YouTube</a></p></div></div></div>
 
@@ -584,7 +580,6 @@ Finally, repetition hardens the story. The claim appears from multiple accounts,
 
 This loop helps explain why platform governance cannot rely only on deleting individual false posts. By the time a specific item is removed or labelled, the attention pattern may already have taught creators what works and taught the system what holds attention.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-Illustration-2-dark.svg" | relative_url }}" alt="Algorithms illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Design choices that reduce harm
 
@@ -600,15 +595,12 @@ The fourth choice is **risk assessment before deployment**. Ofcom’s Online Saf
 
 The fifth choice is **independent access for researchers and auditors**. Without access to platform data, public debate falls back on [anecdotes]({{ 'anecdotes/' | relative_url }}), leaks, small external audits or company-selected studies. That is inadequate for systems that shape public knowledge at national and global scale. The mixed evidence from Twitter, X, Facebook and Instagram shows why independent, repeated and platform-specific auditing matters: different systems can produce different effects, and design changes can alter results over time.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QqQkjAOIbAo" title="Social Media Addiction | Why Can’t you Focus Anymore ? The Honest Truth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QqQkjAOIbAo" target="_blank" rel="noopener noreferrer">Social Media Addiction | Why Can’t you Focus Anymore ? The Honest Truth</a></p><p class="youtube-embed-meta">Channel: Firstpost &middot; Views: 3.4K &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QqQkjAOIbAo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QqQkjAOIbAo">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-Illustration-3-dark.svg" | relative_url }}" alt="Algorithms illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What good governance should measure
 
 The governance challenge is to measure amplification as a system outcome, not just misinformation as a content category. A platform can truthfully say it removed millions of posts while still running a ranking system that rewards the next wave of emotionally optimised falsehoods. A better assessment asks what the system made more visible, more profitable and more repeatable.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[Useful measures include:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+Useful measures include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[publications.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -624,8 +616,8 @@ The governance challenge is to measure amplification as a system outcome, not ju
 
 These measures shift the conversation away from a sterile choice between censorship and doing nothing. The question becomes whether a platform is designing for public reliability as well as attention.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QqQkjAOIbAo" title="Social Media Addiction | Why Can’t you Focus Anymore ? The Honest Truth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QqQkjAOIbAo" target="_blank" rel="noopener noreferrer">Social Media Addiction | Why Can’t you Focus Anymore ? The Honest Truth</a></p><p class="youtube-embed-meta">Channel: Firstpost &middot; Views: 3.4K &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QqQkjAOIbAo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QqQkjAOIbAo">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-Illustration-3-dark.svg" | relative_url }}" alt="Algorithms illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What readers should remember
 
 Social media algorithms do not create myths from nothing. They amplify the claims, formats and creators that perform well under the rules of the platform. When those rules reward speed, emotion, repetition and engagement, myths gain a structural advantage over careful correction.
@@ -633,10 +625,6 @@ Social media algorithms do not create myths from nothing. They amplify the claim
 The strongest evidence does not support a simple claim that algorithms always radicalise everyone or that chronological feeds would fix misinformation. It supports a more precise conclusion: algorithmic ranking can shape what people encounter, which claims gain momentum, how creators adapt, and whether false stories become familiar before they are checked. That is enough to make platform design a central part of modern myth-making.
 
 A myth travels fastest when it feels true, asks little of the reader, and gives people a reason to react. Social media algorithms can turn that reaction into distribution. Governance is the work of changing those incentives so that platforms do not treat the most repeatable claim as the most reliable one.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1034,191 +1022,191 @@ A myth travels fastest when it feels true, asks little of the reader, and gives 
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/</a>  
 
 2. <a id="endnote-2"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060](https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060)  
+   Link: <a href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060</a>  
 
 3. <a id="endnote-3"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: [https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308](https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308)  
+   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
 
 4. <a id="endnote-4"></a>
    Source: publications.parliament.uk  
-   Link: [https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html](https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html)  
+   Link: <a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: publications.parliament.uk  
-   Link: [https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html](https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html)  
+   Link: <a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2025334119](https://www.pnas.org/doi/10.1073/pnas.2025334119)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2025334119" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2025334119</a>  
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/d41586-023-02420-z](https://www.nature.com/articles/d41586-023-02420-z)  
+   Link: <a href="https://www.nature.com/articles/d41586-023-02420-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-02420-z</a>  
 
 8. <a id="endnote-8"></a>
    Source: transparency.meta.com  
    Title: Transparency Types of content we demote  
-   Link: [https://transparency.meta.com/features/approach-to-ranking/types-of-content-we-demote/](https://transparency.meta.com/features/approach-to-ranking/types-of-content-we-demote/)  
+   Link: <a href="https://transparency.meta.com/features/approach-to-ranking/types-of-content-we-demote/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/features/approach-to-ranking/types-of-content-we-demote/</a>  
 
 9. <a id="endnote-9"></a>
    Source: transparency.meta.com  
    Title: Transparency Misinformation  
-   Link: [https://transparency.meta.com/policies/community-standards/misinformation/](https://transparency.meta.com/policies/community-standards/misinformation/)  
+   Link: <a href="https://transparency.meta.com/policies/community-standards/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/policies/community-standards/misinformation/</a>  
 
 10. <a id="endnote-10"></a>
    Source: eu-digital-services-act.com  
-   Link: [https://www.eu-digital-services-act.com/Digital_Services_Act_Article_27.html](https://www.eu-digital-services-act.com/Digital_Services_Act_Article_27.html)  
+   Link: <a href="https://www.eu-digital-services-act.com/Digital_Services_Act_Article_27.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-digital-services-act.com/Digital_Services_Act_Article_27.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/140786/pdf/](https://committees.parliament.uk/writtenevidence/140786/pdf/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/140786/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/140786/pdf/</a>  
 
 12. <a id="endnote-12"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/132995/pdf/](https://committees.parliament.uk/writtenevidence/132995/pdf/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/132995/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/132995/pdf/</a>  
 
 13. <a id="endnote-13"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/publications/48745/documents/258221/default/](https://committees.parliament.uk/publications/48745/documents/258221/default/)  
+   Link: <a href="https://committees.parliament.uk/publications/48745/documents/258221/default/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/publications/48745/documents/258221/default/</a>  
 
 14. <a id="endnote-14"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/132906/pdf/](https://committees.parliament.uk/writtenevidence/132906/pdf/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/132906/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/132906/pdf/</a>  
 
 15. <a id="endnote-15"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/d41586-018-02934-x](https://www.nature.com/articles/d41586-018-02934-x)  
+   Link: <a href="https://www.nature.com/articles/d41586-018-02934-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-018-02934-x</a>  
 
 16. <a id="endnote-16"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-026-10098-2](https://www.nature.com/articles/s41586-026-10098-2)  
+   Link: <a href="https://www.nature.com/articles/s41586-026-10098-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10098-2</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/franceintheus/posts/fake-news-receives-70-more-retweets-than-the-facts-when-algorithms-prioritize-us/1307434554763003/](https://www.facebook.com/franceintheus/posts/fake-news-receives-70-more-retweets-than-the-facts-when-algorithms-prioritize-us/1307434554763003/)  
+   Link: <a href="https://www.facebook.com/franceintheus/posts/fake-news-receives-70-more-retweets-than-the-facts-when-algorithms-prioritize-us/1307434554763003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/franceintheus/posts/fake-news-receives-70-more-retweets-than-the-facts-when-algorithms-prioritize-us/1307434554763003/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/WakeUpCarlsbad/posts/881120962066918/](https://www.facebook.com/groups/WakeUpCarlsbad/posts/881120962066918/)  
+   Link: <a href="https://www.facebook.com/groups/WakeUpCarlsbad/posts/881120962066918/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/WakeUpCarlsbad/posts/881120962066918/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/the.university.of.oxford/posts/new-an-oxford-study-has-analysed-10-million-posts-across-seven-social-media-plat/1278837157624263/?locale=es_LA](https://www.facebook.com/the.university.of.oxford/posts/new-an-oxford-study-has-analysed-10-million-posts-across-seven-social-media-plat/1278837157624263/?locale=es_LA)  
+   Link: <a href="https://www.facebook.com/the.university.of.oxford/posts/new-an-oxford-study-has-analysed-10-million-posts-across-seven-social-media-plat/1278837157624263/?locale=es_LA" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/the.university.of.oxford/posts/new-an-oxford-study-has-analysed-10-million-posts-across-seven-social-media-plat/1278837157624263/?locale=es_LA</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: internal research documents some previously unreported help to explain why faceb  
-   Link: [https://www.facebook.com/seattletimes/posts/internal-research-documents-some-previously-unreported-help-to-explain-why-faceb/10159654162841215/](https://www.facebook.com/seattletimes/posts/internal-research-documents-some-previously-unreported-help-to-explain-why-faceb/10159654162841215/)  
+   Link: <a href="https://www.facebook.com/seattletimes/posts/internal-research-documents-some-previously-unreported-help-to-explain-why-faceb/10159654162841215/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/seattletimes/posts/internal-research-documents-some-previously-unreported-help-to-explain-why-faceb/10159654162841215/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NaturePortfolioJournals/posts/a-study-in-nature-human-behaviour-found-that-deceptive-networks-reached-over-37-/1437233908432871/](https://www.facebook.com/NaturePortfolioJournals/posts/a-study-in-nature-human-behaviour-found-that-deceptive-networks-reached-over-37-/1437233908432871/)  
+   Link: <a href="https://www.facebook.com/NaturePortfolioJournals/posts/a-study-in-nature-human-behaviour-found-that-deceptive-networks-reached-over-37-/1437233908432871/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NaturePortfolioJournals/posts/a-study-in-nature-human-behaviour-found-that-deceptive-networks-reached-over-37-/1437233908432871/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheNationThailand/posts/meta-has-unveiled-tougher-measures-on-facebook-to-support-original-creators-upda/1358838822936115/](https://www.facebook.com/TheNationThailand/posts/meta-has-unveiled-tougher-measures-on-facebook-to-support-original-creators-upda/1358838822936115/)  
+   Link: <a href="https://www.facebook.com/TheNationThailand/posts/meta-has-unveiled-tougher-measures-on-facebook-to-support-original-creators-upda/1358838822936115/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNationThailand/posts/meta-has-unveiled-tougher-measures-on-facebook-to-support-original-creators-upda/1358838822936115/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
    Title: the powerful algorithms used by facebook and instagram to deliver content to use  
-   Link: [https://www.facebook.com/8News/posts/the-powerful-algorithms-used-by-facebook-and-instagram-to-deliver-content-to-use/686709300168280/](https://www.facebook.com/8News/posts/the-powerful-algorithms-used-by-facebook-and-instagram-to-deliver-content-to-use/686709300168280/)  
+   Link: <a href="https://www.facebook.com/8News/posts/the-powerful-algorithms-used-by-facebook-and-instagram-to-deliver-content-to-use/686709300168280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/8News/posts/the-powerful-algorithms-used-by-facebook-and-instagram-to-deliver-content-to-use/686709300168280/</a>  
 
 24. <a id="endnote-24"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.1517441113](https://www.pnas.org/doi/10.1073/pnas.1517441113)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1517441113" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1517441113</a>  
 
 25. <a id="endnote-25"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2321584121](https://www.pnas.org/doi/10.1073/pnas.2321584121)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2321584121" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2321584121</a>  
 
 26. <a id="endnote-26"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.aap9559](https://www.science.org/doi/10.1126/science.aap9559)  
+   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
 
 27. <a id="endnote-27"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.abp9364](https://www.science.org/doi/10.1126/science.abp9364)  
+   Link: <a href="https://www.science.org/doi/10.1126/science.abp9364" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.abp9364</a>  
 
 28. <a id="endnote-28"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0047272726000253](https://www.sciencedirect.com/science/article/pii/S0047272726000253)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0047272726000253</a>  
 
 29. <a id="endnote-29"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0306457325001840](https://www.sciencedirect.com/science/article/pii/S0306457325001840)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0306457325001840" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0306457325001840</a>  
 
 30. <a id="endnote-30"></a>
    Source: people.umass.edu  
    Title: Science ELetter  
-   Link: [https://people.umass.edu/~cbagchi/assets/pdf/ScienceELetter.pdf](https://people.umass.edu/~cbagchi/assets/pdf/ScienceELetter.pdf)  
+   Link: <a href="https://people.umass.edu/~cbagchi/assets/pdf/ScienceELetter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://people.umass.edu/~cbagchi/assets/pdf/ScienceELetter.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: mccannfitzgerald.com  
-   Link: [https://www.mccannfitzgerald.com/knowledge/disputes/digital-services-act-obligations-of-very-large-online-service-providers-eu-transparency-database-and-enforcement](https://www.mccannfitzgerald.com/knowledge/disputes/digital-services-act-obligations-of-very-large-online-service-providers-eu-transparency-database-and-enforcement)  
+   Link: <a href="https://www.mccannfitzgerald.com/knowledge/disputes/digital-services-act-obligations-of-very-large-online-service-providers-eu-transparency-database-and-enforcement" target="_blank" rel="noopener noreferrer nofollow">https://www.mccannfitzgerald.com/knowledge/disputes/digital-services-act-obligations-of-very-large-online-service-providers-eu-transparency-database-and-enforcement</a>  
 
 32. <a id="endnote-32"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.adu5584](https://www.science.org/doi/10.1126/science.adu5584)  
+   Link: <a href="https://www.science.org/doi/10.1126/science.adu5584" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adu5584</a>  
 
 33. <a id="endnote-33"></a>
    Source: osome.iu.edu  
    Title: science eletter social media algorithms can curb misinformation but do they  
-   Link: [https://osome.iu.edu/research/blog/science-eletter-social-media-algorithms-can-curb-misinformation-but-do-they](https://osome.iu.edu/research/blog/science-eletter-social-media-algorithms-can-curb-misinformation-but-do-they)  
+   Link: <a href="https://osome.iu.edu/research/blog/science-eletter-social-media-algorithms-can-curb-misinformation-but-do-they" target="_blank" rel="noopener noreferrer nofollow">https://osome.iu.edu/research/blog/science-eletter-social-media-algorithms-can-curb-misinformation-but-do-they</a>  
 
 34. <a id="endnote-34"></a>
    Source: library.queens.edu  
-   Link: [https://library.queens.edu/misinformation-on-social-media/algorithms](https://library.queens.edu/misinformation-on-social-media/algorithms)  
+   Link: <a href="https://library.queens.edu/misinformation-on-social-media/algorithms" target="_blank" rel="noopener noreferrer nofollow">https://library.queens.edu/misinformation-on-social-media/algorithms</a>  
 
 ### Additional References
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: The Feedback Loop: How Social Media Algorithms Shape Reality  
-   Link: [https://www.youtube.com/watch?v=QqQkjAOIbAo](https://www.youtube.com/watch?v=QqQkjAOIbAo)  
+   Link: <a href="https://www.youtube.com/watch?v=QqQkjAOIbAo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QqQkjAOIbAo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Recommender Systems Fuel Online Echo Chambers...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: How Social Media Algorithms Amplify Misinformation  
-   Link: [https://www.youtube.com/watch?v=F7J4b7042aE](https://www.youtube.com/watch?v=F7J4b7042aE)  
+   Link: <a href="https://www.youtube.com/watch?v=F7J4b7042aE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F7J4b7042aE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Feedback Loop: How Social Media Algorithms Shape Reality...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: The Economics of Engagement: Why Myths Go Viral  
-   Link: [https://www.youtube.com/watch?v=Aqk5jF8jN5w](https://www.youtube.com/watch?v=Aqk5jF8jN5w)  
+   Link: <a href="https://www.youtube.com/watch?v=Aqk5jF8jN5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Aqk5jF8jN5w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding How Social Media Ranking Systems Influence Belief...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: disinfocode.eu  
-   Link: [https://disinfocode.eu/reports/download/38](https://disinfocode.eu/reports/download/38)  
+   Link: <a href="https://disinfocode.eu/reports/download/38" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/download/38</a>  
 
 39. <a id="endnote-39"></a>
    Source: brookings.edu  
-   Link: [https://www.brookings.edu/articles/how-misinformation-spreads-on-social-media-and-what-to-do-about-it/](https://www.brookings.edu/articles/how-misinformation-spreads-on-social-media-and-what-to-do-about-it/)  
+   Link: <a href="https://www.brookings.edu/articles/how-misinformation-spreads-on-social-media-and-what-to-do-about-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/how-misinformation-spreads-on-social-media-and-what-to-do-about-it/</a>  
 
 40. <a id="endnote-40"></a>
    Source: knightcolumbia.org  
-   Link: [https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media](https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media)  
+   Link: <a href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media</a>  
 
 41. <a id="endnote-41"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/centrist/comments/1i5gag0/leftwing_bias_on_twitter_vs_rightwing_bias_on_x/](https://www.reddit.com/r/centrist/comments/1i5gag0/leftwing_bias_on_twitter_vs_rightwing_bias_on_x/)  
+   Link: <a href="https://www.reddit.com/r/centrist/comments/1i5gag0/leftwing_bias_on_twitter_vs_rightwing_bias_on_x/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/centrist/comments/1i5gag0/leftwing_bias_on_twitter_vs_rightwing_bias_on_x/</a>  
 
 42. <a id="endnote-42"></a>
    Source: 5rightsfoundation.com  
-   Link: [https://5rightsfoundation.com/wp-content/uploads/2024/08/ofcom-illegal-harms-consultation-final-submission-2-3-2.pdf](https://5rightsfoundation.com/wp-content/uploads/2024/08/ofcom-illegal-harms-consultation-final-submission-2-3-2.pdf)  
+   Link: <a href="https://5rightsfoundation.com/wp-content/uploads/2024/08/ofcom-illegal-harms-consultation-final-submission-2-3-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://5rightsfoundation.com/wp-content/uploads/2024/08/ofcom-illegal-harms-consultation-final-submission-2-3-2.pdf</a>  
 
 43. <a id="endnote-43"></a>
    Source: ifo.de  
-   Link: [https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation](https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation)  
+   Link: <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation</a>  
 
 44. <a id="endnote-44"></a>
    Source: fph.org.uk  
-   Link: [https://www.fph.org.uk/media/hoejpp0s/social-media-consultation-fph-response.pdf](https://www.fph.org.uk/media/hoejpp0s/social-media-consultation-fph-response.pdf)  
+   Link: <a href="https://www.fph.org.uk/media/hoejpp0s/social-media-consultation-fph-response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fph.org.uk/media/hoejpp0s/social-media-consultation-fph-response.pdf</a>

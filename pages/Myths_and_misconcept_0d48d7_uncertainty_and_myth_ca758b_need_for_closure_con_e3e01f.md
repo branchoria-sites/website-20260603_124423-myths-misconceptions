@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_emotion_fake_news_be_33b81b
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - uncertainty
 - need-closure
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - uncertainty
 - need-closure
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: The desire for quick and definite answers can make conspiracy explanations feel emotionally satisfying.
 hero_summary: The desire for quick and definite answers can make conspiracy explanations feel emotionally satisfying.
 layout: default
 permalink: /need-closure/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /uncertainty/
 nav_short_title: Need Closure
 title: How the Need for Closure Fuels Conspiracy Beliefs
-title_full: How the Need for Closure Fuels Conspiracy Beliefs | Uncertainty
+title_full: How the Need for Closure Fuels Conspiracy Beliefs
 display_title_short: Need Closure
 display_title: Need Closure
 heading_title: How the Need for Closure Fuels Conspiracy Beliefs
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Uncertainty Makes Myths Appealing | Mythcraft
+parent_title: Why Uncertainty Makes Myths Appealing
 parent_permalink: /uncertainty/
 parent_nav_short_title: Uncertainty
 parent_heading_title: Why Uncertainty Makes Myths Appealing
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Feelings Override Evidence in News Judgments
 up_link:
   basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
@@ -259,7 +259,7 @@ prev_link:
   permalink: /fake-news/
   short_title: Fake News
   heading_title: When Feelings Override Evidence in News Judgments
-date: '2026-06-09 05:52:19 '
+date: '2026-06-11 22:46:14 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f-Illustration-1.webp
@@ -270,11 +270,10 @@ image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_ne
 
 People often assume that conspiracy beliefs arise because people lack information. Research suggests a more complicated picture. One important factor is the **need for cognitive closure**—the desire to reach a firm answer quickly and avoid the discomfort of uncertainty. When events are confusing, frightening, or difficult to explain, conspiracy narratives can become appealing because they provide a clear story, identifiable causes, and a sense that hidden forces are responsible for what happened. Even if the explanation is weakly supported, it may feel psychologically satisfying because it reduces ambiguity. Studies across psychology have repeatedly found links between closure-seeking tendencies and greater openness to conspiracy narratives, particularly when official explanations are incomplete or uncertainty is especially salient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Thus, they should be attractive...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryAddicted to answers: Need for cognitive closure and the...by M Marchlewska · 2018 · Cited by 417 — We hypothesized t...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f-Illustration-1-dark.svg" | relative_url }}" alt="Need Closure illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Cognitive Closure Means
 
-The concept of need for cognitive closure was developed to describe a motivational preference for certainty, predictability, and definite answers. People differ in how strongly they experience this need, but nearly everyone seeks more closure when faced with stressful uncertainty or confusing situations. High closure-seeking individuals tend to prefer clear conclusions, dislike ambiguity, and feel uncomfortable when questions remain unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">PMC - NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kruglanskiarie.com/the-need-for-closure-and-conservati" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kruglanskiarie.com">[Arie Kruglanski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kruglanskiarie.com</span><span class="citation-popover-snippet">the need for closure and conservatism | Arie KruglanskiPapers in this section address the motivation for certainty and closure, its antec...</span></span></span>
+The concept of need for cognitive closure was developed to describe a motivational preference for certainty, predictability, and definite answers. People differ in how strongly they experience this need, but nearly everyone seeks more closure when faced with stressful uncertainty or confusing situations. High closure-seeking individuals tend to prefer clear conclusions, dislike ambiguity, and feel uncomfortable when questions remain unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kruglanskiarie.com/the-need-for-closure-and-conservati" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kruglanskiarie.com">[Arie Kruglanski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kruglanskiarie.com</span><span class="citation-popover-snippet">the need for closure and conservatism &#124; Arie KruglanskiPapers in this section address the motivation for certainty and closure, its antec...</span></span></span>
 
 Psychologists often describe closure seeking through two related tendencies:
 
@@ -285,14 +284,11 @@ These tendencies are not inherently irrational. In everyday life, people often n
 
 ## Why Uncertainty Increases Closure Seeking
 
-Periods of uncertainty create psychological discomfort. Crises, disasters, political upheaval, public-health emergencies, and unexplained events all generate questions that may not have immediate answers. In such situations, people often experience anxiety, insecurity, and a stronger motivation to find explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">PMC - NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentAnxiety, Psychological Motivations, and Conspiracy BeliefsNov 18, 2021 — We review the evidence ab...</span></span></span> University Press & Assessment
+Periods of uncertainty create psychological discomfort. Crises, disasters, political upheaval, public-health emergencies, and unexplained events all generate questions that may not have immediate answers. In such situations, people often experience anxiety, insecurity, and a stronger motivation to find explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentAnxiety, Psychological Motivations, and Conspiracy BeliefsNov 18, 2021 — We review the evidence ab...</span></span></span> University Press & Assessment
 
 Research on conspiracy beliefs consistently finds that uncertain environments are fertile ground for closure-seeking behaviour. When authoritative explanations are incomplete, evolving, or contested, conspiracy narratives can appear attractive because they seem to eliminate ambiguity. A conspiracy account may answer multiple questions at once: who is responsible, why events occurred, and what hidden motives are involved. Even when evidence is lacking, the narrative provides psychological finality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Thus, they should be attractive...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryAddicted to answers: Need for cognitive closure and the...by M Marchlewska · 2018 · Cited by 417 — We hypothesized t...</span></span></span>
 
-Importantly, the attraction is often emotional rather than evidential. A speculative explanation can feel preferable to admitting that an event remains unexplained. The discomfort of uncertainty may make a confident but unsupported claim seem more satisfying than an honest acknowledgement of ignorance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">PMC - NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UoAIrQ1uAEo" title="The UFO Files Didn’t Prove Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UoAIrQ1uAEo" target="_blank" rel="noopener noreferrer">The UFO Files Didn’t Prove Aliens</a></p><p class="youtube-embed-meta">Channel: Render State</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UoAIrQ1uAEo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UoAIrQ1uAEo">Open on YouTube</a></p></div></div></div>
+Importantly, the attraction is often emotional rather than evidential. A speculative explanation can feel preferable to admitting that an event remains unexplained. The discomfort of uncertainty may make a confident but unsupported claim seem more satisfying than an honest acknowledgement of ignorance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
 
 ## Conspiracies as Certainty-Providing Narratives
 
@@ -303,10 +299,9 @@ Several features make these narratives closure-friendly:
 * **Clear causality:** events are attributed to purposeful actors rather than chance or complexity.
 * **Identifiable villains:** responsibility is concentrated in a specific group.
 * **Narrative coherence:** disconnected events become part of a single explanatory framework.
-* **Resistance to uncertainty:** contradictory evidence can be reinterpreted as part of the conspiracy itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">PMC - NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
+* **Resistance to uncertainty:** contradictory evidence can be reinterpreted as part of the conspiracy itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
 
 This helps explain why conspiracy theories often emerge around events that genuinely contain uncertainty. In the absence of complete information, a simple story can feel more psychologically satisfying than a nuanced explanation filled with caveats and unresolved questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Thus, they should be attractive...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f-Illustration-2-dark.svg" | relative_url }}" alt="Need Closure illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evidence Linking Closure Needs and Conspiracy Beliefs
@@ -315,14 +310,11 @@ Research has produced substantial evidence that closure-related motives are asso
 
 A frequently cited line of work found that conspiracy theories become especially attractive to people high in need for cognitive closure when official explanations are unclear. Researchers argued that conspiracy narratives function as ready-made answers that help resolve uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Thus, they should be attractive...Read more...</span></span></span>
 
-Experimental studies have also shown that reducing the motivation for closure can weaken the influence of prior conspiracy beliefs when people evaluate evidence. In other words, when individuals become more willing to tolerate ambiguity and consider alternatives, conspiratorial interpretations become less dominant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">PMC - NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
+Experimental studies have also shown that reducing the motivation for closure can weaken the influence of prior conspiracy beliefs when people evaluate evidence. In other words, when individuals become more willing to tolerate ambiguity and consider alternatives, conspiratorial interpretations become less dominant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
 
 More recent research continues to find a positive association between need for closure and conspiracy endorsement, although some studies report relatively modest effect sizes and emphasise that other factors—such as institutional trust, political attitudes, and broader worldviews—also play important roles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2024.1447313/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersNeed for cognitive closure, political trust, and belief in...by A Jedinger · 2025 · Cited by 5 — We find that individuals with...</span></span></span>
 
 This nuance matters. The need for closure is not a complete explanation for conspiracy thinking. Rather, it is one psychological mechanism that can increase susceptibility under particular conditions.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h9xtpqXzyfA" title="Why we are all attracted to conspiracy theories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h9xtpqXzyfA" target="_blank" rel="noopener noreferrer">Why we are all attracted to conspiracy theories</a></p><p class="youtube-embed-meta">Channel: The Guardian</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h9xtpqXzyfA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h9xtpqXzyfA">Open on YouTube</a></p></div></div></div>
 
 ## Why the Relationship Is Not Always Straightforward
 
@@ -330,25 +322,20 @@ Although many studies support a connection between closure seeking and conspirac
 
 Several reasons may explain these mixed findings.
 
-First, conspiracy theories themselves vary. Some provide a highly coherent explanation, while others introduce additional uncertainty and complexity. Second, people may adopt conspiracy beliefs for different reasons, including [identity]({{ 'identity/' | relative_url }}) concerns, distrust of institutions, feelings of powerlessness, or social belonging. Third, closure seeking interacts with context. A strong desire for certainty may only increase conspiracy belief when a conspiratorial explanation is readily available and appears to resolve an unresolved question. Kent Academic Repository <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">PMC - NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
+First, conspiracy theories themselves vary. Some provide a highly coherent explanation, while others introduce additional uncertainty and complexity. Second, people may adopt conspiracy beliefs for different reasons, including [identity]({{ 'identity/' | relative_url }}) concerns, distrust of institutions, feelings of powerlessness, or social belonging. Third, closure seeking interacts with context. A strong desire for certainty may only increase conspiracy belief when a conspiratorial explanation is readily available and appears to resolve an unresolved question. Kent Academic Repository <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
 
 As a result, researchers increasingly view need for closure as one contributor within a larger network of psychological and social influences rather than a universal cause.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f-Illustration-3-dark.svg" | relative_url }}" alt="Need Closure illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Central Risk: Certainty Without Accuracy
 
 The most important critique of closure-driven belief formation is that it prioritises decisiveness over evidence. The psychological reward comes from ending uncertainty, not necessarily from discovering what is true.
 
-Conspiracy narratives can therefore satisfy an epistemic need—the need to have an explanation—while undermining another epistemic goal: accuracy. Scholars have noted that conspiracy beliefs may shield people from uncertainty by supplying answers, but those answers are not necessarily reliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">PMC - NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
+Conspiracy narratives can therefore satisfy an epistemic need—the need to have an explanation—while undermining another epistemic goal: accuracy. Scholars have noted that conspiracy beliefs may shield people from uncertainty by supplying answers, but those answers are not necessarily reliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
 
 Longitudinal research further suggests that conspiracy beliefs often fail to deliver the emotional benefits people seek. Although such beliefs may be adopted partly to reduce anxiety and uncertainty, they do not consistently eliminate those feelings over time. In some cases, the beliefs may perpetuate suspicion and vigilance rather than genuine psychological resolution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672211060965" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Can Conspiracy Beliefs Be Beneficial?</span><span class="citation-popover-snippet">L Liekefett · 2023 · Cited by 200 — Research suggests that conspiracy beliefs are adopted because they promise to redu...</span></span></span>
 
-This highlights a key tension in myth acceptance more broadly. Humans naturally seek understanding and predictability, but the explanations that feel most certain are not always the explanations best supported by evidence. The need for closure can therefore make conspiracy narratives emotionally compelling precisely when careful reasoning requires patience with uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">PMC - NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Thus, they should be attractive...Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z98U1nMFrJQ" title="A Neuroscientist Explains What Conspiracy Theories Do To Your Brain | Inverse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z98U1nMFrJQ" target="_blank" rel="noopener noreferrer">A Neuroscientist Explains What Conspiracy Theories Do To Your Brain | Inverse</a></p><p class="youtube-embed-meta">Channel: Inverse</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z98U1nMFrJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z98U1nMFrJQ">Open on YouTube</a></p></div></div></div>
-
+This highlights a key tension in myth acceptance more broadly. Humans naturally seek understanding and predictability, but the explanations that feel most certain are not always the explanations best supported by evidence. The need for closure can therefore make conspiracy narratives emotionally compelling precisely when careful reasoning requires patience with uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Thus, they should be attractive...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -746,152 +733,152 @@ This highlights a key tension in myth acceptance more broadly. Humans naturally 
 
 1. <a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryAddicted to answers: Need for cognitive closure and the...by M Marchlewska · 2018 · Cited by 417 — We hypothesized t...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Review Conspiracy beliefs and science rejection  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X22001117](https://www.sciencedirect.com/science/article/pii/S2352250X22001117)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X22001117" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X22001117</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review Conspiracy beliefs and science rejectionby BT Rutjens · 2022 · Cited by 87 — When an unequivocally clear scientific explanation is...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Mediating Effect of Beliefs in Conspiracy Theories about...by S Staszak · 2022 · Cited by 12 — The need for closure [19] is relat...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mediating Effect of Beliefs in Conspiracy Theories about...by S Staszak · 2022 · Cited by 12 — The need for closure [19] is relat...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cluequest.co.uk  
    Title: the importance of cognitive closure  
-   Link: [https://cluequest.co.uk/blog/entry/the-importance-of-cognitive-closure](https://cluequest.co.uk/blog/entry/the-importance-of-cognitive-closure)  
+   Link: <a href="https://cluequest.co.uk/blog/entry/the-importance-of-cognitive-closure" target="_blank" rel="noopener noreferrer nofollow">https://cluequest.co.uk/blog/entry/the-importance-of-cognitive-closure</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 18, 2019 — Webster &amp; Kruglanski (1994 &amp; 1996) explain cognitive closure as a theoretical framework to explain why people avoid uncert...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8212084/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8212084/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe usual suspects: How psychological motives and thinking...by V Gligorić · 2021 · Cited by 119 — It is no surprise that conspiracy...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8212084/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8212084/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The usual suspects: How psychological motives and thinking...by V Gligorić · 2021 · Cited by 119 — It is no surprise that conspiracy...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730](https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730)  
+   Link: <a href="https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentAnxiety, Psychological Motivations, and Conspiracy BeliefsNov 18, 2021 — We review the evidence ab...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Psychology of Conspiracy Theories  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCBeliefs in conspiracy theories and the need for cognitive closureby PJ Leman · 2013 · Cited by 305 — Two studies examined the relation...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beliefs in conspiracy theories and the need for cognitive closureby PJ Leman · 2013 · Cited by 305 — Two studies examined the relation...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Better the devil you know than a world you don't?  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0191886916303221](https://www.sciencedirect.com/science/article/abs/pii/S0191886916303221)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886916303221" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886916303221</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>by R Moulding · 2016 · Cited by 191 — Two explanations for endorsement of Conspiracy Theories (CTs) are examined. No evidence was found f...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0191886925005306](https://www.sciencedirect.com/science/article/pii/S0191886925005306)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0191886925005306" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0191886925005306</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When education fails: Narcissism, uniqueness, and need...by T Cosgrove · 2026 · Cited by 1 — Similarly, in Study Two, narcissism, and le...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0023969025000955](https://www.sciencedirect.com/science/article/abs/pii/S0023969025000955)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0023969025000955" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0023969025000955</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The roles of need frustration and regulatory focus in...by M Hunsinger · 2025 · Cited by 2 — Research on conspiratorial thinking suggest...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260125000279](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260125000279)  
+   Link: <a href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260125000279" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260125000279</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter Two - The psychology of conspiracy mentalityThis chapter reviews and contrasts existing methods for measuring conspiracy beliefs...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0191886922005475](https://www.sciencedirect.com/science/article/abs/pii/S0191886922005475)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886922005475" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886922005475</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Emotion](&amp;#123;&amp;#123; &#x27;emotion/&#x27; | relative_url &amp;#125;&amp;#125;) dysregulation and belief in conspiracy theoriesby Z Molenda · 2023 · Cited by 55 — In the present research, we hypothesized that...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: kar.kent.ac.uk  
-   Link: [https://kar.kent.ac.uk/61588/](https://kar.kent.ac.uk/61588/)  
+   Link: <a href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/61588/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thus, they should be attractive...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: kruglanskiarie.com  
-   Link: [https://www.kruglanskiarie.com/the-need-for-closure-and-conservati](https://www.kruglanskiarie.com/the-need-for-closure-and-conservati)  
+   Link: <a href="https://www.kruglanskiarie.com/the-need-for-closure-and-conservati" target="_blank" rel="noopener noreferrer nofollow">https://www.kruglanskiarie.com/the-need-for-closure-and-conservati</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the need for closure and conservatism | Arie KruglanskiPapers in this section address the motivation for certainty and closure, its antec...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Can Conspiracy Beliefs Be Beneficial?  
-   Link: [https://journals.sagepub.com/doi/10.1177/01461672211060965](https://journals.sagepub.com/doi/10.1177/01461672211060965)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/01461672211060965" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672211060965</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>L Liekefett · 2023 · Cited by 200 — Research suggests that conspiracy beliefs are adopted because they promise to redu...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2024.1447313/full](https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2024.1447313/full)  
+   Link: <a href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2024.1447313/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2024.1447313/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersNeed for cognitive closure, political trust, and belief in...by A Jedinger · 2025 · Cited by 5 — We find that individuals with...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: rosa.uniroma1.it  
-   Link: [https://rosa.uniroma1.it/rosa04/psychology_hub/article/view/18804](https://rosa.uniroma1.it/rosa04/psychology_hub/article/view/18804)  
+   Link: <a href="https://rosa.uniroma1.it/rosa04/psychology_hub/article/view/18804" target="_blank" rel="noopener noreferrer nofollow">https://rosa.uniroma1.it/rosa04/psychology_hub/article/view/18804</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>role of Need for Cognitive Closure in the relation between...by M Loverre · 2025 — Need for Cognitive Closure can be defined as a person...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/398689589_A_moderated_mediation_model_the_role_of_Need_for_Cognitive_Closure_in_the_relation_between_System_Justification_and_Conspiracy_Beliefs](https://www.researchgate.net/publication/398689589_A_moderated_mediation_model_the_role_of_Need_for_Cognitive_Closure_in_the_relation_between_System_Justification_and_Conspiracy_Beliefs)  
+   Link: <a href="https://www.researchgate.net/publication/398689589_A_moderated_mediation_model_the_role_of_Need_for_Cognitive_Closure_in_the_relation_between_System_Justification_and_Conspiracy_Beliefs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398689589_A_moderated_mediation_model_the_role_of_Need_for_Cognitive_Closure_in_the_relation_between_System_Justification_and_Conspiracy_Beliefs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A moderated mediation model: the role of Need for...Feb 19, 2026 — Need for Cognitive Closure can be defined as a personal prefere...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: hsaj.org  
-   Link: [https://www.hsaj.org/articles/23856](https://www.hsaj.org/articles/23856)  
+   Link: <a href="https://www.hsaj.org/articles/23856" target="_blank" rel="noopener noreferrer nofollow">https://www.hsaj.org/articles/23856</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Need for Cognitive Closure and Uncertainty-Identity TheoryThis thesis investigates the psychological mechanisms underlying ideological ex...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: taylorfrancis.com  
-   Link: [https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781315225302-79/need-cognitive-closure-belief-conspiracy-theories-exploration-role-religious-fundamentalism-cognition-umam-muluk-milla](https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781315225302-79/need-cognitive-closure-belief-conspiracy-theories-exploration-role-religious-fundamentalism-cognition-umam-muluk-milla)  
+   Link: <a href="https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781315225302-79/need-cognitive-closure-belief-conspiracy-theories-exploration-role-religious-fundamentalism-cognition-umam-muluk-milla" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781315225302-79/need-cognitive-closure-belief-conspiracy-theories-exploration-role-religious-fundamentalism-cognition-umam-muluk-milla</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The need for cognitive closure and belief in conspiracy theoriesby AN Umam · 2017 · Cited by 15 — Latest research shows that belief in co...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ssoar.info  
    Title: ssoar frontierssp 2025 Jedinger et al Need for cognitive closure  
-   Link: [https://www.ssoar.info/ssoar/bitstream/handle/document/99896/ssoar-frontierssp-2025-Jedinger_et_al-Need_for_cognitive_closure.pdf?sequence=3](https://www.ssoar.info/ssoar/bitstream/handle/document/99896/ssoar-frontierssp-2025-Jedinger_et_al-Need_for_cognitive_closure.pdf?sequence=3)  
+   Link: <a href="https://www.ssoar.info/ssoar/bitstream/handle/document/99896/ssoar-frontierssp-2025-Jedinger_et_al-Need_for_cognitive_closure.pdf?sequence=3" target="_blank" rel="noopener noreferrer nofollow">https://www.ssoar.info/ssoar/bitstream/handle/document/99896/ssoar-frontierssp-2025-Jedinger_et_al-Need_for_cognitive_closure.pdf?sequence=3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Need for cognitive closure, political trust, and belief in...by A Jedinger · 2025 · Cited by 5 — Psychological motives related to height...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: scholar.ui.ac.id  
    Title: the need for cognitive closure and belief in conspiracy theories  
-   Link: [https://scholar.ui.ac.id/en/publications/the-need-for-cognitive-closure-and-belief-in-conspiracy-theories-/](https://scholar.ui.ac.id/en/publications/the-need-for-cognitive-closure-and-belief-in-conspiracy-theories-/)  
+   Link: <a href="https://scholar.ui.ac.id/en/publications/the-need-for-cognitive-closure-and-belief-in-conspiracy-theories-/" target="_blank" rel="noopener noreferrer nofollow">https://scholar.ui.ac.id/en/publications/the-need-for-cognitive-closure-and-belief-in-conspiracy-theories-/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>need for cognitive closure and belief in conspiracy...by AN Umam · 2017 · Cited by 15 — Latest research shows that belief in conspiracy...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: kar.kent.ac.uk  
    Title: Marchlewska et al. Addicted to Answers FINAL  
-   Link: [https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf](https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf)  
+   Link: <a href="https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>low) in NFCC seize on conspiratorial explanations for uncertain events when such explanations are situationally accessible.Read...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: drannetteermshar.com  
-   Link: [https://www.drannetteermshar.com/the-psychology-of-conspiracy-theories-understanding-the-cognitive-and-social-factors-behind-widespread-beliefs/](https://www.drannetteermshar.com/the-psychology-of-conspiracy-theories-understanding-the-cognitive-and-social-factors-behind-widespread-beliefs/)  
+   Link: <a href="https://www.drannetteermshar.com/the-psychology-of-conspiracy-theories-understanding-the-cognitive-and-social-factors-behind-widespread-beliefs/" target="_blank" rel="noopener noreferrer nofollow">https://www.drannetteermshar.com/the-psychology-of-conspiracy-theories-understanding-the-cognitive-and-social-factors-behind-widespread-beliefs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theories provide a sense...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: oxford-review.com  
    Title: conspiracy theories research  
-   Link: [https://oxford-review.com/conspiracy-theories-research/](https://oxford-review.com/conspiracy-theories-research/)  
+   Link: <a href="https://oxford-review.com/conspiracy-theories-research/" target="_blank" rel="noopener noreferrer nofollow">https://oxford-review.com/conspiracy-theories-research/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theories: New research about why people...Jan 13, 2022 — A number of studies found that people who engage with conspiracy the...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/00224545.2024.2397491](https://www.tandfonline.com/doi/full/10.1080/00224545.2024.2397491)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/00224545.2024.2397491" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/00224545.2024.2397491</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis confirms no correlation between conspiracy beliefs and susceptibility to majority influence.Read...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Need for Closure: Why Uncertainty Makes Us Believe Myths  
-   Link: [https://www.youtube.com/watch?v=aG6t0q33f08](https://www.youtube.com/watch?v=aG6t0q33f08)  
+   Link: <a href="https://www.youtube.com/watch?v=aG6t0q33f08" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aG6t0q33f08</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Epistemic Motives: How Conspiracy Theories Reduce Uncertainty...</p></details>

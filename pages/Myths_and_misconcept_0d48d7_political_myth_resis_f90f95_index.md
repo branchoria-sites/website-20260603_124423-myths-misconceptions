@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-political/
 description: Focused pages that expand on Politics.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-parent_title: Politics | Myths And Misconceptions
+parent_title: Politics
 parent_nav_short_title: Politics
 parent_permalink: /politics/
 ---

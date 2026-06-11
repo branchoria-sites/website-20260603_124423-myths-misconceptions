@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_neuroplasticity_not_226fcf
 - Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_ten_percent_belief_a_77801f
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - 10-brain
 - william-james
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - 10-brain
 - william-james
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: William James wrote about unrealised human potential, but later retellings turned that idea into a false numerical claim about brain use.
 hero_summary: William James wrote about unrealised human potential, but later retellings turned that idea into a false numerical claim about brain use.
 layout: default
 permalink: /william-james/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /10-brain/
 nav_short_title: William James
 title: Did William James Start the Brain Myth?
-title_full: Did William James Start the Brain Myth? | 10 Brain
+title_full: Did William James Start the Brain Myth?
 display_title_short: William James
 display_title: William James
 heading_title: Did William James Start the Brain Myth?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why the 10 Percent Brain Myth Endures | Mythcraft
+parent_title: Why the 10 Percent Brain Myth Endures
 parent_permalink: /10-brain/
 parent_nav_short_title: 10 Brain
 parent_heading_title: Why the 10 Percent Brain Myth Endures
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Neuroplasticity Is Not Hidden Superpower
 up_link:
   basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
@@ -259,7 +259,7 @@ prev_link:
   permalink: /neuroplasticity/
   short_title: Neuroplasticity
   heading_title: Neuroplasticity Is Not Hidden Superpower
-date: '2026-06-09 04:58:48 '
+date: '2026-06-11 22:18:45 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_wi
 
 William James did not invent the claim that people use only 10 per cent of their brains. What he actually argued was both broader and more reasonable: most people fail to reach their full mental and physical potential. Over time, however, that idea was simplified, misquoted and merged with popular claims about hidden brain power. The result was one of the most persistent myths in modern psychology. Understanding how James became attached to the story helps explain why the myth sounded credible for so long. A respected psychologist had discussed unrealised human potential, and later writers gradually transformed that message into a false numerical statement about brain use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcgovern.mit.edu">[MIT McGovern Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcgovern.mit.edu</span><span class="citation-popover-title">do we use only 10 percent of our brain</span><span class="citation-popover-snippet">MIT McGovern InstituteDo we only use 10 percent of our brain?Jan 26, 2024 — The idea that we use 10 percent of our brain is 100 percent a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-1-dark.svg" | relative_url }}" alt="William James illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What James Actually Argued About Potential
 
@@ -280,13 +279,11 @@ Importantly, James was not discussing unused brain tissue. He was not claiming t
 
 James's concept was also intentionally qualitative. He did not attach a precise percentage to human potential, nor did he suggest that a measurable portion of the brain remained switched off. Later retellings often blur this distinction, turning a philosophical observation about human development into a supposed neuroscientific fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">do we really use only 10 percent of our brain</span><span class="citation-popover-snippet">Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?Feb 27, 2026 — The myth is often incorrectly attributed to 19th-cent...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h3E1hFOKR_Q" title="The 10% Brain Myth — Finally Explained by a Top Neurologist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h3E1hFOKR_Q" target="_blank" rel="noopener noreferrer">The 10% Brain Myth — Finally Explained by a Top Neurologist</a></p><p class="youtube-embed-meta">Channel: Ask The Brain Doctor &middot; Views: 129 &middot; Uploaded: February 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h3E1hFOKR_Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h3E1hFOKR_Q">Open on YouTube</a></p></div></div></div>
 
 ### The Difference Between Potential and Usage
 
 The misunderstanding becomes clearer when the two claims are placed side by side:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -297,8 +294,7 @@ The misunderstanding becomes clearer when the two claims are placed side by side
 
 </div>
 
-Those are fundamentally different ideas. One concerns human potential; the other concerns neuroscience. The historical confusion arose when later writers treated them as if they meant the same thing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bps.org.uk">[BPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bps.org.uk</span><span class="citation-popover-title">great myths brain we only use 10 cent</span><span class="citation-popover-snippet">BPSGreat myths of the brain: We only use 10 per centDec 1, 2014 — Early in the twentieth century, pioneering psychologist William James w...</span></span></span>
-
+Those are fundamentally different ideas. One concerns human potential; the other concerns neuroscience. The historical confusion arose when later writers treated them as if they meant the same thing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bps.org.uk">[BPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bps.org.uk</span><span class="citation-popover-title">great myths brain we only use 10 cent</span><span class="citation-popover-snippet">Great myths of the brain: We only use 10 per centDec 1, 2014 — Early in the twentieth century, pioneering psychologist William James w...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5NubJ2ThK_U" title="What percentage of your brain do you use? - Richard E. Cytowic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5NubJ2ThK_U" target="_blank" rel="noopener noreferrer">What percentage of your brain do you use? - Richard E. Cytowic</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 4.3M &middot; Uploaded: January 2014 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5NubJ2ThK_U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5NubJ2ThK_U">Open on YouTube</a></p></div></div></div>
 
@@ -310,14 +306,12 @@ One key step occurred when James's statements about latent abilities were rephra
 
 A particularly influential example appeared in the foreword to Dale Carnegie's 1936 bestseller *How to Win Friends and Influence People*. Broadcaster Lowell Thomas wrote that "Professor William James of Harvard" had said the average person develops only 10 per cent of their latent mental ability. That wording moved the idea closer to the modern myth. It still referred to ability rather than brain function, but it attached a specific percentage to James's reputation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/ca/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">we use way more 10 percent our brains</span><span class="citation-popover-snippet">Psychology TodayWe Use Way More Than 10 Percent of Our BrainsJul 17, 2014 — &quot;Professor William James of Harvard,&quot; Thomas wrote, &quot;used to...</span></span></span>
 
-From there, the shift became easier. A claim about developing only a fraction of one's mental ability gradually became a claim about using only a fraction of one's brain. The distinction disappeared in popular retellings, especially in motivational culture, advertising and later science-fiction stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/mind-cafe/is-it-true-we-only-use-10-of-our-brains-67180a1f4d1d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumIs It True We Only Use 10% of Our Brains?But enter the “positive thinking” movement and self-help gurus eventually turned “10% of o...</span></span></span>
-
+From there, the shift became easier. A claim about developing only a fraction of one's mental ability gradually became a claim about using only a fraction of one's brain. The distinction disappeared in popular retellings, especially in motivational culture, advertising and later science-fiction stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/mind-cafe/is-it-true-we-only-use-10-of-our-brains-67180a1f4d1d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Is It True We Only Use 10% of Our Brains?But enter the “positive thinking” movement and self-help gurus eventually turned “10% of o...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-2-dark.svg" | relative_url }}" alt="William James illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why the Number Stuck
 
 The exact figure of 10 per cent had advantages that James's original language lacked:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -330,7 +324,6 @@ The exact figure of 10 per cent had advantages that James's original language la
 
 Once the number became established, most people no longer checked whether it matched James's original writings. The percentage itself became the story. Psychology Today <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008 — The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YxIS3XxfFS0" title="Do I Only Use 10% of My Brain?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YxIS3XxfFS0" target="_blank" rel="noopener noreferrer">Do I Only Use 10% of My Brain?</a></p><p class="youtube-embed-meta">Channel: SciShow &middot; Views: 1.3M &middot; Uploaded: September 2014 &middot; Length: 4 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YxIS3XxfFS0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YxIS3XxfFS0">Open on YouTube</a></p></div></div></div>
 
 ## Why Famous Origins Make Myths Easier to Repeat
@@ -339,10 +332,9 @@ The connection to William James illustrates a common pattern in the history of m
 
 James was particularly useful for this purpose because he genuinely did discuss unrealised human potential. Unlike many false attributions, the connection was not completely invented. There was a real statement, a real psychologist and a real intellectual tradition behind it. What changed was the meaning. Later audiences inherited the conclusion without preserving the original context. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">We only use 10% of our brainsOne possibility is that it originated from William James, arguably the first experimental psychologist, in t...</span></span></span>
 
-This partial truth helped the myth survive criticism. When sceptics pointed out that humans obviously use far more than 10 per cent of their brains, believers could still point to James as evidence that respected thinkers had recognised hidden reserves of human ability. The authority was genuine, even if the interpretation was not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bps.org.uk">[BPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bps.org.uk</span><span class="citation-popover-title">great myths brain we only use 10 cent</span><span class="citation-popover-snippet">BPSGreat myths of the brain: We only use 10 per centDec 1, 2014 — Early in the twentieth century, pioneering psychologist William James w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</span></span></span>
+This partial truth helped the myth survive criticism. When sceptics pointed out that humans obviously use far more than 10 per cent of their brains, believers could still point to James as evidence that respected thinkers had recognised hidden reserves of human ability. The authority was genuine, even if the interpretation was not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bps.org.uk">[BPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bps.org.uk</span><span class="citation-popover-title">great myths brain we only use 10 cent</span><span class="citation-popover-snippet">Great myths of the brain: We only use 10 per centDec 1, 2014 — Early in the twentieth century, pioneering psychologist William James w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</span></span></span>
 
 The story also shows how scientific and psychological ideas can change as they move into popular culture. James's discussion of latent capacities became detached from its original meaning, compressed into a slogan and eventually treated as a biological fact. By the time modern neuroscience decisively disproved the notion of unused brain regions, the myth had already gained the prestige of a famous origin story. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008 — The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-3-dark.svg" | relative_url }}" alt="William James illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Did William James Start the Brain Myth?
@@ -748,92 +740,92 @@ James's role in the story is therefore indirect. He supplied the language of hid
 1. <a id="endnote-1"></a>
    Source: mcgovern.mit.edu  
    Title: do we use only 10 percent of our brain  
-   Link: [https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/](https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/)  
+   Link: <a href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow">https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT McGovern InstituteDo we only use 10 percent of our brain?Jan 26, 2024 — The idea that we use 10 percent of our brain is 100 percent a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: britannica.com  
    Title: do we really use only 10 percent of our brain  
-   Link: [https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain](https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain)  
+   Link: <a href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?Feb 27, 2026 — The myth is often incorrectly attributed to 19th-cent...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bps.org.uk  
    Title: great myths brain we only use 10 cent  
-   Link: [https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent](https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BPSGreat myths of the brain: We only use 10 per centDec 1, 2014 — Early in the twentieth century, pioneering psychologist William James w...</p></details>
+   Link: <a href="https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Great myths of the brain: We only use 10 per centDec 1, 2014 — Early in the twentieth century, pioneering psychologist William James w...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth](https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ten-percent-of-the-brain mythApril 28, 2026 — A likely origin for the &quot;10% myth&quot; is the reserve energy theories of Harvard psychologists...</p></details>
    Published: April 28, 2026  
 
 5. <a id="endnote-5"></a>
    Source: medium.com  
-   Link: [https://medium.com/mind-cafe/is-it-true-we-only-use-10-of-our-brains-67180a1f4d1d](https://medium.com/mind-cafe/is-it-true-we-only-use-10-of-our-brains-67180a1f4d1d)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumIs It True We Only Use 10% of Our Brains?But enter the “positive thinking” movement and self-help gurus eventually turned “10% of o...</p></details>
+   Link: <a href="https://medium.com/mind-cafe/is-it-true-we-only-use-10-of-our-brains-67180a1f4d1d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/mind-cafe/is-it-true-we-only-use-10-of-our-brains-67180a1f4d1d</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is It True We Only Use 10% of Our Brains?But enter the “positive thinking” movement and self-help gurus eventually turned “10% of o...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: medium.com  
    Title: history rewinded origins of the 10 myth 23202a97866b  
-   Link: [https://medium.com/%40neuro_nuggets/history-rewinded-origins-of-the-10-myth-23202a97866b](https://medium.com/%40neuro_nuggets/history-rewinded-origins-of-the-10-myth-23202a97866b)  
+   Link: <a href="https://medium.com/%40neuro_nuggets/history-rewinded-origins-of-the-10-myth-23202a97866b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40neuro_nuggets/history-rewinded-origins-of-the-10-myth-23202a97866b</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>History Rewinded: Origins of the 10% Myth“[Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) the 10% Brain Myth.” YouTube, 2013,([https://www.youtube.com/watch?v=4VqbzWGiW-k](https://www.youtube.com/watch?v=4VqbzWGiW-k))...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: psychologicalscience.org  
    Title: myth we only use 10 of our brains  
-   Link: [https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html](https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html)  
+   Link: <a href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: faculty.washington.edu  
    Title: UW Faculty Neuroscience For Kids  
-   Link: [https://faculty.washington.edu/chudler/tenper.html](https://faculty.washington.edu/chudler/tenper.html)  
+   Link: <a href="https://faculty.washington.edu/chudler/tenper.html" target="_blank" rel="noopener noreferrer nofollow">https://faculty.washington.edu/chudler/tenper.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>For Kids - 10% of the Brain MythIt may have been William James who wrote in 1908: &quot;We are making use of only a small part of our possible...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/](https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/)  
+   Link: <a href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We only use 10% of our brainsOne possibility is that it originated from William James, arguably the first experimental psychologist, in t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sociostudies.org  
-   Link: [https://www.sociostudies.org/journal/articles/3776772/](https://www.sociostudies.org/journal/articles/3776772/)  
+   Link: <a href="https://www.sociostudies.org/journal/articles/3776772/" target="_blank" rel="noopener noreferrer nofollow">https://www.sociostudies.org/journal/articles/3776772/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sociological StudiesEvolution of the Human Brain and the Myth of its Ten-Percent...by SR Anum · Cited by 3 — His statement about &#x27;tiny f...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: psychologytoday.com  
    Title: we use way more 10 percent our brains  
-   Link: [https://www.psychologytoday.com/ca/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains](https://www.psychologytoday.com/ca/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains)  
+   Link: <a href="https://www.psychologytoday.com/ca/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ca/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology TodayWe Use Way More Than 10 Percent of Our BrainsJul 17, 2014 — &quot;Professor William James of Harvard,&quot; Thomas wrote, &quot;used to...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scientificamerican.com  
    Title: do people only use 10 percent of their brains  
-   Link: [https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/](https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/)  
+   Link: <a href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?7 Feb 2008 — The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/</a>  
 
 14. <a id="endnote-14"></a>
    Source: psychologytoday.com  
    Title: we use way more 10 percent our brains  
-   Link: [https://www.psychologytoday.com/gb/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains](https://www.psychologytoday.com/gb/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains)  
+   Link: <a href="https://www.psychologytoday.com/gb/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We Use Way More Than 10 Percent of Our Brains17 Jul 2014 — &quot;Professor William James of Harvard,&quot; Thomas wrote, &quot;used to say that the aver...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: psychologytoday.com  
    Title: beyond the myth that we use only 10 percent of our brains  
-   Link: [https://www.psychologytoday.com/au/blog/common-sense-science/202505/beyond-the-myth-that-we-use-only-10-percent-of-our-brains](https://www.psychologytoday.com/au/blog/common-sense-science/202505/beyond-the-myth-that-we-use-only-10-percent-of-our-brains)  
+   Link: <a href="https://www.psychologytoday.com/au/blog/common-sense-science/202505/beyond-the-myth-that-we-use-only-10-percent-of-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/au/blog/common-sense-science/202505/beyond-the-myth-that-we-use-only-10-percent-of-our-brains</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We use our entire brain. Neuroscience points to several actual methods of enhancing brain efficiency...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: psychologytoday.com  
    Title: beyond the myth that we use only 10 percent of our brains  
-   Link: [https://www.psychologytoday.com/gb/blog/common-sense-science/202505/beyond-the-myth-that-we-use-only-10-percent-of-our-brains](https://www.psychologytoday.com/gb/blog/common-sense-science/202505/beyond-the-myth-that-we-use-only-10-percent-of-our-brains)  
+   Link: <a href="https://www.psychologytoday.com/gb/blog/common-sense-science/202505/beyond-the-myth-that-we-use-only-10-percent-of-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/common-sense-science/202505/beyond-the-myth-that-we-use-only-10-percent-of-our-brains</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We use our entire brain. Neuroscience points to several actual methods of enhancing brain efficiency...</p></details>
 
 ### Additional References
@@ -841,56 +833,56 @@ James's role in the story is therefore indirect. He supplied the language of hid
 17. <a id="endnote-17"></a>
    Source: wired.com  
    Title: everything you need to know about the [10 brain](&#123;&#123; '10-brain/' | relative_url &#125;&#125;) myth explained in 60 seconds  
-   Link: [https://www.wired.com/2014/07/everything-you-need-to-know-about-the-10-brain-myth-explained-in-60-seconds/](https://www.wired.com/2014/07/everything-you-need-to-know-about-the-10-brain-myth-explained-in-60-seconds/)  
+   Link: <a href="https://www.wired.com/2014/07/everything-you-need-to-know-about-the-10-brain-myth-explained-in-60-seconds/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2014/07/everything-you-need-to-know-about-the-10-brain-myth-explained-in-60-seconds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All You Need To Know About the 10 Percent Brain Myth, in...Jul 24, 2014 — It&#x27;s based on the premise that we use only 10 percent of our b...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: gizmodo.com  
    Title: where the 10 percent of our brains myth comes from a 1598507369  
-   Link: [https://gizmodo.com/where-the-10-percent-of-our-brains-myth-comes-from-a-1598507369](https://gizmodo.com/where-the-10-percent-of-our-brains-myth-comes-from-a-1598507369)  
+   Link: <a href="https://gizmodo.com/where-the-10-percent-of-our-brains-myth-comes-from-a-1598507369" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/where-the-10-percent-of-our-brains-myth-comes-from-a-1598507369</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the &quot;10 Percent of Our Brains&quot; Myth Started (And Why...Jul 29, 2014 — The earliest potential source comes from the work of Jean Pier...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: medicalnewstoday.com  
-   Link: [https://www.medicalnewstoday.com/articles/321060](https://www.medicalnewstoday.com/articles/321060)  
+   Link: <a href="https://www.medicalnewstoday.com/articles/321060" target="_blank" rel="noopener noreferrer nofollow">https://www.medicalnewstoday.com/articles/321060</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>According to an older survey from 2013, around 65 percent of Americans believe...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: bakadesuyo.com  
-   Link: [https://bakadesuyo.com/2012/06/is-it-true-you-only-use-10-of-your-brainpower/](https://bakadesuyo.com/2012/06/is-it-true-you-only-use-10-of-your-brainpower/)  
+   Link: <a href="https://bakadesuyo.com/2012/06/is-it-true-you-only-use-10-of-your-brainpower/" target="_blank" rel="noopener noreferrer nofollow">https://bakadesuyo.com/2012/06/is-it-true-you-only-use-10-of-your-brainpower/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>as laughably false, adding, “we use virtually every part of the brain.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: science.howstuffworks.com  
    Title: How Stuff Works How Much of Our Brain Do We Use?  
-   Link: [https://science.howstuffworks.com/life/inside-the-mind/human-brain/ten-percent-of-brain.htm](https://science.howstuffworks.com/life/inside-the-mind/human-brain/ten-percent-of-brain.htm)  
+   Link: <a href="https://science.howstuffworks.com/life/inside-the-mind/human-brain/ten-percent-of-brain.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/life/inside-the-mind/human-brain/ten-percent-of-brain.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the MythAug 25, 2023 — The Origins of the 10 Percent Myth; The Reality: Brain Function... brain in action and debunk the myth...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nature.com  
    Title: lucy is wrong we use  
-   Link: [https://www.nature.com/scitable/blog/mind-read/lucy_is_wrong_we_use/](https://www.nature.com/scitable/blog/mind-read/lucy_is_wrong_we_use/)  
+   Link: <a href="https://www.nature.com/scitable/blog/mind-read/lucy_is_wrong_we_use/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/scitable/blog/mind-read/lucy_is_wrong_we_use/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Lucy&quot; is Wrong; We Use Way More Than 10% of Our Brains17 Jul 2014 — &quot;Professor William James of Harvard,&quot; Thomas wrote, used to say that...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: brainfacts.org  
    Title: debunked the 10 percent brain myth 061719  
-   Link: [https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2019/debunked-the-10-percent-brain-myth-061719](https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2019/debunked-the-10-percent-brain-myth-061719)  
+   Link: <a href="https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2019/debunked-the-10-percent-brain-myth-061719" target="_blank" rel="noopener noreferrer nofollow">https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2019/debunked-the-10-percent-brain-myth-061719</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunked: The 10 Percent Brain MythJun 19, 2019 — Don&#x27;t let the movies fool you. Neuroscientist Nick Spitzer debunks the myth that people...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: uamshealth.com  
-   Link: [https://uamshealth.com/medical-myths/do-people-only-use-10-percent-of-our-brains/](https://uamshealth.com/medical-myths/do-people-only-use-10-percent-of-our-brains/)  
+   Link: <a href="https://uamshealth.com/medical-myths/do-people-only-use-10-percent-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://uamshealth.com/medical-myths/do-people-only-use-10-percent-of-our-brains/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Do People Only Use 10 Percent of our Brains?8 Mar 2019 — Unfortunately, the idea that people only use 10% of our brains and could use mor...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: northcoastjournal.com  
    Title: the 10 percent brain myth 2132603  
-   Link: [https://www.northcoastjournal.com/life-outdoors/the-10-percent-brain-myth-2132603/](https://www.northcoastjournal.com/life-outdoors/the-10-percent-brain-myth-2132603/)  
+   Link: <a href="https://www.northcoastjournal.com/life-outdoors/the-10-percent-brain-myth-2132603/" target="_blank" rel="noopener noreferrer nofollow">https://www.northcoastjournal.com/life-outdoors/the-10-percent-brain-myth-2132603/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 10 Percent Brain MythOct 20, 2011 — Pioneering psychologist William James (1842-1910), brother of novelist Henry, was known to provok...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: What percentage of your brain do you use?  
-   Link: [https://www.youtube.com/watch?v=5NubJ2ThK_U](https://www.youtube.com/watch?v=5NubJ2ThK_U)  
+   Link: <a href="https://www.youtube.com/watch?v=5NubJ2ThK_U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5NubJ2ThK_U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard E. Cytowic... myth that has been propagated for over a century: that we use only 10% of our brains. Hardly! Our neuron-dense brai...</p></details>

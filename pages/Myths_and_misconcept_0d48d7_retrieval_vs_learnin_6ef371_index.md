@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-retrieval/
 description: Focused pages that expand on Study Practice.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-parent_title: Study Practice | Myths And Misconceptions
+parent_title: Study Practice
 parent_nav_short_title: Study Practice
 parent_permalink: /study-practice/
 ---

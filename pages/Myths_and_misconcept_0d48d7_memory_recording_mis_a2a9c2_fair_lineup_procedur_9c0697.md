@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_leading_questions_me_06cb8a
 - Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_repeated_retelling_m_3a2eb6
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - memory
 - fair-lineups
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - memory
 - fair-lineups
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Lineup design can reduce suggestion by limiting cues that point witnesses toward a suspect before memory is tested.
 hero_summary: Lineup design can reduce suggestion by limiting cues that point witnesses toward a suspect before memory is tested.
 layout: default
 permalink: /fair-lineups/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /memory/
 nav_short_title: Fair Lineups
 title: What Makes an Eyewitness Lineup Fair?
-title_full: What Makes an Eyewitness Lineup Fair? | Memory
+title_full: What Makes an Eyewitness Lineup Fair?
 display_title_short: Fair Lineups
 display_title: Fair Lineups
 heading_title: What Makes an Eyewitness Lineup Fair?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Memory Is Not a Video Recording | Mythcraft
+parent_title: Why Memory Is Not a Video Recording
 parent_permalink: /memory/
 parent_nav_short_title: Memory
 parent_heading_title: Why Memory Is Not a Video Recording
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Repeated Stories Feel More True
 up_link:
   basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
@@ -265,7 +265,7 @@ next_link:
   permalink: /flashbulb-memory/
   short_title: Flashbulb Memory
   heading_title: Why Vivid Memories Can Still Be Wrong
-date: '2026-06-09 05:28:04 '
+date: '2026-06-11 22:33:18 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fair_lineup_procedur_9c0697-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fair_lineup_procedur_9c0697-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fa
 ## Introduction
 
 A fair eyewitness lineup is designed to test a witness's [memory]({{ 'memory/' | relative_url }}), not to steer the witness towards a suspect. That distinction is crucial because memory does not operate like a recording that can simply be played back. By the time a witness is asked to identify someone, memory may already be fragile, incomplete or vulnerable to outside influence. If police procedures unintentionally suggest who the suspect is, the lineup can reshape memory instead of measuring it.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fair_lineup_procedur_9c0697-Illustration-1-dark.svg" | relative_url }}" alt="Fair Lineups illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fair_lineup_procedur_9c0697-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fair_lineup_procedur_9c0697-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research in psychology and criminal justice has increasingly treated lineup design as a form of contamination control. The goal is not merely to obtain an identification but to find out whether the witness can recognise a person from memory alone. Fair lineups, neutral instructions and careful recording of [confidence]({{ 'confidence/' | relative_url }}) statements all aim to protect that original memory before later information alters it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1745691612443368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Eyewitness Identification Reforms</span><span class="citation-popover-snippet">Wells, Nancy K....Eyewitness identification evidence should be based solely on the independent memory of the witness, not aided by biase...</span></span></span>
@@ -290,14 +289,11 @@ Researchers have long argued that eyewitness identification evidence should come
 
 The National Academies' review of eyewitness identification research similarly concluded that identification procedures should be structured to maximise the chance that witnesses rely on memory rather than suggestion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Findings and Recommendations. Eyewitnesses make mistakes. Our understanding of how to improve the accuracy of eyewitness identifications...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xjabkaanCAA" title="Eyewitness Identification - Getting it Right" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xjabkaanCAA" target="_blank" rel="noopener noreferrer">Eyewitness Identification - Getting it Right</a></p><p class="youtube-embed-meta">Channel: Centerfire Training &amp; Consulting</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xjabkaanCAA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xjabkaanCAA">Open on YouTube</a></p></div></div></div>
-
 ## Why Lineup Fairness Changes the Meaning of Confidence
 
 One of the most misunderstood issues in eyewitness evidence is confidence. People often assume that a confident witness must be accurate. Research shows the picture is more complicated.
 
-A witness's confidence becomes much more informative when the identification comes from a fair lineup conducted under carefully controlled conditions. Studies have found that high-confidence identifications made immediately during a properly conducted lineup can be strongly associated with accuracy. The key condition is that the confidence must be measured before contamination occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1516814112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">PNASEstimating the reliability of eyewitness identifications from...Our findings suggest that (i) confidence in an eyewitness identifica...</span></span></span>
+A witness's confidence becomes much more informative when the identification comes from a fair lineup conducted under carefully controlled conditions. Studies have found that high-confidence identifications made immediately during a properly conducted lineup can be strongly associated with accuracy. The key condition is that the confidence must be measured before contamination occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1516814112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Estimating the reliability of eyewitness identifications from...Our findings suggest that (i) confidence in an eyewitness identifica...</span></span></span>
 
 The opposite is also true. If a lineup is suggestive, confidence can be inflated without improving accuracy. A witness may become more certain because of subtle cues from investigators, reactions from other people or the structure of the lineup itself. In that situation, confidence reflects social influence as much as memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368113000569" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Instructions to witnesses that suggest...Read more...</span></span></span>
 
@@ -309,10 +305,9 @@ This is one reason modern recommendations emphasise obtaining confidence stateme
 
 A major reform in eyewitness procedures is the use of double-blind lineups. Under this approach, the officer conducting the lineup does not know which person is the suspect.
 
-The reason is simple: people can communicate expectations without intending to. Tone of voice, facial expressions, pauses and body language may signal approval or disapproval. Even small cues can influence uncertain witnesses. Researchers have repeatedly warned that administrators who know the suspect's [identity]({{ 'identity/' | relative_url }}) may consciously or unconsciously guide a witness towards that person. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6876419/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCCan Lineup Administrators Blind to the Suspect&#x27;s Identity...by NA McCallum · 2017 · Cited by 3 — Yet, it has been found that a lineup...</span></span></span>
+The reason is simple: people can communicate expectations without intending to. Tone of voice, facial expressions, pauses and body language may signal approval or disapproval. Even small cues can influence uncertain witnesses. Researchers have repeatedly warned that administrators who know the suspect's [identity]({{ 'identity/' | relative_url }}) may consciously or unconsciously guide a witness towards that person. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6876419/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Can Lineup Administrators Blind to the Suspect&#x27;s Identity...by NA McCallum · 2017 · Cited by 3 — Yet, it has been found that a lineup...</span></span></span>
 
-Field research involving real eyewitnesses has examined double-blind lineup procedures in actual police investigations, reflecting the effort to reduce administrator influence and make identifications depend more heavily on witness memory alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24933175/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedDouble-blind photo lineups using actual eyewitnessesby GL Wells · 2015 · Cited by 208 — Eyewitnesses (494) to actual crimes in 4 po...</span></span></span>
-
+Field research involving real eyewitnesses has examined double-blind lineup procedures in actual police investigations, reflecting the effort to reduce administrator influence and make identifications depend more heavily on witness memory alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24933175/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Double-blind photo lineups using actual eyewitnessesby GL Wells · 2015 · Cited by 208 — Eyewitnesses (494) to actual crimes in 4 po...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fair_lineup_procedur_9c0697-Illustration-2-dark.svg" | relative_url }}" alt="Fair Lineups illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fair_lineup_procedur_9c0697-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fair_lineup_procedur_9c0697-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why fillers are more important than many people realise
@@ -323,21 +318,17 @@ A witness who cannot clearly remember the offender may still feel pressure to ch
 
 Research has consistently shown that suspect-filler similarity matters. When fillers are poorly matched and the suspect stands out, suspect identifications increase. That increase is not necessarily evidence that witnesses remembered better; it may simply indicate that the lineup pointed them towards one person. Meta-analytic research has found that low-similarity fillers make suspect identifications substantially more likely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchportal.port.ac.uk/en/publications/the-effect-of-suspect-filler-similarity-on-eyewitness-identificat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchportal.port.ac.uk">[University of Portsmouth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchportal.port.ac.uk</span><span class="citation-popover-title">the effect of suspect filler similarity on eyewitness identificat</span><span class="citation-popover-snippet">University of PortsmouthThe effect of suspect-filler similarity on eyewitness...by RJ Fitzgerald · 2013 · Cited by 200 — Compared with l...</span></span></span>
 
-Modern recommendations therefore favour fillers matched to the witness's description of the offender rather than fillers selected merely because they resemble the suspect. This approach helps ensure that the lineup tests the witness's memory of the crime rather than the police theory of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9588117/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCUsing objective measures to examine the effect of suspect...by GL McKinley · 2022 · Cited by 4 — This research argues that eyewitness...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oNj0wMHYOpc" title="WMAQ Channel 5 -Today in Chicago with Norman Mark -&quot;College Costs&quot; (Complete Broadcast, 3/14/1979) 📺" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oNj0wMHYOpc" target="_blank" rel="noopener noreferrer">WMAQ Channel 5 -Today in Chicago with Norman Mark -&quot;College Costs&quot; (Complete Broadcast, 3/14/1979) 📺</a></p><p class="youtube-embed-meta">Channel: The Museum of Classic Chicago Television (www.FuzzyMemories.TV)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oNj0wMHYOpc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oNj0wMHYOpc">Open on YouTube</a></p></div></div></div>
+Modern recommendations therefore favour fillers matched to the witness's description of the offender rather than fillers selected merely because they resemble the suspect. This approach helps ensure that the lineup tests the witness's memory of the crime rather than the police theory of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9588117/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using objective measures to examine the effect of suspect...by GL McKinley · 2022 · Cited by 4 — This research argues that eyewitness...</span></span></span>
 
 ## Recording First Statements Before Feedback
 
 The first reaction from a witness often has special value because it occurs before memory is reshaped by discussion, confirmation or doubt.
 
-For that reason, many reforms recommend obtaining a confidence statement immediately after an identification. Witnesses are asked, in their own words, how certain they are. The statement is recorded before anyone tells them whether they chose the suspect, before prosecutors become involved and before [repeated retellings]({{ 'retelling/' | relative_url }}) strengthen the memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innocenceproject.org">[Innocence Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innocenceproject.org</span><span class="citation-popover-snippet">G. Dobolyi and C. S. Dodson, “Eyewitness. Confidence in Simultaneous and Sequential Lineups: A Criterion Shift Account for Sequential. Mi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-east-2.amazonaws.com/assets.dps.mn.gov/s3fs-public/migrated-files/divisions/bca/bca-divisions/investigations/Documents/IACP-Eyewitness-Identification-policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-east-2.amazonaws.com">[Amazon Web Services, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-east-2.amazonaws.com</span><span class="citation-popover-snippet">Eyewitness IdentificationConfidence Statement: A statement in the witness&#x27;s own words taken immediately after an identification is made s...</span></span></span>
+For that reason, many reforms recommend obtaining a confidence statement immediately after an identification. Witnesses are asked, in their own words, how certain they are. The statement is recorded before anyone tells them whether they chose the suspect, before prosecutors become involved and before repeated retellings strengthen the memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innocenceproject.org">[Innocence Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innocenceproject.org</span><span class="citation-popover-snippet">G. Dobolyi and C. S. Dodson, “Eyewitness. Confidence in Simultaneous and Sequential Lineups: A Criterion Shift Account for Sequential. Mi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-east-2.amazonaws.com/assets.dps.mn.gov/s3fs-public/migrated-files/divisions/bca/bca-divisions/investigations/Documents/IACP-Eyewitness-Identification-policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-east-2.amazonaws.com">[Amazon Web Services, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-east-2.amazonaws.com</span><span class="citation-popover-snippet">Eyewitness IdentificationConfidence Statement: A statement in the witness&#x27;s own words taken immediately after an identification is made s...</span></span></span>
 
 This recommendation emerged partly because of evidence on post-identification feedback. Studies have shown that confirming feedback can alter how witnesses describe their experience. After being told they selected the suspect or did a good job, witnesses may report greater confidence, better viewing conditions and stronger memories than they originally expressed. The feedback does not simply change what they say publicly; it can change how they remember their own certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368113000569" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Instructions to witnesses that suggest...Read more...</span></span></span>
 
 Recording the initial statement creates a snapshot of memory before those later influences take effect. In court, that early record can provide a more reliable indicator than confidence expressed months or years later.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fair_lineup_procedur_9c0697-Illustration-3-dark.svg" | relative_url }}" alt="Fair Lineups illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fair_lineup_procedur_9c0697-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fair_lineup_procedur_9c0697-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fair Lineups as Memory Tests Rather Than Confirmation Tools
@@ -349,10 +340,6 @@ The purpose of a lineup is to test a hypothesis. Police may suspect a particular
 This perspective explains why reforms often appear counterintuitive. Procedures that reduce suggestive influence may produce fewer suspect identifications overall. Yet researchers argue that a reduction in questionable identifications is not a flaw. If a lineup is functioning properly, it should distinguish between strong memory and weak memory rather than maximise the number of selections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1745691612443368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Eyewitness Identification Reforms</span><span class="citation-popover-snippet">Wells, Nancy K....Eyewitness identification evidence should be based solely on the independent memory of the witness, not aided by biase...</span></span></span>
 
 The National Academies review and subsequent reform efforts have repeatedly emphasised that eyewitness identification should be treated as a measurement process. Like any scientific test, its value depends on limiting contamination. Fair lineups do not guarantee accuracy, but they improve the odds that an identification reflects what the witness actually remembers instead of what the procedure suggested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Findings and Recommendations. Eyewitnesses make mistakes. Our understanding of how to improve the accuracy of eyewitness identifications...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innocenceproject.org">[Innocence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innocenceproject.org</span><span class="citation-popover-snippet">G. Dobolyi and C. S. Dodson, “Eyewitness. Confidence in Simultaneous and Sequential Lineups: A Criterion Shift Account for Sequential. Mi...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ChgPk2OiZCw" title="How Reliable is Eyewitness Testimony?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer">How Reliable is Eyewitness Testimony?</a></p><p class="youtube-embed-meta">Channel: National Science Foundation News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ChgPk2OiZCw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -750,180 +737,180 @@ The National Academies review and subsequent reform efforts have repeatedly emph
 
 1. <a id="endnote-1"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.1516814112](https://www.pnas.org/doi/10.1073/pnas.1516814112)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PNASEstimating the reliability of eyewitness identifications from...Our findings suggest that (i) confidence in an eyewitness identifica...</p></details>
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1516814112" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1516814112</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Estimating the reliability of eyewitness identifications from...Our findings suggest that (i) confidence in an eyewitness identifica...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2211368113000569](https://www.sciencedirect.com/science/article/abs/pii/S2211368113000569)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211368113000569" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211368113000569</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Instructions to witnesses that suggest...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6876419/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6876419/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCCan Lineup Administrators Blind to the Suspect&#x27;s Identity...by NA McCallum · 2017 · Cited by 3 — Yet, it has been found that a lineup...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6876419/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6876419/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Lineup Administrators Blind to the Suspect&#x27;s Identity...by NA McCallum · 2017 · Cited by 3 — Yet, it has been found that a lineup...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: If the suspect is the culprit, the lineup is said  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000846](https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000846)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectProtecting the innocent in eyewitness identificationby MD Tuttle · 2025 · Cited by 4 — The lineup consists of the suspect an...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000846" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000846</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Protecting the innocent in eyewitness identificationby MD Tuttle · 2025 · Cited by 4 — The lineup consists of the suspect an...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9588117/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9588117/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCUsing objective measures to examine the effect of suspect...by GL McKinley · 2022 · Cited by 4 — This research argues that eyewitness...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9588117/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9588117/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Using objective measures to examine the effect of suspect...by GL McKinley · 2022 · Cited by 4 — This research argues that eyewitness...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010027724001628?dgcid=rss_sd_all](https://www.sciencedirect.com/science/article/abs/pii/S0010027724001628?dgcid=rss_sd_all)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027724001628?dgcid=rss_sd_all" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027724001628?dgcid=rss_sd_all</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparing human evaluations of eyewitness statements to...by JH Grabman · 2024 · Cited by 9 — Compares an ML classifier to humans&#x27; abili...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2211368120301236](https://www.sciencedirect.com/science/article/pii/S2211368120301236)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211368120301236" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211368120301236</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Changing the Face of Police Lineups: Delivering More...by N Brewer · 2021 · Cited by 41 — The data from the 11 studies of real lineups d...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: eyewitness.global  
-   Link: [https://www.eyewitness.global/](https://www.eyewitness.global/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eyeWitness | WelcomeThe eyeWitness to Atrocities app lets you capture photos and videos with embedded metadata to verify their authentici...</p></details>
+   Link: <a href="https://www.eyewitness.global/" target="_blank" rel="noopener noreferrer nofollow">https://www.eyewitness.global/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>WelcomeThe eyeWitness to Atrocities app lets you capture photos and videos with embedded metadata to verify their authentici...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0749596X26000148](https://www.sciencedirect.com/science/article/pii/S0749596X26000148)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0749596X26000148" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0749596X26000148</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Suspect-filler similarity: replicating distinctive features in...by G Harris · 2026 — A recent large-scale study found that description...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Eyewitness Identification Reforms  
-   Link: [https://journals.sagepub.com/doi/10.1177/1745691612443368](https://journals.sagepub.com/doi/10.1177/1745691612443368)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1745691612443368" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1745691612443368</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wells, Nancy K....Eyewitness identification evidence should be based solely on the independent memory of the witness, not aided by biase...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/18891/chapter/8](https://www.nationalacademies.org/read/18891/chapter/8)  
+   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Findings and Recommendations. Eyewitnesses make mistakes. Our understanding of how to improve the accuracy of eyewitness identifications...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: innocenceproject.org  
-   Link: [https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf](https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf)  
+   Link: <a href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>G. Dobolyi and C. S. Dodson, “Eyewitness. Confidence in Simultaneous and Sequential Lineups: A Criterion Shift Account for Sequential. Mi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: innocenceproject.org  
-   Link: [https://innocenceproject.org/news/national-academy-of-sciences-issues-landmark-report-on-memory-and-eyewitness-identification/](https://innocenceproject.org/news/national-academy-of-sciences-issues-landmark-report-on-memory-and-eyewitness-identification/)  
+   Link: <a href="https://innocenceproject.org/news/national-academy-of-sciences-issues-landmark-report-on-memory-and-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://innocenceproject.org/news/national-academy-of-sciences-issues-landmark-report-on-memory-and-eyewitness-identification/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Innocence ProjectNational Academy of Sciences Issues Landmark Report on...2 Oct 2014 — Confidence Statements — Immediately following a l...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: s3.us-east-2.amazonaws.com  
-   Link: [https://s3.us-east-2.amazonaws.com/assets.dps.mn.gov/s3fs-public/migrated-files/divisions/bca/bca-divisions/investigations/Documents/IACP-Eyewitness-Identification-policy.pdf](https://s3.us-east-2.amazonaws.com/assets.dps.mn.gov/s3fs-public/migrated-files/divisions/bca/bca-divisions/investigations/Documents/IACP-Eyewitness-Identification-policy.pdf)  
+   Link: <a href="https://s3.us-east-2.amazonaws.com/assets.dps.mn.gov/s3fs-public/migrated-files/divisions/bca/bca-divisions/investigations/Documents/IACP-Eyewitness-Identification-policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-east-2.amazonaws.com/assets.dps.mn.gov/s3fs-public/migrated-files/divisions/bca/bca-divisions/investigations/Documents/IACP-Eyewitness-Identification-policy.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness IdentificationConfidence Statement: A statement in the witness&#x27;s own words taken immediately after an identification is made s...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/24933175/](https://pubmed.ncbi.nlm.nih.gov/24933175/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedDouble-blind photo lineups using actual eyewitnessesby GL Wells · 2015 · Cited by 208 — Eyewitnesses (494) to actual crimes in 4 po...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24933175/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24933175/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Double-blind photo lineups using actual eyewitnessesby GL Wells · 2015 · Cited by 208 — Eyewitnesses (494) to actual crimes in 4 po...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: paloaltou.edu  
-   Link: [https://paloaltou.edu/resources/translating-research-into-practice-blog/foresight-in-blind-line-up-procedures/](https://paloaltou.edu/resources/translating-research-into-practice-blog/foresight-in-blind-line-up-procedures/)  
+   Link: <a href="https://paloaltou.edu/resources/translating-research-into-practice-blog/foresight-in-blind-line-up-procedures/" target="_blank" rel="noopener noreferrer nofollow">https://paloaltou.edu/resources/translating-research-into-practice-blog/foresight-in-blind-line-up-procedures/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Palo Alto UniversityForesight in Blind Line-up ProceduresFillers serve to protect innocent suspects from identification from witnesses wh...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchportal.port.ac.uk  
    Title: the effect of suspect filler similarity on eyewitness identificat  
-   Link: [https://researchportal.port.ac.uk/en/publications/the-effect-of-suspect-filler-similarity-on-eyewitness-identificat](https://researchportal.port.ac.uk/en/publications/the-effect-of-suspect-filler-similarity-on-eyewitness-identificat)  
+   Link: <a href="https://researchportal.port.ac.uk/en/publications/the-effect-of-suspect-filler-similarity-on-eyewitness-identificat" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/en/publications/the-effect-of-suspect-filler-similarity-on-eyewitness-identificat</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of PortsmouthThe effect of suspect-filler similarity on eyewitness...by RJ Fitzgerald · 2013 · Cited by 200 — Compared with l...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nationalacademies.org  
    Title: using science to improve eyewitness testimony  
-   Link: [https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony](https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony)  
+   Link: <a href="https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Jan 2020 — Five years after a landmark National Academies report on eyewitness identification, a lead author reflects on its impact.Re...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sites.nationalacademies.org  
    Title: pga 152283  
-   Link: [https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_152283.pdf](https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_152283.pdf)  
+   Link: <a href="https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_152283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_152283.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nationalacademies.orgReport2 Oct 2014 — Whenever the eyewitness identifies a suspect in the courtroom, juries should hear detailed inform...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sites.nationalacademies.org  
    Title: PGA 086967  
-   Link: [https://sites.nationalacademies.org/pga/PGA_086967](https://sites.nationalacademies.org/pga/PGA_086967)  
+   Link: <a href="https://sites.nationalacademies.org/pga/PGA_086967" target="_blank" rel="noopener noreferrer nofollow">https://sites.nationalacademies.org/pga/PGA_086967</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Coverage: Eyewitness ID - National AcademiesA new report from the National Research Council urges police and the courts to use caution in...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: paloaltou.edu  
-   Link: [https://paloaltou.edu/resources/translating-research-into-practice-blog/sequential-lineup-procedure-shows-advantage-over-simultaneous/](https://paloaltou.edu/resources/translating-research-into-practice-blog/sequential-lineup-procedure-shows-advantage-over-simultaneous/)  
+   Link: <a href="https://paloaltou.edu/resources/translating-research-into-practice-blog/sequential-lineup-procedure-shows-advantage-over-simultaneous/" target="_blank" rel="noopener noreferrer nofollow">https://paloaltou.edu/resources/translating-research-into-practice-blog/sequential-lineup-procedure-shows-advantage-over-simultaneous/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ntial) identified a known-innocent filler rather than a suspect, indicating...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/eyewitness](https://dictionary.cambridge.org/dictionary/english/eyewitness)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/eyewitness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>account According to an eyewitness account, the thieves abandoned their...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: oro.open.ac.uk  
    Title: open.ac.uk Eyewitness identification procedures  
-   Link: [https://oro.open.ac.uk/77197/1/77197.pdf](https://oro.open.ac.uk/77197/1/77197.pdf)  
+   Link: <a href="https://oro.open.ac.uk/77197/1/77197.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oro.open.ac.uk/77197/1/77197.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>identification procedures - Open Research Onlineby G Pike · 2021 · Cited by 8 — The AP/LS recom- mends employing double-blind procedures...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: player.stv.tv  
-   Link: [https://player.stv.tv/summary/all31-eyewitness](https://player.stv.tv/summary/all31-eyewitness)  
+   Link: <a href="https://player.stv.tv/summary/all31-eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://player.stv.tv/summary/all31-eyewitness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness | Stream Free on STV PlayerA fast-paced thriller seen through the eyes of two teenagers. A clandestine meeting between school...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: ojp.gov  
-   Link: [https://www.ojp.gov/ncjrs/virtual-library/abstracts/double-blind-sequential-police-lineup-procedures-toward-integrated](https://www.ojp.gov/ncjrs/virtual-library/abstracts/double-blind-sequential-police-lineup-procedures-toward-integrated)  
+   Link: <a href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/double-blind-sequential-police-lineup-procedures-toward-integrated" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/ncjrs/virtual-library/abstracts/double-blind-sequential-police-lineup-procedures-toward-integrated</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lineup, can negatively influence eyewitness identification accuracy. The project included two components: a pilot program of double-blind...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/eyewitness](https://www.merriam-webster.com/dictionary/eyewitness)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/eyewitness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EYEWITNESS Definition &amp; Meaning3 days ago — The meaning of EYEWITNESS is one who sees an occurrence or an object; especially: one who gi...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: rottentomatoes.com  
-   Link: [https://www.rottentomatoes.com/m/1006917-eyewitness](https://www.rottentomatoes.com/m/1006917-eyewitness)  
+   Link: <a href="https://www.rottentomatoes.com/m/1006917-eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/1006917-eyewitness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EyewitnessEyewitness is a decent film. It is about a janitor who claims he&#x27;s seen a murder and becomes romantically involved with the gla...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: judicature.duke.edu  
-   Link: [https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/](https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/)  
+   Link: <a href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Clearer View: The Impact of the National Academy of...This “sequential lineup,” in which faces are presented one at a time, was predicte...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: policeforum.org  
-   Link: [https://www.policeforum.org/assets/docs/Free_Online_Documents/Eyewitness_Identification/a%20national%20survey%20of%20eyewitness%20identification%20procedures%20in%20law%20enforcement%20agencies%202013.pdf](https://www.policeforum.org/assets/docs/Free_Online_Documents/Eyewitness_Identification/a%20national%20survey%20of%20eyewitness%20identification%20procedures%20in%20law%20enforcement%20agencies%202013.pdf)  
+   Link: <a href="https://www.policeforum.org/assets/docs/Free_Online_Documents/Eyewitness_Identification/a%20national%20survey%20of%20eyewitness%20identification%20procedures%20in%20law%20enforcement%20agencies%202013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.policeforum.org/assets/docs/Free_Online_Documents/Eyewitness_Identification/a%20national%20survey%20of%20eyewitness%20identification%20procedures%20in%20law%20enforcement%20agencies%202013.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a national survey of eyewitness identification procedures in...by LE Agencies · 2013 · Cited by 1 — In 2011, an initial report was issue...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: national-lottery.co.uk  
-   Link: [https://www.national-lottery.co.uk/](https://www.national-lottery.co.uk/)  
+   Link: <a href="https://www.national-lottery.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.national-lottery.co.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Buy tickets for draw-games like Lotto, EuroMillions and Set For Life. Check results, play Instant Win Games and more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIReference Guide on Eyewitness Identification  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK621592/](https://www.ncbi.nlm.nih.gov/books/NBK621592/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBIImplement double-blind lineup and photo array procedures. 3. Develop and use standardized witness instructions. 4. Document witness c...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK621592/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK621592/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implement double-blind lineup and photo array procedures. 3. Develop and use standardized witness instructions. 4. Document witness c...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: nationalrail.co.uk  
-   Link: [https://www.nationalrail.co.uk/](https://www.nationalrail.co.uk/)  
+   Link: <a href="https://www.nationalrail.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalrail.co.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The portal to rail travel, including train times, information, fares enquiries, promotions and tickets...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/228178308_Lineups_and_Eyewitness_Identification](https://www.researchgate.net/publication/228178308_Lineups_and_Eyewitness_Identification)  
+   Link: <a href="https://www.researchgate.net/publication/228178308_Lineups_and_Eyewitness_Identification" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228178308_Lineups_and_Eyewitness_Identification</a>  
 
 34. <a id="endnote-34"></a>
    Source: news.asu.edu  
    Title: 20240906 science and technology when suspect lineups go wrong  
-   Link: [https://news.asu.edu/20240906-science-and-technology-when-suspect-lineups-go-wrong](https://news.asu.edu/20240906-science-and-technology-when-suspect-lineups-go-wrong)  
+   Link: <a href="https://news.asu.edu/20240906-science-and-technology-when-suspect-lineups-go-wrong" target="_blank" rel="noopener noreferrer nofollow">https://news.asu.edu/20240906-science-and-technology-when-suspect-lineups-go-wrong</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>suspect lineups go wrong - ASU News6 Sept 2024 — Suspect-bias factors are problematic because they increase the likelihood that an eyewit...</p></details>

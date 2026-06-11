@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781
 - Myths_and_misconcept_0d48d7_expert_trust_health_481656_wakefield_mmr_author_eb5570
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - expert-trust
 - false-balance
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - expert-trust
 - false-balance
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A myth can look stronger than it is when one dissenting expert is presented as equal to a field's wider judgement.
 hero_summary: A myth can look stronger than it is when one dissenting expert is presented as equal to a field's wider judgement.
 layout: default
 permalink: /false-balance-0e8d1b/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /expert-trust/
 nav_short_title: False Balance
 title: When One Expert Is Not Half the Debate
-title_full: When One Expert Is Not Half the Debate | Expert Trust
+title_full: When One Expert Is Not Half the Debate
 display_title_short: False Balance
 display_title: False Balance
 heading_title: When One Expert Is Not Half the Debate
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Expert Trust Carries Bad Claims | Mythcraft
+parent_title: When Expert Trust Carries Bad Claims
 parent_permalink: /expert-trust/
 parent_nav_short_title: Expert Trust
 parent_heading_title: When Expert Trust Carries Bad Claims
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Prestigious Journals Get It Wrong
 up_link:
   basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
@@ -265,7 +265,7 @@ next_link:
   permalink: /mmr-case/
   short_title: MMR Case
   heading_title: How the MMR Myth Borrowed Medical Authority
-date: '2026-06-09 04:41:55 '
+date: '2026-06-11 22:10:38 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_expert_consensus_fal_48d641-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_expert_consensus_fal_48d641-Illustration-1.webp
@@ -274,15 +274,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_exp
 
 ## Introduction
 
-A common health myth gains credibility when people see “experts on both sides” and assume the evidence must be evenly divided. In reality, scientific and medical debates are not counted by heads but weighed by evidence. A single doctor, researcher or commentator may disagree with the broader medical community, yet that disagreement does not automatically mean there is a fifty-fifty split in knowledge or uncertainty. False balance occurs when a lone or fringe expert is presented as carrying the same evidential weight as a large body of research and the professional consensus built from it. This matters because people often use expert disagreement as a shortcut for judging risk. When the disagreement is exaggerated, public understanding of health evidence can become distorted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthjournalism.org">[Association of Health Care Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthjournalism.org</span><span class="citation-popover-snippet">Association of Health Care JournalistsFalse balance (false equivalence)The danger of false equivalence remains for any issue on which a b...</span></span></span>
-
+A common health myth gains credibility when people see experts on both sides and assume the evidence must be evenly divided. In reality, scientific and medical debates are not counted by heads but weighed by evidence. A single doctor, researcher or commentator may disagree with the broader medical community, yet that disagreement does not automatically mean there is a fifty-fifty split in knowledge or uncertainty. False balance occurs when a lone or fringe expert is presented as carrying the same evidential weight as a large body of research and the professional consensus built from it. This matters because people often use expert disagreement as a shortcut for judging risk. When the disagreement is exaggerated, public understanding of health evidence can become distorted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthjournalism.org">[Association of Health Care Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthjournalism.org</span><span class="citation-popover-snippet">Association of Health Care JournalistsFalse balance (false equivalence)The danger of false equivalence remains for any issue on which a b...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_expert_consensus_fal_48d641-Illustration-1-dark.svg" | relative_url }}" alt="False Balance illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_expert_consensus_fal_48d641-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_expert_consensus_fal_48d641-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Disagreement Is Not Always Equal Evidence
 
 Medical consensus is not a vote among doctors. It is the result of many studies, repeated testing, peer review, systematic reviews, clinical experience and ongoing scrutiny. Consensus can be wrong and has changed throughout history, but its strength comes from the convergence of evidence rather than from the authority of any one individual.
 
-A lone expert may genuinely identify an emerging problem before others do. Science depends on dissent and challenge. The problem arises when audiences assume that one dissenting voice automatically cancels out a large body of evidence. If hundreds of studies point in one direction and a small number of researchers disagree, the situation is not necessarily balanced simply because two viewpoints exist. Presenting it that way can create a misleading impression of uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/epistemic-dangers-of-journalistic-balance/BE1300ED448BAE016576E07AC0C237EE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe epistemic dangers of journalistic balanceby G Terzian · Cited by 8 — Recipients of falsely bal...</span></span></span> University Press & Assessment
+A lone expert may genuinely identify an emerging problem before others do. Science depends on dissent and challenge. The problem arises when audiences assume that one dissenting voice automatically cancels out a large body of evidence. If hundreds of studies point in one direction and a small number of researchers disagree, the situation is not necessarily balanced simply because two viewpoints exist. Presenting it that way can create a misleading impression of uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/epistemic-dangers-of-journalistic-balance/BE1300ED448BAE016576E07AC0C237EE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe epistemic dangers of journalistic balanceby G Terzian  Cited by 8  Recipients of falsely bal...</span></span></span> University Press & Assessment
 
 Health journalism organisations have long warned about this problem. They describe false balance, sometimes called false equivalence, as giving scientifically marginal positions equal standing with evidence-backed conclusions. The danger is not disagreement itself but the suggestion that competing claims enjoy comparable evidential support when they do not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthjournalism.org">[Association of Health Care Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthjournalism.org</span><span class="citation-popover-snippet">Association of Health Care JournalistsFalse balance (false equivalence)The danger of false equivalence remains for any issue on which a b...</span></span></span>
 
@@ -295,71 +294,61 @@ Several factors amplify this effect:
 * **Credentials are highly visible.** People notice that someone is a doctor or scientist more readily than they notice whether that person's view reflects mainstream evidence.
 * **Media formats reward [conflict]({{ 'conflict/' | relative_url }}).** Interviews, debates and panel discussions often present two opposing guests, visually implying equal legitimacy even when the evidence is highly uneven.
 * **Social media favours novelty.** A dissenter saying something unexpected can attract far more attention than experts repeating an established conclusion.
-* **Humans infer uncertainty from disagreement.** If experts appear divided, audiences often conclude that the science itself is unsettled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2111.10594" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7090020/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine Safety: Myths and Misinformation</span><span class="citation-popover-snippet">PMCby S Geoghegan · 2020 · Cited by 331 — In this review we will address several of these topics and highlight the robust body of scienti...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/epistemic-dangers-of-journalistic-balance/BE1300ED448BAE016576E07AC0C237EE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe epistemic dangers of journalistic balanceby G Terzian · Cited by 8 — Recipients of falsely bal...</span></span></span>
+* **Humans infer uncertainty from disagreement.** If experts appear divided, audiences often conclude that the science itself is unsettled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2111.10594" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7090020/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVaccine Safety: Myths and Misinformation</span><span class="citation-popover-snippet">by S Geoghegan  2020  Cited by 331  In this review we will address several of these topics and highlight the robust body of scienti...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/epistemic-dangers-of-journalistic-balance/BE1300ED448BAE016576E07AC0C237EE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe epistemic dangers of journalistic balanceby G Terzian  Cited by 8  Recipients of falsely bal...</span></span></span>
 
 Research on online discussions during the COVID-19 pandemic found that scientists whose views opposed the broader scientific consensus could receive disproportionate attention relative to consensus-aligned experts. This [amplification]({{ 'amplification/' | relative_url }}) created a misleading impression that dissenting views were more common within the scientific community than they actually were. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2111.10594" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The result is not merely exposure to an alternative opinion. It is a change in perceived odds. Audiences begin to think there are two equally credible camps when the underlying evidence may be heavily concentrated on one side.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O_7wZ5mLDmk" title="Scientific Consensus with Dr John Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O_7wZ5mLDmk" target="_blank" rel="noopener noreferrer">Scientific Consensus with Dr John Cook</a></p><p class="youtube-embed-meta">Channel: Thinking Is Power with Melanie Trecek-King &middot; Views: 1.1K &middot; Uploaded: January 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O_7wZ5mLDmk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O_7wZ5mLDmk">Open on YouTube</a></p></div></div></div>
-
 ## A Health Example: Vaccines and the Visibility of Dissent
 
 Vaccine debates illustrate the mechanism clearly. The existence of a few doctors, researchers or former health professionals questioning vaccine safety is sometimes interpreted as proof that the scientific community is deeply divided. Yet major reviews by medical organisations and public-health bodies have repeatedly concluded that the evidence supporting vaccine safety and effectiveness is extensive and robust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11540079/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCScrutinizing the COVID-19 vaccine safety debate</span><span class="citation-popover-snippet">the COVID-19 vaccine safety debate - PMCEven in the face of robust scientific evidence, vaccine skepticism prevails for several reasons...</span></span></span>
 
-The public, however, rarely sees the entire evidence base. Instead, it may encounter a television debate, a podcast interview or a viral social-media clip featuring one dissenter and one mainstream expert. The format itself can imply parity. Viewers may come away believing the scientific community is split down the middle even when the actual distribution of expert opinion is nowhere near that. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalistsresource.org/home/covering-misinformation-tips/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">covering misinformation tips</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourceHow to report on public officials who spread misinformation8 Dec 2021 — When a public official or physician is t...</span></span></span>
+The public, however, rarely sees the entire evidence base. Instead, it may encounter a television debate, a podcast interview or a viral social-media clip featuring one dissenter and one mainstream expert. The format itself can imply parity. Viewers may come away believing the scientific community is split down the middle even when the actual distribution of expert opinion is nowhere near that. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalistsresource.org/home/covering-misinformation-tips/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">covering misinformation tips</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourceHow to report on public officials who spread misinformation8 Dec 2021  When a public official or physician is t...</span></span></span>
 
 This does not mean dissenters should never be heard. Genuine scientific criticism can improve research and expose mistakes. The risk emerges when visibility is mistaken for representativeness. A highly visible outlier can become a symbol of supposed controversy long after the broader evidence has moved in another direction.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4NtVHGT2tgI" title="7 Nations Just EXPOSED The Pentagon&#x27;s Alien Lie &amp; Other UFO Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4NtVHGT2tgI" target="_blank" rel="noopener noreferrer">7 Nations Just EXPOSED The Pentagon&#x27;s Alien Lie &amp; Other UFO Stories</a></p><p class="youtube-embed-meta">Channel: The Infographics Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4NtVHGT2tgI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4NtVHGT2tgI">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_expert_consensus_fal_48d641-Illustration-2-dark.svg" | relative_url }}" alt="False Balance illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_expert_consensus_fal_48d641-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_expert_consensus_fal_48d641-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why False Balance Persists
 
 False balance often grows from a well-intentioned desire to appear fair. Journalists, moderators and communicators may worry that excluding a dissenting voice looks biased. Yet treating every viewpoint as equally supported by evidence can itself become a form of distortion.
 
-Studies of science communication have shown that balanced presentation can unintentionally create public confusion about the degree of expert agreement. Research on other scientific issues, including climate science, demonstrates that giving disproportionate attention to contrarian voices can lead audiences to underestimate the strength of scientific consensus. Although climate science is a different field, the communication mechanism is highly relevant to [health myths]({{ 'health-myths/' | relative_url }}): a small minority position appears larger and more credible than it really is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959378016305209" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectBeyond false balance: How interpretive journalism shapes...by M Brüggemann · 2017 · Cited by 439 — Beyond false balance: Ho...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.northwestern.edu/stories/2022/07/false-balance-reporting-climate-change-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.northwestern.edu">[Northwestern Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.northwestern.edu</span><span class="citation-popover-snippet">Northwestern NowFalse balance in news coverage of climate change makes it...22 July 2022 — “Climate change is a great case study of the...</span><span class="citation-popover-meta">Published: July 2022</span></span></span>
+Studies of science communication have shown that balanced presentation can unintentionally create public confusion about the degree of expert agreement. Research on other scientific issues, including climate science, demonstrates that giving disproportionate attention to contrarian voices can lead audiences to underestimate the strength of scientific consensus. Although climate science is a different field, the communication mechanism is highly relevant to [health myths]({{ 'health-myths/' | relative_url }}): a small minority position appears larger and more credible than it really is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959378016305209" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Beyond false balance: How interpretive journalism shapes...by M Brggemann  2017  Cited by 439  Beyond false balance: Ho...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.northwestern.edu/stories/2022/07/false-balance-reporting-climate-change-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.northwestern.edu">[Northwestern Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.northwestern.edu</span><span class="citation-popover-snippet">Northwestern NowFalse balance in news coverage of climate change makes it...22 July 2022  Climate change is a great case study of the...</span><span class="citation-popover-meta">Published: July 2022</span></span></span>
 
-The same dynamic becomes especially powerful during health crises. In environments flooded with information, people often look for simple cues about whom to trust. A credentialed dissenter can become an attractive focal point because disagreement itself appears newsworthy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCInfodemics and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 718 — This phenomenon, called a...</span></span></span>
+The same dynamic becomes especially powerful during health crises. In environments flooded with information, people often look for simple cues about whom to trust. A credentialed dissenter can become an attractive focal point because disagreement itself appears newsworthy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Infodemics and health misinformation: a systematic review of...by IJB do Nascimento  2022  Cited by 718  This phenomenon, called a...</span></span></span>
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_expert_consensus_fal_48d641-Illustration-2-dark.svg" | relative_url }}" alt="False Balance illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_expert_consensus_fal_48d641-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_expert_consensus_fal_48d641-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Consensus Cues Can Protect Public Trust
 
 One response to false balance is to make the structure of expert agreement more visible. Rather than asking only whether an expert exists on each side of a debate, communicators can explain how widely a position is supported and what evidence underpins it.
 
 Useful consensus cues include:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Explaining whether a view is held by a small minority or by most specialists in the field.
 * Referring to systematic reviews and evidence syntheses rather than isolated studies.
 * Distinguishing between ongoing scientific questions and issues that are largely settled.
-* Clarifying the difference between legitimate uncertainty and manufactured controversy. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/sources-experts-where-to-find-them-how-to-vet-them/avoiding-false-balance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[KSJ Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-snippet">KSJ HandbookAvoiding False Balance... Misinformation · Op-Eds and Essays · About This Handbook · Download PDF Submenu... scientific cons...</span></span></span>
+* Clarifying the difference between legitimate uncertainty and manufactured controversy. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/sources-experts-where-to-find-them-how-to-vet-them/avoiding-false-balance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[KSJ Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-snippet">KSJ HandbookAvoiding False Balance... Misinformation  Op-Eds and Essays  About This Handbook  Download PDF Submenu... scientific cons...</span></span></span>
 
 </div>
 
-Research suggests that helping people understand scientific consensus can improve their ability to identify misinformation and correct mistaken beliefs. Consensus messaging is not an appeal to authority alone; it is a way of signalling where the [weight of evidence]({{ 'evidence-weighting/' | relative_url }}) currently lies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/09567976211007788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsBoosting Understanding and Identification of Scientific...by A van Stekelenburg · 2021 · Cited by 41 — We show that a strat...</span></span></span>
+Research suggests that helping people understand scientific consensus can improve their ability to identify misinformation and correct mistaken beliefs. Consensus messaging is not an appeal to authority alone; it is a way of signalling where the weight of evidence currently lies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/09567976211007788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsBoosting Understanding and Identification of Scientific...by A van Stekelenburg  2021  Cited by 41  We show that a strat...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aSZ-T2V--Rg" title="The DARK SIDE of Ashwagandha" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aSZ-T2V--Rg" target="_blank" rel="noopener noreferrer">The DARK SIDE of Ashwagandha</a></p><p class="youtube-embed-meta">Channel: Dr. Eric Berg DC</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aSZ-T2V--Rg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aSZ-T2V--Rg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O_7wZ5mLDmk" title="Scientific Consensus with Dr John Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O_7wZ5mLDmk" target="_blank" rel="noopener noreferrer">Scientific Consensus with Dr John Cook</a></p><p class="youtube-embed-meta">Channel: Thinking Is Power with Melanie Trecek-King &middot; Views: 1.1K &middot; Uploaded: January 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O_7wZ5mLDmk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O_7wZ5mLDmk">Open on YouTube</a></p></div></div></div>
 
 ## What Readers Should Watch For
 
-When encountering a health claim promoted by a doctor or researcher, the most useful question is often not “Is this person an expert?” but “How representative is this view within the relevant field?”
+When encountering a health claim promoted by a doctor or researcher, the most useful question is often not Is this person an expert? but How representative is this view within the relevant field?
 
 Warning signs of false balance include:
 
 * A debate framed as two equal sides without discussion of the underlying evidence.
 * Heavy emphasis on a single expert's credentials rather than on research findings.
-* Claims that “many experts disagree” without showing how many or in what proportion.
+* Claims that many experts disagree without showing how many or in what proportion.
 * Reliance on isolated studies while ignoring larger reviews and accumulated evidence.
-* Suggestions that the mere existence of disagreement proves that established conclusions are unreliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthjournalism.org">[Association of Health Care Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthjournalism.org</span><span class="citation-popover-snippet">Association of Health Care JournalistsFalse balance (false equivalence)The danger of false equivalence remains for any issue on which a b...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalistsresource.org/home/covering-misinformation-tips/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">covering misinformation tips</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourceHow to report on public officials who spread misinformation8 Dec 2021 — When a public official or physician is t...</span></span></span>
+* Suggestions that the mere existence of disagreement proves that established conclusions are unreliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthjournalism.org">[Association of Health Care Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthjournalism.org</span><span class="citation-popover-snippet">Association of Health Care JournalistsFalse balance (false equivalence)The danger of false equivalence remains for any issue on which a b...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalistsresource.org/home/covering-misinformation-tips/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">covering misinformation tips</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourceHow to report on public officials who spread misinformation8 Dec 2021  When a public official or physician is t...</span></span></span>
 
 In health myths, the persuasive power of a lone expert often comes not from stronger evidence but from the appearance of balance. Understanding that difference helps explain why some misconceptions survive even when the broader medical evidence points strongly in the opposite direction.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_expert_consensus_fal_48d641-Illustration-3-dark.svg" | relative_url }}" alt="False Balance illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_expert_consensus_fal_48d641-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_expert_consensus_fal_48d641-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -480,11 +469,11 @@ In health myths, the persuasive power of a lone expert often comes not from stro
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-0e8d1b-when-one-expert-is-not-half-the-debate-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="false-balance-0e8d1b-when-one-expert-is-not-half-the-debate-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Phonetic Alphabet Poster â€“ Tactical Survival Communication Chart"><img src="{{ '/assets/images/marketplace-covers/75e30d286484f400ab90.jpg' | relative_url }}" alt="Listing image for Military Phonetic Alphabet Poster â€“ Tactical Survival Communication Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-0e8d1b-when-one-expert-is-not-half-the-debate-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="false-balance-0e8d1b-when-one-expert-is-not-half-the-debate-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Phonetic Alphabet Poster – Tactical Survival Communication Chart"><img src="{{ '/assets/images/marketplace-covers/75e30d286484f400ab90.jpg' | relative_url }}" alt="Listing image for Military Phonetic Alphabet Poster – Tactical Survival Communication Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-0e8d1b-when-one-expert-is-not-half-the-debate-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="false-balance-0e8d1b-when-one-expert-is-not-half-the-debate-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer">Military Phonetic Alphabet Poster â€“ Tactical Survival Communication Chart</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-0e8d1b-when-one-expert-is-not-half-the-debate-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="false-balance-0e8d1b-when-one-expert-is-not-half-the-debate-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer">Military Phonetic Alphabet Poster – Tactical Survival Communication Chart</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-0e8d1b-when-one-expert-is-not-half-the-debate-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="false-balance-0e8d1b-when-one-expert-is-not-half-the-debate-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science communication poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science communication poster</a>
         <div class="fr-book-actions">
@@ -727,154 +716,154 @@ In health myths, the persuasive power of a lone expert often comes not from stro
 
 1. <a id="endnote-1"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/episteme/article/epistemic-dangers-of-journalistic-balance/BE1300ED448BAE016576E07AC0C237EE](https://www.cambridge.org/core/journals/episteme/article/epistemic-dangers-of-journalistic-balance/BE1300ED448BAE016576E07AC0C237EE)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe epistemic dangers of journalistic balanceby G Terzian · Cited by 8 — Recipients of falsely bal...</p></details>
+   Link: <a href="https://www.cambridge.org/core/journals/episteme/article/epistemic-dangers-of-journalistic-balance/BE1300ED448BAE016576E07AC0C237EE" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/episteme/article/epistemic-dangers-of-journalistic-balance/BE1300ED448BAE016576E07AC0C237EE</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe epistemic dangers of journalistic balanceby G Terzian  Cited by 8  Recipients of falsely bal...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2111.10594](https://arxiv.org/abs/2111.10594)  
+   Link: <a href="https://arxiv.org/abs/2111.10594" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.10594</a>  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2401.13248](https://arxiv.org/abs/2401.13248)  
+   Link: <a href="https://arxiv.org/abs/2401.13248" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.13248</a>  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCVaccine Safety: Myths and Misinformation  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7090020/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7090020/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Geoghegan · 2020 · Cited by 331 — In this review we will address several of these topics and highlight the robust body of scienti...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7090020/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7090020/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Geoghegan  2020  Cited by 331  In this review we will address several of these topics and highlight the robust body of scienti...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCScrutinizing the COVID-19 vaccine safety debate  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11540079/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11540079/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11540079/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11540079/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the COVID-19 vaccine safety debate - PMCEven in the face of robust scientific evidence, vaccine skepticism prevails for several reasons...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0959378016305209](https://www.sciencedirect.com/science/article/abs/pii/S0959378016305209)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectBeyond false balance: How interpretive journalism shapes...by M Brüggemann · 2017 · Cited by 439 — Beyond false balance: Ho...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959378016305209" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959378016305209</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond false balance: How interpretive journalism shapes...by M Brggemann  2017  Cited by 439  Beyond false balance: Ho...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: news.northwestern.edu  
-   Link: [https://news.northwestern.edu/stories/2022/07/false-balance-reporting-climate-change-crisis](https://news.northwestern.edu/stories/2022/07/false-balance-reporting-climate-change-crisis)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Northwestern NowFalse balance in news coverage of climate change makes it...22 July 2022 — “Climate change is a great case study of the...</p></details>
+   Link: <a href="https://news.northwestern.edu/stories/2022/07/false-balance-reporting-climate-change-crisis" target="_blank" rel="noopener noreferrer nofollow">https://news.northwestern.edu/stories/2022/07/false-balance-reporting-climate-change-crisis</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Northwestern NowFalse balance in news coverage of climate change makes it...22 July 2022  Climate change is a great case study of the...</p></details>
    Published: July 2022  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCInfodemics and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 718 — This phenomenon, called a...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemics and health misinformation: a systematic review of...by IJB do Nascimento  2022  Cited by 718  This phenomenon, called a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0272494420303492](https://www.sciencedirect.com/science/article/abs/pii/S0272494420303492)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Combatting climate change misinformation: Evidence for...by R Maertens · 2020 · Cited by 213 — [Fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;), disinformation and misinformat...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0272494420303492" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0272494420303492</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Combatting climate change misinformation: Evidence for...by R Maertens  2020  Cited by 213  [Fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;), disinformation and misinformat...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0264410X25004748](https://www.sciencedirect.com/science/article/pii/S0264410X25004748)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The social influence of the [corrections](&amp;#123;&amp;#123; &#x27;corrections/&#x27; | relative_url &amp;#125;&amp;#125;) of vaccine...by A Shanker · 2025 · Cited by 4 — This study examines the impact of social versus...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0264410X25004748" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0264410X25004748</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The social influence of the [corrections](&amp;#123;&amp;#123; &#x27;corrections/&#x27; | relative_url &amp;#125;&amp;#125;) of vaccine...by A Shanker  2025  Cited by 4  This study examines the impact of social versus...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/false](https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/false)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cambridge.orgFALSE中文(繁體)翻譯：劍橋詞典FALSE翻譯：非真的, 假的；人工的, 不真實的, 虛假的;偽造的, 不正確的, 錯誤的, 不真誠的, 不真誠的;虛情假意的, 不忠實的, 不忠誠的;不可靠的。了解更多。...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/false" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/false</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>cambridge.orgFALSE()FALSE, , , ;, , , , ;, , ;...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/behavioural-public-policy/article/vaccine-misinformation-and-social-determinants-of-vaccine-intentions-during-a-pandemic/41E6D2C19F88615E5BD3730A6784B51C](https://www.cambridge.org/core/journals/behavioural-public-policy/article/vaccine-misinformation-and-social-determinants-of-vaccine-intentions-during-a-pandemic/41E6D2C19F88615E5BD3730A6784B51C)  
+   Link: <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/vaccine-misinformation-and-social-determinants-of-vaccine-intentions-during-a-pandemic/41E6D2C19F88615E5BD3730A6784B51C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-public-policy/article/vaccine-misinformation-and-social-determinants-of-vaccine-intentions-during-a-pandemic/41E6D2C19F88615E5BD3730A6784B51C</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ial norms and assess their mediating role in vaccination intentions...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: healthjournalism.org  
-   Link: [https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/](https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/)  
+   Link: <a href="https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/" target="_blank" rel="noopener noreferrer nofollow">https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Health Care JournalistsFalse balance (false equivalence)The danger of false equivalence remains for any issue on which a b...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ksjhandbook.org  
-   Link: [https://ksjhandbook.org/sources-experts-where-to-find-them-how-to-vet-them/avoiding-false-balance/](https://ksjhandbook.org/sources-experts-where-to-find-them-how-to-vet-them/avoiding-false-balance/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KSJ HandbookAvoiding False Balance... Misinformation · Op-Eds and Essays · About This Handbook · Download PDF Submenu... scientific cons...</p></details>
+   Link: <a href="https://ksjhandbook.org/sources-experts-where-to-find-them-how-to-vet-them/avoiding-false-balance/" target="_blank" rel="noopener noreferrer nofollow">https://ksjhandbook.org/sources-experts-where-to-find-them-how-to-vet-them/avoiding-false-balance/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>KSJ HandbookAvoiding False Balance... Misinformation  Op-Eds and Essays  About This Handbook  Download PDF Submenu... scientific cons...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA dangerous balancing act  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6680130/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6680130/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby DR Grimes · 2019 · Cited by 35 — If we are to stem the tide of misinformation, it is imperative that scientists themselves be...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6680130/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6680130/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby DR Grimes  2019  Cited by 35  If we are to stem the tide of misinformation, it is imperative that scientists themselves be...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: journalistsresource.org  
    Title: covering misinformation tips  
-   Link: [https://journalistsresource.org/home/covering-misinformation-tips/](https://journalistsresource.org/home/covering-misinformation-tips/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Journalist&#x27;s ResourceHow to report on public officials who spread misinformation8 Dec 2021 — When a public official or physician is t...</p></details>
+   Link: <a href="https://journalistsresource.org/home/covering-misinformation-tips/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/home/covering-misinformation-tips/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Journalist&#x27;s ResourceHow to report on public officials who spread misinformation8 Dec 2021  When a public official or physician is t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/09567976211007788](https://journals.sagepub.com/doi/10.1177/09567976211007788)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsBoosting Understanding and Identification of Scientific...by A van Stekelenburg · 2021 · Cited by 41 — We show that a strat...</p></details>
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/09567976211007788" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/09567976211007788</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsBoosting Understanding and Identification of Scientific...by A van Stekelenburg  2021  Cited by 41  We show that a strat...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: False balance  
-   Link: [https://en.wikipedia.org/wiki/False_balance](https://en.wikipedia.org/wiki/False_balance)  
+   Link: <a href="https://en.wikipedia.org/wiki/False_balance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_balance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False balanceFalse balance has been cited as a cause of misinformation. Among climate scientists in 2013, 97% of peer-reviewed papers...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change](https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change)  
+   Link: <a href="https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of False Balance Reporting and Weight-of-Evidence...Falsely balanced reports can expose individuals to arguments that run counte...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: hazards.colorado.edu  
-   Link: [https://hazards.colorado.edu/quick-response-report/assessing-covid-19-vaccine-misinformation-interventions-among-rural-suburban-and-urban-residents](https://hazards.colorado.edu/quick-response-report/assessing-covid-19-vaccine-misinformation-interventions-among-rural-suburban-and-urban-residents)  
+   Link: <a href="https://hazards.colorado.edu/quick-response-report/assessing-covid-19-vaccine-misinformation-interventions-among-rural-suburban-and-urban-residents" target="_blank" rel="noopener noreferrer nofollow">https://hazards.colorado.edu/quick-response-report/assessing-covid-19-vaccine-misinformation-interventions-among-rural-suburban-and-urban-residents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Vaccine Misinformation Interventions Among...This study aimed to examine and compare how commenting on a Facebook misinformatio...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/pubs/reports/misinformation-consensus-statement.pdf](https://www.apa.org/pubs/reports/misinformation-consensus-statement.pdf)  
+   Link: <a href="https://www.apa.org/pubs/reports/misinformation-consensus-statement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/reports/misinformation-consensus-statement.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation-consensus-statement.pdfABSTRACT. There is widespread concern that misinformation poses dangerous risks to health, well-bei...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-022-24607-6](https://www.nature.com/articles/s41598-022-24607-6)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureNovember 21, 2022 — Understanding COVID-19 misinformation and vaccine hesitancy in context: Findings from a qualitative study invol...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-022-24607-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-24607-6</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 21, 2022  Understanding COVID-19 misinformation and vaccine hesitancy in context: Findings from a qualitative study invol...</p></details>
    Published: November 21, 2022  
 
 23. <a id="endnote-23"></a>
    Source: e360.yale.edu  
    Title: a shot of climate consensus may inoculate against false balance say researchers  
-   Link: [https://e360.yale.edu/digest/a-shot-of-climate-consensus-may-inoculate-against-false-balance-say-researchers](https://e360.yale.edu/digest/a-shot-of-climate-consensus-may-inoculate-against-false-balance-say-researchers)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Shot&#x27; of Climate Consensus May Inoculate Against False...9 May 2017 — “An inoculating message,” write the researchers, ”fully neutraliz...</p></details>
+   Link: <a href="https://e360.yale.edu/digest/a-shot-of-climate-consensus-may-inoculate-against-false-balance-say-researchers" target="_blank" rel="noopener noreferrer nofollow">https://e360.yale.edu/digest/a-shot-of-climate-consensus-may-inoculate-against-false-balance-say-researchers</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Shot&#x27; of Climate Consensus May Inoculate Against False...9 May 2017  An inoculating message, write the researchers, fully neutraliz...</p></details>
    Published: May 2017  
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=O_7wZ5mLDmk](https://www.youtube.com/watch?v=O_7wZ5mLDmk)  
+   Link: <a href="https://www.youtube.com/watch?v=O_7wZ5mLDmk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O_7wZ5mLDmk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Consensus with Dr John CookConsensus is when there is strong scientific understanding about a question like human cause global...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: news.ucmerced.edu  
    Title: media creates false balance climate science study shows  
-   Link: [https://news.ucmerced.edu/news/2019/media-creates-false-balance-climate-science-study-shows](https://news.ucmerced.edu/news/2019/media-creates-false-balance-climate-science-study-shows)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>climate change misinformation at scale.” Amplified Misinformation... climate change science as political reporting rather than science r...</p></details>
+   Link: <a href="https://news.ucmerced.edu/news/2019/media-creates-false-balance-climate-science-study-shows" target="_blank" rel="noopener noreferrer nofollow">https://news.ucmerced.edu/news/2019/media-creates-false-balance-climate-science-study-shows</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>climate change misinformation at scale. Amplified Misinformation... climate change science as political reporting rather than science r...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: online.ucpress.edu  
    Title: Expert Consensus Messaging as a Lever Against  
-   Link: [https://online.ucpress.edu/collabra/article/11/1/143778/213503/Expert-Consensus-Messaging-as-a-Lever-Against](https://online.ucpress.edu/collabra/article/11/1/143778/213503/Expert-Consensus-Messaging-as-a-Lever-Against)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UC Press OnlineExpert Consensus Messaging as a Lever Against Vaccination...24 Sept 2025 — The spread of misinformation about [vaccines](&amp;#123;&amp;#123; &#x27;vaccines/&#x27; | relative_url &amp;#125;&amp;#125;) ca...</p></details>
+   Link: <a href="https://online.ucpress.edu/collabra/article/11/1/143778/213503/Expert-Consensus-Messaging-as-a-Lever-Against" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/11/1/143778/213503/Expert-Consensus-Messaging-as-a-Lever-Against</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UC Press OnlineExpert Consensus Messaging as a Lever Against Vaccination...24 Sept 2025  The spread of misinformation about [vaccines](&amp;#123;&amp;#123; &#x27;vaccines/&#x27; | relative_url &amp;#125;&amp;#125;) ca...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: ama-assn.org  
    Title: Combating vaccine misinformation saves lives  
-   Link: [https://www.ama-assn.org/about/leadership/combating-vaccine-misinformation-saves-lives](https://www.ama-assn.org/about/leadership/combating-vaccine-misinformation-saves-lives)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 26, 2024 — Stopping the spread of medical misinformation and disinformation online is an enormous task, and we cannot expect any si...</p></details>
+   Link: <a href="https://www.ama-assn.org/about/leadership/combating-vaccine-misinformation-saves-lives" target="_blank" rel="noopener noreferrer nofollow">https://www.ama-assn.org/about/leadership/combating-vaccine-misinformation-saves-lives</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 26, 2024  Stopping the spread of medical misinformation and disinformation online is an enormous task, and we cannot expect any si...</p></details>
    Published: March 26, 2024  
 
 28. <a id="endnote-28"></a>
    Source: pure.ed.ac.uk  
-   Title: ed.ac.uk Misinformation lingers in memory  
-   Link: [https://www.pure.ed.ac.uk/ws/files/40605920/Plos_One_paper.pdf](https://www.pure.ed.ac.uk/ws/files/40605920/Plos_One_paper.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lingers in memory - Accountby S Pluviano · 2017 · Cited by 317 — A number of strategies have been used to communicate the scientific cons...</p></details>
+   Title: ed.ac.uk Misinformation lingers in [memory](&#123;&#123; 'memory/' | relative_url &#125;&#125;)  
+   Link: <a href="https://www.pure.ed.ac.uk/ws/files/40605920/Plos_One_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pure.ed.ac.uk/ws/files/40605920/Plos_One_paper.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>lingers in memory - Accountby S Pluviano  2017  Cited by 317  A number of strategies have been used to communicate the scientific cons...</p></details>

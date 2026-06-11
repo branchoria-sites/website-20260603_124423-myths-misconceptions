@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - uncertainty
 - fake-news
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - uncertainty
 - fake-news
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Strong emotional reactions can make false information seem credible even when evidence is available.
 hero_summary: Strong emotional reactions can make false information seem credible even when evidence is available.
 layout: default
 permalink: /fake-news/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /uncertainty/
 nav_short_title: Fake News
 title: When Feelings Override Evidence in News Judgments
-title_full: When Feelings Override Evidence in News Judgments | Uncertainty
+title_full: When Feelings Override Evidence in News Judgments
 display_title_short: Fake News
 display_title: Fake News
 heading_title: When Feelings Override Evidence in News Judgments
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Uncertainty Makes Myths Appealing | Mythcraft
+parent_title: Why Uncertainty Makes Myths Appealing
 parent_permalink: /uncertainty/
 parent_nav_short_title: Uncertainty
 parent_heading_title: Why Uncertainty Makes Myths Appealing
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How the Need for Closure Fuels Conspiracy Beliefs
 up_link:
   basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
@@ -265,7 +265,7 @@ next_link:
   permalink: /need-closure/
   short_title: Need Closure
   heading_title: How the Need for Closure Fuels Conspiracy Beliefs
-date: '2026-06-09 05:51:46 '
+date: '2026-06-11 22:46:00 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_emotion_fake_news_be_33b81b-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_emotion_fake_news_be_33b81b-Illustration-1.webp
@@ -274,22 +274,20 @@ image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_em
 
 ## Introduction
 
-False information often succeeds not because people lack access to evidence, but because emotional reactions can shape judgement before evidence is examined. Within the broader relationship between emotion, [uncertainty and myth]({{ 'uncertainty/' | relative_url }}) acceptance, fake news provides a particularly clear example of how feelings can override careful evaluation. Stories that provoke fear, anger, outrage, hope or anxiety frequently feel compelling and memorable, creating a sense of truth that is not necessarily supported by facts. Research consistently shows that people who rely more heavily on emotional intuition are more likely to believe false news [headlines]({{ 'headlines/' | relative_url }}), while those who engage in reflective, analytical thinking are better able to distinguish genuine information from misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReliance on emotion promotes belief in fake news</span><span class="citation-popover-snippet">PMC - NIHby C Martel · 2020 · Cited by 764 — Moreover, analytic thinking is associated with lower trust in fake news sources (Pennycook a...</span></span></span>
-
+False information often succeeds not because people lack access to evidence, but because emotional reactions can shape judgement before evidence is examined. Within the broader relationship between [emotion]({{ 'emotion/' | relative_url }}), uncertainty and myth acceptance, fake news provides a particularly clear example of how feelings can override careful evaluation. Stories that provoke fear, anger, outrage, hope or anxiety frequently feel compelling and memorable, creating a sense of truth that is not necessarily supported by facts. Research consistently shows that people who rely more heavily on emotional intuition are more likely to believe false news [headlines]({{ 'headlines/' | relative_url }}), while those who engage in reflective, analytical thinking are better able to distinguish genuine information from misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReliance on emotion promotes belief in fake news</span><span class="citation-popover-snippet">NIHby C Martel · 2020 · Cited by 764 — Moreover, analytic thinking is associated with lower trust in fake news sources (Pennycook a...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_emotion_fake_news_be_33b81b-Illustration-1-dark.svg" | relative_url }}" alt="Fake News illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_emotion_fake_news_be_33b81b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_emotion_fake_news_be_33b81b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The result is a powerful vulnerability in modern information environments. Emotional content attracts attention, spreads rapidly through social networks, and can make [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) appear credible even when contradictory evidence is readily available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — Researchers from the Media Lab and Sloan found that hu...</span></span></span>
+The result is a powerful vulnerability in modern information environments. Emotional content attracts attention, spreads rapidly through social networks, and can make myths and misconceptions appear credible even when contradictory evidence is readily available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — Researchers from the Media Lab and Sloan found that hu...</span></span></span>
 
 ## Emotional Versus Analytic Processing
 
 One of the strongest findings in misinformation research is that emotional and analytical modes of thinking do not contribute equally to judging news accuracy.
 
-A series of studies by Gordon Pennycook, David Rand and colleagues found that individuals who score higher on measures of reflective reasoning are substantially better at distinguishing true headlines from false ones. Their work challenges the idea that people mainly believe fake news because of political loyalty or motivated reasoning. Instead, susceptibility is more strongly associated with failing to engage in careful evaluation of claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29935897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLazy, not biased: Susceptibility to partisan fake news is...by G Pennycook · 2019 · Cited by 2782 — Lazy, not biased: Susceptibili...</span></span></span> ScienceDirect Research examining emotional reasoning reaches a complementary conclusion. In experiments involving news headlines <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S001002771830163X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">•. Falling for fake news is more a result of a lack of thinking than partisanship.Read more...</span></span></span>, participants who reported relying more on [emotion]({{ 'emotion/' | relative_url }}) when forming beliefs were significantly more likely to accept false stories as accurate. At the same time, analytical thinking predicted greater resistance to misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">tate and emotional response to misinformation and consider individuals&#x27; prior beliefs as...Read more...</span></span></span>
+A series of studies by Gordon Pennycook, David Rand and colleagues found that individuals who score higher on measures of reflective reasoning are substantially better at distinguishing true headlines from false ones. Their work challenges the idea that people mainly believe fake news because of political loyalty or motivated reasoning. Instead, susceptibility is more strongly associated with failing to engage in careful evaluation of claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29935897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Lazy, not biased: Susceptibility to partisan fake news is...by G Pennycook · 2019 · Cited by 2782 — Lazy, not biased: Susceptibili...</span></span></span> ScienceDirect Research examining emotional reasoning reaches a complementary conclusion. In experiments involving news headlines <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S001002771830163X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">•. Falling for fake news is more a result of a lack of thinking than partisanship.Read more...</span></span></span>, participants who reported relying more on emotion when forming beliefs were significantly more likely to accept false stories as accurate. At the same time, analytical thinking predicted greater resistance to misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">tate and emotional response to misinformation and consider individuals&#x27; prior beliefs as...Read more...</span></span></span>
 
 This does not mean emotions are inherently irrational. Emotions provide useful signals about importance, risk and social relevance. The problem emerges when emotional responses become a substitute for evidence evaluation. A headline that triggers outrage may feel true because it aligns with an immediate emotional reaction. A frightening claim may seem credible because it activates concerns about safety. In such cases, feelings become a shortcut for determining truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8991995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Reliance on emotion promotes belief in fake news. Cognitive Research: Principles and Implications. 2020;5(1):47. doi...</span></span></span>
 
 For myths and misconceptions, this mechanism is particularly important. A false story does not need strong evidence if it produces a strong emotional impression.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uC4JZ7TKAmc" title="How You Can Help Combat Fake News | David Rand | TEDxCambridgeSalon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uC4JZ7TKAmc" target="_blank" rel="noopener noreferrer">How You Can Help Combat Fake News | David Rand | TEDxCambridgeSalon</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 8.3K &middot; Uploaded: January 2019 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uC4JZ7TKAmc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uC4JZ7TKAmc">Open on YouTube</a></p></div></div></div>
 
@@ -308,13 +306,12 @@ Psychological studies suggest several mechanisms behind this pattern:
 
 These factors help explain why myths persist despite [corrections]({{ 'corrections/' | relative_url }}). Emotional impact often arrives first, while fact-checking requires slower cognitive effort.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_emotion_fake_news_be_33b81b-Illustration-2-dark.svg" | relative_url }}" alt="Fake News illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_emotion_fake_news_be_33b81b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_emotion_fake_news_be_33b81b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Dataset Evidence: Emotion and Belief in Fake News
 
 One influential dataset comes from Martel, Pennycook and Rand's research on emotional reasoning and fake news. Across multiple studies, participants evaluated the accuracy of both genuine and fabricated news headlines while researchers measured their tendency to rely on emotion versus analytical reflection.
 
-The central finding was straightforward: greater reliance on emotion predicted stronger belief in fake news, whereas greater analytical thinking predicted better discernment between true and false information. Importantly, the effect remained even after accounting for political orientation and other demographic factors. The results suggested that emotional reasoning itself contributes to vulnerability to misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReliance on emotion promotes belief in fake news</span><span class="citation-popover-snippet">PMC - NIHby C Martel · 2020 · Cited by 764 — Moreover, analytic thinking is associated with lower trust in fake news sources (Pennycook a...</span></span></span>
+The central finding was straightforward: greater reliance on emotion predicted stronger belief in fake news, whereas greater analytical thinking predicted better discernment between true and false information. Importantly, the effect remained even after accounting for political orientation and other demographic factors. The results suggested that emotional reasoning itself contributes to vulnerability to misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReliance on emotion promotes belief in fake news</span><span class="citation-popover-snippet">NIHby C Martel · 2020 · Cited by 764 — Moreover, analytic thinking is associated with lower trust in fake news sources (Pennycook a...</span></span></span>
 
 The significance of this dataset lies in what it reveals about myth acceptance. People do not necessarily believe false stories because they lack intelligence or information. Instead, they may process information through an emotional lens that prioritises immediate feelings over evidence quality. This finding aligns with broader research showing that uncertainty-related emotions can push people toward intuitive narratives and away from careful verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">tate and emotional response to misinformation and consider individuals&#x27; prior beliefs as...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8991995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Reliance on emotion promotes belief in fake news. Cognitive Research: Principles and Implications. 2020;5(1):47. doi...</span></span></span>
 
@@ -330,8 +327,7 @@ Large-scale analyses of misinformation content also show that false stories freq
 
 The common thread is not any single emotion but emotional intensity. Highly emotional content captures attention and can suppress the reflective processes needed to evaluate evidence.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tNPvOYU9Y74" title="Fake News with Dr. Gordon Pennycook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tNPvOYU9Y74" target="_blank" rel="noopener noreferrer">Fake News with Dr. Gordon Pennycook</a></p><p class="youtube-embed-meta">Channel: Opinion Science &middot; Views: 448 &middot; Uploaded: July 2023 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tNPvOYU9Y74" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tNPvOYU9Y74">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oRl51MKW9Qw" title="Understanding And Reducing The Spread Of Misinformation Online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oRl51MKW9Qw" target="_blank" rel="noopener noreferrer">Understanding And Reducing The Spread Of Misinformation Online</a></p><p class="youtube-embed-meta">Channel: GBH Forum Network &middot; Views: 1.1K &middot; Uploaded: February 2020 &middot; Length: 1 hour 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oRl51MKW9Qw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oRl51MKW9Qw">Open on YouTube</a></p></div></div></div>
 
 ## Reducing Emotionally Driven Misinformation
 
@@ -339,14 +335,13 @@ Research suggests that reducing susceptibility to fake news does not require eli
 
 Several approaches have shown promise:
 
-**Encouraging accuracy-focused thinking.** Studies repeatedly find that reminding people to consider whether information is true improves their ability to identify misinformation. Analytical engagement acts as a protective factor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29935897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLazy, not biased: Susceptibility to partisan fake news is...by G Pennycook · 2019 · Cited by 2782 — Lazy, not biased: Susceptibili...</span></span></span>
+**Encouraging accuracy-focused thinking.** Studies repeatedly find that reminding people to consider whether information is true improves their ability to identify misinformation. Analytical engagement acts as a protective factor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29935897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Lazy, not biased: Susceptibility to partisan fake news is...by G Pennycook · 2019 · Cited by 2782 — Lazy, not biased: Susceptibili...</span></span></span>
 
 **Creating a pause before sharing.** Emotional reactions are often immediate, whereas verification requires time. Small delays or prompts can reduce impulsive sharing of false claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">how why misinformation spreads</span><span class="citation-popover-snippet">American Psychological AssociationHow and why does misinformation spread?29 Nov 2023 — People are more likely to share misinformation whe...</span></span></span>
 
 **Teaching source evaluation skills.** Research on digital literacy shows that people become less vulnerable when they learn to investigate sources rather than relying on emotional impressions, visual presentation or familiarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5362183/the-real-fake-news-crisis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How Your Brain Tricks You Into Believing Fake News</span><span class="citation-popover-snippet">Sam Wineburg and his team at Stanford University have conducted research showing that Americans of all ages struggle to critically assess...</span></span></span>
 
 **Reducing unnecessary emotional escalation.** Corrections framed in ways that reduce fear and hostility may be more effective than confrontational fact-checking, especially during periods of uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S001002771830163X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">•. Falling for fake news is more a result of a lack of thinking than partisanship.Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_emotion_fake_news_be_33b81b-Illustration-3-dark.svg" | relative_url }}" alt="Fake News illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_emotion_fake_news_be_33b81b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_emotion_fake_news_be_33b81b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Matters for Myths and Misconceptions
@@ -355,9 +350,7 @@ The connection between emotional reasoning and fake news helps explain why myths
 
 When uncertainty is high, emotionally satisfying explanations can appear more convincing than complex evidence-based accounts. Fake news exploits this tendency by providing narratives that generate strong feelings and rapid certainty. Understanding this process reveals that combating myths is not only a matter of supplying facts; it also requires recognising how emotions shape the way people judge those facts in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7860927/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC7860927</span><span class="citation-popover-snippet">nih.govCOVID-19–Induced Fear in Infoveillance Studies: Pilot Meta ...by S Geronikolou · 2021 · Cited by 9 — The aim of this pilot study i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8012428/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC8012428</span><span class="citation-popover-snippet">PMCby D Pehlivanoglu · 2021 · Cited by 106 — (2020) employed full articles and found that people with high compared to those with low nee...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oRl51MKW9Qw" title="Understanding And Reducing The Spread Of Misinformation Online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oRl51MKW9Qw" target="_blank" rel="noopener noreferrer">Understanding And Reducing The Spread Of Misinformation Online</a></p><p class="youtube-embed-meta">Channel: GBH Forum Network &middot; Views: 1.1K &middot; Uploaded: February 2020 &middot; Length: 1 hour 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oRl51MKW9Qw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oRl51MKW9Qw">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tNPvOYU9Y74" title="Fake News with Dr. Gordon Pennycook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tNPvOYU9Y74" target="_blank" rel="noopener noreferrer">Fake News with Dr. Gordon Pennycook</a></p><p class="youtube-embed-meta">Channel: Opinion Science &middot; Views: 448 &middot; Uploaded: July 2023 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tNPvOYU9Y74" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tNPvOYU9Y74">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -740,198 +733,198 @@ When uncertainty is high, emotionally satisfying explanations can appear more co
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCReliance on emotion promotes belief in fake news  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby C Martel · 2020 · Cited by 764 — Moreover, analytic thinking is associated with lower trust in fake news sources (Pennycook a...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby C Martel · 2020 · Cited by 764 — Moreover, analytic thinking is associated with lower trust in fake news sources (Pennycook a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: [https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308](https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308)  
+   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — Researchers from the Media Lab and Sloan found that hu...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S001002771830163X](https://www.sciencedirect.com/science/article/abs/pii/S001002771830163X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S001002771830163X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S001002771830163X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>•. Falling for fake news is more a result of a lack of thinking than partisanship.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>tate and emotional response to misinformation and consider individuals&#x27; prior beliefs as...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: time.com  
    Title: How Your Brain Tricks You Into Believing Fake News  
-   Link: [https://time.com/5362183/the-real-fake-news-crisis/](https://time.com/5362183/the-real-fake-news-crisis/)  
+   Link: <a href="https://time.com/5362183/the-real-fake-news-crisis/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5362183/the-real-fake-news-crisis/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sam Wineburg and his team at Stanford University have conducted research showing that Americans of all ages struggle to critically assess...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8991995/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8991995/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8991995/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8991995/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reliance on emotion promotes belief in fake news. Cognitive Research: Principles and Implications. 2020;5(1):47. doi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0277953623004896](https://www.sciencedirect.com/science/article/abs/pii/S0277953623004896)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0277953623004896" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0277953623004896</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hope appeal corrections can decrease COVID-19 misperceptions.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe impact of misinformation on the COVID-19 pandemic  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Since the inception of the current pandemic, COVID-19 related misinformation has played a role in defaulting control of the situation.Rea...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-024-03083-5](https://www.nature.com/articles/s41599-024-03083-5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureEmotions unveiled: detecting COVID-19 fake news on...by B Farhoudinia · 2024 · Cited by 26 — Sentiment analysis indicated that cre...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41599-024-03083-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-03083-5</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotions unveiled: detecting COVID-19 fake news on...by B Farhoudinia · 2024 · Cited by 26 — Sentiment analysis indicated that cre...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: diva-portal.org  
-   Link: [https://www.diva-portal.org/smash/get/diva2%3A1858788/FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2%3A1858788/FULLTEXT01.pdf)  
+   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1858788/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1858788/FULLTEXT01.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>detecting COVID-19 fake news on social mediaby B Farhoudinia · 2024 · Cited by 26 — Fake news had a greater prevalence of negative emotio...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167865524001089/pdf](https://www.sciencedirect.com/science/article/pii/S0167865524001089/pdf)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167865524001089/pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167865524001089/pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>motions to identify misinformation in social networks.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1566253524000782](https://www.sciencedirect.com/science/article/pii/S1566253524000782)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1566253524000782" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1566253524000782</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion detection for misinformation: A reviewby Z Liu · 2024 · Cited by 99 — The specific query used was as follows: (emotion OR sentime...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: Previous article in issue Read mor  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2589750020303150](https://www.sciencedirect.com/science/article/pii/S2589750020303150)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2589750020303150" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2589750020303150</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Review What social media told us in the time of COVID-19by SF Tsao · 2021 · Cited by 1057 — For COVID-19, social media can have a crucial...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0191886921003378](https://www.sciencedirect.com/science/article/abs/pii/S0191886921003378)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886921003378" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886921003378</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A neglected reality of mass media during COVID-19by SP Giri · 2021 · Cited by 99 — This study was performed to explore the effect of COVI...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0747563222001170](https://www.sciencedirect.com/science/article/abs/pii/S0747563222001170)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563222001170" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0747563222001170</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lazy, not biased: Susceptibility to partisan fake news is better explained by lack of reasoning than by motivated reasoning. Cognition. (...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661321000516](https://www.sciencedirect.com/science/article/pii/S1364661321000516)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Review The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2095 — Concern about fake news was redoubled in 2020 in the face of wi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ide.mit.edu  
    Title: RBrief Rand Fake News final  
-   Link: [https://ide.mit.edu/wp-content/uploads/2021/03/RBrief_Rand_Fake-News_final.pdf](https://ide.mit.edu/wp-content/uploads/2021/03/RBrief_Rand_Fake-News_final.pdf)  
+   Link: <a href="https://ide.mit.edu/wp-content/uploads/2021/03/RBrief_Rand_Fake-News_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2021/03/RBrief_Rand_Fake-News_final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ON EMOTION PROMOTES BELIEF IN FAKE...by C Martel · Cited by 764 — We study the role of emotion in susceptibility to believing fake news...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-022-11488-y](https://www.nature.com/articles/s41598-022-11488-y)  
+   Link: <a href="https://www.nature.com/articles/s41598-022-11488-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-11488-y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the impact of sharing COVID-19 misinformation...by G Verma · 2022 · Cited by 152 — Experts have speculated that consuming misi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-023-01813-9](https://www.nature.com/articles/s41599-023-01813-9)  
+   Link: <a href="https://www.nature.com/articles/s41599-023-01813-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-023-01813-9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Distractions, analytical thinking and falling for fake newsby A Kwek · 2023 · Cited by 24 — We take Pennycook and Rand&#x27;s (2019) observati...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Rand, D. G. Lazy, not biased: susceptibility to partisan fake news is better explained by lack of reasoning than by motivated...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nature.com  
    Title: Why people share misinformation on social media?  
-   Link: [https://www.nature.com/articles/s41599-025-05511-6](https://www.nature.com/articles/s41599-025-05511-6)  
+   Link: <a href="https://www.nature.com/articles/s41599-025-05511-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05511-6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>M Wu · 2025 · Cited by 3 —... study explored how social media affordances relate to users&#x27; misinformation sharing.... fake new...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29935897/](https://pubmed.ncbi.nlm.nih.gov/29935897/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedLazy, not biased: Susceptibility to partisan fake news is...by G Pennycook · 2019 · Cited by 2782 — Lazy, not biased: Susceptibili...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29935897/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29935897/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lazy, not biased: Susceptibility to partisan fake news is...by G Pennycook · 2019 · Cited by 2782 — Lazy, not biased: Susceptibili...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: apa.org  
    Title: how why misinformation spreads  
-   Link: [https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads](https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads)  
+   Link: <a href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationHow and why does misinformation spread?29 Nov 2023 — People are more likely to share misinformation whe...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: anger contributes to the spread of covid 19 misinformation  
-   Link: [https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/](https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewAnger contributes to the spread of COVID-19 misinformationby J Han · 2020 · Cited by 107 — A survey conducted over S...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: COVID 19  
-   Link: [https://en.wikipedia.org/wiki/COVID-19](https://en.wikipedia.org/wiki/COVID-19)  
+   Link: <a href="https://en.wikipedia.org/wiki/COVID-19" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/COVID-19</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Covid-19Coronavirus disease 2019 (COVID-19) is a contagious disease caused by the coronavirus SARS-CoV-2. Starting in January 2020, th...</p></details>
    Published: January 2020  
 
 26. <a id="endnote-26"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.adl2829](https://www.science.org/doi/10.1126/science.adl2829)  
+   Link: <a href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adl2829</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread online28 Nov 2024 — We tested a hypothesis that misinformation exploits outrage to spread onlin...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: pledgeproject.eu  
-   Link: [https://www.pledgeproject.eu/fear-anger-and-uncertainty-when-disinformation-feeds-on-emotions-in-natural-disasters/](https://www.pledgeproject.eu/fear-anger-and-uncertainty-when-disinformation-feeds-on-emotions-in-natural-disasters/)  
+   Link: <a href="https://www.pledgeproject.eu/fear-anger-and-uncertainty-when-disinformation-feeds-on-emotions-in-natural-disasters/" target="_blank" rel="noopener noreferrer nofollow">https://www.pledgeproject.eu/fear-anger-and-uncertainty-when-disinformation-feeds-on-emotions-in-natural-disasters/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fear, anger and uncertainty: when disinformation feeds on...6 Nov 2025 — This heightened emotional state, often compounded by an initial...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: arxiv.org  
    Title: fake news from genuine news and to understand the spread of rumors.Read more  
-   Link: [https://arxiv.org/abs/2311.00671](https://arxiv.org/abs/2311.00671)  
+   Link: <a href="https://arxiv.org/abs/2311.00671" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.00671</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[2311.00671] Emotion Detection for Misinformation: A Reviewby Z Liu · 2023 · Cited by 92 — However, the huge volumes of misinformation (e...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: fondationdescartes.org  
    Title: Why do people believe in fake news?Pennycook, G., & Rand, D  
-   Link: [https://www.fondationdescartes.org/en/2020/05/why-do-people-believe-in-fake-news/](https://www.fondationdescartes.org/en/2020/05/why-do-people-believe-in-fake-news/)  
+   Link: <a href="https://www.fondationdescartes.org/en/2020/05/why-do-people-believe-in-fake-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.fondationdescartes.org/en/2020/05/why-do-people-believe-in-fake-news/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>G. (2019). Lazy, not biased: Susceptibility to partisan fake news is better explained by lack of reasoning than by motivated reasoning...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: csh.ac.at  
-   Link: [https://csh.ac.at/project/emotional-misinformation-the-interplay-of-emotion-and-misinformation-spreading-on-social-media/](https://csh.ac.at/project/emotional-misinformation-the-interplay-of-emotion-and-misinformation-spreading-on-social-media/)  
+   Link: <a href="https://csh.ac.at/project/emotional-misinformation-the-interplay-of-emotion-and-misinformation-spreading-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://csh.ac.at/project/emotional-misinformation-the-interplay-of-emotion-and-misinformation-spreading-on-social-media/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>News Outlets Jula Lühring misinformation fake news disinformation. NewsGuard: Study Finds No Bias Against Conservative News Outlets. News...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: iast.fr  
-   Link: [https://www.iast.fr/sites/default/files/IAST/wp/wp_iast_127.pdf](https://www.iast.fr/sites/default/files/IAST/wp/wp_iast_127.pdf)  
+   Link: <a href="https://www.iast.fr/sites/default/files/IAST/wp/wp_iast_127.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iast.fr/sites/default/files/IAST/wp/wp_iast_127.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ake news, in three additional studies we tested an intervention to make people inhibit...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: iast.fr  
    Title: Emotion may predict susceptibility to fake news but  
-   Link: [https://www.iast.fr/publications/emotion-may-predict-susceptibility-fake-news-emotion-regulation-does-not-help](https://www.iast.fr/publications/emotion-may-predict-susceptibility-fake-news-emotion-regulation-does-not-help)  
+   Link: <a href="https://www.iast.fr/publications/emotion-may-predict-susceptibility-fake-news-emotion-regulation-does-not-help" target="_blank" rel="noopener noreferrer nofollow">https://www.iast.fr/publications/emotion-may-predict-susceptibility-fake-news-emotion-regulation-does-not-help</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fake news but emotion regulation... spread of misinformation, we must understand which psychological processes influence susceptibility...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3197692_code2434952.pdf?abstractid=3165567&mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3197692_code2434952.pdf?abstractid=3165567&mirid=1)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3197692_code2434952.pdf?abstractid=3165567&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3197692_code2434952.pdf?abstractid=3165567&amp;mirid=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.comLazy, not biased: Susceptibility to partisan fake news is...This suggests that motivated reasoning is not leading people to pref...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: business.pitt.edu  
    Title: how emotions fuel fake news on social media  
-   Link: [https://www.business.pitt.edu/how-emotions-fuel-fake-news-on-social-media/](https://www.business.pitt.edu/how-emotions-fuel-fake-news-on-social-media/)  
+   Link: <a href="https://www.business.pitt.edu/how-emotions-fuel-fake-news-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.business.pitt.edu/how-emotions-fuel-fake-news-on-social-media/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>emotions fuel fake news on social media - Pitt Business“I think that the majority would be people who, if they had their emotions raised...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: research.sabanciuniv.edu  
    Title: The findings of the statistical test.Read  
-   Link: [https://research.sabanciuniv.edu/id/eprint/48549/1/10570503.Bahareh_Farhoudinia.pdf](https://research.sabanciuniv.edu/id/eprint/48549/1/10570503.Bahareh_Farhoudinia.pdf)  
+   Link: <a href="https://research.sabanciuniv.edu/id/eprint/48549/1/10570503.Bahareh_Farhoudinia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.sabanciuniv.edu/id/eprint/48549/1/10570503.Bahareh_Farhoudinia.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 CASE STUDY by BAHAREH FARHOUDINIA...by B Farhoudinia · 2023 · Cited by 2 — The results show that fake news expresses negative e...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: scholarsarchive.library.albany.edu  
    Title: Barack Obama will be on the new  
-   Link: [https://scholarsarchive.library.albany.edu/cgi/viewcontent.cgi?article=3830&context=legacy-etd](https://scholarsarchive.library.albany.edu/cgi/viewcontent.cgi?article=3830&context=legacy-etd)  
+   Link: <a href="https://scholarsarchive.library.albany.edu/cgi/viewcontent.cgi?article=3830&amp;context=legacy-etd" target="_blank" rel="noopener noreferrer nofollow">https://scholarsarchive.library.albany.edu/cgi/viewcontent.cgi?article=3830&amp;context=legacy-etd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>role of emotion in the perception of (fake) newsby AM Wilck · 2021 — These researchers explored the relationship between specific emotion...</p></details>

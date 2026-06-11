@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_natural_health_model_ab9044
 - Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_retracted_causes_772da4
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - mental-models
 - earth-models
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - mental-models
 - earth-models
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Children's Earth models show how wrong ideas can be creative attempts to reconcile teaching with everyday experience.
 hero_summary: Children's Earth models show how wrong ideas can be creative attempts to reconcile teaching with everyday experience.
 layout: default
 permalink: /earth-models/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /mental-models/
 nav_short_title: Earth Models
 title: When Wrong Earth Models Make Sense
-title_full: When Wrong Earth Models Make Sense | Mental Models
+title_full: When Wrong Earth Models Make Sense
 display_title_short: Earth Models
 display_title: Earth Models
 heading_title: When Wrong Earth Models Make Sense
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Wrong Ideas Can Feel Coherent | Mythcraft
+parent_title: Why Wrong Ideas Can Feel Coherent
 parent_permalink: /mental-models/
 parent_nav_short_title: Mental Models
 parent_heading_title: Why Wrong Ideas Can Feel Coherent
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why False Causes Stick After Correction
 up_link:
   basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
@@ -265,7 +265,7 @@ next_link:
   permalink: /natural-myths/
   short_title: Natural Myths
   heading_title: Why Natural Health Myths Feel Coherent
-date: '2026-06-09 04:52:08 '
+date: '2026-06-11 22:15:30 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-1.webp
@@ -274,52 +274,46 @@ image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_chi
 
 ## Introduction
 
-Children’s ideas about the shape of the Earth provide one of the clearest demonstrations that misconceptions are often logical attempts to make sense of conflicting information. In a landmark series of studies, researchers found that many children did not simply choose between “the Earth is flat” and “the Earth is round”. Instead, they built imaginative intermediate models that combined classroom teaching with everyday experience. These models were wrong from a scientific standpoint, but they were internally coherent and often remarkably consistent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
-
+Children’s ideas about the shape of the Earth provide one of the clearest demonstrations that misconceptions are often logical attempts to make sense of conflicting information. In a landmark series of studies, researchers found that many children did not simply choose between “the Earth is flat” and “the Earth is round”. Instead, they built imaginative intermediate models that combined classroom teaching with everyday experience. These models were wrong from a scientific standpoint, but they were internally coherent and often remarkably consistent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-1-dark.svg" | relative_url }}" alt="Earth Models illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The case matters because it reveals how [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) can persist. People rarely abandon an existing mental model all at once. When new information clashes with what seems obvious from experience, they often create hybrid explanations that preserve as much coherence as possible. Children’s Earth models show this process in a particularly visible form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+The case matters because it reveals how myths and misconceptions can persist. People rarely abandon an existing mental model all at once. When new information clashes with what seems obvious from experience, they often create hybrid explanations that preserve as much coherence as possible. Children’s Earth models show this process in a particularly visible form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 ## Why Flat Ground Conflicts with a Round Earth
 
-For a young child, the idea that the Earth is a sphere creates an immediate problem. Everything in everyday experience appears to support the opposite conclusion. The ground looks flat. Buildings stand upright. People do not appear to be hanging upside down. Nothing suggests that the surface curves dramatically beneath one’s feet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+For a young child, the idea that the Earth is a sphere creates an immediate problem. Everything in everyday experience appears to support the opposite conclusion. The ground looks flat. Buildings stand upright. People do not appear to be hanging upside down. Nothing suggests that the surface curves dramatically beneath one’s feet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 Stella Vosniadou and William Brewer argued that children begin with certain deeply rooted assumptions derived from ordinary observation. Two are especially important:
 
 * The ground people live on is flat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.pd.infn.it/~lacaprar/ProgettoScuola/Biblio/Vosniadou%20-%20Mental%20Models%20of%20the%20Earth%20Conceptual%20Change.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.pd.infn.it">[www2.pd.infn.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.pd.infn.it</span><span class="citation-popover-snippet">Mental Models of the Earth Conceptual Changeby S VOSNIADOU · 1992 · Cited by 3046 — This paper presents the results of an experiment whic...</span></span></span>
 * Objects need support underneath them and cannot simply remain suspended in space.
 
-These assumptions work well in everyday life, so children treat them as reliable facts about the world. The challenge arises when adults tell them that the Earth is round. Instead of immediately replacing their existing assumptions, many children try to integrate the new information into their old framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+These assumptions work well in everyday life, so children treat them as reliable facts about the world. The challenge arises when adults tell them that the Earth is round. Instead of immediately replacing their existing assumptions, many children try to integrate the new information into their old framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
-This helps explain why misconceptions can be so stable. The problem is not ignorance. The child is actively reasoning. The misconception emerges because two seemingly trustworthy sources of information—direct experience and cultural instruction—point in different directions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+This helps explain why misconceptions can be so stable. The problem is not ignorance. The child is actively reasoning. The misconception emerges because two seemingly trustworthy sources of information—direct experience and cultural instruction—point in different directions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 ## Disc, Hollow, and Flattened Sphere Models
 
-The most influential evidence comes from a 1992 study in which children were interviewed about the Earth’s shape, where people live, where the sky is located, and what would happen at the Earth's edge. Rather than producing random answers, many children gave patterns of responses that fit identifiable [mental models]({{ 'mental-models/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+The most influential evidence comes from a 1992 study in which children were interviewed about the Earth’s shape, where people live, where the sky is located, and what would happen at the Earth's edge. Rather than producing random answers, many children gave patterns of responses that fit identifiable [mental models]({{ 'mental-models/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 ### The Disc Earth
 
-Some children imagined the Earth as a large flat disc. This model preserved the appearance of flat ground while acknowledging that the Earth might be round in the sense of being circular. In this view, one could potentially reach an edge and fall off. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+Some children imagined the Earth as a large flat disc. This model preserved the appearance of flat ground while acknowledging that the Earth might be round in the sense of being circular. In this view, one could potentially reach an edge and fall off. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
-The model demonstrates a subtle point: the child is not rejecting the word “round”. Instead, “round” is interpreted as a flat circle rather than a globe. The misconception arises from a difference in meaning rather than a simple factual error. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+The model demonstrates a subtle point: the child is not rejecting the word “round”. Instead, “round” is interpreted as a flat circle rather than a globe. The misconception arises from a difference in meaning rather than a simple factual error. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 ### The Dual Earth
 
-One of the most striking findings was the “dual Earth” model. Children using this model effectively maintained two Earths at once. There was a round Earth discussed by adults and shown in books, but there was also the flat ground where people actually lived. The scientific Earth and the experienced Earth coexisted without being fully integrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+One of the most striking findings was the “dual Earth” model. Children using this model effectively maintained two Earths at once. There was a round Earth discussed by adults and shown in books, but there was also the flat ground where people actually lived. The scientific Earth and the experienced Earth coexisted without being fully integrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
-This is a powerful example of how new information can be stored without fundamentally restructuring an older worldview. The child accepts the taught fact while preserving the original explanatory framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
-
+This is a powerful example of how new information can be stored without fundamentally restructuring an older worldview. The child accepts the taught fact while preserving the original explanatory framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-2-dark.svg" | relative_url }}" alt="Earth Models illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Hollow Sphere
 
-Some children accepted that the Earth was spherical yet still believed people must stand on a flat surface. Their solution was to place people inside the sphere. In the hollow-sphere model, humans lived on a flat interior region, while the Earth itself remained round when viewed from outside. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+Some children accepted that the Earth was spherical yet still believed people must stand on a flat surface. Their solution was to place people inside the sphere. In the hollow-sphere model, humans lived on a flat interior region, while the Earth itself remained round when viewed from outside. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 From an adult perspective this seems bizarre. From the child’s perspective it solves multiple problems simultaneously:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -330,47 +324,38 @@ From an adult perspective this seems bizarre. From the child’s perspective it 
 
 </div>
 
-The model is creative because it reconciles conflicting constraints rather than choosing one side and ignoring the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TTusD_Q1t5E" title="Teaching Strategies: Misconceptions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TTusD_Q1t5E" target="_blank" rel="noopener noreferrer">Teaching Strategies: Misconceptions</a></p><p class="youtube-embed-meta">Channel: McGraw Hill PreK-12</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TTusD_Q1t5E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TTusD_Q1t5E">Open on YouTube</a></p></div></div></div>
+The model is creative because it reconciles conflicting constraints rather than choosing one side and ignoring the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 ### The Flattened Sphere
 
-Another group imagined a thick, pancake-like Earth. It was rounded around the sides but flattened on the top and bottom where people lived. This model preserved the idea that the Earth is generally spherical while retaining a flat region suitable for human habitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spring.org.uk/2008/04/how-children-learn-earth-isnt-flat.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spring.org.uk">[PsyBlog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spring.org.uk</span><span class="citation-popover-title">how children learn earth isnt flat</span><span class="citation-popover-snippet">PsyBlogHow Children Learn the Earth Isn&#x27;t Flat30 Apr 2008 — Hollow sphere: thought we live inside the Earth on a flat area (12/60). Flatt...</span></span></span>
+Another group imagined a thick, pancake-like Earth. It was rounded around the sides but flattened on the top and bottom where people lived. This model preserved the idea that the Earth is generally spherical while retaining a flat region suitable for human habitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spring.org.uk/2008/04/how-children-learn-earth-isnt-flat.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spring.org.uk">[PsyBlog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spring.org.uk</span><span class="citation-popover-title">how children learn earth isnt flat</span><span class="citation-popover-snippet">PsyBlogHow Children Learn the Earth Isn&#x27;t Flat30 Apr 2008 — Hollow sphere: thought we live inside the Earth on a flat area (12/60). Flatt...</span></span></span>
 
-Again, the misconception is not random. It reflects an effort to minimise [conflict]({{ 'conflict/' | relative_url }}) between observation and instruction. The child modifies the scientific claim just enough to fit prior assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
-
-## What These Models Reveal About Conceptual Change
-
-The Earth studies became influential because they shifted attention away from isolated wrong answers and toward underlying mental models. Researchers argued that [conceptual change]({{ 'concept-change/' | relative_url }}) often involves restructuring a network of assumptions rather than replacing a single belief. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/48524586/Conceptual_Change_and_Education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Conceptual Change and Education</span><span class="citation-popover-snippet">Academia(PDF) Conceptual Change and EducationReview of Educational Research, 57, 51–67. Vosniadou, S., &amp; Brewer, W.F. (1992). Mental mode...</span></span></span> A child cannot fully understand a spherical Earth simply by memorising the sentence“the Earth is round”. To make sense of the scientific model, the child must also revise ideas about gravity, up and down, support, space, and perspective. Until those related concepts change, hybrid models remain attractive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
-
-This insight helped shape broader theories of conceptual change in science education. Learning was increasingly seen as a process of reorganising existing knowledge structures rather than filling an empty container with facts. ERIC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/48524586/Conceptual_Change_and_Education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Conceptual Change and Education</span><span class="citation-popover-snippet">Academia(PDF) Conceptual Change and EducationReview of Educational Research, 57, 51–67. Vosniadou, S., &amp; Brewer, W.F. (1992). Mental mode...</span></span></span>, later researchers questioned whether all of the identified Earth models were as coherent and widespread as originally proposed. Some studies suggested that interview methods and drawing tasks may have exaggerated the appearance of stable mental models. Children can misunderstand questions, switch between perspectives, or produce inconsistent answers. Nevertheless, even critics generally agree that children often struggle to integrate intuitive beliefs with scientific explanations and that hybrid understandings are common during learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/19100995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMental models and other misconceptions in children&#x27;s...by G Panagiotaki · 2009 · Cited by 122 — This study investigated the claim...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Reframing the Classical Approach to Conceptual ChangeFrom a theoretical perspective, these difficulties can be explained through Vosniado...</span></span></span>
-
+Again, the misconception is not random. It reflects an effort to minimise [conflict]({{ 'conflict/' | relative_url }}) between observation and instruction. The child modifies the scientific claim just enough to fit prior assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-3-dark.svg" | relative_url }}" alt="Earth Models illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What These Models Reveal About Conceptual Change
+
+The Earth studies became influential because they shifted attention away from isolated wrong answers and toward underlying mental models. Researchers argued that conceptual change often involves restructuring a network of assumptions rather than replacing a single belief. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/48524586/Conceptual_Change_and_Education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Conceptual Change and Education</span><span class="citation-popover-snippet">Academia(PDF) Conceptual Change and EducationReview of Educational Research, 57, 51–67. Vosniadou, S., &amp; Brewer, W.F. (1992). Mental mode...</span></span></span> A child cannot fully understand a spherical Earth simply by memorising the sentence“the Earth is round”. To make sense of the scientific model, the child must also revise ideas about gravity, up and down, support, space, and perspective. Until those related concepts change, hybrid models remain attractive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+
+This insight helped shape broader theories of conceptual change in science education. Learning was increasingly seen as a process of reorganising existing knowledge structures rather than filling an empty container with facts. ERIC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/48524586/Conceptual_Change_and_Education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Conceptual Change and Education</span><span class="citation-popover-snippet">Academia(PDF) Conceptual Change and EducationReview of Educational Research, 57, 51–67. Vosniadou, S., &amp; Brewer, W.F. (1992). Mental mode...</span></span></span>, later researchers questioned whether all of the identified Earth models were as coherent and widespread as originally proposed. Some studies suggested that interview methods and drawing tasks may have exaggerated the appearance of stable mental models. Children can misunderstand questions, switch between perspectives, or produce inconsistent answers. Nevertheless, even critics generally agree that children often struggle to integrate intuitive beliefs with scientific explanations and that hybrid understandings are common during learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/19100995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Mental models and other misconceptions in children&#x27;s...by G Panagiotaki · 2009 · Cited by 122 — This study investigated the claim...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Reframing the Classical Approach to Conceptual ChangeFrom a theoretical perspective, these difficulties can be explained through Vosniado...</span></span></span>
+
 ## What Public Myth Correction Can Learn from Classrooms
 
 The Earth-model case has implications far beyond childhood astronomy. It illustrates why simply presenting a correct fact does not always eliminate a misconception.
 
-When children hear that the Earth is spherical, they do not automatically discard beliefs that flat ground supports people. Instead, they create intermediary explanations that preserve both ideas. Adults often behave similarly when confronting [corrections]({{ 'corrections/' | relative_url }}) to political, health, economic, or scientific myths. New information is frequently grafted onto older assumptions rather than replacing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+When children hear that the Earth is spherical, they do not automatically discard beliefs that flat ground supports people. Instead, they create intermediary explanations that preserve both ideas. Adults often behave similarly when confronting [corrections]({{ 'corrections/' | relative_url }}) to political, health, economic, or scientific myths. New information is frequently grafted onto older assumptions rather than replacing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 Three lessons emerge:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
-* **Misconceptions can be coherent.** A wrong belief may fit into a larger explanatory system rather than existing as a standalone error. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+* **Misconceptions can be coherent.** A wrong belief may fit into a larger explanatory system rather than existing as a standalone error. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 * **Facts alone may not be enough.** People often need a replacement explanation, not merely a contradiction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/48524586/Conceptual_Change_and_Education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Conceptual Change and Education</span><span class="citation-popover-snippet">Academia(PDF) Conceptual Change and EducationReview of Educational Research, 57, 51–67. Vosniadou, S., &amp; Brewer, W.F. (1992). Mental mode...</span></span></span>
-* **Hybrid models are normal.** Transitional understandings are often signs of learning in progress rather than evidence of irrationality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+* **Hybrid models are normal.** Transitional understandings are often signs of learning in progress rather than evidence of irrationality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 </div>
 
-Children’s Earth models remain a classic example because they expose a process that is usually hidden. They show the mind trying to preserve coherence while adapting to new evidence. The resulting models may be scientifically wrong, but they reveal an important truth about myths and misconceptions: people are often not failing to think. They are thinking with the best model they currently have. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HA5K-3wOyVY" title="Mental Models, Schema, and Making Meaning through the Science of Learning w/ Dr. Jim Heal – TRL IL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HA5K-3wOyVY" target="_blank" rel="noopener noreferrer">Mental Models, Schema, and Making Meaning through the Science of Learning w/ Dr. Jim Heal – TRL IL</a></p><p class="youtube-embed-meta">Channel: The Reading League Illinois</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HA5K-3wOyVY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HA5K-3wOyVY">Open on YouTube</a></p></div></div></div>
-
+Children’s Earth models remain a classic example because they expose a process that is usually hidden. They show the mind trying to preserve coherence while adapting to new evidence. The resulting models may be scientifically wrong, but they reveal an important truth about myths and misconceptions: people are often not failing to think. They are thinking with the best model they currently have. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -768,103 +753,103 @@ Children’s Earth models remain a classic example because they expose a process
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/001002859290018W](https://www.sciencedirect.com/science/article/pii/001002859290018W)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectMental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/001002859290018W</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022096508001513](https://www.sciencedirect.com/science/article/abs/pii/S0022096508001513)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectMental models and other misconceptions in children&#x27;s...by G Panagiotaki · 2009 · Cited by 122 — Before any exposure to inst...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022096508001513" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022096508001513</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental models and other misconceptions in children&#x27;s...by G Panagiotaki · 2009 · Cited by 122 — Before any exposure to inst...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: academia.edu  
    Title: Conceptual Change and Education  
-   Link: [https://www.academia.edu/48524586/Conceptual_Change_and_Education](https://www.academia.edu/48524586/Conceptual_Change_and_Education)  
+   Link: <a href="https://www.academia.edu/48524586/Conceptual_Change_and_Education" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/48524586/Conceptual_Change_and_Education</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) Conceptual Change and EducationReview of Educational Research, 57, 51–67. Vosniadou, S., &amp; Brewer, W.F. (1992). Mental mode...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models](https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models)  
+   Link: <a href="https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reframing the Classical Approach to Conceptual ChangeFrom a theoretical perspective, these difficulties can be explained through Vosniado...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/23682515_Mental_models_and_other_misconceptions_in_children%27s_understanding_of_the_earth](https://www.researchgate.net/publication/23682515_Mental_models_and_other_misconceptions_in_children%27s_understanding_of_the_earth)  
+   Link: <a href="https://www.researchgate.net/publication/23682515_Mental_models_and_other_misconceptions_in_children%27s_understanding_of_the_earth" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23682515_Mental_models_and_other_misconceptions_in_children%27s_understanding_of_the_earth</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>children have naïve, but coherent, mental models of the earth, such as the flat earth and the hollow sphere. Recent studies have challeng...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: www2.pd.infn.it  
-   Link: [https://www2.pd.infn.it/~lacaprar/ProgettoScuola/Biblio/Vosniadou%20-%20Mental%20Models%20of%20the%20Earth%20Conceptual%20Change.pdf](https://www2.pd.infn.it/~lacaprar/ProgettoScuola/Biblio/Vosniadou%20-%20Mental%20Models%20of%20the%20Earth%20Conceptual%20Change.pdf)  
+   Link: <a href="https://www2.pd.infn.it/~lacaprar/ProgettoScuola/Biblio/Vosniadou%20-%20Mental%20Models%20of%20the%20Earth%20Conceptual%20Change.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.pd.infn.it/~lacaprar/ProgettoScuola/Biblio/Vosniadou%20-%20Mental%20Models%20of%20the%20Earth%20Conceptual%20Change.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental Models of the Earth Conceptual Changeby S VOSNIADOU · 1992 · Cited by 3046 — This paper presents the results of an experiment whic...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: spring.org.uk  
    Title: how children learn earth isnt flat  
-   Link: [https://www.spring.org.uk/2008/04/how-children-learn-earth-isnt-flat.php](https://www.spring.org.uk/2008/04/how-children-learn-earth-isnt-flat.php)  
+   Link: <a href="https://www.spring.org.uk/2008/04/how-children-learn-earth-isnt-flat.php" target="_blank" rel="noopener noreferrer nofollow">https://www.spring.org.uk/2008/04/how-children-learn-earth-isnt-flat.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PsyBlogHow Children Learn the Earth Isn&#x27;t Flat30 Apr 2008 — Hollow sphere: thought we live inside the Earth on a flat area (12/60). Flatt...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/19100995/](https://pubmed.ncbi.nlm.nih.gov/19100995/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedMental models and other misconceptions in children&#x27;s...by G Panagiotaki · 2009 · Cited by 122 — This study investigated the claim...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19100995/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19100995/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental models and other misconceptions in children&#x27;s...by G Panagiotaki · 2009 · Cited by 122 — This study investigated the claim...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: gral.ip.rm.cnr.it  
-   Link: [https://gral.ip.rm.cnr.it/borghi/vosniadou.pdf](https://gral.ip.rm.cnr.it/borghi/vosniadou.pdf)  
+   Link: <a href="https://gral.ip.rm.cnr.it/borghi/vosniadou.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gral.ip.rm.cnr.it/borghi/vosniadou.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental models of the earth: A study of conceptual change in childhood. Cognitive Psychology, 24, pp. 535-85. Vosniadou, S...Read more...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/content/pdf/10.1007/978-3-642-77228-3_7](https://link.springer.com/content/pdf/10.1007/978-3-642-77228-3_7)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerFostering Conceptual Change: The Role of ComputerChildren with a hollow sphere model also interpret the rotation of the earth to...</p></details>
+   Link: <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-77228-3_7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1007/978-3-642-77228-3_7</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fostering Conceptual Change: The Role of ComputerChildren with a hollow sphere model also interpret the rotation of the earth to...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: carlhendrick.substack.com  
    Title: The Learning Dispatch“Well-Organised Misunderstanding": The Fine Art of Being  
-   Link: [https://carlhendrick.substack.com/p/well-organised-misunderstanding-the](https://carlhendrick.substack.com/p/well-organised-misunderstanding-the)  
+   Link: <a href="https://carlhendrick.substack.com/p/well-organised-misunderstanding-the" target="_blank" rel="noopener noreferrer nofollow">https://carlhendrick.substack.com/p/well-organised-misunderstanding-the</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>children don&#x27;t picture the Earth as a sphere, but as a flattened disc or a hollow sphere. Their model is wrong but internally consistent...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/the-concept-of-the-earth-s-shape-a-study-of-conceptual-129cu3mjf0.pdf](https://scispace.com/pdf/the-concept-of-the-earth-s-shape-a-study-of-conceptual-129cu3mjf0.pdf)  
+   Link: <a href="https://scispace.com/pdf/the-concept-of-the-earth-s-shape-a-study-of-conceptual-129cu3mjf0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-concept-of-the-earth-s-shape-a-study-of-conceptual-129cu3mjf0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>school children&#x27;s concept of the earth&#x27;s shape and the related concept of...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: files.eric.ed.gov  
    Title: ERICDOCUMENT RESUME Vosniadou, Stella Designing Curricula  
-   Link: [https://files.eric.ed.gov/fulltext/ED404098.pdf](https://files.eric.ed.gov/fulltext/ED404098.pdf)  
+   Link: <a href="https://files.eric.ed.gov/fulltext/ED404098.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED404098.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Psychology. Vosniadou, S., &amp; Brewer, W. F. (in preparation). Elementary school...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nsuworks.nova.edu  
-   Link: [https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1128&context=edp](https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1128&context=edp)  
+   Link: <a href="https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1128&amp;context=edp" target="_blank" rel="noopener noreferrer nofollow">https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1128&amp;context=edp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Models: How Children Learn the Earth Isnâ•Žt Flat25 Apr 2025 — The fourth category was the hollow sphere, which children thought humans l...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: education.asu.edu  
    Title: chi concpetualchangechapter 0  
-   Link: [https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf](https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf)  
+   Link: <a href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Three Types of Conceptual Change: Belief Revision, Mental...by MTH Chi · Cited by 1387 — Likewise, Vosniadou and Brewer (1992) have show...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Mental Models and Scientific Understanding  
-   Link: [https://www.youtube.com/watch?v=0h9Vq1p8yYQ](https://www.youtube.com/watch?v=0h9Vq1p8yYQ)  
+   Link: <a href="https://www.youtube.com/watch?v=0h9Vq1p8yYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0h9Vq1p8yYQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explore the cognitive processes involved in how learners, particularly children, construct mental models of scientific pheno...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6713729/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6713729/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby DP de la Hera · 2019 · Cited by 16 — Children&#x27;s conceptual knowledge about the earth was quantified by mapping their verbal, drawn...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6713729/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6713729/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by DP de la Hera · 2019 · Cited by 16 — Children&#x27;s conceptual knowledge about the earth was quantified by mapping their verbal, drawn...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: [https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/026151005X39116](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/026151005X39116)  
+   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/026151005X39116" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/026151005X39116</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BPS Psych HubChildren&#x27;s representations of the earth: A methodological...23 Dec 2010 — Hollow and dual mental models are &#x27;synthetic&#x27; bec...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1023/A%3A1008697908361](https://link.springer.com/article/10.1023/A%3A1008697908361)  
+   Link: <a href="https://link.springer.com/article/10.1023/A%3A1008697908361" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1023/A%3A1008697908361</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Brewer, W.F.: 1992, &#x27;Mental Models of the Earth: A Study of Conceptual Change in Childhood&#x27;, Cognitive Psychology 24, 535-585. Google...</p></details>

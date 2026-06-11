@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_replacement_stories_587456_vote_count_process_c_94d5f9
 - Myths_and_misconcept_0d48d7_replacement_stories_587456_warehouse_fire_rumou_eb9290
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - rumour-gaps
 - uncertainty
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - rumour-gaps
 - uncertainty
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Saying what is known, unknown, and still being tested can replace false certainty without pretending the evidence is complete.
 hero_summary: Saying what is known, unknown, and still being tested can replace false certainty without pretending the evidence is complete.
 layout: default
 permalink: /uncertainty-3560c5/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /rumour-gaps/
 nav_short_title: Uncertainty
 title: When We Do Not Know Yet Is Better
-title_full: When We Do Not Know Yet Is Better | Rumour Gaps
+title_full: When We Do Not Know Yet Is Better
 display_title_short: Uncertainty
 display_title: Uncertainty
 heading_title: When We Do Not Know Yet Is Better
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Debunks Need a Better Story | Mythcraft
+parent_title: Why Debunks Need a Better Story
 parent_permalink: /rumour-gaps/
 parent_nav_short_title: Rumour Gaps
 parent_heading_title: Why Debunks Need a Better Story
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Slow Counting Needs a Better Story
 up_link:
   basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
@@ -265,7 +265,7 @@ next_link:
   permalink: /vote-delays/
   short_title: Vote Delays
   heading_title: When Slow Counting Needs a Better Story
-date: '2026-06-09 04:55:57 '
+date: '2026-06-11 22:17:18 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-1.webp
@@ -276,16 +276,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_unc
 
 Correcting a myth does not always mean replacing it with a complete answer. In many situations, the evidence is genuinely incomplete. Investigators may still be collecting data, scientists may not yet understand a mechanism, or key facts may remain unavailable. In these cases, a [correction]({{ 'correction/' | relative_url }}) that pretends certainty exists can create new problems. A better replacement explanation may be an honest statement of uncertainty: what is known, what has been ruled out, what remains unclear, and what evidence could change the picture.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-1-dark.svg" | relative_url }}" alt="Uncertainty illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This approach matters because myths and rumours often thrive in information vacuums. People prefer a story, even a flawed one, to no story at all. Yet research on misinformation shows that replacing false certainty with transparent uncertainty can be more effective than offering an unsupported alternative. When communicators explain why an answer is not yet available and what is being done to obtain it, they provide a framework for understanding events without filling gaps with speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Lewandowsky 2012 misinfo</span><span class="citation-popover-snippet">Skeptical ScienceMisinformation and its Correction: Continued Influence and...by S Lewandowsky · Cited by 4713 — To successfully replace...</span></span></span>
+This approach matters because myths and rumours often thrive in information vacuums. People prefer a story, even a flawed one, to no story at all. Yet research on misinformation shows that replacing false certainty with transparent uncertainty can be more effective than offering an unsupported alternative. When communicators explain why an answer is not yet available and what is being done to obtain it, they provide a framework for understanding events without filling gaps with speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Lewandowsky 2012 misinfo</span><span class="citation-popover-snippet">Skeptical ScienceMisinformation and its Correction: Continued Influence and...by S Lewandowsky · Cited by 4713 — To successfully replace...</span></span></span>
 
 ## Why Uncertainty Beats an Information Vacuum
 
 A common misconception is that every correction must provide a fully developed alternative explanation. Sometimes no such explanation exists. The honest replacement is a structured account of uncertainty.
 
-Research on the [continued influence]({{ 'old-stories/' | relative_url }}) effect shows that misinformation often survives because it supplies a causal story. People continue to rely on it even after learning that it is false, especially if nothing else explains the situation. Effective [corrections]({{ 'corrections/' | relative_url }}) therefore need to address the explanatory gap. However, addressing the gap does not always require a definitive answer. It can mean explaining the limits of current knowledge and the reasons those limits exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Lewandowsky 2012 misinfo</span><span class="citation-popover-snippet">Skeptical ScienceMisinformation and its Correction: Continued Influence and...by S Lewandowsky · Cited by 4713 — To successfully replace...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — Across three studies, we evaluated the relative cont...</span></span></span> Consider a developing public-health investigation. A rumour claims that a new illness was caused by a specific product. Authorities determine that the claim lacks evidence, but the true cause remains under investigation. A weak correction would simply deny the rumour. A stronger correction would state:
-
+Research on the continued influence effect shows that misinformation often survives because it supplies a causal story. People continue to rely on it even after learning that it is false, especially if nothing else explains the situation. Effective [corrections]({{ 'corrections/' | relative_url }}) therefore need to address the explanatory gap. However, addressing the gap does not always require a definitive answer. It can mean explaining the limits of current knowledge and the reasons those limits exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Lewandowsky 2012 misinfo</span><span class="citation-popover-snippet">Skeptical ScienceMisinformation and its Correction: Continued Influence and...by S Lewandowsky · Cited by 4713 — To successfully replace...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — Across three studies, we evaluated the relative cont...</span></span></span> Consider a developing public-health investigation. A rumour claims that a new illness was caused by a specific product. Authorities determine that the claim lacks evidence, but the true cause remains under investigation. A weak correction would simply deny the rumour. A stronger correction would state:
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -299,9 +297,6 @@ Research on the [continued influence]({{ 'old-stories/' | relative_url }}) effec
 This does not leave people with an empty space. It replaces a false explanation with a truthful account of the current state of knowledge.
 
 Importantly, uncertainty is not ignorance. It is information about the boundaries of what is known. That distinction helps prevent rumours from presenting themselves as the only available explanation.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FrXsUHP-v9s" title="6 Sneaky Ways People Are Disrespecting You &amp; What to Do About It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FrXsUHP-v9s" target="_blank" rel="noopener noreferrer">6 Sneaky Ways People Are Disrespecting You &amp; What to Do About It</a></p><p class="youtube-embed-meta">Channel: Mel Robbins</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FrXsUHP-v9s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FrXsUHP-v9s">Open on YouTube</a></p></div></div></div>
 
 ## How to Separate Ruled-Out Claims from Open Questions
 
@@ -334,8 +329,7 @@ A useful structure is:
 
 This framework reduces a common risk in myth correction: replacing one form of overconfidence with another. If communicators present preliminary findings as final conclusions, later revisions can damage trust and create opportunities for new rumours.
 
-The distinction became especially important during scientific and public-health debates in recent years. Scientific knowledge often changes as new evidence emerges. [Communicating]({{ 'communicating/' | relative_url }}) that process openly helps audiences understand that changing conclusions do not necessarily mean earlier statements were deceptive; they may reflect the normal accumulation of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 558 — We review th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</span></span></span>
-
+The distinction became especially important during scientific and public-health debates in recent years. Scientific knowledge often changes as new evidence emerges. [Communicating]({{ 'communicating/' | relative_url }}) that process openly helps audiences understand that changing conclusions do not necessarily mean earlier statements were deceptive; they may reflect the normal accumulation of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 558 — We review th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-2-dark.svg" | relative_url }}" alt="Uncertainty illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Evidence Would Close the Gap
@@ -345,7 +339,6 @@ An uncertainty statement becomes more useful when it identifies what evidence wo
 Without this step, “we do not know yet” can sound indefinite or evasive. With it, uncertainty becomes a testable condition.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -359,30 +352,22 @@ Research on uncertainty communication suggests that audiences respond better whe
 
 This approach also helps distinguish scientific uncertainty from mere opinion. Scientific uncertainty is usually constrained by evidence. It is not an unlimited range of possibilities; it is a description of what the evidence currently permits and what future evidence might exclude.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Tfu318QwuYs" title="Social Media, Scientific Uncertainty, and Political Polarization—COVID-19’s Misinformation Storm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Tfu318QwuYs" target="_blank" rel="noopener noreferrer">Social Media, Scientific Uncertainty, and Political Polarization—COVID-19’s Misinformation Storm</a></p><p class="youtube-embed-meta">Channel: Johns Hopkins Bloomberg School of Public Health</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Tfu318QwuYs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Tfu318QwuYs">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-3-dark.svg" | relative_url }}" alt="Uncertainty illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Risk of False Certainty
 
-One temptation in myth correction is to provide a neat [replacement story]({{ 'better-story-524703/' | relative_url }}) simply because audiences prefer closure. Yet false certainty can create long-term credibility problems.
+One temptation in myth correction is to provide a neat replacement story simply because audiences prefer closure. Yet false certainty can create long-term credibility problems.
 
 Studies examining uncertainty communication have repeatedly found that openly acknowledging uncertainty often has only small negative effects on trust and, in many circumstances, can preserve trust when evidence later changes. Transparency about limitations may be less damaging than confident claims that require subsequent revision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.repository.cam.ac.uk/items/2c8f4dc0-7fb4-4df6-8cd9-d654b9e9e399" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.cam.ac.uk">[Cambridge University Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.cam.ac.uk</span><span class="citation-popover-snippet">is that communicating uncertainty will reduce public trust. However, a lack of systematic research makes it difficult to evaluate such cl...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12652265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUncertainty communication, trust and health promotion</span><span class="citation-popover-snippet">Research is tentative, but that&#x27;s okay: overcoming misconceptions about scientific...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/09636625241228449" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsCommunicating uncertainty protects against a loss of trust27 Feb 2024 — This study examines how communicating and explaining...</span></span></span>
 
 This matters because myths frequently emerge after official explanations appear incomplete or inconsistent. If communicators overstate [confidence]({{ 'confidence/' | relative_url }}) and later retreat from those claims, critics can portray the change as proof of incompetence or deception. A carefully framed uncertainty statement reduces that vulnerability by making clear from the outset that some questions remain open.
 
-There are limits, however. Uncertainty can be exploited. Interest groups, conspiracy entrepreneurs, and motivated actors sometimes use genuine scientific uncertainty to imply that no knowledge exists at all. Effective communication therefore needs to balance openness with clarity about what is already established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">science communication can impact these trust... Keywords: disinformation; scientific uncertainty; systematic review; trust in science; u...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7149229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe effects of communicating uncertainty on public trust in...by AM van der Bles · 2020 · Cited by 385 — Results show that whereas pe...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QjeehZsRjc0" title="5 Tips to Avoid Ambiguity in Technical" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QjeehZsRjc0" target="_blank" rel="noopener noreferrer">5 Tips to Avoid Ambiguity in Technical</a></p><p class="youtube-embed-meta">Channel: CADMech</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QjeehZsRjc0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QjeehZsRjc0">Open on YouTube</a></p></div></div></div>
+There are limits, however. Uncertainty can be exploited. Interest groups, conspiracy entrepreneurs, and motivated actors sometimes use genuine scientific uncertainty to imply that no knowledge exists at all. Effective communication therefore needs to balance openness with clarity about what is already established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">science communication can impact these trust... Keywords: disinformation; scientific uncertainty; systematic review; trust in science; u...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7149229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effects of communicating uncertainty on public trust in...by AM van der Bles · 2020 · Cited by 385 — Results show that whereas pe...</span></span></span>
 
 ## When “We Do Not Know Yet” Is Better
 
 The most effective replacement explanation is not always a competing causal story. Sometimes it is a transparent account of an unfinished investigation.
 
 A good uncertainty statement does three things at once:
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-3-dark.svg" | relative_url }}" alt="Uncertainty illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -790,122 +775,122 @@ Within the broader problem of rumours and myths, this approach serves an importa
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-021-00335-9](https://link.springer.com/article/10.1186/s41235-021-00335-9)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — Across three studies, we evaluated the relative cont...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCUncertainty communication, trust and health promotion  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12652265/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12652265/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12652265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12652265/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research is tentative, but that&#x27;s okay: overcoming misconceptions about scientific...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: psycharchives.org  
-   Link: [https://www.psycharchives.org/en/item/ce6655bb-bbf1-4ba4-8ab8-d5a5a2fbba50](https://www.psycharchives.org/en/item/ce6655bb-bbf1-4ba4-8ab8-d5a5a2fbba50)  
+   Link: <a href="https://www.psycharchives.org/en/item/ce6655bb-bbf1-4ba4-8ab8-d5a5a2fbba50" target="_blank" rel="noopener noreferrer nofollow">https://www.psycharchives.org/en/item/ce6655bb-bbf1-4ba4-8ab8-d5a5a2fbba50</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The third study examined...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7149229/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7149229/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe effects of communicating uncertainty on public trust in...by AM van der Bles · 2020 · Cited by 385 — Results show that whereas pe...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7149229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7149229/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of communicating uncertainty on public trust in...by AM van der Bles · 2020 · Cited by 385 — Results show that whereas pe...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe effect of uncertainty communication on public trust  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby C Dries · 2025 · Cited by 9 — Our results show that people&#x27;s trust response to the communication of uncertainty depends on how cons...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Dries · 2025 · Cited by 9 — Our results show that people&#x27;s trust response to the communication of uncertainty depends on how cons...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: skepticalscience.com  
    Title: Lewandowsky 2012 misinfo  
-   Link: [https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf](https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf)  
+   Link: <a href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceMisinformation and its Correction: Continued Influence and...by S Lewandowsky · Cited by 4713 — To successfully replace...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: research-information.bris.ac.uk  
    Title: University of Bristol Lewandowsky, S., Ecker, UKH, & Cook, J  
-   Link: [https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf](https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2017). BeyondToday — Second, corrections must explain why the misinformation was disseminated in the first place or they must provide an...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: royalsocietypublishing.org  
-   Link: [https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and](https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and)  
+   Link: <a href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 558 — We review th...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/09636625241228449](https://journals.sagepub.com/doi/10.1177/09636625241228449)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/09636625241228449" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/09636625241228449</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsCommunicating uncertainty protects against a loss of trust27 Feb 2024 — This study examines how communicating and explaining...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: repository.cam.ac.uk  
-   Link: [https://www.repository.cam.ac.uk/items/2c8f4dc0-7fb4-4df6-8cd9-d654b9e9e399](https://www.repository.cam.ac.uk/items/2c8f4dc0-7fb4-4df6-8cd9-d654b9e9e399)  
+   Link: <a href="https://www.repository.cam.ac.uk/items/2c8f4dc0-7fb4-4df6-8cd9-d654b9e9e399" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/items/2c8f4dc0-7fb4-4df6-8cd9-d654b9e9e399</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is that communicating uncertainty will reduce public trust. However, a lack of systematic research makes it difficult to evaluate such cl...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/42014938/](https://pubmed.ncbi.nlm.nih.gov/42014938/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/42014938/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>science communication can impact these trust... Keywords: disinformation; scientific uncertainty; systematic review; trust in science; u...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/404058007_How_Communication_of_Scientific_Uncertainty_Affects_Trust_in_Science-A_Systematic_Review](https://www.researchgate.net/publication/404058007_How_Communication_of_Scientific_Uncertainty_Affects_Trust_in_Science-A_Systematic_Review)  
+   Link: <a href="https://www.researchgate.net/publication/404058007_How_Communication_of_Scientific_Uncertainty_Affects_Trust_in_Science-A_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404058007_How_Communication_of_Scientific_Uncertainty_Affects_Trust_in_Science-A_Systematic_Review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation on social media and the need to manage related societal consequences. This systematic review evaluates the available...Re...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/404058007_How_Communication_of_Scientific_Uncertainty_Affects_Trust_in_Science-A_Systematic_Review?_fam=1](https://www.researchgate.net/publication/404058007_How_Communication_of_Scientific_Uncertainty_Affects_Trust_in_Science-A_Systematic_Review?_fam=1)  
+   Link: <a href="https://www.researchgate.net/publication/404058007_How_Communication_of_Scientific_Uncertainty_Affects_Trust_in_Science-A_Systematic_Review?_fam=1" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404058007_How_Communication_of_Scientific_Uncertainty_Affects_Trust_in_Science-A_Systematic_Review?_fam=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Communication of Scientific Uncertainty Affects Trust...22 Apr 2026 — Our findings suggest that communicating scientific uncertainti...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nuffieldfoundation.org  
-   Link: [https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust](https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust)  
+   Link: <a href="https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust" target="_blank" rel="noopener noreferrer nofollow">https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Communicating uncertainty in data without undermining trustThis project aims to identify a range of methods to communicate uncertainty to...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/thesaurus/communicating](https://www.merriam-webster.com/thesaurus/communicating)  
+   Link: <a href="https://www.merriam-webster.com/thesaurus/communicating" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/communicating</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Synonyms of communicatingSynonyms for COMMUNICATING: connecting, connected, joined, attached, linked, united, closest, embracing; Antonym...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/the-continued-influence-of-misinformation-in-[memory](https://scispace.com/pdf/the-continued-influence-of-misinformation-in-[memory)  
+   Link: <a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-[memory" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-[memory</a>  
 
 19. <a id="endnote-19"></a>
    Source: sciencearena.org  
-   Link: [https://www.sciencearena.org/en/news/communicating-scientific-uncertainties-can-weaken-support-for-public-policies-study-finds/](https://www.sciencearena.org/en/news/communicating-scientific-uncertainties-can-weaken-support-for-public-policies-study-finds/)  
+   Link: <a href="https://www.sciencearena.org/en/news/communicating-scientific-uncertainties-can-weaken-support-for-public-policies-study-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencearena.org/en/news/communicating-scientific-uncertainties-can-weaken-support-for-public-policies-study-finds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Communicating scientific uncertainties can weaken...Apr 1, 2026 — The impacts found are small—which does not mean they should be ignored...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: [https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/](https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>evidence from a two-wave panel studyby L Horvath · 2024 · Cited by 1 — In this study, we used a two-wave panel and a real-world intervent...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/pnasnexus/article/4/3/pgaf071/8052021](https://academic.oup.com/pnasnexus/article/4/3/pgaf071/8052021)  
+   Link: <a href="https://academic.oup.com/pnasnexus/article/4/3/pgaf071/8052021" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/3/pgaf071/8052021</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of uncertainty communication on public trust depends on...by C Dries · 2025 · Cited by 9 — Specifically, the study tests whether uncerta...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: doc.health  
    Title: finding signal in the noise a trust crisis in medical science  
-   Link: [https://doc.health/finding-signal-in-the-noise-a-trust-crisis-in-medical-science/](https://doc.health/finding-signal-in-the-noise-a-trust-crisis-in-medical-science/)  
+   Link: <a href="https://doc.health/finding-signal-in-the-noise-a-trust-crisis-in-medical-science/" target="_blank" rel="noopener noreferrer nofollow">https://doc.health/finding-signal-in-the-noise-a-trust-crisis-in-medical-science/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Finding Signal in the Noise: A Trust Crisis in Medical ScienceSep 15, 2025 — At DOC 2024&#x27;s Saturday morning session on misinformation, th...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing](https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing)  
+   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tions of misinformation are so ineffective in memory updating and why...Read more...</p></details>

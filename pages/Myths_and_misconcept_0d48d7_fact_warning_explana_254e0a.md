@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - debunking
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - debunking
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Good corrections state the truth, warn about the false claim and explain what actually accounts for the confusion.
 hero_summary: Good corrections state the truth, warn about the false claim and explain what actually accounts for the confusion.
 layout: default
 permalink: /debunking/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Debunking
 title: The Three Parts of a Better Debunk
-title_full: The Three Parts of a Better Debunk | Mythcraft
+title_full: The Three Parts of a Better Debunk
 display_title_short: Debunking
 display_title: Debunking
 heading_title: The Three Parts of a Better Debunk
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 next_link:
   basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
-date: '2026-06-09 04:09:49 '
+date: '2026-06-11 21:53:56 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-overview.webp
@@ -503,24 +503,22 @@ image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-ov
 
 A better debunk does not start by shouting the myth. It starts with the fact, briefly signals that a false claim is about to be named, and then explains why the false claim seemed plausible but is wrong. This is often called the “fact-myth-fallacy-fact” structure, or more broadly the fact-warning-explanation structure: **say what is true, flag the falsehood carefully, and give people a replacement explanation they can remember**. The point is not politeness or rhetorical neatness. It is cognitive design. Misconceptions persist partly because they offer a simple story; a [correction]({{ 'correction/' | relative_url }}) that only says “no” leaves that story in place. Research on misinformation correction repeatedly finds that detailed refutations and alternative explanations work better than [bare denials]({{ 'bare-denials/' | relative_url }}), while advice from the Debunking Handbook and the American Psychological Association stresses that false claims should be repeated only when needed, briefly, and inside a clear correction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">misinformation recommendations</span><span class="citation-popover-snippet">In these cases, the falsehood should be repeated briefly, with...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-overview.webp" | relative_url }}" alt="Overview image for Debunking" loading="eager" decoding="sync" fetchpriority="high">
 ## Why “wrong” is not enough
 
-A misconception is rarely just an isolated sentence stored in memory. It often functions as an explanation: why an event happened, why a policy changed, why a treatment is risky, why a group is to blame, or why an [expert consensus]({{ 'false-balance-0e8d1b/' | relative_url }}) can be dismissed. When a correction removes that explanation without replacing it, readers may remember that something was disputed while still relying on the original story later. This is one reason misinformation can show a “[continued influence]({{ 'old-stories/' | relative_url }}) effect”: even after a correction, the earlier false information can continue to shape reasoning and judgements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A misconception is rarely just an isolated sentence stored in [memory]({{ 'memory/' | relative_url }}). It often functions as an explanation: why an event happened, why a policy changed, why a treatment is risky, why a group is to blame, or why an expert consensus can be dismissed. When a correction removes that explanation without replacing it, readers may remember that something was disputed while still relying on the original story later. This is one reason misinformation can show a “continued influence effect”: even after a correction, the earlier false information can continue to shape reasoning and judgements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The practical lesson is simple: a debunk should give the reader a better mental model, not just a verdict. If someone falsely believes that a manipulated video shows a public figure behaving badly, the correction should not merely say “the video is fake”. It should explain what actually happened: the clip was edited, slowed down, taken from a different event, generated synthetically, or paired with a misleading caption. That replacement explanation gives the reader something to retrieve later instead of the false claim.
 
-This matters because familiarity can feel like truth. Repeating a claim can make it easier to process, and easier-to-process statements often feel more credible. That does not mean corrections should never mention the myth; in many cases, people need to know exactly what is being corrected. But it does mean the myth should not be the headline, the frame, or the most repeated sentence. The correction should make the truth more familiar than the falsehood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
+This matters because familiarity can feel like truth. Repeating a claim can make it easier to process, and easier-to-process statements often feel more credible. That does not mean [corrections]({{ 'corrections/' | relative_url }}) should never mention the myth; in many cases, people need to know exactly what is being corrected. But it does mean the myth should not be the headline, the frame, or the most repeated sentence. The correction should make the truth more familiar than the falsehood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
 
 ## Lead with the fact
 
-The first job of a correction is to give the reader the right answer before the false claim has a chance to dominate attention. In practice, that means opening with a clear, concrete statement of what is true: “Measles vaccines do not cause autism”; “Human greenhouse gas emissions are the main driver of recent global warming”; “The photo is from 2018, not from yesterday’s protest.” The Debunking Handbook recommends leading with a fact that is simple, plausible and memorable, then returning to that fact after the myth has been addressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
+The first job of a correction is to give the reader the right answer before the false claim has a chance to dominate attention. In practice, that means opening with a clear, concrete statement of what is true: “Measles [vaccines]({{ 'vaccines/' | relative_url }}) do not cause autism”; “Human greenhouse gas emissions are the main driver of recent global warming”; “The photo is from 2018, not from yesterday’s protest.” The Debunking Handbook recommends leading with a fact that is simple, plausible and memorable, then returning to that fact after the myth has been addressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
 
 This is not the same as hiding the myth. A correction that never identifies the false claim can be too vague to help. The reader may wonder which rumour is being addressed, or may fail to connect the correction to the claim they have seen online. The stronger approach is to give the fact first so the reader enters the correction with the right frame, then name the myth only as much as needed.
 
 A useful fact-led opening has three qualities:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -531,7 +529,6 @@ A useful fact-led opening has three qualities:
 </div>
 
 The “truth sandwich” used in journalism and public communication follows the same logic: truth first, false claim in the middle with clear labelling, truth again at the end. Public health guidance has adapted this into practical misinformation response advice, telling communicators to start with a fact, warn that they are about to mention misinformation, explain the misleading claim, and finish by replacing it with correct information. [PHCC]
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-Illustration-1-dark.svg" | relative_url }}" alt="Debunking illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Flag the false claim
@@ -546,16 +543,15 @@ The warning also prevents a common failure in myth-busting pages: the myth-as-he
 
 ## Give a replacement explanation
 
-The explanation is the part that turns a correction into learning. It answers the question the myth was trying to answer: why did this happen, why did people believe it, or what is the real cause? Reviews and meta-analyses of misinformation correction repeatedly find that corrections are stronger when they provide detailed refutations, evidence and alternative explanations rather than simple negations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28895452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Debunking: A Meta-Analysis of the Psychological</span><span class="citation-popover-snippet">PubMedby MPS Chan · 2017 · Cited by 1239 — This meta-analysis investigated the factors underlying effective messages to counter attitudes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The explanation is the part that turns a correction into learning. It answers the question the myth was trying to answer: why did this happen, why did people believe it, or what is the real cause? Reviews and meta-analyses of misinformation correction repeatedly find that corrections are stronger when they provide detailed refutations, evidence and alternative explanations rather than simple negations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28895452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Debunking: A Meta-Analysis of the Psychological</span><span class="citation-popover-snippet">by MPS Chan · 2017 · Cited by 1239 — This meta-analysis investigated the factors underlying effective messages to counter attitudes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A replacement explanation can take several forms. It may supply the missing cause: “The illness spike was caused by increased testing and seasonal transmission, not by the new phone mast.” It may expose the [misleading technique]({{ 'the-trick/' | relative_url }}): “The post cherry-picks one cold week while ignoring the long-term temperature record.” It may correct the source trail: “The quote came from a parody account, not the minister.” Or it may explain a genuine confusion: “The database records reports after vaccination, not proven side effects caused by vaccination.”
+A replacement explanation can take several forms. It may supply the missing cause: “The illness spike was caused by increased testing and seasonal transmission, not by the new phone mast.” It may expose the misleading technique: “The post cherry-picks one cold week while ignoring the long-term temperature record.” It may correct the source trail: “The quote came from a parody account, not the minister.” Or it may explain a genuine confusion: “The database records reports after vaccination, not proven side effects caused by vaccination.”
 
-The best explanations do not overload the reader with every available detail. They give enough mechanism to make the truth feel coherent. The Debunking Handbook’s advice to explain how the myth misleads is crucial here: people are more likely to let go of a misconception when they can see the trick, gap, false premise or mistaken inference that made it persuasive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
+The best explanations do not overload the reader with every available detail. They give enough mechanism to make the truth feel coherent. The Debunking Handbook’s advice to explain how the myth misleads is crucial here: people are more likely to let go of a misconception when they can see [the trick]({{ 'the-trick/' | relative_url }}), gap, false premise or mistaken inference that made it persuasive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
 
 A compact structure often works well:
 
 **Fact:** The image is not from the current flood.
-
 
 <div class="content-callout content-callout--warning" markdown="1">
 
@@ -569,7 +565,6 @@ A compact structure often works well:
 
 That example does more than label the post false. It explains the source of the confusion, gives the reader a reason to trust the correction, and leaves them with a reusable rule: check whether dramatic images have appeared before.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Rh41NXo_U4" title="How to Fact-Check Like a Journalist with First Draft&#x27;s Laura Garcia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Rh41NXo_U4" target="_blank" rel="noopener noreferrer">How to Fact-Check Like a Journalist with First Draft&#x27;s Laura Garcia</a></p><p class="youtube-embed-meta">Channel: THIRTEEN &middot; Views: 31.6K &middot; Uploaded: April 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Rh41NXo_U4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Rh41NXo_U4">Open on YouTube</a></p></div></div></div>
 
 ## What the structure does in practice
@@ -578,20 +573,18 @@ The fact-warning-explanation structure is best understood as an implementation t
 
 For a newsroom, it changes headline writing. Instead of amplifying a politician’s or influencer’s false claim in the headline, the article can lead with the verified reality and then explain the false claim in context. For a public health team, it changes social posts: the graphic should not give the myth the biggest type size; it should make the accurate action or risk statement visually dominant. For a teacher, it changes classroom correction: rather than saying “That is wrong”, the teacher can say, “The correct idea is X; the common confusion is Y; here is why Y looks tempting but fails.”
 
-The structure also helps teams decide when not to debunk. If a myth is obscure, low-risk and not spreading, a [public correction]({{ 'public-replies/' | relative_url }}) can give it oxygen. The Debunking Handbook explicitly warns communicators to pick battles and avoid giving undue exposure to fringe claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span> This is a policy choice as much as a writing choice: debunking resources should go where a false claim is visible, harmful, or likely to mislead a reachable audience.
+The structure also helps teams decide when not to debunk. If a myth is obscure, low-risk and not spreading, a public correction can give it oxygen. The Debunking Handbook explicitly warns communicators to pick battles and avoid giving undue exposure to fringe claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span> This is a policy choice as much as a writing choice: debunking resources should go where a false claim is visible, harmful, or likely to mislead a reachable audience.
 
 A good correction therefore has both content and triage rules. It asks: is the myth already circulating enough to merit response? Can we state the truth clearly? Can we identify the false claim without centring it? Can we explain the confusion in a way that leaves the reader with a better model? If any answer is no, the correction needs more work before publication.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-Illustration-3-dark.svg" | relative_url }}" alt="Debunking illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the evidence is reassuring, and where it is cautious
 
-One fear about debunking is that any repetition of a myth will make it stronger. The evidence is more nuanced. Repetition can increase familiarity, and familiarity can increase perceived truth, so communicators should avoid unnecessary repetition. But research reviews and the Debunking Handbook conclude that corrective repetition is often safe when the false claim is clearly labelled and overpowered by a strong correction. The larger risk is usually not that all debunking backfires, but that weak debunking repeats the myth more memorably than the truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
+One fear about debunking is that any [repetition]({{ 'repetition/' | relative_url }}) of a myth will make it stronger. The evidence is more nuanced. Repetition can increase familiarity, and familiarity can increase perceived truth, so communicators should avoid unnecessary repetition. But research reviews and the Debunking Handbook conclude that corrective repetition is often safe when the false claim is clearly labelled and overpowered by a strong correction. The larger risk is usually not that all debunking backfires, but that weak debunking repeats the myth more memorably than the truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
 
 At the same time, format is not magic. A 2021 study comparing myth-first, fact-first, fact-only and myth-only correction formats found that correction format had a limited role across experiments; what mattered was not simply the order of sentences, but whether the correction gave useful corrective information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCCorrection format has a limited role when debunking</span></span></span> That finding should temper overconfidence. The fact-warning-explanation structure is a strong default, not a guarantee.
 
 The audience also matters. Corrections can reduce false beliefs while leaving attitudes, identities or behaviours less changed. A person may accept that one image is old while still distrusting the institution that corrected it. They may drop one false claim but keep a broader conspiratorial suspicion. This is why the explanation step should be respectful and diagnostic: it should show what went wrong in the claim without implying that every person who believed it is stupid or malicious.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-Illustration-2-dark.svg" | relative_url }}" alt="Debunking illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common failure modes
@@ -604,13 +597,11 @@ A third failure is the “gotcha debunk”. This proves the claim wrong while tr
 
 The final failure is over-correction: debunking too many tiny claims in one article, each with its own myth repeated in bold. Where several claims come from the same misunderstanding, it is often better to correct the underlying mechanism once. For example, many misleading health claims confuse correlation with causation. A single explanation of that confusion can do more work than ten separate denials.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EIFSofwEoOc" title="Stopping the spread of misinformation, with Sander van der Linden, PhD | Speaking of Psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EIFSofwEoOc" target="_blank" rel="noopener noreferrer">Stopping the spread of misinformation, with Sander van der Linden, PhD | Speaking of Psychology</a></p><p class="youtube-embed-meta">Channel: American Psychological Association &middot; Views: 3.6K &middot; Uploaded: November 2023 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EIFSofwEoOc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EIFSofwEoOc">Open on YouTube</a></p></div></div></div>
 
 ## A practical correction pattern
 
 A usable debunk can be drafted in four moves:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -621,11 +612,9 @@ A usable debunk can be drafted in four moves:
 
 </div>
 
-The pattern is especially useful for [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) because it respects why myths survive. They are not defeated by contradiction alone. They are displaced by a clearer, truer explanation that gives people something better to think with.
-
+The pattern is especially useful for myths and misconceptions because it respects why myths survive. They are not defeated by contradiction alone. They are displaced by a clearer, truer explanation that gives people something better to think with.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6I37HD444aI" title="How to debunk misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6I37HD444aI" target="_blank" rel="noopener noreferrer">How to debunk misinformation</a></p><p class="youtube-embed-meta">Channel: John Cook &middot; Views: 18.2K &middot; Uploaded: September 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6I37HD444aI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6I37HD444aI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1024,140 +1013,140 @@ The pattern is especially useful for [myths and misconceptions]({{ 'myths-and-mi
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrection format has a limited role when debunking  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
 
 2. <a id="endnote-2"></a>
    Source: iris.who.int  
    Title: int Managing the COVID-19 infodemic  
-   Link: [https://iris.who.int/bitstream/handle/10665/334287/9789240010314-eng.pdf?sequence=1](https://iris.who.int/bitstream/handle/10665/334287/9789240010314-eng.pdf?sequence=1)  
+   Link: <a href="https://iris.who.int/bitstream/handle/10665/334287/9789240010314-eng.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/bitstream/handle/10665/334287/9789240010314-eng.pdf?sequence=1</a>  
 
 3. <a id="endnote-3"></a>
    Source: who.int  
-   Link: [https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds](https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds)  
+   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
 
 4. <a id="endnote-4"></a>
    Source: iris.who.int  
-   Link: [https://iris.who.int/server/api/core/bitstreams/0879a3f8-b5a4-4a0a-846c-e5b4186c91d6/content](https://iris.who.int/server/api/core/bitstreams/0879a3f8-b5a4-4a0a-846c-e5b4186c91d6/content)  
+   Link: <a href="https://iris.who.int/server/api/core/bitstreams/0879a3f8-b5a4-4a0a-846c-e5b4186c91d6/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/0879a3f8-b5a4-4a0a-846c-e5b4186c91d6/content</a>  
 
 5. <a id="endnote-5"></a>
    Source: iris.who.int  
-   Link: [https://iris.who.int/bitstreams/be290194-091b-4524-99d3-76af6af7631f/download](https://iris.who.int/bitstreams/be290194-091b-4524-99d3-76af6af7631f/download)  
+   Link: <a href="https://iris.who.int/bitstreams/be290194-091b-4524-99d3-76af6af7631f/download" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/bitstreams/be290194-091b-4524-99d3-76af6af7631f/download</a>  
 
 6. <a id="endnote-6"></a>
    Source: who.int  
    Title: fighting misinformation in the time of covid 19 one click at a time  
-   Link: [https://www.who.int/news-room/feature-stories/detail/fighting-misinformation-in-the-time-of-covid-19-one-click-at-a-time](https://www.who.int/news-room/feature-stories/detail/fighting-misinformation-in-the-time-of-covid-19-one-click-at-a-time)  
+   Link: <a href="https://www.who.int/news-room/feature-stories/detail/fighting-misinformation-in-the-time-of-covid-19-one-click-at-a-time" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/feature-stories/detail/fighting-misinformation-in-the-time-of-covid-19-one-click-at-a-time</a>  
 
 7. <a id="endnote-7"></a>
    Source: iris.who.int  
    Title: int Systematic reviews  
-   Link: [https://iris.who.int/server/api/core/bitstreams/19e2cf79-a3e0-443e-b88e-99668c1979ab/content](https://iris.who.int/server/api/core/bitstreams/19e2cf79-a3e0-443e-b88e-99668c1979ab/content)  
+   Link: <a href="https://iris.who.int/server/api/core/bitstreams/19e2cf79-a3e0-443e-b88e-99668c1979ab/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/19e2cf79-a3e0-443e-b88e-99668c1979ab/content</a>  
 
 8. <a id="endnote-8"></a>
    Source: iris.who.int  
    Title: int INCREASIN G VACCINE UPTAKE  
-   Link: [https://iris.who.int/bitstreams/329b06d4-3a41-41d6-bf03-a65d4aa317fc/download](https://iris.who.int/bitstreams/329b06d4-3a41-41d6-bf03-a65d4aa317fc/download)  
+   Link: <a href="https://iris.who.int/bitstreams/329b06d4-3a41-41d6-bf03-a65d4aa317fc/download" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/bitstreams/329b06d4-3a41-41d6-bf03-a65d4aa317fc/download</a>  
 
 9. <a id="endnote-9"></a>
    Source: cdn.who.int  
-   Link: [https://cdn.who.int/media/docs/default-source/blue-print/stv-crisis-comms-handbook-eng-web-v1.pdf?sfvrsn=bfcdb1cb_9](https://cdn.who.int/media/docs/default-source/blue-print/stv-crisis-comms-handbook-eng-web-v1.pdf?sfvrsn=bfcdb1cb_9)  
+   Link: <a href="https://cdn.who.int/media/docs/default-source/blue-print/stv-crisis-comms-handbook-eng-web-v1.pdf?sfvrsn=bfcdb1cb_9" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/blue-print/stv-crisis-comms-handbook-eng-web-v1.pdf?sfvrsn=bfcdb1cb_9</a>  
 
 10. <a id="endnote-10"></a>
    Source: who.int  
-   Link: [https://www.who.int/docs/default-source/documents/[communicating](https://www.who.int/docs/default-source/documents/[communicating)  
+   Link: <a href="https://www.who.int/docs/default-source/documents/[communicating" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/default-source/documents/[communicating</a>  
 
 11. <a id="endnote-11"></a>
    Source: who.int  
-   Link: [https://www.who.int/campaigns/connecting-the-world-to-combat-coronavirus/how-to-report-misinformation-online](https://www.who.int/campaigns/connecting-the-world-to-combat-coronavirus/how-to-report-misinformation-online)  
+   Link: <a href="https://www.who.int/campaigns/connecting-the-world-to-combat-coronavirus/how-to-report-misinformation-online" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/campaigns/connecting-the-world-to-combat-coronavirus/how-to-report-misinformation-online</a>  
 
 12. <a id="endnote-12"></a>
    Source: climatechangecommunication.org  
    Title: Center for Climate Change Communication Debunking Handbook  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: apa.org  
    Title: misinformation recommendations  
-   Link: [https://www.apa.org/topics/journalism-facts/misinformation-recommendations](https://www.apa.org/topics/journalism-facts/misinformation-recommendations)  
+   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-recommendations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In these cases, the falsehood should be repeated briefly, with...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Debunking: A Meta-Analysis of the Psychological  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/28895452/](https://pubmed.ncbi.nlm.nih.gov/28895452/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedby MPS Chan · 2017 · Cited by 1239 — This meta-analysis investigated the factors underlying effective messages to counter attitudes...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28895452/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28895452/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by MPS Chan · 2017 · Cited by 1239 — This meta-analysis investigated the factors underlying effective messages to counter attitudes...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/0093650219854600](https://journals.sagepub.com/doi/abs/10.1177/0093650219854600)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0093650219854600</a>  
 
 16. <a id="endnote-16"></a>
    Source: digitalcommons.unl.edu  
-   Link: [https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf](https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: digitalcommons.chapman.edu  
-   Link: [https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&context=comm_articles](https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&context=comm_articles)  
+   Link: <a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/](https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/)  
+   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AmericanPsychologicalAssociation/posts/although-questions-remain-psychological-science-yields-important-conclusions-abo/944208637740808/](https://www.facebook.com/AmericanPsychologicalAssociation/posts/although-questions-remain-psychological-science-yields-important-conclusions-abo/944208637740808/)  
+   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/although-questions-remain-psychological-science-yields-important-conclusions-abo/944208637740808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/although-questions-remain-psychological-science-yields-important-conclusions-abo/944208637740808/</a>  
 
 20. <a id="endnote-20"></a>
    Source: ltrr.arizona.edu  
    Title: Debunking Handbook  
-   Link: [https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf](https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf)  
+   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2405.08254](https://arxiv.org/abs/2405.08254)  
+   Link: <a href="https://arxiv.org/abs/2405.08254" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.08254</a>  
 
 22. <a id="endnote-22"></a>
    Source: ftp.cdc.gov  
-   Link: [https://ftp.cdc.gov/pub/health_Statistics/nchs/Software/mmds/2009/spell/mmds_spell.txt](https://ftp.cdc.gov/pub/health_Statistics/nchs/Software/mmds/2009/spell/mmds_spell.txt)  
+   Link: <a href="https://ftp.cdc.gov/pub/health_Statistics/nchs/Software/mmds/2009/spell/mmds_spell.txt" target="_blank" rel="noopener noreferrer nofollow">https://ftp.cdc.gov/pub/health_Statistics/nchs/Software/mmds/2009/spell/mmds_spell.txt</a>  
 
 23. <a id="endnote-23"></a>
    Source: ftp.cdc.gov  
-   Link: [https://ftp.cdc.gov/pub/health_statistics/nchs/software/mmds/2003/mmds_spell.txt](https://ftp.cdc.gov/pub/health_statistics/nchs/software/mmds/2003/mmds_spell.txt)  
+   Link: <a href="https://ftp.cdc.gov/pub/health_statistics/nchs/software/mmds/2003/mmds_spell.txt" target="_blank" rel="noopener noreferrer nofollow">https://ftp.cdc.gov/pub/health_statistics/nchs/software/mmds/2003/mmds_spell.txt</a>  
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Communicating Science: Strategies for debunking myths  
-   Link: [https://www.youtube.com/watch?v=9O5t-wF7078](https://www.youtube.com/watch?v=9O5t-wF7078)  
+   Link: <a href="https://www.youtube.com/watch?v=9O5t-wF7078" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9O5t-wF7078</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Misinformation Effectively: A Guide for Communicators...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5rT88f219j4](https://www.youtube.com/watch?v=5rT88f219j4)  
+   Link: <a href="https://www.youtube.com/watch?v=5rT88f219j4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5rT88f219j4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to use the Truth Sandwich to debunk misinformation...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Fighting Misinformation: The Power of the Truth Sandwich  
-   Link: [https://www.youtube.com/watch?v=rWl-6kP7jV4](https://www.youtube.com/watch?v=rWl-6kP7jV4)  
+   Link: <a href="https://www.youtube.com/watch?v=rWl-6kP7jV4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rWl-6kP7jV4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Communicating Science: Strategies for debunking myths...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: How to use the Truth Sandwich to debunk misinformation  
-   Link: [https://www.youtube.com/watch?v=nO35r25-zI0](https://www.youtube.com/watch?v=nO35r25-zI0)  
+   Link: <a href="https://www.youtube.com/watch?v=nO35r25-zI0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nO35r25-zI0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fighting Misinformation: The Power of the Truth Sandwich...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/319653313_Debunking_A_Meta-Analysis_of_the_Psychological_Efficacy_of_Messages_Countering_Misinformation](https://www.researchgate.net/publication/319653313_Debunking_A_Meta-Analysis_of_the_Psychological_Efficacy_of_Messages_Countering_Misinformation)  
+   Link: <a href="https://www.researchgate.net/publication/319653313_Debunking_A_Meta-Analysis_of_the_Psychological_Efficacy_of_Messages_Countering_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319653313_Debunking_A_Meta-Analysis_of_the_Psychological_Efficacy_of_Messages_Countering_Misinformation</a>  
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing](https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing)  
+   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391850616_Using_Psychological_Science_to_Understand_and_Fight_Health_Misinformation_AN_APA_CONSENSUS_STATEMENT](https://www.researchgate.net/publication/391850616_Using_Psychological_Science_to_Understand_and_Fight_Health_Misinformation_AN_APA_CONSENSUS_STATEMENT)  
+   Link: <a href="https://www.researchgate.net/publication/391850616_Using_Psychological_Science_to_Understand_and_Fight_Health_Misinformation_AN_APA_CONSENSUS_STATEMENT" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391850616_Using_Psychological_Science_to_Understand_and_Fight_Health_Misinformation_AN_APA_CONSENSUS_STATEMENT</a>

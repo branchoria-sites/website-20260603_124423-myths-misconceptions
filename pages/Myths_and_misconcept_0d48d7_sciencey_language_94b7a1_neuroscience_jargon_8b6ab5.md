@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823
 - Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_untestable_healing_c_01f975
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - sciencey-words
 - brain-jargon
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - sciencey-words
 - brain-jargon
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Irrelevant brain language can make ordinary explanations feel more satisfying even when it adds no real support.
 hero_summary: Irrelevant brain language can make ordinary explanations feel more satisfying even when it adds no real support.
 layout: default
 permalink: /brain-jargon/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /sciencey-words/
 nav_short_title: Brain Jargon
 title: The Brain Words That Sell Weak Explanations
-title_full: The Brain Words That Sell Weak Explanations | Sciencey Words
+title_full: The Brain Words That Sell Weak Explanations
 display_title_short: Brain Jargon
 display_title: Brain Jargon
 heading_title: The Brain Words That Sell Weak Explanations
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Sciencey Language Makes Myths Persuasive | Mythcraft
+parent_title: Why Sciencey Language Makes Myths Persuasive
 parent_permalink: /sciencey-words/
 parent_nav_short_title: Sciencey Words
 parent_heading_title: Why Sciencey Language Makes Myths Persuasive
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The Claim That Cannot Lose
 up_link:
   basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
@@ -259,7 +259,7 @@ next_link:
   permalink: /clinically-proven/
   short_title: Clinically Proven
   heading_title: When 'Clinically Proven' Does Not Prove Much
-date: '2026-06-09 04:25:41 '
+date: '2026-06-11 22:02:27 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuro
 
 Brain-based language often feels persuasive because it seems to bring us closer to the machinery of human behaviour. An explanation that mentions neurons, dopamine, brain circuits or neural pathways can sound more concrete and scientific than one that does not. The problem is that neuroscience terms do not automatically make an explanation better. In some cases, they merely decorate an explanation that is otherwise weak, circular or unsupported.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-1-dark.svg" | relative_url }}" alt="Brain Jargon illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This effect has been studied directly. Researchers found that people without specialist training judged explanations of psychological phenomena as more satisfying when they included neuroscience information, even when that information was irrelevant to the logic of the explanation. The extra brain language did not improve the explanation itself, but it changed how convincing the explanation felt. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe Seductive Allure of Neuroscience Explanations - PMC - NIHby DS Weisberg · 2008 · Cited by 1694 — Crucially, the neuroscience infor...</span></span></span>
+This effect has been studied directly. Researchers found that people without specialist training judged explanations of psychological phenomena as more satisfying when they included neuroscience information, even when that information was irrelevant to the logic of the explanation. The extra brain language did not improve the explanation itself, but it changed how convincing the explanation felt. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Seductive Allure of Neuroscience Explanations - PMC - NIHby DS Weisberg · 2008 · Cited by 1694 — Crucially, the neuroscience infor...</span></span></span>
 
 Within the broader problem of science-sounding language in weak claims, neuroscience jargon is especially powerful because the brain occupies a unique cultural position. It is associated with intelligence, medicine, technology and hard science. As a result, references to the brain can create an impression of depth even when they add little evidence.
 
@@ -282,10 +281,9 @@ One of the most influential demonstrations of this phenomenon came from experime
 
 The key point is that the brain information did not make the explanation more accurate. Instead, it appeared to signal that a scientific explanation had been provided. Researchers described this as a "seductive allure" because the neuroscience language attracted approval beyond its actual explanatory value. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/deconstructing-the-seductive-allure-of-neuroscience-explanations/568C206CD761E70374975276BBF69737" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentDeconstructing the seductive allure of neuroscience...by DS Weisberg · 2015 · Cited by 188 — Prev...</span></span></span>
 
-This matters because many [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) are not presented as obvious pseudoscience. They often mimic legitimate scientific communication. A claim about motivation may invoke neural circuitry. A wellness programme may discuss brain rewiring. A self-help product may reference neurotransmitters. The presence of these terms can encourage readers to assume that a strong scientific foundation exists even when the evidence is weak or absent.
+This matters because many myths and misconceptions are not presented as obvious pseudoscience. They often mimic legitimate scientific communication. A claim about motivation may invoke neural circuitry. A wellness programme may discuss brain rewiring. A self-help product may reference neurotransmitters. The presence of these terms can encourage readers to assume that a strong scientific foundation exists even when the evidence is weak or absent.
 
-Later research explored why this effect occurs. Part of the answer appears to be that neuroscience information is perceived as fundamental. People often regard explanations that descend to the level of the brain as deeper or more complete, even when the added detail does not actually explain the phenomenon in question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe seductive allure is a reductive allure: People prefer...by EJ Hopkins · 2016 · Cited by 143 — People may judge explanat...</span></span></span>
-
+Later research explored why this effect occurs. Part of the answer appears to be that neuroscience information is perceived as fundamental. People often regard explanations that descend to the level of the brain as deeper or more complete, even when the added detail does not actually explain the phenomenon in question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The seductive allure is a reductive allure: People prefer...by EJ Hopkins · 2016 · Cited by 143 — People may judge explanat...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wa8_nLwQIpg" title="2-Minute Neuroscience: Dopamine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wa8_nLwQIpg" target="_blank" rel="noopener noreferrer">2-Minute Neuroscience: Dopamine</a></p><p class="youtube-embed-meta">Channel: Neuroscientifically Challenged &middot; Views: 1.4M &middot; Uploaded: April 2018 &middot; Length: 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wa8_nLwQIpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wa8_nLwQIpg">Open on YouTube</a></p></div></div></div>
 
@@ -300,7 +298,6 @@ Yet in weak explanations, dopamine often becomes a catch-all mechanism. A claim 
 A similar problem occurs with references to "neural pathways", "brain circuitry" or "reward systems". These are legitimate scientific concepts, but they can be inserted into explanations without clarifying how a proposed mechanism produces the claimed outcome. Saying that a habit is caused by a reward pathway sounds sophisticated, but unless the explanation identifies evidence, causal links and measurable effects, the phrase may add little beyond scientific flavouring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://neuroscientificallychallenged.com/posts/know-your-brain-reward-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neuroscientificallychallenged.com">[@neurochallenged]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neuroscientificallychallenged.com</span><span class="citation-popover-snippet">@neurochallengedKnow Your Brain: Reward SystemBased on brain stimulation experiments and the increasingly recognized importance of dopami...</span></span></span>
 
 This is why neuroscience jargon can be attractive in advertising, wellness marketing and popular commentary. It offers a vocabulary that sounds specific without necessarily requiring specific evidence.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-2-dark.svg" | relative_url }}" alt="Brain Jargon illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Brain Language Creates an Illusion of Understanding
@@ -318,9 +315,7 @@ Researchers investigating the seductive allure effect found that neuroscience in
 
 Importantly, this does not mean neuroscience itself is unreliable. The problem arises when references to the brain are used as substitutes for evidence rather than as parts of an evidence-based explanation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f7E0mTJQ2KM" title="2-Minute Neuroscience: Reward System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f7E0mTJQ2KM" target="_blank" rel="noopener noreferrer">2-Minute Neuroscience: Reward System</a></p><p class="youtube-embed-meta">Channel: Neuroscientifically Challenged &middot; Views: 571.3K &middot; Uploaded: February 2015 &middot; Length: 2 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f7E0mTJQ2KM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f7E0mTJQ2KM">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-3-dark.svg" | relative_url }}" alt="Brain Jargon illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Separate Explanation From Decoration
 
 A useful way to evaluate neuroscience-heavy claims is to ask what would remain if the brain words were removed.
@@ -328,7 +323,6 @@ A useful way to evaluate neuroscience-heavy claims is to ask what would remain i
 If deleting terms such as "dopamine", "neural pathway", "brain circuit" or "prefrontal activation" leaves the explanation essentially unchanged, those terms may be functioning as decoration rather than as essential evidence.
 
 Several questions can help:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -341,17 +335,13 @@ Several questions can help:
 
 Strong scientific explanations become clearer when translated into simpler terms. Weak explanations often lose much of their apparent force once the jargon is removed.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f7E0mTJQ2KM" title="2-Minute Neuroscience: Reward System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f7E0mTJQ2KM" target="_blank" rel="noopener noreferrer">2-Minute Neuroscience: Reward System</a></p><p class="youtube-embed-meta">Channel: Neuroscientifically Challenged &middot; Views: 571.3K &middot; Uploaded: February 2015 &middot; Length: 2 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f7E0mTJQ2KM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f7E0mTJQ2KM">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-3-dark.svg" | relative_url }}" alt="Brain Jargon illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Matters for Myths and Misconceptions
 
 Many modern misconceptions are not built around rejecting science. Instead, they borrow the language of science. Neuroscience provides particularly powerful material because it combines technical complexity with public fascination. References to brain chemistry, neurotransmitters and neural networks can make claims sound evidence-based even when the evidence is thin.
 
 The research on the seductive allure of neuroscience suggests that readers should be cautious whenever brain terminology seems to be doing most of the persuasive work. An explanation is not strengthened simply because it mentions neurons, pathways or dopamine. The important question is whether those details genuinely improve the explanation and are supported by evidence. When they do, neuroscience can illuminate behaviour. When they do not, they may merely make a weak explanation feel stronger than it is. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/deconstructing-the-seductive-allure-of-neuroscience-explanations/568C206CD761E70374975276BBF69737" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentDeconstructing the seductive allure of neuroscience...by DS Weisberg · 2015 · Cited by 188 — Prev...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eDQquPtqMZs" title="Neurologists Debunk 11 Brain Myths | Debunked | Science Insider" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eDQquPtqMZs" target="_blank" rel="noopener noreferrer">Neurologists Debunk 11 Brain Myths | Debunked | Science Insider</a></p><p class="youtube-embed-meta">Channel: Insider Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eDQquPtqMZs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eDQquPtqMZs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -749,98 +739,98 @@ The research on the seductive allure of neuroscience suggests that readers shoul
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Seductive Allure of Neuroscience Explanations - PMC - NIHby DS Weisberg · 2008 · Cited by 1694 — Crucially, the neuroscience infor...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Seductive Allure of Neuroscience Explanations - PMC - NIHby DS Weisberg · 2008 · Cited by 1694 — Crucially, the neuroscience infor...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/judgment-and-decision-making/article/deconstructing-the-seductive-allure-of-neuroscience-explanations/568C206CD761E70374975276BBF69737](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/deconstructing-the-seductive-allure-of-neuroscience-explanations/568C206CD761E70374975276BBF69737)  
+   Link: <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/deconstructing-the-seductive-allure-of-neuroscience-explanations/568C206CD761E70374975276BBF69737" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/deconstructing-the-seductive-allure-of-neuroscience-explanations/568C206CD761E70374975276BBF69737</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentDeconstructing the seductive allure of neuroscience...by DS Weisberg · 2015 · Cited by 188 — Prev...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585](https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe seductive allure is a reductive allure: People prefer...by EJ Hopkins · 2016 · Cited by 143 — People may judge explanat...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The seductive allure is a reductive allure: People prefer...by EJ Hopkins · 2016 · Cited by 143 — People may judge explanat...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3032992/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3032992/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3032992/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3032992/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Midbrain dopamine neurons are well known for their strong responses to rewards and their critical role in positive motivation.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med The seductive allure of neuroscience explanations  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/18004955/](https://pubmed.ncbi.nlm.nih.gov/18004955/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18004955/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18004955/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>seductive allure of neuroscience explanations - PubMedby DS Weisberg · 2008 · Cited by 1667 — Explanations of psychological phenomena see...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: my.clevelandclinic.org  
    Title: 22581 dopamine  
-   Link: [https://my.clevelandclinic.org/health/articles/22581-dopamine](https://my.clevelandclinic.org/health/articles/22581-dopamine)  
+   Link: <a href="https://my.clevelandclinic.org/health/articles/22581-dopamine" target="_blank" rel="noopener noreferrer nofollow">https://my.clevelandclinic.org/health/articles/22581-dopamine</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>clevelandclinic.orgDopamine: What It Is, Function &amp; Symptoms23 Mar 2022 — Dopamine is a neurotransmitter made in your brain. It&#x27;s known a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: neuroscientificallychallenged.com  
-   Link: [https://neuroscientificallychallenged.com/posts/know-your-brain-reward-system](https://neuroscientificallychallenged.com/posts/know-your-brain-reward-system)  
+   Link: <a href="https://neuroscientificallychallenged.com/posts/know-your-brain-reward-system" target="_blank" rel="noopener noreferrer nofollow">https://neuroscientificallychallenged.com/posts/know-your-brain-reward-system</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>@neurochallengedKnow Your Brain: Reward SystemBased on brain stimulation experiments and the increasingly recognized importance of dopami...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: synapse.substack.com  
    Title: the seductive allure of neuroscience  
-   Link: [https://synapse.substack.com/p/the-seductive-allure-of-neuroscience](https://synapse.substack.com/p/the-seductive-allure-of-neuroscience)  
+   Link: <a href="https://synapse.substack.com/p/the-seductive-allure-of-neuroscience" target="_blank" rel="noopener noreferrer nofollow">https://synapse.substack.com/p/the-seductive-allure-of-neuroscience</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Seductive Allure of Neuroscience Explanations - SynapseIt turns out that the presence of neuroscience drastically improved the subjects&#x27;...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/seductive-allure-neuroscience-explanations-ben-hutchinson](https://www.linkedin.com/pulse/seductive-allure-neuroscience-explanations-ben-hutchinson)  
+   Link: <a href="https://www.linkedin.com/pulse/seductive-allure-neuroscience-explanations-ben-hutchinson" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/seductive-allure-neuroscience-explanations-ben-hutchinson</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Seductive Allure of Neuroscience ExplanationsThe authors proposed that neuroscience information in explanations may interfere with pe...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/937334443/The-Seductive-Allure-of-Neuroscience-Explanations](https://www.scribd.com/document/937334443/The-Seductive-Allure-of-Neuroscience-Explanations)  
+   Link: <a href="https://www.scribd.com/document/937334443/The-Seductive-Allure-of-Neuroscience-Explanations" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/937334443/The-Seductive-Allure-of-Neuroscience-Explanations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Seductive Allure of Neuroscience ExplanationsThe study investigates why explanations of psychological phenomena are perceived as more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: chegg.com  
-   Link: [https://www.chegg.com/homework-help/questions-and-answers/adding-irrelevant-neuroscience-information-explanation-psychological-phenomenon-makes-expl-q138530891](https://www.chegg.com/homework-help/questions-and-answers/adding-irrelevant-neuroscience-information-explanation-psychological-phenomenon-makes-expl-q138530891)  
+   Link: <a href="https://www.chegg.com/homework-help/questions-and-answers/adding-irrelevant-neuroscience-information-explanation-psychological-phenomenon-makes-expl-q138530891" target="_blank" rel="noopener noreferrer nofollow">https://www.chegg.com/homework-help/questions-and-answers/adding-irrelevant-neuroscience-information-explanation-psychological-phenomenon-makes-expl-q138530891</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Solved Adding irrelevant neuroscience information to anFeb 5, 2024 — This effect has been termed the &quot;seductive allure of neuroscience ex...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: discovermagazine.com  
    Title: critiquing a classic the seductive allure of neuroscience explanations 4911  
-   Link: [https://www.discovermagazine.com/critiquing-a-classic-the-seductive-allure-of-neuroscience-explanations-4911](https://www.discovermagazine.com/critiquing-a-classic-the-seductive-allure-of-neuroscience-explanations-4911)  
+   Link: <a href="https://www.discovermagazine.com/critiquing-a-classic-the-seductive-allure-of-neuroscience-explanations-4911" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/critiquing-a-classic-the-seductive-allure-of-neuroscience-explanations-4911</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Seductive Allure of Neuroscience ExplanationsJan 7, 2009 — Explore the seductive allure of neuroscience and how it impacts perception...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Wa8_nLwQIpg&vl=en](https://www.youtube.com/watch?v=Wa8_nLwQIpg&vl=en)  
+   Link: <a href="https://www.youtube.com/watch?v=Wa8_nLwQIpg&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wa8_nLwQIpg&amp;vl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2-Minute Neuroscience: DopamineDopamine is a monoamine and catecholamine neurotransmitter with many functions in the nervous system rangi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=f7E0mTJQ2KM](https://www.youtube.com/watch?v=f7E0mTJQ2KM)  
+   Link: <a href="https://www.youtube.com/watch?v=f7E0mTJQ2KM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f7E0mTJQ2KM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2-Minute Neuroscience: Reward SystemThe reward system refers to a group of structures that are activated whenever we experience something...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: osf.io  
-   Link: [https://osf.io/3y7v9/overview](https://osf.io/3y7v9/overview)  
+   Link: <a href="https://osf.io/3y7v9/overview" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/3y7v9/overview</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>xplanations of psychological phenomena when those explanations contain neuroscience...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
    Title: 235412019 The Seductive Allure of Seductive Allure  
-   Link: [https://www.researchgate.net/publication/235412019_The_Seductive_Allure_of_Seductive_Allure](https://www.researchgate.net/publication/235412019_The_Seductive_Allure_of_Seductive_Allure)  
+   Link: <a href="https://www.researchgate.net/publication/235412019_The_Seductive_Allure_of_Seductive_Allure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235412019_The_Seductive_Allure_of_Seductive_Allure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Seductive Allure of &quot;Seductive Allure&quot;Feb 1, 2016 — Weisenberg and colleagues note that neuroscience may have a &quot;seductive allu...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: safetyinsights.org  
    Title: the seductive allure of neuroscience explanations  
-   Link: [https://safetyinsights.org/2025/07/26/the-seductive-allure-of-neuroscience-explanations/](https://safetyinsights.org/2025/07/26/the-seductive-allure-of-neuroscience-explanations/)  
+   Link: <a href="https://safetyinsights.org/2025/07/26/the-seductive-allure-of-neuroscience-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://safetyinsights.org/2025/07/26/the-seductive-allure-of-neuroscience-explanations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Jul 2025 — The authors proposed that neuroscience information in explanations may interfere with people&#x27;s ability to judge the quality...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/en-us/document/the-pennsylvania-state-university/seminars-in-neuroscience-i/the-seductive-allure-of-neuroscience-in-psychological-explanations-j-cogn/140890562](https://www.studocu.com/en-us/document/the-pennsylvania-state-university/seminars-in-neuroscience-i/the-seductive-allure-of-neuroscience-in-psychological-explanations-j-cogn/140890562)  
+   Link: <a href="https://www.studocu.com/en-us/document/the-pennsylvania-state-university/seminars-in-neuroscience-i/the-seductive-allure-of-neuroscience-in-psychological-explanations-j-cogn/140890562" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/the-pennsylvania-state-university/seminars-in-neuroscience-i/the-seductive-allure-of-neuroscience-in-psychological-explanations-j-cogn/140890562</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ions of psychological explanations, revealing that irrelevant neuroscience...</p></details>

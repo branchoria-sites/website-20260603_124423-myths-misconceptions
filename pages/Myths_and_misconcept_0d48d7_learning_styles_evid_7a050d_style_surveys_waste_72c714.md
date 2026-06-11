@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_matching_claim_fails_ffbbd1
 - Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_student_self_labels_982d58
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - learning-styles
 - survey-trap
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - learning-styles
 - survey-trap
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Style inventories can make personalisation look precise while pulling attention away from explanations, practice and feedback.
 hero_summary: Style inventories can make personalisation look precise while pulling attention away from explanations, practice and feedback.
 layout: default
 permalink: /survey-trap/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /learning-styles/
 nav_short_title: Survey trap
 title: The planning time learning styles steal
-title_full: The planning time learning styles steal | Learning Styles
+title_full: The planning time learning styles steal
 display_title_short: Survey trap
 display_title: Survey trap
 heading_title: The planning time learning styles steal
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Do Learning Styles Really Improve Learning? | Mythcraft
+parent_title: Do Learning Styles Really Improve Learning?
 parent_permalink: /learning-styles/
 parent_nav_short_title: Learning Styles
 parent_heading_title: Do Learning Styles Really Improve Learning?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When students believe they learn only one way
 up_link:
   basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
@@ -259,7 +259,7 @@ prev_link:
   permalink: /self-labels/
   short_title: Self labels
   heading_title: When students believe they learn only one way
-date: '2026-06-09 04:50:23 '
+date: '2026-06-11 22:14:31 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_style_surveys_waste_72c714-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_style_surveys_waste_72c714-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_st
 
 Learning-[style surveys]({{ 'style-surveys/' | relative_url }}) promise a tidy form of personalisation. A school gives pupils a questionnaire, assigns categories such as visual, auditory or kinaesthetic learner, and encourages teachers to adapt lessons accordingly. The process looks organised, student-centred and data-informed. The problem is that it often consumes planning and assessment time without providing a reliable guide to better teaching.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_style_surveys_waste_72c714-Illustration-1-dark.svg" | relative_url }}" alt="Survey trap illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_style_surveys_waste_72c714-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_style_surveys_waste_72c714-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research reviews have repeatedly found little evidence that matching instruction to a student's supposed learning style improves learning outcomes. At the same time, schools face constant pressure on teacher workload, planning time and curriculum coverage. When staff spend hours collecting, interpreting and acting on learning-style profiles, that time is no longer available for activities with stronger evidence behind them, such as checking prior knowledge, designing practice, improving explanations, analysing misconceptions or giving feedback. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4832 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Pashler McDaniel Rohrer Bjork 2009 PSPI</span><span class="citation-popover-snippet">Bjork LabLearning Stylesby H Pashler · Cited by 4832 — Basically, evidence for a learning-styles intervention needs to consist of finding...</span></span></span>
+Research reviews have repeatedly found little evidence that matching instruction to a student's supposed learning style improves learning outcomes. At the same time, schools face constant pressure on teacher workload, planning time and curriculum coverage. When staff spend hours collecting, interpreting and acting on learning-style profiles, that time is no longer available for activities with stronger evidence behind them, such as checking prior knowledge, designing practice, improving explanations, analysing misconceptions or giving feedback. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4832 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Pashler McDaniel Rohrer Bjork 2009 PSPI</span><span class="citation-popover-snippet">Bjork LabLearning Stylesby H Pashler · Cited by 4832 — Basically, evidence for a learning-styles intervention needs to consist of finding...</span></span></span>
 
 This is why learning-style surveys are often described as a planning trap. The issue is not that students have preferences. It is that schools can mistake preference data for instructional guidance and build planning systems around categories that do not reliably predict how pupils learn best.
 
@@ -281,7 +280,6 @@ This is why learning-style surveys are often described as a planning trap. The i
 Learning-style programmes rarely stop at a single questionnaire. Once pupils are sorted into categories, schools often create processes around the results.
 
 Teachers may be encouraged to:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -304,12 +302,11 @@ The Education Endowment Foundation notes that there is very limited evidence for
 
 The strongest version of learning-styles theory is not merely that students have preferences. It is the claim that instruction becomes more effective when it is matched to those preferences.
 
-Researchers reviewing the evidence have repeatedly found that this [matching claim]({{ 'matching-claim/' | relative_url }}) lacks convincing support. Harold Pashler and colleagues argued that a valid test would need to show a specific interaction pattern: learners identified with different styles should benefit most from different instructional formats. The evidence for that pattern was not found. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4832 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Pashler McDaniel Rohrer Bjork 2009 PSPI</span><span class="citation-popover-snippet">Bjork LabLearning Stylesby H Pashler · Cited by 4832 — Basically, evidence for a learning-styles intervention needs to consist of finding...</span></span></span>
+Researchers reviewing the evidence have repeatedly found that this [matching claim]({{ 'matching-claim/' | relative_url }}) lacks convincing support. Harold Pashler and colleagues argued that a valid test would need to show a specific interaction pattern: learners identified with different styles should benefit most from different instructional formats. The evidence for that pattern was not found. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4832 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Pashler McDaniel Rohrer Bjork 2009 PSPI</span><span class="citation-popover-snippet">Bjork LabLearning Stylesby H Pashler · Cited by 4832 — Basically, evidence for a learning-styles intervention needs to consist of finding...</span></span></span>
 
 This matters for planning because the entire logic of style surveys depends on the matching claim being true.
 
 If matching does not reliably improve learning, then several common planning activities become questionable:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -323,7 +320,7 @@ If matching does not reliably improve learning, then several common planning act
 
 The time invested in these activities may create a sense of differentiation without producing corresponding gains in understanding or retention.
 
-A useful comparison is curriculum planning. A geography teacher uses maps because geography involves spatial relationships. A music teacher uses listening because sound is central to the subject. A chemistry teacher may combine diagrams, demonstrations and written explanations because each representation serves the content. These choices emerge from the material being taught rather than from survey categories assigned to students. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aeon.co/essays/the-evidence-is-clear-learning-styles-theory-doesnt-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeon.co">[Aeon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeon.co</span><span class="citation-popover-title">the evidence is clear learning styles theory doesnt work</span><span class="citation-popover-snippet">AeonThe evidence is clear: learning styles theory doesn&#x27;t workJan 26, 2023 — A teaching approach that is based on students&#x27; preferences s...</span></span></span>
+A useful comparison is curriculum planning. A geography teacher uses maps because geography involves spatial relationships. A music teacher uses listening because sound is central to the subject. A chemistry teacher may combine diagrams, demonstrations and written explanations because each representation serves the content. These choices emerge from the material being taught rather than from survey categories assigned to students. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aeon.co/essays/the-evidence-is-clear-learning-styles-theory-doesnt-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeon.co">[Aeon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeon.co</span><span class="citation-popover-title">the evidence is clear learning styles theory doesnt work</span><span class="citation-popover-snippet">The evidence is clear: learning styles theory doesn&#x27;t workJan 26, 2023 — A teaching approach that is based on students&#x27; preferences s...</span></span></span>
 
 ## When matched resources look successful but are not
 
@@ -334,7 +331,6 @@ Imagine a student who says they are a visual learner. A teacher then provides cl
 However, another explanation is often more plausible: the diagrams were simply effective teaching tools.
 
 This confusion appears throughout learning-styles discussions. Good resources frequently contain qualities that help many learners at once:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -359,12 +355,10 @@ The strongest argument against learning-style surveys is not merely that they la
 
 Schools operate with finite planning hours. Every hour devoted to administering surveys, analysing profiles or adapting resources is an hour unavailable for other tasks.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_style_surveys_waste_72c714-Illustration-2-dark.svg" | relative_url }}" alt="Survey trap illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_style_surveys_waste_72c714-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_style_surveys_waste_72c714-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Better assessment questions
 
 Instead of asking, "Is this pupil a visual or auditory learner?", teachers can ask:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -383,7 +377,6 @@ The Education Endowment Foundation increasingly emphasises evidence-informed app
 
 A planning conversation built around learning styles often centres on delivery mode: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalcognition.org/learning-styles-appealing-misleading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalcognition.org">[globalcognition.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalcognition.org</span><span class="citation-popover-title">learning styles appealing misleading</span><span class="citation-popover-snippet">Learning Styles Are Appealing But Misleading13 Sept 2021 — In fact, many of the studies that used a scientifically sound method showed no...</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Should this be visual? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eu-jer.com/teachers-underutilize-their-learning-styles-in-developing-thought-provoking-questions-a-case-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eu-jer.com">[eu-jer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eu-jer.com</span><span class="citation-popover-snippet">Teachers Underutilize Their Learning Styles in Developing...by A Putri · 2024 · Cited by 2 — This study intends to investigate her reaso...</span></span></span>
@@ -393,7 +386,6 @@ A planning conversation built around learning styles often centres on delivery m
 </div>
 
 A planning conversation built around learning processes asks different questions:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -406,7 +398,6 @@ A planning conversation built around learning processes asks different questions
 </div>
 
 These questions connect more directly to learning outcomes.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_style_surveys_waste_72c714-Illustration-3-dark.svg" | relative_url }}" alt="Survey trap illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_style_surveys_waste_72c714-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d_style_surveys_waste_72c714-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Better professional development
@@ -453,7 +444,7 @@ Such information supports targeted decisions about teaching, practice and suppor
 
 The broader lesson is that personalisation works best when it is tied to evidence about learning rather than assumptions about learner types. Schools do not need more elaborate systems for sorting pupils into categories. They need better information about what students know, where they struggle and what instructional choices will help them progress.
 
-In that sense, the planning time devoted to learning-style surveys is not merely wasted because the evidence is weak. It is wasted because the same time can be redirected towards questions that are much closer to the real work of teaching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">the learning needs of young people. Instead...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4832 — Learning styles refers to the concept that individuals...</span></span></span>
+In that sense, the planning time devoted to learning-style surveys is not merely wasted because the evidence is weak. It is wasted because the same time can be redirected towards questions that are much closer to the real work of teaching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">the learning needs of young people. Instead...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4832 — Learning styles refers to the concept that individuals...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -851,119 +842,119 @@ In that sense, the planning time devoted to learning-style surveys is not merely
 
 1. <a id="endnote-1"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the learning needs of young people. Instead...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UKqualitative insight into teacher and leader workload  
-   Link: [https://assets.publishing.service.gov.uk/media/685bcd654cd6b031687097cd/Working_lives_of_teachers_and_leaders_-_qualitative_insight_into_teacher_and_leader_workload.pdf](https://assets.publishing.service.gov.uk/media/685bcd654cd6b031687097cd/Working_lives_of_teachers_and_leaders_-_qualitative_insight_into_teacher_and_leader_workload.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/685bcd654cd6b031687097cd/Working_lives_of_teachers_and_leaders_-_qualitative_insight_into_teacher_and_leader_workload.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/685bcd654cd6b031687097cd/Working_lives_of_teachers_and_leaders_-_qualitative_insight_into_teacher_and_leader_workload.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>insight into teacher and leader workloadJune 25, 2025 — Planning, Preparation and Assessment (PPA) - time which is set aside for teachers...</p></details>
    Published: June 25, 2025  
 
 3. <a id="endnote-3"></a>
    Source: aeon.co  
    Title: the evidence is clear learning styles theory doesnt work  
-   Link: [https://aeon.co/essays/the-evidence-is-clear-learning-styles-theory-doesnt-work](https://aeon.co/essays/the-evidence-is-clear-learning-styles-theory-doesnt-work)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AeonThe evidence is clear: learning styles theory doesn&#x27;t workJan 26, 2023 — A teaching approach that is based on students&#x27; preferences s...</p></details>
+   Link: <a href="https://aeon.co/essays/the-evidence-is-clear-learning-styles-theory-doesnt-work" target="_blank" rel="noopener noreferrer nofollow">https://aeon.co/essays/the-evidence-is-clear-learning-styles-theory-doesnt-work</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The evidence is clear: learning styles theory doesn&#x27;t workJan 26, 2023 — A teaching approach that is based on students&#x27; preferences s...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: new guide to help education professionals to make best use of research evidence  
-   Link: [https://educationendowmentfoundation.org.uk/news/new-guide-to-help-education-professionals-to-make-best-use-of-research-evidence](https://educationendowmentfoundation.org.uk/news/new-guide-to-help-education-professionals-to-make-best-use-of-research-evidence)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/new-guide-to-help-education-professionals-to-make-best-use-of-research-evidence" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/new-guide-to-help-education-professionals-to-make-best-use-of-research-evidence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New guide to help education professionals to make best...11 Jan 2024 — A new guide, published by the Education Endowment Foundation (EEF...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: api.warwickshire.gov.uk  
-   Link: [https://api.warwickshire.gov.uk/documents/WCCC-1023-202](https://api.warwickshire.gov.uk/documents/WCCC-1023-202)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| The Education Endowment FoundationThe Sutton Trust-EEF Teaching and Learning Toolkit is an accessible summary of educational research w...</p></details>
+   Link: <a href="https://api.warwickshire.gov.uk/documents/WCCC-1023-202" target="_blank" rel="noopener noreferrer nofollow">https://api.warwickshire.gov.uk/documents/WCCC-1023-202</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Education Endowment FoundationThe Sutton Trust-EEF Teaching and Learning Toolkit is an accessible summary of educational research w...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: thehub-beta.walthamforest.gov.uk  
    Title: sutton trust toolkit  
-   Link: [https://thehub-beta.walthamforest.gov.uk/sites/default/files/2019-07/sutton_trust_toolkit.pdf](https://thehub-beta.walthamforest.gov.uk/sites/default/files/2019-07/sutton_trust_toolkit.pdf)  
+   Link: <a href="https://thehub-beta.walthamforest.gov.uk/sites/default/files/2019-07/sutton_trust_toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thehub-beta.walthamforest.gov.uk/sites/default/files/2019-07/sutton_trust_toolkit.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trust-EEF Teaching and Learning Toolkitby S Trust-EEF · 2014 · Cited by 10 — The Sutton Trust-EEF Teaching and Learning Toolkit is an acc...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26162104/](https://pubmed.ncbi.nlm.nih.gov/26162104/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4832 — Learning styles refers to the concept that individuals...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26162104/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4832 — Learning styles refers to the concept that individuals...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: bjorklab.psych.ucla.edu  
    Title: Pashler McDaniel Rohrer Bjork 2009 PSPI  
-   Link: [https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf](https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf)  
+   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork LabLearning Stylesby H Pashler · Cited by 4832 — Basically, evidence for a learning-styles intervention needs to consist of finding...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: psychologicalscience.org  
-   Link: [https://www.psychologicalscience.org/news/releases/learning-styles-debunked-there-is-no-evidence-supporting-auditory-and-visual-learning-psychologists-say.html](https://www.psychologicalscience.org/news/releases/learning-styles-debunked-there-is-no-evidence-supporting-auditory-and-visual-learning-psychologists-say.html)  
+   Link: <a href="https://www.psychologicalscience.org/news/releases/learning-styles-debunked-there-is-no-evidence-supporting-auditory-and-visual-learning-psychologists-say.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/learning-styles-debunked-there-is-no-evidence-supporting-auditory-and-visual-learning-psychologists-say.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceLearning Styles Debunked: There is No Evidence...16 Dec 2009 — The answer is no, according to a maj...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: globalcognition.org  
    Title: learning styles appealing misleading  
-   Link: [https://www.globalcognition.org/learning-styles-appealing-misleading/](https://www.globalcognition.org/learning-styles-appealing-misleading/)  
+   Link: <a href="https://www.globalcognition.org/learning-styles-appealing-misleading/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalcognition.org/learning-styles-appealing-misleading/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles Are Appealing But Misleading13 Sept 2021 — In fact, many of the studies that used a scientifically sound method showed no...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: educationnext.org  
-   Link: [https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/](https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/)  
+   Link: <a href="https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Education NextThe Stubborn Myth of “Learning Styles”Apr 7, 2020 — the debunked theory of “learning styles,” which holds that matching ins...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational NeuroscienceChildren have different learning stylesThe Education Endowment Foundation Teaching and Learning Toolkit provides...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/news/eef-blog-ecf-exploring-the-evidence-prior-knowledge-and-pupil-misconceptions](https://educationendowmentfoundation.org.uk/news/eef-blog-ecf-exploring-the-evidence-prior-knowledge-and-pupil-misconceptions)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/eef-blog-ecf-exploring-the-evidence-prior-knowledge-and-pupil-misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-ecf-exploring-the-evidence-prior-knowledge-and-pupil-misconceptions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EEF Blog: ECF– Exploring the Evidence: Prior knowledge...by H Madgwick — This blog from Research and Policy Manager Harry Madgwick build...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Learning-Styles-%3A-Concepts-and-Evidence-Author-%28-s-Pashler-McDaniel/62752ca4c446ca7328f8c284f5385f1af1c4212e/figure/0](https://www.semanticscholar.org/paper/Learning-Styles-%3A-Concepts-and-Evidence-Author-%28-s-Pashler-McDaniel/62752ca4c446ca7328f8c284f5385f1af1c4212e/figure/0)  
+   Link: <a href="https://www.semanticscholar.org/paper/Learning-Styles-%3A-Concepts-and-Evidence-Author-%28-s-Pashler-McDaniel/62752ca4c446ca7328f8c284f5385f1af1c4212e/figure/0" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Learning-Styles-%3A-Concepts-and-Evidence-Author-%28-s-Pashler-McDaniel/62752ca4c446ca7328f8c284f5385f1af1c4212e/figure/0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Figure 1 from Learning StylesIt is concluded that at present, there is no adequate evidence base to justify incorporating learning-styles...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: tes.com  
-   Link: [https://www.tes.com/magazine/tes-explains/what-are-learning-styles](https://www.tes.com/magazine/tes-explains/what-are-learning-styles)  
+   Link: <a href="https://www.tes.com/magazine/tes-explains/what-are-learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.tes.com/magazine/tes-explains/what-are-learning-styles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What are learning styles? | Tes MagazineThe learning styles theory proposes that individuals are better suited to a particular style of l...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: eu-jer.com  
-   Link: [https://www.eu-jer.com/teachers-underutilize-their-learning-styles-in-developing-thought-provoking-questions-a-case-study](https://www.eu-jer.com/teachers-underutilize-their-learning-styles-in-developing-thought-provoking-questions-a-case-study)  
+   Link: <a href="https://www.eu-jer.com/teachers-underutilize-their-learning-styles-in-developing-thought-provoking-questions-a-case-study" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-jer.com/teachers-underutilize-their-learning-styles-in-developing-thought-provoking-questions-a-case-study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Teachers Underutilize Their Learning Styles in Developing...by A Putri · 2024 · Cited by 2 — This study intends to investigate her reaso...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cebm.net  
-   Link: [https://www.cebm.net/wp-content/uploads/2016/09/TEBM-learning-styles-Sept-2016-upload-002.pdf](https://www.cebm.net/wp-content/uploads/2016/09/TEBM-learning-styles-Sept-2016-upload-002.pdf)  
+   Link: <a href="https://www.cebm.net/wp-content/uploads/2016/09/TEBM-learning-styles-Sept-2016-upload-002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cebm.net/wp-content/uploads/2016/09/TEBM-learning-styles-Sept-2016-upload-002.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: poorvucenter.yale.edu  
-   Link: [https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth](https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth)  
+   Link: <a href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow">https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Poorvu Center for Teaching and LearningLearning Styles as a MythAt a Glance · Research indicates that there is no scientific evidence to...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/post/Why_must_teachers_consider_individual_learning_styles_in_planning_instructional_lesson](https://www.researchgate.net/post/Why_must_teachers_consider_individual_learning_styles_in_planning_instructional_lesson)  
+   Link: <a href="https://www.researchgate.net/post/Why_must_teachers_consider_individual_learning_styles_in_planning_instructional_lesson" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/Why_must_teachers_consider_individual_learning_styles_in_planning_instructional_lesson</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why must teachers consider individual learning styles in...8 Apr 2025 — The impact of learning styles for students What are the differen...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: citejournal.org  
-   Link: [https://citejournal.org/volume-12/issue-1-12/english-language-arts/teaching-for-success-technology-and-learning-styles-in-preservice-teacher-education](https://citejournal.org/volume-12/issue-1-12/english-language-arts/teaching-for-success-technology-and-learning-styles-in-preservice-teacher-education)  
+   Link: <a href="https://citejournal.org/volume-12/issue-1-12/english-language-arts/teaching-for-success-technology-and-learning-styles-in-preservice-teacher-education" target="_blank" rel="noopener noreferrer nofollow">https://citejournal.org/volume-12/issue-1-12/english-language-arts/teaching-for-success-technology-and-learning-styles-in-preservice-teacher-education</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>xamined the achievement of third level preservice teachers when advice in the form of text and resources...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: uwaterloo.ca  
-   Link: [https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style](https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style)  
+   Link: <a href="https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style" target="_blank" rel="noopener noreferrer nofollow">https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/understanding-your-learning-style</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2008). Learning styles: Concepts and evidence. Psychological Science in the Public Interest Report, 9(3).Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: scribd.com  
    Title: Article Matching Teaching Style to Learning Style May Not Help Students  
-   Link: [https://www.scribd.com/document/996022122/Article-Matching-Teaching-Style-to-Learning-Style-May-Not-Help-Students](https://www.scribd.com/document/996022122/Article-Matching-Teaching-Style-to-Learning-Style-May-Not-Help-Students)  
+   Link: <a href="https://www.scribd.com/document/996022122/Article-Matching-Teaching-Style-to-Learning-Style-May-Not-Help-Students" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/996022122/Article-Matching-Teaching-Style-to-Learning-Style-May-Not-Help-Students</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Article - Matching Teaching Style To Learning Style May...A recent paper argues that the concept of matching teaching styles to students...</p></details>

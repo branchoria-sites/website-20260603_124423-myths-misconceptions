@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823
 - Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_untestable_healing_c_01f975
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - sciencey-words
 - detox-claims
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - sciencey-words
 - detox-claims
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Detox language often turns real body processes into broad product promises that are hard to measure or falsify.
 hero_summary: Detox language often turns real body processes into broad product promises that are hard to measure or falsify.
 layout: default
 permalink: /detox-claims/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /sciencey-words/
 nav_short_title: Detox Claims
 title: What 'Detox' Claims Usually Leave Out
-title_full: What 'Detox' Claims Usually Leave Out | Sciencey Words
+title_full: What 'Detox' Claims Usually Leave Out
 display_title_short: Detox Claims
 display_title: Detox Claims
 heading_title: What 'Detox' Claims Usually Leave Out
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Sciencey Language Makes Myths Persuasive | Mythcraft
+parent_title: Why Sciencey Language Makes Myths Persuasive
 parent_permalink: /sciencey-words/
 parent_nav_short_title: Sciencey Words
 parent_heading_title: Why Sciencey Language Makes Myths Persuasive
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The Claim That Cannot Lose
 up_link:
   basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
@@ -265,7 +265,7 @@ next_link:
   permalink: /quantum-claims/
   short_title: Quantum Claims
   heading_title: Why 'Quantum' Makes Weak Claims Sound Deeper
-date: '2026-06-09 04:20:50 '
+date: '2026-06-11 21:59:55 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_detox_claims_fbba5e-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_detox_claims_fbba5e-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_detox
 
 Detox claims are among the most common examples of science-sounding language used in weak health marketing. Products and programmes often promise to “flush toxins”, “support cellular detoxification”, “cleanse the liver”, “reset the body”, or “boost natural elimination”. These phrases sound biological and technical, yet they frequently avoid a basic question: what toxin, measured where, removed by how much, and demonstrated by what evidence?
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_detox_claims_fbba5e-Illustration-1-dark.svg" | relative_url }}" alt="Detox Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_detox_claims_fbba5e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_detox_claims_fbba5e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The appeal is understandable. Human bodies do process and eliminate potentially harmful substances every day. The problem is that many commercial detox claims take real biological processes and transform them into broad, difficult-to-test promises. Health authorities and reviews have repeatedly found little evidence that commercial detox diets, cleanses, teas, or supplements remove unspecified toxins or produce the sweeping health benefits often advertised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">e and effective as a substitute for conventional medical treatment or as a...</span></span></span>
 
@@ -285,7 +284,6 @@ The appeal is understandable. Human bodies do process and eliminate potentially 
 The word “detox” borrows credibility from genuine physiology. The liver modifies chemicals, the kidneys filter waste, the digestive system removes by-products, and many substances are excreted through urine and stool. These are real detoxification processes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.birminghambrc.nihr.ac.uk/news-and-events/the-truth-about-detoxes-by-a-liver-specialist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birminghambrc.nihr.ac.uk">[Birmingham BRC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birminghambrc.nihr.ac.uk</span><span class="citation-popover-snippet">Birmingham BRCThe truth about detoxes – by a liver specialistFrom juice cleanses to charcoal capsules, many detox trends misunderstand ho...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uclahealth.org/news/article/should-you-do-cleanse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uclahealth.org">[UCLA Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uclahealth.org</span><span class="citation-popover-title">should you do cleanse</span><span class="citation-popover-snippet">UCLA HealthShould you do a cleanse?Jun 12, 2024 — Are detoxes and cleanses safe? According to the National Center for Complementary and I...</span></span></span>
 
 Commercial detox language often becomes misleading when it stops being specific. Advertisements may refer to:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -310,9 +308,7 @@ A scientifically meaningful detox claim should be testable.
 
 If a product truly removes harmful substances from the body, researchers should be able to identify:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DESCcjSQSKY" title="A Cleanse Won’t Detox Your Body – but Here’s What Will | Body Stuff with Dr. Jen Gunter | TED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DESCcjSQSKY" target="_blank" rel="noopener noreferrer">A Cleanse Won’t Detox Your Body – but Here’s What Will | Body Stuff with Dr. Jen Gunter | TED</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 4.3M &middot; Uploaded: July 2021 &middot; Length: 4 minutes 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DESCcjSQSKY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DESCcjSQSKY">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -335,13 +331,11 @@ This creates an important distinction:
 
 The first can be tested. The second often cannot.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3DImsFY4P80" title="The Detox Industry is a Scam — Here&#x27;s the Dirty Truth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3DImsFY4P80" target="_blank" rel="noopener noreferrer">The Detox Industry is a Scam — Here&#x27;s the Dirty Truth</a></p><p class="youtube-embed-meta">Channel: Dad, the engineer &middot; Views: 1.8K &middot; Uploaded: April 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3DImsFY4P80" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3DImsFY4P80">Open on YouTube</a></p></div></div></div>
 
 ## The Problem With Biological Buzzwords
 
 Modern detox marketing increasingly uses advanced-sounding terminology. Consumers may encounter phrases such as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -362,7 +356,6 @@ A useful question is whether the language increases understanding or merely crea
 
 For example, a statement that a supplement “supports healthy detox pathways” may sound evidence-based, yet it often avoids explaining which pathways, what outcome is expected, or how success should be measured.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_detox_claims_fbba5e-Illustration-2-dark.svg" | relative_url }}" alt="Detox Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_detox_claims_fbba5e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_detox_claims_fbba5e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Weight Loss Gets Mixed Into Detox Narratives
 
@@ -382,7 +375,6 @@ The National Center for Complementary and Integrative Health advises against usi
 
 Several risks deserve attention:
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_detox_claims_fbba5e-Illustration-3-dark.svg" | relative_url }}" alt="Detox Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_detox_claims_fbba5e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_detox_claims_fbba5e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Delayed diagnosis
 
@@ -394,19 +386,17 @@ Some cleanses involve severe calorie restriction, prolonged fasting, or highly l
 
 ### Harm from supplements and teas
 
-The assumption that detox products are harmless because they are marketed as natural is not always correct. Medical literature contains documented cases of serious liver injury associated with products sold for detoxification purposes. Case reports describe acute liver failure and significant liver damage linked to certain detox teas and herbal formulations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5674495/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCYogi Detox Tea: A Potential Cause of Acute Liver Failure - PMCby K Kesavarapu · 2017 · Cited by 10 — We present a case of acute fulmin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9830300/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govDrug-Induced Liver Injury from Herbal Liver Detoxification Teaby B Niazi · 2022 · Cited by 5 — This is the first case reported of...</span></span></span>
+The assumption that detox products are harmless because they are marketed as natural is not always correct. Medical literature contains documented cases of serious liver injury associated with products sold for detoxification purposes. Case reports describe acute liver failure and significant liver damage linked to certain detox teas and herbal formulations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5674495/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Yogi Detox Tea: A Potential Cause of Acute Liver Failure - PMCby K Kesavarapu · 2017 · Cited by 10 — We present a case of acute fulmin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9830300/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govDrug-Induced Liver Injury from Herbal Liver Detoxification Teaby B Niazi · 2022 · Cited by 5 — This is the first case reported of...</span></span></span>
 
 ### Hidden ingredients and regulatory concerns
 
 Regulators have repeatedly issued warnings involving products promoted for detoxification, cleansing, digestive health, or weight loss. Some products have been cited for manufacturing violations, while others have contained undeclared pharmaceutical ingredients. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/jackson-health-wellness-clinic-646556-02032023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">Jackson Health &amp; Wellness Clinic</span><span class="citation-popover-snippet">February 3, 2023. Dear Mr. Miller: This is to advise you that the Food and Drug Administration (FDA) reviewed your...Read more...</span><span class="citation-popover-meta">Published: February 3, 2023</span></span></span>. Food and Drug Administration [2U.S.] Food and Drug Administration
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/soqVO9x7A20" title="Parasite cleanse - doctor reacts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=soqVO9x7A20" target="_blank" rel="noopener noreferrer">Parasite cleanse - doctor reacts</a></p><p class="youtube-embed-meta">Channel: Dr Ezgi Ozcan &middot; Views: 2.1M &middot; Uploaded: May 2024 &middot; Length: 1 minute 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=soqVO9x7A20" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=soqVO9x7A20">Open on YouTube</a></p></div></div></div>
 
 ## A More Reliable Way to Evaluate Detox Claims
 
 When encountering a detox promise, several practical questions can cut through the marketing language:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -819,193 +809,193 @@ A recurring misconception is that the body requires periodic commercial cleansin
 
 1. <a id="endnote-1"></a>
    Source: nccih.nih.gov  
-   Link: [https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know](https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know)  
+   Link: <a href="https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCCIH“Detoxes” and “Cleanses”: What You Need To Know | NCCIHA 2015 review concluded that there was no compelling research to support the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: newsinhealth.nih.gov  
    Title: do detox diets cleanses work  
-   Link: [https://newsinhealth.nih.gov/2021/12/do-detox-diets-cleanses-work](https://newsinhealth.nih.gov/2021/12/do-detox-diets-cleanses-work)  
+   Link: <a href="https://newsinhealth.nih.gov/2021/12/do-detox-diets-cleanses-work" target="_blank" rel="noopener noreferrer nofollow">https://newsinhealth.nih.gov/2021/12/do-detox-diets-cleanses-work</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIH News in HealthDo Detox Diets and Cleanses Work?In 2015, a team of experts concluded that results so far don&#x27;t support the use of deto...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: birminghambrc.nihr.ac.uk  
-   Link: [https://www.birminghambrc.nihr.ac.uk/news-and-events/the-truth-about-detoxes-by-a-liver-specialist](https://www.birminghambrc.nihr.ac.uk/news-and-events/the-truth-about-detoxes-by-a-liver-specialist)  
+   Link: <a href="https://www.birminghambrc.nihr.ac.uk/news-and-events/the-truth-about-detoxes-by-a-liver-specialist" target="_blank" rel="noopener noreferrer nofollow">https://www.birminghambrc.nihr.ac.uk/news-and-events/the-truth-about-detoxes-by-a-liver-specialist</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Birmingham BRCThe truth about detoxes – by a liver specialistFrom juice cleanses to charcoal capsules, many detox trends misunderstand ho...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25522674/](https://pubmed.ncbi.nlm.nih.gov/25522674/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25522674/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25522674/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>diets for toxin elimination and weight managementby AV Klein · 2015 · Cited by 219 — A handful of clinical studies have shown that commer...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nccih.nih.gov  
-   Link: [https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach](https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach)  
+   Link: <a href="https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e and effective as a substitute for conventional medical treatment or as a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5674495/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5674495/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCYogi Detox Tea: A Potential Cause of Acute Liver Failure - PMCby K Kesavarapu · 2017 · Cited by 10 — We present a case of acute fulmin...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5674495/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5674495/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yogi Detox Tea: A Potential Cause of Acute Liver Failure - PMCby K Kesavarapu · 2017 · Cited by 10 — We present a case of acute fulmin...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9830300/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9830300/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9830300/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9830300/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govDrug-Induced Liver Injury from Herbal Liver Detoxification Teaby B Niazi · 2022 · Cited by 5 — This is the first case reported of...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4548352/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4548352/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4548352/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4548352/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2009, the FDA issued a warning after 23 cases of severe liver injury were purportedly due...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: fda.gov  
    Title: get tea 538965 03222018  
-   Link: [https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/get-tea-538965-03222018](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/get-tea-538965-03222018)  
+   Link: <a href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/get-tea-538965-03222018" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/get-tea-538965-03222018</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationGet The Tea MARCS-CMS 538965 — March 22, 2018May 8, 2018 — These violations cause your dietary supplement pro...</p></details>
    Published: March 22, 2018  
 
 10. <a id="endnote-10"></a>
    Source: fda.gov  
    Title: public notification toxin discharged tea contains hidden drug ingredient  
-   Link: [https://www.fda.gov/drugs/medication-health-fraud/public-notification-toxin-discharged-tea-contains-hidden-drug-ingredient](https://www.fda.gov/drugs/medication-health-fraud/public-notification-toxin-discharged-tea-contains-hidden-drug-ingredient)  
+   Link: <a href="https://www.fda.gov/drugs/medication-health-fraud/public-notification-toxin-discharged-tea-contains-hidden-drug-ingredient" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/medication-health-fraud/public-notification-toxin-discharged-tea-contains-hidden-drug-ingredient</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationToxin Discharged Tea Contains Hidden Drug IngredientNov 30, 2015 — FDA laboratory analysis confirmed that Tox...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nccih.nih.gov  
-   Link: [https://www.nccih.nih.gov/health/safety](https://www.nccih.nih.gov/health/safety)  
+   Link: <a href="https://www.nccih.nih.gov/health/safety" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Use of Complementary Health Products and PracticesSafety depends on the specific therapy, and each complementary product or practice shou...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC13102555/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13102555/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13102555/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13102555/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and effectiveness of diet and detox teas for weight lossDiet and detox teas are commonly marketed as over-the-counter products that claim...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12664020/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12664020/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12664020/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12664020/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the silence on liver myths: a call for evidence-based...by SA Gardezi · 2025 — Common myths include misunderstandings about the causes o...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK547925/](https://www.ncbi.nlm.nih.gov/books/NBK547925/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK547925/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK547925/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tea - LiverTox - NCBI Bookshelf - NIH20 Nov 2020 — Green tea is a popular and commonly consumed drink and its extract is found in many he...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nccih.nih.gov  
-   Link: [https://www.nccih.nih.gov/](https://www.nccih.nih.gov/)  
+   Link: <a href="https://www.nccih.nih.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Complementary and Integrative HealthWe conduct and support research and provide information about complementary health product...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: uclahealth.org  
    Title: should you do cleanse  
-   Link: [https://www.uclahealth.org/news/article/should-you-do-cleanse](https://www.uclahealth.org/news/article/should-you-do-cleanse)  
+   Link: <a href="https://www.uclahealth.org/news/article/should-you-do-cleanse" target="_blank" rel="noopener noreferrer nofollow">https://www.uclahealth.org/news/article/should-you-do-cleanse</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA HealthShould you do a cleanse?Jun 12, 2024 — Are detoxes and cleanses safe? According to the National Center for Complementary and I...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bda.uk.com  
    Title: British Dietetic Association Detox Diets  
-   Link: [https://www.bda.uk.com/resource/detox-diets.html](https://www.bda.uk.com/resource/detox-diets.html)  
+   Link: <a href="https://www.bda.uk.com/resource/detox-diets.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bda.uk.com/resource/detox-diets.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>British Dietetic AssociationDetox Diets - BDA - British Dietetic AssociationDetox diets include rapid weight loss, improved digestion, im...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: fda.gov  
    Title: public notification detox plus contains hidden drug ingredients  
-   Link: [https://www.fda.gov/drugs/medication-health-fraud/public-notification-detox-plus-contains-hidden-drug-ingredients](https://www.fda.gov/drugs/medication-health-fraud/public-notification-detox-plus-contains-hidden-drug-ingredients)  
+   Link: <a href="https://www.fda.gov/drugs/medication-health-fraud/public-notification-detox-plus-contains-hidden-drug-ingredients" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/medication-health-fraud/public-notification-detox-plus-contains-hidden-drug-ingredients</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationDetox Plus contains hidden drug ingredientsDec 4, 2019 — The Food and Drug Administration is advising co...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: fda.gov  
    Title: Ambaya Gold Health Products, LLC  
-   Link: [https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/ambaya-gold-health-products-llc-648130-12052023](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/ambaya-gold-health-products-llc-648130-12052023)  
+   Link: <a href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/ambaya-gold-health-products-llc-648130-12052023" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/ambaya-gold-health-products-llc-648130-12052023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>648130 - 12/05/2023Apr 2, 2024 — The US Food and Drug Administration (FDA) reviewed your website at the Internet address www.ambayagold.c...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: fda.gov  
    Title: Jackson Health & Wellness Clinic  
-   Link: [https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/jackson-health-wellness-clinic-646556-02032023](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/jackson-health-wellness-clinic-646556-02032023)  
+   Link: <a href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/jackson-health-wellness-clinic-646556-02032023" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/jackson-health-wellness-clinic-646556-02032023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2023. Dear Mr. Miller: This is to advise you that the Food and Drug Administration (FDA) reviewed your...Read more...</p></details>
    Published: February 3, 2023  
 
 21. <a id="endnote-21"></a>
    Source: fda.gov  
    Title: weight loss product notifications  
-   Link: [https://www.fda.gov/drugs/medication-health-fraud-notifications/weight-loss-product-notifications](https://www.fda.gov/drugs/medication-health-fraud-notifications/weight-loss-product-notifications)  
+   Link: <a href="https://www.fda.gov/drugs/medication-health-fraud-notifications/weight-loss-product-notifications" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/medication-health-fraud-notifications/weight-loss-product-notifications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>22 Jul 2025 — Many products that claim to help with weight loss—such as diet pills; fat-burning pills; and weight loss supplements, pills...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: fda.gov  
    Title: American Botanical Pharmacy  
-   Link: [https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/american-botanical-pharmacy-562180-10302018](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/american-botanical-pharmacy-562180-10302018)  
+   Link: <a href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/american-botanical-pharmacy-562180-10302018" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/american-botanical-pharmacy-562180-10302018</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>562180 - 10/30/2018Dec 4, 2018 — Dear Dr. Schulze: This is to advise you that the Food and Drug Administration (FDA)...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: fda.gov  
    Title: public notification lingzhi cleansed slim tea contains hidden drug ingredient  
-   Link: [https://www.fda.gov/drugs/medication-health-fraud/public-notification-lingzhi-cleansed-slim-tea-contains-hidden-drug-ingredient](https://www.fda.gov/drugs/medication-health-fraud/public-notification-lingzhi-cleansed-slim-tea-contains-hidden-drug-ingredient)  
+   Link: <a href="https://www.fda.gov/drugs/medication-health-fraud/public-notification-lingzhi-cleansed-slim-tea-contains-hidden-drug-ingredient" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/medication-health-fraud/public-notification-lingzhi-cleansed-slim-tea-contains-hidden-drug-ingredient</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lingzhi Cleansed Slim Tea Contains Hidden Drug Ingredient9 Sept 2015 — The Food and Drug Administration (FDA) is advising consumers not t...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: fda.gov.ph  
    Title: FD A Advisory No  
-   Link: [https://www.fda.gov.ph/fda-advisory-no-2019-321-public-health-warning-against-the-purchase-and-consumption-of-the-following-unregistered-food-supplements/](https://www.fda.gov.ph/fda-advisory-no-2019-321-public-health-warning-against-the-purchase-and-consumption-of-the-following-unregistered-food-supplements/)  
+   Link: <a href="https://www.fda.gov.ph/fda-advisory-no-2019-321-public-health-warning-against-the-purchase-and-consumption-of-the-following-unregistered-food-supplements/" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov.ph/fda-advisory-no-2019-321-public-health-warning-against-the-purchase-and-consumption-of-the-following-unregistered-food-supplements/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2019-321 || Public Health Warning Against...The Food and Drug Administration (FDA) warns the public from purchasing and consuming the fo...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: publikasi.mercubuana.ac.id  
-   Link: [https://publikasi.mercubuana.ac.id/pages/sites/detail/?p=Myth-busting-Detox-Teas-%E2%80%94-What-FDA-Reports-Actually-Say-w4HadbtMqorkp](https://publikasi.mercubuana.ac.id/pages/sites/detail/?p=Myth-busting-Detox-Teas-%E2%80%94-What-FDA-Reports-Actually-Say-w4HadbtMqorkp)  
+   Link: <a href="https://publikasi.mercubuana.ac.id/pages/sites/detail/?p=Myth-busting-Detox-Teas-%E2%80%94-What-FDA-Reports-Actually-Say-w4HadbtMqorkp" target="_blank" rel="noopener noreferrer nofollow">https://publikasi.mercubuana.ac.id/pages/sites/detail/?p=Myth-busting-Detox-Teas-%E2%80%94-What-FDA-Reports-Actually-Say-w4HadbtMqorkp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mercubuana.ac.idMyth-busting Detox Teas — What FDA Reports Actually SayMar 11, 2026 — FDA reports on detox teas with senna and dandelion...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: britishlivertrust.org.uk  
-   Link: [https://britishlivertrust.org.uk/information-and-support/living-with-a-liver-condition/diet-and-liver-disease/](https://britishlivertrust.org.uk/information-and-support/living-with-a-liver-condition/diet-and-liver-disease/)  
+   Link: <a href="https://britishlivertrust.org.uk/information-and-support/living-with-a-liver-condition/diet-and-liver-disease/" target="_blank" rel="noopener noreferrer nofollow">https://britishlivertrust.org.uk/information-and-support/living-with-a-liver-condition/diet-and-liver-disease/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Diet and Liver DiseaseThere is no evidence that toxins build up in the liver and some of these diets can be dangerous for people with liv...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/michiganhhs/posts/mdhhs-urges-consumers-to-stop-using-some-dietary-supplements-labeled-as-tejocote/1326890519475194/](https://www.facebook.com/michiganhhs/posts/mdhhs-urges-consumers-to-stop-using-some-dietary-supplements-labeled-as-tejocote/1326890519475194/)  
+   Link: <a href="https://www.facebook.com/michiganhhs/posts/mdhhs-urges-consumers-to-stop-using-some-dietary-supplements-labeled-as-tejocote/1326890519475194/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/michiganhhs/posts/mdhhs-urges-consumers-to-stop-using-some-dietary-supplements-labeled-as-tejocote/1326890519475194/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MDHHS urges consumers to stop using some dietary...MDHHS urges consumers to stop using some dietary supplements labeled as tejocote root...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: healthwell.eani.org.uk  
-   Link: [https://healthwell.eani.org.uk/healthtopic/healthy-diet/detox-diets](https://healthwell.eani.org.uk/healthtopic/healthy-diet/detox-diets)  
+   Link: <a href="https://healthwell.eani.org.uk/healthtopic/healthy-diet/detox-diets" target="_blank" rel="noopener noreferrer nofollow">https://healthwell.eani.org.uk/healthtopic/healthy-diet/detox-diets</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DietsIt has numerous organs such as the skin, gut, liver and kidney, that continually &#x27;detoxify&#x27; your body from head to toe by responding...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: shemed.co.uk  
-   Link: [https://www.shemed.co.uk/app-article/the-pros-and-cons-of-detox-diets](https://www.shemed.co.uk/app-article/the-pros-and-cons-of-detox-diets)  
+   Link: <a href="https://www.shemed.co.uk/app-article/the-pros-and-cons-of-detox-diets" target="_blank" rel="noopener noreferrer nofollow">https://www.shemed.co.uk/app-article/the-pros-and-cons-of-detox-diets</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
    Title: a variety of detoxification diets regimens and therapies have been suggested as  
-   Link: [https://www.facebook.com/nih.nccih/posts/a-variety-of-detoxification-diets-regimens-and-therapies-have-been-suggested-as-/986139083073070/](https://www.facebook.com/nih.nccih/posts/a-variety-of-detoxification-diets-regimens-and-therapies-have-been-suggested-as-/986139083073070/)  
+   Link: <a href="https://www.facebook.com/nih.nccih/posts/a-variety-of-detoxification-diets-regimens-and-therapies-have-been-suggested-as-/986139083073070/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nih.nccih/posts/a-variety-of-detoxification-diets-regimens-and-therapies-have-been-suggested-as-/986139083073070/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A variety of “detoxification” diets, regimens, and therapies...A 2015 review concluded that there was no compelling research to support...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: mdanderson.org  
    Title: the facts behind 4 detox myths should you detox your body.h00 159385890  
-   Link: [https://www.mdanderson.org/cancerwise/the-facts-behind-4-detox-myths-should-you-detox-your-body.h00-159385890.html](https://www.mdanderson.org/cancerwise/the-facts-behind-4-detox-myths-should-you-detox-your-body.h00-159385890.html)  
+   Link: <a href="https://www.mdanderson.org/cancerwise/the-facts-behind-4-detox-myths-should-you-detox-your-body.h00-159385890.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mdanderson.org/cancerwise/the-facts-behind-4-detox-myths-should-you-detox-your-body.h00-159385890.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 detox myths: Get the facts26 Oct 2020 — Fried foods and sugary drinks are difficult for the liver to process, and too much of each of t...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/national-center-for-complementary-and-integrative-health_detoxes-and-cleanses-what-you-need-to-activity-7310700273314783232-xXug](https://www.linkedin.com/posts/national-center-for-complementary-and-integrative-health_detoxes-and-cleanses-what-you-need-to-activity-7310700273314783232-xXug)  
+   Link: <a href="https://www.linkedin.com/posts/national-center-for-complementary-and-integrative-health_detoxes-and-cleanses-what-you-need-to-activity-7310700273314783232-xXug" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/national-center-for-complementary-and-integrative-health_detoxes-and-cleanses-what-you-need-to-activity-7310700273314783232-xXug</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Many “detox” diets, regimens, and therapies have been suggested as ways to remove...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: webmd.com  
-   Link: [https://www.webmd.com/diet/detox-diets](https://www.webmd.com/diet/detox-diets)  
+   Link: <a href="https://www.webmd.com/diet/detox-diets" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/diet/detox-diets</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>grative Health: “Detoxes and Cleanses: What You Need to Know.Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: health.yahoo.com  
-   Link: [https://health.yahoo.com/wellness/nutrition/articles/doctors-warn-against-popular-herbal-174500711.html](https://health.yahoo.com/wellness/nutrition/articles/doctors-warn-against-popular-herbal-174500711.html)  
+   Link: <a href="https://health.yahoo.com/wellness/nutrition/articles/doctors-warn-against-popular-herbal-174500711.html" target="_blank" rel="noopener noreferrer nofollow">https://health.yahoo.com/wellness/nutrition/articles/doctors-warn-against-popular-herbal-174500711.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Warn Against Popular Herbal Detox Supplements...Feb 24, 2026 — Unfortunately, that opens the door to certain supplements making your hea...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: advancedintegratedhealth.com  
    Title: understanding natural detoxification science  
-   Link: [https://www.advancedintegratedhealth.com/understanding-natural-detoxification-science/](https://www.advancedintegratedhealth.com/understanding-natural-detoxification-science/)  
+   Link: <a href="https://www.advancedintegratedhealth.com/understanding-natural-detoxification-science/" target="_blank" rel="noopener noreferrer nofollow">https://www.advancedintegratedhealth.com/understanding-natural-detoxification-science/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Home-Based Detox: Understanding Natural Detoxification...5 Jun 2025 — According to the National Center for Complementary and Integrative...</p></details>

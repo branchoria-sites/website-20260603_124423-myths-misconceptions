@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781
 - Myths_and_misconcept_0d48d7_expert_trust_health_481656_wakefield_mmr_author_eb5570
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - expert-trust
 - one-doctor
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - expert-trust
 - one-doctor
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A single credentialed voice can make a weak health claim feel credible long after journals, regulators, or evidence have moved on.
 hero_summary: A single credentialed voice can make a weak health claim feel credible long after journals, regulators, or evidence have moved on.
 layout: default
 permalink: /one-doctor/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /expert-trust/
 nav_short_title: One Doctor
 title: Why One Doctor Can Keep a Myth Alive
-title_full: Why One Doctor Can Keep a Myth Alive | Expert Trust
+title_full: Why One Doctor Can Keep a Myth Alive
 display_title_short: One Doctor
 display_title: One Doctor
 heading_title: Why One Doctor Can Keep a Myth Alive
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Expert Trust Carries Bad Claims | Mythcraft
+parent_title: When Expert Trust Carries Bad Claims
 parent_permalink: /expert-trust/
 parent_nav_short_title: Expert Trust
 parent_heading_title: When Expert Trust Carries Bad Claims
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Prestigious Journals Get It Wrong
 up_link:
   basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
@@ -265,7 +265,7 @@ next_link:
   permalink: /surgisphere/
   short_title: Surgisphere
   heading_title: When Prestigious Journals Get It Wrong
-date: '2026-06-09 04:25:24 '
+date: '2026-06-11 22:02:18 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_one_doctor_claims_81faf0-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_one_doctor_claims_81faf0-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_one
 
 A health myth does not always survive because the evidence is strong. Sometimes it survives because the original messenger was. When a doctor makes a confident claim that later proves weak, unsupported or wrong, the [correction]({{ 'correction/' | relative_url }}) often struggles to catch up with the authority attached to the original statement. The result is a common pattern in health misinformation: the doctor's credentials become more memorable than the evidence, and the claim remains influential long after scientific reviews, regulators or professional bodies have moved on.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_one_doctor_claims_81faf0-Illustration-1-dark.svg" | relative_url }}" alt="One Doctor illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_one_doctor_claims_81faf0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_one_doctor_claims_81faf0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This mechanism helps explain why some [health myths]({{ 'health-myths/' | relative_url }}) persist for years. People are not necessarily rejecting evidence. They are often relying on a shortcut that usually works: trusting someone with medical training. The problem arises when the authority signal outlives the evidence behind it.
 
@@ -286,7 +285,7 @@ A medical qualification is a powerful cue. In everyday life, most people cannot 
 
 The difficulty is that the credential often travels further than the accompanying uncertainty. A physician may discuss a preliminary finding, a speculative hypothesis or a personal interpretation of limited data. As the claim moves through news reports, social media posts and word of mouth, the nuance is stripped away. What remains is a simplified message: “A doctor says this causes cancer”, “A doctor says [vaccines]({{ 'vaccines/' | relative_url }}) are dangerous”, or “A doctor says this supplement cures disease”.
 
-Research on credibility judgments suggests that perceived expertise strongly shapes whether people accept health information, sometimes more than the quality of the evidence itself. Studies of online [health claims]({{ 'health-claims/' | relative_url }}) have found that source expertise has a major effect on perceived credibility, even when supporting evidence is weak or inaccurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivRevealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</span><span class="citation-popover-meta">Published: March 16, 2023</span></span></span>
+Research on credibility judgments suggests that perceived expertise strongly shapes whether people accept health information, sometimes more than the quality of the evidence itself. Studies of online [health claims]({{ 'health-claims/' | relative_url }}) have found that source expertise has a major effect on perceived credibility, even when supporting evidence is weak or inaccurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Revealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</span><span class="citation-popover-meta">Published: March 16, 2023</span></span></span>
 
 The authority cue is especially durable because it is easy to remember. Most people will not recall the sample size of a study or the details of a re-analysis years later. They may, however, remember that “a doctor warned about it”.
 
@@ -298,27 +297,25 @@ Yet the claim persisted for decades. One reason was that the original message ar
 
 The lesson is not that medical expertise is untrustworthy. Rather, it demonstrates how a single credentialed voice can create a lasting impression that survives the collapse of the underlying evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YjFKMrxRKE0" title="how" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YjFKMrxRKE0" target="_blank" rel="noopener noreferrer">how</a></p><p class="youtube-embed-meta">Channel: LearnAmericanEnglishOnline &middot; Views: 29.0K &middot; Uploaded: January 2018 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YjFKMrxRKE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YjFKMrxRKE0">Open on YouTube</a></p></div></div></div>
 
 ## Why Correction Has to Fight the Original Authority Signal
 
 [Corrections]({{ 'corrections/' | relative_url }}) face a structural disadvantage. The original claim is often novel, alarming or emotionally engaging. The correction usually arrives later and is less dramatic.
 
-Psychologists describe a phenomenon called the “[continued influence]({{ 'old-stories/' | relative_url }}) effect”, in which people continue to rely on misinformation even after it has been explicitly corrected. Decades of research show that retractions and corrections often reduce belief but rarely eliminate the influence of the original claim altogether. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkExploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence...</span></span></span>
+Psychologists describe a phenomenon called the “continued influence effect”, in which people continue to rely on misinformation even after it has been explicitly corrected. Decades of research show that retractions and corrections often reduce belief but rarely eliminate the influence of the original claim altogether. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkExploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence...</span></span></span>
 
 Several mechanisms make this especially difficult when the original source was a doctor.
 
-**The first message becomes the mental anchor.** Once people have built an explanation around a claim, removing it creates a gap in their understanding. The original story remains cognitively useful even after it has been challenged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">PMCby IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
+**The first message becomes the mental anchor.** Once people have built an explanation around a claim, removing it creates a gap in their understanding. The original story remains cognitively useful even after it has been challenged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
 
-**Authority creates a memory advantage.** People may forget details of both the claim and the correction, yet retain the impression that a qualified professional endorsed the original idea. Source expertise has a disproportionate influence on credibility judgments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivRevealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</span><span class="citation-popover-meta">Published: March 16, 2023</span></span></span>
+**Authority creates a [memory]({{ 'memory/' | relative_url }}) advantage.** People may forget details of both the claim and the correction, yet retain the impression that a qualified professional endorsed the original idea. Source expertise has a disproportionate influence on credibility judgments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Revealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</span><span class="citation-popover-meta">Published: March 16, 2023</span></span></span>
 
 **Corrections can create psychological discomfort.** Research suggests that retracting previously accepted information can generate discomfort and uncertainty. Some individuals reduce that discomfort by continuing to rely on the original belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan you believe it?</span><span class="citation-popover-snippet">An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</span></span></span>
 
 **Scientific updates sound weaker than confident claims.** Science often communicates in probabilities and degrees of certainty. A myth-promoting doctor may speak in absolutes. To many listeners, certainty sounds more persuasive than caution even when caution is more evidence-based.
 
 These factors help explain why the first authoritative claim can remain influential long after professional consensus has shifted.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_one_doctor_claims_81faf0-Illustration-2-dark.svg" | relative_url }}" alt="One Doctor illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_one_doctor_claims_81faf0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_one_doctor_claims_81faf0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Consensus Usually Matters More Than a Single Expert
@@ -333,13 +330,10 @@ Health authorities continue to rely heavily on trusted clinicians as messengers 
 
 The challenge is recognising that trust in doctors works best when it is connected to evidence, not substituted for it.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R3pCAhm41ao" title="How communicators can identify and respond to vaccine misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R3pCAhm41ao" target="_blank" rel="noopener noreferrer">How communicators can identify and respond to vaccine misinformation</a></p><p class="youtube-embed-meta">Channel: PAHO TV &middot; Views: 187 &middot; Uploaded: May 2025 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R3pCAhm41ao" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R3pCAhm41ao">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_one_doctor_claims_81faf0-Illustration-3-dark.svg" | relative_url }}" alt="One Doctor illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_one_doctor_claims_81faf0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_one_doctor_claims_81faf0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Questions That Separate Expertise From Proof
 
 When a health claim appears to rest heavily on a doctor's authority, several questions help distinguish genuine evidence from a persuasive authority signal.
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -354,17 +348,13 @@ When a health claim appears to rest heavily on a doctor's authority, several que
 
 These questions do not require distrusting doctors. They simply recognise that credentials are evidence of expertise, not evidence by themselves.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R3pCAhm41ao" title="How communicators can identify and respond to vaccine misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R3pCAhm41ao" target="_blank" rel="noopener noreferrer">How communicators can identify and respond to vaccine misinformation</a></p><p class="youtube-embed-meta">Channel: PAHO TV &middot; Views: 187 &middot; Uploaded: May 2025 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R3pCAhm41ao" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R3pCAhm41ao">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_one_doctor_claims_81faf0-Illustration-3-dark.svg" | relative_url }}" alt="One Doctor illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_one_doctor_claims_81faf0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_one_doctor_claims_81faf0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Lasting Mechanism
 
 The enduring power of a doctor's claim comes from a mismatch between how information spreads and how science corrects itself. A credentialed warning can be transmitted in a sentence. A correction may require years of studies, reviews and public communication.
 
 By the time the evidence is settled, the original authority signal may already be embedded in memory. People remember who spoke, not necessarily what happened afterward. That is why a single doctor's claim can keep a health myth alive long after the scientific record has moved on, and why evaluating evidence requires looking beyond the authority of the messenger to the strength of the proof behind the message.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hz6GULbowAk" title="Why people fall for misinformation - Joseph Isaac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hz6GULbowAk" target="_blank" rel="noopener noreferrer">Why people fall for misinformation - Joseph Isaac</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hz6GULbowAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hz6GULbowAk">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -762,117 +752,117 @@ By the time the evidence is settled, the original authority signal may already b
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2303.09656](https://arxiv.org/abs/2303.09656)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivRevealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.09656</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</p></details>
    Published: March 16, 2023  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExploring factors that mitigate the continued influence  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-021-00335-9](https://link.springer.com/article/10.1186/s41235-021-00335-9)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkExploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCan you believe it?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: who.int  
-   Link: [https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis](https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis)  
+   Link: <a href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — Recognizing that health and care workers (HC...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: continued.com  
-   Link: [https://www.continued.com/](https://www.continued.com/)  
+   Link: <a href="https://www.continued.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.continued.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Online CEUs for ECE, Social Work...Continued makes it easier than ever to find the online continuing education courses you need. You can...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.3758/s13421-023-01402-w](https://link.springer.com/article/10.3758/s13421-023-01402-w)  
+   Link: <a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Research on the continued influence effec...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s12889-025-23470-0](https://link.springer.com/article/10.1186/s12889-025-23470-0)  
+   Link: <a href="https://link.springer.com/article/10.1186/s12889-025-23470-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12889-025-23470-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in doctors, social support, and belief in COVID-19...by UA Horoszko · 2025 · Cited by 7 — In the full sample analysis, trust in doctors...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/how](https://dictionary.cambridge.org/dictionary/english/how)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionary6 days ago — HOW definition: 1. in what way, or by what methods: 2. used to ask about someone&#x27;s p...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/how" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/how</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary6 days ago — HOW definition: 1. in what way, or by what methods: 2. used to ask about someone&#x27;s p...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/us/dictionary/english/continued](https://dictionary.cambridge.org/us/dictionary/english/continued)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| definition in the Cambridge English Dictionary8 days ago — (also continuing) still happening, existing, or done: Continued fighting in...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/continued" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/continued</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionary8 days ago — (also continuing) still happening, existing, or done: Continued fighting in...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: vocabulary.com  
-   Link: [https://www.vocabulary.com/dictionary/continued](https://www.vocabulary.com/dictionary/continued)  
+   Link: <a href="https://www.vocabulary.com/dictionary/continued" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/continued</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; SynonymsContinued means &quot;ongoing.&quot; You might ask your friends for their continued help with the movie you&#x27;re shooti...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/continued](https://www.merriam-webster.com/dictionary/continued)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/continued" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/continued</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CONTINUED Definition &amp; Meaning1. lasting or extending without interruption; continued success. 2. resumed after interruption; a continued...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: brod.ntcenter.bg  
-   Link: [https://brod.ntcenter.bg/en/continued-influence-effect/](https://brod.ntcenter.bg/en/continued-influence-effect/)  
+   Link: <a href="https://brod.ntcenter.bg/en/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brod.ntcenter.bg/en/continued-influence-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Continued Influence EffectThe &quot;Continued Influence Effect&quot; refers to the phenomenon where misinformation continues to affect people&#x27;s thi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: wordwebonline.com  
-   Link: [https://www.wordwebonline.com/en/HOW](https://www.wordwebonline.com/en/HOW)  
+   Link: <a href="https://www.wordwebonline.com/en/HOW" target="_blank" rel="noopener noreferrer nofollow">https://www.wordwebonline.com/en/HOW</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>how- WordWeb dictionary definitionAdverb: how haw. In what way or manner or by what means &quot;how did you catch the snake?&quot;; &quot;he told us how...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/111470/html/](https://committees.parliament.uk/writtenevidence/111470/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/111470/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/111470/html/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>use of cookiesWritten evidence submitted by Dr Stephanie Alice Baker. Written Evidence: Select Inquiry into Misinformation and Trusted Vo...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE](https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE)  
+   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf](https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf)  
+   Link: <a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: collinsdictionary.com  
-   Link: [https://www.collinsdictionary.com/dictionary/english/how](https://www.collinsdictionary.com/dictionary/english/how)  
+   Link: <a href="https://www.collinsdictionary.com/dictionary/english/how" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/how</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in what manner or way; by what means · 2. in what state or condition · 3. for what reason or purpose; why. how is it that you don...Read...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nature.com  
    Title: continued influence effect of misinformation. Memory Cogn.Read more  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1906 — Misinformation and its correction: co...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027725000307](https://www.sciencedirect.com/science/article/pii/S0010027725000307)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectBelief updating in the face of misinformation: The role...by GA Sanna · 2025 · Cited by 14 — Misinformation and its correct...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027725000307" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725000307</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belief updating in the face of misinformation: The role...by GA Sanna · 2025 · Cited by 14 — Misinformation and its correct...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: hhs.gov  
    Title: surgeon general misinformation advisory  
-   Link: [https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf](https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health Misinformation14 Jul 2021 — Amplify communications from [trusted messengers](&amp;#123;&amp;#123; &#x27;trusted-fixes/&#x27; | relative_url &amp;#125;&amp;#125;) and subject matter experts. For example, wo...</p></details>
+   Link: <a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health Misinformation14 Jul 2021 — Amplify communications from trusted messengers and subject matter experts. For example, wo...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf
 - Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - algorithms
 - outrage-boost
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - algorithms
 - outrage-boost
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Angry replies can make a false post look important to a ranking system even when many users are trying to reject it.
 hero_summary: Angry replies can make a false post look important to a ranking system even when many users are trying to reject it.
 layout: default
 permalink: /outrage-boost/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /algorithms/
 nav_short_title: Outrage Boost
 title: Can Angry Replies Help Myths Spread?
-title_full: Can Angry Replies Help Myths Spread? | Algorithms
+title_full: Can Angry Replies Help Myths Spread?
 display_title_short: Outrage Boost
 display_title: Outrage Boost
 heading_title: Can Angry Replies Help Myths Spread?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Platforms Help Myths Travel Faster | Mythcraft
+parent_title: How Platforms Help Myths Travel Faster
 parent_permalink: /algorithms/
 parent_nav_short_title: Algorithms
 parent_heading_title: How Platforms Help Myths Travel Faster
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Small Rumours Become Mass Myths
 up_link:
   basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
@@ -265,7 +265,7 @@ next_link:
   permalink: /rumour-loops/
   short_title: Rumour Loops
   heading_title: How Small Rumours Become Mass Myths
-date: '2026-06-09 04:34:57 '
+date: '2026-06-11 22:06:59 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-1.webp
@@ -274,20 +274,18 @@ image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outr
 
 ## Introduction
 
-Can angry replies help myths spread? In many cases, yes. A common assumption is that hostile comments weaken a false claim because they challenge it. Yet on many social [platforms]({{ 'platforms/' | relative_url }}), a large volume of comments can also act as a signal that a post is attracting attention. If ranking systems measure engagement more reliably than they measure agreement, a false or misleading post may gain visibility even when much of the audience is arguing against it. The result is a paradox: people trying to correct a myth can sometimes help make it look important, active or relevant to the platform’s recommendation system. Research on engagement-driven ranking, outrage, and misinformation repeatedly points to this tension between attention and endorsement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">misinformation exploits users&#x27; impulses to share moral outrage [52]. A combination of anger and disgust, moral outrage is typically exper...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[2ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano · Cited by 16 — This paper investigates the dynamic feedb...</span></span></span>
-
+Can angry replies help myths spread? In many cases, yes. A common assumption is that hostile comments weaken a false claim because they challenge it. Yet on many social [platforms]({{ 'platforms/' | relative_url }}), a large volume of comments can also act as a signal that a post is attracting attention. If ranking systems measure engagement more reliably than they measure agreement, a false or misleading post may gain visibility even when much of the audience is arguing against it. The result is a paradox: people trying to correct a myth can sometimes help make it look important, active or relevant to the platforms recommendation system. Research on engagement-driven ranking, outrage, and misinformation repeatedly points to this tension between attention and endorsement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">misinformation exploits users&#x27; impulses to share moral outrage [52]. A combination of anger and disgust, moral outrage is typically exper...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[2ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano  Cited by 16  This paper investigates the dynamic feedb...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-1-dark.svg" | relative_url }}" alt="Outrage Boost illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How hostile engagement becomes a ranking signal
 
 Most large social platforms must decide which of millions of posts deserve additional visibility. To do this, they often rely on behavioural signals such as comments, replies, reactions, shares, watch time and other forms of interaction. These signals are easier to measure than the motive behind them.
 
-A ranking system can usually detect that users are engaging. It may be far less certain whether they are approving, mocking, disputing or warning others. When a false claim attracts hundreds or thousands of angry responses, the platform may register intense activity before it understands the sentiment behind that activity. As a result, the post can appear more relevant than a quieter, more accurate [correction]({{ 'correction/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano · Cited by 16 — This paper investigates the dynamic feedb...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">misinformation exploits users&#x27; impulses to share moral outrage [52]. A combination of anger and disgust, moral outrage is typically exper...</span></span></span>
+A ranking system can usually detect that users are engaging. It may be far less certain whether they are approving, mocking, disputing or warning others. When a false claim attracts hundreds or thousands of angry responses, the platform may register intense activity before it understands the sentiment behind that activity. As a result, the post can appear more relevant than a quieter, more accurate [correction]({{ 'correction/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano  Cited by 16  This paper investigates the dynamic feedb...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">misinformation exploits users&#x27; impulses to share moral outrage [52]. A combination of anger and disgust, moral outrage is typically exper...</span></span></span>
 
-This dynamic is especially powerful because outrage is not passive. People often feel compelled to respond, quote, argue or alert friends. Research on misinformation and moral outrage suggests that emotionally charged content attracts attention and interaction, creating conditions that favour wider circulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceMisinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 113 — Because outrage is associated with increa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectRanking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 14 — Social media are at the cent...</span></span></span>
+This dynamic is especially powerful because outrage is not passive. People often feel compelled to respond, quote, argue or alert friends. Research on misinformation and moral outrage suggests that emotionally charged content attracts attention and interaction, creating conditions that favour wider circulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin  2024  Cited by 113  Because outrage is associated with increa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Ranking for engagement: How social media algorithms fuel...by F Germano  2026  Cited by 14  Social media are at the cent...</span></span></span>
 
 A simple example illustrates the mechanism:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -300,68 +298,57 @@ A simple example illustrates the mechanism:
 
 </div>
 
-The important point is that the algorithm does not necessarily need to “believe” the claim. It only needs to detect unusually strong engagement.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hYoTSM_wZ0A" title="Taking A Look At TikTok&#x27;s Misinformation Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hYoTSM_wZ0A" target="_blank" rel="noopener noreferrer">Taking A Look At TikTok&#x27;s Misinformation Challenge</a></p><p class="youtube-embed-meta">Channel: Scripps News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hYoTSM_wZ0A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hYoTSM_wZ0A">Open on YouTube</a></p></div></div></div>
+The important point is that the algorithm does not necessarily need to believe the claim. It only needs to detect unusually strong engagement.
 
 ## Why corrections and rebuttals can feed the same loop
 
 The problem is not that [corrections]({{ 'corrections/' | relative_url }}) are harmful in themselves. Accurate rebuttals remain one of the most important tools against misinformation. The difficulty is that rebuttals often occur in the same engagement space as the original claim.
 
-A correction posted as a reply still adds another interaction. A long argument thread still signals sustained attention. A user quote-posting a myth to condemn it may introduce the claim to an entirely new audience. In engagement-based systems, these actions can contribute to the visibility of the original content even while opposing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano · Cited by 16 — This paper investigates the dynamic feedb...</span></span></span>
+A correction posted as a reply still adds another interaction. A long argument thread still signals sustained attention. A user quote-posting a myth to condemn it may introduce the claim to an entirely new audience. In engagement-based systems, these actions can contribute to the visibility of the original content even while opposing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano  Cited by 16  This paper investigates the dynamic feedb...</span></span></span>
 
-Research on online behaviour has found that people frequently engage with content they dislike. A 2024 study described a “confrontation effect”, in which users are often motivated to interact with posts that challenge or anger them rather than simply ignoring them. From a ranking perspective, disagreement can therefore produce many of the same measurable signals as support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.tulane.edu/pr/rage-clicks-study-shows-how-political-outrage-fuels-social-media-engagement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.tulane.edu">[Tulane University News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.tulane.edu</span><span class="citation-popover-title">rage clicks study shows how political outrage fuels social media engagement</span><span class="citation-popover-snippet">Tulane University NewsRage clicks: Study shows how political outrage fuels social...9 Oct 2024 — A new Tulane University study explains...</span></span></span>
+Research on online behaviour has found that people frequently engage with content they dislike. A 2024 study described a confrontation effect, in which users are often motivated to interact with posts that challenge or anger them rather than simply ignoring them. From a ranking perspective, disagreement can therefore produce many of the same measurable signals as support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.tulane.edu/pr/rage-clicks-study-shows-how-political-outrage-fuels-social-media-engagement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.tulane.edu">[Tulane University News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.tulane.edu</span><span class="citation-popover-title">rage clicks study shows how political outrage fuels social media engagement</span><span class="citation-popover-snippet">Tulane University NewsRage clicks: Study shows how political outrage fuels social...9 Oct 2024  A new Tulane University study explains...</span></span></span>
 
 This helps explain why myths can appear larger than they really are. A casual observer may encounter a highly active post and infer that it is important, influential or widely believed. In reality, much of the activity may consist of criticism. However, the visibility created by that criticism can still expose more people to the original claim.
 
 An additional complication is that exposure itself matters. Even when readers reject a false statement, repeated encounters can increase familiarity. A claim that constantly reappears in debates, rebuttals and arguments may become more memorable simply because it is seen so often.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-2-dark.svg" | relative_url }}" alt="Outrage Boost illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why outrage is especially powerful
 
 Not all engagement is equal. Anger and moral outrage tend to generate rapid, expressive responses.
 
-Researchers studying misinformation have argued that false claims often exploit emotional reactions, particularly outrage directed at perceived wrongdoing. Outrage encourages users to comment immediately, share with others and participate in public disputes. These behaviours generate exactly the forms of activity that engagement-driven systems often reward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceMisinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 113 — Because outrage is associated with increa...</span></span></span>
+Researchers studying misinformation have argued that false claims often exploit emotional reactions, particularly outrage directed at perceived wrongdoing. Outrage encourages users to comment immediately, share with others and participate in public disputes. These behaviours generate exactly the forms of activity that engagement-driven systems often reward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin  2024  Cited by 113  Because outrage is associated with increa...</span></span></span>
 
-Evidence from platform studies also suggests that engagement-based ranking can disproportionately amplify emotionally charged content. Analyses of social media recommendation systems have found stronger [amplification]({{ 'amplification/' | relative_url }}) for content expressing anger and intergroup hostility than for calmer material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knightcolumbia.org">[Knight First Amendment Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knightcolumbia.org</span><span class="citation-popover-snippet">Knight First Amendment InstituteEngagement, User Satisfaction, and the Amplification of...by S Milli · Cited by 3 — Our study reveals th...</span></span></span>
+Evidence from platform studies also suggests that engagement-based ranking can disproportionately amplify emotionally charged content. Analyses of social media recommendation systems have found stronger [amplification]({{ 'amplification/' | relative_url }}) for content expressing anger and intergroup hostility than for calmer material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knightcolumbia.org">[Knight First Amendment Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knightcolumbia.org</span><span class="citation-popover-snippet">Knight First Amendment InstituteEngagement, User Satisfaction, and the Amplification of...by S Milli  Cited by 3  Our study reveals th...</span></span></span>
 
 The consequence is not that every angry discussion spreads misinformation. Rather, emotionally charged myths have a built-in advantage in environments where attention is a key ranking input. They provoke reactions from supporters and opponents simultaneously, creating a larger engagement pool than many accurate but less emotionally provocative posts.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cnwem7u1178" title="Misinformation On Social Media: What Can Be Done? | SXSW EDU 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cnwem7u1178" target="_blank" rel="noopener noreferrer">Misinformation On Social Media: What Can Be Done? | SXSW EDU 2022</a></p><p class="youtube-embed-meta">Channel: SXSW EDU</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cnwem7u1178" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cnwem7u1178">Open on YouTube</a></p></div></div></div>
-
 ## A notable example: weighting reactions and comments
 
-Internal documents disclosed during scrutiny of Facebook's ranking systems drew attention to how engagement signals can unintentionally favour inflammatory content. Reporting based on those documents described periods when certain emotional reactions received substantially greater weighting than a simple “like”. Internal concerns reportedly noted that posts generating anger often accumulated comments and reactions at unusually high rates, helping them gain prominence in feeds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">how facebook algorithm works</span><span class="citation-popover-snippet">The Washington PostHere&#x27;s how Facebook&#x27;s algorithm worksOct 26, 2021 — [Five points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s formula f...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">how facebook algorithm works</span><span class="citation-popover-snippet">The Washington PostHere&#x27;s how Facebook&#x27;s algorithm worksOct 26, 2021 — [Five points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s formula f...</span></span></span>
+Internal documents disclosed during scrutiny of Facebook's ranking systems drew attention to how engagement signals can unintentionally favour inflammatory content. Reporting based on those documents described periods when certain emotional reactions received substantially greater weighting than a simple like. Internal concerns reportedly noted that posts generating anger often accumulated comments and reactions at unusually high rates, helping them gain prominence in feeds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">how facebook algorithm works</span><span class="citation-popover-snippet">The Washington PostHere&#x27;s how Facebook&#x27;s algorithm worksOct 26, 2021  [Five points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s formula f...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">how facebook algorithm works</span><span class="citation-popover-snippet">The Washington PostHere&#x27;s how Facebook&#x27;s algorithm worksOct 26, 2021  [Five points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s formula f...</span></span></span>
 
 The broader lesson extends beyond any single platform. Whenever ranking systems place substantial weight on interaction volume, emotionally charged myths may gain an advantage because they attract participation from both believers and critics.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fE_QoebLUFQ" title="How Social Media Makes Us Angry All the Time | Molly Crockett | Big Think" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fE_QoebLUFQ" target="_blank" rel="noopener noreferrer">How Social Media Makes Us Angry All the Time | Molly Crockett | Big Think</a></p><p class="youtube-embed-meta">Channel: Big Think</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fE_QoebLUFQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fE_QoebLUFQ">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-3-dark.svg" | relative_url }}" alt="Outrage Boost illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Design choices that separate attention from endorsement
 
-The challenge for platforms is distinguishing “people are talking about this” from “people support this”.
+The challenge for platforms is distinguishing people are talking about this from people support this.
 
 Several design approaches attempt to reduce the confusion:
 
 * **Quality and credibility signals:** Ranking systems can include measures of source reliability rather than relying primarily on raw engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2018/01/19/facebook-to-rank-news-quality-1516395007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Facebook to rank news quality as part of fake news fight</span><span class="citation-popover-snippet">This initiative is part of a broader effort to foster meaningful interactions on the platform, moving away from passive content consumpti...</span></span></span>
 * **Downranking disputed content:** Platforms may reduce distribution after fact-checks or other trust-and-safety reviews, limiting the effect of engagement alone.
 * **Sentiment-aware analysis:** More sophisticated systems can attempt to distinguish approval from criticism, although this remains technically difficult at scale.
-* **Reducing the weight of inflammatory reactions:** Internal debates at major platforms have centred on whether certain reactions or engagement signals create unintended incentives for provocative content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">how facebook algorithm works</span><span class="citation-popover-snippet">The Washington PostHere&#x27;s how Facebook&#x27;s algorithm worksOct 26, 2021 — [Five points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s formula f...</span></span></span>
+* **Reducing the weight of inflammatory reactions:** Internal debates at major platforms have centred on whether certain reactions or engagement signals create unintended incentives for provocative content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">how facebook algorithm works</span><span class="citation-popover-snippet">The Washington PostHere&#x27;s how Facebook&#x27;s algorithm worksOct 26, 2021  [Five points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s formula f...</span></span></span>
 * **Community fact-checking layers:** [Community notes]({{ 'community-notes/' | relative_url }}) and similar systems can provide context, although research suggests they may also trigger more negative and outraged replies, highlighting the difficulty of separating corrective behaviour from engagement effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.18440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The central design question is whether a platform treats attention as a proxy for value. If comments, replies and reactions are interpreted mainly as evidence of relevance, then outrage can become a visibility engine for myths. If ranking systems better distinguish endorsement from dispute, the incentive for false claims to thrive on angry engagement becomes weaker.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-3-dark.svg" | relative_url }}" alt="Outrage Boost illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this mechanism matters for myths
 
 Many people assume that public criticism naturally suppresses false claims. In social media environments, the relationship is more complicated. A myth does not always benefit because people believe it. Sometimes it benefits because people cannot resist arguing with it.
 
-That distinction matters when evaluating how misinformation spreads. [Engagement metrics]({{ 'metric-gap/' | relative_url }}) measure activity, not truth. When ranking systems rely heavily on those metrics, hostile comments can unintentionally help transform a dubious claim from a small falsehood into a widely seen topic. The myth gains reach not because it won the argument, but because it succeeded in capturing attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano · Cited by 16 — This paper investigates the dynamic feedb...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1566253524000782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">The search resulted</span><span class="citation-popover-snippet">Emotion detection for misinformation: A reviewby Z Liu · 2024 · Cited by 110 — The specific query used was as follows: (emotion OR sentim...</span></span></span>
+That distinction matters when evaluating how misinformation spreads. Engagement metrics measure activity, not truth. When ranking systems rely heavily on those metrics, hostile comments can unintentionally help transform a dubious claim from a small falsehood into a widely seen topic. The myth gains reach not because it won the argument, but because it succeeded in capturing attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano  Cited by 16  This paper investigates the dynamic feedb...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1566253524000782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">The search resulted</span><span class="citation-popover-snippet">Emotion detection for misinformation: A reviewby Z Liu  2024  Cited by 110  The specific query used was as follows: (emotion OR sentim...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -431,7 +418,7 @@ That distinction matters when evaluating how misinformation spreads. [Engagement
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Invisible+Rulers+Ren%C3%A9e+DiResta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Invisible Rulers">Invisible Rulers</a>
         </h4>
-        <p class="fr-book-author">By RenÃ©e DiResta</p>
+        <p class="fr-book-author">By Renée DiResta</p>
         
         <p class="fr-book-desc">First published 2024.</p>
         <div class="fr-book-actions">
@@ -759,167 +746,167 @@ That distinction matters when evaluating how misinformation spreads. [Engagement
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154](https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation exploits users&#x27; impulses to share moral outrage [52]. A combination of anger and disgust, moral outrage is typically exper...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ifo.de  
-   Link: [https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation](https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano · Cited by 16 — This paper investigates the dynamic feedb...</p></details>
+   Link: <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano  Cited by 16  This paper investigates the dynamic feedb...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0047272726000253](https://www.sciencedirect.com/science/article/pii/S0047272726000253)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectRanking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 14 — Social media are at the cent...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0047272726000253</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...by F Germano  2026  Cited by 14  Social media are at the cent...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2509.18440](https://arxiv.org/abs/2509.18440)  
+   Link: <a href="https://arxiv.org/abs/2509.18440" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.18440</a>  
 
 5. <a id="endnote-5"></a>
    Source: news.tulane.edu  
    Title: rage clicks study shows how political outrage fuels social media engagement  
-   Link: [https://news.tulane.edu/pr/rage-clicks-study-shows-how-political-outrage-fuels-social-media-engagement](https://news.tulane.edu/pr/rage-clicks-study-shows-how-political-outrage-fuels-social-media-engagement)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tulane University NewsRage clicks: Study shows how political outrage fuels social...9 Oct 2024 — A new Tulane University study explains...</p></details>
+   Link: <a href="https://news.tulane.edu/pr/rage-clicks-study-shows-how-political-outrage-fuels-social-media-engagement" target="_blank" rel="noopener noreferrer nofollow">https://news.tulane.edu/pr/rage-clicks-study-shows-how-political-outrage-fuels-social-media-engagement</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tulane University NewsRage clicks: Study shows how political outrage fuels social...9 Oct 2024  A new Tulane University study explains...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: time.com  
-   Link: [https://time.com/6097704/facebook-instagram-wall-street-journal/](https://time.com/6097704/facebook-instagram-wall-street-journal/)  
+   Link: <a href="https://time.com/6097704/facebook-instagram-wall-street-journal/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6097704/facebook-instagram-wall-street-journal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Facebook Files&quot; exposes several critical issues: an internal program known as XCheck exempts high-profile users from moderation rule...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: axios.com  
    Title: Facebook to rank news quality as part of [fake news](&#123;&#123; 'fake-news/' | relative_url &#125;&#125;) fight  
-   Link: [https://www.axios.com/2018/01/19/facebook-to-rank-news-quality-1516395007](https://www.axios.com/2018/01/19/facebook-to-rank-news-quality-1516395007)  
+   Link: <a href="https://www.axios.com/2018/01/19/facebook-to-rank-news-quality-1516395007" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2018/01/19/facebook-to-rank-news-quality-1516395007</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative is part of a broader effort to foster meaningful interactions on the platform, moving away from passive content consumpti...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2409.08829](https://arxiv.org/abs/2409.08829)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivCommunity Fact-Checks Trigger Moral Outrage in Replies to Misleading Posts on Social MediaSeptember 13, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2409.08829" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.08829</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Fact-Checks Trigger Moral Outrage in Replies to Misleading Posts on Social MediaSeptember 13, 2024...</p></details>
    Published: September 13, 2024  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2204512110/posts/10160435540082111/](https://www.facebook.com/groups/2204512110/posts/10160435540082111/)  
+   Link: <a href="https://www.facebook.com/groups/2204512110/posts/10160435540082111/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2204512110/posts/10160435540082111/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>that divisive, anger-provoking content generates massive...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/](https://www.facebook.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook - log in or sign upCreate an account or log into Facebook. Connect with friends, family and other people you know. Share photos...</p></details>
+   Link: <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>log in or sign upCreate an account or log into Facebook. Connect with friends, family and other people you know. Share photos...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NorthwesternU/posts/a-mix-of-content-in-your-feed-means-less-toxicity-engagement-based-algorithms-am/1422786266543360/](https://www.facebook.com/NorthwesternU/posts/a-mix-of-content-in-your-feed-means-less-toxicity-engagement-based-algorithms-am/1422786266543360/)  
+   Link: <a href="https://www.facebook.com/NorthwesternU/posts/a-mix-of-content-in-your-feed-means-less-toxicity-engagement-based-algorithms-am/1422786266543360/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorthwesternU/posts/a-mix-of-content-in-your-feed-means-less-toxicity-engagement-based-algorithms-am/1422786266543360/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ify outrage and toxic political content...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Prof.Yuval.Noah.Harari/posts/social-media-algorithms-quickly-learned-how-to-drive-engagement-hate-fear-and-an/1486183576197817/](https://www.facebook.com/Prof.Yuval.Noah.Harari/posts/social-media-algorithms-quickly-learned-how-to-drive-engagement-hate-fear-and-an/1486183576197817/)  
+   Link: <a href="https://www.facebook.com/Prof.Yuval.Noah.Harari/posts/social-media-algorithms-quickly-learned-how-to-drive-engagement-hate-fear-and-an/1486183576197817/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Prof.Yuval.Noah.Harari/posts/social-media-algorithms-quickly-learned-how-to-drive-engagement-hate-fear-and-an/1486183576197817/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nger... misinformation, outrage, and fear. The platforms&#x27;...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: 's algorithms predicting real-life interactions Ok  
-   Link: [https://www.facebook.com/groups/1143251116647159/posts/1367315594240709/](https://www.facebook.com/groups/1143251116647159/posts/1367315594240709/)  
+   Link: <a href="https://www.facebook.com/groups/1143251116647159/posts/1367315594240709/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1143251116647159/posts/1367315594240709/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook&#x27;s algorithms are getting scary. Less than an hour after I responded to a post regarding unusual aspects of socially interacting...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/dullmensclub/posts/1359098968079974/](https://www.facebook.com/groups/dullmensclub/posts/1359098968079974/)  
+   Link: <a href="https://www.facebook.com/groups/dullmensclub/posts/1359098968079974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/dullmensclub/posts/1359098968079974/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uld not advise doing this long-term as that way lies madness.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
    Title: The search resulted  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1566253524000782](https://www.sciencedirect.com/science/article/pii/S1566253524000782)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Emotion](&amp;#123;&amp;#123; &#x27;emotion/&#x27; | relative_url &amp;#125;&amp;#125;) detection for misinformation: A reviewby Z Liu · 2024 · Cited by 110 — The specific query used was as follows: (emotion OR sentim...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1566253524000782" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1566253524000782</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Emotion](&amp;#123;&amp;#123; &#x27;emotion/&#x27; | relative_url &amp;#125;&amp;#125;) detection for misinformation: A reviewby Z Liu  2024  Cited by 110  The specific query used was as follows: (emotion OR sentim...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ifo.de  
    Title: cesifo1 wp10011  
-   Link: [https://www.ifo.de/DocDL/cesifo1_wp10011.pdf](https://www.ifo.de/DocDL/cesifo1_wp10011.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CESifo Working Paper No. 10011by F Germano · Cited by 16 — Social media are at the center of countless debates on polarization, misinform...</p></details>
+   Link: <a href="https://www.ifo.de/DocDL/cesifo1_wp10011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/DocDL/cesifo1_wp10011.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CESifo Working Paper No. 10011by F Germano  Cited by 16  Social media are at the center of countless debates on polarization, misinform...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.adl2829](https://www.science.org/doi/10.1126/science.adl2829)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceMisinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 113 — Because outrage is associated with increa...</p></details>
+   Link: <a href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adl2829</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread onlineby KL McLoughlin  2024  Cited by 113  Because outrage is associated with increa...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: knightcolumbia.org  
-   Link: [https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media](https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knight First Amendment InstituteEngagement, User Satisfaction, and the Amplification of...by S Milli · Cited by 3 — Our study reveals th...</p></details>
+   Link: <a href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knight First Amendment InstituteEngagement, User Satisfaction, and the Amplification of...by S Milli  Cited by 3  Our study reveals th...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: washingtonpost.com  
    Title: how facebook algorithm works  
-   Link: [https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/](https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostHere&#x27;s how Facebook&#x27;s algorithm worksOct 26, 2021 — [Five points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s formula f...</p></details>
+   Link: <a href="https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostHere&#x27;s how Facebook&#x27;s algorithm worksOct 26, 2021  [Five points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s formula f...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/](https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostFive points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s...26 Oct 2021 — Starting in 2017, Facebook&#x27;s ranking algorith...</p></details>
+   Link: <a href="https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostFive points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s...26 Oct 2021  Starting in 2017, Facebook&#x27;s ranking algorith...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Facebook](https://en.wikipedia.org/wiki/Facebook)  
+   Link: <a href="https://en.wikipedia.org/wiki/Facebook" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Facebook</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookFacebook is an American social networking service owned by the American technology conglomerate Meta Platforms. It was founded...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: niemanlab.org  
-   Link: [https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-anger-and-posts-that-triggered-it/](https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-anger-and-posts-that-triggered-it/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation, spam, or forms of clickbait.... Facebook&#x27;s reaction to this latest finding linking its algorithm and the prioritizing “a...</p></details>
+   Link: <a href="https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-anger-and-posts-that-triggered-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-anger-and-posts-that-triggered-it/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation, spam, or forms of clickbait.... Facebook&#x27;s reaction to this latest finding linking its algorithm and the prioritizing a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Milli · 2025 · Cited by 235 — 1138–1142. 17. Srba I, et al. 2023. Auditing YouTube&#x27;s recommendation algorithm for misinformation...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Milli  2025  Cited by 235  11381142. 17. Srba I, et al. 2023. Auditing YouTube&#x27;s recommendation algorithm for misinformation...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: library.hbs.edu  
    Title: hate spreads faster on twitter evidence from 44 news outlets  
-   Link: [https://www.library.hbs.edu/working-knowledge/hate-spreads-faster-on-twitter-evidence-from-44-news-outlets](https://www.library.hbs.edu/working-knowledge/hate-spreads-faster-on-twitter-evidence-from-44-news-outlets)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spreads Faster on Twitter: Evidence from 44 News...13 Jul 2021 — Social networks have used a similar notification strategy to stem misin...</p></details>
+   Link: <a href="https://www.library.hbs.edu/working-knowledge/hate-spreads-faster-on-twitter-evidence-from-44-news-outlets" target="_blank" rel="noopener noreferrer nofollow">https://www.library.hbs.edu/working-knowledge/hate-spreads-faster-on-twitter-evidence-from-44-news-outlets</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spreads Faster on Twitter: Evidence from 44 News...13 Jul 2021  Social networks have used a similar notification strategy to stem misin...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: wsj.com  
    Title: Facebook Tried to Make Its Platform a Healthier Place  
-   Link: [https://www.wsj.com/tech/facebook-algorithm-change-zuckerberg-11631654215](https://www.wsj.com/tech/facebook-algorithm-change-zuckerberg-11631654215)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 15, 2021 —... algorithm to reward outrage and lies. Mr. Zuckerberg resisted some... “MSI ranking isn&#x27;t actually rewarding content t...</p></details>
+   Link: <a href="https://www.wsj.com/tech/facebook-algorithm-change-zuckerberg-11631654215" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/tech/facebook-algorithm-change-zuckerberg-11631654215</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 15, 2021 ... algorithm to reward outrage and lies. Mr. Zuckerberg resisted some... MSI ranking isn&#x27;t actually rewarding content t...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: bse.eu  
    Title: Ranking for Engagement: How Social Media Algorithms  
-   Link: [https://bse.eu/research/working-papers/ranking-for-engagement-how-social-media-algorithms-fuel-misinformation-and-polarization](https://bse.eu/research/working-papers/ranking-for-engagement-how-social-media-algorithms-fuel-misinformation-and-polarization)  
+   Link: <a href="https://bse.eu/research/working-papers/ranking-for-engagement-how-social-media-algorithms-fuel-misinformation-and-polarization" target="_blank" rel="noopener noreferrer nofollow">https://bse.eu/research/working-papers/ranking-for-engagement-how-social-media-algorithms-fuel-misinformation-and-polarization</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media are at the center of countless debates on polarization, misinformation, and even the state of democracy in various parts of...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: emerald.com  
-   Link: [https://www.emerald.com/oir/article/46/3/422/318338/Prevalence-of-anger-engaged-in-sadness-engagement](https://www.emerald.com/oir/article/46/3/422/318338/Prevalence-of-anger-engaged-in-sadness-engagement)  
+   Link: <a href="https://www.emerald.com/oir/article/46/3/422/318338/Prevalence-of-anger-engaged-in-sadness-engagement" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/oir/article/46/3/422/318338/Prevalence-of-anger-engaged-in-sadness-engagement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e., emotional tweets) and different information types (i.e., misinformation...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40jcai9638/the-wrathful-algorithm-how-facebook-and-youtube-amplify-user-anger-for-traffic-and-profit-f1b6f9a0d49f](https://medium.com/%40jcai9638/the-wrathful-algorithm-how-facebook-and-youtube-amplify-user-anger-for-traffic-and-profit-f1b6f9a0d49f)  
+   Link: <a href="https://medium.com/%40jcai9638/the-wrathful-algorithm-how-facebook-and-youtube-amplify-user-anger-for-traffic-and-profit-f1b6f9a0d49f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jcai9638/the-wrathful-algorithm-how-facebook-and-youtube-amplify-user-anger-for-traffic-and-profit-f1b6f9a0d49f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This implies the algorithm favours posts that stir...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/science/comments/1ot7opj/a_study_finds_that_flagging_misinformation_on/](https://www.reddit.com/r/science/comments/1ot7opj/a_study_finds_that_flagging_misinformation_on/)  
+   Link: <a href="https://www.reddit.com/r/science/comments/1ot7opj/a_study_finds_that_flagging_misinformation_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1ot7opj/a_study_finds_that_flagging_misinformation_on/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>impossible to combat, which is itself disinformation...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2350416](https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2350416)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2350416" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2350416</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation. A particular case is Donald Trump, who, as a... Research has established that emotions such as anger and anxiety can inc...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: econstor.eu  
    Title: cesifo1 wp10011  
-   Link: [https://www.econstor.eu/bitstream/10419/338267/1/cesifo1_wp10011.pdf](https://www.econstor.eu/bitstream/10419/338267/1/cesifo1_wp10011.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 16 — Social media are at the center of countle...</p></details>
+   Link: <a href="https://www.econstor.eu/bitstream/10419/338267/1/cesifo1_wp10011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.econstor.eu/bitstream/10419/338267/1/cesifo1_wp10011.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...by F Germano  2026  Cited by 16  Social media are at the center of countle...</p></details>

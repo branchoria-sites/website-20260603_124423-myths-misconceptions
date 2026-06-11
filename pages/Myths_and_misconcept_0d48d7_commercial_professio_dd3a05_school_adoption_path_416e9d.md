@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4
 - Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_learning_styles_matc_b7f2ed
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - commercial-myths
 - adoption-paths
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - commercial-myths
 - adoption-paths
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Training days, consultancy networks and ready-made materials can help weak claims spread because they are easy to buy and use.
 hero_summary: Training days, consultancy networks and ready-made materials can help weak claims spread because they are easy to buy and use.
 layout: default
 permalink: /adoption-paths/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /commercial-myths/
 nav_short_title: Adoption paths
 title: How packaged myths enter school routines
-title_full: How packaged myths enter school routines | Commercial Myths
+title_full: How packaged myths enter school routines
 display_title_short: Adoption paths
 display_title: Adoption paths
 heading_title: How packaged myths enter school routines
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Myths Come in Professional Packaging | Mythcraft
+parent_title: When Myths Come in Professional Packaging
 parent_permalink: /commercial-myths/
 parent_nav_short_title: Commercial Myths
 parent_heading_title: When Myths Come in Professional Packaging
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When evidence based becomes a sales phrase
 up_link:
   basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
@@ -259,7 +259,7 @@ next_link:
   permalink: /brain-based/
   short_title: Brain based
   heading_title: Why brain words make myths sound smarter
-date: '2026-06-09 05:01:56 '
+date: '2026-06-11 22:20:15 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-1.webp
@@ -270,16 +270,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_sc
 
 Schools rarely adopt weak programmes because staff are careless or uninterested in evidence. More often, questionable ideas survive because they travel through practical adoption pathways that solve genuine organisational problems. School leaders need training, materials, implementation support and visible improvement strategies. A programme that arrives with ready-made lessons, staff-development sessions and external expertise can be far easier to adopt than a research summary that offers principles but few implementation details.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-1-dark.svg" | relative_url }}" alt="Adoption paths illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This creates an important distinction in the study of [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}). Some educational myths persist because people believe them. Others persist because institutions can easily purchase, implement and sustain them. Research on [neuromyths]({{ 'neuromyths/' | relative_url }}) and school implementation suggests that commercially packaged claims can remain influential even when the underlying evidence is weak, disputed or absent. The adoption process itself can become part of the programme's durability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span>
+This creates an important distinction in the study of myths and misconceptions. Some educational myths persist because people believe them. Others persist because institutions can easily purchase, implement and sustain them. Research on [neuromyths]({{ 'neuromyths/' | relative_url }}) and school implementation suggests that commercially packaged claims can remain influential even when the underlying evidence is weak, disputed or absent. The adoption process itself can become part of the programme's durability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span>
 
 ## Why ready-made programmes solve a real pressure
 
 Schools operate under significant time and resource constraints. Leaders are expected to improve outcomes, support staff development, respond to inspections and manage change while maintaining daily operations. In that environment, a complete package often appears less risky than designing an approach from scratch.
 
 A packaged programme typically includes:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -296,7 +294,7 @@ These features address real operational needs. The challenge is that convenience
 
 Implementation researchers have repeatedly noted that schools often seek interventions that can be adopted, embedded and sustained with manageable effort. The attractiveness of a programme can therefore depend as much on its implementation infrastructure as on the quality of its evidence base. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFPrioritise fewer things and do them well to make long-term,…24 Apr 2024 — The previous edition of the EEF&#x27;s guidance on implementation...</span></span></span>
 
-The learning-styles industry illustrates this pattern. Despite repeated reviews finding no convincing evidence that matching instruction to a learner's preferred style improves outcomes, learning-styles frameworks remained widely available through workshops, questionnaires, teacher training materials and classroom resources for many years. The practical package was often more visible than the research critique. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6889569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAdoption, implementation and sustainability of school-based...by S Cassar · 2019 · Cited by 291 — We encourage schools and change age...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Learning Styles Myth is Thriving in Higher Education</span><span class="citation-popover-snippet">PMCby PM Newton · 2015 · Cited by 476 — The existence of &#x27;Learning Styles&#x27; is a common &#x27;neuromyth&#x27;, and their use in all forms of educati...</span></span></span>
+The learning-styles industry illustrates this pattern. Despite repeated reviews finding no convincing evidence that matching instruction to a learner's preferred style improves outcomes, learning-styles frameworks remained widely available through workshops, questionnaires, teacher training materials and classroom resources for many years. The practical package was often more visible than the research critique. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6889569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Adoption, implementation and sustainability of school-based...by S Cassar · 2019 · Cited by 291 — We encourage schools and change age...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Learning Styles Myth is Thriving in Higher Education</span><span class="citation-popover-snippet">by PM Newton · 2015 · Cited by 476 — The existence of &#x27;Learning Styles&#x27; is a common &#x27;neuromyth&#x27;, and their use in all forms of educati...</span></span></span>
 
 ## How recommendations and training networks spread claims
 
@@ -308,15 +306,11 @@ This pathway has advantages. Professional networks allow educators to share usef
 
 Research on neuromyths shows that misconceptions linked to commercial educational programmes have been particularly persistent among educators. Notably, teachers often demonstrate reasonable general knowledge about learning and the brain while still accepting specific commercially promoted myths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modality-Specific Learning Style Hypothesis: A Mini-Reviewby K Aslaksen · 2018 · Cited by 98 — Several topical reviews have concluded tha...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U0M8weR06Gc" title="A School&#x27;s Guide to Implementation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U0M8weR06Gc" target="_blank" rel="noopener noreferrer">A School&#x27;s Guide to Implementation</a></p><p class="youtube-embed-meta">Channel: Education Endowment Foundation &middot; Views: 11.2K &middot; Uploaded: November 2024 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U0M8weR06Gc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U0M8weR06Gc">Open on YouTube</a></p></div></div></div>
-
 ### Consultancy and peer recommendation effects
 
 Schools rarely make decisions in isolation. Recommendations from trusted colleagues, local networks, academy trusts, consultants or school-improvement partners can strongly influence adoption decisions.
 
 This can create a self-reinforcing cycle:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -340,7 +334,6 @@ The problem is not the use of science itself. Many evidence-based approaches leg
 
 Studies of educational neuromyths suggest that misconceptions often gain credibility precisely because they appear connected to neuroscience. The learning-styles myth, left-brain/right-brain claims and similar ideas have frequently benefited from this scientific halo effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe persistence of matching teaching and learning stylesby SBRE Brown · 2023 · Cited by 39 — One such neuromyth claims that matc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe persistence of matching teaching and learning stylesby SBRE Brown · 2023 · Cited by 39 — One such neuromyth claims that matc...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-2-dark.svg" | relative_url }}" alt="Adoption paths illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How programmes become embedded after adoption
 
@@ -356,8 +349,7 @@ Implementation research consistently emphasises that change processes themselves
 
 Another challenge is that weak programmes often survive through adaptation. When expected results do not appear, schools may modify delivery, add extra components or redefine success measures. This flexibility can make failure difficult to recognise because the programme gradually changes while retaining its original branding.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ixg3g4-dmu0" title="Kenny Sherr explains implementation science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ixg3g4-dmu0" target="_blank" rel="noopener noreferrer">Kenny Sherr explains implementation science</a></p><p class="youtube-embed-meta">Channel: University of Washington School of Public Health</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ixg3g4-dmu0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ixg3g4-dmu0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U0M8weR06Gc" title="A School&#x27;s Guide to Implementation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U0M8weR06Gc" target="_blank" rel="noopener noreferrer">A School&#x27;s Guide to Implementation</a></p><p class="youtube-embed-meta">Channel: Education Endowment Foundation &middot; Views: 11.2K &middot; Uploaded: November 2024 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U0M8weR06Gc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U0M8weR06Gc">Open on YouTube</a></p></div></div></div>
 
 ## What implementation checks can slow weak adoption
 
@@ -373,7 +365,6 @@ Schools can ask two distinct questions:
 * Is the implementation support useful?
 
 A programme may offer excellent resources while making exaggerated claims about why it works. Evaluating these separately helps avoid treating polished materials as proof.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-3-dark.svg" | relative_url }}" alt="Adoption paths illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Look for independent evaluation
@@ -391,9 +382,6 @@ Implementation guidance increasingly recommends disciplined exploration and test
 Before adoption, leaders can identify measurable indicators that would justify discontinuing the programme.
 
 Without predefined criteria, initiatives can continue indefinitely because stopping them becomes politically or professionally uncomfortable.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r0bZg7p98Jc" title="What is Implementation Science?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r0bZg7p98Jc" target="_blank" rel="noopener noreferrer">What is Implementation Science?</a></p><p class="youtube-embed-meta">Channel: Yale School of Public Health</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r0bZg7p98Jc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r0bZg7p98Jc">Open on YouTube</a></p></div></div></div>
 
 ### Prioritise fewer initiatives
 
@@ -801,108 +789,108 @@ Understanding adoption pathways shifts attention from individual belief to insti
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6889569/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6889569/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAdoption, implementation and sustainability of school-based...by S Cassar · 2019 · Cited by 291 — We encourage schools and change age...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6889569/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6889569/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adoption, implementation and sustainability of school-based...by S Cassar · 2019 · Cited by 291 — We encourage schools and change age...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Learning Styles Myth is Thriving in Higher Education  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby PM Newton · 2015 · Cited by 476 — The existence of &#x27;Learning Styles&#x27; is a common &#x27;neuromyth&#x27;, and their use in all forms of educati...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by PM Newton · 2015 · Cited by 476 — The existence of &#x27;Learning Styles&#x27; is a common &#x27;neuromyth&#x27;, and their use in all forms of educati...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Modality-Specific Learning Style Hypothesis: A Mini-Reviewby K Aslaksen · 2018 · Cited by 98 — Several topical reviews have concluded tha...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice](https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EEFPrioritise fewer things and do them well to make long-term,…24 Apr 2024 — The previous edition of the EEF&#x27;s guidance on implementation...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full)  
+   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe persistence of matching teaching and learning stylesby SBRE Brown · 2023 · Cited by 39 — One such neuromyth claims that matc...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EEFA School&#x27;s Guide to Implementation24 Apr 2024 — Our guidance on effective implementation - and its accompanying resources – help educa...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/02667363.2024.2414455](https://www.tandfonline.com/doi/full/10.1080/02667363.2024.2414455)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02667363.2024.2414455" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02667363.2024.2414455</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We sometimes feel like there&#x27;s...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 273 — After two decades of publications o...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — These findings suggest that training...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dera.ioe.ac.uk  
-   Link: [https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf](https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf)  
+   Link: <a href="https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Education Resource ArchiveEEF-Implementation-Guidance-Report.pdfThe guide can be used to help implement any school improvement de...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-evaluation-reports-and-research-papers](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-evaluation-reports-and-research-papers)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-evaluation-reports-and-research-papers" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-evaluation-reports-and-research-papers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EEF evaluation reports and research papersTo support the conduct of rigorous, high-quality evaluations, we have published a collection of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/process-and-people/pipeline-of-eef-trials](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/process-and-people/pipeline-of-eef-trials)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/process-and-people/pipeline-of-eef-trials" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/process-and-people/pipeline-of-eef-trials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EEF&#x27;s programme pipeline of evidence generationThe EEF&#x27;s programme grant funding generates new evidence to enhance our understanding of w...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/education-endowment-foundation_new-edition-eef-guidance-report-a-school-activity-7188823072638935040-13kr](https://www.linkedin.com/posts/education-endowment-foundation_new-edition-eef-guidance-report-a-school-activity-7188823072638935040-13kr)  
+   Link: <a href="https://www.linkedin.com/posts/education-endowment-foundation_new-edition-eef-guidance-report-a-school-activity-7188823072638935040-13kr" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/education-endowment-foundation_new-edition-eef-guidance-report-a-school-activity-7188823072638935040-13kr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Education Endowment Foundation (EEF)&#x27;s PostNEW EDITION EEF guidance report – “A School&#x27;s Guide to Implementation&quot; Based on a new and exte...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: innerdrive.co.uk  
-   Link: [https://www.innerdrive.co.uk/blog/combat-neuromyths/](https://www.innerdrive.co.uk/blog/combat-neuromyths/)  
+   Link: <a href="https://www.innerdrive.co.uk/blog/combat-neuromyths/" target="_blank" rel="noopener noreferrer nofollow">https://www.innerdrive.co.uk/blog/combat-neuromyths/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuromyths and how to combat them: An educator&#x27;s guideNeuromyths are misconceptions about how the brain functions and learns. These myths...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/projects-and-evaluation/capability-building-and-scaling-support-for-delivery-teams/scaling-guidance-and-resources](https://educationendowmentfoundation.org.uk/projects-and-evaluation/capability-building-and-scaling-support-for-delivery-teams/scaling-guidance-and-resources)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/capability-building-and-scaling-support-for-delivery-teams/scaling-guidance-and-resources" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/projects-and-evaluation/capability-building-and-scaling-support-for-delivery-teams/scaling-guidance-and-resources</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling guidance and resourcesWe work with capability building support providers and delivery teams at scale to produce guidance and tool...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: discovery.ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/10068468/](https://discovery.ucl.ac.uk/10068468/)  
+   Link: <a href="https://discovery.ucl.ac.uk/10068468/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10068468/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryPutting Evidence to Work: A School&#x27;s Guide to ImplementationThe guide can be used to help implement any school improvement d...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/](https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/)  
+   Link: <a href="https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeTeachers&#x27; understanding of neuromyths: A role for...20 Sept 2022 — The current study aimed to understand the degree to...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: dremilywhitehorse.com  
-   Link: [https://www.dremilywhitehorse.com/blog/did-you-know-that-learning-styles-are-considered-a-neuromyth](https://www.dremilywhitehorse.com/blog/did-you-know-that-learning-styles-are-considered-a-neuromyth)  
+   Link: <a href="https://www.dremilywhitehorse.com/blog/did-you-know-that-learning-styles-are-considered-a-neuromyth" target="_blank" rel="noopener noreferrer nofollow">https://www.dremilywhitehorse.com/blog/did-you-know-that-learning-styles-are-considered-a-neuromyth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A neuromyth is a misconception, misunderstanding, or misuse of information about the brain, which leads to false conclusions.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/news/new-report-finds-pilot-to-support-evidence-informed-school-improvement-shows-promise](https://educationendowmentfoundation.org.uk/news/new-report-finds-pilot-to-support-evidence-informed-school-improvement-shows-promise)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/new-report-finds-pilot-to-support-evidence-informed-school-improvement-shows-promise" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/new-report-finds-pilot-to-support-evidence-informed-school-improvement-shows-promise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New report finds pilot to support evidence-informed school…7 Dec 2023 — The Education Endowment Foundation (EEF) has published the indepe...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/332566211_School_Adoption_by_School-University_Partnerships_-_an_example_from_Germany](https://www.researchgate.net/publication/332566211_School_Adoption_by_School-University_Partnerships_-_an_example_from_Germany)  
+   Link: <a href="https://www.researchgate.net/publication/332566211_School_Adoption_by_School-University_Partnerships_-_an_example_from_Germany" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332566211_School_Adoption_by_School-University_Partnerships_-_an_example_from_Germany</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) School Adoption by School-University Partnerships22 Apr 2019 — The partnership model &#x27;School Adoption&#x27; was developed in Norway as a...</p></details>

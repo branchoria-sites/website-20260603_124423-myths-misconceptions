@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - uncertainty
 - anxiety-effects
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - uncertainty
 - anxiety-effects
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Anxiety increases the appeal of explanations that replace ambiguity with a clear story and outcome.
 hero_summary: Anxiety increases the appeal of explanations that replace ambiguity with a clear story and outcome.
 layout: default
 permalink: /anxiety-effects/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /uncertainty/
 nav_short_title: Anxiety Effects
 title: Why Do Anxious People Prefer Simple Explanations?
-title_full: Why Do Anxious People Prefer Simple Explanations? | Uncertainty
+title_full: Why Do Anxious People Prefer Simple Explanations?
 display_title_short: Anxiety Effects
 display_title: Anxiety Effects
 heading_title: Why Do Anxious People Prefer Simple Explanations?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Uncertainty Makes Myths Appealing | Mythcraft
+parent_title: Why Uncertainty Makes Myths Appealing
 parent_permalink: /uncertainty/
 parent_nav_short_title: Uncertainty
 parent_heading_title: Why Uncertainty Makes Myths Appealing
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How the Need for Closure Fuels Conspiracy Beliefs
 up_link:
   basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
@@ -259,7 +259,7 @@ next_link:
   permalink: /blame-seeking/
   short_title: Blame Seeking
   heading_title: Why Uncertainty Creates a Search for Someone to Blame
-date: '2026-06-09 04:59:17 '
+date: '2026-06-11 22:19:01 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_an
 
 Anxiety does more than make people feel uneasy. It changes how they deal with uncertainty. When the future seems unclear, the mind often looks for explanations that reduce doubt quickly. This is one reason simple myths can become especially convincing during anxious periods. Rather than leaving questions unanswered, myths offer a clear story, an identifiable cause, and a sense that events are understandable and predictable.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-1-dark.svg" | relative_url }}" alt="Anxiety Effects illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research in psychology suggests that anxiety is closely linked to intolerance of uncertainty—the tendency to find ambiguous situations especially uncomfortable. When uncertainty feels threatening, explanations that simplify complexity can provide emotional relief, even if those explanations are inaccurate or unsupported by evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytools.com/articles/intolerance-of-uncertainty-help-your-clients-to-embrace-the-unknown-using-behavioral-experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytools.com">[Psychology Tools]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytools.com</span><span class="citation-popover-snippet">Psychology ToolsIntolerance Of Uncertainty: Help Your Clients To Embrace...15 Jun 2020 — Intolerance of uncertainty is an important tran...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10475148/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAnxiety as a disorder of uncertainty</span><span class="citation-popover-snippet">PMC - NIHby VM Brown · 2023 · Cited by 51 — Studies of risk, ambiguity, and loss aversion in anxiety point to increased risk and ambiguit...</span></span></span>
+Research in psychology suggests that anxiety is closely linked to intolerance of uncertainty—the tendency to find ambiguous situations especially uncomfortable. When uncertainty feels threatening, explanations that simplify complexity can provide emotional relief, even if those explanations are inaccurate or unsupported by evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytools.com/articles/intolerance-of-uncertainty-help-your-clients-to-embrace-the-unknown-using-behavioral-experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytools.com">[Psychology Tools]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytools.com</span><span class="citation-popover-snippet">Psychology ToolsIntolerance Of Uncertainty: Help Your Clients To Embrace...15 Jun 2020 — Intolerance of uncertainty is an important tran...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10475148/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAnxiety as a disorder of uncertainty</span><span class="citation-popover-snippet">NIHby VM Brown · 2023 · Cited by 51 — Studies of risk, ambiguity, and loss aversion in anxiety point to increased risk and ambiguit...</span></span></span>
 
 ## Why Do Anxious People Prefer Simple Explanations?
 
@@ -283,7 +282,6 @@ When people are anxious, unanswered questions can feel emotionally exhausting. A
 Studies of anxiety consistently find links between anxiety and ambiguity aversion—the tendency to avoid situations where outcomes or information remain unclear. People with higher anxiety levels often perceive ambiguous situations as more threatening and more difficult to tolerate. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://cpsyjournal.org/articles/10.5334/cpsy.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsyjournal.org">[Computational Psychiatry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsyjournal.org</span><span class="citation-popover-snippet">Computational PsychiatryThe Computational and Neural Substrates of Ambiguity...by EL Lawrance · 2022 · Cited by 12 — We used computation...</span></span></span>
 
 A simple myth addresses this discomfort by replacing uncertainty with certainty:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -300,12 +298,11 @@ The emotional reward is immediate. The myth may not increase factual understandi
 
 One of the strongest findings in anxiety research is that anxious individuals tend to react negatively to ambiguity itself.
 
-Researchers studying intolerance of uncertainty have found that people high in this trait are more likely to interpret ambiguous situations as threatening and experience stronger negative emotions when information is incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26763496/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedIntolerance of Uncertainty Is Associated With Increased...by JTH Chen · 2016 · Cited by 78 — Intolerance of Uncertainty Is Associa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/article/review-of-the-relationship-between-intolerance-of-uncertainty-and-threat-appraisal-in-anxiety/5D881C65A0A26CDEB3DDFDF2A8D3A458" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">more...</span></span></span>
+Researchers studying intolerance of uncertainty have found that people high in this trait are more likely to interpret ambiguous situations as threatening and experience stronger negative emotions when information is incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26763496/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intolerance of Uncertainty Is Associated With Increased...by JTH Chen · 2016 · Cited by 78 — Intolerance of Uncertainty Is Associa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/article/review-of-the-relationship-between-intolerance-of-uncertainty-and-threat-appraisal-in-anxiety/5D881C65A0A26CDEB3DDFDF2A8D3A458" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">more...</span></span></span>
 
 This matters because myths often succeed by eliminating ambiguity rather than by providing strong evidence.
 
 Consider two explanations for an unexpected event:
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_7otmig_7Co" title="Why People Believe Misinformation: The Psychology of Fear | Beyond the Books" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_7otmig_7Co" target="_blank" rel="noopener noreferrer">Why People Believe Misinformation: The Psychology of Fear | Beyond the Books</a></p><p class="youtube-embed-meta">Channel: The Open University &middot; Views: 494 &middot; Uploaded: March 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_7otmig_7Co" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_7otmig_7Co">Open on YouTube</a></p></div></div></div>
 
@@ -332,13 +329,12 @@ A myth typically provides three forms of psychological relief:
 
 This reduction in uncertainty can feel rewarding. Psychological theories of anxiety increasingly describe anxiety as a response to the unknown itself, not merely to specific dangers. From this perspective, any explanation that appears to make the unknown more manageable may become appealing. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1485346/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">effects on ambiguity intolerance (Eysenck et al., 1991; Richards et al., 2002). Yet another study showed that people become more ambiguit...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-2-dark.svg" | relative_url }}" alt="Anxiety Effects illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Search for Cognitive Closure
 
 Another important mechanism is the need for cognitive closure.
 
-Cognitive closure refers to the desire for a firm answer rather than ongoing uncertainty. People differ in how strongly they seek closure, but anxiety often increases that desire. When uncertainty becomes emotionally uncomfortable, individuals may feel pressure to reach a conclusion quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9223033/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Computational and Neural Substrates of Ambiguity</span><span class="citation-popover-snippet">PMCby EL Lawrance · 2022 · Cited by 12 — Abstract. Theoretical accounts have linked anxiety to intolerance of ambiguity. However, this re...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCBeliefs in conspiracy theories and the need for cognitive closureby PJ Leman · 2013 · Cited by 303 — Two studies examined the relation...</span></span></span>
+Cognitive closure refers to the desire for a firm answer rather than ongoing uncertainty. People differ in how strongly they seek closure, but anxiety often increases that desire. When uncertainty becomes emotionally uncomfortable, individuals may feel pressure to reach a conclusion quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9223033/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Computational and Neural Substrates of Ambiguity</span><span class="citation-popover-snippet">by EL Lawrance · 2022 · Cited by 12 — Abstract. Theoretical accounts have linked anxiety to intolerance of ambiguity. However, this re...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Beliefs in conspiracy theories and the need for cognitive closureby PJ Leman · 2013 · Cited by 303 — Two studies examined the relation...</span></span></span>
 
 Researchers studying conspiracy beliefs and similar forms of myth acceptance have repeatedly linked stronger needs for closure with greater attraction to definitive explanations. The appeal is not necessarily the content of the explanation; it is the fact that the explanation appears to settle the issue. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Marchlewska et al. Addicted to Answers FINAL</span><span class="citation-popover-snippet">Galinsky, 2008), uncertainty (van...Read more...</span></span></span>
 
@@ -351,21 +347,16 @@ Under conditions of anxiety, comfort may temporarily take priority.
 
 As a result, a simple myth can feel more satisfying than a complex but evidence-based explanation because it provides closure more quickly.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/czUMwUVhRpM" title="The Psychology of Cognitive Closure: Why Uncertainty Drives Anxiety" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=czUMwUVhRpM" target="_blank" rel="noopener noreferrer">The Psychology of Cognitive Closure: Why Uncertainty Drives Anxiety</a></p><p class="youtube-embed-meta">Channel: EverBloom Mind &middot; Views: 309 &middot; Uploaded: October 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=czUMwUVhRpM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=czUMwUVhRpM">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-3-dark.svg" | relative_url }}" alt="Anxiety Effects illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Uncertainty Research Shows
 
-Research across anxiety, decision-making, and belief formation points toward a consistent pattern: people who struggle more with uncertainty are more motivated to eliminate it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0005789425000887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectState of the Science: Intolerance of Uncertaintyby MJ Dugas · 2025 · Cited by 15 — The construct of Intolerance of Uncertain...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0005789425000887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectState of the Science: Intolerance of Uncertaintyby MJ Dugas · 2025 · Cited by 15 — The construct of Intolerance of Uncertain...</span></span></span>
+Research across anxiety, decision-making, and belief formation points toward a consistent pattern: people who struggle more with uncertainty are more motivated to eliminate it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0005789425000887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">State of the Science: Intolerance of Uncertaintyby MJ Dugas · 2025 · Cited by 15 — The construct of Intolerance of Uncertain...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0005789425000887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">State of the Science: Intolerance of Uncertaintyby MJ Dugas · 2025 · Cited by 15 — The construct of Intolerance of Uncertain...</span></span></span>
 
-Studies have found that intolerance of uncertainty is associated with stronger threat appraisals, increased negative emotional reactions under ambiguity, and decision-making styles that avoid uncertain situations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26763496/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedIntolerance of Uncertainty Is Associated With Increased...by JTH Chen · 2016 · Cited by 78 — Intolerance of Uncertainty Is Associa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/00332941251415319" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDecision-Making Styles and Intolerance of Uncertainty23 Jan 2026 — The findings showed that individuals with higher intolera...</span></span></span>
+Studies have found that intolerance of uncertainty is associated with stronger threat appraisals, increased negative emotional reactions under ambiguity, and decision-making styles that avoid uncertain situations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26763496/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intolerance of Uncertainty Is Associated With Increased...by JTH Chen · 2016 · Cited by 78 — Intolerance of Uncertainty Is Associa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/00332941251415319" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDecision-Making Styles and Intolerance of Uncertainty23 Jan 2026 — The findings showed that individuals with higher intolera...</span></span></span>
 
 Research on conspiracy beliefs provides a closely related example. Investigators have shown that the desire for certainty and closure can make broad explanatory narratives more attractive, particularly when official explanations seem incomplete or leave important questions unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Marchlewska et al. Addicted to Answers FINAL</span><span class="citation-popover-snippet">Galinsky, 2008), uncertainty (van...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308?ref=andybusam.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryAddicted to answers: Need for cognitive closure and the...by M Marchlewska · 2018 · Cited by 414 — We hypothesized t...</span></span></span>
 
 The implication is not that anxiety automatically causes belief in myths. Most anxious people do not adopt false beliefs. Rather, anxiety creates conditions in which explanations that promise certainty gain an emotional advantage. If a myth appears to remove confusion, it may feel more convincing than it otherwise would.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OmyPssH549c" title="The Appeal of Conspiracy Theories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OmyPssH549c" target="_blank" rel="noopener noreferrer">The Appeal of Conspiracy Theories</a></p><p class="youtube-embed-meta">Channel: Lifehacker</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OmyPssH549c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OmyPssH549c">Open on YouTube</a></p></div></div></div>
 
 ## Why the Feeling of Certainty Can Be Misleading
 
@@ -373,17 +364,17 @@ A common misunderstanding is that [confidence]({{ 'confidence/' | relative_url }
 
 Simple myths often produce a strong feeling of understanding because they eliminate ambiguity. However, the emotional relief that follows can be mistaken for evidence that the explanation is correct.
 
-This is one reason myths can persist even when contradictory information exists. Once a belief reduces anxiety and restores a sense of order, abandoning it may require returning to uncertainty—a state many people find uncomfortable. Researchers studying cognitive closure note that individuals seeking certainty often prefer maintaining a settled answer over reopening unresolved questions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe Mediating Effect of Beliefs in Conspiracy Theories about...by S Staszak · 2022 · Cited by 12 — The need for closure [19] is relat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9942526/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govComputationally-defined markers of uncertainty aversion...by T Wise · 2022 · Cited by 8 — In line with this hypothesis, intoleran...</span></span></span>
+This is one reason myths can persist even when contradictory information exists. Once a belief reduces anxiety and restores a sense of order, abandoning it may require returning to uncertainty—a state many people find uncomfortable. Researchers studying cognitive closure note that individuals seeking certainty often prefer maintaining a settled answer over reopening unresolved questions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Mediating Effect of Beliefs in Conspiracy Theories about...by S Staszak · 2022 · Cited by 12 — The need for closure [19] is relat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9942526/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govComputationally-defined markers of uncertainty aversion...by T Wise · 2022 · Cited by 8 — In line with this hypothesis, intoleran...</span></span></span>
 
 The result is a powerful psychological dynamic: anxiety increases discomfort with uncertainty, myths reduce that discomfort, and the resulting sense of certainty can make those myths feel more believable than they actually are.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/czUMwUVhRpM" title="The Psychology of Cognitive Closure: Why Uncertainty Drives Anxiety" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=czUMwUVhRpM" target="_blank" rel="noopener noreferrer">The Psychology of Cognitive Closure: Why Uncertainty Drives Anxiety</a></p><p class="youtube-embed-meta">Channel: EverBloom Mind &middot; Views: 309 &middot; Uploaded: October 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=czUMwUVhRpM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=czUMwUVhRpM">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-3-dark.svg" | relative_url }}" alt="Anxiety Effects illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Core Mechanism
 
 The relationship between anxiety and myth acceptance is fundamentally about uncertainty management.
 
-Anxiety heightens sensitivity to ambiguity and increases the desire for clear answers. Simple myths satisfy that desire by transforming uncertainty into a coherent story with an identifiable cause and predictable outcome. The attraction comes less from the factual strength of the explanation and more from its ability to relieve psychological discomfort. When uncertainty feels threatening, certainty itself can become persuasive. PMC 3PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26763496/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedIntolerance of Uncertainty Is Associated With Increased...by JTH Chen · 2016 · Cited by 78 — Intolerance of Uncertainty Is Associa...</span></span></span>
+Anxiety heightens sensitivity to ambiguity and increases the desire for clear answers. Simple myths satisfy that desire by transforming uncertainty into a coherent story with an identifiable cause and predictable outcome. The attraction comes less from the factual strength of the explanation and more from its ability to relieve psychological discomfort. When uncertainty feels threatening, certainty itself can become persuasive. PMC 3PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26763496/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intolerance of Uncertainty Is Associated With Increased...by JTH Chen · 2016 · Cited by 78 — Intolerance of Uncertainty Is Associa...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -782,172 +773,172 @@ Anxiety heightens sensitivity to ambiguity and increases the desire for clear an
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAnxiety as a disorder of uncertainty  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10475148/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10475148/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby VM Brown · 2023 · Cited by 51 — Studies of risk, ambiguity, and loss aversion in anxiety point to increased risk and ambiguit...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10475148/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10475148/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby VM Brown · 2023 · Cited by 51 — Studies of risk, ambiguity, and loss aversion in anxiety point to increased risk and ambiguit...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Computational and Neural Substrates of Ambiguity  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9223033/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9223033/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby EL Lawrance · 2022 · Cited by 12 — Abstract. Theoretical accounts have linked anxiety to intolerance of ambiguity. However, this re...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9223033/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9223033/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by EL Lawrance · 2022 · Cited by 12 — Abstract. Theoretical accounts have linked anxiety to intolerance of ambiguity. However, this re...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/article/review-of-the-relationship-between-intolerance-of-uncertainty-and-threat-appraisal-in-anxiety/5D881C65A0A26CDEB3DDFDF2A8D3A458](https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/article/review-of-the-relationship-between-intolerance-of-uncertainty-and-threat-appraisal-in-anxiety/5D881C65A0A26CDEB3DDFDF2A8D3A458)  
+   Link: <a href="https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/article/review-of-the-relationship-between-intolerance-of-uncertainty-and-threat-appraisal-in-anxiety/5D881C65A0A26CDEB3DDFDF2A8D3A458" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/article/review-of-the-relationship-between-intolerance-of-uncertainty-and-threat-appraisal-in-anxiety/5D881C65A0A26CDEB3DDFDF2A8D3A458</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0005789425000887](https://www.sciencedirect.com/science/article/abs/pii/S0005789425000887)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectState of the Science: Intolerance of Uncertaintyby MJ Dugas · 2025 · Cited by 15 — The construct of Intolerance of Uncertain...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0005789425000887" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0005789425000887</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>State of the Science: Intolerance of Uncertaintyby MJ Dugas · 2025 · Cited by 15 — The construct of Intolerance of Uncertain...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCBeliefs in conspiracy theories and the need for cognitive closureby PJ Leman · 2013 · Cited by 303 — Two studies examined the relation...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beliefs in conspiracy theories and the need for cognitive closureby PJ Leman · 2013 · Cited by 303 — Two studies examined the relation...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Mediating Effect of Beliefs in Conspiracy Theories about...by S Staszak · 2022 · Cited by 12 — The [need for closure](&amp;#123;&amp;#123; &#x27;need-closure/&#x27; | relative_url &amp;#125;&amp;#125;) [19] is relat...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mediating Effect of Beliefs in Conspiracy Theories about...by S Staszak · 2022 · Cited by 12 — The need for closure [19] is relat...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308?ref=andybusam.com](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308?ref=andybusam.com)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308?ref=andybusam.com" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308?ref=andybusam.com</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryAddicted to answers: Need for cognitive closure and the...by M Marchlewska · 2018 · Cited by 414 — We hypothesized t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0092656624000382](https://www.sciencedirect.com/science/article/pii/S0092656624000382)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0092656624000382" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0092656624000382</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intolerance of uncertainty predicts indecisiveness and...by H Appel · 2024 · Cited by 22 — In decision making, intolerance of uncertaint...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9942526/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9942526/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9942526/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9942526/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govComputationally-defined markers of uncertainty aversion...by T Wise · 2022 · Cited by 8 — In line with this hypothesis, intoleran...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730](https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730)  
+   Link: <a href="https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uncertainty and the need for cognitive closure scales. Conspiracy beliefs were measured with the Belief in Conspiracy Theories Inventory...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0301051123001187](https://www.sciencedirect.com/science/article/abs/pii/S0301051123001187)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0301051123001187" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0301051123001187</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intolerance of uncertainty enhances generalisation of cued...by X Zhou · 2023 · Cited by 9 — Overgeneralisation is one of the aetiologie...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: [https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjc.12534](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjc.12534)  
+   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjc.12534" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjc.12534</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of uncertainty causally affects indecisiveness - Appel11 Mar 2025 — Intolerance of uncertainty predicts indecisiveness and safety behavio...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: psychologytools.com  
-   Link: [https://www.psychologytools.com/articles/intolerance-of-uncertainty-help-your-clients-to-embrace-the-unknown-using-behavioral-experiments](https://www.psychologytools.com/articles/intolerance-of-uncertainty-help-your-clients-to-embrace-the-unknown-using-behavioral-experiments)  
+   Link: <a href="https://www.psychologytools.com/articles/intolerance-of-uncertainty-help-your-clients-to-embrace-the-unknown-using-behavioral-experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytools.com/articles/intolerance-of-uncertainty-help-your-clients-to-embrace-the-unknown-using-behavioral-experiments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology ToolsIntolerance Of Uncertainty: Help Your Clients To Embrace...15 Jun 2020 — Intolerance of uncertainty is an important tran...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26763496/](https://pubmed.ncbi.nlm.nih.gov/26763496/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedIntolerance of Uncertainty Is Associated With Increased...by JTH Chen · 2016 · Cited by 78 — Intolerance of Uncertainty Is Associa...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26763496/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26763496/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intolerance of Uncertainty Is Associated With Increased...by JTH Chen · 2016 · Cited by 78 — Intolerance of Uncertainty Is Associa...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cpsyjournal.org  
-   Link: [https://cpsyjournal.org/articles/10.5334/cpsy.67](https://cpsyjournal.org/articles/10.5334/cpsy.67)  
+   Link: <a href="https://cpsyjournal.org/articles/10.5334/cpsy.67" target="_blank" rel="noopener noreferrer nofollow">https://cpsyjournal.org/articles/10.5334/cpsy.67</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Computational PsychiatryThe Computational and Neural Substrates of Ambiguity...by EL Lawrance · 2022 · Cited by 12 — We used computation...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/biases/ambiguity-effect](https://thedecisionlab.com/biases/ambiguity-effect)  
+   Link: <a href="https://thedecisionlab.com/biases/ambiguity-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/ambiguity-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabAmbiguity EffectThe ambiguity effect is a cognitive bias that describes how we tend to avoid options that we consider to...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1485346/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1485346/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1485346/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1485346/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>effects on ambiguity intolerance (Eysenck et al., 1991; Richards et al., 2002). Yet another study showed that people become more ambiguit...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2011.00055/full](https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2011.00055/full)  
+   Link: <a href="https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2011.00055/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2011.00055/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unpredictability and Uncertainty in Anxiety: A New...by JI Lake · 2011 · Cited by 69 — Human and non-human animal studies suggest that b...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: kar.kent.ac.uk  
    Title: Marchlewska et al. Addicted to Answers FINAL  
-   Link: [https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf](https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf)  
+   Link: <a href="https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Galinsky, 2008), uncertainty (van...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/00332941251415319](https://journals.sagepub.com/doi/10.1177/00332941251415319)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/00332941251415319" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00332941251415319</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDecision-Making Styles and Intolerance of Uncertainty23 Jan 2026 — The findings showed that individuals with higher intolera...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01550/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01550/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01550/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01550/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are ambiguity aversion and ambiguity intolerance identical...by Y Tanaka · 2015 · Cited by 33 — Our results suggest that ambiguity avers...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: gonudgeyourself.com  
-   Link: [https://www.gonudgeyourself.com/post/ambiguity-aversion](https://www.gonudgeyourself.com/post/ambiguity-aversion)  
+   Link: <a href="https://www.gonudgeyourself.com/post/ambiguity-aversion" target="_blank" rel="noopener noreferrer nofollow">https://www.gonudgeyourself.com/post/ambiguity-aversion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity Aversion - Definitions, Causes, Risks, Advantages...31 Mar 2020 — Ambiguity aversion is defined as our preference for known ri...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2015/01/crazy-beliefs-sane-believers-toward-a-cognitive-psychology-of-conspiracy-id/](https://skepticalinquirer.org/2015/01/crazy-beliefs-sane-believers-toward-a-cognitive-psychology-of-conspiracy-id/)  
+   Link: <a href="https://skepticalinquirer.org/2015/01/crazy-beliefs-sane-believers-toward-a-cognitive-psychology-of-conspiracy-id/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/01/crazy-beliefs-sane-believers-toward-a-cognitive-psychology-of-conspiracy-id/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontiers in Psychology 4:378. Mason, Oliver, Gordon Claridge, and Mike Jackson. 1995...Read more...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: clinicaltrials.gov  
-   Link: [https://clinicaltrials.gov/study/NCT06962527](https://clinicaltrials.gov/study/NCT06962527)  
+   Link: <a href="https://clinicaltrials.gov/study/NCT06962527" target="_blank" rel="noopener noreferrer nofollow">https://clinicaltrials.gov/study/NCT06962527</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Test of Target Engagement of Ambiguity AversionThe present work aims to test whether a single session intervention alters ambiguity avers...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/244482781_Beliefs_in_conspiracy_theories_and_need_for_cognitive_closure](https://www.researchgate.net/publication/244482781_Beliefs_in_conspiracy_theories_and_need_for_cognitive_closure)  
+   Link: <a href="https://www.researchgate.net/publication/244482781_Beliefs_in_conspiracy_theories_and_need_for_cognitive_closure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/244482781_Beliefs_in_conspiracy_theories_and_need_for_cognitive_closure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beliefs in conspiracy theories and need for cognitive closureTwo studies examined the relationship between the need for cognitive closure...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: taylorfrancis.com  
-   Link: [https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781315225302-79/need-cognitive-closure-belief-conspiracy-theories-exploration-role-religious-fundamentalism-cognition-umam-muluk-milla](https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781315225302-79/need-cognitive-closure-belief-conspiracy-theories-exploration-role-religious-fundamentalism-cognition-umam-muluk-milla)  
+   Link: <a href="https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781315225302-79/need-cognitive-closure-belief-conspiracy-theories-exploration-role-religious-fundamentalism-cognition-umam-muluk-milla" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781315225302-79/need-cognitive-closure-belief-conspiracy-theories-exploration-role-religious-fundamentalism-cognition-umam-muluk-milla</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The need for cognitive closure and belief in conspiracy theoriesby AN Umam · 2017 · Cited by 15 — Latest research shows that belief in co...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pdfs.semanticscholar.org  
-   Link: [https://pdfs.semanticscholar.org/6e85/8861ef04c081dc7a736d39ca01e1c65d5b91.pdf](https://pdfs.semanticscholar.org/6e85/8861ef04c081dc7a736d39ca01e1c65d5b91.pdf)  
+   Link: <a href="https://pdfs.semanticscholar.org/6e85/8861ef04c081dc7a736d39ca01e1c65d5b91.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/6e85/8861ef04c081dc7a736d39ca01e1c65d5b91.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>semanticscholar.org224 Tolerance of uncertainty and ambiguity of the situation...by S Bokuniewicz · Cited by 32 — The aim of the underta...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: discovery.ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/10167134/1/s13415-023-01068-6.pdf](https://discovery.ucl.ac.uk/10167134/1/s13415-023-01068-6.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/10167134/1/s13415-023-01068-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10167134/1/s13415-023-01068-6.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ucl.ac.ukAversion, interpretation and determinability: Three factors of...People tend to show an aversion to choices that have uncertain...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: scientificamerican.com  
    Title: people drawn to conspiracy theories share a cluster of psychological features  
-   Link: [https://www.scientificamerican.com/article/people-drawn-to-conspiracy-theories-share-a-cluster-of-psychological-features/](https://www.scientificamerican.com/article/people-drawn-to-conspiracy-theories-share-a-cluster-of-psychological-features/)  
+   Link: <a href="https://www.scientificamerican.com/article/people-drawn-to-conspiracy-theories-share-a-cluster-of-psychological-features/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/people-drawn-to-conspiracy-theories-share-a-cluster-of-psychological-features/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>People Drawn to Conspiracy Theories Share a Cluster of...1 Mar 2019 — New research suggests that events happening worldwide are nurturin...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: ssoar.info  
    Title: ssoar frontierssp 2025 Jedinger et al Need for cognitive closure  
-   Link: [https://www.ssoar.info/ssoar/bitstream/handle/document/99896/ssoar-frontierssp-2025-Jedinger_et_al-Need_for_cognitive_closure.pdf?sequence=3](https://www.ssoar.info/ssoar/bitstream/handle/document/99896/ssoar-frontierssp-2025-Jedinger_et_al-Need_for_cognitive_closure.pdf?sequence=3)  
+   Link: <a href="https://www.ssoar.info/ssoar/bitstream/handle/document/99896/ssoar-frontierssp-2025-Jedinger_et_al-Need_for_cognitive_closure.pdf?sequence=3" target="_blank" rel="noopener noreferrer nofollow">https://www.ssoar.info/ssoar/bitstream/handle/document/99896/ssoar-frontierssp-2025-Jedinger_et_al-Need_for_cognitive_closure.pdf?sequence=3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Need for cognitive closure, political trust, and belief in...by A Jedinger · 2025 · Cited by 5 — Psychological motives related to height...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/358311829_The_Computational_and_Neural_Substrates_of_Ambiguity_Avoidance_in_Anxiety](https://www.researchgate.net/publication/358311829_The_Computational_and_Neural_Substrates_of_Ambiguity_Avoidance_in_Anxiety)  
+   Link: <a href="https://www.researchgate.net/publication/358311829_The_Computational_and_Neural_Substrates_of_Ambiguity_Avoidance_in_Anxiety" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358311829_The_Computational_and_Neural_Substrates_of_Ambiguity_Avoidance_in_Anxiety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed ambiguity aversion (Lawrance et al., 2022), while patients with...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
    Title: 🧩🤯 Why do conspiracy theories feel so… comforting?  
-   Link: [https://www.facebook.com/EconomicTimes/posts/-why-do-conspiracy-theories-feel-so-comforting-a-new-study-says-its-not-social-m/1356041056551799/](https://www.facebook.com/EconomicTimes/posts/-why-do-conspiracy-theories-feel-so-comforting-a-new-study-says-its-not-social-m/1356041056551799/)  
+   Link: <a href="https://www.facebook.com/EconomicTimes/posts/-why-do-conspiracy-theories-feel-so-comforting-a-new-study-says-its-not-social-m/1356041056551799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EconomicTimes/posts/-why-do-conspiracy-theories-feel-so-comforting-a-new-study-says-its-not-social-m/1356041056551799/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>conspiracies are a way for us to get “cognitive closure,” and that&#x27;s thought to be a major appeal of them. “They Give Us a Sense...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: scholarship.miami.edu  
-   Link: [https://scholarship.miami.edu/esploro/outputs/doctoral/An-Ecological-Momentary-Assessment-Study-of/991032728834802976](https://scholarship.miami.edu/esploro/outputs/doctoral/An-Ecological-Momentary-Assessment-Study-of/991032728834802976)  
+   Link: <a href="https://scholarship.miami.edu/esploro/outputs/doctoral/An-Ecological-Momentary-Assessment-Study-of/991032728834802976" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.miami.edu/esploro/outputs/doctoral/An-Ecological-Momentary-Assessment-Study-of/991032728834802976</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecological Momentary Assessment Study of Intolerance of...by HC Broos — Greater self-reported IU was significantly associated with great...</p></details>

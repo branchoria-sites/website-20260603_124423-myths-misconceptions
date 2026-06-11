@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_myth_fact_backfire_a70f7f
 - Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_replacement_correcti_5f9954
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - slogans
 - repetition
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - slogans
 - repetition
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Repetition can make a false claim feel familiar and believable, even when people have seen corrections before.
 hero_summary: Repetition can make a false claim feel familiar and believable, even when people have seen corrections before.
 layout: default
 permalink: /repetition/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /slogans/
 nav_short_title: Repetition
 title: Why repetition makes myths feel true
-title_full: Why repetition makes myths feel true | Slogans
+title_full: Why repetition makes myths feel true
 display_title_short: Repetition
 display_title: Repetition
 heading_title: Why repetition makes myths feel true
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Myths Beat Nuance in a Sentence | Mythcraft
+parent_title: Why Myths Beat Nuance in a Sentence
 parent_permalink: /slogans/
 parent_nav_short_title: Slogans
 parent_heading_title: Why Myths Beat Nuance in a Sentence
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When health slogans leave out risk
 up_link:
   basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
@@ -259,7 +259,7 @@ prev_link:
   permalink: /health-slogans/
   short_title: Health Slogans
   heading_title: When health slogans leave out risk
-date: '2026-06-09 05:49:35 '
+date: '2026-06-11 22:44:50 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-1.webp
@@ -268,33 +268,31 @@ image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_re
 
 ## Introduction
 
-Many myths survive not because the evidence for them is strong, but because the claims are familiar. A statement that is heard again and again can begin to feel true even when it is false and even when people have previously seen a [correction]({{ 'correction/' | relative_url }}). Psychologists call this the **illusory truth effect**: repetition increases the perceived truthfulness of a claim. Research has found that repeated statements are more likely to be judged as true than new statements, including misinformation, [fake news headlines]({{ 'headlines/' | relative_url }}) and even claims that contradict what people already know. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span> ScienceDirect This mechanism helps explain why memorable slogans often outperform accurate explanations. Repetition does not usually provide new evidence <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 119 — Repetition increases belief in in...</span></span></span>, but it changes how a claim feels. The more familiar a statement becomes, the easier it is to process, recall and recognise. That feeling of ease can be mistaken for a sign of accuracy.
-
+Many myths survive not because the evidence for them is strong, but because the claims are familiar. A statement that is heard again and again can begin to feel true even when it is false and even when people have previously seen a [correction]({{ 'correction/' | relative_url }}). Psychologists call this the **illusory truth effect**: repetition increases the perceived truthfulness of a claim. Research has found that repeated statements are more likely to be judged as true than new statements, including misinformation, [fake news headlines]({{ 'headlines/' | relative_url }}) and even claims that contradict what people already know. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span> ScienceDirect This mechanism helps explain why memorable slogans often outperform accurate explanations. Repetition does not usually provide new evidence <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 119 — Repetition increases belief in in...</span></span></span>, but it changes how a claim feels. The more familiar a statement becomes, the easier it is to process, recall and recognise. That feeling of ease can be mistaken for a sign of accuracy.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-1-dark.svg" | relative_url }}" alt="Repetition illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The illusory truth effect in plain language
 
-The basic finding is surprisingly simple: people tend to rate repeated information as more believable than information they encounter for the first time. This pattern was first identified decades ago and has been replicated many times across different kinds of statements and audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</span></span></span>
+The basic finding is surprisingly simple: people tend to rate repeated information as more believable than information they encounter for the first time. This pattern was first identified decades ago and has been replicated many times across different kinds of statements and audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</span></span></span>
 
 Imagine seeing the same claim in a headline, hearing it in a conversation and then encountering it again in a social media post. Even if none of those appearances provide evidence, the claim gradually becomes familiar. Later, when asked whether it is true, part of the mind recognises it and responds with a subtle sense of certainty.
 
-Importantly, repetition does not only affect obscure facts. Reviews of the research show that repeated exposure can increase belief in misinformation, conspiracy claims and implausible statements. In some studies, the effect appears even when people possess relevant knowledge that should help them reject the false claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span> ScienceDirect The result is a powerful advantage for myths. A false statement that circulates widely may gain credibility simply through repeated exposure <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 119 — Repetition increases belief in in...</span></span></span>, regardless of its evidential quality.
+Importantly, repetition does not only affect obscure facts. Reviews of the research show that repeated exposure can increase belief in misinformation, conspiracy claims and implausible statements. In some studies, the effect appears even when people possess relevant knowledge that should help them reject the false claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span> ScienceDirect The result is a powerful advantage for myths. A false statement that circulates widely may gain credibility simply through repeated exposure <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 119 — Repetition increases belief in in...</span></span></span>, regardless of its evidential quality.
 
 ## Why fluency can be mistaken for accuracy
 
-The leading explanation centres on **[processing fluency]({{ 'fluency/' | relative_url }})**. Repeated information is easier for the brain to handle because it has been encountered before. Researchers argue that people often use this feeling of ease as a mental shortcut when judging truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</span></span></span>
+The leading explanation centres on **processing [fluency]({{ 'fluency/' | relative_url }})**. Repeated information is easier for the brain to handle because it has been encountered before. Researchers argue that people often use this feeling of ease as a mental shortcut when judging truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</span></span></span>
 
-In everyday life, [fluency]({{ 'fluency/' | relative_url }}) is often a useful signal. Familiar roads are easier to navigate. Frequently encountered facts are often true. Because familiarity and truth are commonly correlated, people learn to treat easy processing as a rough indicator of reliability. The problem arises when repetition creates fluency without providing evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</span></span></span>
+In everyday life, fluency is often a useful signal. Familiar roads are easier to navigate. Frequently encountered facts are often true. Because familiarity and truth are commonly correlated, people learn to treat easy processing as a rough indicator of reliability. The problem arises when repetition creates fluency without providing evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</span></span></span>
 
 Several related processes reinforce the effect:
 
 * **Familiarity increases.** The claim feels recognised rather than novel.
 * **Source [memory]({{ 'memory/' | relative_url }}) fades.** People may remember the statement but forget where they heard it.
 * **Cognitive effort decreases.** Familiar claims require less mental work to understand.
-* **[Confidence]({{ 'confidence/' | relative_url }}) rises.** Repetition can increase not only perceived truth but also confidence in that judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span>
+* **[Confidence]({{ 'confidence/' | relative_url }}) rises.** Repetition can increase not only perceived truth but also confidence in that judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span>
 
 This helps explain why myths often become easier to recognise before they become easier to question. Recognition is fast. Verification is slower.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WOXqR8O2mZY" title="What is Illusory Truth Effect | Explained in 2 min" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WOXqR8O2mZY" target="_blank" rel="noopener noreferrer">What is Illusory Truth Effect | Explained in 2 min</a></p><p class="youtube-embed-meta">Channel: Productivity Guy &middot; Views: 5.1K &middot; Uploaded: November 2020 &middot; Length: 2 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WOXqR8O2mZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WOXqR8O2mZY">Open on YouTube</a></p></div></div></div>
 
@@ -302,10 +300,9 @@ This helps explain why myths often become easier to recognise before they become
 
 Many people assume that false claims work only because audiences lack information. The evidence suggests a more complicated picture.
 
-Studies have found illusory truth effects among participants who already possessed relevant knowledge. Familiarity can sometimes compete with, and occasionally outweigh, factual knowledge during quick judgements. Researchers have repeatedly observed that warnings and awareness of repetition do not completely eliminate the effect. Vanderbilt University <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect - WikipediaThe illusory truth effect (also known as the illusion of truth effect... Despite this warning, the p...</span></span></span> This does not mean knowledge is useless. People with stronger knowledge generally perform better overall. However, truth judgements are influenced by multiple signals at once. Familiarity is one of those signals, and it can still affect evaluation even when evidence points in another direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span>
+Studies have found illusory truth effects among participants who already possessed relevant knowledge. Familiarity can sometimes compete with, and occasionally outweigh, factual knowledge during quick judgements. Researchers have repeatedly observed that warnings and awareness of repetition do not completely eliminate the effect. Vanderbilt University <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect - WikipediaThe illusory truth effect (also known as the illusion of truth effect... Despite this warning, the p...</span></span></span> This does not mean knowledge is useless. People with stronger knowledge generally perform better overall. However, truth judgements are influenced by multiple signals at once. Familiarity is one of those signals, and it can still affect evaluation even when evidence points in another direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span>
 
 That is why myths can persist after being debunked. Once a claim becomes familiar, the correction has to compete not only with the content of the myth but also with the mental advantage created by repetition.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-3-dark.svg" | relative_url }}" alt="Repetition illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A real-world example: repeated misinformation
@@ -316,18 +313,16 @@ A recent study of climate-related claims found that repeated exposure increased 
 
 This creates a difficult communication environment. Accurate information benefits from repetition, but so do falsehoods. The contest is often not between evidence and no evidence. It is between two messages competing for attention, memory and familiarity.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-2-dark.svg" | relative_url }}" alt="Repetition illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How corrections can avoid repeating the myth too much
 
 The existence of the illusory truth effect has sometimes led to worries that correcting misinformation might [backfire]({{ 'backfire/' | relative_url }}) by repeating the false claim. The evidence does not support a simple rule of "never mention the myth".
 
-Research on debunking suggests that corrections are generally effective and that strong corrections usually outweigh any familiarity boost created by mentioning the falsehood. Large reviews have found little support for the idea that corrections routinely make misinformation stronger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookThus, while repeating misinformation generally increases familiarity and truth r...</span></span></span>
+Research on debunking suggests that [corrections]({{ 'corrections/' | relative_url }}) are generally effective and that strong corrections usually outweigh any familiarity boost created by mentioning the falsehood. Large reviews have found little support for the idea that corrections routinely make misinformation stronger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookThus, while repeating misinformation generally increases familiarity and truth r...</span></span></span>
 
 What matters is how the correction is structured.
 
 Effective corrections typically:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -340,20 +335,17 @@ Effective corrections typically:
 
 In practical terms, a correction works best when it gives people something true to remember, not merely something false to reject.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cXFxRkjZNiw" title="Illusory Truth Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer">Illusory Truth Effect</a></p><p class="youtube-embed-meta">Channel: American Psychological Association &middot; Views: 1.1K &middot; Uploaded: January 2026 &middot; Length: 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cXFxRkjZNiw">Open on YouTube</a></p></div></div></div>
 
 ## Why repetition remains a challenge
 
 The illusory truth effect does not mean people are irrational or incapable of evaluating evidence. It reflects a shortcut that normally helps people navigate an information-rich world. Familiar information is often reliable, so the brain learns to treat familiarity as a useful clue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</span></span></span>
 
-The difficulty arises when repetition becomes detached from accuracy. Modern media environments allow a claim to be encountered repeatedly across platforms, conversations and headlines regardless of whether it is true. Each exposure can increase familiarity, making the statement feel progressively more credible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span>
+The difficulty arises when repetition becomes detached from accuracy. Modern media environments allow a claim to be encountered repeatedly across platforms, conversations and headlines regardless of whether it is true. Each exposure can increase familiarity, making the statement feel progressively more credible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span>
 
 For myths and misconceptions, this mechanism is especially important. A memorable slogan gains strength every time it is repeated. An accurate explanation must not only be correct; it must also become familiar enough to compete. The challenge is therefore not merely to provide evidence, but to ensure that truthful explanations are encountered, remembered and repeated often enough to feel as recognisable as the myths they replace.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZHJi8BUVYgw" title="The Illusory Truth Effect: How Repetition Transforms Lies into &quot;Facts&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZHJi8BUVYgw" target="_blank" rel="noopener noreferrer">The Illusory Truth Effect: How Repetition Transforms Lies into &quot;Facts&quot;</a></p><p class="youtube-embed-meta">Channel: Plants Health &middot; Views: 184 &middot; Uploaded: March 2025 &middot; Length: 3 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZHJi8BUVYgw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZHJi8BUVYgw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -751,180 +743,180 @@ For myths and misconceptions, this mechanism is especially important. A memorabl
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811](https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 119 — Repetition increases belief in in...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 119 — Repetition increases belief in in...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This finding is known as the illusory truth effect.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-021-00301-5](https://link.springer.com/article/10.1186/s41235-021-00301-5)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00301-5</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: [https://en.wikipedia.org/wiki/Illusory_truth_effect](https://en.wikipedia.org/wiki/Illusory_truth_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect - WikipediaThe illusory truth effect (also known as the illusion of truth effect... Despite this warning, the p...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4816661/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4816661/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCOn Known Unknowns: Fluency and the Neural Mechanisms of...by WC Wang · 2016 · Cited by 136 — Recent work suggests that this processin...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4816661/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4816661/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On Known Unknowns: Fluency and the Neural Mechanisms of...by WC Wang · 2016 · Cited by 136 — Recent work suggests that this processin...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11143013/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11143013/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11143013/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11143013/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>People not only judge repeatedly perceived information as more likely being true (the so-called truth effect) they also tend to be more c...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: news.vanderbilt.edu  
    Title: illusory-truth effect  
-   Link: [https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/](https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/)  
+   Link: <a href="https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanderbilt UniversityStudy shows that repeated statements are more often judged to be...October 6, 2020 — Study shows that repeated stat...</p></details>
    Published: October 6, 2020  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 121 — Here, we test whether and how a si...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 121 — Here, we test whether and how a si...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, we aimed to examine whether...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrection format has a limited role when debunking  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X](https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect requires semantic coherence...by J Udry · 2023 · Cited by 14 — Repeated exposure to information increases its&#x27;...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010027721002389](https://www.sciencedirect.com/science/article/abs/pii/S0010027721002389)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027721002389" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027721002389</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Truth feels easy: Knowing information is true enhances...by LS Nahon · 2021 · Cited by 13 — Discussion centers on the current explanatio...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: Hearing a statement now and believing the opposite later  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022103114001516](https://www.sciencedirect.com/science/article/abs/pii/S0022103114001516)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103114001516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103114001516</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>illusion of truth effect is highly robust and frequently replicated... true compared to new statements, a phenomenon known as the illuso...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282](https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282)  
+   Link: <a href="https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On the role of memory in misinformation correctionsby PL Kemp · 2024 · Cited by 26 — These findings show that fact-checks that repeat mis...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.3758/s13423-025-02836-w](https://link.springer.com/article/10.3758/s13423-025-02836-w)  
+   Link: <a href="https://link.springer.com/article/10.3758/s13423-025-02836-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-025-02836-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>repetition increase perceived truth equally for...by SM Bowes · 2026 — The illusory truth effect: A review of how repetition increases b...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.3758/s13415-025-01266-4](https://link.springer.com/article/10.3758/s13415-025-01266-4)  
+   Link: <a href="https://link.springer.com/article/10.3758/s13415-025-01266-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13415-025-01266-4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>face of illusory truth: Repetition of information elicits...by A Stump · 2025 · Cited by 3 — Our data demonstrate that repetition result...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38113667/](https://pubmed.ncbi.nlm.nih.gov/38113667/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38113667/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds](https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds)  
+   Link: <a href="https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The research, published in *Plos One*, was led by Mary Jiang from the Australian National University and highlighted the &quot;illusory truth...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: climatechangecommunication.org  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookThus, while repeating misinformation generally increases familiarity and truth r...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: annieduke.substack.com  
    Title: the illusory truth effect  
-   Link: [https://annieduke.substack.com/p/the-illusory-truth-effect](https://annieduke.substack.com/p/the-illusory-truth-effect)  
+   Link: <a href="https://annieduke.substack.com/p/the-illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://annieduke.substack.com/p/the-illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth Effect - by Annie Duke - SubstackAugust 30, 2023 — The more something is repeated, the more true it feels...</p></details>
    Published: August 30, 2023  
 
 21. <a id="endnote-21"></a>
    Source: thedecisionlab.com  
    Title: Illusory truth effect  
-   Link: [https://thedecisionlab.com/biases/illusory-truth-effect](https://thedecisionlab.com/biases/illusory-truth-effect)  
+   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabThe illusory truth effect, also known as the illusion of truth, describes how when we hear the same false information rep...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/us/basics/illusory-truth-effect](https://www.psychologytoday.com/us/basics/illusory-truth-effect)  
+   Link: <a href="https://www.psychologytoday.com/us/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/illusory-truth-effect</a>  
 
 23. <a id="endnote-23"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/psychology/illusory-truth-effect](https://www.ebsco.com/research-starters/psychology/illusory-truth-effect)  
+   Link: <a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/cognitive-fluency-and-judgments-of-truth](https://www.nature.com/nature-index/topics/l4/cognitive-fluency-and-judgments-of-truth)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/cognitive-fluency-and-judgments-of-truth" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/cognitive-fluency-and-judgments-of-truth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Fluency and Judgments of TruthThis phenomenon underpins the illusory truth effect, wherein mere repetition of a claim increases...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/illusory](https://www.merriam-webster.com/dictionary/illusory)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/illusory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningillusory implies a false impression based on deceptive resemblance or faulty observation, or influenced by e...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/gb/basics/illusory-truth-effect](https://www.psychologytoday.com/gb/basics/illusory-truth-effect)  
+   Link: <a href="https://www.psychologytoday.com/gb/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectStudies show that repetition increases the perception of validity—even when people start out knowing that the inform...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/science/comments/1fryhzw/repeating_a_claim_can_make_it_seem_more/](https://www.reddit.com/r/science/comments/1fryhzw/repeating_a_claim_can_make_it_seem_more/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditRepeating a claim can make it seem more believable—an...When false claims are repeated, we start to believe they are true, suggest...</p></details>
+   Link: <a href="https://www.reddit.com/r/science/comments/1fryhzw/repeating_a_claim_can_make_it_seem_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1fryhzw/repeating_a_claim_can_make_it_seem_more/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repeating a claim can make it seem more believable—an...When false claims are repeated, we start to believe they are true, suggest...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: arno.uvt.nl  
-   Link: [https://arno.uvt.nl/show.cgi?fid=161900](https://arno.uvt.nl/show.cgi?fid=161900)  
+   Link: <a href="https://arno.uvt.nl/show.cgi?fid=161900" target="_blank" rel="noopener noreferrer nofollow">https://arno.uvt.nl/show.cgi?fid=161900</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is The Effect of the Illusory Truth Effect on Conspiracy...We found repetition to insignificantly increase truth judgments of conspiracy...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: psychotricks.com  
    Title: The Psychology of Belief: Understanding the Illusory Truth Effect  
-   Link: [https://psychotricks.com/illusory-truth-effect/](https://psychotricks.com/illusory-truth-effect/)  
+   Link: <a href="https://psychotricks.com/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://psychotricks.com/illusory-truth-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 21, 2025 — The Illusory Truth Effect is a cognitive bias describing the human tendency to rate information as more valid or trut...</p></details>
    Published: November 21, 2025  
 
 30. <a id="endnote-30"></a>
    Source: effectiviology.com  
-   Link: [https://effectiviology.com/familiarity-backfire-effect/](https://effectiviology.com/familiarity-backfire-effect/)  
+   Link: <a href="https://effectiviology.com/familiarity-backfire-effect/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/familiarity-backfire-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>member misinformation better, and to remember it as being true.Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: normalcurves.com  
    Title: the backfire effect can fact checking make false beliefs stronger  
-   Link: [https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/](https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/)  
+   Link: <a href="https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/" target="_blank" rel="noopener noreferrer nofollow">https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The “backfire effect” claims that debunking myths can actually make false beliefs stronger.Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
    Title: American Psychological Association  
-   Link: [https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/](https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookJanuary 13, 2026 — The illusory truth effect, also known as the illusion of truth, describes how when we hear the same [false info](&amp;#123;&amp;#123; &#x27;false-info/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 13, 2026 — The illusory truth effect, also known as the illusion of truth, describes how when we hear the same [false info](&amp;#123;&amp;#123; &#x27;false-info/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
    Published: January 13, 2026  
 
 33. <a id="endnote-33"></a>
    Source: philosophytalk.org  
    Title: say it enough theyll believe it  
-   Link: [https://philosophytalk.org/blog/say-it-enough-theyll-believe-it/](https://philosophytalk.org/blog/say-it-enough-theyll-believe-it/)  
+   Link: <a href="https://philosophytalk.org/blog/say-it-enough-theyll-believe-it/" target="_blank" rel="noopener noreferrer nofollow">https://philosophytalk.org/blog/say-it-enough-theyll-believe-it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Say it Enough, They&#x27;ll Believe ItNov 20, 2020 — Most psychologists think the illusory truth effect reflects “processing fluency.” In othe...</p></details>

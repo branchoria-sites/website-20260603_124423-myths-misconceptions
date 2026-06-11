@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - vaccines
 - wakefield-paper
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - vaccines
 - wakefield-paper
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: The Wakefield paper became powerful before its weak design, misconduct findings and retraction caught up with its public impact.
 hero_summary: The Wakefield paper became powerful before its weak design, misconduct findings and retraction caught up with its public impact.
 layout: default
 permalink: /wakefield-paper/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /vaccines/
 nav_short_title: Wakefield paper
 title: How One Weak Paper Became a Public Myth
-title_full: How One Weak Paper Became a Public Myth | Vaccines
+title_full: How One Weak Paper Became a Public Myth
 display_title_short: Wakefield paper
 display_title: Wakefield paper
 heading_title: How One Weak Paper Became a Public Myth
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What the Vaccine Autism Myth Teaches Debunkers | Mythcraft
+parent_title: What the Vaccine Autism Myth Teaches Debunkers
 parent_permalink: /vaccines/
 parent_nav_short_title: Vaccines
 parent_heading_title: What the Vaccine Autism Myth Teaches Debunkers
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why The Timing Can Feel So Convincing
 up_link:
   basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -259,7 +259,7 @@ prev_link:
   permalink: /timing-trap-49e224/
   short_title: Timing trap
   heading_title: Why The Timing Can Feel So Convincing
-date: '2026-06-09 05:54:19 '
+date: '2026-06-11 22:47:09 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a-Illustration-1.webp
@@ -268,22 +268,18 @@ image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wa
 
 ## Introduction
 
-The collapse of the 1998 Wakefield paper is one of the most important case studies in how a weak scientific claim can outgrow the evidence behind it and become a lasting public myth. The paper itself involved only 12 children and did not prove that the measles, mumps and rubella (MMR) vaccine caused autism. Yet its publication helped trigger a vaccine scare whose effects lasted for years, even after the research was discredited, retracted and investigated for misconduct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe MMR vaccine and autism: Sensation, refutation, retraction...by TSS Rao · 2011 · Cited by 511 — The measles, mumps, and rubella (M...</span></span></span>
-
+The collapse of the 1998 Wakefield paper is one of the most important case studies in how a weak scientific claim can outgrow the evidence behind it and become a lasting public myth. The paper itself involved only 12 children and did not prove that the measles, mumps and rubella (MMR) vaccine caused autism. Yet its publication helped trigger a vaccine scare whose effects lasted for years, even after the research was discredited, retracted and investigated for misconduct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The MMR vaccine and autism: Sensation, refutation, retraction...by TSS Rao · 2011 · Cited by 511 — The measles, mumps, and rubella (M...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a-Illustration-1-dark.svg" | relative_url }}" alt="Wakefield paper illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the case especially important is not only that the study failed. Many weak studies are forgotten. The Wakefield paper became influential because it appeared in a prestigious medical journal, was amplified through [media coverage]({{ 'media-coverage/' | relative_url }}), and offered a simple explanation for a frightening condition that parents were struggling to understand. By the time the scientific record was corrected, public trust had already been damaged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/340/bmj.c696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">BMJLancet retracts Wakefield&#x27;s MMR paperby C Dyer · 2010 · Cited by 118 — The Lancet has retracted the 12 year old paper that sparked an...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/342/bmj.c7452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">BMJWakefield&#x27;s article linking MMR vaccine and autism was...by F Godlee · 2011 · Cited by 935 — The 1998 Lancet paper that implied a lin...</span></span></span>
+What makes the case especially important is not only that the study failed. Many weak studies are forgotten. The Wakefield paper became influential because it appeared in a prestigious medical journal, was amplified through [media coverage]({{ 'media-coverage/' | relative_url }}), and offered a simple explanation for a frightening condition that parents were struggling to understand. By the time the scientific record was corrected, public trust had already been damaged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/340/bmj.c696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Lancet retracts Wakefield&#x27;s MMR paperby C Dyer · 2010 · Cited by 118 — The Lancet has retracted the 12 year old paper that sparked an...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/342/bmj.c7452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Wakefield&#x27;s article linking MMR vaccine and autism was...by F Godlee · 2011 · Cited by 935 — The 1998 Lancet paper that implied a lin...</span></span></span>
 
 ## What the 1998 paper actually claimed
 
-The paper, published in *The Lancet* in February 1998, described a small group of children with developmental disorders and gastrointestinal symptoms. The authors suggested that some parents had linked the onset of behavioural problems to MMR vaccination and proposed that further investigation was needed. The study did not include an unvaccinated comparison group, did not test a population sample and was not designed to establish cause and effect. It was essentially a case series: a descriptive report of a handful of patients. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCLancet retracts 12-year-old article linking autism to MMR...by L Eggertson · 2010 · Cited by 422 — Twelve years after publishing a la...</span></span></span>
+The paper, published in *The Lancet* in February 1998, described a small group of children with developmental disorders and gastrointestinal symptoms. The authors suggested that some parents had linked the onset of behavioural problems to MMR vaccination and proposed that further investigation was needed. The study did not include an unvaccinated comparison group, did not test a population sample and was not designed to establish cause and effect. It was essentially a case series: a descriptive report of a handful of patients. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Lancet retracts 12-year-old article linking autism to MMR...by L Eggertson · 2010 · Cited by 422 — Twelve years after publishing a la...</span></span></span>
 
-Despite these limitations, the public discussion quickly shifted from a tentative observation to a much stronger claim. Many people came away with the impression that a scientific study had demonstrated a connection between MMR and autism. The distinction between a preliminary clinical report and proof of causation was largely lost in public debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6902803/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAssessment of Citations of the Retracted Article by Wakefield...by EM Suelzer · 2019 · Cited by 84 — The article by Wakefield et al t...</span></span></span>
+Despite these limitations, the public discussion quickly shifted from a tentative observation to a much stronger claim. Many people came away with the impression that a scientific study had demonstrated a connection between MMR and autism. The distinction between a preliminary clinical report and proof of causation was largely lost in public debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6902803/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Assessment of Citations of the Retracted Article by Wakefield...by EM Suelzer · 2019 · Cited by 84 — The article by Wakefield et al t...</span></span></span>
 
-The paper's influence was magnified by events outside the journal itself. Andrew Wakefield publicly raised concerns about the combined MMR vaccine and suggested the use of separate [vaccines]({{ 'vaccines/' | relative_url }}). That transformed a technical research discussion into a practical public-health question that parents could act upon immediately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe MMR vaccine and autism: Sensation, refutation, retraction...by TSS Rao · 2011 · Cited by 511 — The measles, mumps, and rubella (M...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AKkWdOQoicY" title="1998 Lancet study, misinformation &amp; adverse events—why people began mistrusting vaccines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AKkWdOQoicY" target="_blank" rel="noopener noreferrer">1998 Lancet study, misinformation &amp; adverse events—why people began mistrusting vaccines</a></p><p class="youtube-embed-meta">Channel: ThePrint &middot; Views: 4.9K &middot; Uploaded: December 2024 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AKkWdOQoicY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AKkWdOQoicY">Open on YouTube</a></p></div></div></div>
+The paper's influence was magnified by events outside the journal itself. Andrew Wakefield publicly raised concerns about the combined MMR vaccine and suggested the use of separate [vaccines]({{ 'vaccines/' | relative_url }}). That transformed a technical research discussion into a practical public-health question that parents could act upon immediately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The MMR vaccine and autism: Sensation, refutation, retraction...by TSS Rao · 2011 · Cited by 511 — The measles, mumps, and rubella (M...</span></span></span>
 
 ## Why the evidence could not prove causation
 
@@ -295,12 +291,11 @@ Several problems were fundamental:
 * There was no control group for comparison.
 * The study relied heavily on parental recollections of [timing]({{ 'timing/' | relative_url }}).
 * The researchers could not measure whether autism occurred more often among vaccinated children than among unvaccinated children.
-* The design could not separate coincidence from causation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCLancet retracts 12-year-old article linking autism to MMR...by L Eggertson · 2010 · Cited by 422 — Twelve years after publishing a la...</span></span></span>
+* The design could not separate coincidence from causation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Lancet retracts 12-year-old article linking autism to MMR...by L Eggertson · 2010 · Cited by 422 — Twelve years after publishing a la...</span></span></span>
 
 These weaknesses matter because autism signs often become more noticeable during the same broad developmental period when children receive routine vaccinations. A report that records temporal proximity between vaccination and later diagnosis cannot by itself determine whether one caused the other. Larger epidemiological studies are needed for that purpose.
 
-The Wakefield paper therefore occupied a lower rung in the hierarchy of medical evidence than population-based studies, systematic reviews and controlled investigations. The public controversy that followed was unusual because the social impact of the paper became far larger than the evidential strength of the paper itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6902803/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAssessment of Citations of the Retracted Article by Wakefield...by EM Suelzer · 2019 · Cited by 84 — The article by Wakefield et al t...</span></span></span>
-
+The Wakefield paper therefore occupied a lower rung in the hierarchy of medical evidence than population-based studies, systematic reviews and controlled investigations. The public controversy that followed was unusual because the social impact of the paper became far larger than the evidential strength of the paper itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6902803/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Assessment of Citations of the Retracted Article by Wakefield...by EM Suelzer · 2019 · Cited by 84 — The article by Wakefield et al t...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a-Illustration-2-dark.svg" | relative_url }}" alt="Wakefield paper illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How retraction and misconduct changed the story
@@ -309,22 +304,21 @@ The paper's collapse was gradual rather than immediate.
 
 In 2004, ten of the paper's thirteen authors published a partial retraction of the interpretation that MMR might be linked to autism, acknowledging that no causal relationship had been established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2810%2960175-4/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelancet.com">[The Lancet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelancet.com</span><span class="citation-popover-title">The Editors of The Lancet.Read more</span><span class="citation-popover-snippet">The LancetRetraction—Ileal-lymphoid-nodular hyperplasia, non...by AL Caplan · 2009 · Cited by 168 — Retraction—Ileal-lymphoid-nodular hy...</span></span></span>
 
-More serious problems emerged through investigative reporting and regulatory scrutiny. Journalist Brian Deer uncovered undisclosed conflicts of interest and raised questions about how the research had been conducted and reported. These concerns eventually became part of a lengthy investigation by the UK's General Medical Council (GMC). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/342/bmj.c5347" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">BMJHow the case against the MMR vaccine was fixedby B Deer · 2011 · Cited by 564 — Brian Deer exposes the bogus data behind claims that l...</span></span></span>
+More serious problems emerged through investigative reporting and regulatory scrutiny. Journalist Brian Deer uncovered undisclosed conflicts of interest and raised questions about how the research had been conducted and reported. These concerns eventually became part of a lengthy investigation by the UK's General Medical Council (GMC). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/342/bmj.c5347" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">How the case against the MMR vaccine was fixedby B Deer · 2011 · Cited by 564 — Brian Deer exposes the bogus data behind claims that l...</span></span></span>
 
-In 2010, the GMC concluded that Wakefield had acted dishonestly and irresponsibly in several aspects of the research and had shown disregard for ethical requirements governing the treatment of children involved in the study. Following those findings, *The Lancet* fully retracted the paper. The journal stated that key elements of the published claims were false and should not have remained part of the scientific literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/340/bmj.c593" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">BMJWakefield was dishonest and irresponsible over MMR...by C Dyer · 2010 · Cited by 23 — Andrew Wakefield, the gastroenterologist whose...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2810%2960175-4/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelancet.com">[The Lancet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelancet.com</span><span class="citation-popover-title">The Editors of The Lancet.Read more</span><span class="citation-popover-snippet">The LancetRetraction—Ileal-lymphoid-nodular hyperplasia, non...by AL Caplan · 2009 · Cited by 168 — Retraction—Ileal-lymphoid-nodular hy...</span></span></span>
+In 2010, the GMC concluded that Wakefield had acted dishonestly and irresponsibly in several aspects of the research and had shown disregard for ethical requirements governing the treatment of children involved in the study. Following those findings, *The Lancet* fully retracted the paper. The journal stated that key elements of the published claims were false and should not have remained part of the scientific literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/340/bmj.c593" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Wakefield was dishonest and irresponsible over MMR...by C Dyer · 2010 · Cited by 23 — Andrew Wakefield, the gastroenterologist whose...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2810%2960175-4/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelancet.com">[The Lancet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelancet.com</span><span class="citation-popover-title">The Editors of The Lancet.Read more</span><span class="citation-popover-snippet">The LancetRetraction—Ileal-lymphoid-nodular hyperplasia, non...by AL Caplan · 2009 · Cited by 168 — Retraction—Ileal-lymphoid-nodular hy...</span></span></span>
 
 The following year, a series of investigations published in *The BMJ* went further. The journal argued that the problem was not merely poor science but fraudulent misrepresentation. Investigations compared medical records with the published paper and reported major discrepancies between the underlying records and the narrative presented in the article. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/344/bmj.e1745" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">misconduct was “flawed, in two respects: inadequate and superficial... The Lancet paper, retracted in 2010, detailed the case...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/342/bmj.c7452/rapid-responses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Wakefield&#x27;s article linking MMR vaccine and autism was...Jan 6, 2011 — I had undertaken a study to determine whether a group of autistic...</span></span></span>
 
 Not every aspect of the wider controversy has been interpreted identically by all participants, and some findings connected to co-authors were later challenged in court. However, the central outcome remained unchanged: the original paper was retracted, the claimed evidence for an MMR-autism connection was discredited, and the study ceased to be considered a reliable scientific source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/bmj/section-pdf/186196?path=%2Fbmj%2F342%2F7790%2FFeature.full.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Open source on bmj.com.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iHbU__adJjE" title="The Paper That Broke the World | The Wakefield Vaccine-Autism Fraud Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iHbU__adJjE" target="_blank" rel="noopener noreferrer">The Paper That Broke the World | The Wakefield Vaccine-Autism Fraud Explained</a></p><p class="youtube-embed-meta">Channel: History of Misinformation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iHbU__adJjE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iHbU__adJjE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AKkWdOQoicY" title="1998 Lancet study, misinformation &amp; adverse events—why people began mistrusting vaccines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AKkWdOQoicY" target="_blank" rel="noopener noreferrer">1998 Lancet study, misinformation &amp; adverse events—why people began mistrusting vaccines</a></p><p class="youtube-embed-meta">Channel: ThePrint &middot; Views: 4.9K &middot; Uploaded: December 2024 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AKkWdOQoicY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AKkWdOQoicY">Open on YouTube</a></p></div></div></div>
 
 ## Why public trust suffered long after the paper collapsed
 
 One reason the damage lasted is that scientific [corrections]({{ 'corrections/' | relative_url }}) and public impressions operate on different timescales.
 
-The original claim spread through [headlines]({{ 'headlines/' | relative_url }}), television reports and parent networks in the late 1990s. The [correction]({{ 'correction/' | relative_url }}) unfolded slowly through regulatory hearings, journal statements and detailed investigations. The first story was simple: a vaccine might cause autism. The correction required explaining study design, conflicts of interest, medical records, ethics procedures and retractions. The false claim was easier to remember than the rebuttal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6902803/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAssessment of Citations of the Retracted Article by Wakefield...by EM Suelzer · 2019 · Cited by 84 — The article by Wakefield et al t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/rapid-response/2011/11/03/wakefields-article-linking-mmr-vaccine-and-autism-was-fraudulent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Wakefield&#x27;s article linking MMR vaccine and autism was...Jan 6, 2011 — Rapid Response: Wakefield&#x27;s article linking MMR vaccine and autis...</span></span></span>
+The original claim spread through [headlines]({{ 'headlines/' | relative_url }}), television reports and parent networks in the late 1990s. The [correction]({{ 'correction/' | relative_url }}) unfolded slowly through regulatory hearings, journal statements and detailed investigations. The first story was simple: a vaccine might cause autism. The correction required explaining study design, conflicts of interest, medical records, ethics procedures and retractions. The false claim was easier to remember than the rebuttal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6902803/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Assessment of Citations of the Retracted Article by Wakefield...by EM Suelzer · 2019 · Cited by 84 — The article by Wakefield et al t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/rapid-response/2011/11/03/wakefields-article-linking-mmr-vaccine-and-autism-was-fraudulent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Wakefield&#x27;s article linking MMR vaccine and autism was...Jan 6, 2011 — Rapid Response: Wakefield&#x27;s article linking MMR vaccine and autis...</span></span></span>
 
 The episode also damaged trust in multiple directions at once.
 
@@ -332,21 +326,17 @@ For some parents, the scandal undermined [confidence]({{ 'confidence/' | relativ
 
 This created a paradox. The scientific system eventually identified serious problems, investigated them and removed the paper from the literature. Yet the very existence of the scandal became evidence, for some audiences, that scientific institutions could not be trusted. The corrective process demonstrated both the strengths and weaknesses of scientific self-correction at the same time.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a-Illustration-3-dark.svg" | relative_url }}" alt="Wakefield paper illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The persistence of a retracted claim
 
 Retraction did not erase the paper's influence.
 
-Research examining citations of the article found that it continued to be referenced years after retraction, although later citations increasingly noted that it had been withdrawn. The paper remained part of discussions about vaccines, autism, misinformation and research ethics long after its scientific conclusions had been rejected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6902803/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAssessment of Citations of the Retracted Article by Wakefield...by EM Suelzer · 2019 · Cited by 84 — The article by Wakefield et al t...</span></span></span>
+Research examining citations of the article found that it continued to be referenced years after retraction, although later citations increasingly noted that it had been withdrawn. The paper remained part of discussions about vaccines, autism, misinformation and research ethics long after its scientific conclusions had been rejected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6902803/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Assessment of Citations of the Retracted Article by Wakefield...by EM Suelzer · 2019 · Cited by 84 — The article by Wakefield et al t...</span></span></span>
 
 The broader myth also migrated beyond the original study. Public debates increasingly relied on personal testimony, online communities and later conspiracy narratives rather than on the 1998 paper itself. In that sense, the study became less important as evidence and more important as a symbol. It served as the founding story for a belief system that could continue even when the original research was no longer credible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5175704/andrew-wakefield-vaccine-autism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">The Vaccine-Autism Myth Started 20 Years Ago</span><span class="citation-popover-snippet">Here&#x27;s Why It Still Endures TodayThe vaccine-autism myth, perpetuated by Andrew Wakefield, started with a fraudulent article in The Lance...</span></span></span>
 
 This is one reason the Wakefield case remains a powerful correction example. The scientific record was eventually corrected. The public narrative was not corrected as quickly.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GzvfpyyZO9o" title="The origins of the anti-vaccine movement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GzvfpyyZO9o" target="_blank" rel="noopener noreferrer">The origins of the anti-vaccine movement</a></p><p class="youtube-embed-meta">Channel: Vox</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GzvfpyyZO9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GzvfpyyZO9o">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a-Illustration-3-dark.svg" | relative_url }}" alt="Wakefield paper illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Wakefield collapse reveals about scientific myths
 
 The Wakefield episode shows that myths do not always survive because evidence supports them. Sometimes they survive because they satisfy emotional, social or narrative needs more effectively than the correction does.
@@ -751,179 +741,179 @@ That gap between scientific correction and public belief is what makes the Wakef
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe MMR vaccine and autism: Sensation, refutation, retraction...by TSS Rao · 2011 · Cited by 511 — The measles, mumps, and rubella (M...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The MMR vaccine and autism: Sensation, refutation, retraction...by TSS Rao · 2011 · Cited by 511 — The measles, mumps, and rubella (M...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCLancet retracts 12-year-old article linking autism to MMR...by L Eggertson · 2010 · Cited by 422 — Twelve years after publishing a la...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lancet retracts 12-year-old article linking autism to MMR...by L Eggertson · 2010 · Cited by 422 — Twelve years after publishing a la...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/340/bmj.c696](https://www.bmj.com/content/340/bmj.c696)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJLancet retracts Wakefield&#x27;s MMR paperby C Dyer · 2010 · Cited by 118 — The Lancet has retracted the 12 year old paper that sparked an...</p></details>
+   Link: <a href="https://www.bmj.com/content/340/bmj.c696" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/340/bmj.c696</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lancet retracts Wakefield&#x27;s MMR paperby C Dyer · 2010 · Cited by 118 — The Lancet has retracted the 12 year old paper that sparked an...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/342/bmj.c7452](https://www.bmj.com/content/342/bmj.c7452)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJWakefield&#x27;s article linking MMR vaccine and autism was...by F Godlee · 2011 · Cited by 935 — The 1998 Lancet paper that implied a lin...</p></details>
+   Link: <a href="https://www.bmj.com/content/342/bmj.c7452" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/342/bmj.c7452</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wakefield&#x27;s article linking MMR vaccine and autism was...by F Godlee · 2011 · Cited by 935 — The 1998 Lancet paper that implied a lin...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: time.com  
    Title: The Vaccine-Autism Myth Started 20 Years Ago  
-   Link: [https://time.com/5175704/andrew-wakefield-vaccine-autism/](https://time.com/5175704/andrew-wakefield-vaccine-autism/)  
+   Link: <a href="https://time.com/5175704/andrew-wakefield-vaccine-autism/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5175704/andrew-wakefield-vaccine-autism/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s Why It Still Endures TodayThe vaccine-autism myth, perpetuated by Andrew Wakefield, started with a fraudulent article in The Lance...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/342/bmj.c5347](https://www.bmj.com/content/342/bmj.c5347)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJHow the case against the MMR vaccine was fixedby B Deer · 2011 · Cited by 564 — Brian Deer exposes the bogus data behind claims that l...</p></details>
+   Link: <a href="https://www.bmj.com/content/342/bmj.c5347" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/342/bmj.c5347</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the case against the MMR vaccine was fixedby B Deer · 2011 · Cited by 564 — Brian Deer exposes the bogus data behind claims that l...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/340/bmj.c593](https://www.bmj.com/content/340/bmj.c593)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJWakefield was dishonest and irresponsible over MMR...by C Dyer · 2010 · Cited by 23 — Andrew Wakefield, the gastroenterologist whose...</p></details>
+   Link: <a href="https://www.bmj.com/content/340/bmj.c593" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/340/bmj.c593</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wakefield was dishonest and irresponsible over MMR...by C Dyer · 2010 · Cited by 23 — Andrew Wakefield, the gastroenterologist whose...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/344/bmj.e1745](https://www.bmj.com/content/344/bmj.e1745)  
+   Link: <a href="https://www.bmj.com/content/344/bmj.e1745" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/344/bmj.e1745</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>misconduct was “flawed, in two respects: inadequate and superficial... The Lancet paper, retracted in 2010, detailed the case...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6902803/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6902803/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAssessment of Citations of the Retracted Article by Wakefield...by EM Suelzer · 2019 · Cited by 84 — The article by Wakefield et al t...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6902803/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6902803/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessment of Citations of the Retracted Article by Wakefield...by EM Suelzer · 2019 · Cited by 84 — The article by Wakefield et al t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/342/bmj.c7452/rapid-responses](https://www.bmj.com/content/342/bmj.c7452/rapid-responses)  
+   Link: <a href="https://www.bmj.com/content/342/bmj.c7452/rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/342/bmj.c7452/rapid-responses</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wakefield&#x27;s article linking MMR vaccine and autism was...Jan 6, 2011 — I had undertaken a study to determine whether a group of autistic...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/bmj/section-pdf/186196?path=%2Fbmj%2F342%2F7790%2FFeature.full.pdf](https://www.bmj.com/bmj/section-pdf/186196?path=%2Fbmj%2F342%2F7790%2FFeature.full.pdf)  
+   Link: <a href="https://www.bmj.com/bmj/section-pdf/186196?path=%2Fbmj%2F342%2F7790%2FFeature.full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/bmj/section-pdf/186196?path=%2Fbmj%2F342%2F7790%2FFeature.full.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/rapid-response/2011/11/03/wakefields-article-linking-mmr-vaccine-and-autism-was-fraudulent](https://www.bmj.com/rapid-response/2011/11/03/wakefields-article-linking-mmr-vaccine-and-autism-was-fraudulent)  
+   Link: <a href="https://www.bmj.com/rapid-response/2011/11/03/wakefields-article-linking-mmr-vaccine-and-autism-was-fraudulent" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/rapid-response/2011/11/03/wakefields-article-linking-mmr-vaccine-and-autism-was-fraudulent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wakefield&#x27;s article linking MMR vaccine and autism was...Jan 6, 2011 — Rapid Response: Wakefield&#x27;s article linking MMR vaccine and autis...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bmj.com  
    Title: deeb200710.ww1 default  
-   Link: [https://www.bmj.com/content/bmj/suppl/2011/01/05/bmj.c5347.DC1/deeb200710.ww1_default.pdf](https://www.bmj.com/content/bmj/suppl/2011/01/05/bmj.c5347.DC1/deeb200710.ww1_default.pdf)  
+   Link: <a href="https://www.bmj.com/content/bmj/suppl/2011/01/05/bmj.c5347.DC1/deeb200710.ww1_default.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/bmj/suppl/2011/01/05/bmj.c5347.DC1/deeb200710.ww1_default.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brian Deer&#x27;s analysis of the Wakefield Lancet paper of...2 Jan 2011 — Ileal lymphoid nodular hyperplasia, non-specific colitis, and perv...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bmj.com  
    Title: mmr fraud needs parliamentary inquiry says bmj new information puts spotli  
-   Link: [https://www.bmj.com/press-releases/2011/11/09/mmr-fraud-needs-parliamentary-inquiry-says-bmj-new-information-puts-spotli](https://www.bmj.com/press-releases/2011/11/09/mmr-fraud-needs-parliamentary-inquiry-says-bmj-new-information-puts-spotli)  
+   Link: <a href="https://www.bmj.com/press-releases/2011/11/09/mmr-fraud-needs-parliamentary-inquiry-says-bmj-new-information-puts-spotli" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/press-releases/2011/11/09/mmr-fraud-needs-parliamentary-inquiry-says-bmj-new-information-puts-spotli</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MMR fraud needs parliamentary inquiry, says BMJ, as new...9 Nov 2011 — The BMJ is calling on MPs to launch a parliamentary inquiry into...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: bmj.com  
    Title: wakefields article linking mmr vaccine and autism was fraudulent 0  
-   Link: [https://www.bmj.com/rapid-response/2011/11/03/wakefields-article-linking-mmr-vaccine-and-autism-was-fraudulent-0](https://www.bmj.com/rapid-response/2011/11/03/wakefields-article-linking-mmr-vaccine-and-autism-was-fraudulent-0)  
+   Link: <a href="https://www.bmj.com/rapid-response/2011/11/03/wakefields-article-linking-mmr-vaccine-and-autism-was-fraudulent-0" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/rapid-response/2011/11/03/wakefields-article-linking-mmr-vaccine-and-autism-was-fraudulent-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First I must apologise I am not an academic nor have pretensions to be one I...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/bmj/340/7741/News.full.pdf](https://www.bmj.com/content/bmj/340/7741/News.full.pdf)  
+   Link: <a href="https://www.bmj.com/content/bmj/340/7741/News.full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/bmj/340/7741/News.full.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lancet retracts MMr paper after GMC finds andrew...by C Dyer · 2010 · Cited by 9 — Wakefield, did not sign the retraction, told the BMJ...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bmj.com  
    Title: rewakefields article linking mmr vaccine and autism was fraudulent  
-   Link: [https://www.bmj.com/rapid-response/2011/11/03/rewakefields-article-linking-mmr-vaccine-and-autism-was-fraudulent](https://www.bmj.com/rapid-response/2011/11/03/rewakefields-article-linking-mmr-vaccine-and-autism-was-fraudulent)  
+   Link: <a href="https://www.bmj.com/rapid-response/2011/11/03/rewakefields-article-linking-mmr-vaccine-and-autism-was-fraudulent" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/rapid-response/2011/11/03/rewakefields-article-linking-mmr-vaccine-and-autism-was-fraudulent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Re:Wakefield&#x27;s article linking MMR vaccine and autism was...6 Jan 2011 — Deer picking and choosing which PDD cases counted was spurious...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/342/bmj.d1678](https://www.bmj.com/content/342/bmj.d1678)  
+   Link: <a href="https://www.bmj.com/content/342/bmj.d1678" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/342/bmj.d1678</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wakefield&#x27;s article linking MMR vaccine and autism was...15 Mar 2011 — Wakefield&#x27;s article linking MMR vaccine and autism was fraudulent...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thelancet.com  
    Title: The Editors of The Lancet.Read more  
-   Link: [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2810%2960175-4/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2810%2960175-4/fulltext)  
+   Link: <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2810%2960175-4/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2810%2960175-4/fulltext</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LancetRetraction—Ileal-lymphoid-nodular hyperplasia, non...by AL Caplan · 2009 · Cited by 168 — Retraction—Ileal-lymphoid-nodular hy...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thelancet.com  
-   Link: [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2804%2915715-2/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2804%2915715-2/fulltext)  
+   Link: <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2804%2915715-2/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2804%2915715-2/fulltext</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LancetRetraction of an interpretationby SH Murch · 2004 · Cited by 451 — This statement refers to the Early Report “Ileal-lymphoid-no...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thelancet.com  
    Title: Dr AJ Wakefield, FRCS.Read more  
-   Link: [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2897%2911096-0/abstract](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2897%2911096-0/abstract)  
+   Link: <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2897%2911096-0/abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2897%2911096-0/abstract</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RETRACTED: Ileal-lymphoid-nodular hyperplasia, non...by AJ Wakefield · 1998 · Cited by 4856 — RETRACTED: Ileal-lymphoid-nodular hyperpla...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Andrew Wakefield  
-   Link: [https://en.wikipedia.org/wiki/Andrew_Wakefield](https://en.wikipedia.org/wiki/Andrew_Wakefield)  
+   Link: <a href="https://en.wikipedia.org/wiki/Andrew_Wakefield" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Andrew_Wakefield</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Andrew WakefieldAndrew Jeremy Wakefield is an English fraudster, anti-vaccine activist, and former senior surgeon. He was struck off t...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: vacunasaep.org  
-   Link: [https://vacunasaep.org/sites/vacunasaep.org/files/wakefield-fraude-timeline-bdeer-bmj.pdf?1677708521=](https://vacunasaep.org/sites/vacunasaep.org/files/wakefield-fraude-timeline-bdeer-bmj.pdf?1677708521=)  
+   Link: <a href="https://vacunasaep.org/sites/vacunasaep.org/files/wakefield-fraude-timeline-bdeer-bmj.pdf?1677708521=" target="_blank" rel="noopener noreferrer nofollow">https://vacunasaep.org/sites/vacunasaep.org/files/wakefield-fraude-timeline-bdeer-bmj.pdf?1677708521=</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Patent Applicationmisconduct by the Lancet paper&#x27;s three senior authors, Wakefield, Walker-. Smith, and endoscopist. Simon Murch. Fe...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: science.org  
    Title: british medical journal charges fraud autism vaccine paper  
-   Link: [https://www.science.org/content/article/british-medical-journal-charges-fraud-autism-vaccine-paper](https://www.science.org/content/article/british-medical-journal-charges-fraud-autism-vaccine-paper)  
+   Link: <a href="https://www.science.org/content/article/british-medical-journal-charges-fraud-autism-vaccine-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/british-medical-journal-charges-fraud-autism-vaccine-paper</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>British Medical Journal Charges Fraud in Autism-Vaccine...A 1998 paper linking autism to vaccines, which set off a panic about childhood...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/21896/chapter/21](https://www.nationalacademies.org/read/21896/chapter/21)  
+   Link: <a href="https://www.nationalacademies.org/read/21896/chapter/21" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/21896/chapter/21</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[http://briandeer.com/mmr/lancet-summary.htm](http://briandeer.com/mmr/lancet-summary.htm). Deer, B. 2011b. How the case against the MMR vaccine was fixed...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: contagionlive.com  
    Title: the modern day foundation of how medical disinformation began  
-   Link: [https://www.contagionlive.com/view/the-modern-day-foundation-of-how-medical-disinformation-began](https://www.contagionlive.com/view/the-modern-day-foundation-of-how-medical-disinformation-began)  
+   Link: <a href="https://www.contagionlive.com/view/the-modern-day-foundation-of-how-medical-disinformation-began" target="_blank" rel="noopener noreferrer nofollow">https://www.contagionlive.com/view/the-modern-day-foundation-of-how-medical-disinformation-began</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Modern-Day Foundation of How Medical...Jun 26, 2024 — It took until February 2010 for the Lancet to officially retract the paper, an...</p></details>
    Published: February 2010  
 
 27. <a id="endnote-27"></a>
    Source: pbs.org  
    Title: journal study that linked vaccines and autism was fraudulent  
-   Link: [https://www.pbs.org/newshour/health/journal-study-that-linked-vaccines-and-autism-was-fraudulent](https://www.pbs.org/newshour/health/journal-study-that-linked-vaccines-and-autism-was-fraudulent)  
+   Link: <a href="https://www.pbs.org/newshour/health/journal-study-that-linked-vaccines-and-autism-was-fraudulent" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/health/journal-study-that-linked-vaccines-and-autism-was-fraudulent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal: Study That Linked Vaccine and Autism Was &#x27;...Jan 6, 2011 — A study that linked the Measles, Mumps &amp; Rubella (MMR) vaccine to au...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: cidrap.umn.edu  
    Title: report says 1998 vaccine autism study was fraud  
-   Link: [https://www.cidrap.umn.edu/public-health/report-says-1998-vaccine-autism-study-was-fraud](https://www.cidrap.umn.edu/public-health/report-says-1998-vaccine-autism-study-was-fraud)  
+   Link: <a href="https://www.cidrap.umn.edu/public-health/report-says-1998-vaccine-autism-study-was-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.cidrap.umn.edu/public-health/report-says-1998-vaccine-autism-study-was-fraud</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>says 1998 vaccine-autism study was fraudJan 6, 2011 — The article was retracted by the Lancet in February 2010. Wakefield was censured by...</p></details>
    Published: February 2010  
 
 29. <a id="endnote-29"></a>
    Source: bps.stanford.edu  
    Title: instances scientific misconduct vaccine research leading anti  
-   Link: [https://bps.stanford.edu/home/instances-scientific-misconduct/instances-scientific-misconduct-vaccine-research-leading-anti](https://bps.stanford.edu/home/instances-scientific-misconduct/instances-scientific-misconduct-vaccine-research-leading-anti)  
+   Link: <a href="https://bps.stanford.edu/home/instances-scientific-misconduct/instances-scientific-misconduct-vaccine-research-leading-anti" target="_blank" rel="noopener noreferrer nofollow">https://bps.stanford.edu/home/instances-scientific-misconduct/instances-scientific-misconduct-vaccine-research-leading-anti</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Fraud... Wakefield&#x27;s article linking MMR vaccine and autism was fraudulent (TheBMJ...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Lancet MMR vaccine autism report  
-   Link: [https://en.wikipedia.org/wiki/Lancet_MMR_vaccine-autism_report](https://en.wikipedia.org/wiki/Lancet_MMR_vaccine-autism_report)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lancet_MMR_vaccine-autism_report" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lancet_MMR_vaccine-autism_report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lancet MMR vaccine-autism reportThe Lancet paper was partially retracted in 2004 and fully retracted in 2010... &quot;A statement by Dr An...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: theguardian.com  
    Title: andrew wakefield sues bmj mmr  
-   Link: [https://www.theguardian.com/society/2012/jan/05/andrew-wakefield-sues-bmj-mmr](https://www.theguardian.com/society/2012/jan/05/andrew-wakefield-sues-bmj-mmr)  
+   Link: <a href="https://www.theguardian.com/society/2012/jan/05/andrew-wakefield-sues-bmj-mmr" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2012/jan/05/andrew-wakefield-sues-bmj-mmr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Andrew Wakefield sues BMJ for claiming MMR study was...5 Jan 2012 — Andrew Wakefield, the doctor who was struck off the medical register...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: pbs.org  
    Title: europe jan june10 lancet 0204  
-   Link: [https://www.pbs.org/newshour/health/europe-jan-june10-lancet_0204](https://www.pbs.org/newshour/health/europe-jan-june10-lancet_0204)  
+   Link: <a href="https://www.pbs.org/newshour/health/europe-jan-june10-lancet_0204" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/health/europe-jan-june10-lancet_0204</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal Retracts Study Backing Vaccine-Autism LinkThe Lancet medical journal fully retracted a 1998 paper Tuesday that first suggested a...</p></details>

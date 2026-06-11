@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_emotional_manipulati_23d385
 - Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_fact_vs_tactic_prebu_0fea6e
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - prebunking
 - fading-effects
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - prebunking
 - fading-effects
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A prebunk can improve recognition of manipulation, but its effects may weaken unless people see reminders in the right places.
 hero_summary: A prebunk can improve recognition of manipulation, but its effects may weaken unless people see reminders in the right places.
 layout: default
 permalink: /fading-effects/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /prebunking/
 nav_short_title: Fading effects
 title: Why one prebunk is not permanent immunity
-title_full: Why one prebunk is not permanent immunity | Prebunking
+title_full: Why one prebunk is not permanent immunity
 display_title_short: Fading effects
 display_title: Fading effects
 heading_title: Why one prebunk is not permanent immunity
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can You Protect People Before Myths Spread? | Mythcraft
+parent_title: Can You Protect People Before Myths Spread?
 parent_permalink: /prebunking/
 parent_nav_short_title: Prebunking
 parent_heading_title: Can You Protect People Before Myths Spread?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Should a prebunk name the myth or the trick?
 up_link:
   basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
@@ -259,7 +259,7 @@ prev_link:
   permalink: /fact-vs-tactic/
   short_title: Fact vs tactic
   heading_title: Should a prebunk name the myth or the trick?
-date: '2026-06-09 05:47:18 '
+date: '2026-06-11 22:43:29 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_prebunking_fading_ef_b362f3-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_prebunking_fading_ef_b362f3-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_pr
 
 ## Introduction
 
-Prebunking can make people more resistant to misinformation, but it does not create permanent immunity. Research on psychological inoculation consistently finds that warning people about manipulation techniques can improve their ability to recognise misleading content, yet those gains tend to weaken over time unless they are refreshed. The practical implication is important: a successful prebunk should be understood as the beginning of a process rather than a one-off intervention. Just as people forget lessons that are not revisited, they can lose some of the mental habits that help them spot deceptive tactics. The strongest evidence therefore points towards reinforcement, reminders and repeated exposure as key parts of any long-term prebunking strategy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.repository.cam.ac.uk/bitstreams/a1b6beb6-d854-4865-90e8-8d0b3d49dcbe/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.cam.ac.uk">[Cambridge Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.cam.ac.uk</span><span class="citation-popover-title">Cambridge Repository Long-Term Effectiveness of Inoculation Against</span><span class="citation-popover-snippet">Cambridge RepositoryLong-Term Effectiveness of Inoculation Against...December 17, 2021 — by R Maertens · 2021 · Cited by 482 — The most...</span><span class="citation-popover-meta">Published: December 17, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3A690e9fed-1ea8-43ac-a40a-9dddded162eb/files/r707958784" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">Oxford University Research ArchiveMisinformation interventions decay rapidly without an...by G Capewell · 2024 · Cited by 36 — In recent...</span></span></span>
-
+Prebunking can make people more resistant to misinformation, but it does not create permanent immunity. Research on psychological inoculation consistently finds that warning people about manipulation techniques can improve their ability to recognise misleading content, yet those gains tend to weaken over time unless they are refreshed. The practical implication is important: a successful prebunk should be understood as the beginning of a process rather than a one-off intervention. Just as people forget lessons that are not revisited, they can lose some of the mental habits that help them spot deceptive tactics. The strongest evidence therefore points towards reinforcement, reminders and repeated exposure as key parts of any long-term prebunking strategy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.repository.cam.ac.uk/bitstreams/a1b6beb6-d854-4865-90e8-8d0b3d49dcbe/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.cam.ac.uk">[Cambridge Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.cam.ac.uk</span><span class="citation-popover-title">Cambridge Repository Long-Term Effectiveness of Inoculation Against</span><span class="citation-popover-snippet">bridge RepositoryLong-Term Effectiveness of Inoculation Against...December 17, 2021 — by R Maertens · 2021 · Cited by 482 — The most...</span><span class="citation-popover-meta">Published: December 17, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3A690e9fed-1ea8-43ac-a40a-9dddded162eb/files/r707958784" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford University Research ArchiveMisinformation interventions decay rapidly without an...by G Capewell · 2024 · Cited by 36 — In recent...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_prebunking_fading_ef_b362f3-Illustration-1-dark.svg" | relative_url }}" alt="Fading effects illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_prebunking_fading_ef_b362f3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_prebunking_fading_ef_b362f3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the vaccine metaphor has limits
@@ -289,19 +288,17 @@ Another limitation is that misinformation environments evolve. A prebunk may tea
 
 The result is that prebunking is best viewed as resilience-building rather than complete protection. It can reduce susceptibility, not eliminate it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/sae/anname/v700y2022i1p136-151.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v700y2022i1p136 151</span><span class="citation-popover-snippet">IDEAS/RePEcPsychological Inoculation against Misinformation: Current...by CS Traberg · 2022 · Cited by 311 — We review a series of rando...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/sae/anname/v700y2022i1p136-151.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v700y2022i1p136 151</span><span class="citation-popover-snippet">IDEAS/RePEcPsychological Inoculation against Misinformation: Current...by CS Traberg · 2022 · Cited by 311 — We review a series of rando...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ieMrNynj8bk" title="Prebunking and inoculating against disinformation? | Sander van der Linden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ieMrNynj8bk" target="_blank" rel="noopener noreferrer">Prebunking and inoculating against disinformation? | Sander van der Linden</a></p><p class="youtube-embed-meta">Channel: Global Minds for Ukraine &middot; Views: 875 &middot; Uploaded: March 2022 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ieMrNynj8bk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ieMrNynj8bk">Open on YouTube</a></p></div></div></div>
 
 ## What field studies suggest about persistence
 
 One of the most important questions in inoculation research is how long effects last. The answer is encouraging but cautious.
 
-Studies of games, videos and message-based prebunks generally find immediate improvements in people's ability to identify manipulation techniques. Large-scale social-media experiments have shown measurable gains in misinformation resilience after brief interventions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">SciencePsychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 550 — We show that psychological inocul...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cam.ac.uk">[PubMed However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cam.ac.uk</span><span class="citation-popover-snippet">inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 588 — We show that psychological inoculation campaigns on so...</span></span></span>, longitudinal research indicates that these gains are not fixed. Reviews of inoculation studies report evidence of gradual decline over time, with some research finding noticeable decay beginning after several weeks. While certain effects can persist for months, they typically weaken without additional reinforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.repository.cam.ac.uk/bitstreams/a1b6beb6-d854-4865-90e8-8d0b3d49dcbe/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.cam.ac.uk">[Cambridge Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.cam.ac.uk</span><span class="citation-popover-title">Cambridge Repository Long-Term Effectiveness of Inoculation Against</span><span class="citation-popover-snippet">Cambridge RepositoryLong-Term Effectiveness of Inoculation Against...December 17, 2021 — by R Maertens · 2021 · Cited by 482 — The most...</span><span class="citation-popover-meta">Published: December 17, 2021</span></span></span>
+Studies of games, videos and message-based prebunks generally find immediate improvements in people's ability to identify manipulation techniques. Large-scale social-media experiments have shown measurable gains in misinformation resilience after brief interventions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 550 — We show that psychological inocul...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cam.ac.uk">[PubMed However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cam.ac.uk</span><span class="citation-popover-snippet">inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 588 — We show that psychological inoculation campaigns on so...</span></span></span>, longitudinal research indicates that these gains are not fixed. Reviews of inoculation studies report evidence of gradual decline over time, with some research finding noticeable decay beginning after several weeks. While certain effects can persist for months, they typically weaken without additional reinforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.repository.cam.ac.uk/bitstreams/a1b6beb6-d854-4865-90e8-8d0b3d49dcbe/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.cam.ac.uk">[Cambridge Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.cam.ac.uk</span><span class="citation-popover-title">Cambridge Repository Long-Term Effectiveness of Inoculation Against</span><span class="citation-popover-snippet">bridge RepositoryLong-Term Effectiveness of Inoculation Against...December 17, 2021 — by R Maertens · 2021 · Cited by 482 — The most...</span><span class="citation-popover-meta">Published: December 17, 2021</span></span></span>
 
-More recent work has examined whether “booster shots” can slow this decline. A 2025 study found that reminder interventions aimed at reactivating memory helped preserve misinformation resistance, with text- and video-based inoculation effects remaining detectable after a month and showing improved durability when supported by targeted boosters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11897321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPsychological booster shots targeting memory increase long...by R Maertens · 2025 · Cited by 76 — We find that text-based and video-b...</span></span></span>
+More recent work has examined whether “booster shots” can slow this decline. A 2025 study found that reminder interventions aimed at reactivating memory helped preserve misinformation resistance, with text- and video-based inoculation effects remaining detectable after a month and showing improved durability when supported by targeted boosters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11897321/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychological booster shots targeting memory increase long...by R Maertens · 2025 · Cited by 76 — We find that text-based and video-b...</span></span></span>
 
-The broader pattern resembles many educational interventions. People often retain some knowledge from an initial lesson, but performance improves when the material is revisited periodically. Researchers studying misinformation interventions have therefore increasingly argued that effectiveness should be measured not only by immediate gains but also by persistence under real-world conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3A690e9fed-1ea8-43ac-a40a-9dddded162eb/files/r707958784" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">Oxford University Research ArchiveMisinformation interventions decay rapidly without an...by G Capewell · 2024 · Cited by 36 — In recent...</span></span></span>
-
+The broader pattern resembles many educational interventions. People often retain some knowledge from an initial lesson, but performance improves when the material is revisited periodically. Researchers studying misinformation interventions have therefore increasingly argued that effectiveness should be measured not only by immediate gains but also by persistence under real-world conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3A690e9fed-1ea8-43ac-a40a-9dddded162eb/files/r707958784" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford University Research ArchiveMisinformation interventions decay rapidly without an...by G Capewell · 2024 · Cited by 36 — In recent...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_prebunking_fading_ef_b362f3-Illustration-2-dark.svg" | relative_url }}" alt="Fading effects illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_prebunking_fading_ef_b362f3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_prebunking_fading_ef_b362f3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why reminders matter more than repetition alone
@@ -310,11 +307,39 @@ Reinforcement does not necessarily mean repeating the same warning over and over
 
 More effective reminders tend to do three things:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **Reactivate a remembered concept.** A short prompt can remind people of a manipulation technique they previously learned.
 2. **Show a fresh example.** New examples help people transfer the lesson across topics and contexts.
+3. **Appear near relevant decisions.** A reminder is more useful when encountered close to the moment someone is reading, sharing or evaluating information. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/) [Inoculation Science](https://inoculation.science/a-practical-guide-to-prebunking-misinformation/)
+
+</div>
+
+This helps explain why social-media platforms, public-information [campaigns]({{ 'campaigns/' | relative_url }}) and media-literacy programmes increasingly experiment with brief, recurring interventions rather than relying on a single educational event. A twenty-second reminder delivered repeatedly at strategic moments may have more lasting value than a much longer lesson experienced only once. [University of Cambridge](#endnote-17 "Endnote 17") [2Science](#endnote-4 "Snippet: Author: University... inoculation theory, designed to build people's resilience to mis- and disinformation.Read more")
+
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_prebunking_fading_ef_b362f3-Illustration-3-dark.svg" | relative_url }}" alt="Fading effects illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_prebunking_fading_ef_b362f3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_prebunking_fading_ef_b362f3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How reminders can avoid cynicism and overload
+
+A challenge for reinforcement is avoiding the impression that all information is untrustworthy. Poorly designed reminders can push people towards blanket scepticism rather than thoughtful evaluation.
+
+Researchers distinguish between recognising manipulation and distrusting everything. Effective prebunks aim to increase discernment: the ability to separate reliable information from misleading information. They are not intended to encourage rejection of all claims, experts or institutions. [JMIR](#endnote-7 "Snippet: JMIRPsychological Inoculation for Credibility Assessment...by C Lu · 2023 · Cited by 105 — This study indicated that psychological inocu...")
+
+To avoid cynicism and overload, reminders generally work best when they:
+
+* Focus on specific manipulation techniques rather than broad warnings that “everything is fake”.
+* Encourage verification behaviours, such as checking sources or context.
+* Remain concise enough to fit naturally into everyday information environments.
+* Emphasise critical thinking rather than suspicion as an end in itself. [First Draft](#endnote-18 "Snippet: First DraftA guide to prebunking: a promising way to inoculate against...29 Jun 2021 — The most accessible inoculation technique is preb") [2Inoculation Science](https://inoculation.science/[debunking)
+
+There is also a practical reason to avoid excessive [repetition]({{ 'repetition/' | relative_url }}). Constant alerts can create fatigue, causing users to ignore warnings altogether. The goal is not permanent vigilance at maximum intensity, but periodic reinforcement that keeps useful recognition skills accessible when needed. [Oxford University Research Archive](#endnote-12 "Snippet: Oxford University Research ArchiveMisinformation interventions decay rapidly without an...by G Capewell · 2024 · Cited by 36 — In recent")
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1RmxeZHPeHg" title="How &quot;prebunking&quot; misinformation works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1RmxeZHPeHg" target="_blank" rel="noopener noreferrer">How &quot;prebunking&quot; misinformation works</a></p><p class="youtube-embed-meta">Channel: 60 Minutes &middot; Views: 31.2K &middot; Uploaded: March 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1RmxeZHPeHg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1RmxeZHPeHg">Open on YouTube</a></p></div></div></div>
+
+## The practical takeaway
+
+The strongest evidence does not suggest that prebunking fails because its effects fade. Rather, fading is a normal consequence of how learning and memory work. Initial exposure can create meaningful resistance to manipulation, but that resistance is strongest when supported by reminders, booster interventions and opportunities to apply the lesson in new contexts. PMC [2Cambridge Repository](#endnote-11 "Snippet: Cambridge RepositoryLong-Term Effectiveness of Inoculation Against...December 17, 2021 — by R Maertens · 2021 · Cited by 482 — The most...")
+
+For that reason, modern prebunking is increasingly framed as an ongoing resilience strategy. A well-timed warning can prepare people for misleading content, but maintaining that preparedness requires reinforcement in the places where misinformation is most likely to appear. ResearchGate [2Science](#endnote-4 "Snippet: Author: University... inoculation theory, designed to build people's resilience to mis- and disinformation.Read more")
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -708,146 +733,111 @@ More effective reminders tend to do three things:
 </script>
 </section>
 
-3. **Appear near relevant decisions.** A reminder is more useful when encountered close to the moment someone is reading, sharing or evaluating information. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/) [Inoculation Science](https://inoculation.science/a-practical-guide-to-prebunking-misinformation/)
-
-</div>
-
-This helps explain why social-media platforms, public-information [campaigns]({{ 'campaigns/' | relative_url }}) and media-literacy programmes increasingly experiment with brief, recurring interventions rather than relying on a single educational event. A twenty-second reminder delivered repeatedly at strategic moments may have more lasting value than a much longer lesson experienced only once. [University of Cambridge](#endnote-17 "Endnote 17") [2Science](#endnote-4 "Snippet: Author: University... inoculation theory, designed to build people's resilience to mis- and disinformation.Read more")
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1RmxeZHPeHg" title="How &quot;prebunking&quot; misinformation works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1RmxeZHPeHg" target="_blank" rel="noopener noreferrer">How &quot;prebunking&quot; misinformation works</a></p><p class="youtube-embed-meta">Channel: 60 Minutes &middot; Views: 31.2K &middot; Uploaded: March 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1RmxeZHPeHg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1RmxeZHPeHg">Open on YouTube</a></p></div></div></div>
-
-## How reminders can avoid cynicism and overload
-
-A challenge for reinforcement is avoiding the impression that all information is untrustworthy. Poorly designed reminders can push people towards blanket scepticism rather than thoughtful evaluation.
-
-Researchers distinguish between recognising manipulation and distrusting everything. Effective prebunks aim to increase discernment: the ability to separate reliable information from misleading information. They are not intended to encourage rejection of all claims, experts or institutions. [JMIR](#endnote-7 "Snippet: JMIRPsychological Inoculation for Credibility Assessment...by C Lu · 2023 · Cited by 105 — This study indicated that psychological inocu...")
-
-To avoid cynicism and overload, reminders generally work best when they:
-
-* Focus on specific manipulation techniques rather than broad warnings that “everything is fake”.
-* Encourage verification behaviours, such as checking sources or context.
-* Remain concise enough to fit naturally into everyday information environments.
-* Emphasise critical thinking rather than suspicion as an end in itself. [First Draft](#endnote-18 "Snippet: First DraftA guide to prebunking: a promising way to inoculate against...29 Jun 2021 — The most accessible inoculation technique is preb") [2Inoculation Science](https://inoculation.science/[debunking)
-
-There is also a practical reason to avoid excessive [repetition]({{ 'repetition/' | relative_url }}). Constant alerts can create fatigue, causing users to ignore warnings altogether. The goal is not permanent vigilance at maximum intensity, but periodic reinforcement that keeps useful recognition skills accessible when needed. [Oxford University Research Archive](#endnote-12 "Snippet: Oxford University Research ArchiveMisinformation interventions decay rapidly without an...by G Capewell · 2024 · Cited by 36 — In recent")
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_prebunking_fading_ef_b362f3-Illustration-3-dark.svg" | relative_url }}" alt="Fading effects illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_prebunking_fading_ef_b362f3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_prebunking_fading_ef_b362f3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## The practical takeaway
-
-The strongest evidence does not suggest that prebunking fails because its effects fade. Rather, fading is a normal consequence of how learning and memory work. Initial exposure can create meaningful resistance to manipulation, but that resistance is strongest when supported by reminders, booster interventions and opportunities to apply the lesson in new contexts. PMC [2Cambridge Repository](#endnote-11 "Snippet: Cambridge RepositoryLong-Term Effectiveness of Inoculation Against...December 17, 2021 — by R Maertens · 2021 · Cited by 482 — The most...")
-
-For that reason, modern prebunking is increasingly framed as an ongoing resilience strategy. A well-timed warning can prepare people for misleading content, but maintaining that preparedness requires reinforcement in the places where misinformation is most likely to appear. ResearchGate [2Science](#endnote-4 "Snippet: Author: University... inoculation theory, designed to build people's resilience to mis- and disinformation.Read more")
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LlJkZoqyqkQ" title="Disinformation: A Behavioural Science Approach - Prebunking and inoculating" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LlJkZoqyqkQ" target="_blank" rel="noopener noreferrer">Disinformation: A Behavioural Science Approach - Prebunking and inoculating</a></p><p class="youtube-embed-meta">Channel: Edelman UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LlJkZoqyqkQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LlJkZoqyqkQ">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK609022/](https://www.ncbi.nlm.nih.gov/books/NBK609022/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK609022/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roozenbeek J, van der Linden S (2019a) The [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) game: actively inoculating against the risk of misinformation. J Risk...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ideas.repec.org  
    Title: v700y2022i1p136 151  
-   Link: [https://ideas.repec.org/a/sae/anname/v700y2022i1p136-151.html](https://ideas.repec.org/a/sae/anname/v700y2022i1p136-151.html)  
+   Link: <a href="https://ideas.repec.org/a/sae/anname/v700y2022i1p136-151.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/sae/anname/v700y2022i1p136-151.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcPsychological Inoculation against Misinformation: Current...by CS Traberg · 2022 · Cited by 311 — We review a series of rando...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 123 — Research has attempted to combat misinformation using...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: inoculation.science  
-   Link: [https://inoculation.science/a-practical-guide-to-prebunking-misinformation/](https://inoculation.science/a-practical-guide-to-prebunking-misinformation/)  
+   Link: <a href="https://inoculation.science/a-practical-guide-to-prebunking-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/a-practical-guide-to-prebunking-misinformation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Author: University... inoculation theory, designed to build people&#x27;s resilience to mis- and disinformation.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11897321/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11897321/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPsychological booster shots targeting memory increase long...by R Maertens · 2025 · Cited by 76 — We find that text-based and video-b...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11897321/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11897321/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological booster shots targeting memory increase long...by R Maertens · 2025 · Cited by 76 — We find that text-based and video-b...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400035452_Prebunking_misinformation_techniques_in_social_media_feeds_Results_from_an_Instagram_field_study](https://www.researchgate.net/publication/400035452_Prebunking_misinformation_techniques_in_social_media_feeds_Results_from_an_Instagram_field_study)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGatePrebunking misinformation techniques in social media feeds28 Jan 2026 — Boosting psychological defences against misleading co...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/400035452_Prebunking_misinformation_techniques_in_social_media_feeds_Results_from_an_Instagram_field_study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400035452_Prebunking_misinformation_techniques_in_social_media_feeds_Results_from_an_Instagram_field_study</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking misinformation techniques in social media feeds28 Jan 2026 — Boosting psychological defences against misleading co...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2023/1/e49255/](https://www.jmir.org/2023/1/e49255/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JMIRPsychological Inoculation for Credibility Assessment...by C Lu · 2023 · Cited by 105 — This study indicated that psychological inocu...</p></details>
+   Link: <a href="https://www.jmir.org/2023/1/e49255/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2023/1/e49255/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Inoculation for Credibility Assessment...by C Lu · 2023 · Cited by 105 — This study indicated that psychological inocu...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: inoculation.science  
-   Link: [https://inoculation.science/[debunking](https://inoculation.science/[debunking)  
+   Link: <a href="https://inoculation.science/[debunking" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/[debunking</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking versus prebunkingThere is a refutational pre-emption or “prebunk,” where individuals are exposed to a severely weakened dose of...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
    Title: (PDF) Psychological Inoculation against Misinformation  
-   Link: [https://www.researchgate.net/publication/360386219_Psychological_Inoculation_against_Misinformation_Current_Evidence_and_Future_Directions](https://www.researchgate.net/publication/360386219_Psychological_Inoculation_against_Misinformation_Current_Evidence_and_Future_Directions)  
+   Link: <a href="https://www.researchgate.net/publication/360386219_Psychological_Inoculation_against_Misinformation_Current_Evidence_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360386219_Psychological_Inoculation_against_Misinformation_Current_Evidence_and_Future_Directions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roozenbeek, Jon, and Sander van der Linden. 2019. Fake news game confers psychological resistance. against online misinformation.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
    Title: 343511911 Psychological Inoculation Against Fake News  
-   Link: [https://www.researchgate.net/publication/343511911_Psychological_Inoculation_Against_Fake_News](https://www.researchgate.net/publication/343511911_Psychological_Inoculation_Against_Fake_News)  
+   Link: <a href="https://www.researchgate.net/publication/343511911_Psychological_Inoculation_Against_Fake_News" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343511911_Psychological_Inoculation_Against_Fake_News</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Psychological Inoculation Against Fake NewsAug 14, 2020 — This chapter explores several proposed solutions to the problem of online...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: repository.cam.ac.uk  
    Title: Cambridge Repository Long-Term Effectiveness of Inoculation Against  
-   Link: [https://www.repository.cam.ac.uk/bitstreams/a1b6beb6-d854-4865-90e8-8d0b3d49dcbe/download](https://www.repository.cam.ac.uk/bitstreams/a1b6beb6-d854-4865-90e8-8d0b3d49dcbe/download)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge RepositoryLong-Term Effectiveness of Inoculation Against...December 17, 2021 — by R Maertens · 2021 · Cited by 482 — The most...</p></details>
+   Link: <a href="https://www.repository.cam.ac.uk/bitstreams/a1b6beb6-d854-4865-90e8-8d0b3d49dcbe/download" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/bitstreams/a1b6beb6-d854-4865-90e8-8d0b3d49dcbe/download</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>bridge RepositoryLong-Term Effectiveness of Inoculation Against...December 17, 2021 — by R Maertens · 2021 · Cited by 482 — The most...</p></details>
    Published: December 17, 2021  
 
 12. <a id="endnote-12"></a>
    Source: ora.ox.ac.uk  
-   Link: [https://ora.ox.ac.uk/objects/uuid%3A690e9fed-1ea8-43ac-a40a-9dddded162eb/files/r707958784](https://ora.ox.ac.uk/objects/uuid%3A690e9fed-1ea8-43ac-a40a-9dddded162eb/files/r707958784)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford University Research ArchiveMisinformation interventions decay rapidly without an...by G Capewell · 2024 · Cited by 36 — In recent...</p></details>
+   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3A690e9fed-1ea8-43ac-a40a-9dddded162eb/files/r707958784" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3A690e9fed-1ea8-43ac-a40a-9dddded162eb/files/r707958784</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ford University Research ArchiveMisinformation interventions decay rapidly without an...by G Capewell · 2024 · Cited by 36 — In recent...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: research-information.bris.ac.uk  
    Title: University of Bristol Lewandowsky, S., & Van Der Linden, S  
-   Link: [https://research-information.bris.ac.uk/ws/portalfiles/portal/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf](https://research-information.bris.ac.uk/ws/portalfiles/portal/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/ws/portalfiles/portal/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/ws/portalfiles/portal/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2021). CounteringWe show that based on the available evidence, inoculation appears to be a promising avenue to help protect people from...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/00027162221087936](https://journals.sagepub.com/doi/10.1177/00027162221087936)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/00027162221087936" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00027162221087936</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPsychological Inoculation against MisinformationThis exploration began with a foray into using inoculation to counter climat...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/00027162221087936](https://journals.sagepub.com/doi/abs/10.1177/00027162221087936)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/00027162221087936" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/00027162221087936</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2019. Fake news game confers psychological resistance against online misinformation. Nature Humanities...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/sciadv.abo6254](https://www.science.org/doi/10.1126/sciadv.abo6254)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SciencePsychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 550 — We show that psychological inocul...</p></details>
+   Link: <a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 550 — We show that psychological inocul...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cam.ac.uk  
-   Link: [https://www.cam.ac.uk/stories/inoculateexperiment](https://www.cam.ac.uk/stories/inoculateexperiment)  
+   Link: <a href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow">https://www.cam.ac.uk/stories/inoculateexperiment</a>  
 
 18. <a id="endnote-18"></a>
    Source: firstdraftnews.org  
-   Link: [https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/](https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/)  
+   Link: <a href="https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/a-guide-to-prebunking-a-promising-way-to-inoculate-against-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First DraftA guide to prebunking: a promising way to inoculate against...29 Jun 2021 — The most accessible inoculation technique is preb...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S002210312500099X](https://www.sciencedirect.com/science/article/pii/S002210312500099X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S002210312500099X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S002210312500099X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation research. In our pre-registration, we hypothesised that the... Countering misinformation and fake news through inoculatio...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: prosocialdesign.org  
-   Link: [https://www.prosocialdesign.org/citations/psychological-inoculation-improves-resilience-against-misinformation-on-social-media](https://www.prosocialdesign.org/citations/psychological-inoculation-improves-resilience-against-misinformation-on-social-media)  
+   Link: <a href="https://www.prosocialdesign.org/citations/psychological-inoculation-improves-resilience-against-misinformation-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.prosocialdesign.org/citations/psychological-inoculation-improves-resilience-against-misinformation-on-social-media</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Advances, 8. Copy Citation. Bibliography. References.Read more...</p></details>
 
 ### Additional References
@@ -855,55 +845,55 @@ For that reason, modern prebunking is increasingly framed as an ongoing resilien
 21. <a id="endnote-21"></a>
    Source: repository.cam.ac.uk  
    Title: cam.ac.uk Psychological inoculation improves resilience against  
-   Link: [https://www.repository.cam.ac.uk/items/4b17ed50-9d06-4f9a-b163-d29f2c0b8926](https://www.repository.cam.ac.uk/items/4b17ed50-9d06-4f9a-b163-d29f2c0b8926)  
+   Link: <a href="https://www.repository.cam.ac.uk/items/4b17ed50-9d06-4f9a-b163-d29f2c0b8926" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/items/4b17ed50-9d06-4f9a-b163-d29f2c0b8926</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Apolloby J Roozenbeek · 2022 · Cited by 583 — We developed five short videos that inoculate people against manipulation techniques common...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: moodle2.units.it  
    Title: Roozenbeek, vander Linden, Goldberg, Rathje, Lewandowsky 2021  
-   Link: [https://moodle2.units.it/pluginfile.php/745151/mod_resource/content/0/Roozenbeek%2C%20vander%20Linden%2C%20Goldberg%2C%20Rathje%2C%20Lewandowsky%202021.pdf](https://moodle2.units.it/pluginfile.php/745151/mod_resource/content/0/Roozenbeek%2C%20vander%20Linden%2C%20Goldberg%2C%20Rathje%2C%20Lewandowsky%202021.pdf)  
+   Link: <a href="https://moodle2.units.it/pluginfile.php/745151/mod_resource/content/0/Roozenbeek%2C%20vander%20Linden%2C%20Goldberg%2C%20Rathje%2C%20Lewandowsky%202021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://moodle2.units.it/pluginfile.php/745151/mod_resource/content/0/Roozenbeek%2C%20vander%20Linden%2C%20Goldberg%2C%20Rathje%2C%20Lewandowsky%202021.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>van der Linden, Fake news game confers psychological resistance against online misinformation. Humanit. Soc. Sci. Commun. 5, 1–10...Read...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: [https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/](https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological inoculation improves resilience against...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36001675/](https://pubmed.ncbi.nlm.nih.gov/36001675/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36001675/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36001675/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 588 — We show that psychological inoculation campaigns on so...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: news.cornell.edu  
    Title: could inoculation limit misinformation  
-   Link: [https://news.cornell.edu/stories/2024/11/could-inoculation-limit-misinformation](https://news.cornell.edu/stories/2024/11/could-inoculation-limit-misinformation)  
+   Link: <a href="https://news.cornell.edu/stories/2024/11/could-inoculation-limit-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://news.cornell.edu/stories/2024/11/could-inoculation-limit-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cornell Chronicle4 Nov 2024 — Prior studies involving members of the research team showed that inoculation videos helped people identify...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: FORMATTED globalvaccination Jan30  
-   Link: [https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/02/FORMATTED_globalvaccination_Jan30.pdf](https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/02/FORMATTED_globalvaccination_Jan30.pdf)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/02/FORMATTED_globalvaccination_Jan30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/02/FORMATTED_globalvaccination_Jan30.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 379 — This study finds that the online “fake news” g...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Understanding the psychology of misinformation  
-   Link: [https://www.youtube.com/watch?v=2T1G9s57p_Y](https://www.youtube.com/watch?v=2T1G9s57p_Y)  
+   Link: <a href="https://www.youtube.com/watch?v=2T1G9s57p_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2T1G9s57p_Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explore how prebunking (psychological inoculation) works to build resilience against misinformation and discuss the importan...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: taylorfrancis.com  
    Title: We identify four categories  
-   Link: [https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429295379-11/psychological-inoculation-fake-news-sander-van-der-linden-jon-roozenbeek](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429295379-11/psychological-inoculation-fake-news-sander-van-der-linden-jon-roozenbeek)  
+   Link: <a href="https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429295379-11/psychological-inoculation-fake-news-sander-van-der-linden-jon-roozenbeek" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429295379-11/psychological-inoculation-fake-news-sander-van-der-linden-jon-roozenbeek</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Inoculation Against Fake News | 11by S van der Linden · 2020 · Cited by 161 — This chapter explores several proposed soluti...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ieMrNynj8bk](https://www.youtube.com/watch?v=ieMrNynj8bk)  
+   Link: <a href="https://www.youtube.com/watch?v=ieMrNynj8bk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ieMrNynj8bk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ion; 14:10 Inoculation theory; 21:25 6 degrees of manipulation...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/15405702.2026.2619473](https://www.tandfonline.com/doi/full/10.1080/15405702.2026.2619473)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/15405702.2026.2619473" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15405702.2026.2619473</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inoculation theory as a design approach to game-based...by N Henderson · 2026 — Games such as Bad News, ChamberBreaker, Misinformation i...</p></details>

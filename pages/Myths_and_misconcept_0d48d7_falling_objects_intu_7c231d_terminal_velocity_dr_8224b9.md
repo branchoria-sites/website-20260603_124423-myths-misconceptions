@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_falling_object_home_a0a135
 - Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_galileo_tower_story_53e20a
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - falling-objects
 - terminal-speed
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - falling-objects
 - terminal-speed
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Terminal velocity explains why some objects stop accelerating in air even though gravity keeps pulling them downward.
 hero_summary: Terminal velocity explains why some objects stop accelerating in air even though gravity keeps pulling them downward.
 layout: default
 permalink: /terminal-speed/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /falling-objects/
 nav_short_title: Terminal Speed
 title: Why falling objects stop speeding up
-title_full: Why falling objects stop speeding up | Falling Objects
+title_full: Why falling objects stop speeding up
 display_title_short: Terminal Speed
 display_title: Terminal Speed
 heading_title: Why falling objects stop speeding up
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Common Sense Gets Falling Objects Wrong | Mythcraft
+parent_title: Why Common Sense Gets Falling Objects Wrong
 parent_permalink: /falling-objects/
 parent_nav_short_title: Falling Objects
 parent_heading_title: Why Common Sense Gets Falling Objects Wrong
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why crumpled paper beats flat paper
 up_link:
   basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
@@ -259,7 +259,7 @@ prev_link:
   permalink: /paper-shape/
   short_title: Paper Shape
   heading_title: Why crumpled paper beats flat paper
-date: '2026-06-09 05:15:24 '
+date: '2026-06-11 22:26:43 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9-Illustration-1.webp
@@ -268,20 +268,73 @@ image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_te
 
 ## Introduction
 
-The statement that “all objects fall at the same rate” is only fully true when air resistance is absent or so small that it can be ignored. In ordinary air, [falling objects]({{ 'falling-objects/' | relative_url }}) experience drag, an upward force that grows as they move faster. Eventually that drag can become strong enough to balance the object's weight. At that point the object stops accelerating, even though gravity is still pulling downward. This steady-speed state is called **terminal velocity** or **terminal speed**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/terminal-velocity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">An object dropped from rest will increase its speed until it</span><span class="citation-popover-snippet">Encyclopedia BritannicaTerminal velocity | Definition, Examples, &amp; FactsTerminal velocity, steady speed achieved by an object freely fall...</span></span></span>
-
+The statement that all objects fall at the same rate is only fully true when air resistance is absent or so small that it can be ignored. In ordinary air, [falling objects]({{ 'falling-objects/' | relative_url }}) experience drag, an upward force that grows as they move faster. Eventually that drag can become strong enough to balance the object's weight. At that point the object stops accelerating, even though gravity is still pulling downward. This steady-speed state is called **terminal velocity** or **terminal speed**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/terminal-velocity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">An object dropped from rest will increase its speed until it</span><span class="citation-popover-snippet">Encyclopedia BritannicaTerminal velocity &#124; Definition, Examples, &amp; FactsTerminal velocity, steady speed achieved by an object freely fall...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9-Illustration-1-dark.svg" | relative_url }}" alt="Terminal Speed illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Terminal velocity is the key reason many everyday observations seem to contradict the ideal free-fall rule. A feather, a sheet of paper, a skydiver and a stone do not simply keep speeding up forever. Their motion changes because the surrounding air pushes back more strongly as speed increases. Understanding terminal velocity explains why some objects level off at a constant speed and why heavier objects of similar shape can sometimes fall faster in real atmospheric conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termv.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">GRC NASATerminal VelocityThe terminal velocity equation tells us that an object with a large cross-sectional area or a high drag coeffici...</span></span></span>
+Terminal velocity is the key reason many everyday observations seem to contradict the ideal free-fall rule. A feather, a sheet of paper, a skydiver and a stone do not simply keep speeding up forever. Their motion changes because the surrounding air pushes back more strongly as speed increases. Understanding terminal velocity explains why some objects level off at a constant speed and why heavier objects of similar shape can sometimes fall faster in real atmospheric conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termv.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">Terminal VelocityThe terminal velocity equation tells us that an object with a large cross-sectional area or a high drag coeffici...</span></span></span>
 
 ## How drag grows as speed increases
 
-When an object first begins to fall, gravity is much stronger than air resistance. The object accelerates downward and its speed rises rapidly. As that speed rises, however, the drag force also increases. For many everyday situations, drag grows approximately with the square of velocity, meaning that doubling speed can produce roughly four times as much drag. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termv.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">GRC NASATerminal VelocityThe terminal velocity equation tells us that an object with a large cross-sectional area or a high drag coeffici...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/BGP/newton1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">The drag increases until it is equal to the weight. At that point, there is no net external...Read more...</span></span></span>
+When an object first begins to fall, gravity is much stronger than air resistance. The object accelerates downward and its speed rises rapidly. As that speed rises, however, the drag force also increases. For many everyday situations, drag grows approximately with the square of velocity, meaning that doubling speed can produce roughly four times as much drag. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termv.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">Terminal VelocityThe terminal velocity equation tells us that an object with a large cross-sectional area or a high drag coeffici...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/BGP/newton1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">The drag increases until it is equal to the weight. At that point, there is no net external...Read more...</span></span></span>
 
 This creates a built-in braking effect:
 
 1. Gravity pulls downward.
 2. The object speeds up.
+3. Faster motion creates more drag. <span class="citation-chip-wrap"><a class="citation-chip" href="https://physics.stackexchange.com/questions/678547/can-drag-be-neglected-although-the-object-is-in-motion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physics.stackexchange.com">[physics.stackexchange.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physics.stackexchange.com</span><span class="citation-popover-title">can drag be neglected although the object is in motion</span><span class="citation-popover-snippet">drag be neglected, although the object is in motion?22 Nov 2021  I was researching more about drag and why two things fall at the same t...</span></span></span>
+4. More drag reduces the net downward force.
+5. Acceleration becomes smaller and smaller.
+
+The important point is that gravity does not switch off. The downward gravitational force remains. What changes is the growing upward resistance from the air. As the two forces move closer to balance, the object's acceleration decreases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsclassroom.com">[The Physics Classroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsclassroom.com</span><span class="citation-popover-snippet">The Physics ClassroomFree Fall and Air ResistanceWhy do objects that encounter air resistance ultimately reach a terminal velocity? In si...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">Falling Object with Air ResistanceThe drag equation tells us that drag (D) is equal to a drag coefficient (Cd) times one half the...</span></span></span>
+
+This is why the phrase falling does not automatically mean speeding up. An object can be falling while travelling at a perfectly constant speed.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DxnDkDwK3JA" title="Terminal Velocity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DxnDkDwK3JA" target="_blank" rel="noopener noreferrer">Terminal Velocity</a></p><p class="youtube-embed-meta">Channel: The Organic Chemistry Tutor &middot; Views: 125.9K &middot; Uploaded: July 2023 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DxnDkDwK3JA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DxnDkDwK3JA">Open on YouTube</a></p></div></div></div>
+
+## Why weight and drag can balance
+
+Terminal velocity occurs when the upward drag force becomes equal in magnitude to the downward weight of the object. At that moment, the net force is zero. According to Newton's laws, zero net force means zero acceleration. The object therefore continues moving at a constant speed instead of accelerating further. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/terminal-velocity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">An object dropped from rest will increase its speed until it</span><span class="citation-popover-snippet">Encyclopedia BritannicaTerminal velocity &#124; Definition, Examples, &amp; FactsTerminal velocity, steady speed achieved by an object freely fall...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/terminal-velocity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">An object dropped from rest will increase its speed until it</span><span class="citation-popover-snippet">Encyclopedia BritannicaTerminal velocity &#124; Definition, Examples, &amp; FactsTerminal velocity, steady speed achieved by an object freely fall...</span></span></span>
+
+A useful misconception to correct is that terminal velocity means gravity has disappeared. It has not. The situation is more like a tug-of-war ending in a draw. Gravity still pulls downward with the same force, but drag pulls upward just as strongly. Since neither side wins, the speed stops changing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://physics.stackexchange.com/questions/631724/terminal-velocity-definition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physics.stackexchange.com">[Physics Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physics.stackexchange.com</span><span class="citation-popover-snippet">Physics Stack Exchangenewtonian mechanics - Terminal Velocity DefinitionApr 24, 2021  At terminal velocity, magnitude of air resistance...</span></span></span>
+
+The balance can be broken if conditions change. A skydiver provides a clear example. Before opening a parachute, the diver reaches a high terminal velocity. When the parachute opens, the effective area exposed to the air becomes dramatically larger, causing drag to increase sharply. The previous balance disappears and the diver slows until a new, much lower terminal velocity is reached. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsclassroom.com">[The Physics Classroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsclassroom.com</span><span class="citation-popover-snippet">The Physics ClassroomFree Fall and Air ResistanceWhy do objects that encounter air resistance ultimately reach a terminal velocity? In si...</span></span></span>
+
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9-Illustration-2-dark.svg" | relative_url }}" alt="Terminal Speed illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why heavier same-shaped objects may fall faster in air
+
+Terminal velocity helps explain why the everyday intuition that heavier things fall faster sometimes appears correct.
+
+Consider two spheres with the same shape and size but different masses. They experience similar drag forces at a given speed because their shape and cross-sectional area are similar. The heavier sphere, however, has a greater weight pulling it downward. To generate enough drag to balance that larger weight, it must reach a higher speed. Its terminal velocity is therefore higher. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termvr.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">Terminal VelocityThe terminal velocity equation tells us that an object with a large cross-sectional area or a high drag coeffici...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/rktvrecv.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">Velocity During RecoveryThe terminal velocity depends on the weight, the drag coefficient, the air density and the reference area...</span></span></span>
+
+This does not mean mass directly causes greater gravitational acceleration in free fall. Instead, it means that air resistance affects the two objects differently relative to their weight. The heavier object is less disrupted by the same amount of drag, so it can continue accelerating longer before reaching its terminal speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsclassroom.com">[The Physics Classroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsclassroom.com</span><span class="citation-popover-snippet">The Physics ClassroomFree Fall and Air ResistanceWhy do objects that encounter air resistance ultimately reach a terminal velocity? In si...</span></span></span>
+
+That distinction resolves an apparent contradiction:
+
+* In a vacuum, equal gravitational acceleration means objects fall together regardless of mass. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/BGP/newton1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">The drag increases until it is equal to the weight. At that point, there is no net external...Read more...</span></span></span>
+* In air, drag changes the motion, and heavier objects of similar shape may reach the ground sooner because they achieve higher terminal velocities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termv.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">Terminal VelocityThe terminal velocity equation tells us that an object with a large cross-sectional area or a high drag coeffici...</span></span></span>
+
+The common observation is therefore not entirely wrong; it is incomplete. It reflects the influence of air resistance rather than a fundamental difference in gravitational acceleration.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/67V6ukurLFI" title="Air Resistance and Terminal Velocity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=67V6ukurLFI" target="_blank" rel="noopener noreferrer">Air Resistance and Terminal Velocity</a></p><p class="youtube-embed-meta">Channel: The Physics Classroom &middot; Views: 27.6K &middot; Uploaded: November 2019 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=67V6ukurLFI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=67V6ukurLFI">Open on YouTube</a></p></div></div></div>
+
+## Why shape often matters more than weight
+
+Terminal velocity depends not only on mass but also on the way an object presents itself to the air. A large projected area or an inefficient shape creates more drag and lowers terminal velocity. A compact, streamlined shape creates less drag and allows a higher terminal velocity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/BGP/newton1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">The drag increases until it is equal to the weight. At that point, there is no net external...Read more...</span></span></span>
+
+This is why a crumpled sheet of paper falls much faster than the same sheet left flat. The mass barely changes, but the interaction with the air changes dramatically. The flat sheet generates strong drag at low speeds, while the crumpled version has a much smaller area facing the airflow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spark.iop.org/episode-209-drag-air-resistance-terminal-velocity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spark.iop.org">[IOPSpark]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spark.iop.org</span><span class="citation-popover-snippet">SparkEpisode 209: Drag, air resistance, terminal velocity &#124; IOPSparkDuring the discussion, you will be able to introduce and define th...</span></span></span>
+
+The same principle explains why parachutes work. A parachute deliberately increases the area interacting with the air, raising drag until the terminal velocity becomes low enough for a safe landing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">Falling Object with Air ResistanceThe drag equation tells us that drag (D) is equal to a drag coefficient (Cd) times one half the...</span></span></span>
+
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9-Illustration-3-dark.svg" | relative_url }}" alt="Terminal Speed illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What terminal velocity changes about the falling-object myth
+
+Terminal velocity changes the question from Which object has more gravity pulling on it? to How do gravity and drag interact as speed increases?
+
+Without air resistance, a falling object keeps accelerating at roughly 9.8 metres per second squared near Earth's surface. With air resistance, acceleration gradually shrinks as drag grows. Eventually the object reaches a speed where additional acceleration stops altogether. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/falling-object-with-air-resistance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www1.grc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www1.grc.nasa.gov</span><span class="citation-popover-title">falling object with air resistance</span><span class="citation-popover-snippet">Falling Object with Air Resistance &#124; Glenn Research CenterJul 18, 2024  The drag equation tells us that drag D is equal to a drag co...</span></span></span>
+
+That is why real-world falling does not look like ideal textbook free fall. Objects moving through air can have very different terminal velocities depending on their weight, size and shape. The result is that feathers drift, raindrops settle at characteristic speeds, parachutes descend gently and dense compact objects often reach the ground first. Terminal velocity does not overturn the principle that gravity accelerates all objects equally in free fall; it explains why ordinary falls in air often look different. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/terminal-velocity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">An object dropped from rest will increase its speed until it</span><span class="citation-popover-snippet">Encyclopedia BritannicaTerminal velocity &#124; Definition, Examples, &amp; FactsTerminal velocity, steady speed achieved by an object freely fall...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/terminal-velocity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">An object dropped from rest will increase its speed until it</span><span class="citation-popover-snippet">Encyclopedia BritannicaTerminal velocity &#124; Definition, Examples, &amp; FactsTerminal velocity, steady speed achieved by an object freely fall...</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QknB5mG4_Ts" title="Free Fall and Newtons Second Law" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QknB5mG4_Ts" target="_blank" rel="noopener noreferrer">Free Fall and Newtons Second Law</a></p><p class="youtube-embed-meta">Channel: The Physics Classroom &middot; Views: 21.4K &middot; Uploaded: November 2019 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QknB5mG4_Ts" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QknB5mG4_Ts">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -302,7 +355,7 @@ This creates a built-in braking effect:
         </h4>
         <p class="fr-book-author">By Richard Phillips Feynman, Paul Davies</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Physics, FÃ­sica, Obras de divulgaciÃ³n, Natuurkunde, Long Now Manual for Civilization.</p>
+        <p class="fr-book-desc">First published 1994. Subjects: Physics, Física, Obras de divulgación, Natuurkunde, Long Now Manual for Civilization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Six+Easy+Pieces+Richard+Phillips+Feynman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -675,247 +728,187 @@ This creates a built-in braking effect:
 </script>
 </section>
 
-3. Faster motion creates more drag. <span class="citation-chip-wrap"><a class="citation-chip" href="https://physics.stackexchange.com/questions/678547/can-drag-be-neglected-although-the-object-is-in-motion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physics.stackexchange.com">[physics.stackexchange.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physics.stackexchange.com</span><span class="citation-popover-title">can drag be neglected although the object is in motion</span><span class="citation-popover-snippet">drag be neglected, although the object is in motion?22 Nov 2021 — I was researching more about drag and why two things fall at the same t...</span></span></span>
-4. More drag reduces the net downward force.
-5. Acceleration becomes smaller and smaller.
-
-The important point is that gravity does not switch off. The downward gravitational force remains. What changes is the growing upward resistance from the air. As the two forces move closer to balance, the object's acceleration decreases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsclassroom.com">[The Physics Classroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsclassroom.com</span><span class="citation-popover-snippet">The Physics ClassroomFree Fall and Air ResistanceWhy do objects that encounter air resistance ultimately reach a terminal velocity? In si...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">GRC NASAFalling Object with Air ResistanceThe drag equation tells us that drag (D) is equal to a drag coefficient (Cd) times one half the...</span></span></span>
-
-This is why the phrase “falling” does not automatically mean “speeding up”. An object can be falling while travelling at a perfectly constant speed.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DxnDkDwK3JA" title="Terminal Velocity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DxnDkDwK3JA" target="_blank" rel="noopener noreferrer">Terminal Velocity</a></p><p class="youtube-embed-meta">Channel: The Organic Chemistry Tutor &middot; Views: 125.9K &middot; Uploaded: July 2023 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DxnDkDwK3JA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DxnDkDwK3JA">Open on YouTube</a></p></div></div></div>
-
-## Why weight and drag can balance
-
-Terminal velocity occurs when the upward drag force becomes equal in magnitude to the downward weight of the object. At that moment, the net force is zero. According to Newton's laws, zero net force means zero acceleration. The object therefore continues moving at a constant speed instead of accelerating further. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/terminal-velocity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">An object dropped from rest will increase its speed until it</span><span class="citation-popover-snippet">Encyclopedia BritannicaTerminal velocity | Definition, Examples, &amp; FactsTerminal velocity, steady speed achieved by an object freely fall...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/terminal-velocity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">An object dropped from rest will increase its speed until it</span><span class="citation-popover-snippet">Encyclopedia BritannicaTerminal velocity | Definition, Examples, &amp; FactsTerminal velocity, steady speed achieved by an object freely fall...</span></span></span>
-
-A useful misconception to correct is that terminal velocity means gravity has disappeared. It has not. The situation is more like a tug-of-war ending in a draw. Gravity still pulls downward with the same force, but drag pulls upward just as strongly. Since neither side wins, the speed stops changing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://physics.stackexchange.com/questions/631724/terminal-velocity-definition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physics.stackexchange.com">[Physics Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physics.stackexchange.com</span><span class="citation-popover-snippet">Physics Stack Exchangenewtonian mechanics - Terminal Velocity DefinitionApr 24, 2021 — At terminal velocity, magnitude of air resistance...</span></span></span>
-
-The balance can be broken if conditions change. A skydiver provides a clear example. Before opening a parachute, the diver reaches a high terminal velocity. When the parachute opens, the effective area exposed to the air becomes dramatically larger, causing drag to increase sharply. The previous balance disappears and the diver slows until a new, much lower terminal velocity is reached. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsclassroom.com">[The Physics Classroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsclassroom.com</span><span class="citation-popover-snippet">The Physics ClassroomFree Fall and Air ResistanceWhy do objects that encounter air resistance ultimately reach a terminal velocity? In si...</span></span></span>
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9-Illustration-2-dark.svg" | relative_url }}" alt="Terminal Speed illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Why heavier same-shaped objects may fall faster in air
-
-Terminal velocity helps explain why the everyday intuition that “heavier things fall faster” sometimes appears correct.
-
-Consider two spheres with the same shape and size but different masses. They experience similar drag forces at a given speed because their shape and cross-sectional area are similar. The heavier sphere, however, has a greater weight pulling it downward. To generate enough drag to balance that larger weight, it must reach a higher speed. Its terminal velocity is therefore higher. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termvr.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">GRC NASATerminal VelocityThe terminal velocity equation tells us that an object with a large cross-sectional area or a high drag coeffici...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/rktvrecv.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">GRC NASAVelocity During RecoveryThe terminal velocity depends on the weight, the drag coefficient, the air density and the reference area...</span></span></span>
-
-This does not mean mass directly causes greater gravitational acceleration in free fall. Instead, it means that air resistance affects the two objects differently relative to their weight. The heavier object is less disrupted by the same amount of drag, so it can continue accelerating longer before reaching its terminal speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsclassroom.com">[The Physics Classroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsclassroom.com</span><span class="citation-popover-snippet">The Physics ClassroomFree Fall and Air ResistanceWhy do objects that encounter air resistance ultimately reach a terminal velocity? In si...</span></span></span>
-
-That distinction resolves an apparent contradiction:
-
-* In a vacuum, equal gravitational acceleration means objects fall together regardless of mass. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/BGP/newton1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">The drag increases until it is equal to the weight. At that point, there is no net external...Read more...</span></span></span>
-* In air, drag changes the motion, and heavier objects of similar shape may reach the ground sooner because they achieve higher terminal velocities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termv.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">GRC NASATerminal VelocityThe terminal velocity equation tells us that an object with a large cross-sectional area or a high drag coeffici...</span></span></span>
-
-The common observation is therefore not entirely wrong; it is incomplete. It reflects the influence of air resistance rather than a fundamental difference in gravitational acceleration.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/67V6ukurLFI" title="Air Resistance and Terminal Velocity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=67V6ukurLFI" target="_blank" rel="noopener noreferrer">Air Resistance and Terminal Velocity</a></p><p class="youtube-embed-meta">Channel: The Physics Classroom &middot; Views: 27.6K &middot; Uploaded: November 2019 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=67V6ukurLFI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=67V6ukurLFI">Open on YouTube</a></p></div></div></div>
-
-## Why shape often matters more than weight
-
-Terminal velocity depends not only on mass but also on the way an object presents itself to the air. A large projected area or an inefficient shape creates more drag and lowers terminal velocity. A compact, streamlined shape creates less drag and allows a higher terminal velocity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/BGP/newton1a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">The drag increases until it is equal to the weight. At that point, there is no net external...Read more...</span></span></span>
-
-This is why a crumpled sheet of paper falls much faster than the same sheet left flat. The mass barely changes, but the interaction with the air changes dramatically. The flat sheet generates strong drag at low speeds, while the crumpled version has a much smaller area facing the airflow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spark.iop.org/episode-209-drag-air-resistance-terminal-velocity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spark.iop.org">[IOPSpark]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spark.iop.org</span><span class="citation-popover-snippet">IOPSparkEpisode 209: Drag, air resistance, terminal velocity | IOPSparkDuring the discussion, you will be able to introduce and define th...</span></span></span>
-
-The same principle explains why parachutes work. A parachute deliberately increases the area interacting with the air, raising drag until the terminal velocity becomes low enough for a safe landing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">GRC NASAFalling Object with Air ResistanceThe drag equation tells us that drag (D) is equal to a drag coefficient (Cd) times one half the...</span></span></span>
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9-Illustration-3-dark.svg" | relative_url }}" alt="Terminal Speed illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## What terminal velocity changes about the falling-object myth
-
-Terminal velocity changes the question from “Which object has more gravity pulling on it?” to “How do gravity and drag interact as speed increases?”
-
-Without air resistance, a falling object keeps accelerating at roughly 9.8 metres per second squared near Earth's surface. With air resistance, acceleration gradually shrinks as drag grows. Eventually the object reaches a speed where additional acceleration stops altogether. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/falling-object-with-air-resistance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www1.grc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www1.grc.nasa.gov</span><span class="citation-popover-title">falling object with air resistance</span><span class="citation-popover-snippet">NASAFalling Object with Air Resistance | Glenn Research CenterJul 18, 2024 — The drag equation tells us that drag D is equal to a drag co...</span></span></span>
-
-That is why real-world falling does not look like ideal textbook free fall. Objects moving through air can have very different terminal velocities depending on their weight, size and shape. The result is that feathers drift, raindrops settle at characteristic speeds, parachutes descend gently and dense compact objects often reach the ground first. Terminal velocity does not overturn the principle that gravity accelerates all objects equally in free fall; it explains why ordinary falls in air often look different. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/terminal-velocity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">An object dropped from rest will increase its speed until it</span><span class="citation-popover-snippet">Encyclopedia BritannicaTerminal velocity | Definition, Examples, &amp; FactsTerminal velocity, steady speed achieved by an object freely fall...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/science/terminal-velocity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">An object dropped from rest will increase its speed until it</span><span class="citation-popover-snippet">Encyclopedia BritannicaTerminal velocity | Definition, Examples, &amp; FactsTerminal velocity, steady speed achieved by an object freely fall...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QknB5mG4_Ts" title="Free Fall and Newtons Second Law" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QknB5mG4_Ts" target="_blank" rel="noopener noreferrer">Free Fall and Newtons Second Law</a></p><p class="youtube-embed-meta">Channel: The Physics Classroom &middot; Views: 21.4K &middot; Uploaded: November 2019 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QknB5mG4_Ts" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QknB5mG4_Ts">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: britannica.com  
    Title: An object dropped from rest will increase its speed until it  
-   Link: [https://www.britannica.com/science/terminal-velocity](https://www.britannica.com/science/terminal-velocity)  
+   Link: <a href="https://www.britannica.com/science/terminal-velocity" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/terminal-velocity</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaTerminal velocity | Definition, Examples, &amp; FactsTerminal velocity, steady speed achieved by an object freely fall...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: grc.nasa.gov  
-   Link: [https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termv.html](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termv.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GRC NASATerminal VelocityThe terminal velocity equation tells us that an object with a large cross-sectional area or a high drag coeffici...</p></details>
+   Link: <a href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termv.html" target="_blank" rel="noopener noreferrer nofollow">https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termv.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Terminal VelocityThe terminal velocity equation tells us that an object with a large cross-sectional area or a high drag coeffici...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: grc.nasa.gov  
-   Link: [https://www.grc.nasa.gov/www/k-12/BGP/newton1a.html](https://www.grc.nasa.gov/www/k-12/BGP/newton1a.html)  
+   Link: <a href="https://www.grc.nasa.gov/www/k-12/BGP/newton1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.grc.nasa.gov/www/k-12/BGP/newton1a.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The drag increases until it is equal to the weight. At that point, there is no net external...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: www1.grc.nasa.gov  
    Title: falling object with air resistance  
-   Link: [https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/falling-object-with-air-resistance/](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/falling-object-with-air-resistance/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAFalling Object with Air Resistance | Glenn Research CenterJul 18, 2024 — The drag equation tells us that drag D is equal to a drag co...</p></details>
+   Link: <a href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/falling-object-with-air-resistance/" target="_blank" rel="noopener noreferrer nofollow">https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/falling-object-with-air-resistance/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Falling Object with Air Resistance | Glenn Research CenterJul 18, 2024  The drag equation tells us that drag D is equal to a drag co...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: grc.nasa.gov  
-   Link: [https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GRC NASAFalling Object with Air ResistanceThe drag equation tells us that drag (D) is equal to a drag coefficient (Cd) times one half the...</p></details>
+   Link: <a href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html" target="_blank" rel="noopener noreferrer nofollow">https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Falling Object with Air ResistanceThe drag equation tells us that drag (D) is equal to a drag coefficient (Cd) times one half the...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/science/Stokess-law](https://www.britannica.com/science/Stokess-law)  
+   Link: <a href="https://www.britannica.com/science/Stokess-law" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/Stokess-law</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaStokes&#x27;s law | Definition, Formula, &amp; FactsAt a constant velocity of fall called the terminal velocity, the upward...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: grc.nasa.gov  
-   Link: [https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termvr.html](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termvr.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GRC NASATerminal VelocityThe terminal velocity equation tells us that an object with a large cross-sectional area or a high drag coeffici...</p></details>
+   Link: <a href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termvr.html" target="_blank" rel="noopener noreferrer nofollow">https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termvr.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Terminal VelocityThe terminal velocity equation tells us that an object with a large cross-sectional area or a high drag coeffici...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: grc.nasa.gov  
-   Link: [https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/rktvrecv.html](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/rktvrecv.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GRC NASAVelocity During RecoveryThe terminal velocity depends on the weight, the drag coefficient, the air density and the reference area...</p></details>
+   Link: <a href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/rktvrecv.html" target="_blank" rel="noopener noreferrer nofollow">https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/rktvrecv.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Velocity During RecoveryThe terminal velocity depends on the weight, the drag coefficient, the air density and the reference area...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: www1.grc.nasa.gov  
    Title: Motion of Free Falling Object | Glenn Research Center  
-   Link: [https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/motion-of-free-falling-object/](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/motion-of-free-falling-object/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAMotion of Free Falling Object | Glenn Research Center - NASAJul 3, 2025 — An object that falls through a vacuum is subjected to only...</p></details>
+   Link: <a href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/motion-of-free-falling-object/" target="_blank" rel="noopener noreferrer nofollow">https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/motion-of-free-falling-object/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Motion of Free Falling Object | Glenn Research Center - NASAJul 3, 2025  An object that falls through a vacuum is subjected to only...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/science/drag-coefficient](https://www.britannica.com/science/drag-coefficient)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drag coefficient | fluid mechanics8 days ago — Drag forces are conventionally described by a drag coefficient, defined irrespective of th...</p></details>
+   Link: <a href="https://www.britannica.com/science/drag-coefficient" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/drag-coefficient</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drag coefficient | fluid mechanics8 days ago  Drag forces are conventionally described by a drag coefficient, defined irrespective of th...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANASA investigates the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. NASA...</p></details>
+   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA investigates the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. NASA...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/science/generalized-velocity](https://www.britannica.com/science/generalized-velocity)  
+   Link: <a href="https://www.britannica.com/science/generalized-velocity" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/generalized-velocity</a>  
 
 13. <a id="endnote-13"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/science/ballistics](https://www.britannica.com/science/ballistics)  
+   Link: <a href="https://www.britannica.com/science/ballistics" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/ballistics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ballistics | Internal, External &amp; Terminal EffectsBelow the speed of sound, the drag is roughly proportional to the square of the velocit...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/science/drag](https://www.britannica.com/science/drag)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerodynamics, Air Resistance &amp; Turbulence19 Mar 2026 — Drag, force exerted by a fluid stream on any obstacle in its path or felt by an ob...</p></details>
+   Link: <a href="https://www.britannica.com/science/drag" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/drag</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerodynamics, Air Resistance &amp; Turbulence19 Mar 2026  Drag, force exerted by a fluid stream on any obstacle in its path or felt by an ob...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: physicsclassroom.com  
-   Link: [https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance](https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance)  
+   Link: <a href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Physics ClassroomFree Fall and Air ResistanceWhy do objects that encounter air resistance ultimately reach a terminal velocity? In si...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: physics.stackexchange.com  
-   Link: [https://physics.stackexchange.com/questions/631724/terminal-velocity-definition](https://physics.stackexchange.com/questions/631724/terminal-velocity-definition)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physics Stack Exchangenewtonian mechanics - Terminal Velocity DefinitionApr 24, 2021 — At terminal velocity, magnitude of air resistance...</p></details>
+   Link: <a href="https://physics.stackexchange.com/questions/631724/terminal-velocity-definition" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/631724/terminal-velocity-definition</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physics Stack Exchangenewtonian mechanics - Terminal Velocity DefinitionApr 24, 2021  At terminal velocity, magnitude of air resistance...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: physicsclassroom.com  
    Title: The Physics Classroom Air Resistance and Terminal Velocity  
-   Link: [https://www.physicsclassroom.com/Teacher-Toolkits/Terminal-Velocity/Terminal-Velocity-Complete-ToolKit](https://www.physicsclassroom.com/Teacher-Toolkits/Terminal-Velocity/Terminal-Velocity-Complete-ToolKit)  
+   Link: <a href="https://www.physicsclassroom.com/Teacher-Toolkits/Terminal-Velocity/Terminal-Velocity-Complete-ToolKit" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsclassroom.com/Teacher-Toolkits/Terminal-Velocity/Terminal-Velocity-Complete-ToolKit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Physics ClassroomAir Resistance and Terminal Velocity - Complete ToolkitThe video will help kids understand that terminal velocity in...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: physicsclassroom.com  
-   Link: [https://www.physicsclassroom.com/Physics-Video-Tutorial/Newtons-Laws/Air-Resistance-and-Terminal-Velocity](https://www.physicsclassroom.com/Physics-Video-Tutorial/Newtons-Laws/Air-Resistance-and-Terminal-Velocity)  
+   Link: <a href="https://www.physicsclassroom.com/Physics-Video-Tutorial/Newtons-Laws/Air-Resistance-and-Terminal-Velocity" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsclassroom.com/Physics-Video-Tutorial/Newtons-Laws/Air-Resistance-and-Terminal-Velocity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The influence of air resistance...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: spark.iop.org  
-   Link: [https://spark.iop.org/episode-209-drag-air-resistance-terminal-velocity](https://spark.iop.org/episode-209-drag-air-resistance-terminal-velocity)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IOPSparkEpisode 209: Drag, air resistance, terminal velocity | IOPSparkDuring the discussion, you will be able to introduce and define th...</p></details>
+   Link: <a href="https://spark.iop.org/episode-209-drag-air-resistance-terminal-velocity" target="_blank" rel="noopener noreferrer nofollow">https://spark.iop.org/episode-209-drag-air-resistance-terminal-velocity</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>SparkEpisode 209: Drag, air resistance, terminal velocity | IOPSparkDuring the discussion, you will be able to introduce and define th...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Terminal velocity  
-   Link: [https://en.wikipedia.org/wiki/Terminal_velocity](https://en.wikipedia.org/wiki/Terminal_velocity)  
+   Link: <a href="https://en.wikipedia.org/wiki/Terminal_velocity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Terminal_velocity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Terminal velocityWhen the terminal velocity is reached the weight of the object is exactly balanced by the upward buoyancy force and d...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/NASA](https://en.wikipedia.org/wiki/NASA)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration (NASA /ˈnæsə/) is an independent agency of the U.S. federal government responsib...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration (NASA /ns/) is an independent agency of the U.S. federal government responsib...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: physics.stackexchange.com  
    Title: can drag be neglected although the object is in motion  
-   Link: [https://physics.stackexchange.com/questions/678547/can-drag-be-neglected-although-the-object-is-in-motion](https://physics.stackexchange.com/questions/678547/can-drag-be-neglected-although-the-object-is-in-motion)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>drag be neglected, although the object is in motion?22 Nov 2021 — I was researching more about drag and why two things fall at the same t...</p></details>
+   Link: <a href="https://physics.stackexchange.com/questions/678547/can-drag-be-neglected-although-the-object-is-in-motion" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/678547/can-drag-be-neglected-although-the-object-is-in-motion</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>drag be neglected, although the object is in motion?22 Nov 2021  I was researching more about drag and why two things fall at the same t...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: kureansiklopedi.com  
-   Link: [https://kureansiklopedi.com/en/detay/terminal-velocity-3d6f3](https://kureansiklopedi.com/en/detay/terminal-velocity-3d6f3)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terminal Velocity | KÜRE EncyclopediaMay 31, 2025 — Terminal velocity is the constant speed attained by a freely falling object when the...</p></details>
+   Link: <a href="https://kureansiklopedi.com/en/detay/terminal-velocity-3d6f3" target="_blank" rel="noopener noreferrer nofollow">https://kureansiklopedi.com/en/detay/terminal-velocity-3d6f3</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terminal Velocity | KRE EncyclopediaMay 31, 2025  Terminal velocity is the constant speed attained by a freely falling object when the...</p></details>
    Published: May 31, 2025  
 
 24. <a id="endnote-24"></a>
    Source: courses.lumenlearning.com  
    Title: 5 2 drag forces  
-   Link: [https://courses.lumenlearning.com/suny-physics/chapter/5-2-drag-forces/](https://courses.lumenlearning.com/suny-physics/chapter/5-2-drag-forces/)  
+   Link: <a href="https://courses.lumenlearning.com/suny-physics/chapter/5-2-drag-forces/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-physics/chapter/5-2-drag-forces/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Forces | PhysicsThe terminal velocity of a person falling in air depends upon the weight and the area of the person facing the fluid. Fin...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: lessonplanet.com  
-   Link: [https://www.lessonplanet.com/teachers/the-physics-classroom-free-fall-and-air-resistance](https://www.lessonplanet.com/teachers/the-physics-classroom-free-fall-and-air-resistance)  
+   Link: <a href="https://www.lessonplanet.com/teachers/the-physics-classroom-free-fall-and-air-resistance" target="_blank" rel="noopener noreferrer nofollow">https://www.lessonplanet.com/teachers/the-physics-classroom-free-fall-and-air-resistance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Physics Classroom: Free Fall and Air ResistanceThis lesson in high school physics on Newton&#x27;s Second Law of Motion provides a discuss...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: theexpertta.com  
-   Link: [https://www.theexpertta.com/book-files/OpenStaxUniversityPhysicsVol1/UP1_6.4.%20Drag%20Force%20and%20Terminal%20Speed_pg302-310.pdf](https://www.theexpertta.com/book-files/OpenStaxUniversityPhysicsVol1/UP1_6.4.%20Drag%20Force%20and%20Terminal%20Speed_pg302-310.pdf)  
+   Link: <a href="https://www.theexpertta.com/book-files/OpenStaxUniversityPhysicsVol1/UP1_6.4.%20Drag%20Force%20and%20Terminal%20Speed_pg302-310.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theexpertta.com/book-files/OpenStaxUniversityPhysicsVol1/UP1_6.4.%20Drag%20Force%20and%20Terminal%20Speed_pg302-310.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6.4. Drag Force and Terminal SpeedThe terminal velocity is the same as the limiting velocity, which is the velocity of the falling object...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: physicsclassroom.com  
-   Link: [https://www.physicsclassroom.com/Teacher-Toolkits/Terminal-Velocity](https://www.physicsclassroom.com/Teacher-Toolkits/Terminal-Velocity)  
+   Link: <a href="https://www.physicsclassroom.com/Teacher-Toolkits/Terminal-Velocity" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsclassroom.com/Teacher-Toolkits/Terminal-Velocity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Resistance and Terminal VelocityThe Air Resistance and Terminal Velocity Toolkit provides teachers with standards-based resources for...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: physicsclassroom.com  
-   Link: [https://www.physicsclassroom.com/Physics-Video-Tutorial/Kinematics/Describing-Free-Fall/Video](https://www.physicsclassroom.com/Physics-Video-Tutorial/Kinematics/Describing-Free-Fall/Video)  
+   Link: <a href="https://www.physicsclassroom.com/Physics-Video-Tutorial/Kinematics/Describing-Free-Fall/Video" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsclassroom.com/Physics-Video-Tutorial/Kinematics/Describing-Free-Fall/Video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Describing Free Fall Video TutorialThis video tutorial lesson defines free fall and describes the changes (or lack of changes) in the pos...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/1dpi2mm/eli5_if_terminal_velocity_is_the_fastest_an_item/](https://www.reddit.com/r/explainlikeimfive/comments/1dpi2mm/eli5_if_terminal_velocity_is_the_fastest_an_item/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1dpi2mm/eli5_if_terminal_velocity_is_the_fastest_an_item/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1dpi2mm/eli5_if_terminal_velocity_is_the_fastest_an_item/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5 if terminal velocity is the fastest an item can free fall...If you launch something faster than terminal velocity, the drag force w...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100086691939822/posts/the-stokes-lawstokes-law-is-an-important-principle-in-fluid-mechanics-that-expla/900278859538504/](https://www.facebook.com/100086691939822/posts/the-stokes-lawstokes-law-is-an-important-principle-in-fluid-mechanics-that-expla/900278859538504/)  
+   Link: <a href="https://www.facebook.com/100086691939822/posts/the-stokes-lawstokes-law-is-an-important-principle-in-fluid-mechanics-that-expla/900278859538504/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100086691939822/posts/the-stokes-lawstokes-law-is-an-important-principle-in-fluid-mechanics-that-expla/900278859538504/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Physics, Mathematics and Chemistry Online AcademyWhen drag is equal to weight, there is no net external force on the object and the objec...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: omnicalculator.com  
-   Link: [https://www.omnicalculator.com/physics/terminal-velocity](https://www.omnicalculator.com/physics/terminal-velocity)  
+   Link: <a href="https://www.omnicalculator.com/physics/terminal-velocity" target="_blank" rel="noopener noreferrer nofollow">https://www.omnicalculator.com/physics/terminal-velocity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Terminal Velocity CalculatorThis terminal velocity calculator will help you estimate the speed of a free-falling object through a gaseous...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=67V6ukurLFI](https://www.youtube.com/watch?v=67V6ukurLFI)  
+   Link: <a href="https://www.youtube.com/watch?v=67V6ukurLFI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=67V6ukurLFI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Resistance and Terminal VelocityHow does air resistance affect the motion of a skydiver? What is terminal velocity and why do objects...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=QknB5mG4_Ts](https://www.youtube.com/watch?v=QknB5mG4_Ts)  
+   Link: <a href="https://www.youtube.com/watch?v=QknB5mG4_Ts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QknB5mG4_Ts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Free Fall and Newtons Second LawThe Physics Classroom explains the physics of falling, distinguishing between falling with and without ai...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/NASA](https://www.youtube.com/NASA)  
+   Link: <a href="https://www.youtube.com/NASA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/NASA</a>  
 
 35. <a id="endnote-35"></a>
    Source: physicsclassroom.com  
-   Link: [https://www.physicsclassroom.com/curriculum/newtlaws/newtl13.pdf](https://www.physicsclassroom.com/curriculum/newtlaws/newtl13.pdf)  
+   Link: <a href="https://www.physicsclassroom.com/curriculum/newtlaws/newtl13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsclassroom.com/curriculum/newtlaws/newtl13.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(greater than, less than, equal to) the force of gravity. Hence, the object will. (continue...Read more...</p></details>

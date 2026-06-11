@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_expert_trust_health_481656_one_doctor_claims_81faf0
 - Myths_and_misconcept_0d48d7_expert_trust_health_481656_wakefield_mmr_author_eb5570
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - expert-trust
 - surgisphere
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - expert-trust
 - surgisphere
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: The Surgisphere retractions show how respected journals can briefly amplify unreliable health claims before scrutiny catches up.
 hero_summary: The Surgisphere retractions show how respected journals can briefly amplify unreliable health claims before scrutiny catches up.
 layout: default
 permalink: /surgisphere/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /expert-trust/
 nav_short_title: Surgisphere
 title: When Prestigious Journals Get It Wrong
-title_full: When Prestigious Journals Get It Wrong | Expert Trust
+title_full: When Prestigious Journals Get It Wrong
 display_title_short: Surgisphere
 display_title: Surgisphere
 heading_title: When Prestigious Journals Get It Wrong
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Expert Trust Carries Bad Claims | Mythcraft
+parent_title: When Expert Trust Carries Bad Claims
 parent_permalink: /expert-trust/
 parent_nav_short_title: Expert Trust
 parent_heading_title: When Expert Trust Carries Bad Claims
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why One Doctor Can Keep a Myth Alive
 up_link:
   basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
@@ -259,7 +259,7 @@ prev_link:
   permalink: /one-doctor/
   short_title: One Doctor
   heading_title: Why One Doctor Can Keep a Myth Alive
-date: '2026-06-09 04:31:14 '
+date: '2026-06-11 22:05:24 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781-Illustration-1.webp
@@ -270,12 +270,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_sur
 
 The Surgisphere episode became one of the clearest demonstrations of how a prestigious journal can briefly lend enormous authority to a health claim before the underlying evidence has been adequately tested. During the first months of the COVID-19 pandemic, studies based on a database supplied by the company Surgisphere appeared in two of the world's most respected medical journals, *The Lancet* and *The New England Journal of Medicine* (NEJM). The papers influenced clinical research, public debate and policy decisions before concerns about the underlying data led to retractions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2931324-6/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelancet.com">[The Lancet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelancet.com</span><span class="citation-popover-snippet">The LancetRetraction—Hydroxychloroquine or chloroquine with or...by MR Mehra · 2020 · Cited by 1965 — RETRACTED: Hydroxychloroquine or c...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781-Illustration-1-dark.svg" | relative_url }}" alt="Surgisphere illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For readers trying to understand [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) in health, the lesson is not that journals are untrustworthy. Rather, it is that publication in a leading journal is an important signal, not a guarantee of truth. The Surgisphere case showed how quickly authority can be amplified in a crisis and why scientific claims remain provisional until independent scrutiny has had time to test them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/content/article/two-elite-medical-journals-retract-coronavirus-papers-over-data-integrity-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceTwo elite medical journals retract coronavirus papers over...Jun 4, 2020 — The Lancet and The New England Journal of Medicine (NE...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FXIFtWH0GQM" title="Questioning Psychology&#x27;s Findings: A Real Crisis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FXIFtWH0GQM" target="_blank" rel="noopener noreferrer">Questioning Psychology&#x27;s Findings: A Real Crisis</a></p><p class="youtube-embed-meta">Channel: SocialNeuro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FXIFtWH0GQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FXIFtWH0GQM">Open on YouTube</a></p></div></div></div>
+For readers trying to understand myths and misconceptions in health, the lesson is not that journals are untrustworthy. Rather, it is that publication in a leading journal is an important signal, not a guarantee of truth. The Surgisphere case showed how quickly authority can be amplified in a crisis and why scientific claims remain provisional until independent scrutiny has had time to test them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/content/article/two-elite-medical-journals-retract-coronavirus-papers-over-data-integrity-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Two elite medical journals retract coronavirus papers over...Jun 4, 2020 — The Lancet and The New England Journal of Medicine (NE...</span></span></span>
 
 ## How urgent publication raised the stakes
 
@@ -286,7 +282,6 @@ The [timing]({{ 'timing/' | relative_url }}) mattered. The world was desperate f
 This is the danger of rushed journal authority. Under normal circumstances, scientific claims are tested over time through replication, criticism and competing analyses. During a public-health emergency, however, publication itself can trigger immediate action. The prestige of the journal becomes a shortcut for trust, and decisions may be made before the broader scientific community has had time to examine the evidence in depth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2931324-6/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelancet.com">[The Lancet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelancet.com</span><span class="citation-popover-snippet">The LancetRetraction—Hydroxychloroquine or chloroquine with or...by MR Mehra · 2020 · Cited by 1965 — RETRACTED: Hydroxychloroquine or c...</span></span></span>
 
 The problem was not merely that the findings later proved unreliable. It was that the institutional authority attached to publication magnified their impact before verification had caught up.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KS-mHOtXX84" title="Coronavirus Pandemic Update 80: COVID-19 Retractions &amp; Data (Hydroxychloroquine, ACE Inhibitors)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KS-mHOtXX84" target="_blank" rel="noopener noreferrer">Coronavirus Pandemic Update 80: COVID-19 Retractions &amp; Data (Hydroxychloroquine, ACE Inhibitors)</a></p><p class="youtube-embed-meta">Channel: MedCram - Medical Lectures Explained CLEARLY &middot; Views: 129.8K &middot; Uploaded: June 2020 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KS-mHOtXX84" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KS-mHOtXX84">Open on YouTube</a></p></div></div></div>
 
@@ -303,17 +298,16 @@ A common misconception is that publication means a study has been exhaustively c
 * Peer reviewers usually assess evidence presented by authors rather than independently recreating large proprietary databases.
 * Extraordinary datasets can appear plausible on paper even when important questions remain unanswered.
 * Journal prestige cannot substitute for transparency and independent verification.
-* During emergencies, accelerated publication schedules may reduce the time available for broader scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.medscape.com/viewarticle/932262" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medscape.com">[Medscape]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medscape.com</span><span class="citation-popover-title">How Did This Pass Peer Review?</span><span class="citation-popover-snippet">The COVID-19 Retractions15 Jun 2020 — Furthermore, the two retracted Surgisphere papers did not seem to include any such impossibilities...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7436724/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPublishing coronavirology: Peering into peer(less?) reviewby T Pederson · 2020 · Cited by 4 — The Lancet study was observational, not...</span></span></span>
+* During emergencies, accelerated publication schedules may reduce the time available for broader scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.medscape.com/viewarticle/932262" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medscape.com">[Medscape]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medscape.com</span><span class="citation-popover-title">How Did This Pass Peer Review?</span><span class="citation-popover-snippet">The COVID-19 Retractions15 Jun 2020 — Furthermore, the two retracted Surgisphere papers did not seem to include any such impossibilities...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7436724/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Publishing coronavirology: Peering into peer(less?) reviewby T Pederson · 2020 · Cited by 4 — The Lancet study was observational, not...</span></span></span>
 
 The key lesson is not that peer review is useless. It is that peer review is one layer of quality control within a larger system that also depends on openness, replication and post-publication criticism.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781-Illustration-2-dark.svg" | relative_url }}" alt="Surgisphere illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How retractions can repair trust or feed suspicion
 
 Once concerns became impossible to ignore, the journals issued expressions of concern and then retractions. From a scientific perspective, this was the system correcting itself. Retractions exist precisely because published research is not assumed to be infallible. When evidence cannot be verified, removing the paper from the scientific record is an important safeguard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2020/jun/03/covid-19-surgisphere-who-world-health-organization-hydroxychloroquine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">covid 19 surgisphere who world health organization hydroxychloroquine</span><span class="citation-popover-snippet">The GuardianSurgisphere: governments and WHO changed Covid-19...3 Jun 2020 — On Wednesday, the NEJM and the Lancet published an expressi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://retractionwatch.com/2020/06/04/lancet-retracts-controversial-hydroxychloroquine-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: retractionwatch.com">[Retraction]</a><span class="citation-popover" role="note"><span class="citation-popover-source">retractionwatch.com</span><span class="citation-popover-title">lancet retracts controversial hydroxychloroquine study</span><span class="citation-popover-snippet">Lancet, NEJM retract controversial COVID-19 studies...Jun 4, 2020 — The Lancet and the New England Journal of Medicine have retracted th...</span></span></span>
 
-Yet retractions create a communication challenge. For many readers, the initial headline receives far more attention than the later [correction]({{ 'correction/' | relative_url }}). Research on the aftermath of the Surgisphere papers found that retracted studies continued to be cited after withdrawal, demonstrating how difficult it can be to fully erase the influence of a high-profile publication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8329789/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOngoing Citations of a Retracted Study Involving</span><span class="citation-popover-snippet">PMCby TC Lee · 2021 · Cited by 25 —... Surgisphere, a little-known company, were quickly retracted because of concerns about fraudulent...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tctmd.com/news/retracted-over-fraud-concerns-surgisphere-acearb-study-still-gets-cited" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tctmd.com">[tctmd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tctmd.com</span><span class="citation-popover-title">retracted over fraud concerns surgisphere acearb study still gets cited</span><span class="citation-popover-snippet">Retracted Over Fraud Concerns, Surgisphere ACE/ARB...Aug 3, 2021 — The study&#x27;s data couldn&#x27;t be verified, prompting the retraction, but...</span></span></span>
+Yet retractions create a communication challenge. For many readers, the initial headline receives far more attention than the later [correction]({{ 'correction/' | relative_url }}). Research on the aftermath of the Surgisphere papers found that retracted studies continued to be cited after withdrawal, demonstrating how difficult it can be to fully erase the influence of a high-profile publication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8329789/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOngoing Citations of a Retracted Study Involving</span><span class="citation-popover-snippet">by TC Lee · 2021 · Cited by 25 —... Surgisphere, a little-known company, were quickly retracted because of concerns about fraudulent...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tctmd.com/news/retracted-over-fraud-concerns-surgisphere-acearb-study-still-gets-cited" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tctmd.com">[tctmd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tctmd.com</span><span class="citation-popover-title">retracted over fraud concerns surgisphere acearb study still gets cited</span><span class="citation-popover-snippet">Retracted Over Fraud Concerns, Surgisphere ACE/ARB...Aug 3, 2021 — The study&#x27;s data couldn&#x27;t be verified, prompting the retraction, but...</span></span></span>
 
 This creates two competing interpretations:
 
@@ -323,9 +317,7 @@ This creates two competing interpretations:
 
 The distinction matters when discussing [health myths]({{ 'health-myths/' | relative_url }}). A retraction is not evidence that "everything is unreliable". It is evidence that scientific claims remain open to challenge, even when they appear in elite journals.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bv2uhODfquY" title="#RezaGharebaghi &quot;Tsunami of Retracted Papers during the COVID-19 &quot; Asian Council of Science Editors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bv2uhODfquY" target="_blank" rel="noopener noreferrer">#RezaGharebaghi &quot;Tsunami of Retracted Papers during the COVID-19 &quot; Asian Council of Science Editors</a></p><p class="youtube-embed-meta">Channel: EYEXIV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bv2uhODfquY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bv2uhODfquY">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781-Illustration-3-dark.svg" | relative_url }}" alt="Surgisphere illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Surgisphere case teaches about authority
 
 The lasting importance of Surgisphere lies less in the specific hydroxychloroquine debate and more in what it revealed about evidence and authority.
@@ -333,9 +325,6 @@ The lasting importance of Surgisphere lies less in the specific hydroxychloroqui
 Many people assume a hierarchy in which a published paper automatically becomes established fact, and a paper in a prestigious journal becomes nearly unquestionable fact. The Surgisphere case showed that this shortcut can be dangerous. A claim should be judged not only by where it appears but also by whether the underlying evidence is transparent, reproducible and open to independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2931324-6/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelancet.com">[The Lancet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelancet.com</span><span class="citation-popover-snippet">The LancetRetraction—Hydroxychloroquine or chloroquine with or...by MR Mehra · 2020 · Cited by 1965 — RETRACTED: Hydroxychloroquine or c...</span></span></span>
 
 For doctors, journalists and the public, the practical lesson is straightforward: respect journal authority, but do not confuse it with final authority. The strongest health conclusions emerge when multiple independent lines of evidence converge over time. Publication is an important step in that process, not the end of it. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/d41586-020-01790-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Coronapod: The Surgisphere scandal that rocked...12 Jun 2020 — The latest from the hydroxychloroquine saga, as a questionable dataset th...</span></span></span>
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781-Illustration-3-dark.svg" | relative_url }}" alt="Surgisphere illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_surgisphere_journal_64e781-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -701,217 +690,217 @@ For doctors, journalists and the public, the practical lesson is straightforward
 
 1. <a id="endnote-1"></a>
    Source: nejm.org  
-   Link: [https://www.nejm.org/doi/full/10.1056/NEJMc2021225](https://www.nejm.org/doi/full/10.1056/NEJMc2021225)  
+   Link: <a href="https://www.nejm.org/doi/full/10.1056/NEJMc2021225" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/doi/full/10.1056/NEJMc2021225</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure forms provided by the authors are available with the full text of this letter at NEJM.org.Read mo...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/d41586-020-01790-y](https://www.nature.com/articles/d41586-020-01790-y)  
+   Link: <a href="https://www.nature.com/articles/d41586-020-01790-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-020-01790-y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coronapod: The Surgisphere scandal that rocked...12 Jun 2020 — The latest from the hydroxychloroquine saga, as a questionable dataset th...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/32450107/](https://pubmed.ncbi.nlm.nih.gov/32450107/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedHydroxychloroquine or chloroquine with or without a...by MR Mehra · Cited by 1979 — RETRACTED: Hydroxychloroquine or chloroquine w...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32450107/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32450107/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hydroxychloroquine or chloroquine with or without a...by MR Mehra · Cited by 1979 — RETRACTED: Hydroxychloroquine or chloroquine w...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBINews: The Surgisphere Scandal: What Went  
-   Link: [https://www.ncbi.nlm.nih.gov/search/research-news/11590](https://www.ncbi.nlm.nih.gov/search/research-news/11590)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/search/research-news/11590" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/search/research-news/11590</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(The Scientist)Scientists have raised questions about the dataset published in The Lancet last week that triggered the suspension of clin...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: tctmd.com  
-   Link: [https://www.tctmd.com/news/covid-19-upset-researchers-retract-lancet-nejm-papers-hydroxychloroquine-aceiarbs](https://www.tctmd.com/news/covid-19-upset-researchers-retract-lancet-nejm-papers-hydroxychloroquine-aceiarbs)  
+   Link: <a href="https://www.tctmd.com/news/covid-19-upset-researchers-retract-lancet-nejm-papers-hydroxychloroquine-aceiarbs" target="_blank" rel="noopener noreferrer nofollow">https://www.tctmd.com/news/covid-19-upset-researchers-retract-lancet-nejm-papers-hydroxychloroquine-aceiarbs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Upset: Researchers Retract Lancet, NEJM...Jun 4, 2020 — The reason stems from an inability to access the raw data to validate t...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBINews: Lancet, NEJM Retract Surgisphere  
-   Link: [https://www.ncbi.nlm.nih.gov/search/research-news/10099](https://www.ncbi.nlm.nih.gov/search/research-news/10099)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/search/research-news/10099" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/search/research-news/10099</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(The Scientist)NEJM and The Lancet issue expressions of concern as researchers question where the company got its data on thousands of co...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: medscape.com  
    Title: How Did This Pass Peer Review?  
-   Link: [https://www.medscape.com/viewarticle/932262](https://www.medscape.com/viewarticle/932262)  
+   Link: <a href="https://www.medscape.com/viewarticle/932262" target="_blank" rel="noopener noreferrer nofollow">https://www.medscape.com/viewarticle/932262</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The COVID-19 Retractions15 Jun 2020 — Furthermore, the two retracted Surgisphere papers did not seem to include any such impossibilities...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7436724/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7436724/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPublishing coronavirology: Peering into peer(less?) reviewby T Pederson · 2020 · Cited by 4 — The Lancet study was observational, not...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7436724/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7436724/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Publishing coronavirology: Peering into peer(less?) reviewby T Pederson · 2020 · Cited by 4 — The Lancet study was observational, not...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOngoing Citations of a Retracted Study Involving  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8329789/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8329789/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby TC Lee · 2021 · Cited by 25 —... Surgisphere, a little-known company, were quickly retracted because of concerns about fraudulent...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8329789/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8329789/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by TC Lee · 2021 · Cited by 25 —... Surgisphere, a little-known company, were quickly retracted because of concerns about fraudulent...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: tctmd.com  
    Title: retracted over fraud concerns surgisphere acearb study still gets cited  
-   Link: [https://www.tctmd.com/news/retracted-over-fraud-concerns-surgisphere-acearb-study-still-gets-cited](https://www.tctmd.com/news/retracted-over-fraud-concerns-surgisphere-acearb-study-still-gets-cited)  
+   Link: <a href="https://www.tctmd.com/news/retracted-over-fraud-concerns-surgisphere-acearb-study-still-gets-cited" target="_blank" rel="noopener noreferrer nofollow">https://www.tctmd.com/news/retracted-over-fraud-concerns-surgisphere-acearb-study-still-gets-cited</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retracted Over Fraud Concerns, Surgisphere ACE/ARB...Aug 3, 2021 — The study&#x27;s data couldn&#x27;t be verified, prompting the retraction, but...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nejm.org  
-   Link: [https://www.nejm.org/doi/full/10.1056/NEJMoa2007621](https://www.nejm.org/doi/full/10.1056/NEJMoa2007621)  
+   Link: <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2007621" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/doi/full/10.1056/NEJMoa2007621</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cardiovascular Disease, Drug Therapy, and Mortality in...by MR Mehra · 2020 · Cited by 1833 — Our study confirmed previous observations...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: medscape.com  
-   Link: [https://www.medscape.com/viewarticle/953653](https://www.medscape.com/viewarticle/953653)  
+   Link: <a href="https://www.medscape.com/viewarticle/953653" target="_blank" rel="noopener noreferrer nofollow">https://www.medscape.com/viewarticle/953653</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Could the Surgisphere Retractions Debacle Happen Again?Jun 24, 2021 — In May 2020, two major scientific journals published and subsequent...</p></details>
    Published: May 2020  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Ethics of Medical Publishing During a Pandemic  
-   Link: [https://www.youtube.com/watch?v=Y_1Y8G0Z_sE](https://www.youtube.com/watch?v=Y_1Y8G0Z_sE)  
+   Link: <a href="https://www.youtube.com/watch?v=Y_1Y8G0Z_sE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y_1Y8G0Z_sE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science in the Age of COVID-19: Lessons from Retracted Papers...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Science in the Age of COVID-19: Lessons from Retracted Papers  
-   Link: [https://www.youtube.com/watch?v=jVp5t1V948c](https://www.youtube.com/watch?v=jVp5t1V948c)  
+   Link: <a href="https://www.youtube.com/watch?v=jVp5t1V948c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jVp5t1V948c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Evaluate Scientific Evidence During a Crisis...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thelancet.com  
-   Link: [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2931324-6/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2931324-6/fulltext)  
+   Link: <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2931324-6/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2931324-6/fulltext</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LancetRetraction—Hydroxychloroquine or chloroquine with or...by MR Mehra · 2020 · Cited by 1965 — RETRACTED: Hydroxychloroquine or c...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: science.org  
-   Link: [https://www.science.org/content/article/two-elite-medical-journals-retract-coronavirus-papers-over-data-integrity-questions](https://www.science.org/content/article/two-elite-medical-journals-retract-coronavirus-papers-over-data-integrity-questions)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceTwo elite medical journals retract coronavirus papers over...Jun 4, 2020 — The Lancet and The New England Journal of Medicine (NE...</p></details>
+   Link: <a href="https://www.science.org/content/article/two-elite-medical-journals-retract-coronavirus-papers-over-data-integrity-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/two-elite-medical-journals-retract-coronavirus-papers-over-data-integrity-questions</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two elite medical journals retract coronavirus papers over...Jun 4, 2020 — The Lancet and The New England Journal of Medicine (NE...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thelancet.com  
-   Link: [https://www.thelancet.com/article/S0140-6736%2820%2931180-6/fulltext](https://www.thelancet.com/article/S0140-6736%2820%2931180-6/fulltext)  
+   Link: <a href="https://www.thelancet.com/article/S0140-6736%2820%2931180-6/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/article/S0140-6736%2820%2931180-6/fulltext</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LancetRETRACTED: Hydroxychloroquine or chloroquine with or...by MR Mehra · Cited by 1965 — We did a multinational registry analysis...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
    Title: covid 19 surgisphere who world health organization hydroxychloroquine  
-   Link: [https://www.theguardian.com/world/2020/jun/03/covid-19-surgisphere-who-world-health-organization-hydroxychloroquine](https://www.theguardian.com/world/2020/jun/03/covid-19-surgisphere-who-world-health-organization-hydroxychloroquine)  
+   Link: <a href="https://www.theguardian.com/world/2020/jun/03/covid-19-surgisphere-who-world-health-organization-hydroxychloroquine" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2020/jun/03/covid-19-surgisphere-who-world-health-organization-hydroxychloroquine</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianSurgisphere: governments and WHO changed Covid-19...3 Jun 2020 — On Wednesday, the NEJM and the Lancet published an expressi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2020/jun/10/surgisphere-sapan-desai-lancet-study-hydroxychloroquine-mass-audit-scientific-papers](https://www.theguardian.com/world/2020/jun/10/surgisphere-sapan-desai-lancet-study-hydroxychloroquine-mass-audit-scientific-papers)  
+   Link: <a href="https://www.theguardian.com/world/2020/jun/10/surgisphere-sapan-desai-lancet-study-hydroxychloroquine-mass-audit-scientific-papers" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2020/jun/10/surgisphere-sapan-desai-lancet-study-hydroxychloroquine-mass-audit-scientific-papers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianSurgisphere: mass audit of papers linked to firm behind...10 Jun 2020 — The blockbuster Lancet study based on Surgisphere da...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thelancet.com  
-   Link: [https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2820%2930198-9/fulltext](https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2820%2930198-9/fulltext)  
+   Link: <a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2820%2930198-9/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2820%2930198-9/fulltext</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The case also brought into sharp focus...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thelancet.com  
-   Link: [https://www.thelancet.com/article/S0140-6736%2820%2931324-6/fulltext](https://www.thelancet.com/article/S0140-6736%2820%2931324-6/fulltext)  
+   Link: <a href="https://www.thelancet.com/article/S0140-6736%2820%2931324-6/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/article/S0140-6736%2820%2931324-6/fulltext</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LancetRetraction—Hydroxychloroquine or chloroquine with or...by MR Mehra · 2020 · Cited by 1960 — several concerns were raised with...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: retractionwatch.com  
    Title: lancet retracts controversial hydroxychloroquine study  
-   Link: [https://retractionwatch.com/2020/06/04/lancet-retracts-controversial-hydroxychloroquine-study/](https://retractionwatch.com/2020/06/04/lancet-retracts-controversial-hydroxychloroquine-study/)  
+   Link: <a href="https://retractionwatch.com/2020/06/04/lancet-retracts-controversial-hydroxychloroquine-study/" target="_blank" rel="noopener noreferrer nofollow">https://retractionwatch.com/2020/06/04/lancet-retracts-controversial-hydroxychloroquine-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lancet, NEJM retract controversial COVID-19 studies...Jun 4, 2020 — The Lancet and the New England Journal of Medicine have retracted th...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: science.org  
    Title: many scientists citing two scandalous covid 19 papers ignore their retractions  
-   Link: [https://www.science.org/content/article/many-scientists-citing-two-scandalous-covid-19-papers-ignore-their-retractions](https://www.science.org/content/article/many-scientists-citing-two-scandalous-covid-19-papers-ignore-their-retractions)  
+   Link: <a href="https://www.science.org/content/article/many-scientists-citing-two-scandalous-covid-19-papers-ignore-their-retractions" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/many-scientists-citing-two-scandalous-covid-19-papers-ignore-their-retractions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Many scientists citing two scandalous COVID-19 papers...15 Jan 2021 — The 22 May 2020 Lancet paper ostensibly showed that hydroxychloroq...</p></details>
    Published: May 2020  
 
 24. <a id="endnote-24"></a>
    Source: theguardian.com  
    Title: covid 19 lancet retracts paper that halted hydroxychloroquine trials  
-   Link: [https://www.theguardian.com/world/2020/jun/04/covid-19-lancet-retracts-paper-that-halted-hydroxychloroquine-trials](https://www.theguardian.com/world/2020/jun/04/covid-19-lancet-retracts-paper-that-halted-hydroxychloroquine-trials)  
+   Link: <a href="https://www.theguardian.com/world/2020/jun/04/covid-19-lancet-retracts-paper-that-halted-hydroxychloroquine-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2020/jun/04/covid-19-lancet-retracts-paper-that-halted-hydroxychloroquine-trials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Covid-19: Lancet retracts paper that halted...4 Jun 2020 — The Lancet paper that halted global trials of hydroxychloroquine for Covid-19...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: retractionwatch.com  
-   Link: [https://retractionwatch.com/2020/07/10/a-month-after-surgisphere-paper-retraction-lancet-retracts-replaces-hydroxychloroquine-editorial/](https://retractionwatch.com/2020/07/10/a-month-after-surgisphere-paper-retraction-lancet-retracts-replaces-hydroxychloroquine-editorial/)  
+   Link: <a href="https://retractionwatch.com/2020/07/10/a-month-after-surgisphere-paper-retraction-lancet-retracts-replaces-hydroxychloroquine-editorial/" target="_blank" rel="noopener noreferrer nofollow">https://retractionwatch.com/2020/07/10/a-month-after-surgisphere-paper-retraction-lancet-retracts-replaces-hydroxychloroquine-editorial/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A month after Surgisphere paper retraction, Lancet...10 Jul 2020 — The core of the editorial is still valid, Funck-Brentano told Retract...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: retractionwatch.com  
    Title: nejm places expression of concern on controversial study of drugs for covid 19  
-   Link: [https://retractionwatch.com/2020/06/02/nejm-places-expression-of-concern-on-controversial-study-of-drugs-for-covid-19/](https://retractionwatch.com/2020/06/02/nejm-places-expression-of-concern-on-controversial-study-of-drugs-for-covid-19/)  
+   Link: <a href="https://retractionwatch.com/2020/06/02/nejm-places-expression-of-concern-on-controversial-study-of-drugs-for-covid-19/" target="_blank" rel="noopener noreferrer nofollow">https://retractionwatch.com/2020/06/02/nejm-places-expression-of-concern-on-controversial-study-of-drugs-for-covid-19/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NEJM, Lancet place expressions of concern on...Jun 2, 2020 — As The Scientist reported last week, the criticism has drawn scrutiny for S...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.371.6527.331](https://www.science.org/doi/10.1126/science.371.6527.331)  
+   Link: <a href="https://www.science.org/doi/10.1126/science.371.6527.331" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.371.6527.331</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disgraced COVID-19 studies are still routinely citedby C Piller · 2021 · Cited by 39 — Journal mentions of studies based on disputed data...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: science.org  
    Title: covid 19 data scandal prompts tweaks elite journal s review process  
-   Link: [https://www.science.org/content/article/covid-19-data-scandal-prompts-tweaks-elite-journal-s-review-process](https://www.science.org/content/article/covid-19-data-scandal-prompts-tweaks-elite-journal-s-review-process)  
+   Link: <a href="https://www.science.org/content/article/covid-19-data-scandal-prompts-tweaks-elite-journal-s-review-process" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/covid-19-data-scandal-prompts-tweaks-elite-journal-s-review-process</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 data scandal prompts tweaks to elite journal&#x27;s...18 Sept 2020 — After publishing study based on unverified patient data from Su...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: thelancet.com  
-   Link: [https://www.thelancet.com/article/S0140-6736%2820%2931180-6/abstract](https://www.thelancet.com/article/S0140-6736%2820%2931180-6/abstract)  
+   Link: <a href="https://www.thelancet.com/article/S0140-6736%2820%2931180-6/abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/article/S0140-6736%2820%2931180-6/abstract</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RETRACTED: Hydroxychloroquine or chloroquine with or...by MR Mehra · Cited by 1964 — We did a multinational registry analysis of the use...</p></details>
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: depts.washington.edu  
-   Link: [https://depts.washington.edu/pandemicalliance/2020/06/04/retraction-hydroxychloroquine-or-chloroquine-with-or-without-a-macrolide-for-treatment-of-covid-19-a-multinational-registry-analysis/](https://depts.washington.edu/pandemicalliance/2020/06/04/retraction-hydroxychloroquine-or-chloroquine-with-or-without-a-macrolide-for-treatment-of-covid-19-a-multinational-registry-analysis/)  
+   Link: <a href="https://depts.washington.edu/pandemicalliance/2020/06/04/retraction-hydroxychloroquine-or-chloroquine-with-or-without-a-macrolide-for-treatment-of-covid-19-a-multinational-registry-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://depts.washington.edu/pandemicalliance/2020/06/04/retraction-hydroxychloroquine-or-chloroquine-with-or-without-a-macrolide-for-treatment-of-covid-19-a-multinational-registry-analysis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>washington.eduRetraction: “Hydroxychloroquine or chloroquine with or...4 Jun 2020 — Retraction: “Hydroxychloroquine or chloroquine with...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: biospace.com  
-   Link: [https://www.biospace.com/doubts-continue-to-arise-over-covid-19-data-collected-by-surgisphere-that-halted-studies](https://www.biospace.com/doubts-continue-to-arise-over-covid-19-data-collected-by-surgisphere-that-halted-studies)  
+   Link: <a href="https://www.biospace.com/doubts-continue-to-arise-over-covid-19-data-collected-by-surgisphere-that-halted-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.biospace.com/doubts-continue-to-arise-over-covid-19-data-collected-by-surgisphere-that-halted-studies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: Lancet Retracts Coronavirus Study Following...4 Jun 2020 — According to NPR, some of the study&#x27;s authors retracted the paper aft...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: transparency.org.uk  
-   Link: [https://www.transparency.org.uk/news/was-surgisphere-case-one-or-does-it-highlight-bigger-systemic-problem-research-fraud](https://www.transparency.org.uk/news/was-surgisphere-case-one-or-does-it-highlight-bigger-systemic-problem-research-fraud)  
+   Link: <a href="https://www.transparency.org.uk/news/was-surgisphere-case-one-or-does-it-highlight-bigger-systemic-problem-research-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.transparency.org.uk/news/was-surgisphere-case-one-or-does-it-highlight-bigger-systemic-problem-research-fraud</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lsified data can have even after its redaction is the paper, also published in The Lancet, incorrectly linking...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: healthjournalism.org  
    Title: hundreds of peer reviewed papers have cited a retracted study on covid 19  
-   Link: [https://healthjournalism.org/blog/2022/02/hundreds-of-peer-reviewed-papers-have-cited-a-retracted-study-on-covid-19/](https://healthjournalism.org/blog/2022/02/hundreds-of-peer-reviewed-papers-have-cited-a-retracted-study-on-covid-19/)  
+   Link: <a href="https://healthjournalism.org/blog/2022/02/hundreds-of-peer-reviewed-papers-have-cited-a-retracted-study-on-covid-19/" target="_blank" rel="noopener noreferrer nofollow">https://healthjournalism.org/blog/2022/02/hundreds-of-peer-reviewed-papers-have-cited-a-retracted-study-on-covid-19/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hundreds of peer-reviewed papers have cited a retracted...21 Feb 2022 — Retraction of the other study published in The New England Journ...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: the-hospitalist.org  
    Title: lancet nejm retract studies hydroxychloroquine covid 19  
-   Link: [https://www.the-hospitalist.org/hospitalist/article/223352/arrhythmias-ep/lancet-nejm-retract-studies-hydroxychloroquine-covid-19](https://www.the-hospitalist.org/hospitalist/article/223352/arrhythmias-ep/lancet-nejm-retract-studies-hydroxychloroquine-covid-19)  
+   Link: <a href="https://www.the-hospitalist.org/hospitalist/article/223352/arrhythmias-ep/lancet-nejm-retract-studies-hydroxychloroquine-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.the-hospitalist.org/hospitalist/article/223352/arrhythmias-ep/lancet-nejm-retract-studies-hydroxychloroquine-covid-19</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lancet, NEJM retract studies on hydroxychloroquine for...Jun 4, 2020 — “Our independent peer reviewers informed us that Surgisphere woul...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: cidrap.umn.edu  
    Title: authors retract controversial hydroxychloroquine study  
-   Link: [https://www.cidrap.umn.edu/covid-19/authors-retract-controversial-hydroxychloroquine-study](https://www.cidrap.umn.edu/covid-19/authors-retract-controversial-hydroxychloroquine-study)  
+   Link: <a href="https://www.cidrap.umn.edu/covid-19/authors-retract-controversial-hydroxychloroquine-study" target="_blank" rel="noopener noreferrer nofollow">https://www.cidrap.umn.edu/covid-19/authors-retract-controversial-hydroxychloroquine-study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>retract controversial hydroxychloroquine study | CIDRAPJun 4, 2020 — In their retraction request published by The Lancet today, lead stud...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: tropmedres.ac  
    Title: major medical journals retract covid 19 studies  
-   Link: [https://www.tropmedres.ac/news/major-medical-journals-retract-covid-19-studies](https://www.tropmedres.ac/news/major-medical-journals-retract-covid-19-studies)  
+   Link: <a href="https://www.tropmedres.ac/news/major-medical-journals-retract-covid-19-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.tropmedres.ac/news/major-medical-journals-retract-covid-19-studies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MORU Tropical Health NetworkMajor medical journals retract Covid-19 studies9 Jun 2020 — First The Lancet, then the New England Journal of...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/medicine/comments/h064nh/surgisphere_mass_audit_of_papers_linked_to_firm/](https://www.reddit.com/r/medicine/comments/h064nh/surgisphere_mass_audit_of_papers_linked_to_firm/)  
+   Link: <a href="https://www.reddit.com/r/medicine/comments/h064nh/surgisphere_mass_audit_of_papers_linked_to_firm/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/medicine/comments/h064nh/surgisphere_mass_audit_of_papers_linked_to_firm/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in the current climate is shocking compared to the previous...Read more...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: the-scientist.com  
    Title: the top retractions of 2020 68284  
-   Link: [https://www.the-scientist.com/the-top-retractions-of-2020-68284](https://www.the-scientist.com/the-top-retractions-of-2020-68284)  
+   Link: <a href="https://www.the-scientist.com/the-top-retractions-of-2020-68284" target="_blank" rel="noopener noreferrer nofollow">https://www.the-scientist.com/the-top-retractions-of-2020-68284</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Top Retractions of 2020 | The ScientistBoth The Lancet and The New England Journal of Medicine were forced to remove articles that re...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=KS-mHOtXX84](https://www.youtube.com/watch?v=KS-mHOtXX84)  
+   Link: <a href="https://www.youtube.com/watch?v=KS-mHOtXX84" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KS-mHOtXX84</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>es about data collection and about retractions of big studies...</p></details>

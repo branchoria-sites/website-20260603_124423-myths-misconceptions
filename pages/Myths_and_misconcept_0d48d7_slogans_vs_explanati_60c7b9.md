@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - slogans
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - slogans
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Myths often win because short slogans travel better than the slower, more qualified truth.
 hero_summary: Myths often win because short slogans travel better than the slower, more qualified truth.
 layout: default
 permalink: /slogans/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Slogans
 title: Why Myths Beat Nuance in a Sentence
-title_full: Why Myths Beat Nuance in a Sentence | Mythcraft
+title_full: Why Myths Beat Nuance in a Sentence
 display_title_short: Slogans
 display_title: Slogans
 heading_title: Why Myths Beat Nuance in a Sentence
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 next_link:
   basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
-date: '2026-06-09 04:18:58 '
+date: '2026-06-11 21:58:58 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-overview.webp
@@ -502,7 +502,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-ov
 ## Introduction
 
 Myths often beat accurate explanations because they are easier to carry. A slogan compresses a cause, villain, cure or rule into a sentence that feels complete; an accurate explanation often has to include conditions, uncertainty and missing context. That does not mean people prefer lies to truth. Research on misinformation suggests a more specific problem: [repetition]({{ 'repetition/' | relative_url }}), fluency, emotional payoff and social sharing can make a short false claim feel familiar and useful before a slower [correction]({{ 'correction/' | relative_url }}) has a chance to work. Repeated statements are often judged as more truthful than new ones, partly because they are easier to process, a pattern known as the illusory truth effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-overview.webp" | relative_url }}" alt="Overview image for Slogans" loading="eager" decoding="sync" fetchpriority="high">
 The practical lesson is not that accuracy must become simplistic. It is that truthful communication has to compete at the level where myths are strong: [memory]({{ 'memory/' | relative_url }}), usability and social transmission. A correction that merely says “that is false” leaves the myth’s compact story intact. A stronger explanation gives people a replacement sentence they can remember, plus enough reasoning to use it when the myth reappears in a new form. The goal is not to make truth as crude as the slogan, but to make the accurate account easier to retrieve than the misleading one.
@@ -515,20 +514,17 @@ Cognitive [fluency]({{ 'fluency/' | relative_url }}) helps explain why this matt
 
 This gives slogans a structural advantage. They are brief enough to be repeated in [headlines]({{ 'headlines/' | relative_url }}), captions, speeches, thumbnails, comments and casual conversation. The accurate explanation is often longer because reality contains exceptions: a risk may depend on dose, age, exposure, baseline health, measurement quality or trade-offs. The myth can say “X causes Y”. The explanation may need to say “X is associated with Y in this context, but the evidence is weaker in that one”. That extra care is what makes the explanation responsible, but it also makes it harder to quote.
 
-There is a second advantage: slogans often fit the speed of everyday judgement. People are not always reading misinformation in a quiet, analytical state. They are scrolling, reacting, multitasking or deciding whether something is worth sharing. Research on social media sharing finds that people may share false or misleading news partly because their attention is focused on something other than accuracy at the moment of sharing. In experiments, subtle prompts that redirected attention to accuracy improved the quality of what people said they would share. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Shifting attention to accuracy can reduce misinformation online | Nature</span><span class="citation-popover-snippet">NatureShifting attention to accuracy can reduce misinformation online | Nature...</span></span></span>
+There is a second advantage: slogans often fit the speed of everyday judgement. People are not always reading misinformation in a quiet, analytical state. They are scrolling, reacting, multitasking or deciding whether something is worth sharing. Research on social media sharing finds that people may share false or misleading news partly because their attention is focused on something other than accuracy at the moment of sharing. In experiments, subtle prompts that redirected attention to accuracy improved the quality of what people said they would share. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Shifting attention to accuracy can reduce misinformation online &#124; Nature</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation online &#124; Nature...</span></span></span>
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-1-dark.svg" | relative_url }}" alt="Slogans illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Brevity is powerful, but not the same as clarity
 
 A short message can be clear, or it can be dangerously incomplete. The difference is whether it preserves the causal shape of the truth. “Antibiotics do not treat viruses” is short, accurate and useful. “Chemicals are bad” is short, inaccurate and misleading because it turns a category that includes everything from oxygen to caffeine into a fear cue. The problem is not brevity itself; the problem is compression that removes the part of the explanation that prevents misunderstanding.
 
-Public communication tools recognise this tension. The CDC Clear Communication Index was designed to help writers make public messages easier to understand and use, while still attending to the state of the science, behaviour, numbers and risk. It is not a call to strip away substance; it is a framework for identifying the main message, making it legible and checking whether the reader can act on it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/ccindex/pdf/clear-communication-user-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDCCDC Clear Communication Index: A Tool for Developing and Assessing CDC Public Communication Products—User Guide...</span></span></span>
+Public communication tools recognise this tension. The CDC Clear Communication Index was designed to help writers make public messages easier to understand and use, while still attending to the state of the science, behaviour, numbers and risk. It is not a call to strip away substance; it is a framework for identifying the main message, making it legible and checking whether the reader can act on it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/ccindex/pdf/clear-communication-user-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDC Clear Communication Index: A Tool for Developing and Assessing CDC Public Communication Products—User Guide...</span></span></span>
 
 For myths and misconceptions, the useful test is not “Can this be said in fewer words?” but “What must stay in the sentence for the reader not to walk away with the wrong model?” A message about vaccine side effects, for example, may need to preserve the difference between common mild reactions, rare serious events and the risks of the disease itself. A message about climate change may need to preserve the difference between weather variability and long-term warming. A message about nutrition may need to preserve dose, substitution and overall diet rather than isolating one ingredient as magic or poison.
 
 A truthful short line therefore works best as a doorway, not a substitute for the explanation. It gives the reader a usable handle:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -540,9 +536,7 @@ A truthful short line therefore works best as a doorway, not a substitute for th
 
 The compact version is still memorable, but it does not smuggle in the false rule. It helps people remember the correct organising principle.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E5Egi0nuDEs" title="How to protect yourself in the infodemic?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E5Egi0nuDEs" target="_blank" rel="noopener noreferrer">How to protect yourself in the infodemic?</a></p><p class="youtube-embed-meta">Channel: World Health Organization (WHO) &middot; Views: 48.8K &middot; Uploaded: June 2020 &middot; Length: 2 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E5Egi0nuDEs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E5Egi0nuDEs">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-1-dark.svg" | relative_url }}" alt="Slogans illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Emotional payoff helps slogans travel
 
 Many myths offer an emotional reward before they offer evidence. They can make the reader feel clever, wronged, protected, morally superior or newly awakened. That emotional payoff is one reason slogans spread so readily: a claim that gives people something to feel is easier to pass on than a claim that merely asks them to update a probability.
@@ -555,8 +549,6 @@ The emotional mechanism is especially visible in moralised claims. Research on m
 
 The ethical challenge is to give truth a legitimate emotional shape without copying manipulation. Accurate explanations can appeal to curiosity, care, fairness, safety or intellectual humility. They do not have to be bloodless. A good correction can say, in effect: “Here is why the claim feels satisfying, here is why it fails, and here is the better way to protect what you care about.”
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-2-dark.svg" | relative_url }}" alt="Slogans illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “myth versus fact” can accidentally advertise the myth
 
 Many correction pages put the myth in the largest, clearest words and the explanation underneath. That format feels tidy, but it can strengthen the wrong sentence if the reader remembers the myth more easily than the correction. This is not a reason to hide every false claim; sometimes people need to know exactly what is being corrected. The risk is that the correction becomes a distribution channel for the slogan.
@@ -575,8 +567,7 @@ A stronger correction says:
 
 The second version gives the mind a replacement. It does not just remove the old cause; it repairs the story.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eZ_hcf01EFw" title="The Continued Influence Effect - Why do memories of misinformation persist in our minds?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer">The Continued Influence Effect - Why do memories of misinformation persist in our minds?</a></p><p class="youtube-embed-meta">Channel: The Science Lens &middot; Views: 567 &middot; Uploaded: March 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eZ_hcf01EFw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E5Egi0nuDEs" title="How to protect yourself in the infodemic?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E5Egi0nuDEs" target="_blank" rel="noopener noreferrer">How to protect yourself in the infodemic?</a></p><p class="youtube-embed-meta">Channel: World Health Organization (WHO) &middot; Views: 48.8K &middot; Uploaded: June 2020 &middot; Length: 2 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E5Egi0nuDEs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E5Egi0nuDEs">Open on YouTube</a></p></div></div></div>
 
 ## Making accurate explanations more memorable
 
@@ -600,29 +591,28 @@ One useful format is:
 
 This works because it respects both accuracy and memory. It does not assume that people will keep a long explanation available forever. It gives them a compact line backed by a fuller model.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-3-dark.svg" | relative_url }}" alt="Slogans illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-2-dark.svg" | relative_url }}" alt="Slogans illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The social problem: truth must be easy to share before the myth wins
 
 Misinformation is not only a belief problem; it is a circulation problem. During a crisis, people face an overload of claims, warnings, rumours and advice. The World Health Organization describes an infodemic as too much information, including false or misleading information, in digital and physical environments during a disease outbreak; it can cause confusion, encourage risky behaviour and undermine trust in health authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Infodemic...</span></span></span>
 
 In that environment, accurate explanations lose if they are available only after the myth has become the default sentence. A public health agency, teacher, journalist or fact-checker may be correct, but late and hard to quote. The myth may already have become the line people use in group chats, comments and headlines.
 
-Research on accuracy prompts suggests one reason to intervene before people share. Across experiments, prompts that made accuracy salient improved sharing discernment, largely by reducing intentions to share false headlines, with one Nature Communications analysis reporting about a 10 per cent reduction in false-news sharing intentions relative to control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span> The important point for slogans is that many people do care about accuracy, but the design of the moment may not make accuracy the active concern. A catchy myth asks, “Will this get a reaction?” A better information environment asks, “Is this true enough to pass on?”
+Research on [accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) suggests one reason to intervene before people share. Across experiments, prompts that made accuracy salient improved sharing discernment, largely by reducing intentions to share false headlines, with one Nature Communications analysis reporting about a 10 per cent reduction in false-news sharing intentions relative to control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span> The important point for slogans is that many people do care about accuracy, but the design of the moment may not make accuracy the active concern. A catchy myth asks, “Will this get a reaction?” A better information environment asks, “Is this true enough to pass on?”
 
 That is why accurate explanations need social packaging as well as scientific care. They need headlines that lead with the true claim, summaries that can be quoted without distortion, visuals that reinforce the correct model, and repeated exposure to the accurate sentence. Repetition is not only a tool of misinformation. Repeating the truth can make the correct account more familiar too, provided the repetition does not keep re-advertising the myth.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eZ_hcf01EFw" title="The Continued Influence Effect - Why do memories of misinformation persist in our minds?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer">The Continued Influence Effect - Why do memories of misinformation persist in our minds?</a></p><p class="youtube-embed-meta">Channel: The Science Lens &middot; Views: 567 &middot; Uploaded: March 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eZ_hcf01EFw">Open on YouTube</a></p></div></div></div>
+
 ## The honest trade-off: usable truth is simplified, not simplistic
 
-Every public explanation simplifies. The question is whether it simplifies by preserving the right structure or by cutting away the safeguards that make the claim true. A slogan becomes misleading when it hides uncertainty that would change the reader’s decision, erases scale, turns a possibility into a probability, or replaces evidence with [identity]({{ 'identity/' | relative_url }}). A good explanation becomes memorable when it compresses around the correct principle.
+Every public explanation simplifies. The question is whether it simplifies by preserving the right structure or by cutting away the safeguards that make the claim true. A slogan becomes misleading when it hides uncertainty that would change the reader’s decision, erases scale, turns a possibility into a probability, or replaces evidence with identity. A good explanation becomes memorable when it compresses around the correct principle.
 
 For myths and misconceptions, the best response is therefore not a longer paragraph every time. Sometimes the best response is a better sentence, followed by a short explanation that earns the sentence. “The dose makes the risk.” “Weather varies; climate trends.” “Anecdotes can raise questions, but they do not settle causes.” “False claims need replacements, not just retractions.” These lines are not complete research summaries, but they point in the right direction.
 
 The deeper aim is to stop giving myths a monopoly on simplicity. People need accurate ideas they can remember under pressure, repeat without mangling, and use when a familiar false claim returns in a new costume. Nuance does not have to mean a fog of qualifications. At its best, nuance means knowing which distinction matters, saying it clearly, and making the true explanation easier to carry than the myth.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f_OPjYQovAE" title="The science of falling in love - Shannon Odell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f_OPjYQovAE" target="_blank" rel="noopener noreferrer">The science of falling in love - Shannon Odell</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f_OPjYQovAE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f_OPjYQovAE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-3-dark.svg" | relative_url }}" alt="Slogans illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1021,157 +1011,157 @@ The deeper aim is to stop giving myths a monopoly on simplicity. People need acc
 1. <a id="endnote-1"></a>
    Source: nature.com  
    Title: Shifting attention to accuracy can reduce misinformation online | Nature  
-   Link: [https://www.nature.com/articles/s41586-021-03344-2](https://www.nature.com/articles/s41586-021-03344-2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureShifting attention to accuracy can reduce misinformation online | Nature...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation online | Nature...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/ccindex/pdf/clear-communication-user-guide.pdf](https://www.cdc.gov/ccindex/pdf/clear-communication-user-guide.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDCCDC Clear Communication Index: A Tool for Developing and Assessing CDC Public Communication Products—User Guide...</p></details>
+   Link: <a href="https://www.cdc.gov/ccindex/pdf/clear-communication-user-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/ccindex/pdf/clear-communication-user-guide.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDC Clear Communication Index: A Tool for Developing and Assessing CDC Public Communication Products—User Guide...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: [https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308](https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308)  
+   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
 
 4. <a id="endnote-4"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.1618923114](https://www.pnas.org/doi/10.1073/pnas.1618923114)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1618923114</a>  
 
 5. <a id="endnote-5"></a>
    Source: climatechangecommunication.org  
    Title: Center for Climate Change Communication  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: who.int  
    Title: World Health Organization  
-   Link: [https://www.who.int/health-topics/infodemic](https://www.who.int/health-topics/infodemic)  
+   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemic...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41467-022-30073-5](https://www.nature.com/articles/s41467-022-30073-5)  
+   Link: <a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
 
 8. <a id="endnote-8"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
 
 9. <a id="endnote-9"></a>
    Source: ide.mit.edu  
    Title: Pennycook et al Shifting attention to accuracy  
-   Link: [https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf](https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf)  
+   Link: <a href="https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: ide.mit.edu  
    Title: 2017 IDE Research Brief False News  
-   Link: [https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf](https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf)  
+   Link: <a href="https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2216614120](https://www.pnas.org/doi/10.1073/pnas.2216614120)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2216614120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2216614120</a>  
 
 12. <a id="endnote-12"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/abs/10.1073/pnas.1618923114?utm=](https://www.pnas.org/doi/abs/10.1073/pnas.1618923114?utm=)  
+   Link: <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1618923114?utm=" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/abs/10.1073/pnas.1618923114?utm=</a>  
 
 13. <a id="endnote-13"></a>
    Source: journalofcognition.org  
-   Link: [https://journalofcognition.org/articles/10.5334/joc.161](https://journalofcognition.org/articles/10.5334/joc.161)  
+   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.161</a>  
 
 14. <a id="endnote-14"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.aap9559](https://www.science.org/doi/10.1126/science.aap9559)  
+   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282](https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282)  
+   Link: <a href="https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282</a>  
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811](https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661321000516](https://www.sciencedirect.com/science/article/pii/S1364661321000516)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S004727272500043X](https://www.sciencedirect.com/science/article/pii/S004727272500043X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1566253524000782](https://www.sciencedirect.com/science/article/pii/S1566253524000782)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1566253524000782" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1566253524000782</a>  
 
 20. <a id="endnote-20"></a>
    Source: digitalcommons.unl.edu  
-   Link: [https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf](https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WHOThailand/posts/what-is-an-infodemicinfodemic-information-epidemic-is-an-overabundance-of-inform/3831016243585903/](https://www.facebook.com/WHOThailand/posts/what-is-an-infodemicinfodemic-information-epidemic-is-an-overabundance-of-inform/3831016243585903/)  
+   Link: <a href="https://www.facebook.com/WHOThailand/posts/what-is-an-infodemicinfodemic-information-epidemic-is-an-overabundance-of-inform/3831016243585903/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHOThailand/posts/what-is-an-infodemicinfodemic-information-epidemic-is-an-overabundance-of-inform/3831016243585903/</a>  
 
 22. <a id="endnote-22"></a>
    Source: training.safestates.org  
    Title: cdc clear communication index  
-   Link: [https://training.safestates.org/ivpt-item/cdc-clear-communication-index/](https://training.safestates.org/ivpt-item/cdc-clear-communication-index/)  
+   Link: <a href="https://training.safestates.org/ivpt-item/cdc-clear-communication-index/" target="_blank" rel="noopener noreferrer nofollow">https://training.safestates.org/ivpt-item/cdc-clear-communication-index/</a>  
 
 23. <a id="endnote-23"></a>
    Source: ltrr.arizona.edu  
    Title: Debunking Handbook  
-   Link: [https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf](https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf)  
+   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: bristol.ac.uk  
    Title: debunking handbook  
-   Link: [https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html](https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html)  
+   Link: <a href="https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Illusory Truth Effect: Why Repetition Makes Myths Feel Real  
-   Link: [https://www.youtube.com/watch?v=F3wY2iY05qA](https://www.youtube.com/watch?v=F3wY2iY05qA)  
+   Link: <a href="https://www.youtube.com/watch?v=F3wY2iY05qA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3wY2iY05qA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Simple Slogans Are More Persuasive Than Complex Facts...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Why Simple Slogans Are More Persuasive Than Complex Facts  
-   Link: [https://www.youtube.com/watch?v=m4G1d2J8GgM](https://www.youtube.com/watch?v=m4G1d2J8GgM)  
+   Link: <a href="https://www.youtube.com/watch?v=m4G1d2J8GgM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m4G1d2J8GgM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Fluency and the Power of Memorable Messaging...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: How to Communicate Truth in an Era of Misinformation  
-   Link: [https://www.youtube.com/watch?v=N61Yw-6jS-Y](https://www.youtube.com/watch?v=N61Yw-6jS-Y)  
+   Link: <a href="https://www.youtube.com/watch?v=N61Yw-6jS-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N61Yw-6jS-Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Why We Prefer Simple Stories Over Evidence...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Cognitive Fluency and the Power of Memorable Messaging  
-   Link: [https://www.youtube.com/watch?v=vV7-D3Wd4x8](https://www.youtube.com/watch?v=vV7-D3Wd4x8)  
+   Link: <a href="https://www.youtube.com/watch?v=vV7-D3Wd4x8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vV7-D3Wd4x8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Communicate Truth in an Era of Misinformation...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/362841654_I_Think_This_News_Is_Accurate_Endorsing_Accuracy_Decreases_the_Sharing_of_Fake_News_and_Increases_the_Sharing_of_Real_News](https://www.researchgate.net/publication/362841654_I_Think_This_News_Is_Accurate_Endorsing_Accuracy_Decreases_the_Sharing_of_Fake_News_and_Increases_the_Sharing_of_Real_News)  
+   Link: <a href="https://www.researchgate.net/publication/362841654_I_Think_This_News_Is_Accurate_Endorsing_Accuracy_Decreases_the_Sharing_of_Fake_News_and_Increases_the_Sharing_of_Real_News" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362841654_I_Think_This_News_Is_Accurate_Endorsing_Accuracy_Decreases_the_Sharing_of_Fake_News_and_Increases_the_Sharing_of_Real_News</a>  
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE](https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE)  
+   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/](https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/)  
+   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
 
 32. <a id="endnote-32"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/906176348/Emotion-Shapes-the-Diffusion-of-Moralized-Content-in-Social-Networks](https://www.scribd.com/document/906176348/Emotion-Shapes-the-Diffusion-of-Moralized-Content-in-Social-Networks)  
+   Link: <a href="https://www.scribd.com/document/906176348/Emotion-Shapes-the-Diffusion-of-Moralized-Content-in-Social-Networks" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/906176348/Emotion-Shapes-the-Diffusion-of-Moralized-Content-in-Social-Networks</a>  
 
 33. <a id="endnote-33"></a>
    Source: zotero.org  
-   Link: [https://www.zotero.org/groups/2243448/library/items/NZ8K64E2](https://www.zotero.org/groups/2243448/library/items/NZ8K64E2)  
+   Link: <a href="https://www.zotero.org/groups/2243448/library/items/NZ8K64E2" target="_blank" rel="noopener noreferrer nofollow">https://www.zotero.org/groups/2243448/library/items/NZ8K64E2</a>  
 
 34. <a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/317947723_Emotion_shapes_the_diffusion_of_moralized_content_in_social_networks](https://www.researchgate.net/publication/317947723_Emotion_shapes_the_diffusion_of_moralized_content_in_social_networks)  
+   Link: <a href="https://www.researchgate.net/publication/317947723_Emotion_shapes_the_diffusion_of_moralized_content_in_social_networks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317947723_Emotion_shapes_the_diffusion_of_moralized_content_in_social_networks</a>

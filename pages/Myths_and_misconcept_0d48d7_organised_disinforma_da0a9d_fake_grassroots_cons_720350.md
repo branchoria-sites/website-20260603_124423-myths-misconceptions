@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_prebunking_manipulat_26878d
 - Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_reporting_viral_fals_915704
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - campaigns
 - astroturfing
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - campaigns
 - astroturfing
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Astroturfing makes organised persuasion look like ordinary public support, changing how rumours, protests and policy debates are judged.
 hero_summary: Astroturfing makes organised persuasion look like ordinary public support, changing how rumours, protests and policy debates are judged.
 layout: default
 permalink: /astroturfing/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /campaigns/
 nav_short_title: Astroturfing
 title: When a Crowd Is Not a Crowd
-title_full: When a Crowd Is Not a Crowd | Campaigns
+title_full: When a Crowd Is Not a Crowd
 display_title_short: Astroturfing
 display_title: Astroturfing
 heading_title: When a Crowd Is Not a Crowd
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Falsehoods Are Spread on Purpose | Mythcraft
+parent_title: When Falsehoods Are Spread on Purpose
 parent_permalink: /campaigns/
 parent_nav_short_title: Campaigns
 parent_heading_title: When Falsehoods Are Spread on Purpose
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Learning the Trick Before the Lie
 up_link:
   basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
@@ -259,7 +259,7 @@ next_link:
   permalink: /ira-case/
   short_title: IRA Case
   heading_title: The Case That Made Coordination Visible
-date: '2026-06-09 05:39:42 '
+date: '2026-06-11 22:39:04 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fa
 
 ## Introduction
 
-Astroturfing is the practice of making an organised campaign look like a spontaneous grassroots movement. Instead of persuading people through openly sponsored advocacy, the organisers conceal their role and create the appearance that ordinary citizens have independently reached the same conclusion. In the context of [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}), this matters because people often judge a claim not only by its evidence but also by how many other people seem to support it. Astroturfing exploits that shortcut by manufacturing the appearance of consensus. Researchers describe digital astroturfing as strategically directed, deceptive activity designed to mimic authentic public participation rather than genuine bottom-up mobilisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/preprints/socarxiv/7ucsh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">OSFDigital astroturfing in politics: Definition, typology, and...by M Kovic · Cited by 195 — We propose to call such fake online grassro...</span></span></span>
-
+Astroturfing is the practice of making an organised campaign look like a spontaneous grassroots movement. Instead of persuading people through openly sponsored advocacy, the organisers conceal their role and create the appearance that ordinary citizens have independently reached the same conclusion. In the context of myths and misconceptions, this matters because people often judge a claim not only by its evidence but also by how many other people seem to support it. Astroturfing exploits that shortcut by manufacturing the appearance of consensus. Researchers describe digital astroturfing as strategically directed, deceptive activity designed to mimic authentic public participation rather than genuine bottom-up mobilisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/preprints/socarxiv/7ucsh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Digital astroturfing in politics: Definition, typology, and...by M Kovic · Cited by 195 — We propose to call such fake online grassro...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-1-dark.svg" | relative_url }}" alt="Astroturfing illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The result is a distortion of public perception. A rumour, policy proposal, protest movement or political narrative can appear far more popular than it really is. People may then treat that apparent popularity as evidence that the claim is credible, widely accepted or socially normal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
@@ -278,10 +277,9 @@ The result is a distortion of public perception. A rumour, policy proposal, prot
 
 The central mechanism of astroturfing is not necessarily the creation of false information. It is the concealment of coordination.
 
-A genuine grassroots movement emerges when many people independently organise around a shared concern. An astroturf campaign reverses that process. A central actor—such as a political organisation, commercial interest, lobbying group or influence operation—creates the appearance of independent support while directing activity from above. Researchers describe this as a top-down campaign masquerading as bottom-up participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theindiaforum.in/law/digital-deceit-how-astroturfing-produces-democratic-deficits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theindiaforum.in">[The India Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theindiaforum.in</span><span class="citation-popover-snippet">The India ForumDigital Deceit: How Astroturfing Produces Democratic Deficits12 Aug 2025 — Digital astroturfing uses the phenomenon of soc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/preprints/socarxiv/7ucsh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">OSFDigital astroturfing in politics: Definition, typology, and...by M Kovic · Cited by 195 — We propose to call such fake online grassro...</span></span></span>
+A genuine grassroots movement emerges when many people independently organise around a shared concern. An astroturf campaign reverses that process. A central actor—such as a political organisation, commercial interest, lobbying group or influence operation—creates the appearance of independent support while directing activity from above. Researchers describe this as a top-down campaign masquerading as bottom-up participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theindiaforum.in/law/digital-deceit-how-astroturfing-produces-democratic-deficits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theindiaforum.in">[The India Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theindiaforum.in</span><span class="citation-popover-snippet">The India ForumDigital Deceit: How Astroturfing Produces Democratic Deficits12 Aug 2025 — Digital astroturfing uses the phenomenon of soc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/preprints/socarxiv/7ucsh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Digital astroturfing in politics: Definition, typology, and...by M Kovic · Cited by 195 — We propose to call such fake online grassro...</span></span></span>
 
 Common methods include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -293,16 +291,13 @@ Common methods include:
 
 </div>
 
-Importantly, astroturfing often mixes authentic and inauthentic participation. Some supporters may be real people who genuinely agree with the message. The deception lies in hiding the campaign's organisational structure and sponsorship while exaggerating the appearance of widespread public enthusiasm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/361389437_Online_astroturfing_A_problem_beyond_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Online astroturfing: A problem beyond disinformation</span><span class="citation-popover-snippet">ResearchGateOnline astroturfing: A problem beyond disinformationJune 16, 2022 — 5 May 2026 — Astroturfing is the practice of creating a f...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/latQoWKCgYU" title="Safer Future: Tackling Coordinated Inauthentic Behavior" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=latQoWKCgYU" target="_blank" rel="noopener noreferrer">Safer Future: Tackling Coordinated Inauthentic Behavior</a></p><p class="youtube-embed-meta">Channel: Meta for Business</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=latQoWKCgYU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=latQoWKCgYU">Open on YouTube</a></p></div></div></div>
+Importantly, astroturfing often mixes authentic and inauthentic participation. Some supporters may be real people who genuinely agree with the message. The deception lies in hiding the campaign's organisational structure and sponsorship while exaggerating the appearance of widespread public enthusiasm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/361389437_Online_astroturfing_A_problem_beyond_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Online astroturfing: A problem beyond disinformation</span><span class="citation-popover-snippet">Online astroturfing: A problem beyond disinformationJune 16, 2022 — 5 May 2026 — Astroturfing is the practice of creating a f...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 ### Why apparent popularity changes minds
 
 Humans rely heavily on social proof—the tendency to view an idea as more credible when many others appear to endorse it.
 
-Astroturfing manufactures exactly those signals. A reader encountering hundreds of apparently independent comments, posts or endorsements may assume a broad consensus exists. Even when people do not fully accept the message, the perceived popularity can make them think the issue is more contested, more urgent or more widely accepted than it actually is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X24000575" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReview Clicks and tricks: The dark art of online persuasionby P Fagan · 2024 · Cited by 18 — On the one hand, astroturfing i...</span></span></span>
+Astroturfing manufactures exactly those signals. A reader encountering hundreds of apparently independent comments, posts or endorsements may assume a broad consensus exists. Even when people do not fully accept the message, the perceived popularity can make them think the issue is more contested, more urgent or more widely accepted than it actually is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X24000575" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Clicks and tricks: The dark art of online persuasionby P Fagan · 2024 · Cited by 18 — On the one hand, astroturfing i...</span></span></span>
 
 Research on coordinated social-media manipulation notes that these [campaigns]({{ 'campaigns/' | relative_url }}) create false beliefs not only about the content being shared but also about the popularity of that content and the identities of those promoting it. The deception therefore targets perceptions of public opinion itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
 
@@ -312,12 +307,11 @@ Astroturf campaigns succeed when they reproduce the cues people normally associa
 
 ### Repetition from seemingly independent sources
 
-People often treat agreement across multiple sources as evidence. Astroturf networks exploit this by ensuring the same talking points appear across many accounts, groups or websites. Even when individual messages are not identical, the cumulative effect creates an impression of spontaneous convergence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8930979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCoordination patterns reveal online political astroturfing</span><span class="citation-popover-snippet">PMCby D Schoch · 2022 · Cited by 94 — Online political astroturfing—hidden information campaigns in which a political actor mimics genuin...</span></span></span>
+People often treat agreement across multiple sources as evidence. Astroturf networks exploit this by ensuring the same talking points appear across many accounts, groups or websites. Even when individual messages are not identical, the cumulative effect creates an impression of spontaneous convergence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8930979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCoordination patterns reveal online political astroturfing</span><span class="citation-popover-snippet">by D Schoch · 2022 · Cited by 94 — Online political astroturfing—hidden information campaigns in which a political actor mimics genuin...</span></span></span>
 
 ### Visible engagement metrics
 
-Likes, shares, reposts, comments and follower counts function as social signals. Artificially inflating these numbers can make a position appear mainstream before genuine users have assessed it. Research on coordinated online campaigns has shown that users can be highly vulnerable to manipulation through amplified visibility and inauthentic account networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8930979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCoordination patterns reveal online political astroturfing</span><span class="citation-popover-snippet">PMCby D Schoch · 2022 · Cited by 94 — Online political astroturfing—hidden information campaigns in which a political actor mimics genuin...</span></span></span>
-
+Likes, shares, reposts, comments and follower counts function as social signals. Artificially inflating these numbers can make a position appear mainstream before genuine users have assessed it. Research on coordinated online campaigns has shown that users can be highly vulnerable to manipulation through amplified visibility and inauthentic account networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8930979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCoordination patterns reveal online political astroturfing</span><span class="citation-popover-snippet">by D Schoch · 2022 · Cited by 94 — Online political astroturfing—hidden information campaigns in which a political actor mimics genuin...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-2-dark.svg" | relative_url }}" alt="Astroturfing illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Local identity and community language
@@ -326,18 +320,17 @@ Astroturf campaigns frequently adopt local identities, community concerns or cul
 
 ### Artificial trends and popularity rankings
 
-Some operations target the mechanisms [platforms]({{ 'platforms/' | relative_url }}) use to identify what is popular. Researchers studying "ephemeral astroturfing" found coordinated campaigns capable of pushing topics into trending systems through concentrated bursts of activity, after which much of the evidence could be deleted. The trend itself then becomes a persuasive signal because users interpret it as evidence of widespread interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1910.07783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Ephemeral Astroturfing Attacks: The Case of Fake Twitter Trends</span><span class="citation-popover-snippet">arXivEphemeral Astroturfing Attacks: The Case of Fake Twitter TrendsOctober 17, 2019...</span><span class="citation-popover-meta">Published: October 17, 2019</span></span></span>
+Some operations target the mechanisms [platforms]({{ 'platforms/' | relative_url }}) use to identify what is popular. Researchers studying "ephemeral astroturfing" found coordinated campaigns capable of pushing topics into trending systems through concentrated bursts of activity, after which much of the evidence could be deleted. The trend itself then becomes a persuasive signal because users interpret it as evidence of widespread interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1910.07783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Ephemeral Astroturfing Attacks: The Case of Fake Twitter Trends</span><span class="citation-popover-snippet">Ephemeral Astroturfing Attacks: The Case of Fake Twitter TrendsOctober 17, 2019...</span><span class="citation-popover-meta">Published: October 17, 2019</span></span></span>
 
 ## When a crowd is not a crowd
 
 One of the most common misconceptions about public opinion is that visible participation automatically reflects genuine public sentiment.
 
-Astroturfing demonstrates why this assumption can be unreliable. A large volume of posts does not necessarily indicate a large number of participants. A popular hashtag does not necessarily represent a broad movement. A coordinated campaign can make a relatively small group appear much larger than it is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-022-08404-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureCoordination patterns reveal online political astroturfing...by D Schoch · 2022 · Cited by 94 — After all, political astroturfing...</span></span></span>
+Astroturfing demonstrates why this assumption can be unreliable. A large volume of posts does not necessarily indicate a large number of participants. A popular hashtag does not necessarily represent a broad movement. A coordinated campaign can make a relatively small group appear much larger than it is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-022-08404-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Coordination patterns reveal online political astroturfing...by D Schoch · 2022 · Cited by 94 — After all, political astroturfing...</span></span></span>
 
 This does not mean every online campaign is fake. Most public advocacy remains genuine. The problem is that observers often lack visibility into who is coordinating activity, funding promotion or managing [amplification]({{ 'amplification/' | relative_url }}). As a result, apparent consensus may be partly manufactured rather than organically formed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
 
 The distinction matters because journalists, policymakers and ordinary citizens frequently use visible public reaction as a signal when deciding which issues deserve attention. If those signals are manipulated, public debate can become distorted even when individual messages contain no outright falsehoods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theindiaforum.in/law/digital-deceit-how-astroturfing-produces-democratic-deficits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theindiaforum.in">[The India Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theindiaforum.in</span><span class="citation-popover-snippet">The India ForumDigital Deceit: How Astroturfing Produces Democratic Deficits12 Aug 2025 — Digital astroturfing uses the phenomenon of soc...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-3-dark.svg" | relative_url }}" alt="Astroturfing illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How platforms and journalists can avoid rewarding it
@@ -346,7 +339,7 @@ Astroturfing is difficult to eliminate completely because organisers continually
 
 ### Focus on networks, not individual posts
 
-Researchers increasingly argue that coordinated campaigns are best identified through patterns of behaviour rather than isolated content. Individual accounts may appear normal when viewed alone. Coordination often becomes visible only when analysing [timing]({{ 'timing/' | relative_url }}), connections and repeated activity across many accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-022-08404-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureCoordination patterns reveal online political astroturfing...by D Schoch · 2022 · Cited by 94 — After all, political astroturfing...</span></span></span>
+Researchers increasingly argue that coordinated campaigns are best identified through patterns of behaviour rather than isolated content. Individual accounts may appear normal when viewed alone. Coordination often becomes visible only when analysing [timing]({{ 'timing/' | relative_url }}), connections and repeated activity across many accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-022-08404-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Coordination patterns reveal online political astroturfing...by D Schoch · 2022 · Cited by 94 — After all, political astroturfing...</span></span></span>
 
 ### Verify claims of widespread support
 
@@ -356,18 +349,15 @@ Journalists and researchers can avoid treating social-media visibility as proof 
 
 Authentic advocacy can disclose its organisers, sponsors and goals. Astroturfing depends on obscuring those relationships. Front groups, undisclosed sponsorship and hidden coordination are warning signs because they prevent audiences from evaluating motivations and interests. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XXgQNG5Y-c8" title="Herman and Chomsky&#x27;s Propaganda Model, Pt. 2: An In-Depth Explanation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XXgQNG5Y-c8" target="_blank" rel="noopener noreferrer">Herman and Chomsky&#x27;s Propaganda Model, Pt. 2: An In-Depth Explanation</a></p><p class="youtube-embed-meta">Channel: University Quick Course</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XXgQNG5Y-c8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XXgQNG5Y-c8">Open on YouTube</a></p></div></div></div>
-
 ### Reduce incentives for artificial amplification
 
-Many digital systems reward visibility, engagement and trend formation. Researchers have proposed technical and governance approaches that make large-scale manipulation more expensive and easier to detect, reducing the ability of coordinated actors to dominate public attention through sheer volume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1910.07783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Ephemeral Astroturfing Attacks: The Case of Fake Twitter Trends</span><span class="citation-popover-snippet">arXivEphemeral Astroturfing Attacks: The Case of Fake Twitter TrendsOctober 17, 2019...</span><span class="citation-popover-meta">Published: October 17, 2019</span></span></span>
+Many digital systems reward visibility, engagement and trend formation. Researchers have proposed technical and governance approaches that make large-scale manipulation more expensive and easier to detect, reducing the ability of coordinated actors to dominate public attention through sheer volume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1910.07783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Ephemeral Astroturfing Attacks: The Case of Fake Twitter Trends</span><span class="citation-popover-snippet">Ephemeral Astroturfing Attacks: The Case of Fake Twitter TrendsOctober 17, 2019...</span><span class="citation-popover-meta">Published: October 17, 2019</span></span></span>
 
 ## The key misconception
 
 A common myth is that public consensus is always easy to recognise because large numbers of people will naturally reveal what most people think. Astroturfing shows that visible agreement and genuine agreement are not the same thing.
 
-The power of fake grassroots campaigns comes from their ability to manufacture the social cues people use to judge credibility. By making coordinated persuasion appear spontaneous, local and widely supported, astroturfing can reshape how rumours, controversies and policy debates are interpreted. The crucial question is therefore not simply whether many people appear to support a claim, but whether that appearance of support emerged independently or was carefully engineered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/preprints/socarxiv/7ucsh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">OSFDigital astroturfing in politics: Definition, typology, and...by M Kovic · Cited by 195 — We propose to call such fake online grassro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
+The power of fake grassroots campaigns comes from their ability to manufacture the social cues people use to judge credibility. By making coordinated persuasion appear spontaneous, local and widely supported, astroturfing can reshape how rumours, controversies and policy debates are interpreted. The crucial question is therefore not simply whether many people appear to support a claim, but whether that appearance of support emerged independently or was carefully engineered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/preprints/socarxiv/7ucsh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Digital astroturfing in politics: Definition, typology, and...by M Kovic · Cited by 195 — We propose to call such fake online grassro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -765,169 +755,169 @@ The power of fake grassroots campaigns comes from their ability to manufacture t
 
 1. <a id="endnote-1"></a>
    Source: osf.io  
-   Link: [https://osf.io/preprints/socarxiv/7ucsh](https://osf.io/preprints/socarxiv/7ucsh)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OSFDigital astroturfing in [politics](&amp;#123;&amp;#123; &#x27;politics/&#x27; | relative_url &amp;#125;&amp;#125;): Definition, typology, and...by M Kovic · Cited by 195 — We propose to call such fake online grassro...</p></details>
+   Link: <a href="https://osf.io/preprints/socarxiv/7ucsh" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/socarxiv/7ucsh</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital astroturfing in [politics](&amp;#123;&amp;#123; &#x27;politics/&#x27; | relative_url &amp;#125;&amp;#125;): Definition, typology, and...by M Kovic · Cited by 195 — We propose to call such fake online grassro...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate Online astroturfing: A problem beyond disinformation  
-   Link: [https://www.researchgate.net/publication/361389437_Online_astroturfing_A_problem_beyond_disinformation](https://www.researchgate.net/publication/361389437_Online_astroturfing_A_problem_beyond_disinformation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateOnline astroturfing: A problem beyond disinformationJune 16, 2022 — 5 May 2026 — Astroturfing is the practice of creating a f...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/361389437_Online_astroturfing_A_problem_beyond_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361389437_Online_astroturfing_A_problem_beyond_disinformation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Online astroturfing: A problem beyond disinformationJune 16, 2022 — 5 May 2026 — Astroturfing is the practice of creating a f...</p></details>
    Published: June 16, 2022  
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X24000575](https://www.sciencedirect.com/science/article/pii/S2352250X24000575)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectReview Clicks and tricks: The dark art of online persuasionby P Fagan · 2024 · Cited by 18 — On the one hand, astroturfing i...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X24000575" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X24000575</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review Clicks and tricks: The dark art of online persuasionby P Fagan · 2024 · Cited by 18 — On the one hand, astroturfing i...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCoordination patterns reveal online political astroturfing  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8930979/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8930979/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby D Schoch · 2022 · Cited by 94 — Online political astroturfing—hidden information campaigns in which a political actor mimics genuin...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8930979/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8930979/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by D Schoch · 2022 · Cited by 94 — Online political astroturfing—hidden information campaigns in which a political actor mimics genuin...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-022-08404-9](https://www.nature.com/articles/s41598-022-08404-9)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureCoordination patterns reveal online political astroturfing...by D Schoch · 2022 · Cited by 94 — After all, political astroturfing...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-022-08404-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-08404-9</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coordination patterns reveal online political astroturfing...by D Schoch · 2022 · Cited by 94 — After all, political astroturfing...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11238850/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11238850/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCQuantifying the vulnerabilities of the online public square to...by BT Truong · 2024 · Cited by 17 — We show that social media users...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11238850/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11238850/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Quantifying the vulnerabilities of the online public square to...by BT Truong · 2024 · Cited by 17 — We show that social media users...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Ephemeral Astroturfing Attacks: The Case of Fake Twitter Trends  
-   Link: [https://arxiv.org/abs/1910.07783](https://arxiv.org/abs/1910.07783)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEphemeral Astroturfing Attacks: The Case of Fake Twitter TrendsOctober 17, 2019...</p></details>
+   Link: <a href="https://arxiv.org/abs/1910.07783" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1910.07783</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ephemeral Astroturfing Attacks: The Case of Fake Twitter TrendsOctober 17, 2019...</p></details>
    Published: October 17, 2019  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2503.00599](https://arxiv.org/abs/2503.00599)  
+   Link: <a href="https://arxiv.org/abs/2503.00599" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.00599</a>  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Trollthrottle -- Raising the Cost of Astroturfing  
-   Link: [https://arxiv.org/abs/2004.08836](https://arxiv.org/abs/2004.08836)  
+   Link: <a href="https://arxiv.org/abs/2004.08836" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2004.08836</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv FLOCK: Combating Astroturfing on Livestreaming Platforms  
-   Link: [https://arxiv.org/abs/1610.01096](https://arxiv.org/abs/1610.01096)  
+   Link: <a href="https://arxiv.org/abs/1610.01096" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1610.01096</a>  
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/355714693_Disinformation_social_media_bots_and_astroturfing_the_fourth_wave_of_digital_democracy](https://www.researchgate.net/publication/355714693_Disinformation_social_media_bots_and_astroturfing_the_fourth_wave_of_digital_democracy)  
+   Link: <a href="https://www.researchgate.net/publication/355714693_Disinformation_social_media_bots_and_astroturfing_the_fourth_wave_of_digital_democracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355714693_Disinformation_social_media_bots_and_astroturfing_the_fourth_wave_of_digital_democracy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Disinformation, social media, bots, and astroturfingThis paper explores the creation of an astroturf group, which is a fake grassro...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/332867727_Digital_astroturfing_in_politics_Definition_typology_and_countermeasures](https://www.researchgate.net/publication/332867727_Digital_astroturfing_in_politics_Definition_typology_and_countermeasures)  
+   Link: <a href="https://www.researchgate.net/publication/332867727_Digital_astroturfing_in_politics_Definition_typology_and_countermeasures" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332867727_Digital_astroturfing_in_politics_Definition_typology_and_countermeasures</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital astroturfing in politics: Definition, typology, and...23 Mar 2026 — In contemporary academic literature, digital astroturfing is...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2468227624002151](https://www.sciencedirect.com/science/article/pii/S2468227624002151)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2468227624002151" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2468227624002151</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Political social media bot detection: Unveiling cutting-edge...by Z Ellaky · 2024 · Cited by 15 — Astroturf: creates fake widespread sup...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2303.17251v2](https://arxiv.org/html/2303.17251v2)  
+   Link: <a href="https://arxiv.org/html/2303.17251v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2303.17251v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Demystifying Misconceptions in Social Bots Research27 Mar 2024 — The present study concerns one of the many forms of online disinformatio...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/14614448251350100](https://journals.sagepub.com/doi/10.1177/14614448251350100)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14614448251350100</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the [identity](&amp;#123;&amp;#123; &#x27;identity/&#x27; | relative_url &amp;#125;&amp;#125;) and...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: theindiaforum.in  
-   Link: [https://www.theindiaforum.in/law/digital-deceit-how-astroturfing-produces-democratic-deficits](https://www.theindiaforum.in/law/digital-deceit-how-astroturfing-produces-democratic-deficits)  
+   Link: <a href="https://www.theindiaforum.in/law/digital-deceit-how-astroturfing-produces-democratic-deficits" target="_blank" rel="noopener noreferrer nofollow">https://www.theindiaforum.in/law/digital-deceit-how-astroturfing-produces-democratic-deficits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The India ForumDigital Deceit: How Astroturfing Produces Democratic Deficits12 Aug 2025 — Digital astroturfing uses the phenomenon of soc...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/2057047320969435](https://journals.sagepub.com/doi/10.1177/2057047320969435)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/2057047320969435" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2057047320969435</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDetecting astroturf lobbying movements - Brieuc Lits, 2020by B Lits · 2020 · Cited by 38 — Astroturf lobbying refers to the...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/01914537221108467](https://journals.sagepub.com/doi/10.1177/01914537221108467)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/01914537221108467" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01914537221108467</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsOnline astroturfing: A problem beyond disinformationby J Chan · 2024 · Cited by 90 — Classic astroturfing, as the name sugge...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: tobaccotactics.org  
-   Link: [https://www.tobaccotactics.org/article/astroturfing/](https://www.tobaccotactics.org/article/astroturfing/)  
+   Link: <a href="https://www.tobaccotactics.org/article/astroturfing/" target="_blank" rel="noopener noreferrer nofollow">https://www.tobaccotactics.org/article/astroturfing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2022 — To create an impression of spontaneous, grassroots public support.... Fake Grassroots in the 1990s. One of the world&#x27;s lea...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Astroturfing](https://en.wikipedia.org/wiki/Astroturfing)  
+   Link: <a href="https://en.wikipedia.org/wiki/Astroturfing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Astroturfing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AstroturfingAstroturfing is the use of fake grassroots efforts that primarily focus on influencing public opinion and typically are fu...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cdmrn.ca  
-   Link: [https://www.cdmrn.ca/learning-content/astroturfing](https://www.cdmrn.ca/learning-content/astroturfing)  
+   Link: <a href="https://www.cdmrn.ca/learning-content/astroturfing" target="_blank" rel="noopener noreferrer nofollow">https://www.cdmrn.ca/learning-content/astroturfing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Apr 2025 —... grassroots movements and public opinion.... If you suspect the campaign may be using bots, you can report the fake acco...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: firstmonday.org  
-   Link: [https://firstmonday.org/ojs/index.php/fm/article/view/10801/9723](https://firstmonday.org/ojs/index.php/fm/article/view/10801/9723)  
+   Link: <a href="https://firstmonday.org/ojs/index.php/fm/article/view/10801/9723" target="_blank" rel="noopener noreferrer nofollow">https://firstmonday.org/ojs/index.php/fm/article/view/10801/9723</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Manufacturing rage: The Russian Internet...by A Al-Rawi · 2020 · Cited by 42 — This paper analyzes the social media ads from the view...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: suttonsmart.com  
-   Link: [https://suttonsmart.com/political-consulting/astroturfing-in-politics/](https://suttonsmart.com/political-consulting/astroturfing-in-politics/)  
+   Link: <a href="https://suttonsmart.com/political-consulting/astroturfing-in-politics/" target="_blank" rel="noopener noreferrer nofollow">https://suttonsmart.com/political-consulting/astroturfing-in-politics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astroturfing in Politics: The Fake Grassroots Tactic ExposedAstroturfing is the practice of creating the illusion of grassroots support f...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/TheoryOfReddit/comments/rqmc5k/astroturfing_on_reddit/](https://www.reddit.com/r/TheoryOfReddit/comments/rqmc5k/astroturfing_on_reddit/)  
+   Link: <a href="https://www.reddit.com/r/TheoryOfReddit/comments/rqmc5k/astroturfing_on_reddit/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheoryOfReddit/comments/rqmc5k/astroturfing_on_reddit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astroturfing on Reddit: r/TheoryOfRedditAstroturfing is essentially “fake grassroots” movements. It is organized activity made to stimul...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: orionpolicy.org  
-   Link: [https://orionpolicy.org/political-astroturfing-in-twitterscape-the-role-of-troll-armies-in-turkeys-democratic-backsliding/](https://orionpolicy.org/political-astroturfing-in-twitterscape-the-role-of-troll-armies-in-turkeys-democratic-backsliding/)  
+   Link: <a href="https://orionpolicy.org/political-astroturfing-in-twitterscape-the-role-of-troll-armies-in-turkeys-democratic-backsliding/" target="_blank" rel="noopener noreferrer nofollow">https://orionpolicy.org/political-astroturfing-in-twitterscape-the-role-of-troll-armies-in-turkeys-democratic-backsliding/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Political Astroturfing in Turkey: Troll Armies and DemocracyBuilding on the Stanford University&#x27;s report, this study explores the politic...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: scholars.lib.ntu.edu.tw  
-   Link: [https://scholars.lib.ntu.edu.tw/handle/123456789/425114](https://scholars.lib.ntu.edu.tw/handle/123456789/425114)  
+   Link: <a href="https://scholars.lib.ntu.edu.tw/handle/123456789/425114" target="_blank" rel="noopener noreferrer nofollow">https://scholars.lib.ntu.edu.tw/handle/123456789/425114</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>astroturfing in politics: Definition, typology, and...We propose to call such fake online grassroots activity digital astroturfing, and...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: bi.team  
-   Link: [https://www.bi.team/press-releases/social-media-algorithms-amplify-right-wing-content-against-young-users-preference-study-finds/](https://www.bi.team/press-releases/social-media-algorithms-amplify-right-wing-content-against-young-users-preference-study-finds/)  
+   Link: <a href="https://www.bi.team/press-releases/social-media-algorithms-amplify-right-wing-content-against-young-users-preference-study-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.bi.team/press-releases/social-media-algorithms-amplify-right-wing-content-against-young-users-preference-study-finds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media algorithms amplify right-wing content against...10 Mar 2026 — London, UK – A study into young European adults&#x27; experiences...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: manchester.ac.uk  
    Title: how to rig an election twitters problem with political saboteurs  
-   Link: [https://www.manchester.ac.uk/about/news/how-to-rig-an-election-twitters-problem-with-political-saboteurs/](https://www.manchester.ac.uk/about/news/how-to-rig-an-election-twitters-problem-with-political-saboteurs/)  
+   Link: <a href="https://www.manchester.ac.uk/about/news/how-to-rig-an-election-twitters-problem-with-political-saboteurs/" target="_blank" rel="noopener noreferrer nofollow">https://www.manchester.ac.uk/about/news/how-to-rig-an-election-twitters-problem-with-political-saboteurs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to rig an election: Twitter&#x27;s problem with political...28 Oct 2019 — &#x27;Astroturfing&#x27; comes from the way in which agents appear to be...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: turnto23.com  
    Title: astroturfing and the rise of misinformation campaigns  
-   Link: [https://www.turnto23.com/news/news-literacy-project/astroturfing-and-the-rise-of-misinformation-campaigns](https://www.turnto23.com/news/news-literacy-project/astroturfing-and-the-rise-of-misinformation-campaigns)  
+   Link: <a href="https://www.turnto23.com/news/news-literacy-project/astroturfing-and-the-rise-of-misinformation-campaigns" target="_blank" rel="noopener noreferrer nofollow">https://www.turnto23.com/news/news-literacy-project/astroturfing-and-the-rise-of-misinformation-campaigns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Astroturfing&#x27; and the rise of misinformation campaigns27 Jan 2021 — Astroturfing is an effort to mobilize the mass public in a way that...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: icono14.net  
    Title: Inside the Invisible Machinery of Astroturfing  
-   Link: [https://icono14.net/ojs/index.php/icono14/article/view/2278/2524](https://icono14.net/ojs/index.php/icono14/article/view/2278/2524)  
+   Link: <a href="https://icono14.net/ojs/index.php/icono14/article/view/2278/2524" target="_blank" rel="noopener noreferrer nofollow">https://icono14.net/ojs/index.php/icono14/article/view/2278/2524</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A serial...While detection methods have advanced - including network analysis, linguistic patterning, and bot detection - many campaigns...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: springerprofessional.de  
-   Link: [https://www.springerprofessional.de/en/astroturfing-understanding-and-addressing-the-influence-of-fake-/51283520](https://www.springerprofessional.de/en/astroturfing-understanding-and-addressing-the-influence-of-fake-/51283520)  
+   Link: <a href="https://www.springerprofessional.de/en/astroturfing-understanding-and-addressing-the-influence-of-fake-/51283520" target="_blank" rel="noopener noreferrer nofollow">https://www.springerprofessional.de/en/astroturfing-understanding-and-addressing-the-influence-of-fake-/51283520</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of fake support or opposition to a certain cause, product, or campaign...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: Lawfare  
-   Link: [https://www.lawfaremedia.org/article/fake-news-fake-views-new-challenges-posed-chatgpt-ai](https://www.lawfaremedia.org/article/fake-news-fake-views-new-challenges-posed-chatgpt-ai)  
+   Link: <a href="https://www.lawfaremedia.org/article/fake-news-fake-views-new-challenges-posed-chatgpt-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.lawfaremedia.org/article/fake-news-fake-views-new-challenges-posed-chatgpt-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Challenges Posed by ChatGPT-Like AIJan 20, 2023 — Astroturfing circa 2016, however, was often either ineffective or expensive...</p></details>

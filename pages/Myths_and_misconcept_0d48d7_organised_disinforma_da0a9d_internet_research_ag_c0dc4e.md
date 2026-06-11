@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_prebunking_manipulat_26878d
 - Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_reporting_viral_fals_915704
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - campaigns
 - ira-case
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - campaigns
 - ira-case
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: The Russian Internet Research Agency showed how fake identities, targeted pages and existing social divisions can turn deception into mass influence.
 hero_summary: The Russian Internet Research Agency showed how fake identities, targeted pages and existing social divisions can turn deception into mass influence.
 layout: default
 permalink: /ira-case/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /campaigns/
 nav_short_title: IRA Case
 title: The Case That Made Coordination Visible
-title_full: The Case That Made Coordination Visible | Campaigns
+title_full: The Case That Made Coordination Visible
 display_title_short: IRA Case
 display_title: IRA Case
 heading_title: The Case That Made Coordination Visible
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Falsehoods Are Spread on Purpose | Mythcraft
+parent_title: When Falsehoods Are Spread on Purpose
 parent_permalink: /campaigns/
 parent_nav_short_title: Campaigns
 parent_heading_title: When Falsehoods Are Spread on Purpose
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Learning the Trick Before the Lie
 up_link:
   basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
@@ -265,7 +265,7 @@ next_link:
   permalink: /media-coverage/
   short_title: Media Coverage
   heading_title: Reporting Rumours Without Spreading Them
-date: '2026-06-09 05:40:08 '
+date: '2026-06-11 22:39:16 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_internet_research_ag_c0dc4e-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_internet_research_ag_c0dc4e-Illustration-1.webp
@@ -276,16 +276,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_in
 
 The Internet Research Agency (IRA) case still matters because it transformed online disinformation from a largely theoretical concern into a documented example of how coordinated deception could operate at scale on mainstream social [platforms]({{ 'platforms/' | relative_url }}). Investigations by the US Senate, academic researchers and technology companies revealed not simply false stories, but an organised effort that used fake identities, targeted communities and platform tools to influence public debate while appearing to be ordinary grassroots activity. The case remains important not because it explains every instance of misinformation, but because it exposed mechanisms that continue to shape how researchers, journalists, platforms and governments think about coordinated manipulation online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/senatedocs/4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">DigitalCommons&quot;Report of the Select Committee on Intelligence United States...Petersburg-based Internet Research Agency (IRA) used socia...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intelligence.senate.gov/2020/08/18/publications-report-select-committee-intelligence-united-states-senate-russian-active-measures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.senate.gov">[Senate Select Committee on Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.senate.gov</span><span class="citation-popover-snippet">Senate Select Committee on IntelligenceReport of the Select Committee on Intelligence United...Aug 18, 2020 — Russian Active Measures Ca...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_internet_research_ag_c0dc4e-Illustration-1-dark.svg" | relative_url }}" alt="IRA Case illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_internet_research_ag_c0dc4e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_internet_research_ag_c0dc4e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the operation tried to disguise
 
 One common misconception is that the significance of the IRA lay mainly in foreign origin or individual false posts. The more important lesson was the effort to conceal coordination. Senate investigators found that operatives masqueraded as Americans and used advertisements, fabricated content, social media groups and platform engagement tools to reach large audiences while hiding the true source of the activity. The operation attempted to create the appearance of authentic civic participation rather than obvious propaganda. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/senatedocs/4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">DigitalCommons&quot;Report of the Select Committee on Intelligence United States...Petersburg-based Internet Research Agency (IRA) used socia...</span></span></span>
 
-This distinction remains central to modern discussions of disinformation. Researchers increasingly focus on "coordinated inauthentic behaviour"—networks that work together while disguising their relationships—because the manipulation often lies in the organisation behind the message rather than in any single post. A statement may contain some truth, but if it is amplified through concealed networks designed to manufacture consensus, the public receives a misleading picture of genuine opinion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCCoordinated inauthentic behavior: An innovative manipulation...by M Murero · 2023 · Cited by 27 — Coordinated inauthentic behavior (C...</span></span></span>
+This distinction remains central to modern discussions of disinformation. Researchers increasingly focus on "coordinated inauthentic behaviour"—networks that work together while disguising their relationships—because the manipulation often lies in the organisation behind the message rather than in any single post. A statement may contain some truth, but if it is amplified through concealed networks designed to manufacture consensus, the public receives a misleading picture of genuine opinion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Coordinated inauthentic behavior: An innovative manipulation...by M Murero · 2023 · Cited by 27 — Coordinated inauthentic behavior (C...</span></span></span>
 
-The IRA case therefore shifted attention from asking whether a particular claim was true or false to asking who was amplifying it, how they were connected, and whether the apparent public support was real. That analytical framework continues to influence platform investigations today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCCoordinated inauthentic behavior: An innovative manipulation...by M Murero · 2023 · Cited by 27 — Coordinated inauthentic behavior (C...</span></span></span>
-
+The IRA case therefore shifted attention from asking whether a particular claim was true or false to asking who was amplifying it, how they were connected, and whether the apparent public support was real. That analytical framework continues to influence platform investigations today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Coordinated inauthentic behavior: An innovative manipulation...by M Murero · 2023 · Cited by 27 — Coordinated inauthentic behavior (C...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kdSstzKlV-c" title="How Russia used disinformation on social media to target voters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kdSstzKlV-c" target="_blank" rel="noopener noreferrer">How Russia used disinformation on social media to target voters</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 19.2K &middot; Uploaded: December 2018 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kdSstzKlV-c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kdSstzKlV-c">Open on YouTube</a></p></div></div></div>
 
@@ -299,7 +297,6 @@ One frequently cited example involves the targeting of Black American audiences 
 
 The case also showed that influence operations are rarely confined to one platform. Researchers analysing Senate data concluded that the IRA used multiple major social networks simultaneously, combining text, images, video and targeted advertising. This cross-platform approach helped messages travel farther and appear more organic than they would have on a single site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://demtech.oii.ox.ac.uk/coverage-russias-ira-and-american-political-polarization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: demtech.oii.ox.ac.uk">[demtech.oii.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">demtech.oii.ox.ac.uk</span><span class="citation-popover-title">coverage russias ira and american political polarization</span><span class="citation-popover-snippet">Coverage: Russia&#x27;s IRA and American Political Polarization19 Dec 2018 — A report prepared for the Senate that provides the most sweeping...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_internet_research_ag_c0dc4e-Illustration-2-dark.svg" | relative_url }}" alt="IRA Case illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_internet_research_ag_c0dc4e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_internet_research_ag_c0dc4e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case teaches without overgeneralising
 
@@ -307,22 +304,14 @@ The IRA case remains influential because it offers several durable lessons while
 
 First, it demonstrated that coordinated manipulation can exploit genuine grievances. The operation did not create every social conflict it referenced. Instead, it inserted itself into existing debates and attempted to magnify them. This remains a key insight for understanding modern influence campaigns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/senatedocs/4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">DigitalCommons&quot;Report of the Select Committee on Intelligence United States...Petersburg-based Internet Research Agency (IRA) used socia...</span></span></span>
 
-Second, it showed that visibility matters. Before the investigations, many people assumed that online engagement reflected authentic public participation. The exposure of organised fake personas revealed that popularity signals—likes, shares, comments and follower counts—could be manipulated. This insight helped drive later research into coordinated behaviour, bot networks and synthetic [amplification]({{ 'amplification/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oii.ox.ac.uk/research/projects/computational-propaganda/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oii.ox.ac.uk">[Oxford Internet Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oii.ox.ac.uk</span><span class="citation-popover-title">Oxford Internet Institute Computational Propaganda</span><span class="citation-popover-snippet">Oxford Internet InstituteComputational Propaganda - OIIThis project enables a new team of social and information scientists to investigat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cordis.europa.eu/project/id/648311/reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cordis.europa.eu">[CORDIS Third]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cordis.europa.eu</span><span class="citation-popover-snippet">the Impact of Algorithms and Bots on Political...Computational propaganda involves the use of algorithms, automation, and big data analy...</span></span></span>, the case encouraged a broader understanding of information warfare. Researchers studying computational propaganda now examine how algorithms, automation, targeting and networked coordination can shape attention and discourse, not just whether users encounter fabricated stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oii.ox.ac.uk/research/projects/computational-propaganda/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oii.ox.ac.uk">[Oxford Internet Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oii.ox.ac.uk</span><span class="citation-popover-title">Oxford Internet Institute Computational Propaganda</span><span class="citation-popover-snippet">Oxford Internet InstituteComputational Propaganda - OIIThis project enables a new team of social and information scientists to investigat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cordis.europa.eu/project/id/648311/reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cordis.europa.eu">[CORDIS At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cordis.europa.eu</span><span class="citation-popover-snippet">the Impact of Algorithms and Bots on Political...Computational propaganda involves the use of algorithms, automation, and big data analy...</span></span></span>, the case also cautions against overreaction. Subsequent research has found that exposure to IRA content was often concentrated among particular users and that measurable effects on attitudes or voting behaviour can be difficult to demonstrate directly. The existence of a coordinated operation does not mean every political outcome or public belief was caused by it. Understanding the campaign requires separating evidence of manipulation from assumptions about its ultimate effectiveness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41467-022-35576-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureExposure to the Russian Internet Research Agency foreign...by G Eady · 2023 · Cited by 207 — We quantify the relationship between...</span></span></span>
+Second, it showed that visibility matters. Before the investigations, many people assumed that online engagement reflected authentic public participation. The exposure of organised fake personas revealed that popularity signals—likes, shares, comments and follower counts—could be manipulated. This insight helped drive later research into coordinated behaviour, bot networks and synthetic [amplification]({{ 'amplification/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oii.ox.ac.uk/research/projects/computational-propaganda/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oii.ox.ac.uk">[Oxford Internet Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oii.ox.ac.uk</span><span class="citation-popover-title">Oxford Internet Institute Computational Propaganda</span><span class="citation-popover-snippet">ford Internet InstituteComputational Propaganda - OIIThis project enables a new team of social and information scientists to investigat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cordis.europa.eu/project/id/648311/reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cordis.europa.eu">[CORDIS Third]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cordis.europa.eu</span><span class="citation-popover-snippet">the Impact of Algorithms and Bots on Political...Computational propaganda involves the use of algorithms, automation, and big data analy...</span></span></span>, the case encouraged a broader understanding of information warfare. Researchers studying computational propaganda now examine how algorithms, automation, targeting and networked coordination can shape attention and discourse, not just whether users encounter fabricated stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oii.ox.ac.uk/research/projects/computational-propaganda/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oii.ox.ac.uk">[Oxford Internet Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oii.ox.ac.uk</span><span class="citation-popover-title">Oxford Internet Institute Computational Propaganda</span><span class="citation-popover-snippet">ford Internet InstituteComputational Propaganda - OIIThis project enables a new team of social and information scientists to investigat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cordis.europa.eu/project/id/648311/reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cordis.europa.eu">[CORDIS At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cordis.europa.eu</span><span class="citation-popover-snippet">the Impact of Algorithms and Bots on Political...Computational propaganda involves the use of algorithms, automation, and big data analy...</span></span></span>, the case also cautions against overreaction. Subsequent research has found that exposure to IRA content was often concentrated among particular users and that measurable effects on attitudes or voting behaviour can be difficult to demonstrate directly. The existence of a coordinated operation does not mean every political outcome or public belief was caused by it. Understanding the campaign requires separating evidence of manipulation from assumptions about its ultimate effectiveness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41467-022-35576-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Exposure to the Russian Internet Research Agency foreign...by G Eady · 2023 · Cited by 207 — We quantify the relationship between...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p2KNBoJoBP0" title="How Coordinated Bot Campaigns Target Your Social Media Feeds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p2KNBoJoBP0" target="_blank" rel="noopener noreferrer">How Coordinated Bot Campaigns Target Your Social Media Feeds</a></p><p class="youtube-embed-meta">Channel: THIRTEEN</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p2KNBoJoBP0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p2KNBoJoBP0">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vMzgJRamXXE" title="How A Russian Troll Farm Tried To Interfere With The Election...Again | NBC News Signal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vMzgJRamXXE" target="_blank" rel="noopener noreferrer">How A Russian Troll Farm Tried To Interfere With The Election...Again | NBC News Signal</a></p><p class="youtube-embed-meta">Channel: NBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vMzgJRamXXE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vMzgJRamXXE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_internet_research_ag_c0dc4e-Illustration-3-dark.svg" | relative_url }}" alt="IRA Case illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_internet_research_ag_c0dc4e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_internet_research_ag_c0dc4e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case remains a reference point
 
 The IRA case endures as a landmark example because it made hidden coordination visible. Investigations produced unusually detailed records of fake accounts, audience targeting, platform tactics and organisational structure, giving researchers a rare opportunity to study an influence operation after it had been exposed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/senatedocs/4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">DigitalCommons&quot;Report of the Select Committee on Intelligence United States...Petersburg-based Internet Research Agency (IRA) used socia...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://democrats-intelligence.house.gov/social-media-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats-intelligence.house.gov">[2democrats-intelligence.house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats-intelligence.house.gov</span><span class="citation-popover-title">social media content</span><span class="citation-popover-snippet">Exposing Russia&#x27;s Effort to Sow Discord Online16 Feb 2018 — 13 Russian individuals and three Russian organizations for engaging in operat...</span></span></span>
 
-For discussions about [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}), its lasting importance is not that it proves all misinformation comes from organised campaigns. Rather, it demonstrates that some misleading narratives are supported by deliberate networks that seek to appear spontaneous and authentic. The case remains a reminder that public debate can be influenced not only by what people believe, but also by who is quietly shaping what they see, share and discuss. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/senatedocs/4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">DigitalCommons&quot;Report of the Select Committee on Intelligence United States...Petersburg-based Internet Research Agency (IRA) used socia...</span></span></span>
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_internet_research_ag_c0dc4e-Illustration-3-dark.svg" | relative_url }}" alt="IRA Case illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_internet_research_ag_c0dc4e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_internet_research_ag_c0dc4e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+For discussions about myths and misconceptions, its lasting importance is not that it proves all misinformation comes from organised campaigns. Rather, it demonstrates that some misleading narratives are supported by deliberate networks that seek to appear spontaneous and authentic. The case remains a reminder that public debate can be influenced not only by what people believe, but also by who is quietly shaping what they see, share and discuss. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/senatedocs/4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">DigitalCommons&quot;Report of the Select Committee on Intelligence United States...Petersburg-based Internet Research Agency (IRA) used socia...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -720,137 +709,137 @@ For discussions about [myths and misconceptions]({{ 'myths-and-misconceptions/' 
 
 1. <a id="endnote-1"></a>
    Source: intelligence.senate.gov  
-   Link: [https://www.intelligence.senate.gov/2020/08/18/publications-report-select-committee-intelligence-united-states-senate-russian-active-measures/](https://www.intelligence.senate.gov/2020/08/18/publications-report-select-committee-intelligence-united-states-senate-russian-active-measures/)  
+   Link: <a href="https://www.intelligence.senate.gov/2020/08/18/publications-report-select-committee-intelligence-united-states-senate-russian-active-measures/" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/2020/08/18/publications-report-select-committee-intelligence-united-states-senate-russian-active-measures/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Select Committee on IntelligenceReport of the Select Committee on Intelligence United...Aug 18, 2020 — Russian Active Measures Ca...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: demtech.oii.ox.ac.uk  
-   Link: [https://demtech.oii.ox.ac.uk/wp-content/uploads/sites/12/2018/12/The-IRA-Social-Media-and-Political-Polarization.pdf](https://demtech.oii.ox.ac.uk/wp-content/uploads/sites/12/2018/12/The-IRA-Social-Media-and-Political-Polarization.pdf)  
+   Link: <a href="https://demtech.oii.ox.ac.uk/wp-content/uploads/sites/12/2018/12/The-IRA-Social-Media-and-Political-Polarization.pdf" target="_blank" rel="noopener noreferrer nofollow">https://demtech.oii.ox.ac.uk/wp-content/uploads/sites/12/2018/12/The-IRA-Social-Media-and-Political-Polarization.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>aunched an extended attack on the United States by using computational propaganda to misinform and polarize US voters.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCCoordinated inauthentic behavior: An innovative manipulation...by M Murero · 2023 · Cited by 27 — Coordinated inauthentic behavior (C...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coordinated inauthentic behavior: An innovative manipulation...by M Murero · 2023 · Cited by 27 — Coordinated inauthentic behavior (C...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: demtech.oii.ox.ac.uk  
    Title: coverage russias ira and american political polarization  
-   Link: [https://demtech.oii.ox.ac.uk/coverage-russias-ira-and-american-political-polarization/](https://demtech.oii.ox.ac.uk/coverage-russias-ira-and-american-political-polarization/)  
+   Link: <a href="https://demtech.oii.ox.ac.uk/coverage-russias-ira-and-american-political-polarization/" target="_blank" rel="noopener noreferrer nofollow">https://demtech.oii.ox.ac.uk/coverage-russias-ira-and-american-political-polarization/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coverage: Russia&#x27;s IRA and American Political Polarization19 Dec 2018 — A report prepared for the Senate that provides the most sweeping...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: wired.com  
    Title: Targeting Black Americans, Russia's IRA Exploited Racial Wounds  
-   Link: [https://www.wired.com/story/russia-ira-target-black-americans](https://www.wired.com/story/russia-ira-target-black-americans)  
+   Link: <a href="https://www.wired.com/story/russia-ira-target-black-americans" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/russia-ira-target-black-americans</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>presidential election. The IRA sought to suppress black voter turnout and instill mistrust in democratic institutions by leveraging socia...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: oii.ox.ac.uk  
    Title: Oxford Internet Institute Computational Propaganda  
-   Link: [https://www.oii.ox.ac.uk/research/projects/computational-propaganda/](https://www.oii.ox.ac.uk/research/projects/computational-propaganda/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford Internet InstituteComputational Propaganda - OIIThis project enables a new team of social and information scientists to investigat...</p></details>
+   Link: <a href="https://www.oii.ox.ac.uk/research/projects/computational-propaganda/" target="_blank" rel="noopener noreferrer nofollow">https://www.oii.ox.ac.uk/research/projects/computational-propaganda/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ford Internet InstituteComputational Propaganda - OIIThis project enables a new team of social and information scientists to investigat...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cordis.europa.eu  
-   Link: [https://cordis.europa.eu/project/id/648311/reporting](https://cordis.europa.eu/project/id/648311/reporting)  
+   Link: <a href="https://cordis.europa.eu/project/id/648311/reporting" target="_blank" rel="noopener noreferrer nofollow">https://cordis.europa.eu/project/id/648311/reporting</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Impact of Algorithms and Bots on Political...Computational propaganda involves the use of algorithms, automation, and big data analy...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41467-022-35576-9](https://www.nature.com/articles/s41467-022-35576-9)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureExposure to the Russian Internet Research Agency foreign...by G Eady · 2023 · Cited by 207 — We quantify the relationship between...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41467-022-35576-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-35576-9</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposure to the Russian Internet Research Agency foreign...by G Eady · 2023 · Cited by 207 — We quantify the relationship between...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: democrats-intelligence.house.gov  
    Title: social media content  
-   Link: [https://democrats-intelligence.house.gov/social-media-content/](https://democrats-intelligence.house.gov/social-media-content/)  
+   Link: <a href="https://democrats-intelligence.house.gov/social-media-content/" target="_blank" rel="noopener noreferrer nofollow">https://democrats-intelligence.house.gov/social-media-content/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing Russia&#x27;s Effort to Sow Discord Online16 Feb 2018 — 13 Russian individuals and three Russian organizations for engaging in operat...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: house.gov  
-   Link: [https://www.house.gov/the-house-explained/legislative-branch-partners/u-s-senate](https://www.house.gov/the-house-explained/legislative-branch-partners/u-s-senate)  
+   Link: <a href="https://www.house.gov/the-house-explained/legislative-branch-partners/u-s-senate" target="_blank" rel="noopener noreferrer nofollow">https://www.house.gov/the-house-explained/legislative-branch-partners/u-s-senate</a>  
 
 11. <a id="endnote-11"></a>
    Source: senate.gov  
-   Link: [https://www.senate.gov/](https://www.senate.gov/)  
+   Link: <a href="https://www.senate.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.senate.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. SenateVoting Origins &amp; Foundations, The Senate &amp; the Constitution, Electing &amp; Appointing Senators, Committee System, Idea of the Sen...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: digitalcommons.unl.edu  
-   Link: [https://digitalcommons.unl.edu/senatedocs/4/](https://digitalcommons.unl.edu/senatedocs/4/)  
+   Link: <a href="https://digitalcommons.unl.edu/senatedocs/4/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/senatedocs/4/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DigitalCommons&quot;Report of the Select Committee on Intelligence United States...Petersburg-based Internet Research Agency (IRA) used socia...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: digitalcommons.unl.edu  
-   Link: [https://digitalcommons.unl.edu/senatedocs/2/](https://digitalcommons.unl.edu/senatedocs/2/)  
+   Link: <a href="https://digitalcommons.unl.edu/senatedocs/2/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/senatedocs/2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>social influence operation consisting of various coordinated disinformation tactics aimed directly at US citizens, designed to exert poli...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Internet Research Agency  
-   Link: [https://en.wikipedia.org/wiki/Internet_Research_Agency](https://en.wikipedia.org/wiki/Internet_Research_Agency)  
+   Link: <a href="https://en.wikipedia.org/wiki/Internet_Research_Agency" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Internet_Research_Agency</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Research AgencyThe Internet Research Agency also known as Glavset and known in Russian Internet slang as the Trolls from Olgi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: yalereview.org  
    Title: computational propaganda  
-   Link: [https://yalereview.org/article/computational-propaganda](https://yalereview.org/article/computational-propaganda)  
+   Link: <a href="https://yalereview.org/article/computational-propaganda" target="_blank" rel="noopener noreferrer nofollow">https://yalereview.org/article/computational-propaganda</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Renée DiResta: &quot;Computational Propaganda&quot;1 Oct 2018 — It&#x27;s a malign narrative that is spread deliberately, with the explicit aim of causi...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: results2021.ref.ac.uk  
-   Link: [https://results2021.ref.ac.uk/impact/5c0a6d23-6451-45ba-9f90-32503f09f824?page=1](https://results2021.ref.ac.uk/impact/5c0a6d23-6451-45ba-9f90-32503f09f824?page=1)  
+   Link: <a href="https://results2021.ref.ac.uk/impact/5c0a6d23-6451-45ba-9f90-32503f09f824?page=1" target="_blank" rel="noopener noreferrer nofollow">https://results2021.ref.ac.uk/impact/5c0a6d23-6451-45ba-9f90-32503f09f824?page=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact case study: Results and submissionsHoward&#x27;s pioneering research into online disinformation has focussed media and political atten...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: credibilitycoalition.org  
-   Link: [https://credibilitycoalition.org/credcatalog/project/oxford-computational-propaganda-project/](https://credibilitycoalition.org/credcatalog/project/oxford-computational-propaganda-project/)  
+   Link: <a href="https://credibilitycoalition.org/credcatalog/project/oxford-computational-propaganda-project/" target="_blank" rel="noopener noreferrer nofollow">https://credibilitycoalition.org/credcatalog/project/oxford-computational-propaganda-project/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford Computational Propaganda Project | CredCatalogThe Computational Propaganda Research Project (COMPROP) investigates the interaction...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Senate_Intelligence_Committee_report_on_Russian_interference_in_the_2016_United_States_presidential_election](https://en.wikipedia.org/wiki/Senate_Intelligence_Committee_report_on_Russian_interference_in_the_2016_United_States_presidential_election)  
+   Link: <a href="https://en.wikipedia.org/wiki/Senate_Intelligence_Committee_report_on_Russian_interference_in_the_2016_United_States_presidential_election" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Senate_Intelligence_Committee_report_on_Russian_interference_in_the_2016_United_States_presidential_election</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>social media influence campaigns and not by cyberattacks on U.S. elections infrastructure—including by spreading disinformation about the...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: unsw.edu.au  
-   Link: [https://www.unsw.edu.au/content/dam/pdfs/unsw-canberra/dri/2023-02-research/2023-02-Understanding-Mass-Influence---A-case-study-of-the-Internet-Research-Agency.pdf](https://www.unsw.edu.au/content/dam/pdfs/unsw-canberra/dri/2023-02-research/2023-02-Understanding-Mass-Influence---A-case-study-of-the-Internet-Research-Agency.pdf)  
+   Link: <a href="https://www.unsw.edu.au/content/dam/pdfs/unsw-canberra/dri/2023-02-research/2023-02-Understanding-Mass-Influence---A-case-study-of-the-Internet-Research-Agency.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unsw.edu.au/content/dam/pdfs/unsw-canberra/dri/2023-02-research/2023-02-Understanding-Mass-Influence---A-case-study-of-the-Internet-Research-Agency.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Research AgencyImpactful Government Action” (2020); Intelligence Community Assessment: Assessing Russian Activities and Intentio...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: taylorfrancis.com  
    Title: evolution computational propaganda dariya tsyrenzhapova samuel woolley  
-   Link: [https://www.taylorfrancis.com/chapters/edit/10.4324/9781003004431-14/evolution-computational-propaganda-dariya-tsyrenzhapova-samuel-woolley](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003004431-14/evolution-computational-propaganda-dariya-tsyrenzhapova-samuel-woolley)  
+   Link: <a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003004431-14/evolution-computational-propaganda-dariya-tsyrenzhapova-samuel-woolley" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorfrancis.com/chapters/edit/10.4324/9781003004431-14/evolution-computational-propaganda-dariya-tsyrenzhapova-samuel-woolley</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The evolution of computational propagandaby D Tsyrenzhapova · 2021 · Cited by 27 — Computational propaganda employs automated and algorit...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: elgaronline.com  
    Title: b 9781800374263.coordinated.inauthentic.behavior.giglietto.xml  
-   Link: [https://www.elgaronline.com/display/book/9781800374263/b-9781800374263.coordinated.inauthentic.behavior.giglietto.xml](https://www.elgaronline.com/display/book/9781800374263/b-9781800374263.coordinated.inauthentic.behavior.giglietto.xml)  
+   Link: <a href="https://www.elgaronline.com/display/book/9781800374263/b-9781800374263.coordinated.inauthentic.behavior.giglietto.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.elgaronline.com/display/book/9781800374263/b-9781800374263.coordinated.inauthentic.behavior.giglietto.xml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Coordinated inauthentic behavior in4 Oct 2022 — In more recent documentation, the concept is further distinguished in domestic and foreig...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pbs.org  
    Title: senate panel backs assessment that russia interfered in 2016  
-   Link: [https://www.pbs.org/newshour/politics/senate-panel-backs-assessment-that-russia-interfered-in-2016](https://www.pbs.org/newshour/politics/senate-panel-backs-assessment-that-russia-interfered-in-2016)  
+   Link: <a href="https://www.pbs.org/newshour/politics/senate-panel-backs-assessment-that-russia-interfered-in-2016" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/senate-panel-backs-assessment-that-russia-interfered-in-2016</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate panel backs assessment that Russia interfered in...Apr 21, 2020 — The report rejects Trump&#x27;s claims that the intelligence communi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: spyscape.com  
    Title: inside the troll factory russias internet research agency  
-   Link: [https://spyscape.com/article/inside-the-troll-factory-russias-internet-research-agency](https://spyscape.com/article/inside-the-troll-factory-russias-internet-research-agency)  
+   Link: <a href="https://spyscape.com/article/inside-the-troll-factory-russias-internet-research-agency" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/inside-the-troll-factory-russias-internet-research-agency</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Russia&#x27;s Notorious &#x27;Internet Research Agency&#x27; Troll...The IRA had an estimated 400 staff working 12-hour shifts by 2015, includin...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: nysenate.gov  
-   Link: [https://www.nysenate.gov/](https://www.nysenate.gov/)  
+   Link: <a href="https://www.nysenate.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nysenate.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ing efficient communication between individual New Yorkers...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: privacyinternational.org  
    Title: us senate reports find social media threat democracy  
-   Link: [https://privacyinternational.org/examples/2791/us-senate-reports-find-social-media-threat-democracy](https://privacyinternational.org/examples/2791/us-senate-reports-find-social-media-threat-democracy)  
+   Link: <a href="https://privacyinternational.org/examples/2791/us-senate-reports-find-social-media-threat-democracy" target="_blank" rel="noopener noreferrer nofollow">https://privacyinternational.org/examples/2791/us-senate-reports-find-social-media-threat-democracy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Research Agency during the 2016 US presidential elect.... disinformation-prepared-senate-shows-operations-scale-sweep/ https...</p></details>

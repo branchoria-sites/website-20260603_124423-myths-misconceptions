@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_condescending_correc_7062df_reactance_shaming_co_0ba2e1
 - Myths_and_misconcept_0d48d7_condescending_correc_7062df_replacement_explanat_3e144b
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - tone
 - intent
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - tone
 - intent
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Treating every false claim as deliberate deception can make honest mistakes harder to repair and bad actors harder to identify.
 hero_summary: Treating every false claim as deliberate deception can make honest mistakes harder to repair and bad actors harder to identify.
 layout: default
 permalink: /intent/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /tone/
 nav_short_title: Intent
 title: Mistaken Is Not Always Malicious
-title_full: Mistaken Is Not Always Malicious | Tone
+title_full: Mistaken Is Not Always Malicious
 display_title_short: Intent
 display_title: Intent
 heading_title: Mistaken Is Not Always Malicious
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Shaming People Makes Corrections Harder | Mythcraft
+parent_title: Why Shaming People Makes Corrections Harder
 parent_permalink: /tone/
 parent_nav_short_title: Tone
 parent_heading_title: Why Shaming People Makes Corrections Harder
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The Missing Piece in Many Corrections
 up_link:
   basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
@@ -265,7 +265,7 @@ next_link:
   permalink: /public-replies/
   short_title: Public replies
   heading_title: When Public Correction Becomes Public Shaming
-date: '2026-06-09 05:07:56 '
+date: '2026-06-11 22:23:02 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_mi
 
 ## Introduction
 
-Correcting [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) becomes harder when every false claim is treated as evidence of bad character. A common failure in misinformation responses is to assume that anyone repeating a falsehood must be deliberately deceptive. In reality, research and policy organisations consistently distinguish between misinformation—false information shared without intent to mislead—and disinformation, which is spread with the intention of deceiving or causing harm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">UNESCOWhat is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">having intention to deceive. Explore further with...Read more...</span></span></span>
-
+Correcting myths and misconceptions becomes harder when every false claim is treated as evidence of bad character. A common failure in misinformation responses is to assume that anyone repeating a falsehood must be deliberately deceptive. In reality, research and policy organisations consistently distinguish between misinformation—false information shared without intent to mislead—and disinformation, which is spread with the intention of deceiving or causing harm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">having intention to deceive. Explore further with...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-1-dark.svg" | relative_url }}" alt="Intent illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters for governance, public trust and effective [correction]({{ 'correction/' | relative_url }}). If sincere mistakes are treated as malicious acts, people become less willing to admit error, communities become more defensive, and resources meant for combating organised deception can be misdirected toward ordinary citizens who were simply mistaken. At the same time, assuming good faith in every case can leave harmful [campaigns]({{ 'campaigns/' | relative_url }}) unchallenged. The challenge is not choosing between trust and scepticism; it is learning how to assess intent carefully enough to correct false claims without misidentifying the people involved.
@@ -284,10 +283,9 @@ This distinction matters for governance, public trust and effective [correction]
 
 The distinction between misinformation and disinformation is not merely academic. It shapes how institutions, [platforms]({{ 'platforms/' | relative_url }}), journalists and citizens decide to respond.
 
-UNESCO, parliamentary bodies, academic reviews and professional media-literacy frameworks all identify intent as the central dividing line. Misinformation refers to false information shared inadvertently or without an intention to mislead. Disinformation refers to false information deliberately created or spread to deceive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9910783/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation, False information that is shared without the intention to mislead or to cause harm, Not to mislead...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">UNESCOUnit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading conten...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-snippet">disinformation and misinformation. The spread of disinformation and misinformation is made possible largely through social networks and s...</span></span></span>
+UNESCO, parliamentary bodies, academic reviews and professional media-literacy frameworks all identify intent as the central dividing line. Misinformation refers to false information shared inadvertently or without an intention to mislead. Disinformation refers to false information deliberately created or spread to deceive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9910783/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation, False information that is shared without the intention to mislead or to cause harm, Not to mislead...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Unit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading conten...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-snippet">disinformation and misinformation. The spread of disinformation and misinformation is made possible largely through social networks and s...</span></span></span>
 
 This distinction is important because the same false claim may appear in very different contexts:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,9 +303,6 @@ Research on misinformation repeatedly finds that belief in false information is 
 
 One reason intent is frequently misread is that people often imagine false information moving through society as a deliberate campaign. In practice, many false claims spread through ordinary social relationships.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hLXPfA2VOys" title="SignVote Series: Misinformation and Disinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hLXPfA2VOys" target="_blank" rel="noopener noreferrer">SignVote Series: Misinformation and Disinformation</a></p><p class="youtube-embed-meta">Channel: Communication Service for the Deaf</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hLXPfA2VOys" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hLXPfA2VOys">Open on YouTube</a></p></div></div></div>
-
 ### Trust Often Matters More Than Verification
 
 People rarely investigate every claim they encounter. Daily life depends on trust in family members, friends, colleagues, community leaders and familiar media sources. When information arrives through a trusted relationship, it often receives less scrutiny than information from a stranger.
@@ -324,12 +319,11 @@ International and governmental reviews note that misinformation often spreads un
 
 Assuming malicious intent where none exists can undermine correction efforts in several ways.
 
-First, it changes the social meaning of the correction. Instead of communicating, “This information is inaccurate,” the correction communicates, “You are dishonest.” The recipient is then responding not only to a factual challenge but also to a moral accusation.
+First, it changes the social meaning of the correction. Instead of [communicating]({{ 'communicating/' | relative_url }}), “This information is inaccurate,” the correction communicates, “You are dishonest.” The recipient is then responding not only to a factual challenge but also to a moral accusation.
 
 Second, it makes updating beliefs more costly. A person who made an honest mistake can often acknowledge new evidence. A person accused of spreading lies may feel pressure to defend their reputation before they can evaluate the facts.
 
-Third, it can reduce trust in institutions that conduct fact-checking or moderation. If people perceive corrective efforts as unfairly attributing malicious motives, they may reject the correction itself regardless of its accuracy. Research on misinformation correction consistently emphasises that social and psychological factors influence whether corrections are accepted. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the cogni...</span></span></span> There is also a governance cost. Over-attributing bad intent can blur the distinction between ordinary misinformation and coordinated disinformation campaigns. Analysts and policymakers may then spend less effort identifying genuinely organised actors because everyone spreading false information is treated as part of the same problem. Scholars studying disinformation have argued that understanding organised deception requires attention to strategy, coordination and intent rather than focusing solely on whether content is false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDisambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
-
+Third, it can reduce trust in institutions that conduct fact-checking or moderation. If people perceive corrective efforts as unfairly attributing malicious motives, they may reject the correction itself regardless of its accuracy. Research on misinformation correction consistently emphasises that social and psychological factors influence whether corrections are accepted. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the cogni...</span></span></span> There is also a governance cost. Over-attributing bad intent can blur the distinction between ordinary misinformation and coordinated disinformation campaigns. Analysts and policymakers may then spend less effort identifying genuinely organised actors because everyone spreading false information is treated as part of the same problem. Scholars studying disinformation have argued that understanding organised deception requires attention to strategy, coordination and intent rather than focusing solely on whether content is false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-2-dark.svg" | relative_url }}" alt="Intent illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Intent Is Difficult to Judge
@@ -337,7 +331,6 @@ Third, it can reduce trust in institutions that conduct fact-checking or moderat
 Intent is one of the hardest elements of misinformation analysis because it is usually inferred rather than directly observed.
 
 A person may continue sharing a false claim because:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -351,13 +344,11 @@ A person may continue sharing a false claim because:
 
 The outward behaviour can appear similar in each case.
 
-Recent research has explored ways of distinguishing intentional from unintentional spreaders, precisely because intent cannot simply be assumed from a single post or statement. Behaviour over time—especially how individuals react when confronted with reliable corrections—often provides stronger evidence than the original act of sharing alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDisambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
+Recent research has explored ways of distinguishing intentional from unintentional spreaders, precisely because intent cannot simply be assumed from a single post or statement. Behaviour over time—especially how individuals react when confronted with reliable corrections—often provides stronger evidence than the original act of sharing alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
 
 This uncertainty is why many institutions use cautious terminology. The UK Parliament, for example, has stated that it prefers the term “misinformation” when purposeful intent cannot be clearly established and reserves “disinformation” for cases where intent to mislead is evident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/ld5801/ldselect/lddemdigi/77/7706.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament Chapter 2: Informed Citizens</span><span class="citation-popover-snippet">UK ParliamentChapter 2: Informed Citizens - Parliament UKIn our Report we use &#x27;misinformation&#x27; where it is unclear if there was purposefu...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z98U1nMFrJQ" title="A Neuroscientist Explains What Conspiracy Theories Do To Your Brain | Inverse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z98U1nMFrJQ" target="_blank" rel="noopener noreferrer">A Neuroscientist Explains What Conspiracy Theories Do To Your Brain | Inverse</a></p><p class="youtube-embed-meta">Channel: Inverse</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z98U1nMFrJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z98U1nMFrJQ">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-3-dark.svg" | relative_url }}" alt="Intent illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Firmer Correction Is Justified by Harm or Bad Faith
 
 Avoiding assumptions about intent does not mean treating every case gently or indefinitely extending the benefit of the doubt.
@@ -366,14 +357,12 @@ There are situations where stronger responses become justified.
 
 ### Repeated Refusal After Reliable Corrections
 
-When an individual or organisation repeatedly receives accurate corrective information yet continues to promote the same falsehood, the evidence for innocent error becomes weaker. Persistence alone does not prove malicious intent, but repeated behaviour [after correction]({{ 'after-correction/' | relative_url }}) can provide a stronger basis for concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDisambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
+When an individual or organisation repeatedly receives accurate corrective information yet continues to promote the same falsehood, the evidence for innocent error becomes weaker. Persistence alone does not prove malicious intent, but repeated behaviour [after correction]({{ 'after-correction/' | relative_url }}) can provide a stronger basis for concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
 
 ### Evidence of Coordination or Strategic Deception
 
-Disinformation campaigns often involve indicators that go beyond a single false claim. These can include coordinated messaging, fabricated evidence, networks of accounts acting together, or deliberate attempts to disguise the source of information. Researchers increasingly emphasise that organised deception is best identified through patterns of behaviour rather than isolated inaccuracies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDisambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
+Disinformation campaigns often involve indicators that go beyond a single false claim. These can include coordinated messaging, fabricated evidence, networks of accounts acting together, or deliberate attempts to disguise the source of information. Researchers increasingly emphasise that organised deception is best identified through patterns of behaviour rather than isolated inaccuracies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-3-dark.svg" | relative_url }}" alt="Intent illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Significant Public Harm
 
 In some circumstances, the potential consequences are severe enough that institutions must act even when intent remains uncertain. Public-health emergencies, election administration, disaster response and security incidents often require rapid intervention because delays can increase harm. In such cases, governance decisions frequently focus on the risk posed by the information rather than waiting for definitive proof of motive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Carnegie EndowmentCountering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communications.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communications.gov.uk">[2communications.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communications.gov.uk</span><span class="citation-popover-snippet">RESIST 2 Counter-disinformation toolkitIt explains the differences between misinformation, disinformation and malinformation and why thes...</span></span></span>
@@ -387,10 +376,6 @@ The most effective corrections often begin with a simple recognition: being wron
 A correction that distinguishes between misinformation and disinformation can acknowledge uncertainty about motives while remaining firm about facts. It can challenge the claim without automatically condemning the person. This approach preserves the ability to identify genuine bad actors while giving ordinary people room to revise their views.
 
 For myths and misconceptions, that distinction is more than a matter of politeness. It is a practical tool for understanding how false beliefs spread, why corrections succeed or fail, and how institutions can respond proportionately. When intent is misread, both the mistaken individual and the deliberate deceiver may end up treated the same way. Effective correction depends on recognising that they are not.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HD5MmuLDeFE" title="How to understand Misinformation, Disinformation and Malinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HD5MmuLDeFE" target="_blank" rel="noopener noreferrer">How to understand Misinformation, Disinformation and Malinformation</a></p><p class="youtube-embed-meta">Channel: Shout Out UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HD5MmuLDeFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HD5MmuLDeFE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -788,186 +773,186 @@ For myths and misconceptions, that distinction is more than a matter of politene
 
 1. <a id="endnote-1"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/query-list/m/misinformation](https://www.unesco.org/en/query-list/m/misinformation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCOWhat is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
+   Link: <a href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/m/misinformation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/tags/disinformation-0](https://www.unesco.org/en/tags/disinformation-0)  
+   Link: <a href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/disinformation-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>having intention to deceive. Explore further with...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament Chapter 2: Informed Citizens  
-   Link: [https://publications.parliament.uk/pa/ld5801/ldselect/lddemdigi/77/7706.htm](https://publications.parliament.uk/pa/ld5801/ldselect/lddemdigi/77/7706.htm)  
+   Link: <a href="https://publications.parliament.uk/pa/ld5801/ldselect/lddemdigi/77/7706.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld5801/ldselect/lddemdigi/77/7706.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentChapter 2: Informed Citizens - Parliament UKIn our Report we use &#x27;misinformation&#x27; where it is unclear if there was purposefu...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9910783/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9910783/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9910783/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9910783/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, False information that is shared without the intention to mislead or to cause harm, Not to mislead...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/mil4teachers/en/module4/unit2](https://www.unesco.org/mil4teachers/en/module4/unit2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCOUnit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading conten...</p></details>
+   Link: <a href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading conten...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: unesdoc.unesco.org  
-   Link: [https://unesdoc.unesco.org/ark%3A/48223/pf0000265552](https://unesdoc.unesco.org/ark%3A/48223/pf0000265552)  
+   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000265552</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation and misinformation. The spread of disinformation and misinformation is made possible largely through social networks and s...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661321000516](https://www.sciencedirect.com/science/article/pii/S1364661321000516)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Poor truth...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the cogni...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X23001847](https://www.sciencedirect.com/science/article/pii/S2352250X23001847)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X23001847" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X23001847</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The four stages are source selection, information selection, evaluation...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchbriefings.files.parliament.uk  
    Title: Research Briefings Disinformation: sources, spread and impact  
-   Link: [https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf](https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf)  
+   Link: <a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research BriefingsDisinformation: sources, spread and impactApril 26, 2024 — 25 Apr 2024 — People may intentionally share disinformation...</p></details>
    Published: April 26, 2024  
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S2564189124000331](https://www.sciencedirect.com/org/science/article/pii/S2564189124000331)  
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S2564189124000331" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S2564189124000331</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is often spread by individuals who believe the information to be true...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8979789/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8979789/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCInvestigation of the determinants for misinformation correction...by Y Zhang · 2022 · Cited by 71 — This study explores determinants...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8979789/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8979789/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation of the determinants for misinformation correction...by Y Zhang · 2022 · Cited by 71 — This study explores determinants...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2206.12915](https://arxiv.org/abs/2206.12915)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDisambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.12915</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</p></details>
    Published: June 26, 2022  
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2202.04752](https://arxiv.org/abs/2202.04752)  
+   Link: <a href="https://arxiv.org/abs/2202.04752" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2202.04752</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 9, 2022...</p></details>
    Published: February 9, 2022  
 
 15. <a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.00957](https://arxiv.org/abs/2305.00957)  
+   Link: <a href="https://arxiv.org/abs/2305.00957" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.00957</a>  
 
 16. <a id="endnote-16"></a>
    Source: communications.gov.uk  
-   Link: [https://www.communications.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf](https://www.communications.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf)  
+   Link: <a href="https://www.communications.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communications.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RESIST 2 Counter-disinformation toolkitIt explains the differences between misinformation, disinformation and malinformation and why thes...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/query-list/d/disinformation](https://www.unesco.org/en/query-list/d/disinformation)  
+   Link: <a href="https://www.unesco.org/en/query-list/d/disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/d/disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>having intention to deceive. Explore further with...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: unesco.org  
    Title: deepfakes and crisis knowing  
-   Link: [https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing](https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing)  
+   Link: <a href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfakes and the crisis of knowing27 Oct 2025 — The rise of AI-augmented disinformation and misinformation demands a fundamental shift i...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: unesco.org  
    Title: What is Misinformation?  
-   Link: [https://www.unesco.org/en/tags/misinformation-0](https://www.unesco.org/en/tags/misinformation-0)  
+   Link: <a href="https://www.unesco.org/en/tags/misinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/misinformation-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to cause harm. The terms misinforma...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: moadoph.gov.au  
-   Link: [https://moadoph.gov.au/explore/democracy/what-is-the-difference-between-misinformation-and-disinformation](https://moadoph.gov.au/explore/democracy/what-is-the-difference-between-misinformation-and-disinformation)  
+   Link: <a href="https://moadoph.gov.au/explore/democracy/what-is-the-difference-between-misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://moadoph.gov.au/explore/democracy/what-is-the-difference-between-misinformation-and-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the difference between misinformation and...This glossary will help you navigate the lingo associated with misinformation, fake...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: [https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide](https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide)  
+   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie EndowmentCountering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/mgiep/posts/false-information-created-deliberately-to-misinform-and-mislead-others-with-the-/1140017351493368/](https://www.facebook.com/mgiep/posts/false-information-created-deliberately-to-misinform-and-mislead-others-with-the-/1140017351493368/)  
+   Link: <a href="https://www.facebook.com/mgiep/posts/false-information-created-deliberately-to-misinform-and-mislead-others-with-the-/1140017351493368/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mgiep/posts/false-information-created-deliberately-to-misinform-and-mislead-others-with-the-/1140017351493368/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unesco mgiepThe key difference between misinformation and disinformation lies in the intent behind the spread of false information: Misin...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: mediadefence.org  
-   Link: [https://www.mediadefence.org/resource-hub/false-news-misinformation-and-propaganda-europe/](https://www.mediadefence.org/resource-hub/false-news-misinformation-and-propaganda-europe/)  
+   Link: <a href="https://www.mediadefence.org/resource-hub/false-news-misinformation-and-propaganda-europe/" target="_blank" rel="noopener noreferrer nofollow">https://www.mediadefence.org/resource-hub/false-news-misinformation-and-propaganda-europe/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;False News&#x27;, Misinformation &amp; Propaganda - EuropeWhile misinformation and disinformation are premised on the dissemination of [false info](&amp;#123;&amp;#123; &#x27;false-info/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Misinformation](https://en.wikipedia.org/wiki/Misinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MisinformationWhereas misinformation can exist with or without specific malicious intent, disinformation is deliberately deceptive and...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/topics/journalism-facts/misinformation-disinformation](https://www.apa.org/topics/journalism-facts/misinformation-disinformation)  
+   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: mediadefence.org  
-   Link: [https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/](https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/)  
+   Link: <a href="https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, Disinformation and Mal-informationMisinformation, Disinformation and Mal-information · Module 8: &#x27;False news&#x27;, misinforma...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: mediadefence.org  
-   Link: [https://www.mediadefence.org/ereader/publications/modules-digital-rights-europe/module-5-disinformation-misinformation/false-news/](https://www.mediadefence.org/ereader/publications/modules-digital-rights-europe/module-5-disinformation-misinformation/false-news/)  
+   Link: <a href="https://www.mediadefence.org/ereader/publications/modules-digital-rights-europe/module-5-disinformation-misinformation/false-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.mediadefence.org/ereader/publications/modules-digital-rights-europe/module-5-disinformation-misinformation/false-news/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is &#x27;False News&#x27;? | eReaderLastly, misinformation entails false or misleading content shared inadvertently, lacking the malicious int...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMC(Why) Is Misinformation a Problem?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby Z Adams · 2023 · Cited by 146 — The overarching negative effect of misinformation comes from the argument that without an accuratel...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 146 — The overarching negative effect of misinformation comes from the argument that without an accuratel...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: ofcom.org.uk  
    Title: misinformation and disinformation literature review  
-   Link: [https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/media-literacy-research/mis-and-disinformation/misinformation-and-disinformation-literature-review.pdf?v=397787](https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/media-literacy-research/mis-and-disinformation/misinformation-and-disinformation-literature-review.pdf?v=397787)  
+   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/media-literacy-research/mis-and-disinformation/misinformation-and-disinformation-literature-review.pdf?v=397787" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/media-literacy-research/mis-and-disinformation/misinformation-and-disinformation-literature-review.pdf?v=397787</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Disinformation: Literature Review27 May 2025 — This briefing provides an overview of the available academic and grey literature on mi...</p></details>
    Published: May 2025  
 
 30. <a id="endnote-30"></a>
    Source: researchportal.port.ac.uk  
    Title: The review identified five themes. The theme of fabricated.Read more  
-   Link: [https://researchportal.port.ac.uk/files/63065979/Thesis.pdf](https://researchportal.port.ac.uk/files/63065979/Thesis.pdf)  
+   Link: <a href="https://researchportal.port.ac.uk/files/63065979/Thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/files/63065979/Thesis.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>media misinformation and [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;): a consumer...by G Di Domenico · Cited by 4 — This paper represents the first systematic literature r...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: unicef.org  
    Title: Misinformation and disinformation have  
-   Link: [https://www.unicef.org/innocenti/media/856/file/UNICEF-Global-Insight-Digital-Mis-Disinformation-and-Children-2021.pdf](https://www.unicef.org/innocenti/media/856/file/UNICEF-Global-Insight-Digital-Mis-Disinformation-and-Children-2021.pdf)  
+   Link: <a href="https://www.unicef.org/innocenti/media/856/file/UNICEF-Global-Insight-Digital-Mis-Disinformation-and-Children-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/innocenti/media/856/file/UNICEF-Global-Insight-Digital-Mis-Disinformation-and-Children-2021.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital misinformation / disinformation and childrenby PN Howard · 2021 · Cited by 119 — Charges of &#x27;fake news&#x27; to discredit legitimate b...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: humanrights.ca  
-   Link: [https://humanrights.ca/resource-guide/misinformation-disinformation-and-malinformation](https://humanrights.ca/resource-guide/misinformation-disinformation-and-malinformation)  
+   Link: <a href="https://humanrights.ca/resource-guide/misinformation-disinformation-and-malinformation" target="_blank" rel="noopener noreferrer nofollow">https://humanrights.ca/resource-guide/misinformation-disinformation-and-malinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, Disinformation and MalinformationMisinformation is false information that is shared, often inadvertently and without the...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: digitallibrary.un.org  
    Title: ^EOSG 2023 8^ EOSG 2023 8 EN  
-   Link: [https://digitallibrary.un.org/record/4012857/files/%5EEOSG_2023_8%5E--EOSG_2023_8-EN.pdf](https://digitallibrary.un.org/record/4012857/files/%5EEOSG_2023_8%5E--EOSG_2023_8-EN.pdf)  
+   Link: <a href="https://digitallibrary.un.org/record/4012857/files/%5EEOSG_2023_8%5E--EOSG_2023_8-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitallibrary.un.org/record/4012857/files/%5EEOSG_2023_8%5E--EOSG_2023_8-EN.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Integrity on Digital PlatformsMisinformation can be rooted in disinformation as delib- erate lies and misleading narratives are weaponize...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: tandfonline.com  
    Title: Results show the field is mostly data-driven.Read more  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/23808985.2024.2323736](https://www.tandfonline.com/doi/full/10.1080/23808985.2024.2323736)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23808985.2024.2323736" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23808985.2024.2323736</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Misinformation, disinformation, and fake newsby E Broda · 2024 · Cited by 348 — We have performed a systematic research rev...</p></details>

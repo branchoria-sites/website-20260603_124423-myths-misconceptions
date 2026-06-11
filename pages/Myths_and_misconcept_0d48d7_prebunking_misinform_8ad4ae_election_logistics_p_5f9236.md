@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_fact_vs_tactic_prebu_0fea6e
 - Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_prebunking_fading_ef_b362f3
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - prebunking
 - election-rumours
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - prebunking
 - election-rumours
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Election prebunks work best when they point voters toward official dates, locations, and vote-counting channels before rumours spread.
 hero_summary: Election prebunks work best when they point voters toward official dates, locations, and vote-counting channels before rumours spread.
 layout: default
 permalink: /election-rumours/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /prebunking/
 nav_short_title: Election rumours
 title: How election prebunks protect basic voting facts
-title_full: How election prebunks protect basic voting facts | Prebunking
+title_full: How election prebunks protect basic voting facts
 display_title_short: Election rumours
 display_title: Election rumours
 heading_title: How election prebunks protect basic voting facts
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can You Protect People Before Myths Spread? | Mythcraft
+parent_title: Can You Protect People Before Myths Spread?
 parent_permalink: /prebunking/
 parent_nav_short_title: Prebunking
 parent_heading_title: Can You Protect People Before Myths Spread?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why one prebunk is not permanent immunity
 up_link:
   basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
@@ -265,7 +265,7 @@ next_link:
   permalink: /emotion-cues/
   short_title: Emotion cues
   heading_title: Can a warning slow outrage sharing?
-date: '2026-06-09 05:45:59 '
+date: '2026-06-11 22:42:38 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_election_logistics_p_5f9236-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_election_logistics_p_5f9236-Illustration-1.webp
@@ -276,9 +276,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_el
 
 False rumours about election dates, polling locations, registration deadlines and voting procedures are among the most persistent forms of election misinformation. Unlike misleading claims about candidates or policies, these narratives target the practical steps required to cast a ballot. A voter who believes that polling day has changed, that a polling station has moved, or that voting can be completed through an unofficial channel may miss the opportunity to vote altogether.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_election_logistics_p_5f9236-Illustration-1-dark.svg" | relative_url }}" alt="Election rumours illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_election_logistics_p_5f9236-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_election_logistics_p_5f9236-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Because these rumours recur across election cycles, they are particularly suitable for prebunking. Instead of waiting for false claims to spread and then correcting them, election authorities, journalists and civic organisations can warn voters in advance about the types of deception they are likely to encounter and explain how to verify essential voting information. Research on misinformation inoculation and election-related prebunking suggests that advance warnings can reduce susceptibility to misleading claims and improve resilience when false narratives appear later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44271-025-00379-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureVideo inoculation against election misinformation across...by M Biddlestone · 2026 — Short video-based prebunking reduces misinfor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Because these rumours recur across election cycles, they are particularly suitable for prebunking. Instead of waiting for false claims to spread and then correcting them, election authorities, journalists and civic organisations can warn voters in advance about the types of deception they are likely to encounter and explain how to verify essential voting information. Research on misinformation inoculation and election-related prebunking suggests that advance warnings can reduce susceptibility to misleading claims and improve resilience when false narratives appear later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44271-025-00379-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Video inoculation against election misinformation across...by M Biddlestone · 2026 — Short video-based prebunking reduces misinfor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Why voting logistics are easy targets
 
@@ -297,7 +296,6 @@ Common examples include:
 These messages often rely on urgency. A voter who encounters a post claiming that a polling place has changed may feel pressure to act immediately rather than pause to verify the information. For that reason, false voting-information rumours have long been treated by election experts as a form of voter suppression when they are designed to discourage or misdirect participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brennancenter.org/our-work/research-reports/3-lessons-misinformation-midterms-spread-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brennancenter.org">[Brennan Center for Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brennancenter.org</span><span class="citation-popover-title">3 lessons misinformation midterms spread social media</span><span class="citation-popover-snippet">Brennan Center for Justice3 Lessons on Misinformation in the Midterms Spread on...5 Jan 2023 — This pattern shows that internet and soci...</span></span></span>
 
 The predictable nature of these rumours is important. Election-monitoring projects have repeatedly found that many false election narratives are recycled from one election to the next. This [repetition]({{ 'repetition/' | relative_url }}) makes them easier to anticipate than many other forms of misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brennancenter.org/our-work/research-reports/3-lessons-misinformation-midterms-spread-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brennancenter.org">[Brennan Center for Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brennancenter.org</span><span class="citation-popover-title">3 lessons misinformation midterms spread social media</span><span class="citation-popover-snippet">Brennan Center for Justice3 Lessons on Misinformation in the Midterms Spread on...5 Jan 2023 — This pattern shows that internet and soci...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yUlZlmePV_Y" title="CISA tackles election security threats amid misinformation surge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yUlZlmePV_Y" target="_blank" rel="noopener noreferrer">CISA tackles election security threats amid misinformation surge</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 1.2K &middot; Uploaded: October 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yUlZlmePV_Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yUlZlmePV_Y">Open on YouTube</a></p></div></div></div>
 
@@ -319,11 +317,10 @@ Polling-place rumours are especially effective because they contain concrete det
 
 False claims that citizens can vote by text message, social-media post, email or other unofficial methods have appeared repeatedly in different elections. Because this myth is so predictable, it can be addressed before it resurfaces. Informing voters that ballots can only be cast through officially authorised channels reduces the plausibility of later deception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5905903/election-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">voting process is prevalent online. It is important to differentiate between misinformation, which is false information shared unknowingl...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_election_logistics_p_5f9236-Illustration-2-dark.svg" | relative_url }}" alt="Election rumours illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_election_logistics_p_5f9236-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_election_logistics_p_5f9236-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Delays in counting are not evidence of wrongdoing
 
-Although not a polling-place rumour, expectations about vote counting are closely connected to election misinformation. Studies have shown that voters react negatively when counts take longer than expected, making delayed results fertile ground for misleading narratives. Explaining before election day why counting may continue after polls close can reduce confusion and improve trust in the process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11459078/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCVoters distrust delayed election results, but a prebunking...by M Lockhart · 2024 · Cited by 9 — This article shows that informing vo...</span></span></span>
+Although not a polling-place rumour, expectations about vote counting are closely connected to election misinformation. Studies have shown that voters react negatively when counts take longer than expected, making delayed results fertile ground for misleading narratives. Explaining before election day why counting may continue after polls close can reduce confusion and improve trust in the process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11459078/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Voters distrust delayed election results, but a prebunking...by M Lockhart · 2024 · Cited by 9 — This article shows that informing vo...</span></span></span>
 
 The broader objective is not simply to provide facts. It is to establish expectations. A voter who has already been warned that false polling-location announcements and voting-date rumours are common tactics is more likely to recognise those messages as suspicious when they appear.
 
@@ -333,13 +330,11 @@ Many election rumours do more than spread false information. They also attempt t
 
 A fabricated message claiming that a polling place has changed may be accompanied by assertions that election officials are hiding information, that local authorities are unreliable, or that official websites cannot be trusted. This creates a secondary problem: even when accurate information becomes available, some voters may reject it because the source itself has been discredited in advance.
 
-For that reason, election prebunks increasingly focus on trusted information channels as well as specific myths. Voters are told not only what kinds of rumours may appear but also where authoritative information can be found when questions arise. Rumour-control initiatives and election-information portals have been developed specifically to direct citizens towards verified information and away from speculation circulating online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://electionline.org/resources/rumor-control-start-up-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: electionline.org">[electionline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">electionline.org</span><span class="citation-popover-snippet">electionlineRumor Control Start-Up GuideMDM can spread quickly, causing rumors to undermine facts. This document was created as part of t...</span></span></span>
+For that reason, election prebunks increasingly focus on trusted information channels as well as specific myths. Voters are told not only what kinds of rumours may appear but also where authoritative information can be found when questions arise. Rumour-control initiatives and election-information portals have been developed specifically to direct citizens towards verified information and away from speculation circulating online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://electionline.org/resources/rumor-control-start-up-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: electionline.org">[electionline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">electionline.org</span><span class="citation-popover-snippet">Rumor Control Start-Up GuideMDM can spread quickly, causing rumors to undermine facts. This document was created as part of t...</span></span></span>
 
 This approach reflects a practical reality of misinformation response. [Corrections]({{ 'corrections/' | relative_url }}) are more effective when audiences already know which institutions they regard as credible. If people begin evaluating source credibility only after encountering a viral rumour, the misinformation has already gained an advantage.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jOJhHaAUEsU" title="Election Security with the Brennan Center, Committee for Safe and Secure Elections &amp; Election Center" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jOJhHaAUEsU" target="_blank" rel="noopener noreferrer">Election Security with the Brennan Center, Committee for Safe and Secure Elections &amp; Election Center</a></p><p class="youtube-embed-meta">Channel: National Academy of Public Administration &middot; Views: 62 &middot; Uploaded: February 2026 &middot; Length: 1 hour 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jOJhHaAUEsU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jOJhHaAUEsU">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_election_logistics_p_5f9236-Illustration-3-dark.svg" | relative_url }}" alt="Election rumours illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_election_logistics_p_5f9236-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_election_logistics_p_5f9236-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When real disruptions create opportunities for false rumours
 
 Election prebunks must also account for the fact that genuine disruptions sometimes occur.
@@ -352,12 +347,9 @@ A strong prebunk therefore does not promise that nothing will change. Instead, i
 
 This distinction is crucial. Voters who understand that both genuine updates and fabricated rumours may circulate are less likely to treat every unexpected message as automatically true or automatically false.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_election_logistics_p_5f9236-Illustration-3-dark.svg" | relative_url }}" alt="Election rumours illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_election_logistics_p_5f9236-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_election_logistics_p_5f9236-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes election-date and polling-place prebunks effective
 
 Research on misinformation inoculation consistently finds that advance warnings work best when they are simple, specific and memorable. Election-related prebunks benefit from this because the underlying advice can be communicated in a few practical rules:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -365,7 +357,7 @@ Research on misinformation inoculation consistently finds that advance warnings 
 * Check polling locations through official lookup tools.
 * Treat unexpected changes as claims requiring verification.
 * Ignore messages promoting unofficial voting methods.
-* Expect that vote counting may take time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11459078/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCVoters distrust delayed election results, but a prebunking...by M Lockhart · 2024 · Cited by 9 — This article shows that informing vo...</span></span></span>
+* Expect that vote counting may take time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11459078/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Voters distrust delayed election results, but a prebunking...by M Lockhart · 2024 · Cited by 9 — This article shows that informing vo...</span></span></span>
 * Return to trusted election sources whenever confusion arises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.19202" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> [3Nature 3Nature]
 
 </div>
@@ -374,9 +366,7 @@ Recent studies of election-focused prebunking campaigns and experimental interve
 
 In practice, the most useful election prebunks are often simple: know the official election date, know where to find your polling location, and know which sources are authorised to provide election information. When those expectations are established before rumours emerge, false claims about when and where to vote become much easier to recognise and reject.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cSKGa_7XJkg" title="How false news can spread - Noah Tavlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer">How false news can spread - Noah Tavlin</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cSKGa_7XJkg">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jOJhHaAUEsU" title="Election Security with the Brennan Center, Committee for Safe and Secure Elections &amp; Election Center" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jOJhHaAUEsU" target="_blank" rel="noopener noreferrer">Election Security with the Brennan Center, Committee for Safe and Secure Elections &amp; Election Center</a></p><p class="youtube-embed-meta">Channel: National Academy of Public Administration &middot; Views: 62 &middot; Uploaded: February 2026 &middot; Length: 1 hour 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jOJhHaAUEsU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jOJhHaAUEsU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -774,186 +764,186 @@ In practice, the most useful election prebunks are often simple: know the offici
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44271-025-00379-3](https://www.nature.com/articles/s44271-025-00379-3)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureVideo inoculation against election misinformation across...by M Biddlestone · 2026 — Short video-based prebunking reduces misinfor...</p></details>
+   Link: <a href="https://www.nature.com/articles/s44271-025-00379-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44271-025-00379-3</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Video inoculation against election misinformation across...by M Biddlestone · 2026 — Short video-based prebunking reduces misinfor...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Eur. Rev. Soc. Psychol. [https://doi.org/10.1080/10463283.2021...&quot;](https://doi.org/10.1080/10463283.2021...&quot;)...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: time.com  
-   Link: [https://time.com/5905903/election-misinformation/](https://time.com/5905903/election-misinformation/)  
+   Link: <a href="https://time.com/5905903/election-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5905903/election-misinformation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>voting process is prevalent online. It is important to differentiate between misinformation, which is false information shared unknowingl...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ncsbe.gov  
-   Link: [https://www.ncsbe.gov/about-elections/election-security/combating-misinformation](https://www.ncsbe.gov/about-elections/election-security/combating-misinformation)  
+   Link: <a href="https://www.ncsbe.gov/about-elections/election-security/combating-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsbe.gov/about-elections/election-security/combating-misinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Combating MisinformationMis- and disinformation are widespread in elections, especially during federal election cycles. Misinformation ma...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: axios.com  
    Title: election security trump harris outcome cisa  
-   Link: [https://www.axios.com/2024/11/04/election-security-trump-harris-outcome-cisa](https://www.axios.com/2024/11/04/election-security-trump-harris-outcome-cisa)  
+   Link: <a href="https://www.axios.com/2024/11/04/election-security-trump-harris-outcome-cisa" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/11/04/election-security-trump-harris-outcome-cisa</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>elections have never been &quot;more secure,&quot; CISA head saysA top cybersecurity official, Jen Easterly, director of the Cybersecurity and Infr...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11459078/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11459078/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCVoters distrust delayed election results, but a prebunking...by M Lockhart · 2024 · Cited by 9 — This article shows that informing vo...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11459078/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11459078/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Voters distrust delayed election results, but a prebunking...by M Lockhart · 2024 · Cited by 9 — This article shows that informing vo...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: electionline.org  
-   Link: [https://electionline.org/resources/rumor-control-start-up-guide/](https://electionline.org/resources/rumor-control-start-up-guide/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>electionlineRumor Control Start-Up GuideMDM can spread quickly, causing rumors to undermine facts. This document was created as part of t...</p></details>
+   Link: <a href="https://electionline.org/resources/rumor-control-start-up-guide/" target="_blank" rel="noopener noreferrer nofollow">https://electionline.org/resources/rumor-control-start-up-guide/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rumor Control Start-Up GuideMDM can spread quickly, causing rumors to undermine facts. This document was created as part of t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2410.19202](https://arxiv.org/abs/2410.19202)  
+   Link: <a href="https://arxiv.org/abs/2410.19202" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.19202</a>  
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44271-025-00379-3_reference.pdf](https://www.nature.com/articles/s44271-025-00379-3_reference.pdf)  
+   Link: <a href="https://www.nature.com/articles/s44271-025-00379-3_reference.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44271-025-00379-3_reference.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 8. ARTICLE IN PRESS. ARTICLE IN PRESS. Introduction. A Eurobarometer poll found...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44271-025-00189-7](https://www.nature.com/articles/s44271-025-00189-7)  
+   Link: <a href="https://www.nature.com/articles/s44271-025-00189-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44271-025-00189-7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eur. Rev. Soc. Psychol. 32, 348–384 (2021). Article Google...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44260-026-00079-x](https://www.nature.com/articles/s44260-026-00079-x)  
+   Link: <a href="https://www.nature.com/articles/s44260-026-00079-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44260-026-00079-x</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Value and vulnerability: a framework for understanding the...by M Simeone · 2026 — Therefore, we do not differentiate between misinforma...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-024-71599-6](https://www.nature.com/articles/s41598-024-71599-6)  
+   Link: <a href="https://www.nature.com/articles/s41598-024-71599-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-71599-6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering misinformation and [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) through inoculation and prebunking. Eur. Rev. Soc. Psychol. 32, 348–384 (2021).Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: inoculation.science  
-   Link: [https://inoculation.science/a-practical-guide-to-prebunking-misinformation/](https://inoculation.science/a-practical-guide-to-prebunking-misinformation/)  
+   Link: <a href="https://inoculation.science/a-practical-guide-to-prebunking-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/a-practical-guide-to-prebunking-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Author: University... inoculation theory, designed to build people&#x27;s resilience to mis- and disinformation...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: brennancenter.org  
    Title: digital disinformation and vote suppression  
-   Link: [https://www.brennancenter.org/our-work/research-reports/digital-disinformation-and-vote-suppression](https://www.brennancenter.org/our-work/research-reports/digital-disinformation-and-vote-suppression)  
+   Link: <a href="https://www.brennancenter.org/our-work/research-reports/digital-disinformation-and-vote-suppression" target="_blank" rel="noopener noreferrer nofollow">https://www.brennancenter.org/our-work/research-reports/digital-disinformation-and-vote-suppression</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brennan Center for JusticeDigital Disinformation and Vote Suppression2 Sept 2020 — Election officials, internet companies, the federal go...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: brennancenter.org  
-   Link: [https://www.brennancenter.org/election-misinformation](https://www.brennancenter.org/election-misinformation)  
+   Link: <a href="https://www.brennancenter.org/election-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.brennancenter.org/election-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brennan Center for JusticeElection MisinformationFalse claims have eroded trust in elections and provoked a wave of anti-voter laws. The...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: brennancenter.org  
    Title: 3 lessons misinformation midterms spread social media  
-   Link: [https://www.brennancenter.org/our-work/research-reports/3-lessons-misinformation-midterms-spread-social-media](https://www.brennancenter.org/our-work/research-reports/3-lessons-misinformation-midterms-spread-social-media)  
+   Link: <a href="https://www.brennancenter.org/our-work/research-reports/3-lessons-misinformation-midterms-spread-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.brennancenter.org/our-work/research-reports/3-lessons-misinformation-midterms-spread-social-media</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brennan Center for Justice3 Lessons on Misinformation in the Midterms Spread on...5 Jan 2023 — This pattern shows that internet and soci...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2024/nov/06/election-day-voting-glitches-bomb-threats](https://www.theguardian.com/us-news/2024/nov/06/election-day-voting-glitches-bomb-threats)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/nov/06/election-day-voting-glitches-bomb-threats" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/06/election-day-voting-glitches-bomb-threats</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There were some administrative and technological errors causing minor delays, as elections are managed locally, often on tight budgets. T...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: repository.cam.ac.uk  
-   Link: [https://www.repository.cam.ac.uk/items/11d56920-f7ca-4552-b080-43edd3e9a163](https://www.repository.cam.ac.uk/items/11d56920-f7ca-4552-b080-43edd3e9a163)  
+   Link: <a href="https://www.repository.cam.ac.uk/items/11d56920-f7ca-4552-b080-43edd3e9a163" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/items/11d56920-f7ca-4552-b080-43edd3e9a163</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Misinformation and Fake News Through Inoculation and Prebunking.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: brennancenter.org  
    Title: voters vs disinformation  
-   Link: [https://www.brennancenter.org/our-work/analysis-opinion/voters-vs-disinformation](https://www.brennancenter.org/our-work/analysis-opinion/voters-vs-disinformation)  
+   Link: <a href="https://www.brennancenter.org/our-work/analysis-opinion/voters-vs-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.brennancenter.org/our-work/analysis-opinion/voters-vs-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Voters vs. Disinformation2 Sept 2020 — Here&#x27;s how members of the general public can help identify — and stop the spread of — digital disi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: brennancenter.org  
    Title: how election officials can identify prepare and respond ai threats  
-   Link: [https://www.brennancenter.org/our-work/research-reports/how-election-officials-can-identify-prepare-and-respond-ai-threats](https://www.brennancenter.org/our-work/research-reports/how-election-officials-can-identify-prepare-and-respond-ai-threats)  
+   Link: <a href="https://www.brennancenter.org/our-work/research-reports/how-election-officials-can-identify-prepare-and-respond-ai-threats" target="_blank" rel="noopener noreferrer nofollow">https://www.brennancenter.org/our-work/research-reports/how-election-officials-can-identify-prepare-and-respond-ai-threats</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Election Officials Can Identify, Prepare for, and...8 May 2024 — On December 15–16, 2023, the office of Arizona Secretary of State A...</p></details>
    Published: May 2024  
 
 21. <a id="endnote-21"></a>
    Source: cisa.gov  
-   Link: [https://www.cisa.gov/news-events/news/fbi-and-cisa-issue-public-service-announcement-warning-tactics-foreign-threat-actors-are-using](https://www.cisa.gov/news-events/news/fbi-and-cisa-issue-public-service-announcement-warning-tactics-foreign-threat-actors-are-using)  
+   Link: <a href="https://www.cisa.gov/news-events/news/fbi-and-cisa-issue-public-service-announcement-warning-tactics-foreign-threat-actors-are-using" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/news-events/news/fbi-and-cisa-issue-public-service-announcement-warning-tactics-foreign-threat-actors-are-using</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI and CISA Issue Public Service Announcement Warning...Oct 18, 2024 — This PSA highlights efforts by foreign actors to spread disinfor...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: cisa.gov  
-   Link: [https://www.cisa.gov/](https://www.cisa.gov/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CISA: Home PageCISA offers an array of free resources and tools, such as technical assistance, exercises, cybersecurity assessments, free...</p></details>
+   Link: <a href="https://www.cisa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Home PageCISA offers an array of free resources and tools, such as technical assistance, exercises, cybersecurity assessments, free...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: cisa.gov  
-   Link: [https://www.cisa.gov/news-events/news/fbi-and-cisa-release-joint-psa-just-so-you-know-false-claims-hacked-voter-information-likely](https://www.cisa.gov/news-events/news/fbi-and-cisa-release-joint-psa-just-so-you-know-false-claims-hacked-voter-information-likely)  
+   Link: <a href="https://www.cisa.gov/news-events/news/fbi-and-cisa-release-joint-psa-just-so-you-know-false-claims-hacked-voter-information-likely" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/news-events/news/fbi-and-cisa-release-joint-psa-just-so-you-know-false-claims-hacked-voter-information-likely</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False Claims of Hacked Voter Information Likely Intended...Sep 12, 2024 — This PSA is to educate people that false claims of election in...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: cisa.gov  
    Title: and partners coordinate security combatting misinformation election day  
-   Link: [https://www.cisa.gov/news-events/news/cisa-and-partners-coordinate-security-combatting-misinformation-election-day](https://www.cisa.gov/news-events/news/cisa-and-partners-coordinate-security-combatting-misinformation-election-day)  
+   Link: <a href="https://www.cisa.gov/news-events/news/cisa-and-partners-coordinate-security-combatting-misinformation-election-day" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/news-events/news/cisa-and-partners-coordinate-security-combatting-misinformation-election-day</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CISA and Partners Coordinate on Security, Combatting...Nov 1, 2021 — With elections in more than 30 states tomorrow, the Cybersecurity a...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2020/nov/12/christopher-krebs-us-cybersecurity-official-election-misinformation-expects-fired](https://www.theguardian.com/us-news/2020/nov/12/christopher-krebs-us-cybersecurity-official-election-misinformation-expects-fired)  
+   Link: <a href="https://www.theguardian.com/us-news/2020/nov/12/christopher-krebs-us-cybersecurity-official-election-misinformation-expects-fired" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2020/nov/12/christopher-krebs-us-cybersecurity-official-election-misinformation-expects-fired</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top US cybersecurity official reportedly says he expects to...12 Nov 2020 — Christopher Krebs leads the agency that secures voting techn...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: instituteforpr.org  
-   Link: [https://instituteforpr.org/wp-content/uploads/Election-Disinformation-Report-FINAL-1.pdf](https://instituteforpr.org/wp-content/uploads/Election-Disinformation-Report-FINAL-1.pdf)  
+   Link: <a href="https://instituteforpr.org/wp-content/uploads/Election-Disinformation-Report-FINAL-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://instituteforpr.org/wp-content/uploads/Election-Disinformation-Report-FINAL-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Election Disinformation ReportMotivated reasoning can influence social and political attitudes and behaviors, including polarization, con...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: theverge.com  
-   Link: [https://www.theverge.com/2024/11/5/24288999/polling-location-bomb-threats-russian-emails-fbi-2024-election-day](https://www.theverge.com/2024/11/5/24288999/polling-location-bomb-threats-russian-emails-fbi-2024-election-day)  
+   Link: <a href="https://www.theverge.com/2024/11/5/24288999/polling-location-bomb-threats-russian-emails-fbi-2024-election-day" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/2024/11/5/24288999/polling-location-bomb-threats-russian-emails-fbi-2024-election-day</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These threats have been reported in states such as Georgia, Michigan, and Wisconsin, but none have been found to be credible so far. In r...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: cyberscoop.com  
-   Link: [https://cyberscoop.com/cisa-moves-away-from-trying-to-influence-content-moderation-decisions-on-election-disinformation/](https://cyberscoop.com/cisa-moves-away-from-trying-to-influence-content-moderation-decisions-on-election-disinformation/)  
+   Link: <a href="https://cyberscoop.com/cisa-moves-away-from-trying-to-influence-content-moderation-decisions-on-election-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://cyberscoop.com/cisa-moves-away-from-trying-to-influence-content-moderation-decisions-on-election-disinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CISA moves away from trying to influence content...Sep 3, 2024 — Leaders at the Cybersecurity and Infrastructure Security Agency continu...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: joint-research-centre.ec.europa.eu  
-   Link: [https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-[debunking](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-[debunking)  
+   Link: <a href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-[debunking" target="_blank" rel="noopener noreferrer nofollow">https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-[debunking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and disinformation: both prebunking and...Oct 25, 2024 — Misinformation and disinformation: both prebunking and debunking work for fight...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: fox13news.com  
-   Link: [https://www.fox13news.com/news/cisa-launches-rumor-control-website-to-combat-attempts-to-undermine-2020-election-results](https://www.fox13news.com/news/cisa-launches-rumor-control-website-to-combat-attempts-to-undermine-2020-election-results)  
+   Link: <a href="https://www.fox13news.com/news/cisa-launches-rumor-control-website-to-combat-attempts-to-undermine-2020-election-results" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/cisa-launches-rumor-control-website-to-combat-attempts-to-undermine-2020-election-results</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CISA launches &#x27;Rumor Control&#x27; website to combat attempts...Nov 5, 2020 — Trump has for weeks argued without evidence that mail voting is...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: euronews.com  
-   Link: [https://www.euronews.com/next/2022/08/24/youtube-clips-can-act-like-vaccine-against-viral-misinformation-large-trial-suggests](https://www.euronews.com/next/2022/08/24/youtube-clips-can-act-like-vaccine-against-viral-misinformation-large-trial-suggests)  
+   Link: <a href="https://www.euronews.com/next/2022/08/24/youtube-clips-can-act-like-vaccine-against-viral-misinformation-large-trial-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2022/08/24/youtube-clips-can-act-like-vaccine-against-viral-misinformation-large-trial-suggests</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>clips can act like &#x27;vaccine&#x27; against viral...Aug 24, 2022 — People can be &quot;vaccinated&quot; and at least partially protected from mis...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: pen.org  
    Title: how to vote and combat political disinformation a tip sheet for election 2024  
-   Link: [https://pen.org/how-to-vote-and-combat-political-disinformation-a-tip-sheet-for-election-2024/](https://pen.org/how-to-vote-and-combat-political-disinformation-a-tip-sheet-for-election-2024/)  
+   Link: <a href="https://pen.org/how-to-vote-and-combat-political-disinformation-a-tip-sheet-for-election-2024/" target="_blank" rel="noopener noreferrer nofollow">https://pen.org/how-to-vote-and-combat-political-disinformation-a-tip-sheet-for-election-2024/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Vote and Combat Political Disinformation22 Oct 2024 — As the presidential election gets closer, it&#x27;s more important than ever for...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=yUlZlmePV_Y](https://www.youtube.com/watch?v=yUlZlmePV_Y)  
+   Link: <a href="https://www.youtube.com/watch?v=yUlZlmePV_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yUlZlmePV_Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CISA tackles election security threats amid misinformation surgeWith Election Day just a week away, ballot drop boxes are under attack, m...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: news.nd.edu  
    Title: prebunking false election claims may boost trust in elections  
-   Link: [https://news.nd.edu/news/prebunking-false-election-claims-may-boost-trust-in-elections/](https://news.nd.edu/news/prebunking-false-election-claims-may-boost-trust-in-elections/)  
+   Link: <a href="https://news.nd.edu/news/prebunking-false-election-claims-may-boost-trust-in-elections/" target="_blank" rel="noopener noreferrer nofollow">https://news.nd.edu/news/prebunking-false-election-claims-may-boost-trust-in-elections/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nd.edu&#x27;Prebunking&#x27; false election claims may boost trust in elections29 Aug 2025 — In recent years, democracies worldwide have seen a gro...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: fbi.gov  
    Title: joint odni fbi and cisa statement 110424  
-   Link: [https://www.fbi.gov/news/press-releases/joint-odni-fbi-and-cisa-statement-110424](https://www.fbi.gov/news/press-releases/joint-odni-fbi-and-cisa-statement-110424)  
+   Link: <a href="https://www.fbi.gov/news/press-releases/joint-odni-fbi-and-cisa-statement-110424" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/joint-odni-fbi-and-cisa-statement-110424</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint ODNI, FBI, and CISA StatementNov 4, 2024 — The IC has been observing foreign adversaries, particularly Russia, conducting additiona...</p></details>

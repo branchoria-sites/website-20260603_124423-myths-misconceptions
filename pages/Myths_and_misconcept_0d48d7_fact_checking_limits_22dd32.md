@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - fact-checks
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - fact-checks
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Fact-checking matters, but false claims are cheap to produce and costly to correct at scale.
 hero_summary: Fact-checking matters, but false claims are cheap to produce and costly to correct at scale.
 layout: default
 permalink: /fact-checks/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Fact Checks
 title: Why Fact Checking Is Not Enough
-title_full: Why Fact Checking Is Not Enough | Mythcraft
+title_full: Why Fact Checking Is Not Enough
 display_title_short: Fact Checks
 display_title: Fact Checks
 heading_title: Why Fact Checking Is Not Enough
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 next_link:
   basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
-date: '2026-06-09 04:09:26 '
+date: '2026-06-11 21:53:41 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32-overview.webp
@@ -501,8 +501,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32-ov
 
 ## Introduction
 
-Fact-checking is essential, but it cannot by itself stop myths because it usually works one claim at a time while myth-making works as a system. A false story can be produced quickly, repeated cheaply, adapted to new events and spread through trusted social networks before a [correction]({{ 'correction/' | relative_url }}) reaches the same audience. Even when a correction works, it often reduces belief rather than erasing the original impression completely. Large cross-national research has found that fact-checks can lower belief in misinformation, while reviews of the [continued influence]({{ 'old-stories/' | relative_url }}) effect show that people may still rely on corrected claims in later reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2104235118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">PNASThe global effectiveness of fact-checking: Evidence from...by E Porter · 2021 · Cited by 344 — Meta-analysis demonstrates that fact...</span></span></span>
-
+Fact-checking is essential, but it cannot by itself stop myths because it usually works one claim at a time while myth-making works as a system. A false story can be produced quickly, repeated cheaply, adapted to new events and spread through trusted social networks before a [correction]({{ 'correction/' | relative_url }}) reaches the same audience. Even when a correction works, it often reduces belief rather than erasing the original impression completely. Large cross-national research has found that fact-checks can lower belief in misinformation, while reviews of the continued influence effect show that people may still rely on corrected claims in later reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2104235118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The global effectiveness of fact-checking: Evidence from...by E Porter · 2021 · Cited by 344 — Meta-analysis demonstrates that fact...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32-overview.webp" | relative_url }}" alt="Overview image for Fact Checks" loading="eager" decoding="sync" fetchpriority="high">
 The practical lesson is not that fact-checking is futile. It is that myth control needs more than a truth-versus-falsehood contest after the damage is done. It also needs better access to reliable information, stronger media and information literacy, [platform design]({{ 'platform-design/' | relative_url }}) that does not reward misleading content, and policy support that treats misinformation as a governance problem rather than only a communication problem.
@@ -515,24 +514,22 @@ This is especially visible during fast-moving events such as elections, wars, di
 
 The cost gap is not only about labour. It is also about attention. A myth can travel as a striking headline or emotional image, while a correction often has to ask for patience: “the source is unreliable”, “the number is being used without context”, “the image is real but from another year”, or “the claim combines a true detail with a false conclusion”. That explanation is more accurate, but it is less portable than the myth.
 
-Research on corrections supports this distinction. Fact-checks can work, but their effects are usually strongest on the specific claim being corrected. A 2025 experiment comparing fact-checking with [media literacy]({{ 'media-literacy/' | relative_url }}) found that fact-checking mainly affected the particular fake news items it addressed, while media literacy helped participants distinguish between false and accurate information more generally, including after roughly two weeks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">misinformation, the fact-checking as such still requires human assessment. We show that in an environment where only a small proportion o...</span></span></span>
+Research on corrections supports this distinction. Fact-checks can work, but their effects are usually strongest on the specific claim being corrected. A 2025 experiment comparing fact-checking with [media literacy]({{ 'media-literacy/' | relative_url }}) found that fact-checking mainly affected the particular [fake news]({{ 'fake-news/' | relative_url }}) items it addressed, while media literacy helped participants distinguish between false and accurate information more generally, including after roughly two weeks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">misinformation, the fact-checking as such still requires human assessment. We show that in an environment where only a small proportion o...</span></span></span>
 
 That is why “more fact-checks” is a necessary but incomplete answer. If one misleading claim is corrected, the same story can reappear with a new example, a new screenshot, a new influencer or a slightly changed wording. The myth survives by mutating faster than the correction infrastructure can respond.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32-Illustration-1-dark.svg" | relative_url }}" alt="Fact Checks illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why corrections do not fully reset belief
 
 A common misunderstanding is that a fact-check simply replaces a false belief with a true one. In practice, correction is messier. People may accept that a specific claim was false while still retaining the general suspicion, emotional association or narrative frame that made the myth attractive in the first place.
 
-Psychologists call one part of this the continued influence effect: misinformation can continue to shape memory and reasoning even after it has been corrected. A person may remember that a claim was disputed but still use parts of the original story when explaining what happened. Reviews of this evidence show that corrections often reduce misinformation effects, but they do not always eliminate them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan you believe it?</span><span class="citation-popover-snippet">An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</span></span></span>
+Psychologists call one part of this the continued influence effect: misinformation can continue to shape [memory]({{ 'memory/' | relative_url }}) and reasoning even after it has been corrected. A person may remember that a claim was disputed but still use parts of the original story when explaining what happened. Reviews of this evidence show that corrections often reduce misinformation effects, but they do not always eliminate them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan you believe it?</span><span class="citation-popover-snippet">An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</span></span></span>
 
 This is not simply because people are stubborn. Myths often provide a causal story. If a correction removes that story without offering a better explanation, the mind is left with a gap. For example, “this image is not from the current protest” is useful, but it may not answer the reader’s larger question about what actually happened at the protest. A stronger correction usually needs to do three things: identify the falsehood, explain why it seemed plausible, and give the reader a replacement account that fits the evidence.
 
 There is also a trust problem. Fact-checking depends on the audience accepting the authority of the checker, the evidence and the institutions behind the evidence. In polarised settings, a correction from a distrusted outlet may be treated as part of the conflict rather than as a neutral repair. RAND’s work on “Truth Decay” identifies declining trust in institutions, disagreement over basic facts, blurred lines between opinion and fact, and changes in the information system as drivers of a wider environment in which factual correction has less power than it should. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/research/projects/truth-decay.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">Open source on rand.org.</span></span></span>
 
 This does not mean corrections backfire by default. The stronger current view is more balanced: good corrections usually help, but they are not magic erasers. They are one intervention in an information environment where memory, identity, trust and [repetition]({{ 'repetition/' | relative_url }}) all shape what people continue to believe.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gHxhOzZv0gk" title="Myths That Sound True, Facts That Sound Impossible" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gHxhOzZv0gk" target="_blank" rel="noopener noreferrer">Myths That Sound True, Facts That Sound Impossible</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 25.4K &middot; Uploaded: March 2025 &middot; Length: 3 hours 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gHxhOzZv0gk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gHxhOzZv0gk">Open on YouTube</a></p></div></div></div>
 
@@ -543,7 +540,6 @@ Fact-checking is reactive: it answers a claim after someone has already encounte
 Media and information literacy is not just a school subject or a slogan about “checking sources”. UNESCO frames it as a set of abilities that help people engage critically with information, navigate digital environments and build trust in the information ecosystem. Its work on media and information literacy links misinformation responses to wider public capacity: people need to understand how information is produced, how platforms shape visibility, how evidence differs from opinion, and how to recognise manipulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/media-information-literacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Open source on unesco.org.</span></span></span>
 
 The strongest literacy approaches do not ask every person to become a full-time investigator. That would reproduce the same cost gap at the individual level. Instead, they teach practical habits that scale:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -558,7 +554,6 @@ The strongest literacy approaches do not ask every person to become a full-time 
 Prebunking is one bridge between literacy and fact-checking. Instead of waiting for a false claim to spread, prebunking warns people in advance about common manipulation techniques. Research on inoculation-style interventions has found that teaching people to recognise misinformation tactics can build resistance across different claims, although the effect can vary by design, context and durability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">Misinformation Review Prebunking interventions based on “inoculation” theory can</span><span class="citation-popover-snippet">Misinformation Review Prebunking interventions based on “inoculation” theory can</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">FINAL Revision ERSP inoc paper 4Svd L</span><span class="citation-popover-snippet">FINAL Revision ERSP inoc paper 4Svd L</span></span></span>
 
 The policy value is clear: literacy and access do not replace fact-checking, but they reduce the number of myths that need claim-by-claim repair. A well-informed audience is harder to manipulate at scale.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32-Illustration-2-dark.svg" | relative_url }}" alt="Fact Checks illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Platform and policy support
@@ -575,7 +570,6 @@ Crowdsourced context can be useful, but it is not a complete substitute for prof
 
 The governance point is therefore not “platforms should censor more”. It is that myth control requires accountable design choices. Fact-checking tells the public what is false; platform and policy support determine whether falsehood remains profitable, frictionless and algorithmically amplified.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oF7mB9w9DNM" title="Why we can’t fact-check people | Axel Peytavin | TEDxCentraleSupelec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oF7mB9w9DNM" target="_blank" rel="noopener noreferrer">Why we can’t fact-check people | Axel Peytavin | TEDxCentraleSupelec</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 857 &middot; Uploaded: February 2022 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oF7mB9w9DNM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oF7mB9w9DNM">Open on YouTube</a></p></div></div></div>
 
 ## Health myths show the limits most clearly
@@ -588,17 +582,15 @@ A systematic review of health infodemics found that misinformation can affect wi
 
 Better responses combine several layers: clear public guidance before rumours spread, trusted messengers in affected communities, rapid correction of harmful claims, platform action against repeated dangerous falsehoods, and long-term trust-building between institutions and the public. The myth is not only an information error; it is often a symptom of a trust gap.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/akSotR_SnrY" title="Fact checking, misinformation, wildfires, and institutional memory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=akSotR_SnrY" target="_blank" rel="noopener noreferrer">Fact checking, misinformation, wildfires, and institutional memory</a></p><p class="youtube-embed-meta">Channel: The Lancet &middot; Views: 34 &middot; Uploaded: May 2026 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=akSotR_SnrY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=akSotR_SnrY">Open on YouTube</a></p></div></div></div>
 
 ## What fact-checking is best at
 
 Fact-checking remains one of the most important tools for limiting myths. It creates a public record, slows the spread of some false claims, gives journalists and educators reliable references, and helps readers who are actively trying to verify something. It also has democratic value: public figures, advertisers, influencers and institutions should be answerable when they make false or misleading claims.
 
-The evidence does not support abandoning fact-checking. A global study published in *Proceedings of the National Academy of Sciences* found that fact-checks reduced belief in misinformation across countries, and Africa Check’s summary of the study emphasised that reductions could persist for some time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2104235118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">PNASThe global effectiveness of fact-checking: Evidence from...by E Porter · 2021 · Cited by 344 — Meta-analysis demonstrates that fact...</span></span></span>
+The evidence does not support abandoning fact-checking. A global study published in *Proceedings of the National Academy of Sciences* found that fact-checks reduced belief in misinformation across countries, and Africa Check’s summary of the study emphasised that reductions could persist for some time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2104235118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The global effectiveness of fact-checking: Evidence from...by E Porter · 2021 · Cited by 344 — Meta-analysis demonstrates that fact...</span></span></span>
 
 But fact-checking is best understood as a precision tool, not a whole public information strategy. It is strongest when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -613,11 +605,10 @@ But fact-checking is best understood as a precision tool, not a whole public inf
 
 When those conditions are missing, even accurate fact-checks may have limited reach. They can become a library of corrections for people already looking for evidence, while the myth continues circulating in spaces where the correction is never seen or is dismissed as hostile.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32-Illustration-3-dark.svg" | relative_url }}" alt="Fact Checks illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What “not enough” should mean in practice
 
-Saying that fact-checking is not enough should not become an excuse for doing less. It should mean building a layered response to [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}).
+Saying that fact-checking is not enough should not become an excuse for doing less. It should mean building a layered response to myths and misconceptions.
 
 A serious approach combines correction with prevention, access and governance. Fact-checkers identify and explain false claims. Educators and community organisations build the skills to recognise manipulation. Public institutions publish clear, timely and usable information. Platforms change incentives so misleading content is not automatically rewarded. Regulators require transparency, risk assessment and researcher access where platforms have public consequences. None of these measures is sufficient alone, but together they address the system that keeps myths alive.
 
@@ -740,15 +731,15 @@ The most useful test is simple: does the response only correct yesterday’s cla
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for official nct 127 photocards (johnny, mark, doyoung, jungwoo &amp; haechan)"><img src="{{ '/assets/images/marketplace-covers/9a55c92bd5ff7a8417ea.jpg' | relative_url }}" alt="Listing image for official nct 127 photocards (johnny, mark, doyoung, jungwoo &amp; haechan)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fact-checking-is-not-enough-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-fact-checking-is-not-enough-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT"><img src="https://i.ebayimg.com/images/g/ETcAAOSwoGZlEShC/s-l225.jpg" alt="Listing image for NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">official nct 127 photocards (johnny, mark, doyoung, jungwoo &amp; haechan)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fact-checking-is-not-enough-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-fact-checking-is-not-enough-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 FACT CHECK 5th Album EXHIBIT Ver/CD+Poster+4 Post Card+Card+Sticker+GIFT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fact-checking-is-not-enough-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-fact-checking-is-not-enough-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fact-checking-is-not-enough-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-fact-checking-is-not-enough-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -756,15 +747,15 @@ The most useful test is simple: does the response only correct yesterday’s cla
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Jaehyun Fact Check Concept Photo Poster Idol Fan Art Print"><img src="{{ '/assets/images/marketplace-covers/8c68506fe8573ac3e084.jpg' | relative_url }}" alt="Listing image for NCT 127 Jaehyun Fact Check Concept Photo Poster Idol Fan Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fact-checking-is-not-enough-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-fact-checking-is-not-enough-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+P.Book+Photo+Card+Poster+GIFT"><img src="https://i.ebayimg.com/images/g/oEkAAOSwRA5lESS-/s-l225.jpg" alt="Listing image for NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+P.Book+Photo+Card+Poster+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Jaehyun Fact Check Concept Photo Poster Idol Fan Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fact-checking-is-not-enough-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-fact-checking-is-not-enough-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 [FACT CHECK] 5th Album CHANDELIER Ver/CD+P.Book+Photo+Card+Poster+GIFT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fact-checking-is-not-enough-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-fact-checking-is-not-enough-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fact-checking-is-not-enough-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-fact-checking-is-not-enough-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -772,15 +763,15 @@ The most useful test is simple: does the response only correct yesterday’s cla
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z"><img src="{{ '/assets/images/marketplace-covers/03c19feac523071c9acd.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fact-checking-is-not-enough-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-fact-checking-is-not-enough-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good"><img src="https://i.ebayimg.com/images/g/vQ0AAeSw2Cpp3KlC/s-l225.jpg" alt="Listing image for The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fact-checking-is-not-enough-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-fact-checking-is-not-enough-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">The 5th Album Fact Check (Poster Ver. CD) by Nct... | CD | condition very good</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fact-checking-is-not-enough-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-fact-checking-is-not-enough-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fact-checking-is-not-enough-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-fact-checking-is-not-enough-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -788,15 +779,15 @@ The most useful test is simple: does the response only correct yesterday’s cla
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)"><img src="{{ '/assets/images/marketplace-covers/6ef2bd31e5190e5492e9.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fact-checking-is-not-enough-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-fact-checking-is-not-enough-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - F123z"><img src="https://i.ebayimg.com/images/g/-3wAAeSw73lp-d2U/s-l225.jpg" alt="Listing image for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - F123z" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fact-checking-is-not-enough-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-fact-checking-is-not-enough-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - F123z</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fact-checking-is-not-enough-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-fact-checking-is-not-enough-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fact-checking-is-not-enough-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-fact-checking-is-not-enough-fact-check-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -804,7 +795,7 @@ The most useful test is simple: does the response only correct yesterday’s cla
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="fact-checks-why-fact-checking-is-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fact-checking-is-not-enough-fact-check-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check poster" data-ebay-reference="why-fact-checking-is-not-enough-fact-check-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1019,171 +1010,171 @@ The most useful test is simple: does the response only correct yesterday’s cla
 
 1. <a id="endnote-1"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2104235118](https://www.pnas.org/doi/10.1073/pnas.2104235118)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PNASThe global effectiveness of fact-checking: Evidence from...by E Porter · 2021 · Cited by 344 — Meta-analysis demonstrates that fact...</p></details>
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2104235118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2104235118</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The global effectiveness of fact-checking: Evidence from...by E Porter · 2021 · Cited by 344 — Meta-analysis demonstrates that fact...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCan you believe it?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchbriefings.files.parliament.uk  
-   Link: [https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf](https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf)  
+   Link: <a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research BriefingsDisinformation: sources, spread and impactApril 26, 2024 — 25 Apr 2024 — Disinformation is the deliberate creation and...</p></details>
    Published: April 26, 2024  
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S004727272500043X](https://www.sciencedirect.com/science/article/pii/S004727272500043X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation, the fact-checking as such still requires human assessment. We show that in an environment where only a small proportion o...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: rand.org  
-   Link: [https://www.rand.org/research/projects/truth-decay.html](https://www.rand.org/research/projects/truth-decay.html)  
+   Link: <a href="https://www.rand.org/research/projects/truth-decay.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/research/projects/truth-decay.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: rand.org  
-   Link: [https://www.rand.org/pubs/research_reports/RR2314.html](https://www.rand.org/pubs/research_reports/RR2314.html)  
+   Link: <a href="https://www.rand.org/pubs/research_reports/RR2314.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RR2314.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/media-information-literacy](https://www.unesco.org/en/media-information-literacy)  
+   Link: <a href="https://www.unesco.org/en/media-information-literacy" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/media-information-literacy</a>  
 
 8. <a id="endnote-8"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil](https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil)  
+   Link: <a href="https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil</a>  
 
 9. <a id="endnote-9"></a>
    Source: axios.com  
    Title: Meta eliminating fact-checking to combat "censorship"  
-   Link: [https://www.axios.com/2025/01/07/meta-ends-fact-checking-zuckerberg-trump](https://www.axios.com/2025/01/07/meta-ends-fact-checking-zuckerberg-trump)  
+   Link: <a href="https://www.axios.com/2025/01/07/meta-ends-fact-checking-zuckerberg-trump" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2025/01/07/meta-ends-fact-checking-zuckerberg-trump</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta CEO Mark Zuckerberg outlined the changes, noting that fact-checking efforts had become politicized. Joel Kaplan, Meta&#x27;s global affai...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: afro.who.int  
-   Link: [https://www.afro.who.int/aira](https://www.afro.who.int/aira)  
+   Link: <a href="https://www.afro.who.int/aira" target="_blank" rel="noopener noreferrer nofollow">https://www.afro.who.int/aira</a>  
 
 11. <a id="endnote-11"></a>
    Source: who.int  
-   Link: [https://www.who.int/health-topics/infodemic](https://www.who.int/health-topics/infodemic)  
+   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
 
 13. <a id="endnote-13"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/joint-initiative-ministry-information-and-unesco-strengthen-fact-checking-and-combat-misinformation](https://www.unesco.org/en/articles/joint-initiative-ministry-information-and-unesco-strengthen-fact-checking-and-combat-misinformation)  
+   Link: <a href="https://www.unesco.org/en/articles/joint-initiative-ministry-information-and-unesco-strengthen-fact-checking-and-combat-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/joint-initiative-ministry-information-and-unesco-strengthen-fact-checking-and-combat-misinformation</a>  
 
 14. <a id="endnote-14"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/world-media-trends/global-fact-checking-sites](https://www.unesco.org/en/world-media-trends/global-fact-checking-sites)  
+   Link: <a href="https://www.unesco.org/en/world-media-trends/global-fact-checking-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/world-media-trends/global-fact-checking-sites</a>  
 
 15. <a id="endnote-15"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation](https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation)  
+   Link: <a href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation</a>  
 
 16. <a id="endnote-16"></a>
    Source: rand.org  
-   Link: [https://www.rand.org/multimedia/video/2018/05/14/how-truth-decay-happens.html](https://www.rand.org/multimedia/video/2018/05/14/how-truth-decay-happens.html)  
+   Link: <a href="https://www.rand.org/multimedia/video/2018/05/14/how-truth-decay-happens.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/multimedia/video/2018/05/14/how-truth-decay-happens.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: rand.org  
-   Link: [https://www.rand.org/research/projects/truth-decay/research-and-commentary.html](https://www.rand.org/research/projects/truth-decay/research-and-commentary.html)  
+   Link: <a href="https://www.rand.org/research/projects/truth-decay/research-and-commentary.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/research/projects/truth-decay/research-and-commentary.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027725000307](https://www.sciencedirect.com/science/article/pii/S0010027725000307)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027725000307" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725000307</a>  
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282](https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282)  
+   Link: <a href="https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282</a>  
 
 20. <a id="endnote-20"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167811626000261](https://www.sciencedirect.com/science/article/pii/S0167811626000261)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
 
 21. <a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1071581926001126](https://www.sciencedirect.com/science/article/pii/S1071581926001126)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1071581926001126" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1071581926001126</a>  
 
 22. <a id="endnote-22"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: Misinformation Review Prebunking interventions based on “inoculation” theory can  
-   Link: [https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/](https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/</a>  
 
 23. <a id="endnote-23"></a>
    Source: research-information.bris.ac.uk  
    Title: FINAL Revision ERSP inoc paper 4Svd L  
-   Link: [https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf](https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: digital-strategy.ec.europa.eu  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/digital-services-act](https://digital-strategy.ec.europa.eu/en/policies/digital-services-act)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/digital-services-act</a>  
 
 25. <a id="endnote-25"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: dsa codes conduct  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/dsa-codes-conduct](https://digital-strategy.ec.europa.eu/en/policies/dsa-codes-conduct)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/dsa-codes-conduct" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/dsa-codes-conduct</a>  
 
 26. <a id="endnote-26"></a>
    Source: openaccess.city.ac.uk  
    Title: City Research Online The WEIRD Governance of Fact-Checking.pdf  
-   Link: [https://openaccess.city.ac.uk/id/eprint/31596/1/The%20WEIRD%20Governance%20of%20Fact-Checking.pdf](https://openaccess.city.ac.uk/id/eprint/31596/1/The%20WEIRD%20Governance%20of%20Fact-Checking.pdf)  
+   Link: <a href="https://openaccess.city.ac.uk/id/eprint/31596/1/The%20WEIRD%20Governance%20of%20Fact-Checking.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/id/eprint/31596/1/The%20WEIRD%20Governance%20of%20Fact-Checking.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full</a>  
 
 28. <a id="endnote-28"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1560936/full](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1560936/full)  
+   Link: <a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1560936/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1560936/full</a>  
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Myths That Sound True, Facts That Sound Impossible  
-   Link: [https://www.youtube.com/watch?v=gHxhOzZv0gk](https://www.youtube.com/watch?v=gHxhOzZv0gk)  
+   Link: <a href="https://www.youtube.com/watch?v=gHxhOzZv0gk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gHxhOzZv0gk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos are relevant because they explore the psychological barriers to correcting misinformation, the phenomenon of the &quot;continued...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/fact-checking-practices-in-digital-media](https://www.nature.com/nature-index/topics/l4/fact-checking-practices-in-digital-media)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/fact-checking-practices-in-digital-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/fact-checking-practices-in-digital-media</a>  
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: Fact checking, misinformation, wildfires, and institutional memory  
-   Link: [https://www.youtube.com/watch?v=akSotR_SnrY](https://www.youtube.com/watch?v=akSotR_SnrY)  
+   Link: <a href="https://www.youtube.com/watch?v=akSotR_SnrY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=akSotR_SnrY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Myths That Sound True, Facts That Sound Impossible...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.3758/s13421-023-01402-w](https://link.springer.com/article/10.3758/s13421-023-01402-w)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerThe impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Research on the continued inf...</p></details>
+   Link: <a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Research on the continued inf...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing](https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing)  
+   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
 
 34. <a id="endnote-34"></a>
    Source: emc-lab.org  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/butler.2025.nhb.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/butler.2025.nhb.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/butler.2025.nhb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/butler.2025.nhb.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/bb814cfc5e8d29a1ecc058f836de9580](https://apnews.com/article/bb814cfc5e8d29a1ecc058f836de9580)  
+   Link: <a href="https://apnews.com/article/bb814cfc5e8d29a1ecc058f836de9580" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/bb814cfc5e8d29a1ecc058f836de9580</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/whowpro/posts/dealing-with-mis-and-disinformation-check-out-the-who-policy-brief-on-managing-t/1153450925285875/](https://www.facebook.com/whowpro/posts/dealing-with-mis-and-disinformation-check-out-the-who-policy-brief-on-managing-t/1153450925285875/)  
+   Link: <a href="https://www.facebook.com/whowpro/posts/dealing-with-mis-and-disinformation-check-out-the-who-policy-brief-on-managing-t/1153450925285875/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whowpro/posts/dealing-with-mis-and-disinformation-check-out-the-who-policy-brief-on-managing-t/1153450925285875/</a>  
 
 37. <a id="endnote-37"></a>
    Source: opengovpartnership.org  
-   Link: [https://www.opengovpartnership.org/open-gov-guide/digital-governance-disinformation-and-information-integrity/](https://www.opengovpartnership.org/open-gov-guide/digital-governance-disinformation-and-information-integrity/)  
+   Link: <a href="https://www.opengovpartnership.org/open-gov-guide/digital-governance-disinformation-and-information-integrity/" target="_blank" rel="noopener noreferrer nofollow">https://www.opengovpartnership.org/open-gov-guide/digital-governance-disinformation-and-information-integrity/</a>  
 
 38. <a id="endnote-38"></a>
    Source: medium.com  
-   Link: [https://medium.com/illumination/disinformation-do-you-have-truth-decay-172f682abdb5](https://medium.com/illumination/disinformation-do-you-have-truth-decay-172f682abdb5)  
+   Link: <a href="https://medium.com/illumination/disinformation-do-you-have-truth-decay-172f682abdb5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/disinformation-do-you-have-truth-decay-172f682abdb5</a>

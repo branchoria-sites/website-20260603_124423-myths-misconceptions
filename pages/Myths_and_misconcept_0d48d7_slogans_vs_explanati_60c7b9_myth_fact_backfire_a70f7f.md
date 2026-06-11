@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75
 - Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_replacement_correcti_5f9954
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - slogans
 - backfire-risk
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - slogans
 - backfire-risk
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Putting the myth first can accidentally advertise it unless the correction leads with the fact and explains the misleading move.
 hero_summary: Putting the myth first can accidentally advertise it unless the correction leads with the fact and explains the misleading move.
 layout: default
 permalink: /backfire-risk/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /slogans/
 nav_short_title: Backfire Risk
 title: Can myth busting accidentally spread myths?
-title_full: Can myth busting accidentally spread myths? | Slogans
+title_full: Can myth busting accidentally spread myths?
 display_title_short: Backfire Risk
 display_title: Backfire Risk
 heading_title: Can myth busting accidentally spread myths?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Myths Beat Nuance in a Sentence | Mythcraft
+parent_title: Why Myths Beat Nuance in a Sentence
 parent_permalink: /slogans/
 parent_nav_short_title: Slogans
 parent_heading_title: Why Myths Beat Nuance in a Sentence
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why repetition makes myths feel true
 up_link:
   basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
@@ -259,7 +259,7 @@ next_link:
   permalink: /corrections/
   short_title: Corrections
   heading_title: What should replace a false slogan?
-date: '2026-06-09 04:33:18 '
+date: '2026-06-11 22:06:18 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_myth_fact_backfire_a70f7f-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_myth_fact_backfire_a70f7f-Illustration-1.webp
@@ -268,8 +268,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_my
 
 ## Introduction
 
-Can myth-busting accidentally spread myths? Sometimes, yes. The risk is not usually that [corrections]({{ 'corrections/' | relative_url }}) make people instantly believe false claims more strongly. Rather, the way a correction is presented can influence what people remember later. When a webpage, poster or social media graphic places the myth in a large headline and the correction underneath, readers may leave with a stronger memory of the myth itself than of the explanation. In a field concerned with [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}), this is a governance and communication problem: the format of a correction can shape public understanding as much as the information it contains. Research on misinformation and debunking has therefore shifted attention from simply asking whether facts are provided to asking how they are structured, framed and recalled. Center for Climate Change Communication <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[2ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-title">The Debunking Handbookby S Lewandowsky — Debunking myths is problematic</span><span class="citation-popover-snippet">Unless great care is taken, any effort to debunk misinformation can inadvertently reinforce the very myths one seeks to correct.Read more...</span></span></span>
-
+Can myth-busting accidentally spread myths? Sometimes, yes. The risk is not usually that [corrections]({{ 'corrections/' | relative_url }}) make people instantly believe false claims more strongly. Rather, the way a [correction]({{ 'correction/' | relative_url }}) is presented can influence what people remember later. When a webpage, poster or social media graphic places the myth in a large headline and the correction underneath, readers may leave with a stronger memory of the myth itself than of the explanation. In a field concerned with myths and misconceptions, this is a governance and communication problem: the format of a correction can shape public understanding as much as the information it contains. Research on misinformation and debunking has therefore shifted attention from simply asking whether facts are provided to asking how they are structured, framed and recalled. Center for Climate Change Communication <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[2ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-title">The Debunking Handbookby S Lewandowsky — Debunking myths is problematic</span><span class="citation-popover-snippet">Unless great care is taken, any effort to debunk misinformation can inadvertently reinforce the very myths one seeks to correct.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_myth_fact_backfire_a70f7f-Illustration-1-dark.svg" | relative_url }}" alt="Backfire Risk illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_myth_fact_backfire_a70f7f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_myth_fact_backfire_a70f7f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why myth-first layouts can strengthen memory of the claim
@@ -277,27 +276,23 @@ Can myth-busting accidentally spread myths? Sometimes, yes. The risk is not usua
 Many traditional fact-check pages use a simple pattern:
 
 * Myth: a false claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[ksjhandbook.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-title">KSJ Handbook Structuring Your Argument</span><span class="citation-popover-snippet">KSJ HandbookStructuring Your Argument - MisinformationThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting...</span></span></span>
-* Fact: the [correction]({{ 'correction/' | relative_url }}).
+* Fact: the correction.
 
 The format appears straightforward, but it can create an unintended emphasis. Readers encounter the false claim first, often in larger type, a memorable slogan or a striking headline. The correction arrives later and is usually longer and more complex.
 
 Researchers have long worried that repeating misinformation increases familiarity. Familiar statements are often easier to process, and people can mistake that ease of processing for truth. This concern became known as the “familiarity [backfire]({{ 'backfire/' | relative_url }})” hypothesis: repeating a myth while trying to correct it might make the myth more memorable. The concern influenced public-health [campaigns]({{ 'campaigns/' | relative_url }}), climate communication and fact-checking guidance for years. Center for Climate Change Communication <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[2ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-title">The Debunking Handbookby S Lewandowsky — Debunking myths is problematic</span><span class="citation-popover-snippet">Unless great care is taken, any effort to debunk misinformation can inadvertently reinforce the very myths one seeks to correct.Read more...</span></span></span>
 
-However, newer evidence complicates the picture. Studies have found little support for a strong familiarity backfire effect in which corrections systematically increase belief in misinformation. Instead, corrections generally help. Yet the format still matters because myth-focused corrections can be less effective than fact-focused ones. Repeating the myth may not make people believe it more than before, but it can make the correction less memorable and less efficient than alternatives that foreground the factual explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabThe role of familiarity in correcting inaccurate informationMarch 31, 2017 — by B Swire · Cited by 440 — Corr...</span><span class="citation-popover-meta">Published: March 31, 2017</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</span></span></span>
+However, newer evidence complicates the picture. Studies have found little support for a strong familiarity backfire effect in which corrections systematically increase belief in misinformation. Instead, corrections generally help. Yet the format still matters because myth-focused corrections can be less effective than fact-focused ones. Repeating the myth may not make people believe it more than before, but it can make the correction less memorable and less efficient than alternatives that foreground the factual explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabThe role of familiarity in correcting inaccurate informationMarch 31, 2017 — by B Swire · Cited by 440 — Corr...</span><span class="citation-popover-meta">Published: March 31, 2017</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</span></span></span>
 
 This distinction is important. The danger is not necessarily that a myth-busting page converts readers into believers. The danger is that it gives disproportionate attention to the myth and fails to make the factual account the most retrievable [memory]({{ 'memory/' | relative_url }}).
 
 A practical example is a headline such as “MYTH: Scientists disagree about climate change.” Even when followed by a correction, the most prominent and memorable phrase may be the myth itself. Communication specialists increasingly recommend reversing that emphasis so that the first and most visible message is the accurate one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[KSJ Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-title">KSJ Handbook Structuring Your Argument</span><span class="citation-popover-snippet">KSJ HandbookStructuring Your Argument - MisinformationThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4iFU5ah1MHY" title="What Is The Backfire Effect In Conspiracy Debunking? - All About Myths and Conspiracies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4iFU5ah1MHY" target="_blank" rel="noopener noreferrer">What Is The Backfire Effect In Conspiracy Debunking? - All About Myths and Conspiracies</a></p><p class="youtube-embed-meta">Channel: All About Myths and Conspiracies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4iFU5ah1MHY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4iFU5ah1MHY">Open on YouTube</a></p></div></div></div>
-
 ## The fact-warning-fallacy-fact structure
 
-To reduce the risk of inadvertently advertising misinformation, debunking researchers have developed alternative structures. One influential model is often described as fact-warning-fallacy-fact, sometimes called a “truth sandwich”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[KSJ Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-title">KSJ Handbook Structuring Your Argument</span><span class="citation-popover-snippet">KSJ HandbookStructuring Your Argument - MisinformationThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2407.05599v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivGenerative Debunking of Climate Misinformation8 Jul 2024 — Psychological research recommends that debunkings should adopt the fact-m...</span></span></span>
+To reduce the risk of inadvertently advertising misinformation, [debunking]({{ 'debunking/' | relative_url }}) researchers have developed alternative structures. One influential model is often described as fact-warning-fallacy-fact, sometimes called a “truth sandwich”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[KSJ Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-title">KSJ Handbook Structuring Your Argument</span><span class="citation-popover-snippet">KSJ HandbookStructuring Your Argument - MisinformationThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2407.05599v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Generative Debunking of Climate Misinformation8 Jul 2024 — Psychological research recommends that debunkings should adopt the fact-m...</span></span></span>
 
 The sequence works as follows:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -312,7 +307,6 @@ This structure reflects a broader insight from misinformation research: correcti
 
 For governance bodies, public agencies and fact-checking organisations, this means designing corrections around the audience’s likely memory rather than around the myth itself. The goal is not merely to refute a claim but to ensure that the factual explanation becomes the dominant narrative readers carry away.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_myth_fact_backfire_a70f7f-Illustration-2-dark.svg" | relative_url }}" alt="Backfire Risk illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_myth_fact_backfire_a70f7f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_myth_fact_backfire_a70f7f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When naming the myth is necessary
 
@@ -320,7 +314,7 @@ Avoiding myths entirely is often impossible.
 
 Public-health agencies may need to answer circulating rumours directly. Journalists may need to identify a false claim that has already become newsworthy. Fact-checkers cannot assess a statement without telling readers what is being checked.
 
-Research therefore does not support a simple rule of “never repeat the myth”. Several studies have found that explicitly mentioning misinformation can be safe and sometimes useful when it is embedded within a strong correction. What matters is context, prominence and explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/ws/files/153248187/EckerHoganLewan_revTC.SL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Ecker, U</span><span class="citation-popover-snippet">K. H., Hogan, J. L., &amp; Lewandowsky, S. (2017)....Today — recommendation to “myth debunkers” has been to avoid myth repetition in a corre...</span></span></span> ResearchGate When naming a myth is necessary <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/358083062_Reminders_and_repetition_of_misinformation_Helping_or_hindering_its_retraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateReminders and Repetition of Misinformation: Helping or...We found—contrary to the popular recommendation—that corrections we...</span></span></span>, effective practice generally includes:
+Research therefore does not support a simple rule of “never repeat the myth”. Several studies have found that explicitly mentioning misinformation can be safe and sometimes useful when it is embedded within a strong correction. What matters is context, prominence and explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/ws/files/153248187/EckerHoganLewan_revTC.SL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Ecker, U</span><span class="citation-popover-snippet">K. H., Hogan, J. L., &amp; Lewandowsky, S. (2017)....Today — recommendation to “myth debunkers” has been to avoid myth repetition in a corre...</span></span></span> ResearchGate When naming a myth is necessary <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/358083062_Reminders_and_repetition_of_misinformation_Helping_or_hindering_its_retraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Reminders and Repetition of Misinformation: Helping or...We found—contrary to the popular recommendation—that corrections we...</span></span></span>, effective practice generally includes:
 
 * Labelling it clearly as false before presenting it.
 * Giving the factual explanation equal or greater prominence.
@@ -330,20 +324,12 @@ Research therefore does not support a simple rule of “never repeat the myth”
 
 This approach recognises that readers often encounter misinformation elsewhere first. In such cases, a correction must address the claim directly while preventing the correction page itself from becoming another vehicle for repetition.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cSKGa_7XJkg" title="How false news can spread - Noah Tavlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer">How false news can spread - Noah Tavlin</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cSKGa_7XJkg">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wEwGBIr_RIw" title="12 Cognitive Biases Explained - How to Think Better and More Logically Removing Bias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wEwGBIr_RIw" target="_blank" rel="noopener noreferrer">12 Cognitive Biases Explained - How to Think Better and More Logically Removing Bias</a></p><p class="youtube-embed-meta">Channel: Practical Psychology</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wEwGBIr_RIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wEwGBIr_RIw">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_myth_fact_backfire_a70f7f-Illustration-3-dark.svg" | relative_url }}" alt="Backfire Risk illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_myth_fact_backfire_a70f7f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_myth_fact_backfire_a70f7f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this matters for public communication
 
 The debate over myth-versus-fact pages illustrates a broader lesson about memorable slogans and accurate explanations. Communication is not only about transmitting information; it is also about shaping what remains in memory after details fade.
 
 Early discussions of debunking often focused on dramatic “backfire effects”, where corrections would supposedly strengthen false beliefs. More recent reviews suggest that such effects are uncommon and that factual corrections usually improve accuracy. Yet this does not eliminate the design problem. The most effective corrections are those that make the truth more memorable than the myth, not merely those that place a factual sentence somewhere on the page. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/why-is-facebook-so-afraid-of-checking-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Facebook has taken some measures to limit its reach, including applying fact-checks with notable hesitation. This hesitation stems partly...</span></span></span> For organisations responsible for public information, the central question is therefore not whether to correct misinformation. It is how to structure the correction so that readers remember the fact, recognise the misleading move, and leave with a usable explanation rather than a recycled slogan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookBecause a myth is necessarily repeated when it is debunked, the risk arises that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookBecause a myth is necessarily repeated when it is debunked, the risk arises that...</span></span></span>
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_myth_fact_backfire_a70f7f-Illustration-3-dark.svg" | relative_url }}" alt="Backfire Risk illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_myth_fact_backfire_a70f7f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_myth_fact_backfire_a70f7f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -741,63 +727,63 @@ Early discussions of debunking often focused on dramatic “backfire effects”,
 
 1. <a id="endnote-1"></a>
    Source: climatechangecommunication.org  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookBecause a myth is necessarily repeated when it is debunked, the risk arises that...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ltrr.arizona.edu  
    Title: The Debunking Handbookby S Lewandowsky — Debunking myths is problematic  
-   Link: [https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf](https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf)  
+   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unless great care is taken, any effort to debunk misinformation can inadvertently reinforce the very myths one seeks to correct.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2407.05599v1](https://arxiv.org/html/2407.05599v1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivGenerative Debunking of Climate Misinformation8 Jul 2024 — Psychological research recommends that debunkings should adopt the fact-m...</p></details>
+   Link: <a href="https://arxiv.org/html/2407.05599v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2407.05599v1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative Debunking of Climate Misinformation8 Jul 2024 — Psychological research recommends that debunkings should adopt the fact-m...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/358083062_Reminders_and_repetition_of_misinformation_Helping_or_hindering_its_retraction](https://www.researchgate.net/publication/358083062_Reminders_and_repetition_of_misinformation_Helping_or_hindering_its_retraction)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateReminders and Repetition of Misinformation: Helping or...We found—contrary to the popular recommendation—that corrections we...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/358083062_Reminders_and_repetition_of_misinformation_Helping_or_hindering_its_retraction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358083062_Reminders_and_repetition_of_misinformation_Helping_or_hindering_its_retraction</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reminders and Repetition of Misinformation: Helping or...We found—contrary to the popular recommendation—that corrections we...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/why-is-facebook-so-afraid-of-checking-facts](https://www.wired.com/story/why-is-facebook-so-afraid-of-checking-facts)  
+   Link: <a href="https://www.wired.com/story/why-is-facebook-so-afraid-of-checking-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/why-is-facebook-so-afraid-of-checking-facts</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook has taken some measures to limit its reach, including applying fact-checks with notable hesitation. This hesitation stems partly...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: skepticalscience.com  
    Title: familiarity backfire  
-   Link: [https://skepticalscience.com/debunking-handbook-now-freely-available-download.html](https://skepticalscience.com/debunking-handbook-now-freely-available-download.html)  
+   Link: <a href="https://skepticalscience.com/debunking-handbook-now-freely-available-download.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-now-freely-available-download.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook: now freely available for download27 Nov 2011 — The Handbook explores the surprising fact that debunking myths can...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: climatecommunication.gmu.edu  
    Title: the debunking handbook 2020  
-   Link: [https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/](https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/)  
+   Link: <a href="https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/" target="_blank" rel="noopener noreferrer nofollow">https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationThe Debunking Handbook 202013 Sept 2023 — The Debunking Handbook 2020 summarizes the current state...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: emc-lab.org  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabThe role of familiarity in correcting inaccurate informationMarch 31, 2017 — by B Swire · Cited by 440 — Corr...</p></details>
    Published: March 31, 2017  
 
 10. <a id="endnote-10"></a>
    Source: ksjhandbook.org  
    Title: KSJ Handbook Structuring Your Argument  
-   Link: [https://ksjhandbook.org/misinformation/structuring-your-argument/](https://ksjhandbook.org/misinformation/structuring-your-argument/)  
+   Link: <a href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow">https://ksjhandbook.org/misinformation/structuring-your-argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>KSJ HandbookStructuring Your Argument - MisinformationThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: research-information.bris.ac.uk  
    Title: University of Bristol Ecker, U  
-   Link: [https://research-information.bris.ac.uk/ws/files/153248187/EckerHoganLewan_revTC.SL.pdf](https://research-information.bris.ac.uk/ws/files/153248187/EckerHoganLewan_revTC.SL.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/ws/files/153248187/EckerHoganLewan_revTC.SL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/ws/files/153248187/EckerHoganLewan_revTC.SL.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>K. H., Hogan, J. L., &amp; Lewandowsky, S. (2017)....Today — recommendation to “myth debunkers” has been to avoid myth repetition in a corre...</p></details>
 
 ### Additional References
@@ -805,55 +791,55 @@ Early discussions of debunking often focused on dramatic “backfire effects”,
 12. <a id="endnote-12"></a>
    Source: skepticalscience.com  
    Title: Debunking Handbook Part 5 Filling gap with alternative explanation  
-   Link: [https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html](https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html)  
+   Link: <a href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceThe Debunking Handbook Part 5: Filling the gap with an...25 Nov 2011 — The most effective way to reduce the effect of m...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: firstdraftnews.org  
    Title: the psychology of misinformation why its so hard to correct  
-   Link: [https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/](https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/)  
+   Link: <a href="https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychology of misinformation: Why it&#x27;s so hard to correct14 Jul 2020 — The familiarity backfire effect describes the fact that correc...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: skepticalscience.com  
-   Link: [https://skepticalscience.com/print.php?n=1106](https://skepticalscience.com/print.php?n=1106)  
+   Link: <a href="https://skepticalscience.com/print.php?n=1106" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=1106</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceThe Debunking Handbook Part 2: The Familiarity Backfire...18 Nov 2011 — Your debunking should begin with emphasis on th...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: effectiviology.com  
-   Link: [https://effectiviology.com/familiarity-backfire-effect/](https://effectiviology.com/familiarity-backfire-effect/)  
+   Link: <a href="https://effectiviology.com/familiarity-backfire-effect/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/familiarity-backfire-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>member misinformation better, and to remember it as being true.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: richardberks.co.uk  
    Title: charities debunk myths effectively  
-   Link: [https://richardberks.co.uk/blog/charities-debunk-myths-effectively/](https://richardberks.co.uk/blog/charities-debunk-myths-effectively/)  
+   Link: <a href="https://richardberks.co.uk/blog/charities-debunk-myths-effectively/" target="_blank" rel="noopener noreferrer nofollow">https://richardberks.co.uk/blog/charities-debunk-myths-effectively/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How can charities debunk myths effectively?9 Aug 2021 — How can charities debunk myths effectively? This blog looks at why [health myths](&amp;#123;&amp;#123; &#x27;health-myths/&#x27; | relative_url &amp;#125;&amp;#125;) p...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
    Title: Familiarity backfire effects?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167811626000261](https://www.sciencedirect.com/science/article/pii/S0167811626000261)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disentangling the competing...by IN Nibat · 2026 — Familiarity backfire effects? Disentangling the competing effects of repetition and f...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: skepticalscience.com  
    Title: Debunking Handbook Part 2 Familiarity Backfire Effect  
-   Link: [https://skepticalscience.com/Debunking-Handbook-Part-2-Familiarity-Backfire-Effect.html](https://skepticalscience.com/Debunking-Handbook-Part-2-Familiarity-Backfire-Effect.html)  
+   Link: <a href="https://skepticalscience.com/Debunking-Handbook-Part-2-Familiarity-Backfire-Effect.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-2-Familiarity-Backfire-Effect.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The driving force is the fact that familiarity increases the chances of accepting information as true...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: academia.edu  
    Title: The Debunking Handbook 2020  
-   Link: [https://www.academia.edu/44938020/The_Debunking_Handbook_2020](https://www.academia.edu/44938020/The_Debunking_Handbook_2020)  
+   Link: <a href="https://www.academia.edu/44938020/The_Debunking_Handbook_2020" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/44938020/The_Debunking_Handbook_2020</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Debunking Handbook 202030 Jan 2021 — The Debunking Handbook 2020 summarizes the insights from decades of research into counteri...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: digitalcommons.unl.edu  
-   Link: [https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf](https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Handbook 2020 - DigitalCommons@UNLby S Lewandowsky · Cited by 492 — Because a myth is necessarily repeated when it is debunked...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: shapingtomorrowsworld.org  
-   Link: [https://www.shapingtomorrowsworld.org/debunking-handbook-part-1-first-myth-about-debunking.html](https://www.shapingtomorrowsworld.org/debunking-handbook-part-1-first-myth-about-debunking.html)  
+   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-1-first-myth-about-debunking.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-1-first-myth-about-debunking.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping Tomorrows WorldThe Debunking Handbook Part 1: The first myth about...by S Lewandowsky · Cited by 1 — First, the refutation must...</p></details>

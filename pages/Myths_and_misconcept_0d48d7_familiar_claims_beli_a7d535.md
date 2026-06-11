@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - familiarity
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - familiarity
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Repeated claims can feel true because familiarity makes them easier to process, even when the evidence is weak.
 hero_summary: Repeated claims can feel true because familiarity makes them easier to process, even when the evidence is weak.
 layout: default
 permalink: /familiarity/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Familiarity
 title: Why Repetition Makes Claims Feel True
-title_full: Why Repetition Makes Claims Feel True | Mythcraft
+title_full: Why Repetition Makes Claims Feel True
 display_title_short: Familiarity
 display_title: Familiarity
 heading_title: Why Repetition Makes Claims Feel True
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 next_link:
   basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
-date: '2026-06-09 04:11:05 '
+date: '2026-06-11 21:54:43 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-overview.webp
@@ -501,39 +501,35 @@ image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-ov
 
 ## Introduction
 
-Familiar claims often feel more believable because the mind can mistake ease for evidence. When a statement has been heard before, it is usually quicker to recognise, easier to read, and less effortful to process. That smooth feeling is called [processing fluency]({{ 'fluency/' | relative_url }}), and people often treat it as a weak signal that a claim is true. This is why everyday myths can survive long after evidence has failed them: [repetition]({{ 'repetition/' | relative_url }}) gives them a comfortable mental “ring” before scrutiny begins. The effect is known as the illusory truth effect, first shown in classic psychology experiments where repeated statements received higher truth ratings than new ones, even when the repeated statements were false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537177800121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+Familiar claims often feel more believable because the mind can mistake ease for evidence. When a statement has been heard before, it is usually quicker to recognise, easier to read, and less effortful to process. That smooth feeling is called processing [fluency]({{ 'fluency/' | relative_url }}), and people often treat it as a weak signal that a claim is true. This is why everyday myths can survive long after evidence has failed them: [repetition]({{ 'repetition/' | relative_url }}) gives them a comfortable mental ring before scrutiny begins. The effect is known as the illusory truth effect, first shown in classic psychology experiments where repeated statements received higher truth ratings than new ones, even when the repeated statements were false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537177800121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-overview.webp" | relative_url }}" alt="Overview image for Familiarity" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean people are foolish, or that repetition always defeats knowledge. It means that truth judgements are partly shaped by speed, familiarity and attention. A myth that is easy to recall can feel safer than a [correction]({{ 'correction/' | relative_url }}) that is more accurate but harder to process.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cXFxRkjZNiw" title="Illusory Truth Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer">Illusory Truth Effect</a></p><p class="youtube-embed-meta">Channel: American Psychological Association &middot; Views: 1.1K &middot; Uploaded: January 2026 &middot; Length: 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cXFxRkjZNiw">Open on YouTube</a></p></div></div></div>
 
 ## The fluency effect
 
-The simplest way to understand the mechanism is this: repetition makes a claim easier for the brain to handle, and ease can be misread as credibility. If a person hears “sugar makes children hyperactive” at parties, in parenting forums and in casual conversation, the claim becomes familiar before they ever examine the evidence. Later, when they meet it again, it arrives with a small feeling of recognition. That feeling is not proof, but it can nudge judgement.
+The simplest way to understand the mechanism is this: repetition makes a claim easier for the brain to handle, and ease can be misread as credibility. If a person hears sugar makes children hyperactive at parties, in parenting forums and in casual conversation, the claim becomes familiar before they ever examine the evidence. Later, when they meet it again, it arrives with a small feeling of recognition. That feeling is not proof, but it can nudge judgement.
 
 The original illusory truth studies used plausible trivia-style statements. Participants rated repeated claims as more valid than unrepeated claims, while ratings for new statements did not rise in the same way. Later research extended the finding beyond trivia, showing that repeated information is often judged more truthful because it is processed more fluently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537177800121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This matters for [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) because many of them are not absurd on first hearing. They are usually simple, memorable and emotionally tidy. “We only use 10 per cent of our brain” works as a myth because it compresses hope, mystery and self-improvement into one short sentence. “Cracking your knuckles causes arthritis” works because it links a vivid sound to a feared bodily outcome. Familiarity does not create these myths from nothing, but it helps them feel settled.
+This matters for myths and misconceptions because many of them are not absurd on first hearing. They are usually simple, memorable and emotionally tidy. We only use 10 per cent of our brain works as a myth because it compresses hope, mystery and self-improvement into one short sentence. Cracking your knuckles causes arthritis works because it links a vivid sound to a feared bodily outcome. Familiarity does not create these myths from nothing, but it helps them feel settled.
 
 Research also suggests that prior knowledge is not a perfect shield. In a widely cited study, participants sometimes gave higher truth ratings to repeated falsehoods even when they knew the correct answer. The point is not that knowledge disappears, but that familiarity can influence quick judgement before people retrieve and apply what they know. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/features/xge-0000098.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-Illustration-1-dark.svg" | relative_url }}" alt="Familiarity illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When repetition helps myths travel
 
-Repetition is especially powerful when a claim travels through many different surfaces. A myth may appear as a headline, a meme, a family saying, a classroom aside, a product label, a podcast comment and a social media post. Each encounter may be weak on its own, but together they create the impression that “everyone knows” the claim.
+Repetition is especially powerful when a claim travels through many different surfaces. A myth may appear as a headline, a meme, a family saying, a classroom aside, a product label, a podcast comment and a social media post. Each encounter may be weak on its own, but together they create the impression that everyone knows the claim.
 
 This is one reason misinformation can spread without every sharer being strongly committed to it. In experiments using real fake-news [headlines]({{ 'headlines/' | relative_url }}), even a single prior exposure increased later perceived accuracy, both shortly afterwards and after a delay. That finding is important because online environments often expose people to headlines in passing, without requiring them to read or endorse the full story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMCNudging Social Media toward Accuracy</span></span></span>
 
 Repetition can also affect sharing. A 2023 study found that people were more likely to share statements they had previously encountered, and that this relationship was explained by perceived accuracy: repeated misinformation felt more accurate, which made it more shareable. The effect appeared in both health and general-knowledge contexts, suggesting that it is not confined to one topic area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMCNudging Social Media toward Accuracy</span></span></span>
 
-A concrete example comes from climate misinformation. A 2024 PLOS ONE study tested [repeated climate]({{ 'climate-claims/' | relative_url }})-related claims and found that repetition increased truth ratings for both climate-science-aligned and climate-sceptical statements, including among people who broadly accepted climate science. The lesson is not that one exposure converts a person’s worldview. It is that repetition can blur the felt difference between “I have heard this before” and “this has been established”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A concrete example comes from climate misinformation. A 2024 PLOS ONE study tested repeated climate-related claims and found that repetition increased truth ratings for both climate-science-aligned and climate-sceptical statements, including among people who broadly accepted climate science. The lesson is not that one exposure converts a persons worldview. It is that repetition can blur the felt difference between I have heard this before and this has been established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Several features make familiar myths particularly mobile:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -545,53 +541,48 @@ Several features make familiar myths particularly mobile:
 
 </div>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sXwpQlKdCck" title="THE INTELLIGENCE TRAP (The Mistake Smart People Make When Learning)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sXwpQlKdCck" target="_blank" rel="noopener noreferrer">THE INTELLIGENCE TRAP (The Mistake Smart People Make When Learning)</a></p><p class="youtube-embed-meta">Channel: Tristan and the Classics &middot; Views: 80.7K &middot; Uploaded: January 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sXwpQlKdCck" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sXwpQlKdCck">Open on YouTube</a></p></div></div></div>
 
-## Why “I have heard that” is not the same as “that is true”
+## Why I have heard that is not the same as that is true
 
 Familiarity is useful in ordinary life. Most of what people encounter is not deliberately false, so the mind often treats ease, repetition and recognisability as practical shortcuts. In stable environments, that can save effort. A familiar road sign, phrase or routine usually deserves fast processing. The trouble begins when the same shortcut is applied to claims whose truth depends on evidence.
 
 Psychologists sometimes describe this as a heuristic: a mental rule of thumb. The rule is not irrational in every setting. If many independent, reliable sources repeat the same claim, repetition may coincide with truth. But myths exploit the same feeling without the same evidential base. A slogan repeated by copied posts, low-quality articles and casual conversation can feel like consensus even when it is only circulation.
 
-This distinction helps explain why corrections often need more than a bare denial. “That is false” may be accurate, but it can leave the familiar claim intact and offer no memorable replacement. Better corrections make the true explanation fluent too: they state the fact clearly, explain the trap, and give the reader a more usable mental model. The Debunking Handbook argues that effective corrections should focus on the correct information, warn when a myth is about to be mentioned, and provide an alternative explanation rather than simply repeating the falsehood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change Communication Debunking Handbook</span></span></span>
+This distinction helps explain why [corrections]({{ 'corrections/' | relative_url }}) often need more than a bare denial. That is false may be accurate, but it can leave the familiar claim intact and offer no memorable replacement. Better corrections make the true explanation fluent too: they state the fact clearly, explain the trap, and give the reader a more usable mental model. The [Debunking]({{ 'debunking/' | relative_url }}) Handbook argues that effective corrections should focus on the correct information, warn when a myth is about to be mentioned, and provide an alternative explanation rather than simply repeating the falsehood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change Communication Debunking Handbook</span></span></span>
 
 There is also a useful caution here. Communicators sometimes worry that any correction will backfire by making the myth more familiar. The evidence is more reassuring than that simple fear suggests. Research on corrections finds that familiarity backfire effects are not robust in the way early discussions implied, and that clear corrections generally help rather than make false beliefs worse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMCNudging Social Media toward Accuracy</span></span></span>
 
-The practical takeaway is not “never repeat a myth”. It is “do not make the myth the most fluent thing on the page”. A correction should make the accurate version easier to remember than the false one.
-
+The practical takeaway is not never repeat a myth. It is do not make the myth the most fluent thing on the page. A correction should make the accurate version easier to remember than the false one.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-Illustration-2-dark.svg" | relative_url }}" alt="Familiarity illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to slow down familiar falsehoods
 
-The first defence against familiar falsehoods is a small pause. The question is not only “Have I heard this before?” but “Where would I know this from?” That extra step matters because familiarity often arrives without a source tag. People remember the claim more easily than the path by which it reached them.
+The first defence against familiar falsehoods is a small pause. The question is not only Have I heard this before? but Where would I know this from? That extra step matters because familiarity often arrives without a source tag. People remember the claim more easily than the path by which it reached them.
 
-Accuracy prompts can help. In research on misinformation sharing, shifting people’s attention towards accuracy improved the quality of news they later shared. This supports a simple idea: people do not always share falsehoods because they prefer falsehoods. Often, their attention is on novelty, [identity]({{ 'identity/' | relative_url }}), humour, outrage or social connection rather than truth. A timely reminder to think about accuracy can interrupt that automatic flow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+Accuracy prompts can help. In research on misinformation sharing, shifting peoples attention towards accuracy improved the quality of news they later shared. This supports a simple idea: people do not always share falsehoods because they prefer falsehoods. Often, their attention is on novelty, identity, humour, outrage or social connection rather than truth. A timely reminder to think about accuracy can interrupt that automatic flow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
 For readers, the useful habit is to separate recognition from verification:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* **Name the feeling.** “This sounds familiar” is a mental signal, not a conclusion.
+* **Name the feeling.** This sounds familiar is a mental signal, not a conclusion.
 * **Look for the original evidence.** Repeated summaries are weaker than a traceable source.
 * **Check whether sources are independent.** Ten posts repeating the same unsupported claim do not equal ten pieces of evidence.
 * **Prefer the clearest true version.** Replace the myth with a concise accurate explanation, not just a negation.
-* **Be careful with “everyone knows”.** That phrase often marks social familiarity rather than factual support.
+* **Be careful with everyone knows.** That phrase often marks social familiarity rather than factual support.
 
 </div>
 
 For writers, teachers and public communicators, the task is to make truth fluent without making the myth unnecessarily sticky. Lead with the accurate claim. Use simple wording. Mention the misconception only as much as needed to identify it. Then explain why it felt plausible, because that is what helps readers let go of it. A correction that respects the psychological appeal of the myth is usually stronger than one that treats belief as mere ignorance.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZHJi8BUVYgw" title="The Illusory Truth Effect: How Repetition Transforms Lies into &quot;Facts&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZHJi8BUVYgw" target="_blank" rel="noopener noreferrer">The Illusory Truth Effect: How Repetition Transforms Lies into &quot;Facts&quot;</a></p><p class="youtube-embed-meta">Channel: Plants Health &middot; Views: 184 &middot; Uploaded: March 2025 &middot; Length: 3 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZHJi8BUVYgw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZHJi8BUVYgw">Open on YouTube</a></p></div></div></div>
 
 ## The core lesson
 
-Familiar claims feel more believable because repetition changes the experience of thinking. A repeated claim is easier to recognise, easier to process and easier to retrieve. Those qualities can be useful when they point towards real knowledge, but misleading when they come from slogans, rumours, copied posts or long-lived myths.
+Familiar claims feel more believable because repetition changes the experience of thinking. A repeated claim is easier to recognise, easier to process and easier to retrieve. Those qualities can be useful when they point towards real knowledge, but misleading when they come from [slogans]({{ 'slogans/' | relative_url }}), rumours, copied posts or long-lived myths.
 
-The danger is subtle. Familiarity rarely announces itself as bias. It feels like common sense, background knowledge or “something I’ve always heard”. Slowing down familiar falsehoods means teaching the mind a better distinction: a claim can be easy to remember and still be wrong.
-
+The danger is subtle. Familiarity rarely announces itself as bias. It feels like common sense, background knowledge or something Ive always heard. Slowing down familiar falsehoods means teaching the mind a better distinction: a claim can be easy to remember and still be wrong.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-Illustration-3-dark.svg" | relative_url }}" alt="Familiarity illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -744,11 +735,11 @@ The danger is subtle. Familiarity rarely announces itself as bias. It feels like
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom Educational Posters - 20pcs 16â€� x 11â€� - Teacher Classroom Must Have..."><img src="{{ '/assets/images/marketplace-covers/e92cf70e662e4f29850a.jpg' | relative_url }}" alt="Listing image for Classroom Educational Posters - 20pcs 16â€� x 11â€� - Teacher Classroom Must Have..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..."><img src="{{ '/assets/images/marketplace-covers/e92cf70e662e4f29850a.jpg' | relative_url }}" alt="Listing image for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Classroom Educational Posters - 20pcs 16â€� x 11â€� - Teacher Classroom Must Have...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have...</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
         <div class="fr-book-actions">
@@ -991,149 +982,149 @@ The danger is subtle. Familiarity rarely announces itself as bias. It feels like
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022537177800121](https://www.sciencedirect.com/science/article/abs/pii/S0022537177800121)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022537177800121" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022537177800121</a>  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/</a>  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/</a>  
 
 4. <a id="endnote-4"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294)  
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294</a>  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11305575/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11305575/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11305575/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11305575/</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-021-03344-2](https://www.nature.com/articles/s41586-021-03344-2)  
+   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNudging Social Media toward Accuracy  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167811626000261](https://www.sciencedirect.com/science/article/pii/S0167811626000261)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S001002771830163X](https://www.sciencedirect.com/science/article/abs/pii/S001002771830163X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S001002771830163X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S001002771830163X</a>  
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811](https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661321000516](https://www.sciencedirect.com/science/article/pii/S1364661321000516)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
 
 13. <a id="endnote-13"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41467-026-70041-x](https://www.nature.com/articles/s41467-026-70041-x)  
+   Link: <a href="https://www.nature.com/articles/s41467-026-70041-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-70041-x</a>  
 
 14. <a id="endnote-14"></a>
    Source: who.int  
-   Link: [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)  
+   Link: <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters</a>  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Illusory Truth Effect: How Repetition Transforms Lies into "Facts"  
-   Link: [https://www.youtube.com/watch?v=ZHJi8BUVYgw](https://www.youtube.com/watch?v=ZHJi8BUVYgw)  
+   Link: <a href="https://www.youtube.com/watch?v=ZHJi8BUVYgw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZHJi8BUVYgw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth Effect...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Illusory Truth Effect  
-   Link: [https://www.youtube.com/watch?v=cXFxRkjZNiw](https://www.youtube.com/watch?v=cXFxRkjZNiw)  
+   Link: <a href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cXFxRkjZNiw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why You Believe [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;): The Science of Processing Fluency...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/pubs/journals/features/xge-0000098.pdf](https://www.apa.org/pubs/journals/features/xge-0000098.pdf)  
+   Link: <a href="https://www.apa.org/pubs/journals/features/xge-0000098.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/features/xge-0000098.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: climatechangecommunication.org  
    Title: Center for Climate Change Communication Debunking Handbook  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: [https://en.wikipedia.org/wiki/Illusory_truth_effect](https://en.wikipedia.org/wiki/Illusory_truth_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
 
 20. <a id="endnote-20"></a>
    Source: thedecisionlab.com  
    Title: Illusory truth effect  
-   Link: [https://thedecisionlab.com/biases/illusory-truth-effect](https://thedecisionlab.com/biases/illusory-truth-effect)  
+   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/](https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/)  
+   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
 
 22. <a id="endnote-22"></a>
    Source: scienceopen.com  
-   Link: [https://www.scienceopen.com/document/read?vid=771c88ee-7ec6-4db0-a4b0-fa09e32969f5](https://www.scienceopen.com/document/read?vid=771c88ee-7ec6-4db0-a4b0-fa09e32969f5)  
+   Link: <a href="https://www.scienceopen.com/document/read?vid=771c88ee-7ec6-4db0-a4b0-fa09e32969f5" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceopen.com/document/read?vid=771c88ee-7ec6-4db0-a4b0-fa09e32969f5</a>  
 
 23. <a id="endnote-23"></a>
    Source: annieduke.substack.com  
    Title: the illusory truth effect  
-   Link: [https://annieduke.substack.com/p/the-illusory-truth-effect](https://annieduke.substack.com/p/the-illusory-truth-effect)  
+   Link: <a href="https://annieduke.substack.com/p/the-illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://annieduke.substack.com/p/the-illusory-truth-effect</a>  
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Cognitive Psychology and Deciding to Solve Problems  
-   Link: [https://www.youtube.com/watch?v=kYfNvm4NY-w](https://www.youtube.com/watch?v=kYfNvm4NY-w)  
+   Link: <a href="https://www.youtube.com/watch?v=kYfNvm4NY-w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYfNvm4NY-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain the psychological mechanics of the illusory truth effect and processing fluency, detailing why repeated or familiar...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Why You Believe Fake News: The Science of Processing Fluency  
-   Link: [https://www.youtube.com/watch?v=_DYkqqQs204](https://www.youtube.com/watch?v=_DYkqqQs204)  
+   Link: <a href="https://www.youtube.com/watch?v=_DYkqqQs204" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_DYkqqQs204</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE INTELLIGENCE TRAP (The Mistake Smart People Make When Learning)...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: THE INTELLIGENCE TRAP (The Mistake Smart People Make When Learning)  
-   Link: [https://www.youtube.com/watch?v=sXwpQlKdCck](https://www.youtube.com/watch?v=sXwpQlKdCck)  
+   Link: <a href="https://www.youtube.com/watch?v=sXwpQlKdCck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sXwpQlKdCck</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Psychology and Deciding to Solve Problems...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/gb/basics/illusory-truth-effect](https://www.psychologytoday.com/gb/basics/illusory-truth-effect)  
+   Link: <a href="https://www.psychologytoday.com/gb/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/illusory-truth-effect</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ClintonFoundation/posts/its-getting-harder-to-separate-fact-from-fiction-in-public-health-as-misinformat/1528550311972967/](https://www.facebook.com/ClintonFoundation/posts/its-getting-harder-to-separate-fact-from-fiction-in-public-health-as-misinformat/1528550311972967/)  
+   Link: <a href="https://www.facebook.com/ClintonFoundation/posts/its-getting-harder-to-separate-fact-from-fiction-in-public-health-as-misinformat/1528550311972967/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ClintonFoundation/posts/its-getting-harder-to-separate-fact-from-fiction-in-public-health-as-misinformat/1528550311972967/</a>  
 
 29. <a id="endnote-29"></a>
    Source: scilit.com  
-   Link: [https://www.scilit.com/publications/136234f9eed2c8d04d55b9e8a9134d47](https://www.scilit.com/publications/136234f9eed2c8d04d55b9e8a9134d47)  
+   Link: <a href="https://www.scilit.com/publications/136234f9eed2c8d04d55b9e8a9134d47" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/136234f9eed2c8d04d55b9e8a9134d47</a>  
 
 30. <a id="endnote-30"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Lazy%2C-not-biased%3A-Susceptibility-to-partisan-fake-Pennycook-Rand/81fe024b0903ea646249321c7912ed0255a0d2f9](https://www.semanticscholar.org/paper/Lazy%2C-not-biased%3A-Susceptibility-to-partisan-fake-Pennycook-Rand/81fe024b0903ea646249321c7912ed0255a0d2f9)  
+   Link: <a href="https://www.semanticscholar.org/paper/Lazy%2C-not-biased%3A-Susceptibility-to-partisan-fake-Pennycook-Rand/81fe024b0903ea646249321c7912ed0255a0d2f9" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Lazy%2C-not-biased%3A-Susceptibility-to-partisan-fake-Pennycook-Rand/81fe024b0903ea646249321c7912ed0255a0d2f9</a>  
 
 31. <a id="endnote-31"></a>
    Source: networkscienceinstitute.org  
-   Link: [https://www.networkscienceinstitute.org/pomlab/publications](https://www.networkscienceinstitute.org/pomlab/publications)  
+   Link: <a href="https://www.networkscienceinstitute.org/pomlab/publications" target="_blank" rel="noopener noreferrer nofollow">https://www.networkscienceinstitute.org/pomlab/publications</a>  
 
 32. <a id="endnote-32"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/repeating-false-skeptical-claims-climate-science-l5qfc](https://www.linkedin.com/pulse/repeating-false-skeptical-claims-climate-science-l5qfc)  
+   Link: <a href="https://www.linkedin.com/pulse/repeating-false-skeptical-claims-climate-science-l5qfc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/repeating-false-skeptical-claims-climate-science-l5qfc</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/968580683281312/posts/3578343175638370/](https://www.facebook.com/groups/968580683281312/posts/3578343175638370/)  
+   Link: <a href="https://www.facebook.com/groups/968580683281312/posts/3578343175638370/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/968580683281312/posts/3578343175638370/</a>

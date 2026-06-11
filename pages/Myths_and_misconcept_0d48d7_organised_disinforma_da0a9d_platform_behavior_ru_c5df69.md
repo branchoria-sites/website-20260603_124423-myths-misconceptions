@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_prebunking_manipulat_26878d
 - Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_reporting_viral_fals_915704
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - campaigns
 - platform-rules
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - campaigns
 - platform-rules
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Behaviour-based rules can reduce fake accounts, hidden ads and artificial amplification while leaving room for lawful disagreement.
 hero_summary: Behaviour-based rules can reduce fake accounts, hidden ads and artificial amplification while leaving room for lawful disagreement.
 layout: default
 permalink: /platform-rules/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /campaigns/
 nav_short_title: Platform Rules
 title: Can Platforms Stop Manipulation, Not Debate?
-title_full: Can Platforms Stop Manipulation, Not Debate? | Campaigns
+title_full: Can Platforms Stop Manipulation, Not Debate?
 display_title_short: Platform Rules
 display_title: Platform Rules
 heading_title: Can Platforms Stop Manipulation, Not Debate?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Falsehoods Are Spread on Purpose | Mythcraft
+parent_title: When Falsehoods Are Spread on Purpose
 parent_permalink: /campaigns/
 parent_nav_short_title: Campaigns
 parent_heading_title: When Falsehoods Are Spread on Purpose
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Learning the Trick Before the Lie
 up_link:
   basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
@@ -265,7 +265,7 @@ next_link:
   permalink: /prebunking-150aba/
   short_title: Prebunking
   heading_title: Learning the Trick Before the Lie
-date: '2026-06-09 05:40:42 '
+date: '2026-06-11 22:39:35 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_platform_behavior_ru_c5df69-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_platform_behavior_ru_c5df69-Illustration-1.webp
@@ -276,9 +276,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_pl
 
 A common misconception is that [platforms]({{ 'platforms/' | relative_url }}) face a simple choice: either allow everything in the name of free debate or remove controversial opinions to stop misinformation. In practice, many of the most effective interventions focus on behaviour rather than viewpoint. The aim is not to decide which political opinions are acceptable. It is to identify deceptive tactics such as fake accounts, hidden sponsorship, coordinated impersonation, bot-driven [amplification]({{ 'amplification/' | relative_url }}) and other methods that create a false impression of public support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://transparency.meta.com/policies/community-standards/inauthentic-behavior/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transparency.meta.com">[Transparency Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transparency.meta.com</span><span class="citation-popover-title">Transparency Center Inauthentic Behavior</span><span class="citation-popover-snippet">Transparency CenterInauthentic Behavior - Transparency CenterMeta regularly publishes reports to give our community visibility into commu...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_platform_behavior_ru_c5df69-Illustration-1-dark.svg" | relative_url }}" alt="Platform Rules illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_platform_behavior_ru_c5df69-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_platform_behavior_ru_c5df69-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because organised disinformation [campaigns]({{ 'campaigns/' | relative_url }}) often rely less on persuading people through arguments and more on manipulating the signals people use to judge credibility. When platforms target those manipulative behaviours, they can reduce deception while leaving room for lawful disagreement, criticism and political debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectFrom fake account trafficking to coordinated inauthentic...by M Mazza · 2022 · Cited by 50 — Fake accounts are the primary...</span></span></span>
+This distinction matters because organised disinformation [campaigns]({{ 'campaigns/' | relative_url }}) often rely less on persuading people through arguments and more on manipulating the signals people use to judge credibility. When platforms target those manipulative behaviours, they can reduce deception while leaving room for lawful disagreement, criticism and political debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">From fake account trafficking to coordinated inauthentic...by M Mazza · 2022 · Cited by 50 — Fake accounts are the primary...</span></span></span>
 
 ## Why Behaviour Is Different From Viewpoint
 
@@ -286,10 +285,9 @@ A viewpoint is an opinion, belief or argument. Behaviour concerns how that messa
 
 For example, two users might post the same political claim. One is a real person expressing a genuine opinion. The other is part of a network of hundreds of coordinated accounts pretending to be independent citizens while secretly working together. The content may be identical, but the behaviour is different.
 
-Many platform policies therefore focus on what Meta calls “inauthentic behaviour” rather than on the political position being expressed. The concern is not whether a user supports a policy, candidate or movement. The concern is whether they are impersonating others, concealing coordination, operating fake accounts or artificially manipulating [engagement metrics]({{ 'metric-gap/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://transparency.meta.com/policies/community-standards/inauthentic-behavior/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transparency.meta.com">[Transparency Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transparency.meta.com</span><span class="citation-popover-title">Transparency Center Inauthentic Behavior</span><span class="citation-popover-snippet">Transparency CenterInauthentic Behavior - Transparency CenterMeta regularly publishes reports to give our community visibility into commu...</span></span></span>
+Many platform policies therefore focus on what Meta calls “inauthentic behaviour” rather than on the political position being expressed. The concern is not whether a user supports a policy, candidate or movement. The concern is whether they are impersonating others, concealing coordination, operating fake accounts or artificially manipulating engagement metrics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://transparency.meta.com/policies/community-standards/inauthentic-behavior/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transparency.meta.com">[Transparency Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transparency.meta.com</span><span class="citation-popover-title">Transparency Center Inauthentic Behavior</span><span class="citation-popover-snippet">Transparency CenterInauthentic Behavior - Transparency CenterMeta regularly publishes reports to give our community visibility into commu...</span></span></span>
 
 This approach has several advantages:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,14 +304,11 @@ The distinction is not always perfect. Real-world cases often mix genuine suppor
 
 The clearest examples of behaviour-focused intervention involve systems designed to create a misleading impression of popularity or authenticity.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2BbtSiN2sBI" title="Fighting Misinformation Through Clear, Trustworthy Communication" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2BbtSiN2sBI" target="_blank" rel="noopener noreferrer">Fighting Misinformation Through Clear, Trustworthy Communication</a></p><p class="youtube-embed-meta">Channel: PAHO TV &middot; Views: 34 &middot; Uploaded: August 2025 &middot; Length: 2 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2BbtSiN2sBI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2BbtSiN2sBI">Open on YouTube</a></p></div></div></div>
-
 ### Fake Accounts And Coordinated Networks
 
 Researchers and platforms have repeatedly identified networks of accounts that pose as ordinary users while being centrally controlled. Such operations may amplify hashtags, flood comment sections, repost identical messages or impersonate local communities. Meta's public reporting on coordinated inauthentic behaviour reflects a long-running effort to remove these networks regardless of the specific political positions they promote. <span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/wp-content/uploads/2021/05/IO-Threat-Report-May-20-2021.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">IO Threat Report May 20 2021</span><span class="citation-popover-snippet">About FacebookThreat Report The State of Influence Operations 2017-20201 May 2021 — These efforts have pressed threat actors to shift the...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
 
-The reason these operations matter is that people often use social proof as a shortcut for credibility. If thousands of apparently independent users repeat the same message, it can appear more trustworthy than it really is. Coordinated networks exploit that tendency. Research on fake-account ecosystems has identified fake identities as a primary tool enabling coordinated inauthentic behaviour across platforms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectFrom fake account trafficking to coordinated inauthentic...by M Mazza · 2022 · Cited by 50 — Fake accounts are the primary...</span></span></span>
+The reason these operations matter is that people often use social proof as a shortcut for credibility. If thousands of apparently independent users repeat the same message, it can appear more trustworthy than it really is. Coordinated networks exploit that tendency. Research on fake-account ecosystems has identified fake identities as a primary tool enabling coordinated inauthentic behaviour across platforms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">From fake account trafficking to coordinated inauthentic...by M Mazza · 2022 · Cited by 50 — Fake accounts are the primary...</span></span></span>
 
 ### Hidden Political Advertising
 
@@ -323,8 +318,7 @@ Political advertising has become increasingly sophisticated, allowing campaigns 
 
 The logic is straightforward: citizens may disagree strongly about policies, but they should know when they are viewing paid political persuasion. Transparency allows scrutiny without banning the underlying message.
 
-Recent European rules have strengthened obligations around political advertising transparency and restrictions on certain forms of targeting, particularly where sensitive personal data could be used to influence voters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectFrom fake account trafficking to coordinated inauthentic...by M Mazza · 2022 · Cited by 50 — Fake accounts are the primary...</span></span></span>
-
+Recent European rules have strengthened obligations around political advertising transparency and restrictions on certain forms of targeting, particularly where sensitive personal data could be used to influence voters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">From fake account trafficking to coordinated inauthentic...by M Mazza · 2022 · Cited by 50 — Fake accounts are the primary...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_platform_behavior_ru_c5df69-Illustration-2-dark.svg" | relative_url }}" alt="Platform Rules illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_platform_behavior_ru_c5df69-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_platform_behavior_ru_c5df69-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Artificial Engagement
@@ -332,7 +326,6 @@ Recent European rules have strengthened obligations around political advertising
 Platforms also target manipulation by detecting behaviour that inflates popularity metrics.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -359,8 +352,7 @@ Transparency tools can often achieve part of the same goal while preserving acce
 
 The European Union's Digital Services Act reflects this broader trend. Rather than requiring platforms to remove lawful political viewpoints, it emphasises systemic risk assessment, transparency obligations and measures aimed at reducing manipulation and coordinated inauthentic behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">These services include marketplaces...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.isdglobal.org/isd-explainer/eu-digital-services-act/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isdglobal.org">[Institute for Strategic Dialogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isdglobal.org</span><span class="citation-popover-title">eu digital services act</span><span class="citation-popover-snippet">Institute for Strategic DialogueEU Digital Services ActAug 13, 2024 — The DSA requires VLOPs and VLOSEs to assess several types of system...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2BbtSiN2sBI" title="Fighting Misinformation Through Clear, Trustworthy Communication" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2BbtSiN2sBI" target="_blank" rel="noopener noreferrer">Fighting Misinformation Through Clear, Trustworthy Communication</a></p><p class="youtube-embed-meta">Channel: PAHO TV &middot; Views: 34 &middot; Uploaded: August 2025 &middot; Length: 2 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2BbtSiN2sBI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2BbtSiN2sBI">Open on YouTube</a></p></div></div></div>
 
 ## The Risks Of Over-Removal During Uncertain Events
 
@@ -374,15 +366,11 @@ Another challenge is that sophisticated actors adapt. Meta's threat reporting ha
 
 For this reason, transparency and appeals processes are often considered as important as the initial enforcement decision. Users, researchers and journalists need ways to understand why actions were taken and to challenge mistakes when they occur.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/delxyJkciLg" title="I Really Wanna Sex Your Body" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=delxyJkciLg" target="_blank" rel="noopener noreferrer">I Really Wanna Sex Your Body</a></p><p class="youtube-embed-meta">Channel: Link - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=delxyJkciLg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=delxyJkciLg">Open on YouTube</a></p></div></div></div>
-
 ## What Effective Platform Rules Look Like
 
 The strongest governance approaches generally share a common principle: focus on deception in the distribution process rather than disagreement in the content itself.
 
 In practice, that means prioritising actions against:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -398,7 +386,6 @@ In practice, that means prioritising actions against:
 At the same time, platforms can preserve room for open debate by applying those rules regardless of ideology, publishing transparency reports, providing researcher access where appropriate and allowing users to challenge enforcement decisions. Recent regulatory frameworks increasingly emphasise these governance mechanisms, seeking to reduce manipulation while protecting lawful expression and democratic participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">These services include marketplaces...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.isdglobal.org/isd-explainer/eu-digital-services-act/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isdglobal.org">[Institute for Strategic Dialogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isdglobal.org</span><span class="citation-popover-title">eu digital services act</span><span class="citation-popover-snippet">Institute for Strategic DialogueEU Digital Services ActAug 13, 2024 — The DSA requires VLOPs and VLOSEs to assess several types of system...</span></span></span>
 
 The central lesson is that platforms do not necessarily have to choose between manipulation and free debate. They can often target the deceptive tactics that distort public discussion while leaving the underlying arguments—popular or unpopular—to be contested openly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://transparency.meta.com/policies/community-standards/inauthentic-behavior/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transparency.meta.com">[Transparency Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transparency.meta.com</span><span class="citation-popover-title">Transparency Center Inauthentic Behavior</span><span class="citation-popover-snippet">Transparency CenterInauthentic Behavior - Transparency CenterMeta regularly publishes reports to give our community visibility into commu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eucrim.eu/news/overview-of-the-latest-developments-under-the-digital-services-act-november-2025-february-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eucrim.eu">[2eucrim.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eucrim.eu</span><span class="citation-popover-snippet">ncluding coordinated inauthentic behaviour and disinformation risks linked to...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_platform_behavior_ru_c5df69-Illustration-3-dark.svg" | relative_url }}" alt="Platform Rules illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_platform_behavior_ru_c5df69-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_platform_behavior_ru_c5df69-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -799,195 +786,195 @@ The central lesson is that platforms do not necessarily have to choose between m
 1. <a id="endnote-1"></a>
    Source: transparency.meta.com  
    Title: Transparency Center Inauthentic Behavior  
-   Link: [https://transparency.meta.com/policies/community-standards/inauthentic-behavior/](https://transparency.meta.com/policies/community-standards/inauthentic-behavior/)  
+   Link: <a href="https://transparency.meta.com/policies/community-standards/inauthentic-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/policies/community-standards/inauthentic-behavior/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transparency CenterInauthentic Behavior - Transparency CenterMeta regularly publishes reports to give our community visibility into commu...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271](https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectFrom fake account trafficking to coordinated inauthentic...by M Mazza · 2022 · Cited by 50 — Fake accounts are the primary...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>From fake account trafficking to coordinated inauthentic...by M Mazza · 2022 · Cited by 50 — Fake accounts are the primary...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2212473X25000574](https://www.sciencedirect.com/science/article/pii/S2212473X25000574)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe role of the Regulation on the transparency and...by S Eskens · 2025 · Cited by 2 — The TTPA Regulation lays down transp...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2212473X25000574" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2212473X25000574</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of the Regulation on the transparency and...by S Eskens · 2025 · Cited by 2 — The TTPA Regulation lays down transp...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: wired.com  
    Title: Worried About Political Deepfakes?  
-   Link: [https://www.wired.com/story/meta-youtube-ai-political-ads](https://www.wired.com/story/meta-youtube-ai-political-ads)  
+   Link: <a href="https://www.wired.com/story/meta-youtube-ai-political-ads" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/meta-youtube-ai-political-ads</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beware the Spread of &#x27;Cheapfakes&#x27;As the 2024 elections approach, concerns over the use of generative AI in political content are rising...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: eucrim.eu  
-   Link: [https://eucrim.eu/news/overview-of-the-latest-developments-under-the-digital-services-act-november-2025-february-2026/](https://eucrim.eu/news/overview-of-the-latest-developments-under-the-digital-services-act-november-2025-february-2026/)  
+   Link: <a href="https://eucrim.eu/news/overview-of-the-latest-developments-under-the-digital-services-act-november-2025-february-2026/" target="_blank" rel="noopener noreferrer nofollow">https://eucrim.eu/news/overview-of-the-latest-developments-under-the-digital-services-act-november-2025-february-2026/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ncluding coordinated inauthentic behaviour and disinformation risks linked to...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wired.com  
    Title: What Even Is 'Coordinated Inauthentic Behavior' on Platforms?  
-   Link: [https://www.wired.com/story/what-even-is-coordinated-inauthentic-behavior-on-platforms](https://www.wired.com/story/what-even-is-coordinated-inauthentic-behavior-on-platforms)  
+   Link: <a href="https://www.wired.com/story/what-even-is-coordinated-inauthentic-behavior-on-platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/what-even-is-coordinated-inauthentic-behavior-on-platforms</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These actions raise questions about the difference between legitimate campaign activities and prohibited coordinated inauthentic behavior...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0377221720308249](https://www.sciencedirect.com/science/article/pii/S0377221720308249)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0377221720308249" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0377221720308249</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The responsibility of social media in times of societal and...by U Reisach · 2021 · Cited by 241 — The paper asks whether and how social...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: disinfo.eu  
    Title: 20240805 CIB detection tree  
-   Link: [https://www.disinfo.eu/wp-content/uploads/2024/08/20240805-CIB-detection-tree.pdf](https://www.disinfo.eu/wp-content/uploads/2024/08/20240805-CIB-detection-tree.pdf)  
+   Link: <a href="https://www.disinfo.eu/wp-content/uploads/2024/08/20240805-CIB-detection-tree.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.disinfo.eu/wp-content/uploads/2024/08/20240805-CIB-detection-tree.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>20240805-CIB-detection-tree.pdf5 Aug 2024 — This publication has been created as part of the veraAI project, co-funded by the European Co...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: transparency.meta.com  
    Title: community standards  
-   Link: [https://transparency.meta.com/policies/community-standards/](https://transparency.meta.com/policies/community-standards/)  
+   Link: <a href="https://transparency.meta.com/policies/community-standards/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/policies/community-standards/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Standards - Meta Transparency CenterThe Community Standards outline what is and isn&#x27;t allowed on Facebook, Instagram, Messenger and Threads...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: How Algorithms Spread Misinformation  
-   Link: [https://www.youtube.com/watch?v=0hY7lP5wW6w](https://www.youtube.com/watch?v=0hY7lP5wW6w)  
+   Link: <a href="https://www.youtube.com/watch?v=0hY7lP5wW6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0hY7lP5wW6w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fighting Misinformation Through Clear, Trustworthy Communication...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Fighting Misinformation Through Clear, Trustworthy Communication  
-   Link: [https://www.youtube.com/watch?v=2BbtSiN2sBI](https://www.youtube.com/watch?v=2BbtSiN2sBI)  
+   Link: <a href="https://www.youtube.com/watch?v=2BbtSiN2sBI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2BbtSiN2sBI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Coordinated Inauthentic Behavior...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Understanding Coordinated Inauthentic Behavior  
-   Link: [https://www.youtube.com/watch?v=5Ue819b78kU](https://www.youtube.com/watch?v=5Ue819b78kU)  
+   Link: <a href="https://www.youtube.com/watch?v=5Ue819b78kU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5Ue819b78kU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Social Media Platforms Handle Misinformation...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: How Social Media Platforms Handle Misinformation  
-   Link: [https://www.youtube.com/watch?v=QZ0s3_s9yXw](https://www.youtube.com/watch?v=QZ0s3_s9yXw)  
+   Link: <a href="https://www.youtube.com/watch?v=QZ0s3_s9yXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QZ0s3_s9yXw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Anatomy of an Online Disinformation Campaign...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Anatomy of an Online Disinformation Campaign  
-   Link: [https://www.youtube.com/watch?v=s5R_9k2w42Y](https://www.youtube.com/watch?v=s5R_9k2w42Y)  
+   Link: <a href="https://www.youtube.com/watch?v=s5R_9k2w42Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s5R_9k2w42Y</a>  
 
 15. <a id="endnote-15"></a>
    Source: about.fb.com  
    Title: IO Threat Report May 20 2021  
-   Link: [https://about.fb.com/wp-content/uploads/2021/05/IO-Threat-Report-May-20-2021.pdf](https://about.fb.com/wp-content/uploads/2021/05/IO-Threat-Report-May-20-2021.pdf)  
+   Link: <a href="https://about.fb.com/wp-content/uploads/2021/05/IO-Threat-Report-May-20-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/wp-content/uploads/2021/05/IO-Threat-Report-May-20-2021.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About FacebookThreat Report The State of Influence Operations 2017-20201 May 2021 — These efforts have pressed threat actors to shift the...</p></details>
    Published: May 2021  
 
 16. <a id="endnote-16"></a>
    Source: isdglobal.org  
    Title: eu digital services act  
-   Link: [https://www.isdglobal.org/isd-explainer/eu-digital-services-act/](https://www.isdglobal.org/isd-explainer/eu-digital-services-act/)  
+   Link: <a href="https://www.isdglobal.org/isd-explainer/eu-digital-services-act/" target="_blank" rel="noopener noreferrer nofollow">https://www.isdglobal.org/isd-explainer/eu-digital-services-act/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Strategic DialogueEU Digital Services ActAug 13, 2024 — The DSA requires VLOPs and VLOSEs to assess several types of system...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: policyreview.info  
    Title: Internet Policy Review Can online political targeting be rendered transparent?  
-   Link: [https://policyreview.info/articles/analysis/can-online-political-targeting-be-rendered-transparent-prospects-campaign](https://policyreview.info/articles/analysis/can-online-political-targeting-be-rendered-transparent-prospects-campaign)  
+   Link: <a href="https://policyreview.info/articles/analysis/can-online-political-targeting-be-rendered-transparent-prospects-campaign" target="_blank" rel="noopener noreferrer nofollow">https://policyreview.info/articles/analysis/can-online-political-targeting-be-rendered-transparent-prospects-campaign</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Mehta · 2022 · Cited by 22 — In this paper, we consider whether the Facebook Ad Library actually improves the capability of regulato...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: digital-strategy.ec.europa.eu  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/digital-services-act](https://digital-strategy.ec.europa.eu/en/policies/digital-services-act)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/digital-services-act</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These services include marketplaces...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cogitatiopress.com  
    Title: Hyperactive social  
-   Link: [https://www.cogitatiopress.com/mediaandcommunication/article/viewFile/10733/4617](https://www.cogitatiopress.com/mediaandcommunication/article/viewFile/10733/4617)  
+   Link: <a href="https://www.cogitatiopress.com/mediaandcommunication/article/viewFile/10733/4617" target="_blank" rel="noopener noreferrer nofollow">https://www.cogitatiopress.com/mediaandcommunication/article/viewFile/10733/4617</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cogitatio PressThe Use of Facebook Accounts With Inauthentic Behavior...by B Oprea · 2025 — Technology has reshaped political communicat...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: disinfocode.eu  
-   Link: [https://disinfocode.eu/the-code/read](https://disinfocode.eu/the-code/read)  
+   Link: <a href="https://disinfocode.eu/the-code/read" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/the-code/read</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Code of Conduct on Disinformation16 Jun 2022 — The Code of Conduct on Disinformation is a pioneering framework agreed upon by a broad ran...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: eu The impact of the Digital Services Act on digital platforms  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/dsa-impact-platforms](https://digital-strategy.ec.europa.eu/en/policies/dsa-impact-platforms)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/dsa-impact-platforms" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/dsa-impact-platforms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of the Digital Services Act on digital platformsMay 19, 2026 — The DSA significantly improves the mechanisms for the removal of il...</p></details>
    Published: May 19, 2026  
 
 22. <a id="endnote-22"></a>
    Source: disinfocode.eu  
-   Link: [https://disinfocode.eu/reports/facebook/8?chapterId=73&commitmentId=357](https://disinfocode.eu/reports/facebook/8?chapterId=73&commitmentId=357)  
+   Link: <a href="https://disinfocode.eu/reports/facebook/8?chapterId=73&amp;commitmentId=357" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/facebook/8?chapterId=73&amp;commitmentId=357</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report March 2026 - Transparency CentreIn order to limit impermissible manipulative behaviours and practices across their services, Relev...</p></details>
    Published: March 2026  
 
 23. <a id="endnote-23"></a>
    Source: table.media  
    Title: coordinated inauthentic behaviour, both on and off  
-   Link: [https://table.media/assets/europe/first_article_352_dsa_report_on_systemic_risks_and_mitigations_final_ddxkzxhwga8vftj3unr0mgkwqvk_121707.pdf](https://table.media/assets/europe/first_article_352_dsa_report_on_systemic_risks_and_mitigations_final_ddxkzxhwga8vftj3unr0mgkwqvk_121707.pdf)  
+   Link: <a href="https://table.media/assets/europe/first_article_352_dsa_report_on_systemic_risks_and_mitigations_final_ddxkzxhwga8vftj3unr0mgkwqvk_121707.pdf" target="_blank" rel="noopener noreferrer nofollow">https://table.media/assets/europe/first_article_352_dsa_report_on_systemic_risks_and_mitigations_final_ddxkzxhwga8vftj3unr0mgkwqvk_121707.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First report of the European Board for Digital Services in...Nov 18, 2025 — The Digital Services Act (“DSA”) regulates online intermedia...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Digital Services Act  
-   Link: [https://en.wikipedia.org/wiki/Digital_Services_Act](https://en.wikipedia.org/wiki/Digital_Services_Act)  
+   Link: <a href="https://en.wikipedia.org/wiki/Digital_Services_Act" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Digital_Services_Act</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Services ActThe Digital Services Act (DSA) is an EU regulation that entered into force in 2022, establishing a comprehensive l...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: baldon-avocats.com  
-   Link: [https://baldon-avocats.com/putting-the-digital-services-act-dsa-to-the-test-can-the-eus-counter-the-deregulation-push-from-big-social-media-platforms/](https://baldon-avocats.com/putting-the-digital-services-act-dsa-to-the-test-can-the-eus-counter-the-deregulation-push-from-big-social-media-platforms/)  
+   Link: <a href="https://baldon-avocats.com/putting-the-digital-services-act-dsa-to-the-test-can-the-eus-counter-the-deregulation-push-from-big-social-media-platforms/" target="_blank" rel="noopener noreferrer nofollow">https://baldon-avocats.com/putting-the-digital-services-act-dsa-to-the-test-can-the-eus-counter-the-deregulation-push-from-big-social-media-platforms/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Putting the Digital Services Act (DSA) to the testIn particular, pursuant to the DSA, online platforms are required to provide mechanisms...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: electoralcommission.org.uk  
-   Link: [https://www.electoralcommission.org.uk/news-and-views/our-responses-consultations/response-science-innovation-and-technology-committee-call-evidence-social-media-misinformation-and](https://www.electoralcommission.org.uk/news-and-views/our-responses-consultations/response-science-innovation-and-technology-committee-call-evidence-social-media-misinformation-and)  
+   Link: <a href="https://www.electoralcommission.org.uk/news-and-views/our-responses-consultations/response-science-innovation-and-technology-committee-call-evidence-social-media-misinformation-and" target="_blank" rel="noopener noreferrer nofollow">https://www.electoralcommission.org.uk/news-and-views/our-responses-consultations/response-science-innovation-and-technology-committee-call-evidence-social-media-misinformation-and</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Response to the Science, Innovation and Technology...28 Jan 2025 — This response focuses on how social media, misinformation and harmful...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: stimson.org  
-   Link: [https://www.stimson.org/2022/social-media-misinformation-and-the-prevention-of-political-instability-and-mass-atrocities/](https://www.stimson.org/2022/social-media-misinformation-and-the-prevention-of-political-instability-and-mass-atrocities/)  
+   Link: <a href="https://www.stimson.org/2022/social-media-misinformation-and-the-prevention-of-political-instability-and-mass-atrocities/" target="_blank" rel="noopener noreferrer nofollow">https://www.stimson.org/2022/social-media-misinformation-and-the-prevention-of-political-instability-and-mass-atrocities/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media Misinformation and the Prevention of Political...7 Jul 2022 — This policy paper examines how social media misinformation (S...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: eu-digital-services-act.com  
-   Link: [https://www.eu-digital-services-act.com/Digital_Services_Act_Preamble_81_to_90.html](https://www.eu-digital-services-act.com/Digital_Services_Act_Preamble_81_to_90.html)  
+   Link: <a href="https://www.eu-digital-services-act.com/Digital_Services_Act_Preamble_81_to_90.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-digital-services-act.com/Digital_Services_Act_Preamble_81_to_90.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The full name is &quot;Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: eu-digital-services-act.com  
-   Link: [https://www.eu-digital-services-act.com/](https://www.eu-digital-services-act.com/)  
+   Link: <a href="https://www.eu-digital-services-act.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-digital-services-act.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Services Act (DSA) | Updates, Compliance, TrainingUncover the critical components of the Digital Services Act (DSA)...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: europeanpapers.eu  
    Title: platforms online surveillance european union digital services act dsa  
-   Link: [https://www.europeanpapers.eu/e-journal/platforms-online-surveillance-%20european-union-digital-services-act-dsa](https://www.europeanpapers.eu/e-journal/platforms-online-surveillance-%20european-union-digital-services-act-dsa)  
+   Link: <a href="https://www.europeanpapers.eu/e-journal/platforms-online-surveillance-%20european-union-digital-services-act-dsa" target="_blank" rel="noopener noreferrer nofollow">https://www.europeanpapers.eu/e-journal/platforms-online-surveillance-%20european-union-digital-services-act-dsa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Platforms, Online Surveillance, and the European Unionby RÓ Fathaigh · 2026 — Focusing on the DSA allows us to investigate how European U...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: europeaninterest.eu  
    Title: european commission sets up code of conduct against disinformation  
-   Link: [https://www.europeaninterest.eu/european-commission-sets-up-code-of-conduct-against-disinformation/](https://www.europeaninterest.eu/european-commission-sets-up-code-of-conduct-against-disinformation/)  
+   Link: <a href="https://www.europeaninterest.eu/european-commission-sets-up-code-of-conduct-against-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.europeaninterest.eu/european-commission-sets-up-code-of-conduct-against-disinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European Commission sets up code of conduct against...Feb 13, 2025 — The code will focus on demonisation of outlets spreading [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: cjil.uchicago.edu  
    Title: digital services act and eu global regulator internet  
-   Link: [https://cjil.uchicago.edu/print-archive/digital-services-act-and-eu-global-regulator-internet](https://cjil.uchicago.edu/print-archive/digital-services-act-and-eu-global-regulator-internet)  
+   Link: <a href="https://cjil.uchicago.edu/print-archive/digital-services-act-and-eu-global-regulator-internet" target="_blank" rel="noopener noreferrer nofollow">https://cjil.uchicago.edu/print-archive/digital-services-act-and-eu-global-regulator-internet</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Services Act and the EU as the Global Regulator of...This essay discusses the Digital Services Act (DSA), the new regulation ena...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: consilium.europa.eu  
    Title: eu How the EU combats harmful content online  
-   Link: [https://www.consilium.europa.eu/en/policies/how-the-eu-combats-harmful-content-online/](https://www.consilium.europa.eu/en/policies/how-the-eu-combats-harmful-content-online/)  
+   Link: <a href="https://www.consilium.europa.eu/en/policies/how-the-eu-combats-harmful-content-online/" target="_blank" rel="noopener noreferrer nofollow">https://www.consilium.europa.eu/en/policies/how-the-eu-combats-harmful-content-online/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the EU combats harmful content online - ConsiliumThe EU&#x27;s digital services act (DSA) helps combat propaganda, misinformation and fake new...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: tandfonline.com  
    Title: Other platforms focus on specific behaviors  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2590561](https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2590561)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2590561" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2590561</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlinePlatform governance under the Digital Services Actby R Gsenger · 2025 · Cited by 4 — However, Meta seems to be the...</p></details>

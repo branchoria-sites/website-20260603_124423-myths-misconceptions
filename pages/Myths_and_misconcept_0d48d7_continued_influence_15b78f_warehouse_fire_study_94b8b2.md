@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_continued_influence_15b78f_replacement_explanat_3e144b
 - Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - old-stories
 - fire-study
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - old-stories
 - fire-study
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: The classic warehouse fire experiment shows how a corrected detail can still explain explosions, fumes and severity.
 hero_summary: The classic warehouse fire experiment shows how a corrected detail can still explain explosions, fumes and severity.
 layout: default
 permalink: /fire-study/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /old-stories/
 nav_short_title: Fire Study
 title: Why the warehouse fire myth lingered
-title_full: Why the warehouse fire myth lingered | Old Stories
+title_full: Why the warehouse fire myth lingered
 display_title_short: Fire Study
 display_title: Fire Study
 heading_title: Why the warehouse fire myth lingered
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Corrected Myths Still Linger | Mythcraft
+parent_title: Why Corrected Myths Still Linger
 parent_permalink: /old-stories/
 parent_nav_short_title: Old Stories
 parent_heading_title: Why Corrected Myths Still Linger
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The missing piece in stronger corrections
 up_link:
   basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
@@ -259,7 +259,7 @@ next_link:
   permalink: /memory-gap/
   short_title: Memory Gap
   heading_title: Knowing it is false is not enough
-date: '2026-06-09 04:41:07 '
+date: '2026-06-11 22:10:11 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-1.webp
@@ -268,23 +268,18 @@ image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_war
 
 ## Introduction
 
-The classic warehouse fire experiment became one of the most influential demonstrations of how misinformation can survive [correction]({{ 'correction/' | relative_url }}). In the study, participants read a series of reports about a warehouse fire. Early reports suggested that volatile materials such as paint and gas cylinders had been stored in a cupboard near the fire's origin. Later, that claim was explicitly withdrawn. Yet many participants continued to use the supposedly corrected information when explaining explosions, smoke, damage and emergency responses. The finding helped establish what researchers now call the [continued influence]({{ 'old-stories/' | relative_url }}) effect: people can remember a correction and still rely on the original claim when reasoning about events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateWhen Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
-
+The classic warehouse fire experiment became one of the most influential demonstrations of how misinformation can survive [correction]({{ 'correction/' | relative_url }}). In the study, participants read a series of reports about a warehouse fire. Early reports suggested that volatile materials such as paint and gas cylinders had been stored in a cupboard near the fire's origin. Later, that claim was explicitly withdrawn. Yet many participants continued to use the supposedly corrected information when explaining explosions, smoke, damage and emergency responses. The finding helped establish what researchers now call the continued influence effect: people can remember a correction and still rely on the original claim when reasoning about events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-1-dark.svg" | relative_url }}" alt="Fire Study illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What made the experiment memorable was not simply that people believed something false. The corrected information had become part of a causal story. Once it helped explain the fire, removing it left unanswered questions. The study showed that misinformation often persists because it remains useful, not merely because it is remembered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateWhen Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+What made the experiment memorable was not simply that people believed something false. The corrected information had become part of a causal story. Once it helped explain the fire, removing it left unanswered questions. The study showed that misinformation often persists because it remains useful, not merely because it is remembered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
 
 ## What the fire scenario tested
 
-The original work by Hollyn Johnson and Colleen Seifert presented participants with a fictional news-style sequence describing a warehouse fire and the subsequent investigation. One version of the story included reports that a storage cupboard contained volatile materials. Later messages stated that the cupboard had actually been empty and that the earlier information was incorrect. Researchers then asked participants questions requiring them to explain aspects of the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateWhen Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
+The original work by Hollyn Johnson and Colleen Seifert presented participants with a fictional news-style sequence describing a warehouse fire and the subsequent investigation. One version of the story included reports that a storage cupboard contained volatile materials. Later messages stated that the cupboard had actually been empty and that the earlier information was incorrect. Researchers then asked participants questions requiring them to explain aspects of the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
 
-The crucial finding was that many participants continued to refer to the volatile materials despite having encountered the correction. They used the retracted information when discussing why the fire became severe, why explosions occurred and why thick smoke was present. Importantly, this was not simply a [memory]({{ 'memory/' | relative_url }}) failure. Most participants could correctly recall that a retraction had occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateWhen Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17470218211048986" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSensitivity to misinformation retractions in the continued...Based on answers to the inference questions, Johnson and Seife...</span></span></span>
+The crucial finding was that many participants continued to refer to the volatile materials despite having encountered the correction. They used the retracted information when discussing why the fire became severe, why explosions occurred and why thick smoke was present. Importantly, this was not simply a [memory]({{ 'memory/' | relative_url }}) failure. Most participants could correctly recall that a retraction had occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17470218211048986" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSensitivity to misinformation retractions in the continued...Based on answers to the inference questions, Johnson and Seife...</span></span></span>
 
 The study therefore separated two ideas that are often treated as the same thing:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -293,47 +288,37 @@ The study therefore separated two ideas that are often treated as the same thing
 
 </div>
 
-Participants frequently succeeded at the first task but failed at the second. The corrected claim continued to influence how they interpreted the rest of the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateWhen Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EaEDkrYnKuI" title="What is Continued influence effect? [Definition and Example] - Understanding Cognitive Biases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EaEDkrYnKuI" target="_blank" rel="noopener noreferrer">What is Continued influence effect? [Definition and Example] - Understanding Cognitive Biases</a></p><p class="youtube-embed-meta">Channel: PsychOut &middot; Views: 646 &middot; Uploaded: September 2020 &middot; Length: 1 minute 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EaEDkrYnKuI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EaEDkrYnKuI">Open on YouTube</a></p></div></div></div>
+Participants frequently succeeded at the first task but failed at the second. The corrected claim continued to influence how they interpreted the rest of the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
 
 ## Why volatile materials stayed explanatory
 
-The volatile-materials detail occupied a powerful position in the narrative because it supplied a ready-made cause. Fires accompanied by explosions, toxic fumes and extensive damage naturally invite questions about what fuelled them. The mention of paint, chemicals or gas cylinders immediately provided an explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://anecdotal.app/bias/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anecdotal.app">[ANECDOTAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anecdotal.app</span><span class="citation-popover-title">continued influence effect</span><span class="citation-popover-snippet">ANECDOTALContinued influence effect | ANECDOTALJohnson and Seifert (1994) showed why. When misinformation fills a causal role in a mental...</span></span></span>
+The volatile-materials detail occupied a powerful position in the narrative because it supplied a ready-made cause. Fires accompanied by explosions, toxic fumes and extensive damage naturally invite questions about what fuelled them. The mention of paint, chemicals or gas cylinders immediately provided an explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://anecdotal.app/bias/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anecdotal.app">[ANECDOTAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anecdotal.app</span><span class="citation-popover-title">continued influence effect</span><span class="citation-popover-snippet">Continued influence effect &#124; ANECDOTALJohnson and Seifert (1994) showed why. When misinformation fills a causal role in a mental...</span></span></span>
 
-When the correction later stated that the cupboard was empty, it removed the explanation without replacing it. Participants still faced the same evidence within the story: a serious fire, emergency concern and unusual fire behaviour. The retracted information remained attractive because it continued to fit those observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateWhen Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
+When the correction later stated that the cupboard was empty, it removed the explanation without replacing it. Participants still faced the same evidence within the story: a serious fire, emergency concern and unusual fire behaviour. The retracted information remained attractive because it continued to fit those observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
 
 Researchers increasingly describe this process in terms of [mental models]({{ 'mental-models/' | relative_url }}). As people read a sequence of events, they build an internal explanation linking causes and outcomes. The volatile materials became part of that model. A correction could mark the information as false, but the broader explanatory structure often remained intact. Unless a new explanation filled the gap, the original cause continued to be retrieved when participants answered later questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1058&amp;context=marketing_facpubs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarworks.boisestate.edu">[scholarworks.boisestate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarworks.boisestate.edu</span><span class="citation-popover-snippet">How Stories in Memory Perpetuate the Continued Influence of...by A Hamby · 2020 · Cited by 65 — In a seminal study, Johnson and Seifert...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.dartmouth.edu">[2sites.dartmouth.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.dartmouth.edu</span><span class="citation-popover-snippet">Displacing misinformation about events:by B Nyhan · Cited by 219 — Misinformation can be very difficult to correct and may have lasting e...</span></span></span>
 
-This explains why the warehouse fire became such a useful illustration. The misinformation was not an isolated fact like a mistaken date or misspelled name. It served as a causal mechanism. Removing it disrupted the coherence of the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://anecdotal.app/bias/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anecdotal.app">[ANECDOTAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anecdotal.app</span><span class="citation-popover-title">continued influence effect</span><span class="citation-popover-snippet">ANECDOTALContinued influence effect | ANECDOTALJohnson and Seifert (1994) showed why. When misinformation fills a causal role in a mental...</span></span></span>
-
+This explains why the warehouse fire became such a useful illustration. The misinformation was not an isolated fact like a mistaken date or misspelled name. It served as a causal mechanism. Removing it disrupted the coherence of the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://anecdotal.app/bias/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anecdotal.app">[ANECDOTAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anecdotal.app</span><span class="citation-popover-title">continued influence effect</span><span class="citation-popover-snippet">Continued influence effect &#124; ANECDOTALJohnson and Seifert (1994) showed why. When misinformation fills a causal role in a mental...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-2-dark.svg" | relative_url }}" alt="Fire Study illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the findings mattered beyond a laboratory story
 
-The warehouse [fire scenario]({{ 'fire-scenario/' | relative_url }}) helped researchers move beyond the idea that misinformation persists only because people are inattentive or forgetful. The study suggested a more complicated problem: [corrections]({{ 'corrections/' | relative_url }}) can fail even when they are noticed and remembered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateWhen Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
+The warehouse [fire scenario]({{ 'fire-scenario/' | relative_url }}) helped researchers move beyond the idea that misinformation persists only because people are inattentive or forgetful. The study suggested a more complicated problem: [corrections]({{ 'corrections/' | relative_url }}) can fail even when they are noticed and remembered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
 
 Subsequent research repeatedly used variants of the warehouse-fire design to investigate why misinformation lingers and how corrections might be improved. Later studies found continued influence effects across different question formats, populations and experimental designs. Participants often continued using corrected information despite acknowledging that it was false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/id/eprint/19831/10/ConnorDesai-Reimers2018_Article_ComparingTheUseOfOpenAndClosed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[openaccess.city.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-snippet">Comparing the use of open and closed questions for Web...June 23, 2018 — by S Connor Desai · 2018 · Cited by 261 — Across all four studi...</span><span class="citation-popover-meta">Published: June 23, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/116597374X/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">This occurred even though a...Read more...</span></span></span>
 
-Researchers also tested whether stronger warnings, clearer retractions or explanations about the source of misinformation could solve the problem. These interventions often reduced reliance on the false information but rarely eliminated it completely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabExplicit warnings reduce but do not eliminate the continued...August 27, 2017 — by UKH ECKER · 2010 · Cited...</span><span class="citation-popover-meta">Published: August 27, 2017</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">PMCby IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
+Researchers also tested whether stronger warnings, clearer retractions or explanations about the source of misinformation could solve the problem. These interventions often reduced reliance on the false information but rarely eliminated it completely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabExplicit warnings reduce but do not eliminate the continued...August 27, 2017 — by UKH ECKER · 2010 · Cited...</span><span class="citation-popover-meta">Published: August 27, 2017</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
 
 The warehouse fire therefore became a foundational example because it captured a pattern that appears in many real-world settings:
 
-
-<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
-
 * Rumours about accidents.
 * Misleading political explanations.
-* Incorrect health claims.
+* Incorrect [health claims]({{ 'health-claims/' | relative_url }}).
 * False reports during crises.
-
-</div>
 
 In each case, a claim that supplies a compelling explanation may continue shaping judgement [after correction]({{ 'after-correction/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.dartmouth.edu">[sites.dartmouth.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.dartmouth.edu</span><span class="citation-popover-snippet">Displacing misinformation about events:by B Nyhan · Cited by 219 — Misinformation can be very difficult to correct and may have lasting e...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y5JyhnSWZew" title="Correcting Misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y5JyhnSWZew" target="_blank" rel="noopener noreferrer">Correcting Misinformation</a></p><p class="youtube-embed-meta">Channel: Eric Luttrell</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y5JyhnSWZew" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y5JyhnSWZew">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EaEDkrYnKuI" title="What is Continued influence effect? [Definition and Example] - Understanding Cognitive Biases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EaEDkrYnKuI" target="_blank" rel="noopener noreferrer">What is Continued influence effect? [Definition and Example] - Understanding Cognitive Biases</a></p><p class="youtube-embed-meta">Channel: PsychOut &middot; Views: 646 &middot; Uploaded: September 2020 &middot; Length: 1 minute 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EaEDkrYnKuI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EaEDkrYnKuI">Open on YouTube</a></p></div></div></div>
 
 ## What the study reveals about correction design
 
@@ -341,10 +326,9 @@ One of the most important lessons from the warehouse fire experiment is that eff
 
 Research inspired by the fire study has consistently suggested that replacement explanations work better than bare retractions. If a correction can explain what really happened, people have a new causal story available when they later reason about the event. The correction becomes part of the mental model rather than merely an annotation attached to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.dartmouth.edu">[sites.dartmouth.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.dartmouth.edu</span><span class="citation-popover-snippet">Displacing misinformation about events:by B Nyhan · Cited by 219 — Misinformation can be very difficult to correct and may have lasting e...</span></span></span>
 
-The warehouse fire example also highlights why some myths feel unusually persistent. The more explanatory work a claim performs, the harder it can be to remove. A correction that attacks the factual accuracy of the claim may still leave its narrative function untouched. People may reject the statement while continuing to use its logic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateWhen Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
+The warehouse fire example also highlights why some myths feel unusually persistent. The more explanatory work a claim performs, the harder it can be to remove. A correction that attacks the factual accuracy of the claim may still leave its narrative function untouched. People may reject the statement while continuing to use its logic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
 
 Recent replication work has continued to find evidence for the underlying effect, reinforcing the original insight that misinformation can influence reasoning after correction. Although researchers debate the strength of particular interventions, the central lesson of the warehouse fire study remains influential: correcting a myth is easier when people are given something equally coherent to think with afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effect” (CIE) (Jo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38000364/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — Researchers Johnson and Seifert (1994, Experiment...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-3-dark.svg" | relative_url }}" alt="Fire Study illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -744,139 +728,139 @@ Recent replication work has continued to find evidence for the underlying effect
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin](https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateWhen Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</p></details>
+   Link: <a href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</p></details>
    Published: April 29, 2014  
 
 2. <a id="endnote-2"></a>
    Source: anecdotal.app  
    Title: continued influence effect  
-   Link: [https://anecdotal.app/bias/continued-influence-effect/](https://anecdotal.app/bias/continued-influence-effect/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ANECDOTALContinued influence effect | ANECDOTALJohnson and Seifert (1994) showed why. When misinformation fills a causal role in a mental...</p></details>
+   Link: <a href="https://anecdotal.app/bias/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://anecdotal.app/bias/continued-influence-effect/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Continued influence effect | ANECDOTALJohnson and Seifert (1994) showed why. When misinformation fills a causal role in a mental...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExploring factors that mitigate the continued influence  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: scholarworks.boisestate.edu  
-   Link: [https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1058&context=marketing_facpubs](https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1058&context=marketing_facpubs)  
+   Link: <a href="https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1058&amp;context=marketing_facpubs" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1058&amp;context=marketing_facpubs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Stories in Memory Perpetuate the Continued Influence of...by A Hamby · 2020 · Cited by 65 — In a seminal study, Johnson and Seifert...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sites.dartmouth.edu  
-   Link: [https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf](https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf)  
+   Link: <a href="https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Displacing misinformation about events:by B Nyhan · Cited by 219 — Misinformation can be very difficult to correct and may have lasting e...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: openaccess.city.ac.uk  
-   Link: [https://openaccess.city.ac.uk/id/eprint/19831/10/ConnorDesai-Reimers2018_Article_ComparingTheUseOfOpenAndClosed.pdf](https://openaccess.city.ac.uk/id/eprint/19831/10/ConnorDesai-Reimers2018_Article_ComparingTheUseOfOpenAndClosed.pdf)  
+   Link: <a href="https://openaccess.city.ac.uk/id/eprint/19831/10/ConnorDesai-Reimers2018_Article_ComparingTheUseOfOpenAndClosed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/id/eprint/19831/10/ConnorDesai-Reimers2018_Article_ComparingTheUseOfOpenAndClosed.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparing the use of open and closed questions for Web...June 23, 2018 — by S Connor Desai · 2018 · Cited by 261 — Across all four studi...</p></details>
    Published: June 23, 2018  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDoes explaining the origins of misinformation improve  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9487849/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9487849/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby SC Desai · 2022 · Cited by 23 — The present study examined whether explaining that misinformation originated from a lie or an accid...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9487849/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9487849/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by SC Desai · 2022 · Cited by 23 — The present study examined whether explaining that misinformation originated from a lie or an accid...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691823002706](https://www.sciencedirect.com/science/article/pii/S0001691823002706)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691823002706</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effect” (CIE) (Jo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Saoirse-Connor-Desai/publication/325106381_Some_misinformation_is_more_easily_countered_An_experiment_on_the_continued_influence_effect/links/5af70b254585157136ce117d/Some-misinformation-is-more-easily-countered-An-experiment-on-the-continued-influence-effect.pdf](https://www.researchgate.net/profile/Saoirse-Connor-Desai/publication/325106381_Some_misinformation_is_more_easily_countered_An_experiment_on_the_continued_influence_effect/links/5af70b254585157136ce117d/Some-misinformation-is-more-easily-countered-An-experiment-on-the-continued-influence-effect.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Saoirse-Connor-Desai/publication/325106381_Some_misinformation_is_more_easily_countered_An_experiment_on_the_continued_influence_effect/links/5af70b254585157136ce117d/Some-misinformation-is-more-easily-countered-An-experiment-on-the-continued-influence-effect.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Saoirse-Connor-Desai/publication/325106381_Some_misinformation_is_more_easily_countered_An_experiment_on_the_continued_influence_effect/links/5af70b254585157136ce117d/Some-misinformation-is-more-easily-countered-An-experiment-on-the-continued-influence-effect.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An experiment on the continued influence effectConversely, in the warehouse fire narrative implied misinformation was more resistant to c...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences](https://www.researchgate.net/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences)  
+   Link: <a href="https://www.researchgate.net/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When Misinformation in Memory Affects Later InferencesDec 8, 2014 — Johnson and Seifert (1994) conducted an experiment in which participa...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Continued Influence Effect  
-   Link: [https://www.youtube.com/watch?v=eZ_hcf01EFw](https://www.youtube.com/watch?v=eZ_hcf01EFw)  
+   Link: <a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZ_hcf01EFw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020)...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/17470218211048986](https://journals.sagepub.com/doi/10.1177/17470218211048986)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/17470218211048986" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218211048986</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSensitivity to misinformation retractions in the continued...Based on answers to the inference questions, Johnson and Seife...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38000364/](https://pubmed.ncbi.nlm.nih.gov/38000364/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38000364/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38000364/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — Researchers Johnson and Seifert (1994, Experiment...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: d-nb.info  
-   Link: [https://d-nb.info/116597374X/34](https://d-nb.info/116597374X/34)  
+   Link: <a href="https://d-nb.info/116597374X/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/116597374X/34</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This occurred even though a...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: emc-lab.org  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabExplicit warnings reduce but do not eliminate the continued...August 27, 2017 — by UKH ECKER · 2010 · Cited...</p></details>
    Published: August 27, 2017  
 
 16. <a id="endnote-16"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/17470218251336232](https://journals.sagepub.com/doi/10.1177/17470218251336232)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/17470218251336232" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218251336232</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDo the protective effects last? The...9 Apr 2025 — The continued influence effect (CIE) refers to continued reliance on mis...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: everydayconcepts.io  
-   Link: [https://everydayconcepts.io/continued-influence-effect](https://everydayconcepts.io/continued-influence-effect)  
+   Link: <a href="https://everydayconcepts.io/continued-influence-effect" target="_blank" rel="noopener noreferrer nofollow">https://everydayconcepts.io/continued-influence-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Continued Influence EffectAmerican psychologists Hollyn Johnson and Colleen Seifert at the University of Michigan named and formalized th...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: johnsonsbaby.com  
-   Link: [https://www.johnsonsbaby.com/](https://www.johnsonsbaby.com/)  
+   Link: <a href="https://www.johnsonsbaby.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.johnsonsbaby.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Johnson&#x27;s BabyThe #1 Choice of Hospitals &amp; Parents, JOHNSON&#x27;S® products are designed for baby&#x27;s delicate skin. 125+ years of caring for b...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: unicri.org  
-   Link: [https://unicri.org/sites/default/files/2023-01/Handbook%20to%20combat%20CBRN%20disinformation.pdf](https://unicri.org/sites/default/files/2023-01/Handbook%20to%20combat%20CBRN%20disinformation.pdf)  
+   Link: <a href="https://unicri.org/sites/default/files/2023-01/Handbook%20to%20combat%20CBRN%20disinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unicri.org/sites/default/files/2023-01/Handbook%20to%20combat%20CBRN%20disinformation.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: jnj.com  
-   Link: [https://www.jnj.com/](https://www.jnj.com/)  
+   Link: <a href="https://www.jnj.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.jnj.com/</a>  
 
 21. <a id="endnote-21"></a>
    Source: bu.edu  
-   Link: [https://www.bu.edu/ballab/pubs/swire-thompson2020.pdf](https://www.bu.edu/ballab/pubs/swire-thompson2020.pdf)  
+   Link: <a href="https://www.bu.edu/ballab/pubs/swire-thompson2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/ballab/pubs/swire-thompson2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e extent to which demand characteristics influence misinformation experiments in general.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: carlo-hamalainen.net  
-   Link: [https://carlo-hamalainen.net/stuff/seifert2002.pdf](https://carlo-hamalainen.net/stuff/seifert2002.pdf)  
+   Link: <a href="https://carlo-hamalainen.net/stuff/seifert2002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://carlo-hamalainen.net/stuff/seifert2002.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n called the “continued influence effect” (...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: jnjmedtech.com  
-   Link: [https://www.jnjmedtech.com/en-EMEA/Skontaktuj-PL](https://www.jnjmedtech.com/en-EMEA/Skontaktuj-PL)  
+   Link: <a href="https://www.jnjmedtech.com/en-EMEA/Skontaktuj-PL" target="_blank" rel="noopener noreferrer nofollow">https://www.jnjmedtech.com/en-EMEA/Skontaktuj-PL</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spozycji, aby udzielić Ci potrzebnych informacji...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: escholarship.org  
    Title: But where's the evidence?  
-   Link: [https://escholarship.org/content/qt90q1k1r7/qt90q1k1r7_noSplash_89e39d5052c4fb3421a8456938be2e80.pdf?t=sgijj7](https://escholarship.org/content/qt90q1k1r7/qt90q1k1r7_noSplash_89e39d5052c4fb3421a8456938be2e80.pdf?t=sgijj7)  
+   Link: <a href="https://escholarship.org/content/qt90q1k1r7/qt90q1k1r7_noSplash_89e39d5052c4fb3421a8456938be2e80.pdf?t=sgijj7" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt90q1k1r7/qt90q1k1r7_noSplash_89e39d5052c4fb3421a8456938be2e80.pdf?t=sgijj7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of explanatory...The Continued Influence Effect: The Persistence of. Misinformation in Memory and Reasoning Following Correct...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=H_dHJVH5hPU](https://www.youtube.com/watch?v=H_dHJVH5hPU)  
+   Link: <a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_dHJVH5hPU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Misinformation Sticks in Your Brain Even After It&#x27;s Debunked...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: What is Continued influence effect? [Definition and Example]  
-   Link: [https://www.youtube.com/watch?v=EaEDkrYnKuI](https://www.youtube.com/watch?v=EaEDkrYnKuI)  
+   Link: <a href="https://www.youtube.com/watch?v=EaEDkrYnKuI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EaEDkrYnKuI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The [Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) Handbook: How to counter misinformation...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a
 - Myths_and_misconcept_0d48d7_education_myth_corre_425e93_teacher_training_des_9497ab
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - teacher-corrections
 - refutation-texts
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - teacher-corrections
 - refutation-texts
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Refutation texts work best when they name the myth, reject it clearly and replace it with a better explanation teachers can use.
 hero_summary: Refutation texts work best when they name the myth, reject it clearly and replace it with a better explanation teachers can use.
 layout: default
 permalink: /refutation-texts/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /teacher-corrections/
 nav_short_title: Refutation texts
 title: Why Some Myth Corrections Actually Stick
-title_full: Why Some Myth Corrections Actually Stick | Teacher Corrections
+title_full: Why Some Myth Corrections Actually Stick
 display_title_short: Refutation texts
 display_title: Refutation texts
 heading_title: Why Some Myth Corrections Actually Stick
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can Teacher Training Reduce Education Myths? | Mythcraft
+parent_title: Can Teacher Training Reduce Education Myths?
 parent_permalink: /teacher-corrections/
 parent_nav_short_title: Teacher Corrections
 parent_heading_title: Can Teacher Training Reduce Education Myths?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Teacher Training Can Keep Myths Gone
 up_link:
   basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
@@ -265,7 +265,7 @@ next_link:
   permalink: /training-design/
   short_title: Training design
   heading_title: How Teacher Training Can Keep Myths Gone
-date: '2026-06-09 04:25:05 '
+date: '2026-06-11 22:02:07 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_refutation_texts_c321aa-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_refutation_texts_c321aa-Illustration-1.webp
@@ -274,16 +274,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_re
 
 ## Introduction
 
-When educators try to correct a false belief, the instinctive approach is often simple myth-busting: state that the claim is wrong and provide the correct fact. Research on [conceptual change]({{ 'concept-change/' | relative_url }}) suggests that this approach is frequently less effective than a more structured method known as a **refutation text**. A refutation text explicitly names the misconception, clearly rejects it, and then replaces it with a better explanation. Across science education, psychology, and teacher education, studies consistently find that this format produces stronger learning and belief revision than standard explanatory texts or generic [debunking]({{ 'debunking/' | relative_url }}) messages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://brionyswire.com/wp-content/uploads/2017/03/chapter_ecker-et-alfinal-copy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brionyswire.com">[Cakhia TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brionyswire.com</span><span class="citation-popover-snippet">Correcting Misinformation—A Challenge for Education and...Refutation texts were found to be the most effective strategy of all intervent...</span></span></span>
-
+When educators try to correct a false belief, the instinctive approach is often simple myth-busting: state that the claim is wrong and provide the correct fact. Research on conceptual change suggests that this approach is frequently less effective than a more structured method known as a **refutation text**. A refutation text explicitly names the misconception, clearly rejects it, and then replaces it with a better explanation. Across science education, psychology, and teacher education, studies consistently find that this format produces stronger learning and belief revision than standard explanatory texts or generic [debunking]({{ 'debunking/' | relative_url }}) messages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://brionyswire.com/wp-content/uploads/2017/03/chapter_ecker-et-alfinal-copy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brionyswire.com">[Cakhia TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brionyswire.com</span><span class="citation-popover-snippet">Correcting Misinformation—A Challenge for Education and...Refutation texts were found to be the most effective strategy of all intervent...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_refutation_texts_c321aa-Illustration-1-dark.svg" | relative_url }}" alt="Refutation texts illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_refutation_texts_c321aa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_refutation_texts_c321aa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For teacher training, this distinction matters because many educational myths are not sustained by ignorance alone. They persist because they offer intuitive explanations for classroom experiences. Effective [correction]({{ 'correction/' | relative_url }}) therefore requires more than saying “that is false”; it must help teachers understand why the belief seemed plausible and what evidence-based idea should take its place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rossierapps.usc.edu/facultydirectory/publications/35/Sinatra_Broughton_RRQ.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rossierapps.usc.edu">[2rossierapps.usc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rossierapps.usc.edu</span><span class="citation-popover-snippet">We close with suggestions for.Read more...</span></span></span>
+For teacher training, this distinction matters because many educational myths are not sustained by ignorance alone. They persist because they offer intuitive explanations for classroom experiences. Effective [correction]({{ 'correction/' | relative_url }}) therefore requires more than saying “that is false”; it must help teachers understand why the belief seemed plausible and what evidence-based idea should take its place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rossierapps.usc.edu/facultydirectory/publications/35/Sinatra_Broughton_RRQ.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rossierapps.usc.edu">[2rossierapps.usc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rossierapps.usc.edu</span><span class="citation-popover-snippet">We close with suggestions for.Read more...</span></span></span>
 
 ## What a refutation text does differently
 
 A refutation text follows a distinctive structure:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -293,11 +291,11 @@ A refutation text follows a distinctive structure:
 
 </div>
 
-This differs from ordinary myth-busting, which often jumps straight to the correct information. A conventional correction might tell teachers that learning styles lack evidence. A refutation text would first acknowledge the common belief, explain why the evidence does not support matching instruction to preferred sensory styles, and then replace that idea with a more accurate account of how learning is strengthened through methods matched to content and supported by proven instructional strategies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.577738/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAn Attempt to Correct Erroneous Ideas Among Teacher...by M Ferrero · 2020 · Cited by 38 — The main goal of the present study wa...</span></span></span>
+This differs from ordinary myth-busting, which often jumps straight to the correct information. A conventional correction might tell teachers that learning styles lack evidence. A refutation text would first acknowledge the common belief, explain why the evidence does not support matching instruction to preferred sensory styles, and then replace that idea with a more accurate account of how learning is strengthened through methods matched to content and supported by proven instructional strategies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.577738/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAn Attempt to Correct Erroneous Ideas Among Teacher...by M Ferrero · 2020 · Cited by 38 — The main goal of the present study wa...</span></span></span>
 
 Researchers studying reading and conceptual change argue that the power of refutation lies in forcing a direct comparison between what readers already believe and what the evidence shows. Instead of simply adding new information, the text actively challenges an existing mental model and provides a replacement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rossierapps.usc.edu/facultydirectory/publications/35/Sinatra_Broughton_RRQ.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rossierapps.usc.edu">[rossierapps.usc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rossierapps.usc.edu</span><span class="citation-popover-snippet">We close with suggestions for.Read more...</span></span></span>
 
-A large meta-analysis of refutation-text research found that this format improves learning and conceptual change across a range of topics and learner groups. The advantage appears repeatedly when compared with traditional expository texts that explain the correct answer without directly confronting the misconception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/00220973.2023.2238644" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineEffects of Refutational Texts and Seductive Pictures on...by G Jin · 2024 · Cited by 8 — Refutational texts have...</span></span></span>
+A large meta-analysis of refutation-text research found that this format improves learning and conceptual change across a range of topics and learner groups. The advantage appears repeatedly when compared with traditional expository texts that explain the correct answer without directly confronting the misconception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/00220973.2023.2238644" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineEffects of Refutational Texts and Seductive Pictures on...by G Jin · 2024 · Cited by 8 — Refutational texts have...</span></span></span>
 
 ## Why naming and replacing the myth matters
 
@@ -305,10 +303,9 @@ The key insight from conceptual-change research is that misconceptions are not e
 
 ### Naming the misconception creates cognitive conflict
 
-When readers encounter a statement that directly contradicts a belief they hold, they are more likely to notice the discrepancy between their understanding and the evidence. Researchers describe this process as [cognitive conflict]({{ 'conflict/' | relative_url }}): a recognition that the current explanation no longer adequately accounts for the facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchoutreach.org/articles/conceptual-change-learners-response-contradictory-information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchoutreach.org">[Research Outreach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchoutreach.org</span><span class="citation-popover-title">conceptual change learners response contradictory information</span><span class="citation-popover-snippet">Research OutreachConceptual change: Learners&#x27; response to contradictory...8 Nov 2023 — Professor Patrice Potvin researches conceptual ch...</span></span></span>
+When readers encounter a statement that directly contradicts a belief they hold, they are more likely to notice the discrepancy between their understanding and the evidence. Researchers describe this process as cognitive [conflict]({{ 'conflict/' | relative_url }}): a recognition that the current explanation no longer adequately accounts for the facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchoutreach.org/articles/conceptual-change-learners-response-contradictory-information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchoutreach.org">[Research Outreach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchoutreach.org</span><span class="citation-popover-title">conceptual change learners response contradictory information</span><span class="citation-popover-snippet">Research OutreachConceptual change: Learners&#x27; response to contradictory...8 Nov 2023 — Professor Patrice Potvin researches conceptual ch...</span></span></span>
 
 Generic myth-busting often avoids this confrontation. Readers may absorb the new information without ever comparing it with their existing belief. As a result, the misconception can remain untouched beneath the surface.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KKybQ11ziJk" title="371: Andrew Shtulman | Science Education, Conceptual Change And Development, And The Thinking Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KKybQ11ziJk" target="_blank" rel="noopener noreferrer">371: Andrew Shtulman | Science Education, Conceptual Change And Development, And The Thinking Lab</a></p><p class="youtube-embed-meta">Channel: The Armen Show &middot; Views: 170 &middot; Uploaded: November 2022 &middot; Length: 1 hour 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KKybQ11ziJk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KKybQ11ziJk">Open on YouTube</a></p></div></div></div>
 
@@ -316,7 +313,7 @@ Generic myth-busting often avoids this confrontation. Readers may absorb the new
 
 Another advantage of refutation texts is that they do not stop at rejection. They provide a substitute explanation.
 
-This matters because misconceptions often survive when people lose [confidence]({{ 'confidence/' | relative_url }}) in an idea but receive nothing equally useful to replace it. A teacher who is told only that learning styles are unsupported may wonder how to respond to obvious differences between pupils. A stronger correction explains that learners differ in prior knowledge, motivation, and skill, while instructional methods should be selected according to the material being taught rather than sensory preferences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://boldscience.org/how-to-bust-educational-neuromyths-emphasise-what-works/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boldscience.org">[BOLD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boldscience.org</span><span class="citation-popover-title">BOLDHow to bust educational neuromyths?</span><span class="citation-popover-snippet">Emphasise what works4 Nov 2019 — Experts warn that the “learning styles” approach does not improve learning. Yet they underscore the rele...</span></span></span>
+This matters because misconceptions often survive when people lose [confidence]({{ 'confidence/' | relative_url }}) in an idea but receive nothing equally useful to replace it. A teacher who is told only that learning styles are unsupported may wonder how to respond to obvious differences between pupils. A stronger correction explains that learners differ in prior knowledge, motivation, and skill, while instructional methods should be selected according to the material being taught rather than sensory preferences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://boldscience.org/how-to-bust-educational-neuromyths-emphasise-what-works/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boldscience.org">[BOLD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boldscience.org</span><span class="citation-popover-title">BOLDHow to bust educational neuromyths?</span><span class="citation-popover-snippet">Emphasise what works4 Nov 2019 — Experts warn that the “learning styles” approach does not improve learning. Yet they underscore the rele...</span></span></span>
 
 The replacement explanation gives readers somewhere to move intellectually. Without that step, myth-busting can produce uncertainty rather than understanding.
 
@@ -324,12 +321,11 @@ The replacement explanation gives readers somewhere to move intellectually. With
 
 Many educational myths endure because they contain an element that feels true. Refutation texts often work by separating that genuine observation from the mistaken conclusion.
 
-Research on neuromyth interventions highlights this feature. Effective refutations acknowledge legitimate neuroscience findings before showing how those findings have been overextended into unsupported educational claims. This approach helps readers understand precisely where the reasoning went wrong rather than treating the entire belief as irrational. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span>
+Research on neuromyth interventions highlights this feature. Effective refutations acknowledge legitimate neuroscience findings before showing how those findings have been overextended into unsupported educational claims. This approach helps readers understand precisely where the reasoning went wrong rather than treating the entire belief as irrational. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span>
 
 ## Examples from learning styles and brain myths
 
 Educational myths provide a useful test case because many are highly intuitive and widely believed.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_refutation_texts_c321aa-Illustration-2-dark.svg" | relative_url }}" alt="Refutation texts illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_refutation_texts_c321aa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_refutation_texts_c321aa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Learning styles
@@ -340,8 +336,7 @@ A weak correction might simply state:
 
 &gt; Learning styles are not evidence-based. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gc-bs.org">[gc-bs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gc-bs.org</span><span class="citation-popover-snippet">Debunking the Learning Styles Myth and Embracing...Jan 12, 2026 — In this section, we systematically dismantle the learning styles parad...</span></span></span>
 
-A refutation text instead explains: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span>
-
+A refutation text instead explains: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -356,23 +351,21 @@ The alternative explanation might emphasise using multiple representations when 
 
 This replacement framework gives educators practical guidance rather than merely taking away a familiar idea.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i9NHk_AqgfE" title="Conceptual Change: Refutation Text Microlearning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i9NHk_AqgfE" target="_blank" rel="noopener noreferrer">Conceptual Change: Refutation Text Microlearning</a></p><p class="youtube-embed-meta">Channel: Aliyah Cook &middot; Views: 15 &middot; Uploaded: October 2025 &middot; Length: 4 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i9NHk_AqgfE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i9NHk_AqgfE">Open on YouTube</a></p></div></div></div>
 
 ### Neuromyths about the brain
 
 Other common myths include claims about “left-brained” and “right-brained” learners or exaggerated interpretations of brain-based programmes.
 
-Studies testing refutation texts with teachers and pre-service teachers have found meaningful reductions in endorsement of these beliefs after participants read structured refutations. Some interventions have shown effects that remain detectable weeks or even a month later, although persistence varies across studies and misconceptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectCorrecting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 39 — Results showed that all th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.577738/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAn Attempt to Correct Erroneous Ideas Among Teacher...by M Ferrero · 2020 · Cited by 38 — The main goal of the present study wa...</span></span></span>
+Studies testing refutation texts with teachers and pre-service teachers have found meaningful reductions in endorsement of these beliefs after participants read structured refutations. Some interventions have shown effects that remain detectable weeks or even a month later, although persistence varies across studies and misconceptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Correcting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 39 — Results showed that all th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.577738/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAn Attempt to Correct Erroneous Ideas Among Teacher...by M Ferrero · 2020 · Cited by 38 — The main goal of the present study wa...</span></span></span>
 
-Importantly, the strongest interventions do not merely announce that a neuromyth is false. They explain the underlying neuroscience accurately and show how the myth arose from an oversimplification of real findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span>
-
+Importantly, the strongest interventions do not merely announce that a neuromyth is false. They explain the underlying neuroscience accurately and show how the myth arose from an oversimplification of real findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TTusD_Q1t5E" title="Teaching Strategies: Misconceptions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TTusD_Q1t5E" target="_blank" rel="noopener noreferrer">Teaching Strategies: Misconceptions</a></p><p class="youtube-embed-meta">Channel: McGraw Hill PreK-12 &middot; Views: 43.5K &middot; Uploaded: January 2020 &middot; Length: 3 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TTusD_Q1t5E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TTusD_Q1t5E">Open on YouTube</a></p></div></div></div>
 
 ## What the evidence says about effectiveness
 
-The evidence base is not limited to a few isolated studies. Research spanning several decades has repeatedly found advantages for refutation-based approaches when the goal is conceptual change. Reviews and meta-analyses conclude that refutation texts are generally more effective than traditional explanatory texts at reducing misconceptions and improving understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://brionyswire.com/wp-content/uploads/2017/03/chapter_ecker-et-alfinal-copy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brionyswire.com">[Cakhia TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brionyswire.com</span><span class="citation-popover-snippet">Correcting Misinformation—A Challenge for Education and...Refutation texts were found to be the most effective strategy of all intervent...</span></span></span>
+The evidence base is not limited to a few isolated studies. Research spanning several decades has repeatedly found advantages for refutation-based approaches when the goal is conceptual change. Reviews and meta-analyses conclude that refutation texts are generally more effective than traditional explanatory texts at reducing misconceptions and improving understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://brionyswire.com/wp-content/uploads/2017/03/chapter_ecker-et-alfinal-copy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brionyswire.com">[Cakhia TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brionyswire.com</span><span class="citation-popover-snippet">Correcting Misinformation—A Challenge for Education and...Refutation texts were found to be the most effective strategy of all intervent...</span></span></span>
 
 Teacher-focused studies reach similar conclusions. Research involving both practising and trainee teachers shows that refutation texts can reduce endorsement of educational misconceptions, including strongly held beliefs about learning and the brain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.577738/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAn Attempt to Correct Erroneous Ideas Among Teacher...by M Ferrero · 2020 · Cited by 38 — The main goal of the present study wa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/153185/2/XAP-2018-0313-R1_ms_acceptedversion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-title">XAP 2018 0313 R1 ms acceptedversion</span><span class="citation-popover-snippet">White Rose Research OnlineThe effectiveness of refutation texts to correct...by M Ferrero · 2020 · Cited by 65 — The present study found...</span></span></span>
 
@@ -385,13 +378,12 @@ However, the evidence also points to limits:
 
 These limitations do not negate the value of refutation texts. Rather, they suggest that effective correction is a process rather than a one-off event.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_refutation_texts_c321aa-Illustration-3-dark.svg" | relative_url }}" alt="Refutation texts illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_refutation_texts_c321aa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_refutation_texts_c321aa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why some myth corrections actually stick
 
 The central advantage of refutation texts is that they treat misconceptions as competing explanations rather than missing facts. By explicitly naming a false belief, demonstrating why it fails, and supplying a stronger alternative, they engage the mechanisms needed for conceptual change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rossierapps.usc.edu/facultydirectory/publications/35/Sinatra_Broughton_RRQ.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rossierapps.usc.edu">[rossierapps.usc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rossierapps.usc.edu</span><span class="citation-popover-snippet">We close with suggestions for.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchoutreach.org/articles/conceptual-change-learners-response-contradictory-information/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchoutreach.org">[Research Outreach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchoutreach.org</span><span class="citation-popover-title">conceptual change learners response contradictory information</span><span class="citation-popover-snippet">Research OutreachConceptual change: Learners&#x27; response to contradictory...8 Nov 2023 — Professor Patrice Potvin researches conceptual ch...</span></span></span>
 
-Simple myth-busting often stops after the rejection stage. Refutation texts go further by helping readers reorganise their understanding. For educators confronting persistent myths about learning, [memory]({{ 'memory/' | relative_url }}), intelligence, or the brain, that difference is often what determines whether a correction is briefly noticed or genuinely remembered. Frontiers <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span>
+Simple myth-busting often stops after the rejection stage. Refutation texts go further by helping readers reorganise their understanding. For educators confronting persistent myths about learning, [memory]({{ 'memory/' | relative_url }}), intelligence, or the brain, that difference is often what determines whether a correction is briefly noticed or genuinely remembered. Frontiers <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -789,127 +781,127 @@ Simple myth-busting often stops after the rejection stage. Refutation texts go f
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by NL Schroeder · 2022 · Cited by 102 — Refutation text is one instructional tool for addressing misconceptions and is simple to imple...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: brionyswire.com  
-   Link: [https://brionyswire.com/wp-content/uploads/2017/03/chapter_ecker-et-alfinal-copy.pdf](https://brionyswire.com/wp-content/uploads/2017/03/chapter_ecker-et-alfinal-copy.pdf)  
+   Link: <a href="https://brionyswire.com/wp-content/uploads/2017/03/chapter_ecker-et-alfinal-copy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://brionyswire.com/wp-content/uploads/2017/03/chapter_ecker-et-alfinal-copy.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Correcting Misinformation—A Challenge for Education and...Refutation texts were found to be the most effective strategy of all intervent...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8548459/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8548459/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCInterventions to Dispel [Neuromyths](&amp;#123;&amp;#123; &#x27;neuromyths/&#x27; | relative_url &amp;#125;&amp;#125;) in Educational Settings—A...by L Rousseau · 2021 · Cited by 69 — Participants in the experimental...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8548459/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8548459/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions to Dispel [Neuromyths](&amp;#123;&amp;#123; &#x27;neuromyths/&#x27; | relative_url &amp;#125;&amp;#125;) in Educational Settings—A...by L Rousseau · 2021 · Cited by 69 — Participants in the experimental...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: rossierapps.usc.edu  
-   Link: [https://rossierapps.usc.edu/facultydirectory/publications/35/Sinatra_Broughton_RRQ.pdf](https://rossierapps.usc.edu/facultydirectory/publications/35/Sinatra_Broughton_RRQ.pdf)  
+   Link: <a href="https://rossierapps.usc.edu/facultydirectory/publications/35/Sinatra_Broughton_RRQ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rossierapps.usc.edu/facultydirectory/publications/35/Sinatra_Broughton_RRQ.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We close with suggestions for.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: boldscience.org  
    Title: BOLDHow to bust educational neuromyths?  
-   Link: [https://boldscience.org/how-to-bust-educational-neuromyths-emphasise-what-works/](https://boldscience.org/how-to-bust-educational-neuromyths-emphasise-what-works/)  
+   Link: <a href="https://boldscience.org/how-to-bust-educational-neuromyths-emphasise-what-works/" target="_blank" rel="noopener noreferrer nofollow">https://boldscience.org/how-to-bust-educational-neuromyths-emphasise-what-works/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emphasise what works4 Nov 2019 — Experts warn that the “learning styles” approach does not improve learning. Yet they underscore the rele...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140](https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectCorrecting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 39 — Results showed that all th...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Correcting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 39 — Results showed that all th...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: emerald.com  
-   Link: [https://www.emerald.com/books/edited-volume/18670/chapter/102341928/How-Attempting-to-Reduce-Misconceptions-in](https://www.emerald.com/books/edited-volume/18670/chapter/102341928/How-Attempting-to-Reduce-Misconceptions-in)  
+   Link: <a href="https://www.emerald.com/books/edited-volume/18670/chapter/102341928/How-Attempting-to-Reduce-Misconceptions-in" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/books/edited-volume/18670/chapter/102341928/How-Attempting-to-Reduce-Misconceptions-in</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald PublishingHow Attempting to Reduce Misconceptions in Psychology...Even when using refutational techniques, some misconceptions a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0361476X17300498](https://www.sciencedirect.com/science/article/abs/pii/S0361476X17300498)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X17300498" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0361476X17300498</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Textual and graphical refutations: Effects on conceptual...by L Mason · 2017 · Cited by 71 — For example, one common misconception is th...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/00220973.2023.2238644](https://www.tandfonline.com/doi/abs/10.1080/00220973.2023.2238644)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/00220973.2023.2238644" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/00220973.2023.2238644</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineEffects of Refutational Texts and Seductive Pictures on...by G Jin · 2024 · Cited by 8 — Refutational texts have...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.577738/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.577738/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.577738/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.577738/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersAn Attempt to Correct Erroneous Ideas Among Teacher...by M Ferrero · 2020 · Cited by 38 — The main goal of the present study wa...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchoutreach.org  
    Title: conceptual change learners response contradictory information  
-   Link: [https://researchoutreach.org/articles/conceptual-change-learners-response-contradictory-information/](https://researchoutreach.org/articles/conceptual-change-learners-response-contradictory-information/)  
+   Link: <a href="https://researchoutreach.org/articles/conceptual-change-learners-response-contradictory-information/" target="_blank" rel="noopener noreferrer nofollow">https://researchoutreach.org/articles/conceptual-change-learners-response-contradictory-information/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research OutreachConceptual change: Learners&#x27; response to contradictory...8 Nov 2023 — Professor Patrice Potvin researches conceptual ch...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why educators endorse a neuromyth: relationships among...by C Bresnahan · 2024 · Cited by 8 — The learning style neuromyth assumes a pri...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/](https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/)  
+   Link: <a href="https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>My CollegeThe problem with learning styles: debunking the meshing...Feb 22, 2018 — The idea that catering to a learner&#x27;s favoured sensor...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: eprints.whiterose.ac.uk  
    Title: XAP 2018 0313 R1 ms acceptedversion  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/153185/2/XAP-2018-0313-R1_ms_acceptedversion.pdf](https://eprints.whiterose.ac.uk/id/eprint/153185/2/XAP-2018-0313-R1_ms_acceptedversion.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/153185/2/XAP-2018-0313-R1_ms_acceptedversion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/153185/2/XAP-2018-0313-R1_ms_acceptedversion.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineThe effectiveness of refutation texts to correct...by M Ferrero · 2020 · Cited by 65 — The present study found...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/225874497_Refutation_Text_In_Science_Education_A_Review_Of_Two_Decades_Of_Research](https://www.researchgate.net/publication/225874497_Refutation_Text_In_Science_Education_A_Review_Of_Two_Decades_Of_Research)  
+   Link: <a href="https://www.researchgate.net/publication/225874497_Refutation_Text_In_Science_Education_A_Review_Of_Two_Decades_Of_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225874497_Refutation_Text_In_Science_Education_A_Review_Of_Two_Decades_Of_Research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Refutation Text In Science Education: A Review Of Two...The effectiveness of refutation texts was initially confirmed for classical misc...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ouci.dntb.gov.ua  
-   Link: [https://ouci.dntb.gov.ua/en/works/4gn3yZq7/](https://ouci.dntb.gov.ua/en/works/4gn3yZq7/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/4gn3yZq7/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4gn3yZq7/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Dispel Neuromyths in Educational Settings...Neuromyths are misconceptions about the brain and learning, for instance Tailoring instru...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: gc-bs.org  
-   Link: [https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/](https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/)  
+   Link: <a href="https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Learning Styles Myth and Embracing...Jan 12, 2026 — In this section, we systematically dismantle the learning styles parad...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: dspace.library.uvic.ca  
-   Link: [https://dspace.library.uvic.ca/bitstream/handle/1828/537/tippett_2004.pdf?isAllowed=y&sequence=1](https://dspace.library.uvic.ca/bitstream/handle/1828/537/tippett_2004.pdf?isAllowed=y&sequence=1)  
+   Link: <a href="https://dspace.library.uvic.ca/bitstream/handle/1828/537/tippett_2004.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uvic.ca/bitstream/handle/1828/537/tippett_2004.pdf?isAllowed=y&amp;sequence=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Change: The Power of Refutation TextI begin with a general examination of the effectiveness of refutation text as compared to expository...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/336799136_The_effectiveness_of_refutation_texts_to_correct_misconceptions_among_educators](https://www.researchgate.net/publication/336799136_The_effectiveness_of_refutation_texts_to_correct_misconceptions_among_educators)  
+   Link: <a href="https://www.researchgate.net/publication/336799136_The_effectiveness_of_refutation_texts_to_correct_misconceptions_among_educators" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/336799136_The_effectiveness_of_refutation_texts_to_correct_misconceptions_among_educators</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Effectiveness of Refutation Texts to Correct...25 Oct 2019 — The present study found that refutation texts can be an effective...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: laurenmarg.com  
-   Link: [https://laurenmarg.com/2020/12/11/article-summary-tippett-2010-refutation-text-a-review-of-two-decades-of-research/](https://laurenmarg.com/2020/12/11/article-summary-tippett-2010-refutation-text-a-review-of-two-decades-of-research/)  
+   Link: <a href="https://laurenmarg.com/2020/12/11/article-summary-tippett-2010-refutation-text-a-review-of-two-decades-of-research/" target="_blank" rel="noopener noreferrer nofollow">https://laurenmarg.com/2020/12/11/article-summary-tippett-2010-refutation-text-a-review-of-two-decades-of-research/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Article Summary: Tippett (2010) Refutation Text11 Dec 2020 — In her review, Tippett found that the benefits of refutation texts for encou...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=KKybQ11ziJk](http://www.youtube.com/watch?v=KKybQ11ziJk)  
+   Link: <a href="http://www.youtube.com/watch?v=KKybQ11ziJk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KKybQ11ziJk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to correct misconceptions refutation text approach Good Thinking! — Conceptual Change: How New Ideas Take Root Smithsonian Science Ed...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: gla.ac.uk  
-   Link: [https://www.gla.ac.uk/media/Media_309325_smxx.pdf](https://www.gla.ac.uk/media/Media_309325_smxx.pdf)  
+   Link: <a href="https://www.gla.ac.uk/media/Media_309325_smxx.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gla.ac.uk/media/Media_309325_smxx.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tyle, in which a common misconception is overtly negated, to support conceptual...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
    Title: The effects of refutation texts on generating explanations  
-   Link: [https://www.researchgate.net/publication/330062670_The_effects_of_refutation_texts_on_generating_explanations](https://www.researchgate.net/publication/330062670_The_effects_of_refutation_texts_on_generating_explanations)  
+   Link: <a href="https://www.researchgate.net/publication/330062670_The_effects_of_refutation_texts_on_generating_explanations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330062670_The_effects_of_refutation_texts_on_generating_explanations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Refutation texts have proven effective in helping students overcome misconceptions that can lead to errors in understanding and low perfo...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: link.springer.com  
    Title: Nature Should we Tell Teachers That They Are (In)Correct?  
-   Link: [https://link.springer.com/article/10.1007/s10648-026-10116-9](https://link.springer.com/article/10.1007/s10648-026-10116-9)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10648-026-10116-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-026-10116-9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AS Dersch · 2026 — Findings suggest that personalized refutation texts effectively enhance teachers&#x27; conceptual change when mis...</p></details>

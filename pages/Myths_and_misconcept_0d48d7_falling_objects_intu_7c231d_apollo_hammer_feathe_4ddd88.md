@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_galileo_tower_story_53e20a
 - Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - falling-objects
 - moon-drop
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - falling-objects
 - moon-drop
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: The Moon demonstration made the missing condition visible by removing almost all air resistance from the fall.
 hero_summary: The Moon demonstration made the missing condition visible by removing almost all air resistance from the fall.
 layout: default
 permalink: /moon-drop/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /falling-objects/
 nav_short_title: Moon Drop
 title: Why the hammer and feather landed together
-title_full: Why the hammer and feather landed together | Falling Objects
+title_full: Why the hammer and feather landed together
 display_title_short: Moon Drop
 display_title: Moon Drop
 heading_title: Why the hammer and feather landed together
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Common Sense Gets Falling Objects Wrong | Mythcraft
+parent_title: Why Common Sense Gets Falling Objects Wrong
 parent_permalink: /falling-objects/
 parent_nav_short_title: Falling Objects
 parent_heading_title: Why Common Sense Gets Falling Objects Wrong
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why falling objects stop speeding up
 up_link:
   basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
@@ -265,7 +265,7 @@ next_link:
   permalink: /paper-shape/
   short_title: Paper Shape
   heading_title: Why crumpled paper beats flat paper
-date: '2026-06-09 05:15:00 '
+date: '2026-06-11 22:26:28 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-1.webp
@@ -274,20 +274,18 @@ image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_ap
 
 ## Introduction
 
-The Apollo 15 hammer-and-feather drop is the most famous public demonstration of a scientific idea that many people initially find counterintuitive: heavier objects do not fall faster simply because they are heavier. On 2 August 1971, astronaut David Scott stood on the Moon and released a geological hammer and a falcon feather at the same time. The two objects struck the lunar surface together, creating a visual result that millions of people could immediately understand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015 — A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
-
+The Apollo 15 hammer-and-feather drop is the most famous public demonstration of a scientific idea that many people initially find counterintuitive: heavier objects do not fall faster simply because they are heavier. On 2 August 1971, astronaut David Scott stood on the Moon and released a geological hammer and a falcon feather at the same time. The two objects struck the lunar surface together, creating a visual result that millions of people could immediately understand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-1-dark.svg" | relative_url }}" alt="Moon Drop illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The importance of the demonstration was not that it discovered a new law of physics. Scientists had already understood the principle for centuries. Its power came from making the missing condition visible. On Earth, air resistance usually hides the effect. On the Moon, where there is essentially no atmosphere, the feather could fall without being slowed by air. The result turned an abstract physics lesson into a memorable piece of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015 — A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
+The importance of the demonstration was not that it discovered a new law of physics. Scientists had already understood the principle for centuries. Its power came from making the missing condition visible. On Earth, air resistance usually hides the effect. On the Moon, where there is essentially no atmosphere, the feather could fall without being slowed by air. The result turned an abstract physics lesson into a memorable piece of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
 
 ## What David Scott dropped on the Moon
 
-Near the end of Apollo 15's final moonwalk, Scott paused for a short demonstration intended for the television cameras. Holding a geological hammer in one hand and a falcon feather in the other, he explained that [Galileo]({{ 'galileo/' | relative_url }}) had probably been correct in claiming that objects fall at the same rate regardless of their mass. He then released both items from roughly the same height. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tvo.org/transcript/685111/apollo-15-in-the-mountains-of-the-moon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvo.org">[tvo.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvo.org</span><span class="citation-popover-snippet">Transcript: Apollo 15: In the Mountains of the Moon | Jun 05...EXPERIMENT. Dave Scott says WELL, IN MY LEFT. I HAVE A, A FEATHER, IN MY....</span></span></span>
+Near the end of Apollo 15's final moonwalk, Scott paused for a short demonstration intended for the television cameras. Holding a geological hammer in one hand and a falcon feather in the other, he explained that [Galileo]({{ 'galileo/' | relative_url }}) had probably been correct in claiming that objects fall at the same rate regardless of their mass. He then released both items from roughly the same height. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tvo.org/transcript/685111/apollo-15-in-the-mountains-of-the-moon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvo.org">[tvo.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvo.org</span><span class="citation-popover-snippet">Transcript: Apollo 15: In the Mountains of the Moon &#124; Jun 05...EXPERIMENT. Dave Scott says WELL, IN MY LEFT. I HAVE A, A FEATHER, IN MY....</span></span></span>
 
 The choice of objects was deliberate. The hammer was a dense scientific tool used during lunar fieldwork, while the feather was extremely light and broad. In ordinary conditions on Earth, a feather drifts and flutters while a hammer falls rapidly. The contrast made the demonstration easy to interpret. If two such different objects could land together, the reason could not be that they had identical masses or shapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=KDp1tiUsZw8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Hammer vs Feather</span><span class="citation-popover-snippet">Hammer vs Feather - Physics on the MoonThe feather happens to be appropriately a falcon feather for our Falcon and I&#x27;ll drop the t...</span></span></span>
 
-NASA's description of the event notes that the hammer and feather reached the surface simultaneously because they were falling in an environment with essentially no air resistance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015 — A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
-
+NASA's description of the event notes that the hammer and feather reached the surface simultaneously because they were falling in an environment with essentially no air resistance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gucr_OfzQ6M" title="Analyzing the Apollo 15 Feather and Hammer Drop - A Basic, Introductory Free-Fall Problem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gucr_OfzQ6M" target="_blank" rel="noopener noreferrer">Analyzing the Apollo 15 Feather and Hammer Drop - A Basic, Introductory Free-Fall Problem</a></p><p class="youtube-embed-meta">Channel: Flipping Physics &middot; Views: 82.4K &middot; Uploaded: October 2013 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gucr_OfzQ6M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gucr_OfzQ6M">Open on YouTube</a></p></div></div></div>
 
@@ -297,7 +295,6 @@ The feather was not random. It represented the falcon symbol used by Apollo 15. 
 
 That symbolic choice helped make the experiment memorable. Viewers were not watching laboratory equipment in a controlled chamber; they were watching an astronaut on another world using simple objects that everyone could recognise.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oYEgdZ3iEKA" title="Apollo 15 Hammer-Feather Drop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oYEgdZ3iEKA" target="_blank" rel="noopener noreferrer">Apollo 15 Hammer-Feather Drop</a></p><p class="youtube-embed-meta">Channel: NASA Solar System &middot; Views: 758.1K &middot; Uploaded: July 2015 &middot; Length: 1 minute 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oYEgdZ3iEKA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oYEgdZ3iEKA">Open on YouTube</a></p></div></div></div>
 
 ## Why the Moon changed the result
@@ -306,10 +303,9 @@ The Moon has gravity, so the demonstration was not performed in zero gravity. Ob
 
 On Earth, a feather experiences a large amount of drag relative to its weight. Air pushes against it, slowing its descent. A hammer is also affected by air, but far less dramatically because of its shape and mass. As a result, everyday observation seems to support the mistaken belief that heavier objects naturally fall faster. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.askaboutireland.ie/learning-zone/secondary-students/science/physics/force-and-energy/force/gravity/gravity-beyond-the-earth-1/galileos-experiment-on-th/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: askaboutireland.ie">[Ask About Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">askaboutireland.ie</span><span class="citation-popover-snippet">Ask About IrelandGalileo&#x27;s Experiment on the MoonBecause there is no air on the Moon, there is no air resistance, and so Galileo&#x27;s experi...</span></span></span>
 
-On the Moon, that interfering force is almost absent. Once the hammer and feather were released, gravity became the dominant influence on both objects. Without meaningful atmospheric drag, the difference that people normally see on Earth disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015 — A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
+On the Moon, that interfering force is almost absent. Once the hammer and feather were released, gravity became the dominant influence on both objects. Without meaningful atmospheric drag, the difference that people normally see on Earth disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
 
 The demonstration therefore isolated the condition that matters. It did not change the laws of gravity. It removed the atmospheric effect that usually obscures them.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-2-dark.svg" | relative_url }}" alt="Moon Drop illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the demonstration proves and does not prove
@@ -326,21 +322,19 @@ What it does not prove:
 
 * It does not show that air resistance never matters. In ordinary Earth conditions it matters enormously for objects such as feathers, paper and leaves.
 * It does not mean every falling object behaves identically under all circumstances. Shape, orientation and atmosphere can still affect real-world falls.
-* It does not demonstrate that gravity exerts the same force on all objects. A heavier object experiences a larger gravitational force, but it also has greater inertia, leading to the same acceleration in free fall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/the-greatest-physics-demo-of-all-time-happened-on-the-moon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">WIREDThe Greatest Physics Demo of All Time Happened on...Feb 11, 2022 — First, it is indeed true that even on the moon there is a greate...</span></span></span>
+* It does not demonstrate that gravity exerts the same force on all objects. A heavier object experiences a larger gravitational force, but it also has greater inertia, leading to the same acceleration in free fall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/the-greatest-physics-demo-of-all-time-happened-on-the-moon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The Greatest Physics Demo of All Time Happened on...Feb 11, 2022  First, it is indeed true that even on the moon there is a greate...</span></span></span>
 
 This distinction is why the experiment remains useful. It corrects a misconception without denying everyday experience. People really do see feathers fall more slowly than hammers on Earth. The Apollo 15 demonstration shows that the reason is not the feather's lower mass but the presence of air.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZVfhztmK9zI" title="Apollo 15 Proves Galileo Correct" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZVfhztmK9zI" target="_blank" rel="noopener noreferrer">Apollo 15 Proves Galileo Correct</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 265.4K &middot; Uploaded: May 2013 &middot; Length: 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZVfhztmK9zI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZVfhztmK9zI">Open on YouTube</a></p></div></div></div>
 
 ## Why the Moon drop became the iconic example
 
-Scientists had demonstrated the same principle in vacuum chambers long before Apollo 15. The underlying physics was not controversial in 1971. Yet the Moon experiment became far more famous than laboratory demonstrations because it was visually simple, dramatic and easy to trust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/nextfuckinglevel/comments/wlcrjl/a_legendary_experiment_on_the_moon_a_hammer_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditA legendary experiment on the moon, a hammer and...August 11, 2022 — TIL that on Apollo 15, a hammer and a feather were dropped on...</span><span class="citation-popover-meta">Published: August 11, 2022</span></span></span>
+Scientists had demonstrated the same principle in vacuum chambers long before Apollo 15. The underlying physics was not controversial in 1971. Yet the Moon experiment became far more famous than laboratory demonstrations because it was visually simple, dramatic and easy to trust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/nextfuckinglevel/comments/wlcrjl/a_legendary_experiment_on_the_moon_a_hammer_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A legendary experiment on the moon, a hammer and...August 11, 2022  TIL that on Apollo 15, a hammer and a feather were dropped on...</span><span class="citation-popover-meta">Published: August 11, 2022</span></span></span>
 
-A viewer did not need equations to understand what happened. The contrast between a hammer and a feather was obvious. The setting was extraordinary. The result appeared immediately before a live audience. In a few seconds, the demonstration answered a question that generations of students had struggled with: if air is taken out of the picture, the heavier object does not win the race to the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015 — A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015 — A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
+A viewer did not need equations to understand what happened. The contrast between a hammer and a feather was obvious. The setting was extraordinary. The result appeared immediately before a live audience. In a few seconds, the demonstration answered a question that generations of students had struggled with: if air is taken out of the picture, the heavier object does not win the race to the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
 
-That combination of simplicity and evidence explains why the Apollo 15 hammer-and-feather drop remains one of the most enduring demonstrations in the history of science communication. It transformed a [correction]({{ 'correction/' | relative_url }}) to a common misconception into a moment people could see for themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015 — A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
-
+That combination of simplicity and evidence explains why the Apollo 15 hammer-and-feather drop remains one of the most enduring demonstrations in the history of science communication. It transformed a [correction]({{ 'correction/' | relative_url }}) to a common misconception into a moment people could see for themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-3-dark.svg" | relative_url }}" alt="Moon Drop illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -397,7 +391,7 @@ That combination of simplicity and evidence explains why the Apollo 15 hammer-an
         </h4>
         <p class="fr-book-author">By Richard Phillips Feynman, Paul Davies</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Physics, FÃ­sica, Obras de divulgaciÃ³n, Natuurkunde, Long Now Manual for Civilization.</p>
+        <p class="fr-book-desc">First published 1994. Subjects: Physics, Física, Obras de divulgación, Natuurkunde, Long Now Manual for Civilization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Six+Easy+Pieces+Richard+Phillips+Feynman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -741,211 +735,211 @@ That combination of simplicity and evidence explains why the Apollo 15 hammer-an
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: the apollo 15 hammer feather drop  
-   Link: [https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/](https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015 — A live demonstration for the television cameras. He held out a geologic hammer...</p></details>
+   Link: <a href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: 50 years ago apollo 15 on the moon at hadley apennine  
-   Link: [https://www.nasa.gov/history/50-years-ago-apollo-15-on-the-moon-at-hadley-apennine/](https://www.nasa.gov/history/50-years-ago-apollo-15-on-the-moon-at-hadley-apennine/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Apollo 15 on the Moon at Hadley-ApennineJul 29, 2021 — Scott demonstrating Galileo&#x27;s law of gravity by dropping a hammer an...</p></details>
+   Link: <a href="https://www.nasa.gov/history/50-years-ago-apollo-15-on-the-moon-at-hadley-apennine/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/history/50-years-ago-apollo-15-on-the-moon-at-hadley-apennine/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Apollo 15 on the Moon at Hadley-ApennineJul 29, 2021  Scott demonstrating Galileo&#x27;s law of gravity by dropping a hammer an...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: tvo.org  
-   Link: [https://www.tvo.org/transcript/685111/apollo-15-in-the-mountains-of-the-moon](https://www.tvo.org/transcript/685111/apollo-15-in-the-mountains-of-the-moon)  
+   Link: <a href="https://www.tvo.org/transcript/685111/apollo-15-in-the-mountains-of-the-moon" target="_blank" rel="noopener noreferrer nofollow">https://www.tvo.org/transcript/685111/apollo-15-in-the-mountains-of-the-moon</a>  
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: You Tube Hammer vs Feather  
-   Link: [https://www.youtube.com/watch?v=KDp1tiUsZw8](https://www.youtube.com/watch?v=KDp1tiUsZw8)  
+   Link: <a href="https://www.youtube.com/watch?v=KDp1tiUsZw8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KDp1tiUsZw8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hammer vs Feather - Physics on the MoonThe feather happens to be appropriately a falcon feather for our Falcon and I&#x27;ll drop the t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: the apollo 15 hammer feather drop 2  
-   Link: [https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop-2/](https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop-2/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Apollo 15 Hammer-Feather Drop19 Jul 2015 — At the end of the last Apollo 15 moon walk, Commander David Scott (pictured ab...</p></details>
+   Link: <a href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop-2/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop-2/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Apollo 15 Hammer-Feather Drop19 Jul 2015  At the end of the last Apollo 15 moon walk, Commander David Scott (pictured ab...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: The Hammer and Feather Experiment on the moon  
-   Link: [https://www.reddit.com/r/space/comments/yvtmy1/the_hammer_and_feather_experiment_on_the_moon/](https://www.reddit.com/r/space/comments/yvtmy1/the_hammer_and_feather_experiment_on_the_moon/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/yvtmy1/the_hammer_and_feather_experiment_on_the_moon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/yvtmy1/the_hammer_and_feather_experiment_on_the_moon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s 1/6th the size of earth so the gravity is 1/6th earth&#x27;s gravity. It definitely affects the experiment...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/the-greatest-physics-demo-of-all-time-happened-on-the-moon/](https://www.wired.com/story/the-greatest-physics-demo-of-all-time-happened-on-the-moon/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIREDThe Greatest Physics Demo of All Time Happened on...Feb 11, 2022 — First, it is indeed true that even on the moon there is a greate...</p></details>
+   Link: <a href="https://www.wired.com/story/the-greatest-physics-demo-of-all-time-happened-on-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/the-greatest-physics-demo-of-all-time-happened-on-the-moon/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Greatest Physics Demo of All Time Happened on...Feb 11, 2022  First, it is indeed true that even on the moon there is a greate...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nextfuckinglevel/comments/wlcrjl/a_legendary_experiment_on_the_moon_a_hammer_and/](https://www.reddit.com/r/nextfuckinglevel/comments/wlcrjl/a_legendary_experiment_on_the_moon_a_hammer_and/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditA legendary experiment on the moon, a hammer and...August 11, 2022 — TIL that on Apollo 15, a hammer and a feather were dropped on...</p></details>
+   Link: <a href="https://www.reddit.com/r/nextfuckinglevel/comments/wlcrjl/a_legendary_experiment_on_the_moon_a_hammer_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nextfuckinglevel/comments/wlcrjl/a_legendary_experiment_on_the_moon_a_hammer_and/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A legendary experiment on the moon, a hammer and...August 11, 2022  TIL that on Apollo 15, a hammer and a feather were dropped on...</p></details>
    Published: August 11, 2022  
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=oYEgdZ3iEKA](https://www.youtube.com/watch?v=oYEgdZ3iEKA)  
+   Link: <a href="https://www.youtube.com/watch?v=oYEgdZ3iEKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oYEgdZ3iEKA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo 15 Hammer-Feather DropAt the end of the last Apollo 15 moon walk, Commander David Scott (pictured above) performed a live demonstr...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ZVfhztmK9zI](https://www.youtube.com/watch?v=ZVfhztmK9zI)  
+   Link: <a href="https://www.youtube.com/watch?v=ZVfhztmK9zI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZVfhztmK9zI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo 15 Proves Galileo CorrectAt the end of the last Apollo 15 moon walk, Commander David Scott held out a geologic hammer and a feathe...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/mYjSBRlJ_K8](https://www.youtube.com/shorts/mYjSBRlJ_K8)  
+   Link: <a href="https://www.youtube.com/shorts/mYjSBRlJ_K8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/mYjSBRlJ_K8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>conducted the famous hammer and feather drop experiment on...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Apollo 15 Feather and Hammer (Experiment)  
-   Link: [https://www.youtube.com/watch?v=k4c6ywpYw7Q](https://www.youtube.com/watch?v=k4c6ywpYw7Q)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Never...Apollo 15 Feather and Hammer (Experiment) - Science Never Stops. 1.2K views · 6 years ago...more. U.S. Space &amp; Rocket C...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=k4c6ywpYw7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k4c6ywpYw7Q</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Never...Apollo 15 Feather and Hammer (Experiment) - Science Never Stops. 1.2K views  6 years ago...more. U.S. Space &amp; Rocket C...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Oo8TaPVsn9Y](https://www.youtube.com/watch?v=Oo8TaPVsn9Y)  
+   Link: <a href="https://www.youtube.com/watch?v=Oo8TaPVsn9Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oo8TaPVsn9Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>) and a hammer (in his right) to show that objects, regardless of...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: LZbU9hC nu8  
-   Link: [https://www.youtube.com/shorts/LZbU9hC_nu8](https://www.youtube.com/shorts/LZbU9hC_nu8)  
+   Link: <a href="https://www.youtube.com/shorts/LZbU9hC_nu8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/LZbU9hC_nu8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo 15 Hammer-Feather DropDuring Apollo 15 in 1971, astronaut David Scott dropped a hammer and a feather on the Moon to test Galileo&#x27;s...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/nasa](https://www.youtube.com/nasa)  
+   Link: <a href="https://www.youtube.com/nasa" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/nasa</a>  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Analyzing the Apollo 15 Feather and Hammer Drop  
-   Link: [https://www.youtube.com/watch?v=Gucr_OfzQ6M](https://www.youtube.com/watch?v=Gucr_OfzQ6M)  
+   Link: <a href="https://www.youtube.com/watch?v=Gucr_OfzQ6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gucr_OfzQ6M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Basic...NASA filmed astronaut David Scott holding a feather and a hammer at the same height and dropping them at the same time...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
+   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>brings you the latest news, images and videos from America&#x27;s space agency, pioneering the future in space exploration, scientific discove...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: science.nasa.gov  
    Title: hubble sights galaxy in transition  
-   Link: [https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/](https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/)  
+   Link: <a href="https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sights Galaxy in Transition...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Astronomy/comments/22q2v0/i_found_a_transcript_of_more_or_less_the_whole/](https://www.reddit.com/r/Astronomy/comments/22q2v0/i_found_a_transcript_of_more_or_less_the_whole/)  
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/22q2v0/i_found_a_transcript_of_more_or_less_the_whole/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/22q2v0/i_found_a_transcript_of_more_or_less_the_whole/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>o 15 mission to the moon. I had to save this part...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Apollo 15 Hammer and Feather Drop  
-   Link: [https://www.youtube.com/watch?v=5C5_dOEyAfk](https://www.youtube.com/watch?v=5C5_dOEyAfk)  
+   Link: <a href="https://www.youtube.com/watch?v=5C5_dOEyAfk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5C5_dOEyAfk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hammer vs. Feather - Physics on the Moon...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Hammer vs. Feather  
-   Link: [https://www.youtube.com/watch?v=o84n5aC1M3w](https://www.youtube.com/watch?v=o84n5aC1M3w)  
+   Link: <a href="https://www.youtube.com/watch?v=o84n5aC1M3w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o84n5aC1M3w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo&#x27;s Experiment on the Moon...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Galileo's Experiment on the Moon  
-   Link: [https://www.youtube.com/watch?v=1s9D29aR45o](https://www.youtube.com/watch?v=1s9D29aR45o)  
+   Link: <a href="https://www.youtube.com/watch?v=1s9D29aR45o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1s9D29aR45o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Astronaut David Scott Drops a Hammer and Feather on the Moon...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Apollo 15 Hammer-Feather Experiment Explained  
-   Link: [https://www.youtube.com/watch?v=0h9Vp2d-G_A](https://www.youtube.com/watch?v=0h9Vp2d-G_A)  
+   Link: <a href="https://www.youtube.com/watch?v=0h9Vp2d-G_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0h9Vp2d-G_A</a>  
 
 24. <a id="endnote-24"></a>
    Source: askaboutireland.ie  
-   Link: [https://www.askaboutireland.ie/learning-zone/secondary-students/science/physics/force-and-energy/force/gravity/gravity-beyond-the-earth-1/galileos-experiment-on-th/](https://www.askaboutireland.ie/learning-zone/secondary-students/science/physics/force-and-energy/force/gravity/gravity-beyond-the-earth-1/galileos-experiment-on-th/)  
+   Link: <a href="https://www.askaboutireland.ie/learning-zone/secondary-students/science/physics/force-and-energy/force/gravity/gravity-beyond-the-earth-1/galileos-experiment-on-th/" target="_blank" rel="noopener noreferrer nofollow">https://www.askaboutireland.ie/learning-zone/secondary-students/science/physics/force-and-energy/force/gravity/gravity-beyond-the-earth-1/galileos-experiment-on-th/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ask About IrelandGalileo&#x27;s Experiment on the MoonBecause there is no air on the Moon, there is no air resistance, and so Galileo&#x27;s experi...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: stem.org.uk  
-   Link: [https://www.stem.org.uk/resources/library/resource/26368/the-hammer-and-the-feather-on-the-moon](https://www.stem.org.uk/resources/library/resource/26368/the-hammer-and-the-feather-on-the-moon)  
+   Link: <a href="https://www.stem.org.uk/resources/library/resource/26368/the-hammer-and-the-feather-on-the-moon" target="_blank" rel="noopener noreferrer nofollow">https://www.stem.org.uk/resources/library/resource/26368/the-hammer-and-the-feather-on-the-moon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>STEM LearningThe hammer and the feather on the MoonThis classic Apollo 15 clip, from Footagevault, demonstrates that the mass of an objec...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Apollo](https://en.wikipedia.org/wiki/Apollo)  
+   Link: <a href="https://en.wikipedia.org/wiki/Apollo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Apollo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ApolloIn ancient Greek religion and mythology, Apollo is one of the Olympian deities. His numerous functions include healing, prophecy...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/NASA](https://en.wikipedia.org/wiki/NASA)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration (NASA /ˈnæsə/) is an independent agency of the U.S. federal government responsib...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration (NASA /ns/) is an independent agency of the U.S. federal government responsib...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: flixxy.com  
    Title: Hammer vs  
-   Link: [https://www.flixxy.com/apollo-15-gravity-demonstration.htm](https://www.flixxy.com/apollo-15-gravity-demonstration.htm)  
+   Link: <a href="https://www.flixxy.com/apollo-15-gravity-demonstration.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.flixxy.com/apollo-15-gravity-demonstration.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Feather - Apollo 15 Gravity DemonstrationApollo 15 astronaut drops a hammer and a feather on the moon simultaneously to demonstrate that...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: pbslearningmedia.org  
-   Link: [https://www.pbslearningmedia.org/resource/phy03.sci.ess.eiu.galmoon/galileo-on-the-moon/](https://www.pbslearningmedia.org/resource/phy03.sci.ess.eiu.galmoon/galileo-on-the-moon/)  
+   Link: <a href="https://www.pbslearningmedia.org/resource/phy03.sci.ess.eiu.galmoon/galileo-on-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbslearningmedia.org/resource/phy03.sci.ess.eiu.galmoon/galileo-on-the-moon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo&#x27;s Experiment on the Moon | PBS LearningMediaExplain your reasoning. Why did the hammer and the falcon feather hit the ground at t...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SpaceEveOfficial/posts/during-apollo-15-in-1971-astronaut-david-scott-dropped-a-feather-and-a-hammer-on/1273546858085576/](https://www.facebook.com/SpaceEveOfficial/posts/during-apollo-15-in-1971-astronaut-david-scott-dropped-a-feather-and-a-hammer-on/1273546858085576/)  
+   Link: <a href="https://www.facebook.com/SpaceEveOfficial/posts/during-apollo-15-in-1971-astronaut-david-scott-dropped-a-feather-and-a-hammer-on/1273546858085576/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceEveOfficial/posts/during-apollo-15-in-1971-astronaut-david-scott-dropped-a-feather-and-a-hammer-on/1273546858085576/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>During Apollo 15 in 1971, astronaut David Scott dropped a...What would this experiment look like if it was done on earth? The hammer wou...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
    Title: otd 821971 astronaut david scott performed galileos famous hammer feather drop e  
-   Link: [https://www.facebook.com/astrocady/posts/otd-821971-astronaut-david-scott-performed-galileos-famous-hammer-feather-drop-e/1151459636802470/](https://www.facebook.com/astrocady/posts/otd-821971-astronaut-david-scott-performed-galileos-famous-hammer-feather-drop-e/1151459636802470/)  
+   Link: <a href="https://www.facebook.com/astrocady/posts/otd-821971-astronaut-david-scott-performed-galileos-famous-hammer-feather-drop-e/1151459636802470/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/astrocady/posts/otd-821971-astronaut-david-scott-performed-galileos-famous-hammer-feather-drop-e/1151459636802470/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#OTD 8/2/1971: Astronaut David Scott performed Galileo&#x27;s...Scott, Apollo 15 commander, watched a geological hammer and a feather hit the...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
    Title: t417 101724 experiment 2 galileos fall experimentuntil galileo a 16th century as  
-   Link: [https://www.facebook.com/JonnyKimUSA/posts/t417-101724-experiment-2-galileos-fall-experimentuntil-galileo-a-16th-century-as/1055861789687555/](https://www.facebook.com/JonnyKimUSA/posts/t417-101724-experiment-2-galileos-fall-experimentuntil-galileo-a-16th-century-as/1055861789687555/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>T (10.17.24): Experiment (2) – Galileo&#x27;s Fall...Hammer and Feather Drop on the Moon: In 1971, astronaut David Scott conducted Galileo&#x27;s...</p></details>
+   Link: <a href="https://www.facebook.com/JonnyKimUSA/posts/t417-101724-experiment-2-galileos-fall-experimentuntil-galileo-a-16th-century-as/1055861789687555/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JonnyKimUSA/posts/t417-101724-experiment-2-galileos-fall-experimentuntil-galileo-a-16th-century-as/1055861789687555/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>T (10.17.24): Experiment (2)  Galileo&#x27;s Fall...Hammer and Feather Drop on the Moon: In 1971, astronaut David Scott conducted Galileo&#x27;s...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: lan-portal.uob.edu.ly  
    Title: falling to earth an apollo 15 astronauts journey to the moon  
-   Link: [https://lan-portal.uob.edu.ly/data/EPDF/T50713462I/falling_to__earth_an-apollo_15__astronauts-journey-to__the__moon.pdf](https://lan-portal.uob.edu.ly/data/EPDF/T50713462I/falling_to__earth_an-apollo_15__astronauts-journey-to__the__moon.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To Earth An Apollo 15 Astronauts Journey To The...20 Jan 2026 — Hammer and Feather dropped on the Moon - Hammer and Feather dropped on t...</p></details>
+   Link: <a href="https://lan-portal.uob.edu.ly/data/EPDF/T50713462I/falling_to__earth_an-apollo_15__astronauts-journey-to__the__moon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lan-portal.uob.edu.ly/data/EPDF/T50713462I/falling_to__earth_an-apollo_15__astronauts-journey-to__the__moon.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>To Earth An Apollo 15 Astronauts Journey To The...20 Jan 2026  Hammer and Feather dropped on the Moon - Hammer and Feather dropped on t...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: thekidshouldseethis.com  
    Title: the hammer feather drop in the worlds biggest vacuum chamber  
-   Link: [https://thekidshouldseethis.com/post/the-hammer-feather-drop-in-the-worlds-biggest-vacuum-chamber](https://thekidshouldseethis.com/post/the-hammer-feather-drop-in-the-worlds-biggest-vacuum-chamber)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kid Should See ThisThe Hammer-Feather Drop in the world&#x27;s biggest vacuum...Nov 2, 2014 — This is the Hammer-Feather Drop in the worl...</p></details>
+   Link: <a href="https://thekidshouldseethis.com/post/the-hammer-feather-drop-in-the-worlds-biggest-vacuum-chamber" target="_blank" rel="noopener noreferrer nofollow">https://thekidshouldseethis.com/post/the-hammer-feather-drop-in-the-worlds-biggest-vacuum-chamber</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kid Should See ThisThe Hammer-Feather Drop in the world&#x27;s biggest vacuum...Nov 2, 2014  This is the Hammer-Feather Drop in the worl...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: avi-loeb.medium.com  
    Title: A Breath of Fresh Air on the Moon | by Avi Loeb  
-   Link: [https://avi-loeb.medium.com/a-breath-of-fresh-air-on-the-moon-8f82339870e1](https://avi-loeb.medium.com/a-breath-of-fresh-air-on-the-moon-8f82339870e1)  
+   Link: <a href="https://avi-loeb.medium.com/a-breath-of-fresh-air-on-the-moon-8f82339870e1" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-breath-of-fresh-air-on-the-moon-8f82339870e1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Breath of Fresh Air on the Moon | by Avi Loeb - MediumDuring the Apollo 15 lunar mission in 1971, Commander astronaut David Scott dropped...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Fichier:Apollo 15 feather and hammer drop.ogv  
-   Link: [https://fr.wikipedia.org/wiki/Fichier%3AApollo_15_feather_and_hammer_drop.ogv](https://fr.wikipedia.org/wiki/Fichier%3AApollo_15_feather_and_hammer_drop.ogv)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Fichier%3AApollo_15_feather_and_hammer_drop.ogv" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Fichier%3AApollo_15_feather_and_hammer_drop.ogv</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fichier:Apollo 15 feather and hammer drop.ogvEnglish: Apollo 15 Commander Dave Scott demonstrates that the mass of an object does not...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: vaia.com  
    Title: Problem 56 Go to NASA's "Apollo 15 Hammer-F  
-   Link: [https://www.vaia.com/en-us/textbooks/physics/21st-century-astronomy-4-edition/chapter-4/problem-56-go-to-nasas-apollo-15-hammer-feather-drop-web-pag/](https://www.vaia.com/en-us/textbooks/physics/21st-century-astronomy-4-edition/chapter-4/problem-56-go-to-nasas-apollo-15-hammer-feather-drop-web-pag/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VaiaThe experiment showed that without air resistance, objects fall at the same rate. On Earth, air resistance causes a feather to fall s...</p></details>
+   Link: <a href="https://www.vaia.com/en-us/textbooks/physics/21st-century-astronomy-4-edition/chapter-4/problem-56-go-to-nasas-apollo-15-hammer-feather-drop-web-pag/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaia.com/en-us/textbooks/physics/21st-century-astronomy-4-edition/chapter-4/problem-56-go-to-nasas-apollo-15-hammer-feather-drop-web-pag/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The experiment showed that without air resistance, objects fall at the same rate. On Earth, air resistance causes a feather to fall s...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: commons.wikimedia.org  
    Title: File:Apollo 15 feather and hammer drop.ogv  
-   Link: [https://commons.wikimedia.org/wiki/File%3AApollo_15_feather_and_hammer_drop.ogv](https://commons.wikimedia.org/wiki/File%3AApollo_15_feather_and_hammer_drop.ogv)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AApollo_15_feather_and_hammer_drop.ogv" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AApollo_15_feather_and_hammer_drop.ogv</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Apollo 15 feather and hammer drop.ogvEnglish: Apollo 15 Commander Dave Scott demonstrates that the mass of an object do...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_correction_timing_c61362_late_warning_labels_d575c0
 - Myths_and_misconcept_0d48d7_correction_timing_c61362_repetition_familiari_8b4976
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - timing
 - high-harm
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - timing
 - high-harm
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Health, safety, finance and voting rumours can require faster action because people may act before a full debunk is ready.
 hero_summary: Health, safety, finance and voting rumours can require faster action because people may act before a full debunk is ready.
 layout: default
 permalink: /high-harm/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /timing/
 nav_short_title: High harm
 title: Which myths need the fastest correction?
-title_full: Which myths need the fastest correction? | Timing
+title_full: Which myths need the fastest correction?
 display_title_short: High harm
 display_title: High harm
 heading_title: Which myths need the fastest correction?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Should a Myth Be Corrected? | Mythcraft
+parent_title: When Should a Myth Be Corrected?
 parent_permalink: /timing/
 parent_nav_short_title: Timing
 parent_heading_title: When Should a Myth Be Corrected?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Do warning labels arrive too late?
 up_link:
   basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
@@ -265,7 +265,7 @@ next_link:
   permalink: /holding-fixes/
   short_title: Holding fixes
   heading_title: When should you correct before certainty?
-date: '2026-06-09 04:21:14 '
+date: '2026-06-11 22:00:10 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_high_harm_myths_b93b80-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_high_harm_myths_b93b80-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_high_
 ## Introduction
 
 Not every false claim requires the same response speed. Some myths can be corrected over days or weeks with little practical consequence. Others can change behaviour within hours, causing people to avoid medical treatment, ignore safety instructions, withdraw money, distrust voting processes, or interfere with emergency responses. In these cases, waiting for a perfect debunk may allow the falsehood to do its damage first.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_high_harm_myths_b93b80-Illustration-1-dark.svg" | relative_url }}" alt="High harm illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_high_harm_myths_b93b80-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_high_harm_myths_b93b80-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key question is not simply whether a claim is false, but whether it is likely to produce rapid real-world action before a fuller investigation is complete. Public health agencies, emergency communicators and election authorities increasingly treat certain rumours as high-priority threats because the cost of delay can be measured in illness, injuries, disrupted services, public disorder or lost trust. Effective [correction]({{ 'correction/' | relative_url }}) in these situations is often targeted, rapid and action-focused rather than broad, comprehensive and slow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">disinformation and public health</span><span class="citation-popover-snippet">World Health OrganizationDisinformation and public health6 Feb 2024 — Both misinformation and disinformation may cause harm, which compri...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/cerc/php/about/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Crisis &amp; Emergency Risk Communication (CERC)Jul 28, 2025 — CDC&#x27;s Crisis and Emergency Risk Communication (CERC) program provides training...</span></span></span>
@@ -288,7 +287,7 @@ Potential harmPotential spreadPriorityHigh harmHigh spreadImmediate correctionHi
 
 The most dangerous category is the combination of high harm and high spread. A false claim that encourages people to reject emergency evacuation orders, avoid life-saving treatment, or distrust voting instructions can cause damage long before fact-checkers publish detailed analyses.
 
-Risk communication frameworks used in public health and emergency management stress that communicators should be first, accurate and credible, while openly stating what is known and unknown. The goal is not merely to win an argument but to prevent harmful behaviour during periods of uncertainty. CDC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">PMCby MMF Caceres · 2022 · Cited by 329 — Some examples include association of face masks and CO2 toxicity, conspiracy theories related t...</span></span></span>
+Risk communication frameworks used in public health and emergency management stress that communicators should be first, accurate and credible, while openly stating what is known and unknown. The goal is not merely to win an argument but to prevent harmful behaviour during periods of uncertainty. CDC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">by MMF Caceres · 2022 · Cited by 329 — Some examples include association of face masks and CO2 toxicity, conspiracy theories related t...</span></span></span>
 
 ## The high-harm and high-spread decision matrix
 
@@ -302,7 +301,6 @@ High-harm myths tend to share several characteristics.
 
 Because of these features, communicators frequently prioritise harm reduction over exhaustive explanation. A brief corrective message that prevents dangerous behaviour may be more valuable than a detailed report published too late.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yUlZlmePV_Y" title="CISA tackles election security threats amid misinformation surge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yUlZlmePV_Y" target="_blank" rel="noopener noreferrer">CISA tackles election security threats amid misinformation surge</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 1.2K &middot; Uploaded: October 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yUlZlmePV_Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yUlZlmePV_Y">Open on YouTube</a></p></div></div></div>
 
 ## Why targeted correction may beat broad alerts
@@ -313,7 +311,6 @@ If a rumour is circulating primarily among a specific community, geographic area
 
 Targeted correction works best when it answers the practical question people face at that moment:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What should I do right now?
@@ -323,8 +320,7 @@ Targeted correction works best when it answers the practical question people fac
 
 </div>
 
-Emergency communication research consistently emphasises promoting concrete protective actions alongside [corrections]({{ 'corrections/' | relative_url }}). People under stress often need behavioural guidance more than lengthy factual rebuttals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asprtracie.hhs.gov/technical-resources/79/risk-communications-emncy-public-information-and-warning/77" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asprtracie.hhs.gov">[ASPR TRACIE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asprtracie.hhs.gov</span><span class="citation-popover-snippet">d after an incident can help residents feel informed and empowered.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/cerc/php/cerc-manual/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDCCrisis &amp; Emergency Risk Communication (CERC) Manual20 Nov 2024 — The CERC manual provides an evidence-based framework and recommended...</span></span></span>
-
+Emergency communication research consistently emphasises promoting concrete protective actions alongside [corrections]({{ 'corrections/' | relative_url }}). People under stress often need behavioural guidance more than lengthy factual rebuttals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asprtracie.hhs.gov/technical-resources/79/risk-communications-emncy-public-information-and-warning/77" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asprtracie.hhs.gov">[ASPR TRACIE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asprtracie.hhs.gov</span><span class="citation-popover-snippet">d after an incident can help residents feel informed and empowered.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/cerc/php/cerc-manual/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Crisis &amp; Emergency Risk Communication (CERC) Manual20 Nov 2024 — The CERC manual provides an evidence-based framework and recommended...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/emPlFDVTOY4" title="An Oxford Conversation: The impact of fake news on our lives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=emPlFDVTOY4" target="_blank" rel="noopener noreferrer">An Oxford Conversation: The impact of fake news on our lives</a></p><p class="youtube-embed-meta">Channel: Oxford Population Health &middot; Views: 281 &middot; Uploaded: March 2020 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=emPlFDVTOY4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=emPlFDVTOY4">Open on YouTube</a></p></div></div></div>
 
@@ -332,14 +328,13 @@ Emergency communication research consistently emphasises promoting concrete prot
 
 Public health misinformation is one of the clearest examples of a category requiring rapid intervention.
 
-During the COVID-19 pandemic, false claims about vaccines, treatments, masks and disease transmission influenced health behaviour around the world. Researchers documented how misinformation affected public understanding, treatment choices and vaccine acceptance. The World Health Organization described the situation as an accompanying "infodemic" in which misleading information spread alongside the disease itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">PMCby MMF Caceres · 2022 · Cited by 329 — Some examples include association of face masks and CO2 toxicity, conspiracy theories related t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[2reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">types sources and claims covid 19 misinformation</span><span class="citation-popover-snippet">Types, sources, and claims of COVID-19 misinformation7 Apr 2020 — In mid-February, the World Health Organization announced that the new c...</span></span></span>
+During the COVID-19 pandemic, false claims about vaccines, treatments, masks and disease transmission influenced health behaviour around the world. Researchers documented how misinformation affected public understanding, treatment choices and vaccine acceptance. The World Health Organization described the situation as an accompanying "infodemic" in which misleading information spread alongside the disease itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">by MMF Caceres · 2022 · Cited by 329 — Some examples include association of face masks and CO2 toxicity, conspiracy theories related t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[2reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">types sources and claims covid 19 misinformation</span><span class="citation-popover-snippet">Types, sources, and claims of COVID-19 misinformation7 Apr 2020 — In mid-February, the World Health Organization announced that the new c...</span></span></span>
 
 The urgency arises because health decisions are often time-sensitive. A person persuaded that a vaccine is immediately dangerous, or that an unproven remedy is superior to medical treatment, may act before a full scientific rebuttal reaches them.
 
 Recent events demonstrate that the danger is not merely theoretical. Reuters reported that false health rumours in the Democratic Republic of Congo contributed to panic, attacks on health workers and multiple deaths, illustrating how quickly misinformation can escalate from online claims into physical harm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Fake rumors, real killings: Inside Congo&#x27;s deadly health misinformation crisis</span><span class="citation-popover-snippet">The panic led to violence, including the killing of four health workers conducting vaccination surveys. The WHO and Africa Infodemic Resp...</span></span></span>
 
 In these circumstances, communicators often prioritise rapid messages such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -349,7 +344,6 @@ In these circumstances, communicators often prioritise rapid messages such as:
 * Updates will be provided as more information becomes available.
 
 </div>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_high_harm_myths_b93b80-Illustration-2-dark.svg" | relative_url }}" alt="High harm illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_high_harm_myths_b93b80-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_high_harm_myths_b93b80-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Disaster rumours can interfere with emergency response
@@ -362,7 +356,6 @@ After major disasters, emergency agencies increasingly maintain dedicated rumour
 
 For this reason, disaster communicators often favour short, repetitive corrections tied to specific actions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Which areas should evacuate.
@@ -373,7 +366,6 @@ For this reason, disaster communicators often favour short, repetitive correctio
 </div>
 
 The practical instruction is often more important than winning a debate over the rumour's origins.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tJIe6sT1ar8" title="CDC’s CERC: Introduction to Crisis &amp; Emergency Risk Communication (CERC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tJIe6sT1ar8" target="_blank" rel="noopener noreferrer">CDC’s CERC: Introduction to Crisis &amp; Emergency Risk Communication (CERC)</a></p><p class="youtube-embed-meta">Channel: Centers for Disease Control and Prevention (CDC) &middot; Views: 18.8K &middot; Uploaded: February 2019 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tJIe6sT1ar8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tJIe6sT1ar8">Open on YouTube</a></p></div></div></div>
 
@@ -399,7 +391,6 @@ Election security agencies have also warned that delays in vote counting or repo
 
 As a result, election communication strategies often prioritise immediate correction of claims about:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Voting dates and deadlines.
@@ -412,13 +403,12 @@ As a result, election communication strategies often prioritise immediate correc
 
 The objective is not simply factual accuracy but protecting citizens' ability to participate based on reliable information.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_high_harm_myths_b93b80-Illustration-3-dark.svg" | relative_url }}" alt="High harm illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_high_harm_myths_b93b80-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_high_harm_myths_b93b80-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The fastest correction is not always the longest correction
 
 High-harm myths require a different communication strategy from ordinary online rumours. The most effective response is often a rapid, targeted intervention that prevents harmful action while a fuller investigation continues.
 
-Health scares, disaster rumours, financial panic claims and election misinformation all share a common feature: people may act before a complete debunk is available. In these situations, communicators gain more by quickly establishing a trusted source, clarifying what is known, acknowledging uncertainty and providing a safe course of action than by waiting for a perfect rebuttal. The central challenge is not merely correcting a false belief but interrupting harmful behaviour before it spreads. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDCCERC: IntroductionGood risk communication aims to keep outrage in proportion to hazard so people will have the appropriate level of co...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDC: Centers for Disease Control and PreventionCDC is the nation&#x27;s leading science-based, data-driven, service organization that protects...</span></span></span>
+Health scares, disaster rumours, financial panic claims and election misinformation all share a common feature: people may act before a complete debunk is available. In these situations, communicators gain more by quickly establishing a trusted source, clarifying what is known, acknowledging uncertainty and providing a safe course of action than by waiting for a perfect rebuttal. The central challenge is not merely correcting a false belief but interrupting harmful behaviour before it spreads. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CERC: IntroductionGood risk communication aims to keep outrage in proportion to hazard so people will have the appropriate level of co...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Centers for Disease Control and PreventionCDC is the nation&#x27;s leading science-based, data-driven, service organization that protects...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -817,140 +807,140 @@ Health scares, disaster rumours, financial panic claims and election misinformat
 1. <a id="endnote-1"></a>
    Source: who.int  
    Title: disinformation and public health  
-   Link: [https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health](https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health)  
+   Link: <a href="https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationDisinformation and public health6 Feb 2024 — Both misinformation and disinformation may cause harm, which compri...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/cerc/php/about/index.html](https://www.cdc.gov/cerc/php/about/index.html)  
+   Link: <a href="https://www.cdc.gov/cerc/php/about/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/cerc/php/about/index.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crisis &amp; Emergency Risk Communication (CERC)Jul 28, 2025 — CDC&#x27;s Crisis and Emergency Risk Communication (CERC) program provides training...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/cerc/php/cerc-manual/index.html](https://www.cdc.gov/cerc/php/cerc-manual/index.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDCCrisis &amp; Emergency Risk Communication (CERC) Manual20 Nov 2024 — The CERC manual provides an evidence-based framework and recommended...</p></details>
+   Link: <a href="https://www.cdc.gov/cerc/php/cerc-manual/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/cerc/php/cerc-manual/index.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crisis &amp; Emergency Risk Communication (CERC) Manual20 Nov 2024 — The CERC manual provides an evidence-based framework and recommended...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf](https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDCCERC: IntroductionGood risk communication aims to keep outrage in proportion to hazard so people will have the appropriate level of co...</p></details>
+   Link: <a href="https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CERC: IntroductionGood risk communication aims to keep outrage in proportion to hazard so people will have the appropriate level of co...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7745758/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7745758/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7745758/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7745758/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>survey of crisis and emergency risk communication...by LMO Yong · 2020 · Cited by 49 — This integrated framework of risk and crisis comm...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: asprtracie.hhs.gov  
-   Link: [https://asprtracie.hhs.gov/technical-resources/79/risk-communications-emncy-public-information-and-warning/77](https://asprtracie.hhs.gov/technical-resources/79/risk-communications-emncy-public-information-and-warning/77)  
+   Link: <a href="https://asprtracie.hhs.gov/technical-resources/79/risk-communications-emncy-public-information-and-warning/77" target="_blank" rel="noopener noreferrer nofollow">https://asprtracie.hhs.gov/technical-resources/79/risk-communications-emncy-public-information-and-warning/77</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>d after an incident can help residents feel informed and empowered.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe impact of misinformation on the COVID-19 pandemic  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MMF Caceres · 2022 · Cited by 329 — Some examples include association of face masks and CO2 toxicity, conspiracy theories related t...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MMF Caceres · 2022 · Cited by 329 — Some examples include association of face masks and CO2 toxicity, conspiracy theories related t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reutersinstitute.[politics](&#123;&#123; 'politics/' | relative_url &#125;&#125;). ox.ac.uk  
    Title: types sources and claims covid 19 misinformation  
-   Link: [https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation)  
+   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Types, sources, and claims of COVID-19 misinformation7 Apr 2020 — In mid-February, the World Health Organization announced that the new c...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reuters.com  
    Title: Fake rumors, real killings: Inside Congo's deadly health misinformation crisis  
-   Link: [https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/](https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The panic led to violence, including the killing of four health workers conducting vaccination surveys. The WHO and Africa Infodemic Resp...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: time.com  
-   Link: [https://time.com/5905903/election-misinformation/](https://time.com/5905903/election-misinformation/)  
+   Link: <a href="https://time.com/5905903/election-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5905903/election-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>voting process is prevalent online. It is important to differentiate between misinformation, which is false information shared unknowingl...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2020/09/22/fbi-cisa-cyber-election-results-distrust](https://www.axios.com/2020/09/22/fbi-cisa-cyber-election-results-distrust)  
+   Link: <a href="https://www.axios.com/2020/09/22/fbi-cisa-cyber-election-results-distrust" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2020/09/22/fbi-cisa-cyber-election-results-distrust</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They cautioned that foreign actors are likely to exploit these delays to spread disinformation, potentially including false reports of vo...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/index.html](https://www.cdc.gov/index.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CDC: Centers for Disease Control and PreventionCDC is the nation&#x27;s leading science-based, data-driven, service organization that protects...</p></details>
+   Link: <a href="https://www.cdc.gov/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/index.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Disease Control and PreventionCDC is the nation&#x27;s leading science-based, data-driven, service organization that protects...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cdc.gov  
    Title: cerc rad  
-   Link: [https://www.cdc.gov/radiation-emergencies/php/communication-resources/cerc-rad.html](https://www.cdc.gov/radiation-emergencies/php/communication-resources/cerc-rad.html)  
+   Link: <a href="https://www.cdc.gov/radiation-emergencies/php/communication-resources/cerc-rad.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/php/communication-resources/cerc-rad.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Be credible. Protective actions will vary by location and time. People need to trust public health guidance and know they have a reliable...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchbriefings.files.parliament.uk  
    Title: POST PN 0719  
-   Link: [https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf](https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf)  
+   Link: <a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.ukDisinformation: sources, spread and impact25 Apr 2024 — Disinformation is the deliberate creation and spread of false and/or...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2024/oct/04/hurricane-helene-conspiracy-theories-election-misinformation](https://www.theguardian.com/us-news/2024/oct/04/hurricane-helene-conspiracy-theories-election-misinformation)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/oct/04/hurricane-helene-conspiracy-theories-election-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/oct/04/hurricane-helene-conspiracy-theories-election-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top Republicans, including Donald Trump, are accused of spreading falsehoods tying the disaster to immigration issues. Claims include gov...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: brennancenter.org  
-   Link: [https://www.brennancenter.org/election-misinformation](https://www.brennancenter.org/election-misinformation)  
+   Link: <a href="https://www.brennancenter.org/election-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.brennancenter.org/election-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brennan Center for JusticeElection MisinformationFalse claims have eroded trust in elections and provoked a wave of anti-voter laws. The...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/349791891_Being_First_Being_Right_and_Being_Credible_Since_2002_A_Systematic_Review_of_Crisis_and_Emergency_Risk_Communication_CERC_Research](https://www.researchgate.net/publication/349791891_Being_First_Being_Right_and_Being_Credible_Since_2002_A_Systematic_Review_of_Crisis_and_Emergency_Risk_Communication_CERC_Research)  
+   Link: <a href="https://www.researchgate.net/publication/349791891_Being_First_Being_Right_and_Being_Credible_Since_2002_A_Systematic_Review_of_Crisis_and_Emergency_Risk_Communication_CERC_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349791891_Being_First_Being_Right_and_Being_Credible_Since_2002_A_Systematic_Review_of_Crisis_and_Emergency_Risk_Communication_CERC_Research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Crisis and Emergency Risk...8 Jun 2021 — Being First, Being Right, and Being Credible Since 2002: A Systematic Re...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BritishRedCross/posts/misinformation-is-false-or-inaccurate-information-thats-presented-as-news-andor-/1219608496864038/](https://www.facebook.com/BritishRedCross/posts/misinformation-is-false-or-inaccurate-information-thats-presented-as-news-andor-/1219608496864038/)  
+   Link: <a href="https://www.facebook.com/BritishRedCross/posts/misinformation-is-false-or-inaccurate-information-thats-presented-as-news-andor-/1219608496864038/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BritishRedCross/posts/misinformation-is-false-or-inaccurate-information-thats-presented-as-news-andor-/1219608496864038/</a>  
 
 19. <a id="endnote-19"></a>
    Source: europarl.europa.eu  
-   Link: [https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653635/EXPO_STU%282021%29653635_EN.pdf](https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653635/EXPO_STU%282021%29653635_EN.pdf)  
+   Link: <a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653635/EXPO_STU%282021%29653635_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653635/EXPO_STU%282021%29653635_EN.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European ParliamentThe impact of disinformation on democratic processes and...by C COLOMINA · Cited by 196 — Around the world, disinform...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/topics/journalism-facts/misinformation-disinformation](https://www.apa.org/topics/journalism-facts/misinformation-disinformation)  
+   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationThe spread of misinformation and disinformation has affected our ability to improve public health, addre...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: debeaumont.org  
    Title: be first be right and be credible translating lessons from crisis communications  
-   Link: [https://debeaumont.org/news/2019/be-first-be-right-and-be-credible-translating-lessons-from-crisis-communications/](https://debeaumont.org/news/2019/be-first-be-right-and-be-credible-translating-lessons-from-crisis-communications/)  
+   Link: <a href="https://debeaumont.org/news/2019/be-first-be-right-and-be-credible-translating-lessons-from-crisis-communications/" target="_blank" rel="noopener noreferrer nofollow">https://debeaumont.org/news/2019/be-first-be-right-and-be-credible-translating-lessons-from-crisis-communications/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>de Beaumont FoundationBe First, Be Right, and Be Credible: Translating Lessons...1 Feb 2019 — The Centers for Disease Control and Preven...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=emPlFDVTOY4](https://www.youtube.com/watch?v=emPlFDVTOY4)  
+   Link: <a href="https://www.youtube.com/watch?v=emPlFDVTOY4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=emPlFDVTOY4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Oxford Conversation: The impact of [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) on our livesAn Oxford Conversation: The impact of fake news on our lives. 275 views · 6 y...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=yUlZlmePV_Y](https://www.youtube.com/watch?v=yUlZlmePV_Y)  
+   Link: <a href="https://www.youtube.com/watch?v=yUlZlmePV_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yUlZlmePV_Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CISA tackles election security threats amid misinformation surgeWith Election Day just a week away, ballot drop boxes are under attack, m...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: [https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide](https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide)  
+   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: mitsloan.mit.edu  
    Title: sloan research about social media misinformation and elections  
-   Link: [https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-research-about-social-media-misinformation-and-elections](https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-research-about-social-media-misinformation-and-elections)  
+   Link: <a href="https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-research-about-social-media-misinformation-and-elections" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-research-about-social-media-misinformation-and-elections</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sloan research about social media, misinformation...5 Oct 2020 — Fake news” and misinformation peak online during presidential election...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: electoral-reform.org.uk  
    Title: how to tackle the infodemic of misinformation around coronavirus  
-   Link: [https://electoral-reform.org.uk/how-to-tackle-the-infodemic-of-misinformation-around-coronavirus/](https://electoral-reform.org.uk/how-to-tackle-the-infodemic-of-misinformation-around-coronavirus/)  
+   Link: <a href="https://electoral-reform.org.uk/how-to-tackle-the-infodemic-of-misinformation-around-coronavirus/" target="_blank" rel="noopener noreferrer nofollow">https://electoral-reform.org.uk/how-to-tackle-the-infodemic-of-misinformation-around-coronavirus/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How do we tackle the &#x27;infodemic&#x27; of misinformation around...27 Apr 2020 — The proliferation of false, misleading and harmful information...</p></details>

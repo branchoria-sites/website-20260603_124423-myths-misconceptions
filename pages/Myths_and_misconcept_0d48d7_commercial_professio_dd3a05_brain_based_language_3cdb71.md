@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_learning_styles_matc_b7f2ed
 - Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - commercial-myths
 - brain-based
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - commercial-myths
 - brain-based
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Words such as brain-based and neural can make a weak education claim sound scientific before it has been fairly tested.
 hero_summary: Words such as brain-based and neural can make a weak education claim sound scientific before it has been fairly tested.
 layout: default
 permalink: /brain-based/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /commercial-myths/
 nav_short_title: Brain based
 title: Why brain words make myths sound smarter
-title_full: Why brain words make myths sound smarter | Commercial Myths
+title_full: Why brain words make myths sound smarter
 display_title_short: Brain based
 display_title: Brain based
 heading_title: Why brain words make myths sound smarter
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Myths Come in Professional Packaging | Mythcraft
+parent_title: When Myths Come in Professional Packaging
 parent_permalink: /commercial-myths/
 parent_nav_short_title: Commercial Myths
 parent_heading_title: When Myths Come in Professional Packaging
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
@@ -243,13 +243,13 @@ sibling_links:
   short_title: Learning styles
   heading_title: Do learning styles products really help?
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_evidence_based_sales_3fe9e4
-  title: “Evidence Based” | Commercial Myths
+  title: Evidence Based | Commercial Myths
   permalink: /evidence-based/
-  short_title: “Evidence Based”
+  short_title: Evidence Based
   heading_title: When evidence based becomes a sales phrase
 up_link:
   basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
@@ -265,7 +265,7 @@ next_link:
   permalink: /brain-gym/
   short_title: Brain Gym
   heading_title: When movement becomes a brain myth
-date: '2026-06-09 05:00:37 '
+date: '2026-06-11 22:19:35 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_brain_based_language_3cdb71-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_brain_based_language_3cdb71-Illustration-1.webp
@@ -274,20 +274,19 @@ image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_br
 
 ## Introduction
 
-“Brain-based”, “neural”, “neuroscience-informed” and similar phrases often appear in educational and professional development programmes as signals of scientific credibility. Sometimes those labels describe genuine connections to neuroscience research. Just as often, however, they function primarily as marketing language. The key misconception is that a claim becomes stronger simply because it is expressed in the vocabulary of the brain. In reality, neuroscience terminology does not reduce the need for evidence. If anything, a programme that makes brain-related claims should face a higher standard of testing because it is borrowing authority from a respected scientific field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Dekker · 2012 · Cited by 1291 — The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</span></span></span>
-
+Brain-based, neural, neuroscience-informed and similar phrases often appear in educational and professional development programmes as signals of scientific credibility. Sometimes those labels describe genuine connections to neuroscience research. Just as often, however, they function primarily as marketing language. The key misconception is that a claim becomes stronger simply because it is expressed in the vocabulary of the brain. In reality, neuroscience terminology does not reduce the need for evidence. If anything, a programme that makes brain-related claims should face a higher standard of testing because it is borrowing authority from a respected scientific field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker  2012  Cited by 1291  The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_brain_based_language_3cdb71-Illustration-1-dark.svg" | relative_url }}" alt="Brain based illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_brain_based_language_3cdb71-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_brain_based_language_3cdb71-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within commercial learning and training markets, brain-based language is powerful because it creates the impression that a product is built on deep scientific insight even when the actual educational recommendation is ordinary, weakly supported or already well known. Understanding how this mechanism works helps explain why professional-sounding myths can spread despite repeated criticism from researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.mpg.de/rest/items/item_2502604_1/component/file_2502603/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-title">Pu Re Consumers Favor Right Brain Training</span><span class="citation-popover-snippet">Favor Right Brain TrainingNovember 14, 2017 — by AK Lindell · 2013 · Cited by 61 — Researchers have however expressed concern about the m...</span><span class="citation-popover-meta">Published: November 14, 2017</span></span></span>
+Within commercial learning and training markets, brain-based language is powerful because it creates the impression that a product is built on deep scientific insight even when the actual educational recommendation is ordinary, weakly supported or already well known. Understanding how this mechanism works helps explain why professional-sounding myths can spread despite repeated criticism from researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.mpg.de/rest/items/item_2502604_1/component/file_2502603/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-title">Pu Re Consumers Favor Right Brain Training</span><span class="citation-popover-snippet">Favor Right Brain TrainingNovember 14, 2017  by AK Lindell  2013  Cited by 61  Researchers have however expressed concern about the m...</span><span class="citation-popover-meta">Published: November 14, 2017</span></span></span>
 
 ## Why neuroscience vocabulary feels persuasive
 
 The persuasive power of brain language is not mainly about neuroscience itself. It is about how people judge expertise.
 
-Research on what psychologists call the “seductive allure” of neuroscience found that explanations can seem more convincing when they include neuroscientific details, even when those details add little or nothing to the logic of the explanation. In the original studies, irrelevant references to brain activity made weak explanations appear more satisfying to non-experts. PMC PubMed This creates a useful marketing shortcut. Compare the following messages: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/18004955/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med The seductive allure of neuroscience explanations</span><span class="citation-popover-snippet">seductive allure of neuroscience explanations - PubMedby DS Weisberg · 2008 · Cited by 1674 — Explanations of psychological phenomena see...</span></span></span>
+Research on what psychologists call the seductive allure of neuroscience found that explanations can seem more convincing when they include neuroscientific details, even when those details add little or nothing to the logic of the explanation. In the original studies, irrelevant references to brain activity made weak explanations appear more satisfying to non-experts. PMC PubMed This creates a useful marketing shortcut. Compare the following messages: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/18004955/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med The seductive allure of neuroscience explanations</span><span class="citation-popover-snippet">seductive allure of neuroscience explanations - PubMedby DS Weisberg  2008  Cited by 1674  Explanations of psychological phenomena see...</span></span></span>
 
-* “Practice improves [memory]({{ 'memory/' | relative_url }}) because repeated retrieval strengthens recall.”
-* “Practice improves memory because repeated retrieval strengthens neural pathways in the brain.”
+* Practice improves [memory]({{ 'memory/' | relative_url }}) because repeated retrieval strengthens recall.
+* Practice improves memory because repeated retrieval strengthens neural pathways in the brain.
 
 The second statement sounds more scientific, even though it may not provide any additional practical information. The brain terminology changes how the claim feels before it changes what the claim means. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Seductive Allure of Neuroscience Explanations</span><span class="citation-popover-snippet">Explanations of psychological phenomena seem to generate more public interest when they contain neuroscientific information.Read more...</span></span></span>
 
@@ -299,28 +298,24 @@ Commercial programmes often benefit from this effect because most customers cann
 
 * Scientific-sounding programme names.
 * Technical diagrams of the brain.
-* Claims of being “neuroscience-backed”.
+* Claims of being neuroscience-backed.
 * Trainer credentials that emphasise brain science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science-teaching.org/research/influence-of-neuromyths-in-the-educational-environment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science-teaching.org">[science-teaching.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science-teaching.org</span><span class="citation-popover-snippet">Influence of neuromyths in the educational environmentEducational neuromyths are simplifications, misunderstandings, or misinterpretation...</span></span></span>
 
 </div>
 
-None of these signals proves that a programme is ineffective. The problem arises when such signals become substitutes for independent evidence of improved outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.mpg.de/rest/items/item_2502604_1/component/file_2502603/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-title">Pu Re Consumers Favor Right Brain Training</span><span class="citation-popover-snippet">Favor Right Brain TrainingNovember 14, 2017 — by AK Lindell · 2013 · Cited by 61 — Researchers have however expressed concern about the m...</span><span class="citation-popover-meta">Published: November 14, 2017</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5KtMUBzkPbo" title="Jennifer Eberhardt: Understanding Bias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5KtMUBzkPbo" target="_blank" rel="noopener noreferrer">Jennifer Eberhardt: Understanding Bias</a></p><p class="youtube-embed-meta">Channel: Commonwealth Club World Affairs of California</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5KtMUBzkPbo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5KtMUBzkPbo">Open on YouTube</a></p></div></div></div>
+None of these signals proves that a programme is ineffective. The problem arises when such signals become substitutes for independent evidence of improved outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.mpg.de/rest/items/item_2502604_1/component/file_2502603/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-title">Pu Re Consumers Favor Right Brain Training</span><span class="citation-popover-snippet">Favor Right Brain TrainingNovember 14, 2017  by AK Lindell  2013  Cited by 61  Researchers have however expressed concern about the m...</span><span class="citation-popover-meta">Published: November 14, 2017</span></span></span>
 
 ### The special status of the brain
 
-The brain occupies a unique place in public culture. Brain scans, neural images and neuroscience discoveries are often associated with cutting-edge science and objective truth. As a result, attaching educational advice to the brain can make the advice appear more fundamental or less debatable than it really is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 270 — The findings present neuromyths...</span></span></span>
+The brain occupies a unique place in public culture. Brain scans, neural images and neuroscience discoveries are often associated with cutting-edge science and objective truth. As a result, attaching educational advice to the brain can make the advice appear more fundamental or less debatable than it really is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas  2021  Cited by 270  The findings present neuromyths...</span></span></span>
 
-This is particularly attractive in education and workplace learning, where practitioners face difficult questions and often want clear, practical solutions. A programme that claims to align with “how the brain really learns” sounds more authoritative than one that merely claims to be a useful teaching strategy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Dekker · 2012 · Cited by 1291 — The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</span></span></span>
+This is particularly attractive in education and workplace learning, where practitioners face difficult questions and often want clear, practical solutions. A programme that claims to align with how the brain really learns sounds more authoritative than one that merely claims to be a useful teaching strategy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker  2012  Cited by 1291  The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</span></span></span>
 
 ## How strong claims retreat into weaker truths
 
 One reason brain-based marketing survives criticism is that strong claims can often retreat into weaker statements that are undeniably true.
 
 A common pattern looks like this:
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_brain_based_language_3cdb71-Illustration-2-dark.svg" | relative_url }}" alt="Brain based illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_brain_based_language_3cdb71-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_brain_based_language_3cdb71-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -333,29 +328,24 @@ A common pattern looks like this:
 
 </div>
 
-For example, a commercial programme might initially suggest that its methods are effective because they are based on neuroscience. When challenged, supporters may respond that “the brain is involved in all learning” or that “understanding the brain can inform education”. Those weaker statements are generally true, but they do not establish that the specific programme works. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDUnderstanding the Brain: The Birth of a Learning ScienceThis book provides new insights about learning by synthesising existing and e...</span></span></span>
+For example, a commercial programme might initially suggest that its methods are effective because they are based on neuroscience. When challenged, supporters may respond that the brain is involved in all learning or that understanding the brain can inform education. Those weaker statements are generally true, but they do not establish that the specific programme works. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Understanding the Brain: The Birth of a Learning ScienceThis book provides new insights about learning by synthesising existing and e...</span></span></span>
 
 This shift can be difficult for audiences to notice because both versions use similar language. Yet there is a major difference between:
 
-* “Learning involves the brain.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Dekker · 2012 · Cited by 1291 — The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</span></span></span>
-* “This branded intervention improves learning because it is brain-based.”
+* Learning involves the brain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker  2012  Cited by 1291  The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</span></span></span>
+* This branded intervention improves learning because it is brain-based.
 
 The first is a broad scientific observation. The second is a testable commercial claim that requires direct evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd/9789264029132-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">9789264029132 en</span><span class="citation-popover-snippet">Understanding the Brain: The Birth of a Learning ScienceThis book follows from the OECD report Understanding the Brain: Towards a New Lea...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hAtkiQCCrV0" title="Critical Thinking, Science, &amp; Pseudoscience: Why You Can&#x27;t Trust Your Brain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hAtkiQCCrV0" target="_blank" rel="noopener noreferrer">Critical Thinking, Science, &amp; Pseudoscience: Why You Can&#x27;t Trust Your Brain</a></p><p class="youtube-embed-meta">Channel: Professor Caleb Lack</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hAtkiQCCrV0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hAtkiQCCrV0">Open on YouTube</a></p></div></div></div>
 
 ### From neuroscience to neuromyth
 
 Many educational [neuromyths]({{ 'neuromyths/' | relative_url }}) emerge from a small kernel of truth.
 
-Researchers studying neuromyths describe them as misconceptions that are loosely based on genuine scientific findings. A real observation about the brain becomes simplified, exaggerated or misapplied until it supports recommendations that the original science never justified. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/en/publications/neuromyths-in-education-prevalence-and-predictors-of-misconceptio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">neuromyths in education prevalence and predictors of misconceptio</span><span class="citation-popover-snippet">University of BristolNeuromyths in education: Prevalence and predictors of...by S Dekker · 2012 · Cited by 1267 — The OECD&#x27;s Brain and L...</span></span></span>
+Researchers studying neuromyths describe them as misconceptions that are loosely based on genuine scientific findings. A real observation about the brain becomes simplified, exaggerated or misapplied until it supports recommendations that the original science never justified. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/en/publications/neuromyths-in-education-prevalence-and-predictors-of-misconceptio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">neuromyths in education prevalence and predictors of misconceptio</span><span class="citation-popover-snippet">University of BristolNeuromyths in education: Prevalence and predictors of...by S Dekker  2012  Cited by 1267  The OECD&#x27;s Brain and L...</span></span></span>
 
-Examples have included claims about left-brain and right-brain learners, learning styles framed as brain differences, and various forms of “brain training” marketed with educational promises. The underlying scientific ideas may contain elements of truth, but the practical recommendations often extend far beyond the evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10212-020-00485-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerThe learning styles neuromyth: when the same term means...by M Papadatou-Pastou · 2021 · Cited by 138 — A study into neuromyths...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.mpg.de/rest/items/item_2502604_1/component/file_2502603/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-title">Pu Re Consumers Favor Right Brain Training</span><span class="citation-popover-snippet">Favor Right Brain TrainingNovember 14, 2017 — by AK Lindell · 2013 · Cited by 61 — Researchers have however expressed concern about the m...</span><span class="citation-popover-meta">Published: November 14, 2017</span></span></span>. PuRe
+Examples have included claims about left-brain and right-brain learners, learning styles framed as brain differences, and various forms of brain training marketed with educational promises. The underlying scientific ideas may contain elements of truth, but the practical recommendations often extend far beyond the evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10212-020-00485-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The learning styles neuromyth: when the same term means...by M Papadatou-Pastou  2021  Cited by 138  A study into neuromyths...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.mpg.de/rest/items/item_2502604_1/component/file_2502603/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-title">Pu Re Consumers Favor Right Brain Training</span><span class="citation-popover-snippet">Favor Right Brain TrainingNovember 14, 2017  by AK Lindell  2013  Cited by 61  Researchers have however expressed concern about the m...</span><span class="citation-popover-meta">Published: November 14, 2017</span></span></span>. PuRe
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tqW0h_SRipE" title="The Seductive Allure of Neuroscience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tqW0h_SRipE" target="_blank" rel="noopener noreferrer">The Seductive Allure of Neuroscience</a></p><p class="youtube-embed-meta">Channel: People Builders</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tqW0h_SRipE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tqW0h_SRipE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_brain_based_language_3cdb71-Illustration-3-dark.svg" | relative_url }}" alt="Brain based illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_brain_based_language_3cdb71-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_brain_based_language_3cdb71-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to translate jargon into testable outcomes
 
 The most useful response to brain-based language is not cynicism. It is translation.
@@ -366,21 +356,19 @@ Instead of focusing on the terminology, convert the claim into a form that can b
 
 For example:
 
-Brain-based wordingTestable translation“Optimises neural learning pathways”Do participants learn more accurately or more quickly?“Aligns with how the brain learns naturally”Compared with what alternative method, and by how much?“Neuroscience-informed memory system”Does it improve long-term retention in controlled studies?“Activates whole-brain learning”What measurable educational outcome improves?
+Brain-based wordingTestable translationOptimises neural learning pathwaysDo participants learn more accurately or more quickly?Aligns with how the brain learns naturallyCompared with what alternative method, and by how much?Neuroscience-informed memory systemDoes it improve long-term retention in controlled studies?Activates whole-brain learningWhat measurable educational outcome improves?
 
 This translation process often reveals whether a claim is meaningful. If a programme cannot specify measurable outcomes, comparison groups or evidence of effectiveness, then the neuroscience language may be carrying more weight than the actual proof.
 
-A useful rule is that educational benefits should be demonstrated at the level where people experience them: better learning, improved retention, stronger performance, reduced errors or more effective teaching. Brain terminology does not replace those outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-title">neuromyths about special educational needs what should teachers know</span><span class="citation-popover-snippet">My CollegeNeuromyths about Special Educational Needs20 Sept 2022 — Neuromyths are often the result of miscommunication, and thus a greate...</span></span></span>
+A useful rule is that educational benefits should be demonstrated at the level where people experience them: better learning, improved retention, stronger performance, reduced errors or more effective teaching. Brain terminology does not replace those outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-title">neuromyths about special educational needs what should teachers know</span><span class="citation-popover-snippet">My CollegeNeuromyths about Special Educational Needs20 Sept 2022  Neuromyths are often the result of miscommunication, and thus a greate...</span></span></span>
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_brain_based_language_3cdb71-Illustration-3-dark.svg" | relative_url }}" alt="Brain based illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_brain_based_language_3cdb71-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_brain_based_language_3cdb71-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What brain-based language can and cannot tell you
 
-Brain-based language is not automatically a warning sign. Genuine neuroscience has contributed important insights into memory, attention, development and learning. The mistake is assuming that neuroscience vocabulary itself is evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDUnderstanding the Brain: The Birth of a Learning ScienceThis book provides new insights about learning by synthesising existing and e...</span></span></span>
+Brain-based language is not automatically a warning sign. Genuine neuroscience has contributed important insights into memory, attention, development and learning. The mistake is assuming that neuroscience vocabulary itself is evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Understanding the Brain: The Birth of a Learning ScienceThis book provides new insights about learning by synthesising existing and e...</span></span></span>
 
-A phrase such as “neuroscience-informed” can legitimately describe inspiration, background theory or research influence. What it cannot do on its own is prove that a particular commercial programme produces the results it claims.
+A phrase such as neuroscience-informed can legitimately describe inspiration, background theory or research influence. What it cannot do on its own is prove that a particular commercial programme produces the results it claims.
 
-The central mechanism behind this myth is therefore simple: neuroscience terminology acts as a credibility signal. It encourages audiences to infer scientific strength before examining whether the underlying claim has been tested. The more a programme relies on brain-based branding, the more important it becomes to ask a straightforward question: what evidence shows that this specific intervention works better than the alternatives? PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.mpg.de/rest/items/item_2502604_1/component/file_2502603/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-title">Pu Re Consumers Favor Right Brain Training</span><span class="citation-popover-snippet">Favor Right Brain TrainingNovember 14, 2017 — by AK Lindell · 2013 · Cited by 61 — Researchers have however expressed concern about the m...</span><span class="citation-popover-meta">Published: November 14, 2017</span></span></span>
+The central mechanism behind this myth is therefore simple: neuroscience terminology acts as a credibility signal. It encourages audiences to infer scientific strength before examining whether the underlying claim has been tested. The more a programme relies on brain-based branding, the more important it becomes to ask a straightforward question: what evidence shows that this specific intervention works better than the alternatives? PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.mpg.de/rest/items/item_2502604_1/component/file_2502603/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-title">Pu Re Consumers Favor Right Brain Training</span><span class="citation-popover-snippet">Favor Right Brain TrainingNovember 14, 2017  by AK Lindell  2013  Cited by 61  Researchers have however expressed concern about the m...</span><span class="citation-popover-meta">Published: November 14, 2017</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -499,11 +487,11 @@ The central mechanism behind this myth is therefore simple: neuroscience termino
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-based-why-brain-words-make-myths-sound-smarter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-based-why-brain-words-make-myths-sound-smarter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy Posters â€“ Skeleton, Muscles, Organs â€“ Framed or Unframed"><img src="{{ '/assets/images/marketplace-covers/9772fd9d8d1f64190d32.jpg' | relative_url }}" alt="Listing image for Human Anatomy Posters â€“ Skeleton, Muscles, Organs â€“ Framed or Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-based-why-brain-words-make-myths-sound-smarter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-based-why-brain-words-make-myths-sound-smarter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed"><img src="{{ '/assets/images/marketplace-covers/9772fd9d8d1f64190d32.jpg' | relative_url }}" alt="Listing image for Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-based-why-brain-words-make-myths-sound-smarter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-based-why-brain-words-make-myths-sound-smarter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy Posters â€“ Skeleton, Muscles, Organs â€“ Framed or Unframed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-based-why-brain-words-make-myths-sound-smarter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-based-why-brain-words-make-myths-sound-smarter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-based-why-brain-words-make-myths-sound-smarter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-based-why-brain-words-make-myths-sound-smarter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
         <div class="fr-book-actions">
@@ -778,108 +766,108 @@ The central mechanism behind this myth is therefore simple: neuroscience termino
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Dekker · 2012 · Cited by 1291 — The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker  2012  Cited by 1291  The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html](https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDUnderstanding the Brain: The Birth of a Learning ScienceThis book provides new insights about learning by synthesising existing and e...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Brain: The Birth of a Learning ScienceThis book provides new insights about learning by synthesising existing and e...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pure.mpg.de  
    Title: Pu Re Consumers Favor Right Brain Training  
-   Link: [https://pure.mpg.de/rest/items/item_2502604_1/component/file_2502603/content](https://pure.mpg.de/rest/items/item_2502604_1/component/file_2502603/content)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Favor Right Brain TrainingNovember 14, 2017 — by AK Lindell · 2013 · Cited by 61 — Researchers have however expressed concern about the m...</p></details>
+   Link: <a href="https://pure.mpg.de/rest/items/item_2502604_1/component/file_2502603/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2502604_1/component/file_2502603/content</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Favor Right Brain TrainingNovember 14, 2017  by AK Lindell  2013  Cited by 61  Researchers have however expressed concern about the m...</p></details>
    Published: November 14, 2017  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Seductive Allure of Neuroscience Explanations  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explanations of psychological phenomena seem to generate more public interest when they contain neuroscientific information.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 270 — The findings present neuromyths...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas  2021  Cited by 270  The findings present neuromyths...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10212-020-00485-2](https://link.springer.com/article/10.1007/s10212-020-00485-2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerThe learning styles neuromyth: when the same term means...by M Papadatou-Pastou · 2021 · Cited by 138 — A study into neuromyths...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s10212-020-00485-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10212-020-00485-2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The learning styles neuromyth: when the same term means...by M Papadatou-Pastou  2021  Cited by 138  A study into neuromyths...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: oecd.org  
    Title: 9789264029132 en  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd/9789264029132-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd/9789264029132-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd/9789264029132-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd/9789264029132-en.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Brain: The Birth of a Learning ScienceThis book follows from the OECD report Understanding the Brain: Towards a New Lea...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med The seductive allure of neuroscience explanations  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/18004955/](https://pubmed.ncbi.nlm.nih.gov/18004955/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>seductive allure of neuroscience explanations - PubMedby DS Weisberg · 2008 · Cited by 1674 — Explanations of psychological phenomena see...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18004955/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18004955/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>seductive allure of neuroscience explanations - PubMedby DS Weisberg  2008  Cited by 1674  Explanations of psychological phenomena see...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: my.chartered.college  
    Title: neuromyths about special educational needs what should teachers know  
-   Link: [https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/](https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>My CollegeNeuromyths about Special Educational Needs20 Sept 2022 — Neuromyths are often the result of miscommunication, and thus a greate...</p></details>
+   Link: <a href="https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>My CollegeNeuromyths about Special Educational Needs20 Sept 2022  Neuromyths are often the result of miscommunication, and thus a greate...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: research-information.bris.ac.uk  
    Title: neuromyths in education prevalence and predictors of misconceptio  
-   Link: [https://research-information.bris.ac.uk/en/publications/neuromyths-in-education-prevalence-and-predictors-of-misconceptio/](https://research-information.bris.ac.uk/en/publications/neuromyths-in-education-prevalence-and-predictors-of-misconceptio/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of BristolNeuromyths in education: Prevalence and predictors of...by S Dekker · 2012 · Cited by 1267 — The OECD&#x27;s Brain and L...</p></details>
+   Link: <a href="https://research-information.bris.ac.uk/en/publications/neuromyths-in-education-prevalence-and-predictors-of-misconceptio/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/publications/neuromyths-in-education-prevalence-and-predictors-of-misconceptio/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of BristolNeuromyths in education: Prevalence and predictors of...by S Dekker  2012  Cited by 1267  The OECD&#x27;s Brain and L...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Common misconceptions about the brainIn the following pages, we provide access to some of these resources, themed around some of the main...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: science-teaching.org  
-   Link: [https://science-teaching.org/research/influence-of-neuromyths-in-the-educational-environment](https://science-teaching.org/research/influence-of-neuromyths-in-the-educational-environment)  
+   Link: <a href="https://science-teaching.org/research/influence-of-neuromyths-in-the-educational-environment" target="_blank" rel="noopener noreferrer nofollow">https://science-teaching.org/research/influence-of-neuromyths-in-the-educational-environment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of neuromyths in the educational environmentEducational neuromyths are simplifications, misunderstandings, or misinterpretation...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/The-Seductive-Allure-of-Neuroscience-Explanations-Weisberg-Keil/fd712f51e9d0e6779bd8d32914186271dc80efdd](https://www.semanticscholar.org/paper/The-Seductive-Allure-of-Neuroscience-Explanations-Weisberg-Keil/fd712f51e9d0e6779bd8d32914186271dc80efdd)  
+   Link: <a href="https://www.semanticscholar.org/paper/The-Seductive-Allure-of-Neuroscience-Explanations-Weisberg-Keil/fd712f51e9d0e6779bd8d32914186271dc80efdd" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-Seductive-Allure-of-Neuroscience-Explanations-Weisberg-Keil/fd712f51e9d0e6779bd8d32914186271dc80efdd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Seductive Allure of Neuroscience ExplanationsThe neuroscience information had a particularly striking effect on nonexperts&#x27; judgments...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/sharingbestpractice/posts/2477883202545176/](https://www.facebook.com/groups/sharingbestpractice/posts/2477883202545176/)  
+   Link: <a href="https://www.facebook.com/groups/sharingbestpractice/posts/2477883202545176/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/sharingbestpractice/posts/2477883202545176/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Seductive Allure of Neuroscience in EducationThe explanations with brain images were seen as significantly more credible, even when t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: dana.org  
-   Link: [https://dana.org/article/when-the-myth-is-the-message-neuromyths-and-education/](https://dana.org/article/when-the-myth-is-the-message-neuromyths-and-education/)  
+   Link: <a href="https://dana.org/article/when-the-myth-is-the-message-neuromyths-and-education/" target="_blank" rel="noopener noreferrer nofollow">https://dana.org/article/when-the-myth-is-the-message-neuromyths-and-education/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Myth is the Message: Neuromyths and EducationThe researchers had hypothesized that having some background in education or neuros...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/5841960_The_Seductive_Allure_of_Neuroscience_Explanations](https://www.researchgate.net/publication/5841960_The_Seductive_Allure_of_Neuroscience_Explanations)  
+   Link: <a href="https://www.researchgate.net/publication/5841960_The_Seductive_Allure_of_Neuroscience_Explanations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5841960_The_Seductive_Allure_of_Neuroscience_Explanations</a>  
 
 17. <a id="endnote-17"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/](https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeTeachers&#x27; understanding of neuromyths: A role for...Sep 20, 2022 — The current study aimed to understand the degree to...</p></details>
+   Link: <a href="https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeTeachers&#x27; understanding of neuromyths: A role for...Sep 20, 2022  The current study aimed to understand the degree to...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ldaustralia.org  
-   Link: [https://ldaustralia.org/research-papers/neuromyths-in-education-prevalence-and-predictors-of-misconceptions-among-teachers/](https://ldaustralia.org/research-papers/neuromyths-in-education-prevalence-and-predictors-of-misconceptions-among-teachers/)  
+   Link: <a href="https://ldaustralia.org/research-papers/neuromyths-in-education-prevalence-and-predictors-of-misconceptions-among-teachers/" target="_blank" rel="noopener noreferrer nofollow">https://ldaustralia.org/research-papers/neuromyths-in-education-prevalence-and-predictors-of-misconceptions-among-teachers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuromyths in education: Prevalence and predictors of...The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: bps.org.uk  
-   Link: [https://www.bps.org.uk/research-digest/public-find-articles-about-education-more-convincing-when-they-contain-extraneous](https://www.bps.org.uk/research-digest/public-find-articles-about-education-more-convincing-when-they-contain-extraneous)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The public find articles about education more convincing...17 Apr 2018 — The participants found the articles more credible when they con...</p></details>
+   Link: <a href="https://www.bps.org.uk/research-digest/public-find-articles-about-education-more-convincing-when-they-contain-extraneous" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/research-digest/public-find-articles-about-education-more-convincing-when-they-contain-extraneous</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The public find articles about education more convincing...17 Apr 2018  The participants found the articles more credible when they con...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/479694143/Weisberg-et-al-2008](https://www.scribd.com/document/479694143/Weisberg-et-al-2008)  
+   Link: <a href="https://www.scribd.com/document/479694143/Weisberg-et-al-2008" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/479694143/Weisberg-et-al-2008</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deena Skolnick Weisberg, Frank C. Keil, Joshua Goodstein. Elizabeth Rawson, and Jeremy R. Gray. Abstract &amp;...Read more...</p></details>

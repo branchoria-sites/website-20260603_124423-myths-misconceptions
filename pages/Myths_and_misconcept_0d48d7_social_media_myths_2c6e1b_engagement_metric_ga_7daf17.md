@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449
 - Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - algorithms
 - metric-gap
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - algorithms
 - metric-gap
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Clicks, likes and watch time can reward content people later judge to be unhealthy, misleading or simply not worth seeing.
 hero_summary: Clicks, likes and watch time can reward content people later judge to be unhealthy, misleading or simply not worth seeing.
 layout: default
 permalink: /metric-gap/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /algorithms/
 nav_short_title: Metric Gap
 title: Do Clicks Show What People Want?
-title_full: Do Clicks Show What People Want? | Algorithms
+title_full: Do Clicks Show What People Want?
 display_title_short: Metric Gap
 display_title: Metric Gap
 heading_title: Do Clicks Show What People Want?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Platforms Help Myths Travel Faster | Mythcraft
+parent_title: How Platforms Help Myths Travel Faster
 parent_permalink: /algorithms/
 parent_nav_short_title: Algorithms
 parent_heading_title: How Platforms Help Myths Travel Faster
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Small Rumours Become Mass Myths
 up_link:
   basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
@@ -265,7 +265,7 @@ next_link:
   permalink: /outrage-boost/
   short_title: Outrage Boost
   heading_title: Can Angry Replies Help Myths Spread?
-date: '2026-06-09 04:33:48 '
+date: '2026-06-11 22:06:27 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_enga
 
 ## Introduction
 
-The assumption behind many social media ranking systems is simple: if people click, watch, like, comment or share something, they must want more of it. Yet a growing body of research suggests that engagement and satisfaction are not the same thing. People often interact with content because it is surprising, infuriating, emotionally charged or difficult to ignore, even when they later judge it to be misleading, unhealthy or a poor use of their time. This gap matters for [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) because engagement-based systems can end up rewarding the very content that users say they wish they saw less of. The result is a ranking problem: [platforms]({{ 'platforms/' | relative_url }}) can become highly effective at predicting behaviour while remaining surprisingly poor at predicting what users ultimately value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">user engagement such as clicks, shares, and likes.Read more</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 244 — Social media ranking algorithms...</span></span></span>
-
+The assumption behind many social media ranking systems is simple: if people click, watch, like, comment or share something, they must want more of it. Yet a growing body of research suggests that engagement and satisfaction are not the same thing. People often interact with content because it is surprising, infuriating, emotionally charged or difficult to ignore, even when they later judge it to be misleading, unhealthy or a poor use of their time. This gap matters for myths and misconceptions because engagement-based systems can end up rewarding the very content that users say they wish they saw less of. The result is a ranking problem: [platforms]({{ 'platforms/' | relative_url }}) can become highly effective at predicting behaviour while remaining surprisingly poor at predicting what users ultimately value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">user engagement such as clicks, shares, and likes.Read more</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 244 — Social media ranking algorithms...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-1-dark.svg" | relative_url }}" alt="Metric Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Do Clicks Show What People Want?
@@ -291,7 +290,6 @@ A particularly relevant study examined the relationship between engagement-based
 More recent research on young adults' news-consumption habits found a similar pattern. Participants frequently engaged with low-quality content despite reporting a preference for accurate, diverse and higher-quality information. When asked to design an ideal news feed, they created feeds that differed noticeably from the feeds implied by their engagement histories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For discussions of myths and misconceptions, this distinction is important. A person's behaviour may indicate interest in a rumour, conspiracy claim or inflammatory story, but that does not necessarily mean they believe it, endorse it or wish it occupied more space in their feed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uaaC57tcci0" title="The Social Dilemma | Official Trailer | Netflix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uaaC57tcci0" target="_blank" rel="noopener noreferrer">The Social Dilemma | Official Trailer | Netflix</a></p><p class="youtube-embed-meta">Channel: Netflix &middot; Views: 13.1M &middot; Uploaded: August 2020 &middot; Length: 2 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uaaC57tcci0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uaaC57tcci0">Open on YouTube</a></p></div></div></div>
 
@@ -315,7 +313,6 @@ This helps explain why myths can thrive in engagement-driven environments. False
 
 Each of these behaviours increases measurable engagement, even if users later conclude that the content was misleading or not worth their attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano · Cited by 16 — This paper investigates the dynamic feedb...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-2-dark.svg" | relative_url }}" alt="Metric Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What One Dataset Revealed About the Metric Gap
 
@@ -327,15 +324,11 @@ This finding matters because it challenges a common defence of engagement metric
 
 The result also provides a plausible mechanism for myth [amplification]({{ 'amplification/' | relative_url }}). Content that provokes emotional reactions can accumulate engagement signals faster than careful explanations or [corrections]({{ 'corrections/' | relative_url }}). If ranking systems treat those signals as evidence of value, myths may receive greater visibility even when users themselves would prefer a healthier information environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rsXSBp2brm8" title="Who is Tony Stark? | Why Shane Black&#x27;s Iron Man 3 is an Underrated Masterpiece" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rsXSBp2brm8" target="_blank" rel="noopener noreferrer">Who is Tony Stark? | Why Shane Black&#x27;s Iron Man 3 is an Underrated Masterpiece</a></p><p class="youtube-embed-meta">Channel: TheFilmProtagonist</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rsXSBp2brm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rsXSBp2brm8">Open on YouTube</a></p></div></div></div>
-
 ## What Healthier Ranking Objectives Might Measure
 
 Recognising the limitations of clicks and watch time does not automatically reveal a better metric. Researchers have therefore explored alternatives that attempt to capture user welfare more directly.
 
 Several possibilities have emerged:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -349,17 +342,12 @@ Several possibilities have emerged:
 
 The Twitter audit tested one version of this idea by ranking content using users' stated preferences rather than engagement alone. The alternative approach reduced angry, partisan and hostile content, though it introduced new trade-offs, including a tendency to reinforce some existing attitudes. The lesson was not that a perfect metric exists, but that engagement is only one possible objective among many. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-3-dark.svg" | relative_url }}" alt="Metric Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Metric Gap Matters for Myths and Misconceptions
 
 A common misconception about social media algorithms is that they simply give people what they want. The evidence suggests a more complicated reality. Engagement metrics are powerful tools for predicting behaviour, but behaviour is not always a reliable guide to what users regard as valuable, accurate or beneficial.
 
 When platforms rely heavily on clicks, likes, comments and watch time, they risk confusing attention with satisfaction. In environments where myths compete with corrections, that confusion can become consequential. Content that is emotionally irresistible may outperform content that is genuinely useful, not because users consciously prefer it, but because engagement metrics capture immediate reactions more easily than considered judgment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">user engagement such as clicks, shares, and likes.Read more</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 244 — Social media ranking algorithms...</span></span></span> 2arXiv
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u62afqJ7PEk" title="Gabor Mate: Your Partner Choice Reveals Everything! The Hidden Cost of Ignoring Trauma" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u62afqJ7PEk" target="_blank" rel="noopener noreferrer">Gabor Mate: Your Partner Choice Reveals Everything! The Hidden Cost of Ignoring Trauma</a></p><p class="youtube-embed-meta">Channel: We Need To Talk</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u62afqJ7PEk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u62afqJ7PEk">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -758,88 +746,88 @@ When platforms rely heavily on clicks, likes, comments and watch time, they risk
 1. <a id="endnote-1"></a>
    Source: academic.oup.com  
    Title: user engagement such as clicks, shares, and likes.Read more  
-   Link: [https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060](https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060)  
+   Link: <a href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 244 — Social media ranking algorithms...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2202.11776](https://arxiv.org/abs/2202.11776)  
+   Link: <a href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2202.11776</a>  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.16941](https://arxiv.org/abs/2305.16941)  
+   Link: <a href="https://arxiv.org/abs/2305.16941" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.16941</a>  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2604.11517](https://arxiv.org/abs/2604.11517)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivUnderstanding the Gap Between Stated and Revealed Preferences in News Curation: A Study of Young Adult Social Media UsersApril 13, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2604.11517" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.11517</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Gap Between Stated and Revealed Preferences in News Curation: A Study of Young Adult Social Media UsersApril 13, 2026...</p></details>
    Published: April 13, 2026  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2604.11517v1](https://arxiv.org/html/2604.11517v1)  
+   Link: <a href="https://arxiv.org/html/2604.11517v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.11517v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Study of Young Adult Social Media Users13 Apr 2026 — The gap between stated and revealed preferences was measured by identifying cases...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ifo.de  
-   Link: [https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation](https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation)  
+   Link: <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano · Cited by 16 — This paper investigates the dynamic feedb...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: statista.com  
    Title: Social media  
-   Link: [https://www.statista.com/topics/1164/social-networks/?srsltid=AfmBOooSZhxkomCZn4fiPBsu0acLBI6RhMWf0DxMg2uGdqt1uBpD0mSi](https://www.statista.com/topics/1164/social-networks/?srsltid=AfmBOooSZhxkomCZn4fiPBsu0acLBI6RhMWf0DxMg2uGdqt1uBpD0mSi)  
+   Link: <a href="https://www.statista.com/topics/1164/social-networks/?srsltid=AfmBOooSZhxkomCZn4fiPBsu0acLBI6RhMWf0DxMg2uGdqt1uBpD0mSi" target="_blank" rel="noopener noreferrer nofollow">https://www.statista.com/topics/1164/social-networks/?srsltid=AfmBOooSZhxkomCZn4fiPBsu0acLBI6RhMWf0DxMg2uGdqt1uBpD0mSi</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>statistics &amp; factsAs of early 2024, Facebook reported a year-on-year audience growth of 3.1 percent, demonstrating that the social media...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/crafting-meaningful-social-interaction-metric-facebook-growjunction-slndc](https://www.linkedin.com/pulse/crafting-meaningful-social-interaction-metric-facebook-growjunction-slndc)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInCrafting a Meaningful Social Interaction Metric for FacebookCrafting a meaningful social interaction metric for Facebook involves...</p></details>
+   Link: <a href="https://www.linkedin.com/pulse/crafting-meaningful-social-interaction-metric-facebook-growjunction-slndc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/crafting-meaningful-social-interaction-metric-facebook-growjunction-slndc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crafting a Meaningful Social Interaction Metric for FacebookCrafting a meaningful social interaction metric for Facebook involves...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316506](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316506)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316506" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316506</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Engagement: How Social Media Algorithms...by F Germano · Cited by 16 — This paper investigates the dynamic feedback loop between rec...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/NextUpAsia/posts/10160654553136657/](https://www.facebook.com/groups/NextUpAsia/posts/10160654553136657/)  
+   Link: <a href="https://www.facebook.com/groups/NextUpAsia/posts/10160654553136657/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/NextUpAsia/posts/10160654553136657/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Social Media Content Gets Low Views and LikesOne major cause of low views is lack of engagement. Facebook&#x27;s algorithm rewards posts t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: journalistsresource.org  
-   Link: [https://journalistsresource.org/media/facebook-engagement-patterns/](https://journalistsresource.org/media/facebook-engagement-patterns/)  
+   Link: <a href="https://journalistsresource.org/media/facebook-engagement-patterns/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/media/facebook-engagement-patterns/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why most Facebook users get more than they giveThe average users in the sample “like” their friends&#x27; Facebook posts 14 times a month, but...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1163865390677752/posts/2555700461494231/](https://www.facebook.com/groups/1163865390677752/posts/2555700461494231/)  
+   Link: <a href="https://www.facebook.com/groups/1163865390677752/posts/2555700461494231/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1163865390677752/posts/2555700461494231/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why people prefer short facebook postsMost people who come on Facebook do not want to read long posts, and scroll past, once they realize...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: starsmedia.com  
-   Link: [https://www.starsmedia.com/wp-content/uploads/2022/09/Customer_Engagement_Social_Media_Framework_Meta_Analysis_AAM.pdf](https://www.starsmedia.com/wp-content/uploads/2022/09/Customer_Engagement_Social_Media_Framework_Meta_Analysis_AAM.pdf)  
+   Link: <a href="https://www.starsmedia.com/wp-content/uploads/2022/09/Customer_Engagement_Social_Media_Framework_Meta_Analysis_AAM.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.starsmedia.com/wp-content/uploads/2022/09/Customer_Engagement_Social_Media_Framework_Meta_Analysis_AAM.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ent in social media (CESM) using a meta-analytic model of 814 effect sizes across 97 studies involving 161,059...Read...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/365032175_View_Like_Comment_Post_Analyzing_User_Engagement_by_Topic_at_4_Levels_across_5_Social_Media_Platforms_for_53_News_Organizations](https://www.researchgate.net/publication/365032175_View_Like_Comment_Post_Analyzing_User_Engagement_by_Topic_at_4_Levels_across_5_Social_Media_Platforms_for_53_News_Organizations)  
+   Link: <a href="https://www.researchgate.net/publication/365032175_View_Like_Comment_Post_Analyzing_User_Engagement_by_Topic_at_4_Levels_across_5_Social_Media_Platforms_for_53_News_Organizations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365032175_View_Like_Comment_Post_Analyzing_User_Engagement_by_Topic_at_4_Levels_across_5_Social_Media_Platforms_for_53_News_Organizations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s five social media platforms (i.e., Facebook, Instagram, Twitter, YouTube...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: Users must genuinely like or want to share and discuss content.Read more  
-   Link: [https://www.facebook.com/groups/3868728716717515/posts/4456305231293191/](https://www.facebook.com/groups/3868728716717515/posts/4456305231293191/)  
+   Link: <a href="https://www.facebook.com/groups/3868728716717515/posts/4456305231293191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3868728716717515/posts/4456305231293191/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook&#x27;s interaction metrics change, focus on valuable...Facebook prioritizes meaningful social interactions over content consumption...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FacebookforCreators/posts/now-that-we-have-your-attention-lets-dig-into-the-real-meaning-behind-these-metr/1414027426754349/](https://www.facebook.com/FacebookforCreators/posts/now-that-we-have-your-attention-lets-dig-into-the-real-meaning-behind-these-metr/1414027426754349/)  
+   Link: <a href="https://www.facebook.com/FacebookforCreators/posts/now-that-we-have-your-attention-lets-dig-into-the-real-meaning-behind-these-metr/1414027426754349/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FacebookforCreators/posts/now-that-we-have-your-attention-lets-dig-into-the-real-meaning-behind-these-metr/1414027426754349/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>orithm loves you, boosting your reach organically. Likes: 3,857...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: knightcolumbia.org  
-   Link: [https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media](https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media)  
+   Link: <a href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Knight First Amendment InstituteEngagement, User Satisfaction, and the Amplification of...by S Milli · Cited by 3 — Social media ranking...</p></details>

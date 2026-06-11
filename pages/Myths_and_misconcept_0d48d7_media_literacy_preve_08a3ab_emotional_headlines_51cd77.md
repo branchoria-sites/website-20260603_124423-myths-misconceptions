@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_prebunking_tactics_930652
 - Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_sift_claim_checking_3d2e80
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - media-literacy
 - emotional-hooks
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - media-literacy
 - emotional-hooks
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Strong emotion is not proof of falsehood, but outrage, fear, and simple villains are signals to slow down before believing or sharing.
 hero_summary: Strong emotion is not proof of falsehood, but outrage, fear, and simple villains are signals to slow down before believing or sharing.
 layout: default
 permalink: /emotional-headlines/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /media-literacy/
 nav_short_title: Emotional Headlines
 title: When outrage should make you pause
-title_full: When outrage should make you pause | Media Literacy
+title_full: When outrage should make you pause
 display_title_short: Emotional Headlines
 display_title: Emotional Headlines
 heading_title: When outrage should make you pause
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Media Literacy Prevents Myths | Mythcraft
+parent_title: How Media Literacy Prevents Myths
 parent_permalink: /media-literacy/
 parent_nav_short_title: Media Literacy
 parent_heading_title: How Media Literacy Prevents Myths
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: A simple checklist for suspicious claims
 up_link:
   basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
@@ -259,7 +259,7 @@ next_link:
   permalink: /lateral-reading/
   short_title: Lateral reading
   heading_title: Why leaving the page can reveal more
-date: '2026-06-09 04:50:52 '
+date: '2026-06-11 22:14:48 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_emotional_headlines_51cd77-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_emotional_headlines_51cd77-Illustration-1.webp
@@ -270,15 +270,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_em
 
 Emotional [headlines]({{ 'headlines/' | relative_url }}) are not reliable indicators of truth. A headline that makes people angry, frightened, shocked, or morally outraged can be completely accurate, partly misleading, or entirely false. The key media-literacy lesson is not that [emotion]({{ 'emotion/' | relative_url }}) means a claim is wrong, but that strong emotion is a signal to slow down before accepting or sharing it.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_emotional_headlines_51cd77-Illustration-1-dark.svg" | relative_url }}" alt="Emotional Headlines illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_emotional_headlines_51cd77-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_emotional_headlines_51cd77-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) spread through emotional reactions rather than careful evaluation. Research consistently finds that emotionally charged misinformation attracts attention, encourages sharing, and can bypass the normal habits people use to check evidence. When a headline makes you feel something immediately, that feeling is often the moment when critical thinking is most needed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceMisinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 106 — We tested a hypothesis that misinformatio...</span></span></span>
+This matters because many myths and misconceptions spread through emotional reactions rather than careful evaluation. Research consistently finds that emotionally charged misinformation attracts attention, encourages sharing, and can bypass the normal habits people use to check evidence. When a headline makes you feel something immediately, that feeling is often the moment when critical thinking is most needed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 106 — We tested a hypothesis that misinformatio...</span></span></span>
 
 ## When outrage should make you pause
 
 The most successful misleading headlines often deliver an emotional reward before they deliver evidence. They provide a villain to blame, a threat to fear, or a reason to feel morally certain. That emotional impact can create momentum that carries a claim through social networks long before anyone investigates whether it is true.
 
-Researchers studying misinformation have found that outrage plays a particularly important role. A 2024 study published in *Science* concluded that misinformation often exploits moral outrage and that outrage helps drive online sharing. The effect appeared across different [platforms]({{ 'platforms/' | relative_url }}) and datasets, suggesting that emotional activation is not a minor feature of misinformation but one of its most powerful distribution mechanisms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceMisinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 106 — We tested a hypothesis that misinformatio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://techpolicy.press/researchers-consider-the-relationship-between-misinformation-outrage-and-the-sharing-of-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Tech Policy Press">[Tech Policy Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Tech Policy Press</span><span class="citation-popover-snippet">Researchers Consider the Relationship Between...Dec 4, 2024 — Interestingly, misinformation triggered anger more than any other emotion...</span></span></span>
+Researchers studying misinformation have found that outrage plays a particularly important role. A 2024 study published in *Science* concluded that misinformation often exploits moral outrage and that outrage helps drive online sharing. The effect appeared across different [platforms]({{ 'platforms/' | relative_url }}) and datasets, suggesting that emotional activation is not a minor feature of misinformation but one of its most powerful distribution mechanisms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 106 — We tested a hypothesis that misinformatio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://techpolicy.press/researchers-consider-the-relationship-between-misinformation-outrage-and-the-sharing-of-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Tech Policy Press">[Tech Policy Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Tech Policy Press</span><span class="citation-popover-snippet">Researchers Consider the Relationship Between...Dec 4, 2024 — Interestingly, misinformation triggered anger more than any other emotion...</span></span></span>
 
 Importantly, this does not mean accurate reporting should never provoke strong feelings. Real scandals, disasters, crimes, and injustices are often upsetting. The warning sign is not the presence of emotion alone but the combination of intense emotion with weak evidence, simplistic explanations, or pressure to react immediately.
 
@@ -289,12 +288,11 @@ Emotional headlines often spread faster because they encourage rapid responses r
 Several psychological processes contribute to this effect:
 
 * **Attention capture:** Humans naturally notice threats, [conflict]({{ 'conflict/' | relative_url }}), and surprise more readily than routine information.
-* **Social signalling:** Sharing emotional content can express identity, loyalty, outrage, or group membership.
+* **Social signalling:** Sharing emotional content can express [identity]({{ 'identity/' | relative_url }}), loyalty, outrage, or group membership.
 * **Reduced scrutiny:** Strong emotional reactions can shift attention away from source quality and toward the feeling the content creates.
-* **Immediate action impulses:** Anger and fear frequently encourage quick reactions, including reposting and commenting. American Psychological Association <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">on emotion promotes belief in fake newsby C Martel · 2020 · Cited by 775 — Such findings suggest that relying on existing feelings may co...</span></span></span> Research examining belief in false information has found that people who rely more heavily on emotional responses tend to be more susceptible to fake news. The effect is not simply a matter of intelligence or education; it relates to whether people evaluate claims through evidence or through how the claims make them feel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReliance on emotion promotes belief in fake news</span><span class="citation-popover-snippet">PMC - NIHby C Martel · 2020 · Cited by 760 — More specifically within the domain of political fake news, anger has been suggested to prom...</span></span></span>
+* **Immediate action impulses:** Anger and fear frequently encourage quick reactions, including reposting and commenting. American Psychological Association <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">on emotion promotes belief in fake newsby C Martel · 2020 · Cited by 775 — Such findings suggest that relying on existing feelings may co...</span></span></span> Research examining belief in false information has found that people who rely more heavily on emotional responses tend to be more susceptible to fake news. The effect is not simply a matter of intelligence or education; it relates to whether people evaluate claims through evidence or through how the claims make them feel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReliance on emotion promotes belief in fake news</span><span class="citation-popover-snippet">NIHby C Martel · 2020 · Cited by 760 — More specifically within the domain of political fake news, anger has been suggested to prom...</span></span></span>
 
 Studies of health misinformation have reached similar conclusions. Anger-based messaging can increase recall of misleading claims, making them more memorable and therefore more likely to influence later judgments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/15213269.2023.2269084" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineHow Anger Appeals Facilitate Health Misinformation Recall...by J Lee · 2024 · Cited by 10 — The studies test mech...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nVavOHdwRPg" title="Social Media: Dynamics around Misinformation Spreading &amp; Emergent communication patterns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nVavOHdwRPg" target="_blank" rel="noopener noreferrer">Social Media: Dynamics around Misinformation Spreading &amp; Emergent communication patterns</a></p><p class="youtube-embed-meta">Channel: Uni Wien live &middot; Views: 288 &middot; Uploaded: November 2024 &middot; Length: 1 hour 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nVavOHdwRPg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nVavOHdwRPg">Open on YouTube</a></p></div></div></div>
 
@@ -308,7 +306,6 @@ Some headlines identify a single person, group, or institution as the obvious ca
 
 Examples include claims structured around:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “They are hiding the truth.”
@@ -319,14 +316,12 @@ Examples include claims structured around:
 
 Such framing encourages anger before evidence has been examined.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_emotional_headlines_51cd77-Illustration-2-dark.svg" | relative_url }}" alt="Emotional Headlines illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_emotional_headlines_51cd77-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_emotional_headlines_51cd77-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The emergency warning
 
 Fear is one of the strongest motivators of attention and sharing. Headlines that predict imminent catastrophe can spread rapidly because people feel a responsibility to warn others.
 
 Warning signs include:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -344,18 +339,13 @@ Many myths are packaged as revelations.
 
 Phrases such as “what they don't want you to know”, “the truth exposed”, or “finally revealed” encourage readers to feel they have gained access to forbidden knowledge. This can create a sense of excitement and certainty before verification occurs.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0LCzu8pEN4M" title="How to spot misinformation online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0LCzu8pEN4M" target="_blank" rel="noopener noreferrer">How to spot misinformation online</a></p><p class="youtube-embed-meta">Channel: CNN Business &middot; Views: 9.8K &middot; Uploaded: October 2020 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0LCzu8pEN4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0LCzu8pEN4M">Open on YouTube</a></p></div></div></div>
-
 ### The outrage shortcut
 
 Some headlines are designed primarily to provoke moral anger.
 
-Research shows misinformation often generates stronger outrage responses than trustworthy information, and those responses can increase sharing even when accuracy is not the reason people are sharing the content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceMisinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 106 — We tested a hypothesis that misinformatio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/12aa378f-9c39-422b-802a-5b182c99a2bc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">While traditional citations reflect academic influence, altmetrics aim to capture external engagement, such as mentions on social media...</span></span></span>
+Research shows misinformation often generates stronger outrage responses than trustworthy information, and those responses can increase sharing even when accuracy is not the reason people are sharing the content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 106 — We tested a hypothesis that misinformatio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/12aa378f-9c39-422b-802a-5b182c99a2bc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">While traditional citations reflect academic influence, altmetrics aim to capture external engagement, such as mentions on social media...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cSKGa_7XJkg" title="How false news can spread - Noah Tavlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer">How false news can spread - Noah Tavlin</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cSKGa_7XJkg">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_emotional_headlines_51cd77-Illustration-3-dark.svg" | relative_url }}" alt="Emotional Headlines illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_emotional_headlines_51cd77-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_emotional_headlines_51cd77-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Questions that separate evidence from reaction
 
 [Media literacy]({{ 'media-literacy/' | relative_url }}) works best when emotional reactions become cues for investigation rather than cues for sharing.
@@ -380,15 +370,15 @@ This question is particularly useful when anger, fear, disgust, or excitement ap
 
 These habits align with media-literacy frameworks such as SIFT, whose first step is simply to stop before reacting. That pause creates space for verification before sharing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.uchicago.edu">[guides.lib.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.uchicago.edu</span><span class="citation-popover-title">The SIFT Method</span><span class="citation-popover-snippet">Evaluating Resources and Misinformation30 Jun 2025 — Evaluating Resources and Misinformation · The SIFT Method · S - Stop · I - Investiga...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0LCzu8pEN4M" title="How to spot misinformation online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0LCzu8pEN4M" target="_blank" rel="noopener noreferrer">How to spot misinformation online</a></p><p class="youtube-embed-meta">Channel: CNN Business &middot; Views: 9.8K &middot; Uploaded: October 2020 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0LCzu8pEN4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0LCzu8pEN4M">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_emotional_headlines_51cd77-Illustration-3-dark.svg" | relative_url }}" alt="Emotional Headlines illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_emotional_headlines_51cd77-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_emotional_headlines_51cd77-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why emotional awareness helps prevent myths
 
-Media literacy is often described as a defence against misinformation because it helps people recognise manipulation techniques before they become persuaded by them. UNESCO identifies critical engagement with information as a core skill for navigating modern information environments and resisting disinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/media-information-literacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">UNESCOMedia and Information LiteracyDiscover how UNESCO supports MIL for all to engage critically with information, navigate the digital...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Open source on unesco.org.</span></span></span>
+Media literacy is often described as a defence against misinformation because it helps people recognise manipulation techniques before they become persuaded by them. UNESCO identifies critical engagement with information as a core skill for navigating modern information environments and resisting disinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/media-information-literacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Media and Information LiteracyDiscover how UNESCO supports MIL for all to engage critically with information, navigate the digital...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Open source on unesco.org.</span></span></span>
 
 Emotional awareness is one practical part of that defence. People do not need to suppress their reactions or become emotionally detached readers. Instead, they can treat strong emotional responses as prompts for closer inspection.
 
-A useful rule is simple: the stronger the emotional pull of a headline, the more valuable a brief pause becomes. Outrage, fear, and shock are not proof that a claim is false. They are reminders that feelings arrive faster than verification—and that myths often rely on that difference. American Psychological Association <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceMisinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 106 — We tested a hypothesis that misinformatio...</span></span></span>
+A useful rule is simple: the stronger the emotional pull of a headline, the more valuable a brief pause becomes. Outrage, fear, and shock are not proof that a claim is false. They are reminders that feelings arrive faster than verification—and that myths often rely on that difference. American Psychological Association <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 106 — We tested a hypothesis that misinformatio...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -786,198 +776,198 @@ A useful rule is simple: the stronger the emotional pull of a headline, the more
 
 1. <a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-020-00252-3](https://link.springer.com/article/10.1186/s41235-020-00252-3)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00252-3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>on emotion promotes belief in fake newsby C Martel · 2020 · Cited by 775 — Such findings suggest that relying on existing feelings may co...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCReliance on emotion promotes belief in [fake news](&#123;&#123; 'fake-news/' | relative_url &#125;&#125;)  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby C Martel · 2020 · Cited by 760 — More specifically within the domain of political fake news, anger has been suggested to prom...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby C Martel · 2020 · Cited by 760 — More specifically within the domain of political fake news, anger has been suggested to prom...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: guides.lib.uchicago.edu  
    Title: The SIFT Method  
-   Link: [https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322](https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322)  
+   Link: <a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Resources and Misinformation30 Jun 2025 — Evaluating Resources and Misinformation · The SIFT Method · S - Stop · I - Investiga...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/media-information-literacy](https://www.unesco.org/en/media-information-literacy)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCOMedia and Information LiteracyDiscover how UNESCO supports MIL for all to engage critically with information, navigate the digital...</p></details>
+   Link: <a href="https://www.unesco.org/en/media-information-literacy" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/media-information-literacy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Media and Information LiteracyDiscover how UNESCO supports MIL for all to engage critically with information, navigate the digital...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation](https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation)  
+   Link: <a href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation</a>  
 
 6. <a id="endnote-6"></a>
    Source: unesco.org  
    Title: media and information literacy and digital competencies  
-   Link: [https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies](https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies)  
+   Link: <a href="https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 12, 2025 — Media and Information Literacy (MIL) initiatives promote critical thinking and ethical AI use, combating misinformation an...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: community.unesco.org  
-   Link: [https://community.unesco.org/milAlliance/s/feed/0D5Sm000010CYK0KAO](https://community.unesco.org/milAlliance/s/feed/0D5Sm000010CYK0KAO)  
+   Link: <a href="https://community.unesco.org/milAlliance/s/feed/0D5Sm000010CYK0KAO" target="_blank" rel="noopener noreferrer nofollow">https://community.unesco.org/milAlliance/s/feed/0D5Sm000010CYK0KAO</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Detail24 Oct 2025 — UNESCO Global Media and Information Literacy... misinformation, analyze claims, and build their own automated fact-c...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil](https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil)  
+   Link: <a href="https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing misinformation by promoting information integrity.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/new-unesco-issue-brief-reveals-global-gaps-media-and-information-literacy-policies-and-education](https://www.unesco.org/en/articles/new-unesco-issue-brief-reveals-global-gaps-media-and-information-literacy-policies-and-education)  
+   Link: <a href="https://www.unesco.org/en/articles/new-unesco-issue-brief-reveals-global-gaps-media-and-information-literacy-policies-and-education" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/new-unesco-issue-brief-reveals-global-gaps-media-and-information-literacy-policies-and-education</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New UNESCO Issue Brief Reveals Global Gaps in Media...Oct 27, 2025 — This global analysis underscores a clear message: recognition of Me...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: unesco.org  
    Title: media and information literacy critical thinking  
-   Link: [https://www.unesco.org/en/articles/media-and-information-literacy-critical-thinking](https://www.unesco.org/en/articles/media-and-information-literacy-critical-thinking)  
+   Link: <a href="https://www.unesco.org/en/articles/media-and-information-literacy-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-critical-thinking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Media and Information Literacy for Critical ThinkingApr 20, 2023 — This has created a serious gap in critical thinking; webbed with the c...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/mil4teachers/en/module4](https://www.unesco.org/mil4teachers/en/module4)  
+   Link: <a href="https://www.unesco.org/mil4teachers/en/module4" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Module 4: Media and Information Literacy Competencies to...UNESCO discourages the term fake news, on the basis that if the content is fa...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/mil4teachers/en/module4/unit5](https://www.unesco.org/mil4teachers/en/module4/unit5)  
+   Link: <a href="https://www.unesco.org/mil4teachers/en/module4/unit5" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 5: Media and Information Literacy and Misinformation11 Apr 2024 — After completing this unit, educators will be able to: Illustrate...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/media-information-literacy-avenue-youth-combat-hate-speech-misinformation-disinformation](https://www.unesco.org/en/articles/media-information-literacy-avenue-youth-combat-hate-speech-misinformation-disinformation)  
+   Link: <a href="https://www.unesco.org/en/articles/media-information-literacy-avenue-youth-combat-hate-speech-misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-information-literacy-avenue-youth-combat-hate-speech-misinformation-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Media &amp; Information Literacy: An Avenue for Youth to...29 Nov 2023 — UNESCO Dakar supported Gambia&#x27;s National Youth Council&#x27;s parallel s...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/mil4teachers/en/module4/unit3](https://www.unesco.org/mil4teachers/en/module4/unit3)  
+   Link: <a href="https://www.unesco.org/mil4teachers/en/module4/unit3" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 3: Media and Misinformation11 Apr 2024 — Module 4: Media and Information Literacy Competencies to Tackle Misinformation, Disinformat...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: unesco.at  
    Title: MIL Curriculum Modul 4  
-   Link: [https://www.unesco.at/fileadmin/user_upload/MIL_Curriculum_Modul_4.pdf](https://www.unesco.at/fileadmin/user_upload/MIL_Curriculum_Modul_4.pdf)  
+   Link: <a href="https://www.unesco.at/fileadmin/user_upload/MIL_Curriculum_Modul_4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.at/fileadmin/user_upload/MIL_Curriculum_Modul_4.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>think CritiCaLLy, CLiCk WiseLy!8 Nov 2023 — (Second Edition of the UNESCO Model Media and Information Literacy Curriculum for... • Innov...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.adl2829](https://www.science.org/doi/10.1126/science.adl2829)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceMisinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 106 — We tested a hypothesis that misinformatio...</p></details>
+   Link: <a href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adl2829</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread onlineby KL McLoughlin · 2024 · Cited by 106 — We tested a hypothesis that misinformatio...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Tech Policy Press  
-   Link: [https://techpolicy.press/researchers-consider-the-relationship-between-misinformation-outrage-and-the-sharing-of-content-on-social-media](https://techpolicy.press/researchers-consider-the-relationship-between-misinformation-outrage-and-the-sharing-of-content-on-social-media)  
+   Link: <a href="https://techpolicy.press/researchers-consider-the-relationship-between-misinformation-outrage-and-the-sharing-of-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://techpolicy.press/researchers-consider-the-relationship-between-misinformation-outrage-and-the-sharing-of-content-on-social-media</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers Consider the Relationship Between...Dec 4, 2024 — Interestingly, misinformation triggered anger more than any other emotion...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ft.com  
-   Link: [https://www.ft.com/content/12aa378f-9c39-422b-802a-5b182c99a2bc](https://www.ft.com/content/12aa378f-9c39-422b-802a-5b182c99a2bc)  
+   Link: <a href="https://www.ft.com/content/12aa378f-9c39-422b-802a-5b182c99a2bc" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/12aa378f-9c39-422b-802a-5b182c99a2bc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>While traditional citations reflect academic influence, altmetrics aim to capture external engagement, such as mentions on social media...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/15213269.2023.2269084](https://www.tandfonline.com/doi/abs/10.1080/15213269.2023.2269084)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/15213269.2023.2269084" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/15213269.2023.2269084</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineHow Anger Appeals Facilitate Health Misinformation Recall...by J Lee · 2024 · Cited by 10 — The studies test mech...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchguides.austincc.edu  
    Title: The SIFT Method  
-   Link: [https://researchguides.austincc.edu/c.php?g=612891&p=9815507](https://researchguides.austincc.edu/c.php?g=612891&p=9815507)  
+   Link: <a href="https://researchguides.austincc.edu/c.php?g=612891&amp;p=9815507" target="_blank" rel="noopener noreferrer nofollow">https://researchguides.austincc.edu/c.php?g=612891&amp;p=9815507</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT Method - Fake News and Alternative Facts27 Mar 2026 — Online content is optimized with powerful algorithms and crowd-tested designs...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1566253524000782](https://www.sciencedirect.com/science/article/pii/S1566253524000782)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1566253524000782" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1566253524000782</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion detection for misinformation: A reviewby Z Liu · 2024 · Cited by 104 — The specific query used was as follows: (emotion OR sentim...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2405844024014117](https://www.sciencedirect.com/science/article/pii/S2405844024014117)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844024014117" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844024014117</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Media and information literacy as a model of societal balanceby HMH Mansoor · 2024 · Cited by 16 — This study aimed to explore how to mit...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/](https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/)  
+   Link: <a href="https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unescoMisinformation, fake news, and misleading information can spread quickly on social media. It&#x27;s always a good idea to verify informa...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: guides.emich.edu  
-   Link: [https://guides.emich.edu/misinformation/evaluation](https://guides.emich.edu/misinformation/evaluation)  
+   Link: <a href="https://guides.emich.edu/misinformation/evaluation" target="_blank" rel="noopener noreferrer nofollow">https://guides.emich.edu/misinformation/evaluation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Methods - Misinformation, Disinformation, and BiasMisinformation, Disinformation, and Bias: Identifying misinformation, its various types...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: unescoapceiu.org  
-   Link: [https://www.unescoapceiu.org/post/3228](https://www.unescoapceiu.org/post/3228)  
+   Link: <a href="https://www.unescoapceiu.org/post/3228" target="_blank" rel="noopener noreferrer nofollow">https://www.unescoapceiu.org/post/3228</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EIU in the World10 Aug 2020 — Building resilience, openness and digital citizenship is part of what Media and Information Literacy (MIL)...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: unesco.gov.ph  
-   Link: [https://www.unesco.gov.ph/wp-content/uploads/2020/03/UNESCO-Media-and-Information-Literacy-Framework-and-Recent-Initiatives.pdf](https://www.unesco.gov.ph/wp-content/uploads/2020/03/UNESCO-Media-and-Information-Literacy-Framework-and-Recent-Initiatives.pdf)  
+   Link: <a href="https://www.unesco.gov.ph/wp-content/uploads/2020/03/UNESCO-Media-and-Information-Literacy-Framework-and-Recent-Initiatives.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.gov.ph/wp-content/uploads/2020/03/UNESCO-Media-and-Information-Literacy-Framework-and-Recent-Initiatives.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO&#x27;s Media and Information Literacy Framework“Teaching media and information literacy to the youth in the face of post- truth: Testin...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: sciencemediacentre.es  
    Title: outrage facilitates spread misinformation social networks  
-   Link: [https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks](https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks)  
+   Link: <a href="https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks" target="_blank" rel="noopener noreferrer nofollow">https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Outrage facilitates the spread of misinformation on social...28 Nov 2024 — According to a study, social media content containing misinfo...</p></details>
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: [https://misinforeview.hks.harvard.edu/article/happiness-and-surprise-are-associated-with-worse-truth-discernment-of-covid-19-headlines-among-social-media-users-in-nigeria/](https://misinforeview.hks.harvard.edu/article/happiness-and-surprise-are-associated-with-worse-truth-discernment-of-covid-19-headlines-among-social-media-users-in-nigeria/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/happiness-and-surprise-are-associated-with-worse-truth-discernment-of-covid-19-headlines-among-social-media-users-in-nigeria/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/happiness-and-surprise-are-associated-with-worse-truth-discernment-of-covid-19-headlines-among-social-media-users-in-nigeria/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation is correctly identifying false headlines from true headlines.... Fake news grabs our attention, produces false memories a...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: pledgeproject.eu  
-   Link: [https://www.pledgeproject.eu/fear-anger-and-uncertainty-when-disinformation-feeds-on-emotions-in-natural-disasters/](https://www.pledgeproject.eu/fear-anger-and-uncertainty-when-disinformation-feeds-on-emotions-in-natural-disasters/)  
+   Link: <a href="https://www.pledgeproject.eu/fear-anger-and-uncertainty-when-disinformation-feeds-on-emotions-in-natural-disasters/" target="_blank" rel="noopener noreferrer nofollow">https://www.pledgeproject.eu/fear-anger-and-uncertainty-when-disinformation-feeds-on-emotions-in-natural-disasters/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fear, anger and uncertainty: when disinformation feeds on...Nov 6, 2025 — This heightened emotional state, often compounded by an initia...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in misinformation studies: distinguishing affective...by J Lühring · 2024 · Cited by 31 — Thus, both anger and anxiety can leave people...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: ed.stanford.edu  
    Title: it doesn t take long learn how spot misinformation online stanford study finds  
-   Link: [https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds](https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds)  
+   Link: <a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>doesn&#x27;t take long to learn how to spot misinformation online...19 Apr 2022 — There may be new hope for helping young people – and anyone...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: csh.ac.at  
-   Link: [https://csh.ac.at/news/do-emotions-make-us-more-susceptible-to-misinformation-not-per-se-according-to-a-new-study/](https://csh.ac.at/news/do-emotions-make-us-more-susceptible-to-misinformation-not-per-se-according-to-a-new-study/)  
+   Link: <a href="https://csh.ac.at/news/do-emotions-make-us-more-susceptible-to-misinformation-not-per-se-according-to-a-new-study/" target="_blank" rel="noopener noreferrer nofollow">https://csh.ac.at/news/do-emotions-make-us-more-susceptible-to-misinformation-not-per-se-according-to-a-new-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However... The paper “Emotions in misinformation studies: distinguishing affective state from emotional...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: nature.com  
    Title: Why people share misinformation on social media?  
-   Link: [https://www.nature.com/articles/s41599-025-05511-6](https://www.nature.com/articles/s41599-025-05511-6)  
+   Link: <a href="https://www.nature.com/articles/s41599-025-05511-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05511-6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>M Wu · 2025 · Cited by 5 — Recent research on misinformation has also found that emotion plays a critical role in invoking misin...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: libguides.ucmerced.edu  
    Title: The SIFT Method is complementary to [Lateral Reading](&#123;&#123; 'lateral-reading/' | relative_url &#125;&#125;). Both  
-   Link: [https://libguides.ucmerced.edu/news/evaluation/sift-method](https://libguides.ucmerced.edu/news/evaluation/sift-method)  
+   Link: <a href="https://libguides.ucmerced.edu/news/evaluation/sift-method" target="_blank" rel="noopener noreferrer nofollow">https://libguides.ucmerced.edu/news/evaluation/sift-method</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation &amp; News Sources: The SIFT Method - LibGuides13 May 2026 — What to do about Fake News: Web Evaluation &amp; News Sources: The SIFT...</p></details>
    Published: May 2026  
 
 35. <a id="endnote-35"></a>
    Source: hsph.harvard.edu  
    Title: lessons learned to fight misinformation focus on emotions  
-   Link: [https://hsph.harvard.edu/health-communication/news/lessons-learned-to-fight-misinformation-focus-on-emotions/](https://hsph.harvard.edu/health-communication/news/lessons-learned-to-fight-misinformation-focus-on-emotions/)  
+   Link: <a href="https://hsph.harvard.edu/health-communication/news/lessons-learned-to-fight-misinformation-focus-on-emotions/" target="_blank" rel="noopener noreferrer nofollow">https://hsph.harvard.edu/health-communication/news/lessons-learned-to-fight-misinformation-focus-on-emotions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Chan School of Public HealthLessons learned: To fight misinformation, focus on emotions16 Jan 2025 — The experiments confirmed th...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ScienceMagazine/posts/social-media-posts-containing-misinformation-evoke-more-moral-outrage-than-posts/957029976288972/](https://www.facebook.com/ScienceMagazine/posts/social-media-posts-containing-misinformation-evoke-more-moral-outrage-than-posts/957029976288972/)  
+   Link: <a href="https://www.facebook.com/ScienceMagazine/posts/social-media-posts-containing-misinformation-evoke-more-moral-outrage-than-posts/957029976288972/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceMagazine/posts/social-media-posts-containing-misinformation-evoke-more-moral-outrage-than-posts/957029976288972/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ts with trustworthy information, and that outrage facilitates the spread of...Read more...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/141128/html/](https://committees.parliament.uk/writtenevidence/141128/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/141128/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/141128/html/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>content, critical thinking, and awareness of misinformation.... These include units on digital media messaging, source credibility, iden...</p></details>

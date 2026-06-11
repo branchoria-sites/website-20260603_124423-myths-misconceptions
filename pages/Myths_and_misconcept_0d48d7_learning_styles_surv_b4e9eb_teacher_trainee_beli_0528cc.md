@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_training_cuts_learni_e9cba9
 - Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_wellcome_learning_st_d7ba60
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - teacher-belief
 - teacher-belief
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - teacher-belief
 - teacher-belief
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Belief in learning styles appears high among both qualified teachers and people still entering the profession.
 hero_summary: Belief in learning styles appears high among both qualified teachers and people still entering the profession.
 layout: default
 permalink: /teacher-belief-a45b18/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /teacher-belief/
 nav_short_title: Teacher belief
 title: Why new teachers still inherit learning styles
-title_full: Why new teachers still inherit learning styles | Teacher Belief
+title_full: Why new teachers still inherit learning styles
 display_title_short: Teacher belief
 display_title: Teacher belief
 heading_title: Why new teachers still inherit learning styles
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Common Is Belief in Learning Styles? | Mythcraft
+parent_title: How Common Is Belief in Learning Styles?
 parent_permalink: /teacher-belief/
 parent_nav_short_title: Teacher Belief
 parent_heading_title: How Common Is Belief in Learning Styles?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why survey questions make the myth easy to endorse
 up_link:
   basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
@@ -259,7 +259,7 @@ prev_link:
   permalink: /survey-wording/
   short_title: Survey wording
   heading_title: Why survey questions make the myth easy to endorse
-date: '2026-06-09 05:23:04 '
+date: '2026-06-11 22:30:35 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-1.webp
@@ -268,29 +268,26 @@ image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_te
 
 ## Introduction
 
-One of the most striking findings from research on learning styles is not simply that belief remains widespread among teachers, but that it is almost as common among people who have not yet entered the profession. Evidence from surveys suggests that the learning-styles myth is transmitted across generations of educators rather than fading with time. New teachers are often arriving in schools already convinced that pupils learn best when teaching is matched to a preferred style, even though reviews of the research literature have found little support for that claim. This pattern matters because it suggests that belief is embedded not only in classroom practice but also in the culture and training environments that shape future teachers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton · 2020 · Cited by 205 — Self-reported belief in matching i...</span></span></span>
-
+One of the most striking findings from research on learning styles is not simply that belief remains widespread among teachers, but that it is almost as common among people who have not yet entered the profession. Evidence from surveys suggests that the learning-styles myth is transmitted across generations of educators rather than fading with time. New teachers are often arriving in schools already convinced that pupils learn best when teaching is matched to a preferred style, even though reviews of the research literature have found little support for that claim. This pattern matters because it suggests that belief is embedded not only in classroom practice but also in the culture and training environments that shape future teachers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-1-dark.svg" | relative_url }}" alt="Teacher belief illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the 2020 review found among qualified teachers
 
-The clearest comparison comes from the 2020 systematic review by Phil Newton and Atharva Salvi, which examined 37 studies involving more than 15,000 educators across 18 countries. The review found exceptionally high levels of belief in learning styles overall, but it also compared qualified teachers with pre-service teachers—those still completing teacher education programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton · 2020 · Cited by 205 — Self-reported belief in matching i...</span></span></span>
+The clearest comparison comes from the 2020 systematic review by Phil Newton and Atharva Salvi, which examined 37 studies involving more than 15,000 educators across 18 countries. The review found exceptionally high levels of belief in learning styles overall, but it also compared qualified teachers with pre-service teachersthose still completing teacher education programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
 The results showed:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Qualified teachers: 87.8% weighted belief rate.
 * Pre-service teachers: 95.4% weighted belief rate.
-* No statistically significant difference between the two groups. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton · 2020 · Cited by 205 — Self-reported belief in matching i...</span></span></span>
+* No statistically significant difference between the two groups. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
 </div>
 
-These figures challenge a common assumption that learning styles survive mainly because experienced teachers continue to pass on outdated ideas. Instead, belief appears to be present before many teachers begin full-time classroom work. If anything, the review found slightly higher endorsement among trainees, although the difference was not large enough to demonstrate a meaningful gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton · 2020 · Cited by 205 — Self-reported belief in matching i...</span></span></span>
+These figures challenge a common assumption that learning styles survive mainly because experienced teachers continue to pass on outdated ideas. Instead, belief appears to be present before many teachers begin full-time classroom work. If anything, the review found slightly higher endorsement among trainees, although the difference was not large enough to demonstrate a meaningful gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
 This finding is important because it suggests that the persistence of learning styles cannot be explained simply by professional inertia or resistance to change among veteran educators. The belief is already established among many entrants to the profession.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S0xKp8FZwg0" title="Falsifiability" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S0xKp8FZwg0" target="_blank" rel="noopener noreferrer">Falsifiability</a></p><p class="youtube-embed-meta">Channel: 60 Second Skeptic &middot; Views: 9.9K &middot; Uploaded: July 2022 &middot; Length: 1 minute 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S0xKp8FZwg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S0xKp8FZwg0">Open on YouTube</a></p></div></div></div>
 
@@ -298,10 +295,9 @@ This finding is important because it suggests that the persistence of learning s
 
 When a misconception is already widespread among trainee teachers, schools alone cannot be expected to correct it. Teacher education programmes become a crucial point of intervention.
 
-Research on educational [neuromyths]({{ 'neuromyths/' | relative_url }}) has repeatedly found that prospective teachers often enter training with strong beliefs about learning styles and other brain-based misconceptions. Reviews of the neuromyth literature note that these beliefs have been documented among both practising and prospective teachers for more than two decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton · 2020 · Cited by 205 — Self-reported belief in matching i...</span></span></span>
+Research on educational [neuromyths]({{ 'neuromyths/' | relative_url }}) has repeatedly found that prospective teachers often enter training with strong beliefs about learning styles and other brain-based misconceptions. Reviews of the neuromyth literature note that these beliefs have been documented among both practising and prospective teachers for more than two decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
 The concern is not merely that trainees hold an inaccurate belief. Rather, learning styles are often presented as consistent with values that teacher education rightly promotes:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -312,46 +308,37 @@ The concern is not merely that trainees hold an inaccurate belief. Rather, learn
 
 </div>
 
-Because the learning-styles idea appears to align with these goals, it can feel intuitively correct even when the underlying evidence is weak. Researchers have argued that many educators endorse the concept because it seems to offer a practical way to personalise learning, not because they have closely examined the experimental literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton · 2020 · Cited by 205 — Self-reported belief in matching i...</span></span></span>
+Because the learning-styles idea appears to align with these goals, it can feel intuitively correct even when the underlying evidence is weak. Researchers have argued that many educators endorse the concept because it seems to offer a practical way to personalise learning, not because they have closely examined the experimental literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
 This helps explain why the belief can survive the transition from university coursework into professional practice. The idea fits existing educational values and therefore requires active examination rather than simple exposure to research findings.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-2-dark.svg" | relative_url }}" alt="Teacher belief illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Training can reduce belief, but not automatically
 
-The 2020 review identified several studies that explicitly taught participants about the lack of evidence for matching instruction to learning styles. Across those interventions, belief dropped substantially after training. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton · 2020 · Cited by 205 — Self-reported belief in matching i...</span></span></span>
+The 2020 review identified several studies that explicitly taught participants about the lack of evidence for matching instruction to learning styles. Across those interventions, belief dropped substantially after training. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
-That result suggests teacher education can make a difference. However, the existence of very high belief rates among trainees shows that exposure to higher education alone does not automatically eliminate the misconception. What appears to matter is whether programmes directly address the claim, examine the evidence and distinguish learning preferences from the stronger "matching" hypothesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton · 2020 · Cited by 205 — Self-reported belief in matching i...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhgwIhB58PA" title="The Biggest Myth In Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer">The Biggest Myth In Education</a></p><p class="youtube-embed-meta">Channel: Veritasium</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhgwIhB58PA">Open on YouTube</a></p></div></div></div>
+That result suggests teacher education can make a difference. However, the existence of very high belief rates among trainees shows that exposure to higher education alone does not automatically eliminate the misconception. What appears to matter is whether programmes directly address the claim, examine the evidence and distinguish learning preferences from the stronger "matching" hypothesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
 ## Why new teachers still inherit learning styles
 
 The persistence of learning-styles belief among newcomers points to several overlapping mechanisms.
 
-First, many trainee teachers encounter the concept long before entering teacher education. Popular books, professional development materials, school placements and online teaching resources frequently present visual, auditory and kinaesthetic categories as established educational knowledge. By the time formal training begins, the idea may already feel familiar and self-evident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton · 2020 · Cited by 205 — Self-reported belief in matching i...</span></span></span>
+First, many trainee teachers encounter the concept long before entering teacher education. Popular books, professional development materials, school placements and online teaching resources frequently present visual, auditory and kinaesthetic categories as established educational knowledge. By the time formal training begins, the idea may already feel familiar and self-evident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
-Second, the term "learning styles" is often used ambiguously. Research has shown that educators may interpret it in different ways. Some understand it as a claim about matching instruction to learner types, while others hear it simply as encouragement to use varied teaching methods. This ambiguity makes survey responses difficult to interpret and may help explain why endorsement remains high. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10212-020-00485-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerThe learning styles neuromyth: when the same term means...by M Papadatou-Pastou · 2021 · Cited by 138 — A study into neuromyths...</span></span></span>
+Second, the term "learning styles" is often used ambiguously. Research has shown that educators may interpret it in different ways. Some understand it as a claim about matching instruction to learner types, while others hear it simply as encouragement to use varied teaching methods. This ambiguity makes survey responses difficult to interpret and may help explain why endorsement remains high. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10212-020-00485-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The learning styles neuromyth: when the same term means...by M Papadatou-Pastou  2021  Cited by 138  A study into neuromyths...</span></span></span>
 
-Third, teacher trainees frequently observe experienced practitioners during placements. If learning-styles language remains common in schools, new teachers may see it modelled as accepted professional practice regardless of what the research literature says. This creates a feedback loop in which beliefs are reproduced across cohorts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton · 2020 · Cited by 205 — Self-reported belief in matching i...</span></span></span>
+Third, teacher trainees frequently observe experienced practitioners during placements. If learning-styles language remains common in schools, new teachers may see it modelled as accepted professional practice regardless of what the research literature says. This creates a feedback loop in which beliefs are reproduced across cohorts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M7UyUfOXHug" title="xTalk Oct. 10, 2018: The Cognitive Science of Teaching and Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M7UyUfOXHug" target="_blank" rel="noopener noreferrer">xTalk Oct. 10, 2018: The Cognitive Science of Teaching and Learning</a></p><p class="youtube-embed-meta">Channel: MIT Residential Education in Open Learning</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M7UyUfOXHug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M7UyUfOXHug">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-3-dark.svg" | relative_url }}" alt="Teacher belief illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the pattern says about professional culture
 
 The absence of a meaningful belief gap between qualified and trainee teachers suggests that learning styles are best understood as a cultural phenomenon within education rather than merely an individual misunderstanding.
 
-If experienced teachers strongly believed in learning styles while trainees largely rejected them, the myth might be expected to decline naturally as new generations entered the profession. The survey evidence does not show that pattern. Instead, high endorsement appears at both ends of the career pipeline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton · 2020 · Cited by 205 — Self-reported belief in matching i...</span></span></span>
+If experienced teachers strongly believed in learning styles while trainees largely rejected them, the myth might be expected to decline naturally as new generations entered the profession. The survey evidence does not show that pattern. Instead, high endorsement appears at both ends of the career pipeline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
-This continuity helps explain why learning styles have proved unusually resilient. The belief is reinforced during entry into teaching, remains visible in professional discourse and often aligns with broader commitments to differentiation and learner-centred education. As a result, it can persist even when educators are otherwise well informed and supportive of evidence-based practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton · 2020 · Cited by 205 — Self-reported belief in matching i...</span></span></span>
+This continuity helps explain why learning styles have proved unusually resilient. The belief is reinforced during entry into teaching, remains visible in professional discourse and often aligns with broader commitments to differentiation and learner-centred education. As a result, it can persist even when educators are otherwise well informed and supportive of evidence-based practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
-For understanding [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) in education, the key lesson is that learning styles are not simply an old idea waiting to disappear with retirement and generational change. Survey evidence indicates that many new teachers inherit the belief before they become teachers, helping to sustain it across successive generations of the profession. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton · 2020 · Cited by 205 — Self-reported belief in matching i...</span></span></span>
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-3-dark.svg" | relative_url }}" alt="Teacher belief illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+For understanding myths and misconceptions in education, the key lesson is that learning styles are not simply an old idea waiting to disappear with retirement and generational change. Survey evidence indicates that many new teachers inherit the belief before they become teachers, helping to sustain it across successive generations of the profession. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -486,11 +473,11 @@ For understanding [myths and misconceptions]({{ 'myths-and-misconceptions/' | re
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Desk Name Light â€“ Custom LED Acrylic Sign, Thank You Gift from Student"><img src="{{ '/assets/images/marketplace-covers/502b2afd907a59f12f2a.jpg' | relative_url }}" alt="Listing image for Teacher Desk Name Light â€“ Custom LED Acrylic Sign, Thank You Gift from Student" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Desk Name Light – Custom LED Acrylic Sign, Thank You Gift from Student"><img src="{{ '/assets/images/marketplace-covers/502b2afd907a59f12f2a.jpg' | relative_url }}" alt="Listing image for Teacher Desk Name Light – Custom LED Acrylic Sign, Thank You Gift from Student" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Teacher Desk Name Light â€“ Custom LED Acrylic Sign, Thank You Gift from Student</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Teacher Desk Name Light – Custom LED Acrylic Sign, Thank You Gift from Student</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher desk sign</a>
         <div class="fr-book-actions">
@@ -749,114 +736,114 @@ For understanding [myths and misconceptions]({{ 'myths-and-misconceptions/' | re
 
 1. <a id="endnote-1"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton · 2020 · Cited by 205 — Self-reported belief in matching i...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 255 — After two decades of publi...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas  2021  Cited by 255  After two decades of publi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersWhy educators endorse a neuromyth: relationships among...by C Bresnahan · 2024 · Cited by 8 — Why educators endorse a neuromyth...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersWhy educators endorse a neuromyth: relationships among...by C Bresnahan  2024  Cited by 8  Why educators endorse a neuromyth...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10212-020-00485-2](https://link.springer.com/article/10.1007/s10212-020-00485-2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerThe learning styles neuromyth: when the same term means...by M Papadatou-Pastou · 2021 · Cited by 138 — A study into neuromyths...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s10212-020-00485-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10212-020-00485-2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The learning styles neuromyth: when the same term means...by M Papadatou-Pastou  2021  Cited by 138  A study into neuromyths...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2018.00105/full](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2018.00105/full)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe Learning Styles Educational Neuromyth: Lack of...by M Papadatou-Pastou · 2018 · Cited by 75 — Studies have shown that they...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2018.00105/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2018.00105/full</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe Learning Styles Educational Neuromyth: Lack of...by M Papadatou-Pastou  2018  Cited by 75  Studies have shown that they...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersDispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — These findings suggest that...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersDispelling the Myth: Training in Education or Neuroscience...by K Macdonald  2017  Cited by 455  These findings suggest that...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Education](https://en.wikipedia.org/wiki/Education)  
+   Link: <a href="https://en.wikipedia.org/wiki/Education" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Education</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Education - WikipediaHow Common Is Belief in the Learning Styles Neuromyth, and...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The persistence of matching teaching and learning stylesby SBRE Brown · 2023 · Cited by 35 — The studies that have been reviewed here, ha...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The persistence of matching teaching and learning stylesby SBRE Brown  2023  Cited by 35  The studies that have been reviewed here, ha...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: frontiersin.org  
    Title: Is it really a neuromyth?  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1428732/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1428732/full)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the learning...by V Clinton-Lisell · 2024 · Cited by 22 — The purpose of this study was to conduct a meta-analysis of...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1428732/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1428732/full</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the learning...by V Clinton-Lisell  2024  Cited by 22  The purpose of this study was to conduct a meta-analysis of...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: frontiersin.org  
    Title: Learning Styles | List of Frontiers open access articles Systematic Review  
-   Link: [https://www.frontiersin.org/subjects/learning-styles](https://www.frontiersin.org/subjects/learning-styles)  
+   Link: <a href="https://www.frontiersin.org/subjects/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/subjects/learning-styles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Published on 14 Dec 2020. How Common Is Belief in the Learning Styles Neuromyth, and Does It Matter? A Pragmatic Systematic Review. in...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 68 — Neuromyths are misconceptions about th...</p></details>
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions to Dispel Neuromyths in Educational Settings...by L Rousseau  2021  Cited by 68  Neuromyths are misconceptions about th...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/](https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/)  
+   Link: <a href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Children have different learning stylesAlthough as many as 71 different learning style schemes have been proposed[i], most typically lear...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/educational-neuroscience-and-teacher-practices](https://www.nature.com/nature-index/topics/l4/educational-neuroscience-and-teacher-practices)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/educational-neuroscience-and-teacher-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/educational-neuroscience-and-teacher-practices</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational Neuroscience and Teacher PracticesFoundational systematic reviews of neuromyth prevalence reveal that misconceptions endure a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: educationalneuroscience.org.uk  
    Title: scientists argue teachers must ditch neuromyth of learning styles  
-   Link: [https://educationalneuroscience.org.uk/wordpress/2017/03/20/scientists-argue-teachers-must-ditch-neuromyth-of-learning-styles/](https://educationalneuroscience.org.uk/wordpress/2017/03/20/scientists-argue-teachers-must-ditch-neuromyth-of-learning-styles/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists argue teachers “must ditch &#x27;neuromyth&#x27; of...20 Mar 2017 — The letter continues: “The brain is essential for learning, but lea...</p></details>
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/2017/03/20/scientists-argue-teachers-must-ditch-neuromyth-of-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/2017/03/20/scientists-argue-teachers-must-ditch-neuromyth-of-learning-styles/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists argue teachers must ditch &#x27;neuromyth&#x27; of...20 Mar 2017  The letter continues: The brain is essential for learning, but lea...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/](https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeTeachers&#x27; understanding of neuromyths: A role for...20 Sept 2022 — The current study aimed to understand the degree to...</p></details>
+   Link: <a href="https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeTeachers&#x27; understanding of neuromyths: A role for...20 Sept 2022  The current study aimed to understand the degree to...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cronfa.swan.ac.uk  
    Title: A Pragmatic Systematic Review; evidence-based education, pragmatism, neuromyth,  
-   Link: [https://cronfa.swan.ac.uk/Record/cronfa55948](https://cronfa.swan.ac.uk/Record/cronfa55948)  
+   Link: <a href="https://cronfa.swan.ac.uk/Record/cronfa55948" target="_blank" rel="noopener noreferrer nofollow">https://cronfa.swan.ac.uk/Record/cronfa55948</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Is Belief in the Learning Styles Neuromyth, and Does...How Common Is Belief in the Learning Styles Neuromyth, and Does It Matter?...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Dekker · 2012 · Cited by 1248 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker  2012  Cited by 1248  Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
    Title: teachers neuromyth learning styles scientists neuroscience education  
-   Link: [https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education](https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teachers must ditch &#x27;neuromyth&#x27; of learning styles, say...12 Mar 2017 — Teaching children according to their individual “learning style”...</p></details>
+   Link: <a href="https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teachers must ditch &#x27;neuromyth&#x27; of learning styles, say...12 Mar 2017  Teaching children according to their individual learning style...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: my.chartered.college  
    Title: neuromyths about special educational needs what should teachers know  
-   Link: [https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/](https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>about Special Educational Needs20 Sept 2022 — Some of the most common neuromyths include the beliefs that humans only use 10 per cent of...</p></details>
+   Link: <a href="https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>about Special Educational Needs20 Sept 2022  Some of the most common neuromyths include the beliefs that humans only use 10 per cent of...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: cronfa.swansea.ac.uk  
-   Link: [https://cronfa.swansea.ac.uk/Record/cronfa55948/Details](https://cronfa.swansea.ac.uk/Record/cronfa55948/Details)  
+   Link: <a href="https://cronfa.swansea.ac.uk/Record/cronfa55948/Details" target="_blank" rel="noopener noreferrer nofollow">https://cronfa.swansea.ac.uk/Record/cronfa55948/Details</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Pragmatic Systematic Review. Phil Newton Orcid Logo, Atharva Salvi. Frontiers in...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cis.org.au  
    Title: knowledge is power what do teachers believe about learning  
-   Link: [https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/](https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge is power: What do teachers believe about...by T Jha — A systematic review of the LS myth from 2020... Learning styles and ped...</p></details>
+   Link: <a href="https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge is power: What do teachers believe about...by T Jha  A systematic review of the LS myth from 2020... Learning styles and ped...</p></details>

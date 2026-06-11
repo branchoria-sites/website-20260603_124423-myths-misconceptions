@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_naming_myths_safely_900427
 - Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - backfire
 - correction-decay
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - backfire
 - correction-decay
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A correction can be accurate at first but lose ground when the false story keeps returning through media, peers or elites.
 hero_summary: A correction can be accurate at first but lose ground when the false story keeps returning through media, peers or elites.
 layout: default
 permalink: /correction-decay/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /backfire/
 nav_short_title: Correction Decay
 title: Why One Fact Check Is Often Not Enough
-title_full: Why One Fact Check Is Often Not Enough | Backfire
+title_full: Why One Fact Check Is Often Not Enough
 display_title_short: Correction Decay
 display_title: Correction Decay
 heading_title: Why One Fact Check Is Often Not Enough
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Does Debunking Really Make Myths Stronger? | Mythcraft
+parent_title: Does Debunking Really Make Myths Stronger?
 parent_permalink: /backfire/
 parent_nav_short_title: Backfire
 parent_heading_title: Does Debunking Really Make Myths Stronger?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Did Researchers Actually Find Backfire?
 up_link:
   basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
@@ -259,7 +259,7 @@ next_link:
   permalink: /distrust-risk/
   short_title: Distrust Risk
   heading_title: When the Correction Becomes the Problem
-date: '2026-06-09 04:23:41 '
+date: '2026-06-11 22:01:24 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_correction_decay_c13bb3-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_correction_decay_c13bb3-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_co
 
 A common misunderstanding about misinformation is that failed [corrections]({{ 'corrections/' | relative_url }}) prove a “backfire effect”. In reality, many corrections work at first. People often become more accurate immediately after reading a fact-check, seeing a [correction]({{ 'correction/' | relative_url }}) label, or hearing a credible rebuttal. The harder problem comes later. Days, weeks or months afterwards, belief can drift back towards the original false claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">These effects can...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_correction_decay_c13bb3-Illustration-1-dark.svg" | relative_url }}" alt="Correction Decay illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_correction_decay_c13bb3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_correction_decay_c13bb3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This pattern matters because it changes how correction failures should be understood. A myth can survive even when the correction initially succeeds. The reason is often not that the correction strengthened the myth. Instead, the false claim keeps receiving fresh reinforcement through news coverage, social media repetition, political messaging, peer discussion or simple memory effects. Researchers increasingly describe this as a problem of persistence, belief regression or the [continued influence]({{ 'old-stories/' | relative_url }}) effect rather than a classic backfire reaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analytic Examination of the Continued Influence...22 Jun 2019 — A meta-analysis was conducted to examine the extent...</span></span></span>
+This pattern matters because it changes how correction failures should be understood. A myth can survive even when the correction initially succeeds. The reason is often not that the correction strengthened the myth. Instead, the false claim keeps receiving fresh reinforcement through news coverage, social media [repetition]({{ 'repetition/' | relative_url }}), political messaging, peer discussion or simple memory effects. Researchers increasingly describe this as a problem of persistence, belief regression or the continued influence effect rather than a classic backfire reaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analytic Examination of the Continued Influence...22 Jun 2019 — A meta-analysis was conducted to examine the extent...</span></span></span>
 
 ## Why correction effects can decay
 
@@ -280,22 +279,19 @@ One reason corrections fade is that memory does not preserve all information equ
 
 Research on misinformation correction repeatedly finds that people can update their beliefs successfully in the short term yet lose some of that improvement over time. Briony Swire-Thompson and colleagues describe a pattern called “belief regression”, where belief in misinformation gradually moves back towards pre-correction levels after an initial improvement. Their work suggests that memory for the correction itself is a major factor. When people no longer remember that a claim was corrected, the original statement can regain influence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bu.edu/ballab/pubs/Swire-Thompson2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-snippet">Boston UniversityMemory failure predicts belief regression after the...by B Swire-Thompson · Cited by 55 — After misinformation has been...</span></span></span>
 
-This does not mean the correction disappears completely. Rather, the balance between the false claim and the correction changes. The correction may become harder to retrieve from memory than the original story, especially if the original story was vivid, emotionally engaging or repeatedly encountered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span>
+This does not mean the correction disappears completely. Rather, the balance between the false claim and the correction changes. The correction may become harder to retrieve from memory than the original story, especially if the original story was vivid, emotionally engaging or repeatedly encountered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span>
 
-The problem becomes more pronounced when misinformation provides a simple explanation for an event. If a correction removes that explanation without replacing it, people may continue relying on the original account because it still helps them make sense of what happened. Research on the continued influence effect has shown that misinformation can continue shaping reasoning even when people know it was retracted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analytic Examination of the Continued Influence...22 Jun 2019 — A meta-analysis was conducted to examine the extent...</span></span></span>
+The problem becomes more pronounced when misinformation provides a simple explanation for an event. If a correction removes that explanation without replacing it, people may continue relying on the original account because it still helps them make sense of what happened. Research on the continued influence effect has shown that misinformation can continue shaping reasoning even when people know it was retracted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analytic Examination of the Continued Influence...22 Jun 2019 — A meta-analysis was conducted to examine the extent...</span></span></span>
 
 ## How repeated cues revive false claims
 
 The information environment rarely stops after a single correction. False claims often continue circulating long after fact-checkers have responded.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pxHMGHUs3S4" title="Why Misinformation Sticks in Your Brain Even After It’s Debunked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pxHMGHUs3S4" target="_blank" rel="noopener noreferrer">Why Misinformation Sticks in Your Brain Even After It’s Debunked</a></p><p class="youtube-embed-meta">Channel: Rational Ruminations</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pxHMGHUs3S4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pxHMGHUs3S4">Open on YouTube</a></p></div></div></div>
-
 ### Familiarity keeps returning
 
 A major challenge is repetition. Psychological research has long shown that repeated information tends to feel more familiar, and familiar information can seem more believable. This does not require people to consciously endorse the claim every time they encounter it. Repeated exposure alone can strengthen its mental availability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/ws/files/148088061/JEPLMCinpress.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Swire, B., Ecker, UKH, &amp; Lewandowsky, S</span><span class="citation-popover-snippet">2017). The role ofToday — The present paper investigates whether the continued influence effect is at least partially familiarity-driven...</span></span></span>
 
-As a result, a myth may receive dozens of reminders while the correction appears only once. Even when the correction was initially accepted, later encounters with the myth can reactivate the original association. Researchers studying misinformation and memory argue that this imbalance in repetition helps explain why false claims often remain influential despite accurate [debunking]({{ 'debunking/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span>
+As a result, a myth may receive dozens of reminders while the correction appears only once. Even when the correction was initially accepted, later encounters with the myth can reactivate the original association. Researchers studying misinformation and memory argue that this imbalance in repetition helps explain why false claims often remain influential despite accurate [debunking]({{ 'debunking/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span>
 
 This is one reason misinformation can appear remarkably resilient. The apparent durability of the myth may reflect continuing exposure rather than any harmful effect of the correction itself.
 
@@ -307,13 +303,12 @@ In these situations, the correction is not competing with a static memory. It is
 
 The result is often mistaken for proof that fact-checking failed. In reality, the correction may have worked exactly as intended at the moment it was delivered. The difficulty is that the misinformation campaign did not stop.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_correction_decay_c13bb3-Illustration-2-dark.svg" | relative_url }}" alt="Correction Decay illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_correction_decay_c13bb3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_correction_decay_c13bb3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The continued influence effect is not the same as backfire
 
 One of the most important distinctions in misinformation research is the difference between persistence and reversal.
 
-A true backfire effect would mean that a correction leaves people believing the false claim more strongly than they would have without the correction. Evidence for that outcome has generally been weak and difficult to replicate. Large studies and reviews have found that corrections usually improve factual accuracy rather than worsening it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">However, concerns have been...Read more...</span></span></span>
+A true backfire effect would mean that a correction leaves people believing the false claim more strongly than they would have without the correction. Evidence for that outcome has generally been weak and difficult to replicate. Large studies and reviews have found that corrections usually improve factual accuracy rather than worsening it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">However, concerns have been...Read more...</span></span></span>
 
 The continued influence effect is different. Here, people receive a correction and may even accept it, yet traces of the original misinformation continue affecting judgments and reasoning. Meta-analytic evidence indicates that corrections reduce misinformation's influence but often do not eliminate it completely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analytic Examination of the Continued Influence...22 Jun 2019 — A meta-analysis was conducted to examine the extent...</span></span></span>
 
@@ -326,9 +321,7 @@ This distinction changes how correction failures should be interpreted:
 
 These processes can look similar from a distance because all produce persistent myths. However, they imply very different solutions.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8qLJecuIkEo" title="Think You&#x27;re Too Smart for Fake News? Think Again!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8qLJecuIkEo" target="_blank" rel="noopener noreferrer">Think You&#x27;re Too Smart for Fake News? Think Again!</a></p><p class="youtube-embed-meta">Channel: Melissa Hughes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8qLJecuIkEo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8qLJecuIkEo">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_correction_decay_c13bb3-Illustration-3-dark.svg" | relative_url }}" alt="Correction Decay illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_correction_decay_c13bb3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_correction_decay_c13bb3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why some myths recover faster than others
 
 Not all false claims experience the same level of correction decay.
@@ -338,9 +331,6 @@ Claims tied to identity, ideology or group membership often receive more social 
 Emotion also matters. Stories involving threat, outrage, scandal or moral conflict are more likely to be discussed and shared repeatedly. Each new encounter can strengthen familiarity, even when the person previously saw a correction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">continued influence effect: when misinformation in memory affects later inferences.... Misinformation and its correction: continued infl...</span></span></span>
 
 Another factor is source credibility. Research on misinformation correction shows that people are more likely to retain corrective information when they view the correcting source as trustworthy. When confidence in the source is weak, the correction itself may be forgotten or discounted more quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">However, concerns have been...Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RssCmenT9qg" title="Why Are Common Misconceptions So Persistent? - All About Myths and Conspiracies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RssCmenT9qg" target="_blank" rel="noopener noreferrer">Why Are Common Misconceptions So Persistent? - All About Myths and Conspiracies</a></p><p class="youtube-embed-meta">Channel: All About Myths and Conspiracies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RssCmenT9qg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RssCmenT9qg">Open on YouTube</a></p></div></div></div>
 
 ## When follow-up corrections become necessary
 
@@ -353,13 +343,10 @@ Several practical implications follow:
 * **Repeat accurate information, not just the correction event.** The truth needs reinforcement too.
 * **Update corrections when the myth resurfaces.** Old fact-checks can lose visibility while the misinformation remains active.
 * **Provide replacement explanations.** Corrections are more durable when they help people understand events rather than simply rejecting a claim.
-* **Use [trusted messengers]({{ 'trusted-fixes/' | relative_url }}) repeatedly.** Credibility helps corrections survive later challenges.
+* **Use trusted messengers repeatedly.** Credibility helps corrections survive later challenges.
 * **Respond to recurring misinformation cycles.** Persistent myths often require ongoing maintenance rather than a single debunk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">continued influence effect: when misinformation in memory affects later inferences.... Misinformation and its correction: continued infl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">First, corrections are rarely able to fully eliminate reliance on misinformation in...Read more...</span></span></span>
 
-The history of vaccine myths, election rumours and other long-running misinformation campaigns illustrates this pattern. Their persistence is rarely explained by a dramatic backfire from one correction. More often, the false narrative keeps returning, while the correction receives less attention over time. The practical challenge is therefore not merely producing an accurate fact-check, but ensuring that accurate information remains available, memorable and socially visible after the initial correction has faded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">continued influence effect: when misinformation in memory affects later inferences.... Misinformation and its correction: continued infl...</span></span></span>
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_correction_decay_c13bb3-Illustration-3-dark.svg" | relative_url }}" alt="Correction Decay illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_correction_decay_c13bb3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_correction_decay_c13bb3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The history of vaccine myths, [election rumours]({{ 'election-rumours/' | relative_url }}) and other long-running misinformation campaigns illustrates this pattern. Their persistence is rarely explained by a dramatic backfire from one correction. More often, the false narrative keeps returning, while the correction receives less attention over time. The practical challenge is therefore not merely producing an accurate fact-check, but ensuring that accurate information remains available, memorable and socially visible after the initial correction has faded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">continued influence effect: when misinformation in memory affects later inferences.... Misinformation and its correction: continued infl...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -478,15 +465,15 @@ The history of vaccine myths, election rumours and other long-running misinforma
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check Group Photo Modern Music Poster"><img src="{{ '/assets/images/marketplace-covers/d51b656a120d3000d4a4.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check Group Photo Modern Music Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-fact-check-is-often-not-enough-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-one-fact-check-is-often-not-enough-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/BlYAAeSwqZRp1Tzg/s-l225.jpg" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check Group Photo Modern Music Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-fact-check-is-often-not-enough-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-one-fact-check-is-often-not-enough-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-fact-check-is-often-not-enough-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-one-fact-check-is-often-not-enough-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-fact-check-is-often-not-enough-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-one-fact-check-is-often-not-enough-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +481,15 @@ The history of vaccine myths, election rumours and other long-running misinforma
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)"><img src="{{ '/assets/images/marketplace-covers/6ef2bd31e5190e5492e9.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-fact-check-is-often-not-enough-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-one-fact-check-is-often-not-enough-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="https://i.ebayimg.com/images/g/y9UAAeSwJ6lnyGAB/s-l225.jpg" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check 5th Full Album Poster Ver (Exhibit Ver)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-fact-check-is-often-not-enough-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-one-fact-check-is-often-not-enough-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-fact-check-is-often-not-enough-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-one-fact-check-is-often-not-enough-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-fact-check-is-often-not-enough-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-one-fact-check-is-often-not-enough-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +497,15 @@ The history of vaccine myths, election rumours and other long-running misinforma
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z"><img src="{{ '/assets/images/marketplace-covers/03c19feac523071c9acd.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-fact-check-is-often-not-enough-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-one-fact-check-is-often-not-enough-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/H6AAAeSwi0Vp2SXo/s-l225.jpg" alt="Listing image for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK 5TH ALBUM EXHIBIT VER. POSTER - CD - G2z</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-fact-check-is-often-not-enough-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-one-fact-check-is-often-not-enough-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-fact-check-is-often-not-enough-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-one-fact-check-is-often-not-enough-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-fact-check-is-often-not-enough-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-one-fact-check-is-often-not-enough-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +513,15 @@ The history of vaccine myths, election rumours and other long-running misinforma
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Jaehyun Fact Check Concept Photo Poster Idol Fan Art Print"><img src="{{ '/assets/images/marketplace-covers/8c68506fe8573ac3e084.jpg' | relative_url }}" alt="Listing image for NCT 127 Jaehyun Fact Check Concept Photo Poster Idol Fan Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-fact-check-is-often-not-enough-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-one-fact-check-is-often-not-enough-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="https://i.ebayimg.com/images/g/MS0AAeSwEJpp6m1s/s-l225.jpg" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Jaehyun Fact Check Concept Photo Poster Idol Fan Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-fact-check-is-often-not-enough-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-one-fact-check-is-often-not-enough-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact checking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact checking poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-fact-check-is-often-not-enough-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-one-fact-check-is-often-not-enough-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-fact-check-is-often-not-enough-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-one-fact-check-is-often-not-enough-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,7 +529,7 @@ The history of vaccine myths, election rumours and other long-running misinforma
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+checking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact checking poster" data-ebay-reference="correction-decay-why-one-fact-check-is-often-not-enough-myths-and-misconcept-fact-checking-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-one-fact-check-is-often-not-enough-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="why-one-fact-check-is-often-not-enough-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -757,135 +744,135 @@ The history of vaccine myths, election rumours and other long-running misinforma
 
 1. <a id="endnote-1"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.1912440117](https://www.pnas.org/doi/10.1073/pnas.1912440117)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1912440117</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These effects can...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691823002706](https://www.sciencedirect.com/science/article/pii/S0001691823002706)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectA replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691823002706</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810](https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810)  
+   Link: <a href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>First, corrections are rarely able to fully eliminate reliance on misinformation in...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282](https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOn the role of memory in misinformation correctionsby PL Kemp · 2024 · Cited by 26 — We first discuss work showing that repe...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the role of memory in misinformation correctionsby PL Kemp · 2024 · Cited by 26 — We first discuss work showing that repe...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>continued influence effect: when misinformation in memory affects later inferences.... Misinformation and its correction: continued infl...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-023-00492-z](https://link.springer.com/article/10.1186/s41235-023-00492-z)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-023-00492-z</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, concerns have been...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.3758/s13421-023-01402-w](https://link.springer.com/article/10.3758/s13421-023-01402-w)  
+   Link: <a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 25 — Research on the continue...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/elements/persistence-of-misinformation/1C45DB820E289194235818E12A202255](https://www.cambridge.org/core/elements/persistence-of-misinformation/1C45DB820E289194235818E12A202255)  
+   Link: <a href="https://www.cambridge.org/core/elements/persistence-of-misinformation/1C45DB820E289194235818E12A202255" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/elements/persistence-of-misinformation/1C45DB820E289194235818E12A202255</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentPersistence of Misinformationby Y Zhou · 2025 — There is well-documented evidence that misinformat...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: bu.edu  
-   Link: [https://www.bu.edu/ballab/pubs/Swire-Thompson2022.pdf](https://www.bu.edu/ballab/pubs/Swire-Thompson2022.pdf)  
+   Link: <a href="https://www.bu.edu/ballab/pubs/Swire-Thompson2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/ballab/pubs/Swire-Thompson2022.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston UniversityMemory failure predicts belief regression after the...by B Swire-Thompson · Cited by 55 — After misinformation has been...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/0093650219854600](https://journals.sagepub.com/doi/10.1177/0093650219854600)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0093650219854600</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA Meta-Analytic Examination of the Continued Influence...22 Jun 2019 — A meta-analysis was conducted to examine the extent...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: research-information.bris.ac.uk  
    Title: University of Bristol Swire, B., Ecker, UKH, & Lewandowsky, S  
-   Link: [https://research-information.bris.ac.uk/ws/files/148088061/JEPLMCinpress.pdf](https://research-information.bris.ac.uk/ws/files/148088061/JEPLMCinpress.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/ws/files/148088061/JEPLMCinpress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/ws/files/148088061/JEPLMCinpress.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2017). The role ofToday — The present paper investigates whether the continued influence effect is at least partially familiarity-driven...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Briony-Swire-Thompson](https://www.researchgate.net/profile/Briony-Swire-Thompson)  
+   Link: <a href="https://www.researchgate.net/profile/Briony-Swire-Thompson" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Briony-Swire-Thompson</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Briony SWIRE-THOMPSON | Assistant ProfessorThe backfire effect is when a correction increases belief in the very misconception it is atte...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ojs.bbwpublisher.com  
-   Link: [https://ojs.bbwpublisher.com/index.php/ssr/article/view/14854](https://ojs.bbwpublisher.com/index.php/ssr/article/view/14854)  
+   Link: <a href="https://ojs.bbwpublisher.com/index.php/ssr/article/view/14854" target="_blank" rel="noopener noreferrer nofollow">https://ojs.bbwpublisher.com/index.php/ssr/article/view/14854</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Fades: Misinformation Correction as a...Corrections fade when they lose attention, lose control over how they are understood...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: shapingtomorrowsworld.org  
-   Link: [https://www.shapingtomorrowsworld.org/author/bswire](https://www.shapingtomorrowsworld.org/author/bswire)  
+   Link: <a href="https://www.shapingtomorrowsworld.org/author/bswire" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/author/bswire</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Briony Swire | Shaping Tomorrows World20 Jun 2017 — Unfortunately, the task of correcting misinformation is far from trivial...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: ouci.dntb.gov.ua  
-   Link: [https://ouci.dntb.gov.ua/en/works/4vBM0OM4/](https://ouci.dntb.gov.ua/en/works/4vBM0OM4/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/4vBM0OM4/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4vBM0OM4/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the role of memory in misinformation correctionsThis study examines whether [media literacy](&amp;#123;&amp;#123; &#x27;media-literacy/&#x27; | relative_url &amp;#125;&amp;#125;) can effectively combat health misinformation b...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: research-information.bris.ac.uk  
-   Link: [https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf](https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Theoretical accounts of the CIE  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>function and the continued influence of misinformationby P McIlhiney · 2023 · Cited by 13 — Misinformation can continue to influence reas...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/394379018_Sustaining_corrected_beliefs_in_false_news_headlines_over_time_The_roles_of_correction_format_and_recognizing_corrections](https://www.researchgate.net/publication/394379018_Sustaining_corrected_beliefs_in_false_news_headlines_over_time_The_roles_of_correction_format_and_recognizing_corrections)  
+   Link: <a href="https://www.researchgate.net/publication/394379018_Sustaining_corrected_beliefs_in_false_news_headlines_over_time_The_roles_of_correction_format_and_recognizing_corrections" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394379018_Sustaining_corrected_beliefs_in_false_news_headlines_over_time_The_roles_of_correction_format_and_recognizing_corrections</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These effects can be mitigated by issuing fact-checked...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: discovery.ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf](https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>updating in the face of misinformation - UCL Discoveryby GA Sanna · 2025 · Cited by 10 — Misinformation and its correction: Continued inf...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: shorensteincenter.org  
-   Link: [https://shorensteincenter.org/event/memory-belief-regression-correction-misinformation/](https://shorensteincenter.org/event/memory-belief-regression-correction-misinformation/)  
+   Link: <a href="https://shorensteincenter.org/event/memory-belief-regression-correction-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://shorensteincenter.org/event/memory-belief-regression-correction-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, this change is rarely sustained over time...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: tandfonline.com  
    Title: Full article: Do Beliefs Echo?  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2623049](https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2623049)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2623049" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2623049</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On the Persistent Effects of...by J Fenger · 2026 — Misinformation is widely believed to distort public opinion and influence evaluation...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/216650/1/s41235-024-00585-3.pdf](https://eprints.whiterose.ac.uk/id/eprint/216650/1/s41235-024-00585-3.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/216650/1/s41235-024-00585-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/216650/1/s41235-024-00585-3.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[fake news headlines](&amp;#123;&amp;#123; &#x27;headlines/&#x27; | relative_url &amp;#125;&amp;#125;) after repeated exposureby PL Kemp · 2024 · Cited by 5 — Repeating misinformation during corrections sometimes leads t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: firstdraftnews.org  
-   Link: [https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/](https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/)  
+   Link: <a href="https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First DraftThe psychology of misinformation: Why it&#x27;s so hard to correctJul 14, 2020 — The continued influence effect is when misinformat...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10284569/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10284569/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby EJ Newman · 2022 · Cited by 20 — One of the main issues with misinformation is that people often continue to rely on misinformation...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10284569/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10284569/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by EJ Newman · 2022 · Cited by 20 — One of the main issues with misinformation is that people often continue to rely on misinformation...</p></details>

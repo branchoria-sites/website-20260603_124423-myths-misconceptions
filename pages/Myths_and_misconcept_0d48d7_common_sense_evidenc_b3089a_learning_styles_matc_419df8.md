@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea
 - Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - common-sense
 - learning-styles
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - common-sense
 - learning-styles
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Learning preferences may feel personal, but the key claim fails when matched teaching does not reliably improve outcomes.
 hero_summary: Learning preferences may feel personal, but the key claim fails when matched teaching does not reliably improve outcomes.
 layout: default
 permalink: /learning-styles-cb868a/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /common-sense/
 nav_short_title: Learning styles
 title: Do learning styles actually improve learning?
-title_full: Do learning styles actually improve learning? | Common Sense
+title_full: Do learning styles actually improve learning?
 display_title_short: Learning styles
 display_title: Learning styles
 heading_title: Do learning styles actually improve learning?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Common Sense Leads US Wrong | Mythcraft
+parent_title: When Common Sense Leads US Wrong
 parent_permalink: /common-sense/
 parent_nav_short_title: Common Sense
 parent_heading_title: When Common Sense Leads US Wrong
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: What would we see if it were true?
 up_link:
   basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
@@ -265,7 +265,7 @@ next_link:
   permalink: /prediction-test/
   short_title: Prediction test
   heading_title: What would we see if it were true?
-date: '2026-06-09 05:04:04 '
+date: '2026-06-11 22:21:14 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8-Illustration-1.webp
@@ -274,11 +274,10 @@ image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_le
 
 ## Introduction
 
-The learning styles idea survives because it feels both intuitive and respectful. If one student prefers diagrams and another prefers spoken explanations, it seems obvious that each should be taught in their preferred format. Yet the central claim of learning styles is not merely that people have preferences. It is that students learn more effectively when instruction is matched to those preferences. When researchers have tested that prediction directly, the expected advantage has largely failed to appear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span>
-
+The learning styles idea survives because it feels both intuitive and respectful. If one student prefers diagrams and another prefers spoken explanations, it seems obvious that each should be taught in their preferred format. Yet the central claim of learning styles is not merely that people have preferences. It is that students learn more effectively when instruction is matched to those preferences. When researchers have tested that prediction directly, the expected advantage has largely failed to appear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8-Illustration-1-dark.svg" | relative_url }}" alt="Learning styles illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because the learning styles debate is a useful example of how [common sense]({{ 'common-sense/' | relative_url }}) can mislead. The theory sounds plausible before testing. Once researchers ask what evidence should appear if the theory were true, the picture changes. Decades of reviews, experiments and evidence summaries have found little support for the idea that matching teaching to a learner's preferred style reliably improves learning outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it really a neuromyth?</span><span class="citation-popover-snippet">A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 27 — The review by Pashler et al. (2008) concluded that t...</span></span></span>
+This matters because the learning styles debate is a useful example of how [common sense]({{ 'common-sense/' | relative_url }}) can mislead. The theory sounds plausible before testing. Once researchers ask what evidence should appear if the theory were true, the picture changes. Decades of reviews, experiments and evidence summaries have found little support for the idea that matching teaching to a learner's preferred style reliably improves learning outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it really a neuromyth?</span><span class="citation-popover-snippet">A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 27 — The review by Pashler et al. (2008) concluded that t...</span></span></span>
 
 ## The difference between preference and proof
 
@@ -286,7 +285,7 @@ One reason the learning styles idea is hard to dislodge is that it mixes togethe
 
 The first claim is uncontroversial: people often have learning preferences. Some students like videos, others like reading, and others prefer discussion or hands-on practice. Most teachers recognise this immediately because students regularly report such preferences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poorvucenter.yale.edu">[Poorvu Center for Teaching and Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poorvucenter.yale.edu</span><span class="citation-popover-snippet">Students may...Read more...</span></span></span>
 
-The second claim is much stronger: those preferences reveal the best way for a person to learn, and teaching should therefore be matched to the preferred style. This is the claim that researchers have repeatedly tested. Evidence that students enjoy a format more, or choose it more often, is not enough. The theory only succeeds if matched instruction produces better learning than non-matched instruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/summer2018/willingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">American Federation of TeachersAsk the Cognitive Scientist: Does Tailoring Instruction to “...by DT Willingham · Cited by 43 — There&#x27;s n...</span></span></span>
+The second claim is much stronger: those preferences reveal the best way for a person to learn, and teaching should therefore be matched to the preferred style. This is the claim that researchers have repeatedly tested. Evidence that students enjoy a format more, or choose it more often, is not enough. The theory only succeeds if matched instruction produces better learning than non-matched instruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/summer2018/willingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">American Federation of TeachersAsk the Cognitive Scientist: Does Tailoring Instruction to “...by DT Willingham · Cited by 43 — There&#x27;s n...</span></span></span>
 
 That distinction is easy to miss because preference and effectiveness often feel like the same thing. In everyday life people assume that liking a method means benefiting from it. Education research has repeatedly shown that the two do not always move together. Students can prefer a learning experience that feels easier while learning no more, or even less, from it.
 
@@ -297,7 +296,6 @@ The learning styles hypothesis is often called the "matching" or "meshing" hypot
 Researchers such as Harold Pashler and colleagues argued that a proper test requires several steps. Students must first be classified into different learning-style groups, such as visual and auditory learners. They must then be randomly assigned to different instructional formats. Finally, everyone must take the same assessment so researchers can compare outcomes fairly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — To provide evidence for the learning-styles hypo...</span></span></span>
 
 More importantly, the results should show a crossover pattern:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -313,14 +311,13 @@ This requirement sounds technical, but it is the key test. A theory about matchi
 
 ## What researchers actually found
 
-The most influential review appeared in 2008 when Pashler and colleagues examined the evidence for learning styles. They concluded that very few studies used methods capable of testing the matching hypothesis properly and that the available evidence did not support its educational use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span>
+The most influential review appeared in 2008 when Pashler and colleagues examined the evidence for learning styles. They concluded that very few studies used methods capable of testing the matching hypothesis properly and that the available evidence did not support its educational use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span>
 
 Subsequent reviews largely reached the same conclusion. Reviews discussed by Aslaksen and Lorås, Cuevas, Rohrer and Pashler, and later evidence summaries found little convincing support for matching instruction to preferred styles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it really a neuromyth?</span><span class="citation-popover-snippet">A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 27 — The review by Pashler et al. (2008) concluded that t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it really a neuromyth?</span><span class="citation-popover-snippet">A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 27 — The review by Pashler et al. (2008) concluded that t...</span></span></span> The pattern is striking because learning styles became enormously popular despite weak evidence. A 2024 meta-analysis reviewing the field noted that multiple reviews since 2008 have continued to report a lack of empirical support for the matching hypothesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it really a neuromyth?</span><span class="citation-popover-snippet">A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 27 — The review by Pashler et al. (2008) concluded that t...</span></span></span>
 
 Educational organisations have reached similar conclusions. The Education Endowment Foundation in the UK states that there is no evidence that grouping pupils by learning styles improves outcomes and notes that rigorous supporting studies are extremely limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">e disadvantage attainment gap. Adaptive...Read more...</span></span></span>
 
 The result is not that every study finds absolutely nothing. Education research often produces mixed findings. The problem is that positive results are inconsistent, frequently methodologically weak, and do not add up to the strong, repeatable pattern that the theory predicts. If matching instruction genuinely transformed learning, decades of research should have produced much clearer evidence by now. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it really a neuromyth?</span><span class="citation-popover-snippet">A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 27 — The review by Pashler et al. (2008) concluded that t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-025-10002-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Learning Styles, Preferences, or Strategies?</span><span class="citation-popover-snippet">An Explanation...by J Hattie · 2025 · Cited by 58 — The matching or meshing hypothesis suggests that if individuals are taught in their...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8-Illustration-2-dark.svg" | relative_url }}" alt="Learning styles illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why intuitive personalisation can still mislead
@@ -343,11 +340,9 @@ Teachers frequently encounter students who insist they are visual learners or au
 
 The theory also benefits from being difficult to falsify in everyday settings. If a student succeeds, supporters can say the teaching style matched correctly. If the student struggles, they can say the style was identified incorrectly or implemented poorly. Formal experiments are designed precisely to avoid these kinds of after-the-fact explanations.
 
-Research suggests belief remains widespread even among educators and trainee teachers despite repeated evidence reviews questioning the theory. That persistence illustrates a broader feature of misconceptions: ideas that feel humane, personalised and familiar often survive long after the supporting evidence weakens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aeon.co/essays/the-evidence-is-clear-learning-styles-theory-doesnt-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeon.co">[Aeon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeon.co</span><span class="citation-popover-title">the evidence is clear learning styles theory doesnt work</span><span class="citation-popover-snippet">AeonThe evidence is clear: learning styles theory doesn&#x27;t work26 Jan 2023 — A systematic review in 2020 found that 95.4 per cent of train...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swansea.ac.uk">[Swansea]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swansea.ac.uk</span><span class="citation-popover-snippet">He said: “There is no sign that this is declining...Read more...</span></span></span>
+Research suggests belief remains widespread even among educators and trainee teachers despite repeated evidence reviews questioning the theory. That persistence illustrates a broader feature of misconceptions: ideas that feel humane, personalised and familiar often survive long after the supporting evidence weakens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aeon.co/essays/the-evidence-is-clear-learning-styles-theory-doesnt-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeon.co">[Aeon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeon.co</span><span class="citation-popover-title">the evidence is clear learning styles theory doesnt work</span><span class="citation-popover-snippet">The evidence is clear: learning styles theory doesn&#x27;t work26 Jan 2023 — A systematic review in 2020 found that 95.4 per cent of train...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swansea.ac.uk">[Swansea]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swansea.ac.uk</span><span class="citation-popover-snippet">He said: “There is no sign that this is declining...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhgwIhB58PA" title="The Biggest Myth In Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer">The Biggest Myth In Education</a></p><p class="youtube-embed-meta">Channel: Veritasium</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhgwIhB58PA">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8-Illustration-3-dark.svg" | relative_url }}" alt="Learning styles illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What survives after the matching claim fails
 
 Rejecting the matching hypothesis does not require abandoning varied teaching methods.
@@ -355,7 +350,6 @@ Rejecting the matching hypothesis does not require abandoning varied teaching me
 Many researchers and educational organisations emphasise that using multiple representations can still be valuable. Diagrams, spoken explanations, text, examples and practical activities can complement one another because they help learners understand material in different ways. The evidence against learning styles is not evidence against variety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.structural-learning.com/post/learning-styles-myth-debunked" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: structural-learning.com">[Structural Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">structural-learning.com</span><span class="citation-popover-title">learning styles myth debunked</span><span class="citation-popover-snippet">2008) reviewed 70+ studies and found virtually no evidence that matching instruction to learning style improves achievement.Read more...</span></span></span>
 
 The important change is where the justification comes from. Instead of asking, "Is this student a visual learner?" educators ask questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -368,13 +362,11 @@ The important change is where the justification comes from. Instead of asking, "
 
 Those questions focus on demonstrated learning outcomes rather than assumed style categories. American Federation of Teachers <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlineteaching.umich.edu/articles/the-myth-of-learning-styles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlineteaching.umich.edu">[Online Teaching]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlineteaching.umich.edu</span><span class="citation-popover-title">the myth of learning styles</span><span class="citation-popover-snippet">Online TeachingRoundup on Research: The Myth of &#x27;Learning Styles&#x27;10 Jan 2024 — Simply put, there is no evidence that supports teaching to...</span></span></span>
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8-Illustration-3-dark.svg" | relative_url }}" alt="Learning styles illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the matching test matters beyond education
 
 The learning styles debate is a useful lesson in evidence itself. The theory sounds reasonable because it starts from a true observation: people differ. The leap happens when that observation becomes a stronger claim about what improves learning.
 
-That stronger claim makes a prediction. If learning styles are real in the educational sense, students should consistently learn more when teaching is matched to their identified style. Researchers looked for that pattern and largely failed to find it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it really a neuromyth?</span><span class="citation-popover-snippet">A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 27 — The review by Pashler et al. (2008) concluded that t...</span></span></span> The broader lesson is that plausibility is not enough. Many misconceptions survive because they feel personalised, intuitive or compassionate before anyone checks whether the predicted results actually appear. Learning styles remain one of the clearest examples of a belief that passes the common-sense test but struggles when subjected to the matching test it logically requires. My College <span class="citation-chip-wrap"><a class="citation-chip" href="https://eric.ed.gov/?id=EJ1370565" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[2eric.ed.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-snippet">ERICby DL Dinsmore · 2022 · Cited by 25 — This article begins by discussing the evidence against learning styles. Second, the article dis...</span></span></span>
+That stronger claim makes a prediction. If learning styles are real in the educational sense, students should consistently learn more when teaching is matched to their identified style. Researchers looked for that pattern and largely failed to find it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it really a neuromyth?</span><span class="citation-popover-snippet">A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 27 — The review by Pashler et al. (2008) concluded that t...</span></span></span> The broader lesson is that plausibility is not enough. Many misconceptions survive because they feel personalised, intuitive or compassionate before anyone checks whether the predicted results actually appear. Learning styles remain one of the clearest examples of a belief that passes the common-sense test but struggles when subjected to the matching test it logically requires. My College <span class="citation-chip-wrap"><a class="citation-chip" href="https://eric.ed.gov/?id=EJ1370565" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[2eric.ed.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-snippet">by DL Dinsmore · 2022 · Cited by 25 — This article begins by discussing the evidence against learning styles. Second, the article dis...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -772,170 +764,170 @@ That stronger claim makes a prediction. If learning styles are real in the educa
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Modality-Specific Learning Style Hypothesis: A Mini-Reviewby K Aslaksen · 2018 · Cited by 98 — This mini-review presents literatur...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Modality-Specific Learning Style Hypothesis: A Mini-Reviewby K Aslaksen · 2018 · Cited by 98 — This mini-review presents literatur...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e disadvantage attainment gap. Adaptive...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
    Title: Learning Styles, Preferences, or Strategies?  
-   Link: [https://link.springer.com/article/10.1007/s10648-025-10002-w](https://link.springer.com/article/10.1007/s10648-025-10002-w)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10648-025-10002-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-025-10002-w</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Explanation...by J Hattie · 2025 · Cited by 58 — The matching or meshing hypothesis suggests that if individuals are taught in their...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCIs it really a neuromyth?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 27 — The review by Pashler et al. (2008) concluded that t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11251-024-09689-1](https://link.springer.com/article/10.1007/s11251-024-09689-1)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11251-024-09689-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11251-024-09689-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the meshing hypothesis in prospective teachers: Are...by L Melzner · 2025 · Cited by 2 — The study provides further evidence that consid...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: structural-learning.com  
    Title: learning styles myth debunked  
-   Link: [https://www.structural-learning.com/post/learning-styles-myth-debunked](https://www.structural-learning.com/post/learning-styles-myth-debunked)  
+   Link: <a href="https://www.structural-learning.com/post/learning-styles-myth-debunked" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/learning-styles-myth-debunked</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2008) reviewed 70+ studies and found virtually no evidence that matching instruction to learning style improves achievement.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aeon.co  
    Title: the evidence is clear learning styles theory doesnt work  
-   Link: [https://aeon.co/essays/the-evidence-is-clear-learning-styles-theory-doesnt-work](https://aeon.co/essays/the-evidence-is-clear-learning-styles-theory-doesnt-work)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AeonThe evidence is clear: learning styles theory doesn&#x27;t work26 Jan 2023 — A systematic review in 2020 found that 95.4 per cent of train...</p></details>
+   Link: <a href="https://aeon.co/essays/the-evidence-is-clear-learning-styles-theory-doesnt-work" target="_blank" rel="noopener noreferrer nofollow">https://aeon.co/essays/the-evidence-is-clear-learning-styles-theory-doesnt-work</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The evidence is clear: learning styles theory doesn&#x27;t work26 Jan 2023 — A systematic review in 2020 found that 95.4 per cent of train...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: structural-learning.com  
    Title: eef teaching learning toolkit guide  
-   Link: [https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide](https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide)  
+   Link: <a href="https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is because evidence does not support teaching to a pupil&#x27;s preferred style. However, the...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: eric.ed.gov  
-   Link: [https://eric.ed.gov/?id=EJ1370565](https://eric.ed.gov/?id=EJ1370565)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICby DL Dinsmore · 2022 · Cited by 25 — This article begins by discussing the evidence against learning styles. Second, the article dis...</p></details>
+   Link: <a href="https://eric.ed.gov/?id=EJ1370565" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ1370565</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by DL Dinsmore · 2022 · Cited by 25 — This article begins by discussing the evidence against learning styles. Second, the article dis...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: structural-learning.com  
    Title: learning styles  
-   Link: [https://www.structural-learning.com/post/learning-styles](https://www.structural-learning.com/post/learning-styles)  
+   Link: <a href="https://www.structural-learning.com/post/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/learning-styles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What the Research Actually Says Aboutby P Main · 2026 · Cited by 2 — Pashler et al.&#x27;s (2008) comprehensive review found virtually no evid...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26162104/](https://pubmed.ncbi.nlm.nih.gov/26162104/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26162104/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1111/j.1539-6053.2009.01038.x](https://journals.sagepub.com/doi/10.1111/j.1539-6053.2009.01038.x)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1111/j.1539-6053.2009.01038.x</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — To provide evidence for the learning-styles hypo...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: poorvucenter.yale.edu  
-   Link: [https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth](https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth)  
+   Link: <a href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow">https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Students may...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aft.org  
-   Link: [https://www.aft.org/ae/summer2018/willingham](https://www.aft.org/ae/summer2018/willingham)  
+   Link: <a href="https://www.aft.org/ae/summer2018/willingham" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/summer2018/willingham</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Federation of TeachersAsk the Cognitive Scientist: Does Tailoring Instruction to “...by DT Willingham · Cited by 43 — There&#x27;s n...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: onlineteaching.umich.edu  
    Title: the myth of learning styles  
-   Link: [https://onlineteaching.umich.edu/articles/the-myth-of-learning-styles/](https://onlineteaching.umich.edu/articles/the-myth-of-learning-styles/)  
+   Link: <a href="https://onlineteaching.umich.edu/articles/the-myth-of-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://onlineteaching.umich.edu/articles/the-myth-of-learning-styles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Online TeachingRoundup on Research: The Myth of &#x27;Learning Styles&#x27;10 Jan 2024 — Simply put, there is no evidence that supports teaching to...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/impact_article/the-problem-with-learning-styles-[debunking](https://my.chartered.college/impact_article/the-problem-with-learning-styles-[debunking)  
+   Link: <a href="https://my.chartered.college/impact_article/the-problem-with-learning-styles-[debunking" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/the-problem-with-learning-styles-[debunking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>My CollegeThe problem with learning styles: debunking the meshing...22 Feb 2018 — The idea that catering to a learner&#x27;s favoured sensory...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bjorklab.psych.ucla.edu  
    Title: Bjork Learning Lab Learning Styles  
-   Link: [https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf](https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf)  
+   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork Learning LabLearning StylesDecember 8, 2009 — by H Pashler · Cited by 5022 — Note that the learning-styles hypothesis, as defined h...</p></details>
    Published: December 8, 2009  
 
 18. <a id="endnote-18"></a>
    Source: learningguild.com  
    Title: research discredits learning styles matching hypothesis  
-   Link: [https://www.learningguild.com/articles/research-discredits-learning-styles-matching-hypothesis](https://www.learningguild.com/articles/research-discredits-learning-styles-matching-hypothesis)  
+   Link: <a href="https://www.learningguild.com/articles/research-discredits-learning-styles-matching-hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://www.learningguild.com/articles/research-discredits-learning-styles-matching-hypothesis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Harold Pashler et al. published a comprehensive attempt to determine whether the matching hypothesis was valid.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/cy-gb/education-evidence/teaching-learning-toolkit/learning-styles/technical-appendix](https://educationendowmentfoundation.org.uk/cy-gb/education-evidence/teaching-learning-toolkit/learning-styles/technical-appendix)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/cy-gb/education-evidence/teaching-learning-toolkit/learning-styles/technical-appendix" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/cy-gb/education-evidence/teaching-learning-toolkit/learning-styles/technical-appendix</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EEF | Arddulliau dysgu: Technical AppendixThe lack of identified studies that tested learning styles approaches rigorously mean that the...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: swansea.ac.uk  
-   Link: [https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php](https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php)  
+   Link: <a href="https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php" target="_blank" rel="noopener noreferrer nofollow">https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He said: “There is no sign that this is declining...Read more...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/](https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/)  
+   Link: <a href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Children have different learning stylesThe Education Endowment Foundation Teaching and Learning Toolkit provides an excellent summary of...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: gc-bs.org  
-   Link: [https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/](https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/)  
+   Link: <a href="https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Learning Styles Myth and Embracing an...12 Jan 2026 — It is this specific, causal claim that matching instruction to style...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
    Title: 371116643 Matching Learning Style to Instructional Format Penalizes Learning  
-   Link: [https://www.researchgate.net/publication/371116643_Matching_Learning_Style_to_Instructional_Format_Penalizes_Learning](https://www.researchgate.net/publication/371116643_Matching_Learning_Style_to_Instructional_Format_Penalizes_Learning)  
+   Link: <a href="https://www.researchgate.net/publication/371116643_Matching_Learning_Style_to_Instructional_Format_Penalizes_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371116643_Matching_Learning_Style_to_Instructional_Format_Penalizes_Learning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Matching Learning Style to Instructional Format Penalizes...17 Mar 2026 — Experiments have failed to support the matching hypothesis tha...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: mirjamglessmer.com  
    Title: the learning styles myth based on pashler et al 2008 nancekivell et al 2020  
-   Link: [https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/](https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/)  
+   Link: <a href="https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/" target="_blank" rel="noopener noreferrer nofollow">https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The learning styles myth (based on Pashler et al., 200825 Jun 2021 — Learning styles are a bit of a myth. When you ask people, yes, they...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: fee.org  
    Title: learning styles don t actually exist studies show  
-   Link: [https://fee.org/articles/learning-styles-don-t-actually-exist-studies-show/](https://fee.org/articles/learning-styles-don-t-actually-exist-studies-show/)  
+   Link: <a href="https://fee.org/articles/learning-styles-don-t-actually-exist-studies-show/" target="_blank" rel="noopener noreferrer nofollow">https://fee.org/articles/learning-styles-don-t-actually-exist-studies-show/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles Don&#x27;t Actually Exist, Studies ShowAug 12, 2022 — “There is no credible evidence that learning styles exist,” write psycho...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: kumon.ie  
    Title: Identifying children's different learning styles  
-   Link: [https://www.kumon.ie/blog/identifying-childrens-different-learning-styles](https://www.kumon.ie/blog/identifying-childrens-different-learning-styles)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KumonWhilst the matching of teaching material to children&#x27;s learning styles is no longer believed to be a constructive teaching approach...</p></details>
+   Link: <a href="https://www.kumon.ie/blog/identifying-childrens-different-learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.kumon.ie/blog/identifying-childrens-different-learning-styles</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whilst the matching of teaching material to children&#x27;s learning styles is no longer believed to be a constructive teaching approach...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: Teaching and Learning Toolkit An accessible  
-   Link: [https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching and Learning ToolkitAn accessible summary of education evidence. Watch the Toolkit explainer. Read our guide to using the Toolki...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/donavere-benjamin-mahon-195b2b108_too-often-exercise-books-are-the-most-underrated-activity-7323710909284061184-VCXy](https://www.linkedin.com/posts/donavere-benjamin-mahon-195b2b108_too-often-exercise-books-are-the-most-underrated-activity-7323710909284061184-VCXy)  
+   Link: <a href="https://www.linkedin.com/posts/donavere-benjamin-mahon-195b2b108_too-often-exercise-books-are-the-most-underrated-activity-7323710909284061184-VCXy" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/donavere-benjamin-mahon-195b2b108_too-often-exercise-books-are-the-most-underrated-activity-7323710909284061184-VCXy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ng style.&quot; Yet, meta-analyses shows that this meshing...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: theguardian.com  
    Title: no evidence to back idea of learning styles  
-   Link: [https://www.theguardian.com/education/2017/mar/12/no-evidence-to-back-idea-of-learning-styles](https://www.theguardian.com/education/2017/mar/12/no-evidence-to-back-idea-of-learning-styles)  
+   Link: <a href="https://www.theguardian.com/education/2017/mar/12/no-evidence-to-back-idea-of-learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2017/mar/12/no-evidence-to-back-idea-of-learning-styles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LetterMar 12, 2017 — The Educational Endowment Foundation in the UK has concluded that learning styles is “Low impact for very low cost...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: studiessuggest.org  
    Title: 93% of Teachers Believe in Learning Styles  
-   Link: [https://studiessuggest.org/stories/learning-styles-no-evidence-matching-instruction.html](https://studiessuggest.org/stories/learning-styles-no-evidence-matching-instruction.html)  
+   Link: <a href="https://studiessuggest.org/stories/learning-styles-no-evidence-matching-instruction.html" target="_blank" rel="noopener noreferrer nofollow">https://studiessuggest.org/stories/learning-styles-no-evidence-matching-instruction.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>After Reviewing...20 May 2026 — Virtually no evidence supports matching instruction to learning styles; several studies flatly contradic...</p></details>
-   Published: May 2026  
+   Published: May 2026

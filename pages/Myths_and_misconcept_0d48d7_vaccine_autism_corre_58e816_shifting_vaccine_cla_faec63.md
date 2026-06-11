@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_respectful_autism_co_a776d7
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_wakefield_paper_trus_ab438a
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - vaccines
 - shifting-claims
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - vaccines
 - shifting-claims
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Claims often move from MMR to thimerosal, mercury or aluminium, but broader reviews still do not support a vaccine-autism link.
 hero_summary: Claims often move from MMR to thimerosal, mercury or aluminium, but broader reviews still do not support a vaccine-autism link.
 layout: default
 permalink: /shifting-claims/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /vaccines/
 nav_short_title: Shifting claims
 title: When The Claim Changes Its Target
-title_full: When The Claim Changes Its Target | Vaccines
+title_full: When The Claim Changes Its Target
 display_title_short: Shifting claims
 display_title: Shifting claims
 heading_title: When The Claim Changes Its Target
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What the Vaccine Autism Myth Teaches Debunkers | Mythcraft
+parent_title: What the Vaccine Autism Myth Teaches Debunkers
 parent_permalink: /vaccines/
 parent_nav_short_title: Vaccines
 parent_heading_title: What the Vaccine Autism Myth Teaches Debunkers
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How One Weak Paper Became a Public Myth
 up_link:
   basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -265,7 +265,7 @@ next_link:
   permalink: /timing-trap-49e224/
   short_title: Timing trap
   heading_title: Why The Timing Can Feel So Convincing
-date: '2026-06-09 05:53:47 '
+date: '2026-06-11 22:46:53 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63-Illustration-1.webp
@@ -276,9 +276,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_sh
 
 One reason the vaccine-autism myth has proved unusually durable is that it rarely disappears when a specific claim is disproved. Instead, the focus often shifts. After the original MMR-autism narrative lost credibility, public discussion frequently moved toward vaccine ingredients such as thimerosal, mercury or aluminium. The wording changed, but the emotional conclusion often stayed the same: autism must have been caused by something hidden inside [vaccines]({{ 'vaccines/' | relative_url }}).
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63-Illustration-1-dark.svg" | relative_url }}" alt="Shifting claims illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This shift matters because it shows how myths can survive [correction]({{ 'correction/' | relative_url }}). Rather than defending the original claim, supporters may adopt a new mechanism that seems more scientifically plausible to non-specialists. Yet large reviews examining both vaccines themselves and specific ingredients have repeatedly failed to find evidence that these substances cause autism. The pattern is less about a single ingredient than about how a belief adapts when earlier versions become difficult to defend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.who.int">[WHO Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.who.int</span><span class="citation-popover-snippet">WHO CenterVaccines, thimerosal and autism spectrum disorderThe Global Advisory Committee on Vaccine Safety has reviewed the evidence rega...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK25344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIImmunization Safety Review: Vaccines and Autism</span><span class="citation-popover-snippet">NCBI - NIHThis eighth and final report of the Immunization Safety Review Committee examines the hypothesis that vaccines, specifically th...</span></span></span>
+This shift matters because it shows how myths can survive [correction]({{ 'correction/' | relative_url }}). Rather than defending the original claim, supporters may adopt a new mechanism that seems more scientifically plausible to non-specialists. Yet large reviews examining both vaccines themselves and specific ingredients have repeatedly failed to find evidence that these substances cause autism. The pattern is less about a single ingredient than about how a belief adapts when earlier versions become difficult to defend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.who.int">[WHO Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.who.int</span><span class="citation-popover-snippet">WHO CenterVaccines, thimerosal and autism spectrum disorderThe Global Advisory Committee on Vaccine Safety has reviewed the evidence rega...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK25344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIImmunization Safety Review: Vaccines and Autism</span><span class="citation-popover-snippet">NIHThis eighth and final report of the Immunization Safety Review Committee examines the hypothesis that vaccines, specifically th...</span></span></span>
 
 ## Why myths shift after a correction
 
@@ -290,14 +289,11 @@ From a misinformation perspective, this is a common adaptation pattern. A claim 
 
 This is one reason simple [debunking]({{ 'debunking/' | relative_url }}) can fail. A correction aimed only at one version of the claim may leave people prepared to accept a replacement version that feels newer, more technical or more sophisticated.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7NyNMVvhHYE" title="Vaccines Don&#x27;t Cause Autism" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7NyNMVvhHYE" target="_blank" rel="noopener noreferrer">Vaccines Don&#x27;t Cause Autism</a></p><p class="youtube-embed-meta">Channel: Texas Medical Association</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7NyNMVvhHYE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7NyNMVvhHYE">Open on YouTube</a></p></div></div></div>
-
 ## MMR, thimerosal and mercury confusion
 
 ### How thimerosal became the next focus
 
-Thimerosal is a preservative that was used in some vaccines to prevent bacterial contamination, particularly in multi-dose vials. It contains ethylmercury, a form of mercury that is processed differently by the body from methylmercury, the type associated with environmental poisoning concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMp078187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineThimerosal and Vaccines — A Cautionary Taleby PA Offit · 2007 · Cited by 121 — The use of mercury in vacci...</span></span></span>
+Thimerosal is a preservative that was used in some vaccines to prevent bacterial contamination, particularly in multi-dose vials. It contains ethylmercury, a form of mercury that is processed differently by the body from methylmercury, the type associated with environmental poisoning concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMp078187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineThimerosal and Vaccines  A Cautionary Taleby PA Offit  2007  Cited by 121  The use of mercury in vacci...</span></span></span>
 
 As public concern about MMR intensified in the late 1990s and early 2000s, attention increasingly shifted toward thimerosal. The word "mercury" carried strong emotional weight because many people already associated mercury with neurological damage. For critics of vaccination, this created a new explanatory narrative that seemed more biologically plausible than the original MMR claim.
 
@@ -305,12 +301,11 @@ A key complication is that MMR never contained thimerosal. The ingredient-focuse
 
 ### Why the mercury argument persisted
 
-The thimerosal controversy was strengthened by a precautionary policy decision that was often misunderstood. In the United States and several other countries, thimerosal was removed or reduced in most childhood vaccines beginning around 1999–2001. Public-health agencies described this as a precautionary measure intended to reduce overall mercury exposure, not as evidence that harm had been demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMp078187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineThimerosal and Vaccines — A Cautionary Taleby PA Offit · 2007 · Cited by 121 — The use of mercury in vacci...</span></span></span>
+The thimerosal controversy was strengthened by a precautionary policy decision that was often misunderstood. In the United States and several other countries, thimerosal was removed or reduced in most childhood vaccines beginning around 19992001. Public-health agencies described this as a precautionary measure intended to reduce overall mercury exposure, not as evidence that harm had been demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMp078187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineThimerosal and Vaccines  A Cautionary Taleby PA Offit  2007  Cited by 121  The use of mercury in vacci...</span></span></span>
 
 However, many people interpreted the removal differently. If an ingredient was taken out, they reasoned, it must have been dangerous. That interpretation became part of the myth's survival strategy.
 
-The difficulty for the ingredient hypothesis is that autism diagnoses continued to rise after thimerosal exposure in childhood vaccines declined sharply. If thimerosal had been a major cause, a corresponding reduction in autism rates would have been expected. Large epidemiological studies did not show that pattern. Reviews by the Institute of Medicine, later renamed the National Academy of Medicine, concluded that the evidence favoured rejection of a causal relationship between thimerosal-containing vaccines and autism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK25344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIImmunization Safety Review: Vaccines and Autism</span><span class="citation-popover-snippet">NCBI - NIHThis eighth and final report of the Immunization Safety Review Committee examines the hypothesis that vaccines, specifically th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/publications/10997" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Immunization Safety Review: Vaccines and Autism 2004Immunization Safety Review: Vaccines and Autism finds that the body of epidemiologica...</span></span></span>
-
+The difficulty for the ingredient hypothesis is that autism diagnoses continued to rise after thimerosal exposure in childhood vaccines declined sharply. If thimerosal had been a major cause, a corresponding reduction in autism rates would have been expected. Large epidemiological studies did not show that pattern. Reviews by the Institute of Medicine, later renamed the National Academy of Medicine, concluded that the evidence favoured rejection of a causal relationship between thimerosal-containing vaccines and autism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK25344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIImmunization Safety Review: Vaccines and Autism</span><span class="citation-popover-snippet">NIHThis eighth and final report of the Immunization Safety Review Committee examines the hypothesis that vaccines, specifically th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/publications/10997" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Immunization Safety Review: Vaccines and Autism 2004Immunization Safety Review: Vaccines and Autism finds that the body of epidemiologica...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63-Illustration-2-dark.svg" | relative_url }}" alt="Shifting claims illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How reviews test broader ingredient claims
@@ -321,23 +316,19 @@ Researchers eventually examined a broader question than the original MMR controv
 
 This matters because myths often expand after a correction. If one vaccine appears cleared, suspicion can move to another vaccine or another ingredient. A broader review strategy tests whether the proposed problem survives when examined across different populations, products and exposure levels.
 
-A major meta-analysis published in 2014 combined evidence from multiple cohort and case-control studies involving more than a million children. It found no relationship between autism and vaccination, MMR vaccination or thimerosal exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedVaccines are not associated with autism: an evidence...by LE Taylor · 2014 · Cited by 1055 — There has been enormous debate regard...</span></span></span>
+A major meta-analysis published in 2014 combined evidence from multiple cohort and case-control studies involving more than a million children. It found no relationship between autism and vaccination, MMR vaccination or thimerosal exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Vaccines are not associated with autism: an evidence...by LE Taylor  2014  Cited by 1055  There has been enormous debate regard...</span></span></span>
 
 The Institute of Medicine's vaccine safety review reached similar conclusions after examining both epidemiological evidence and proposed biological mechanisms. The committee found that available evidence favoured rejecting a causal relationship between autism and either MMR vaccine or thimerosal-containing vaccines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK25338/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Summary - Immunization Safety Review - NCBI - NIHThe committee concludes that the evidence favors rejection of a causal relationship betw...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-EPbylsBuzg" title="Everything You Need to Know (And Forget) About Vaccines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-EPbylsBuzg" target="_blank" rel="noopener noreferrer">Everything You Need to Know (And Forget) About Vaccines</a></p><p class="youtube-embed-meta">Channel: Professor Dave Explains</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-EPbylsBuzg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-EPbylsBuzg">Open on YouTube</a></p></div></div></div>
 
 ### The recurring aluminium claim
 
 As concerns about thimerosal became harder to sustain scientifically, attention increasingly shifted again, this time toward aluminium-containing adjuvants. Adjuvants are substances added to some vaccines to improve the immune response.
 
-The argument follows a familiar pattern. Because aluminium can be toxic at sufficiently high exposures in certain contexts, critics suggest that aluminium adjuvants might contribute to autism or other neurological disorders. Some papers have proposed such links, and these studies are frequently cited in vaccine-sceptical communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedVaccines are not associated with autism: an evidence...by LE Taylor · 2014 · Cited by 1055 — There has been enormous debate regard...</span></span></span>
+The argument follows a familiar pattern. Because aluminium can be toxic at sufficiently high exposures in certain contexts, critics suggest that aluminium adjuvants might contribute to autism or other neurological disorders. Some papers have proposed such links, and these studies are frequently cited in vaccine-sceptical communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Vaccines are not associated with autism: an evidence...by LE Taylor  2014  Cited by 1055  There has been enormous debate regard...</span></span></span>
 
 However, large-scale reviews and population studies have not supported that conclusion. The World Health Organization's Global Advisory Committee on Vaccine Safety reviewed claims linking aluminium-containing vaccines to autism and found that available evidence did not support a causal relationship. More recent large cohort studies examining childhood exposure to aluminium-adjuvanted vaccines have likewise not found increased risks of autism or other neurodevelopmental disorders. CIDRAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/adjuvants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationAdjuvantsThe GACVS reviewed 2 published papers alleging that aluminium in vaccines is associated with autism spe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/adjuvants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationAdjuvantsThe GACVS reviewed 2 published papers alleging that aluminium in vaccines is associated with autism spe...</span></span></span>
 
 The important point is not that aluminium concerns emerged from nowhere. Rather, they illustrate how the vaccine-autism claim repeatedly relocates to a different ingredient once earlier versions fail to gain support from larger and better-designed studies.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63-Illustration-3-dark.svg" | relative_url }}" alt="Shifting claims illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why ingredient debates feel persuasive
@@ -346,7 +337,7 @@ Ingredient-focused claims often sound more convincing than broad claims about va
 
 This can create a rhetorical shortcut. If a substance is harmful in one situation, people may assume it must be harmful in every situation. But toxicology depends heavily on form, dose, route of exposure and biological processing. Reviews of vaccine ingredients therefore do not simply ask whether a substance can ever be harmful; they ask whether the specific exposures involved in vaccination are associated with measurable increases in autism risk.
 
-That distinction explains why scientific reviews focus heavily on population evidence. If an ingredient were contributing substantially to autism rates, researchers would expect to detect consistent patterns across countries, vaccine schedules and exposure levels. Repeated reviews have not found such patterns for thimerosal or aluminium-containing vaccine ingredients. PubMed 3WHO Center <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3018252/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThimerosal-Containing Vaccines and Autism: A Review</span><span class="citation-popover-snippet">PMCby AM Hurley · 2010 · Cited by 77 — Epidemiologic studies continue to provide evidence that there is no association between thimerosal...</span></span></span>
+That distinction explains why scientific reviews focus heavily on population evidence. If an ingredient were contributing substantially to autism rates, researchers would expect to detect consistent patterns across countries, vaccine schedules and exposure levels. Repeated reviews have not found such patterns for thimerosal or aluminium-containing vaccine ingredients. PubMed 3WHO Center <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3018252/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThimerosal-Containing Vaccines and Autism: A Review</span><span class="citation-popover-snippet">by AM Hurley  2010  Cited by 77  Epidemiologic studies continue to provide evidence that there is no association between thimerosal...</span></span></span>
 
 ## What the shifting claims reveal about misinformation
 
@@ -354,11 +345,7 @@ The transition from MMR to thimerosal, mercury and aluminium illustrates a broad
 
 In this case, the debate often evolved from a specific vaccine claim into a moving search for a hidden cause. Each new ingredient claim appeared to offer a fresh explanation while preserving the same conclusion. Scientific reviews therefore expanded from testing MMR alone to evaluating preservatives, adjuvants and wider vaccine exposure patterns.
 
-Across those broader investigations, major reviews by the Institute of Medicine, the World Health Organization and large epidemiological research groups have repeatedly reached the same general finding: the evidence does not support a causal link between autism and vaccines, including the ingredient claims that emerged after the original MMR narrative lost credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedVaccines are not associated with autism: an evidence...by LE Taylor · 2014 · Cited by 1055 — There has been enormous debate regard...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.who.int">[WHO Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.who.int</span><span class="citation-popover-snippet">WHO CenterVaccines, thimerosal and autism spectrum disorderThe Global Advisory Committee on Vaccine Safety has reviewed the evidence rega...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK25349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">NBK25349</span><span class="citation-popover-snippet">Safety Review: Vaccines and Autism - NCBI - NIH2004 · Cited by 190 — In that report, the committee concluded that the evidence was inadeq...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/evreHGOu_9c" title="Setting the record straight on measles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=evreHGOu_9c" target="_blank" rel="noopener noreferrer">Setting the record straight on measles</a></p><p class="youtube-embed-meta">Channel: KingCountyTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=evreHGOu_9c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=evreHGOu_9c">Open on YouTube</a></p></div></div></div>
-
+Across those broader investigations, major reviews by the Institute of Medicine, the World Health Organization and large epidemiological research groups have repeatedly reached the same general finding: the evidence does not support a causal link between autism and vaccines, including the ingredient claims that emerged after the original MMR narrative lost credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Vaccines are not associated with autism: an evidence...by LE Taylor  2014  Cited by 1055  There has been enormous debate regard...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.who.int">[WHO Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.who.int</span><span class="citation-popover-snippet">WHO CenterVaccines, thimerosal and autism spectrum disorderThe Global Advisory Committee on Vaccine Safety has reviewed the evidence rega...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK25349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">NBK25349</span><span class="citation-popover-snippet">Safety Review: Vaccines and Autism - NCBI - NIH2004  Cited by 190  In that report, the committee concluded that the evidence was inadeq...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -477,11 +464,11 @@ Across those broader investigations, major reviews by the Institute of Medicine,
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed iPhone 7 Wall Art â€“ Deconstructed Tech Frame | Unique Gift | UK Made"><img src="{{ '/assets/images/marketplace-covers/5bc2986344f968932a31.jpg' | relative_url }}" alt="Listing image for Framed iPhone 7 Wall Art â€“ Deconstructed Tech Frame | Unique Gift | UK Made" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made"><img src="{{ '/assets/images/marketplace-covers/5bc2986344f968932a31.jpg' | relative_url }}" alt="Listing image for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Framed iPhone 7 Wall Art â€“ Deconstructed Tech Frame | Unique Gift | UK Made</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
         <div class="fr-book-actions">
@@ -756,166 +743,166 @@ Across those broader investigations, major reviews by the Institute of Medicine,
 
 1. <a id="endnote-1"></a>
    Source: cdn.who.int  
-   Link: [https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&sfvrsn=daab5374_1](https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&sfvrsn=daab5374_1)  
+   Link: <a href="https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO CenterVaccines, thimerosal and autism spectrum disorderThe Global Advisory Committee on Vaccine Safety has reviewed the evidence rega...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIImmunization Safety Review: Vaccines and Autism  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK25344/](https://www.ncbi.nlm.nih.gov/books/NBK25344/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBI - NIHThis eighth and final report of the Immunization Safety Review Committee examines the hypothesis that vaccines, specifically th...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK25344/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK25344/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHThis eighth and final report of the Immunization Safety Review Committee examines the hypothesis that vaccines, specifically th...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK25338/](https://www.ncbi.nlm.nih.gov/books/NBK25338/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK25338/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK25338/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary - Immunization Safety Review - NCBI - NIHThe committee concludes that the evidence favors rejection of a causal relationship betw...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: who.int  
-   Link: [https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/adjuvants](https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/adjuvants)  
+   Link: <a href="https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/adjuvants" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/adjuvants</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationAdjuvantsThe GACVS reviewed 2 published papers alleging that aluminium in vaccines is associated with autism spe...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: who.int  
-   Link: [https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism](https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationWHO expert group&#x27;s new analysis reaffirms there is no link...11 Dec 2025 — In summary, the available high-quali...</p></details>
+   Link: <a href="https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationWHO expert group&#x27;s new analysis reaffirms there is no link...11 Dec 2025  In summary, the available high-quali...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cidrap.umn.edu  
    Title: report no link between aluminum adjuvanted childhood vaccines conditions such  
-   Link: [https://www.cidrap.umn.edu/childhood-vaccines/report-no-link-between-aluminum-adjuvanted-childhood-vaccines-conditions-such](https://www.cidrap.umn.edu/childhood-vaccines/report-no-link-between-aluminum-adjuvanted-childhood-vaccines-conditions-such)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>link between aluminum-adjuvanted childhood vaccines...Jul 14, 2025 — Report: No link between aluminum-adjuvanted childhood vaccines, co...</p></details>
+   Link: <a href="https://www.cidrap.umn.edu/childhood-vaccines/report-no-link-between-aluminum-adjuvanted-childhood-vaccines-conditions-such" target="_blank" rel="noopener noreferrer nofollow">https://www.cidrap.umn.edu/childhood-vaccines/report-no-link-between-aluminum-adjuvanted-childhood-vaccines-conditions-such</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>link between aluminum-adjuvanted childhood vaccines...Jul 14, 2025  Report: No link between aluminum-adjuvanted childhood vaccines, co...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThimerosal-Containing Vaccines and Autism: A Review  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3018252/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3018252/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby AM Hurley · 2010 · Cited by 77 — Epidemiologic studies continue to provide evidence that there is no association between thimerosal...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3018252/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3018252/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by AM Hurley  2010  Cited by 77  Epidemiologic studies continue to provide evidence that there is no association between thimerosal...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: who.int  
    Title: update vaccines thimerosal autism  
-   Link: [https://www.who.int/publications/m/item/update-vaccines-thimerosal-autism](https://www.who.int/publications/m/item/update-vaccines-thimerosal-autism)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccines, Thimerosal and Autism Spectrum Disorder...12 Dec 2025 — The Global Advisory Committee on Vaccine Safety (GACVS) reviewed the e...</p></details>
+   Link: <a href="https://www.who.int/publications/m/item/update-vaccines-thimerosal-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/m/item/update-vaccines-thimerosal-autism</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccines, Thimerosal and Autism Spectrum Disorder...12 Dec 2025  The Global Advisory Committee on Vaccine Safety (GACVS) reviewed the e...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/24814559/](https://pubmed.ncbi.nlm.nih.gov/24814559/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedVaccines are not associated with autism: an evidence...by LE Taylor · 2014 · Cited by 1055 — There has been enormous debate regard...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24814559/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccines are not associated with autism: an evidence...by LE Taylor  2014  Cited by 1055  There has been enormous debate regard...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nejm.org  
-   Link: [https://www.nejm.org/doi/full/10.1056/NEJMp078187](https://www.nejm.org/doi/full/10.1056/NEJMp078187)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New England Journal of MedicineThimerosal and Vaccines — A Cautionary Taleby PA Offit · 2007 · Cited by 121 — The use of mercury in vacci...</p></details>
+   Link: <a href="https://www.nejm.org/doi/full/10.1056/NEJMp078187" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/doi/full/10.1056/NEJMp078187</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>New England Journal of MedicineThimerosal and Vaccines  A Cautionary Taleby PA Offit  2007  Cited by 121  The use of mercury in vacci...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/publications/10997](https://www.nationalacademies.org/publications/10997)  
+   Link: <a href="https://www.nationalacademies.org/publications/10997" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/publications/10997</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Immunization Safety Review: Vaccines and Autism 2004Immunization Safety Review: Vaccines and Autism finds that the body of epidemiologica...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/22099159/](https://pubmed.ncbi.nlm.nih.gov/22099159/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedDo aluminum vaccine adjuvants contribute to the rising...by L Tomljenovic · 2011 · Cited by 205 — Aluminum (Al), the most commonly...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22099159/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22099159/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do aluminum vaccine adjuvants contribute to the rising...by L Tomljenovic  2011  Cited by 205  Aluminum (Al), the most commonly...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/33930617/](https://pubmed.ncbi.nlm.nih.gov/33930617/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33930617/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33930617/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior of mice changes with Al injection. Patients suffering from ASD have higher...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/40658954/](https://pubmed.ncbi.nlm.nih.gov/40658954/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govAluminum-Adsorbed Vaccines and Chronic Diseases in...by NW Andersson · 2025 · Cited by 34 — Concerns persist about potential asso...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40658954/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40658954/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govAluminum-Adsorbed Vaccines and Chronic Diseases in...by NW Andersson  2025  Cited by 34  Concerns persist about potential asso...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/41334965/](https://pubmed.ncbi.nlm.nih.gov/41334965/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Role and Safety of Aluminum Adjuvants in Childhood...by E Nirenberg · Cited by 2 — Large-scale clinical and epidemiologic studies consis...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41334965/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41334965/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Role and Safety of Aluminum Adjuvants in Childhood...by E Nirenberg  Cited by 2  Large-scale clinical and epidemiologic studies consis...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/vaccine-safety/about/autism.html](https://www.cdc.gov/vaccine-safety/about/autism.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Vaccines19 Nov 2025 — The claim &quot;vaccines do not cause autism&quot; is not an evidence-based claim because studies have not ruled out the...</p></details>
+   Link: <a href="https://www.cdc.gov/vaccine-safety/about/autism.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/about/autism.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Vaccines19 Nov 2025  The claim &quot;vaccines do not cause autism&quot; is not an evidence-based claim because studies have not ruled out the...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/vaccine-safety/about/adjuvants.html](https://www.cdc.gov/vaccine-safety/about/adjuvants.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Vaccines | Vaccine SafetyDec 20, 2024 — Adjuvants have been used safely in vaccines for decades. Aluminum salts, such as aluminum hyd...</p></details>
+   Link: <a href="https://www.cdc.gov/vaccine-safety/about/adjuvants.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/about/adjuvants.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Vaccines | Vaccine SafetyDec 20, 2024  Adjuvants have been used safely in vaccines for decades. Aluminum salts, such as aluminum hyd...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/20669467/](https://pubmed.ncbi.nlm.nih.gov/20669467/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Review: Vaccines and Autism2004 · Cited by 187 — This eighth and final report of the Immunization Safety Review Committee examines...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/20669467/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20669467/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Review: Vaccines and Autism2004  Cited by 187  This eighth and final report of the Immunization Safety Review Committee examines...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: restoredcdc.org  
-   Link: [https://www.restoredcdc.org/www.cdc.gov/vaccine-safety/about/autism.html](https://www.restoredcdc.org/www.cdc.gov/vaccine-safety/about/autism.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Vaccines30 Dec 2024 — Studies have shown that there is no link between receiving vaccines and developing autism spectrum disorder (AS...</p></details>
+   Link: <a href="https://www.restoredcdc.org/www.cdc.gov/vaccine-safety/about/autism.html" target="_blank" rel="noopener noreferrer nofollow">https://www.restoredcdc.org/www.cdc.gov/vaccine-safety/about/autism.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Vaccines30 Dec 2024  Studies have shown that there is no link between receiving vaccines and developing autism spectrum disorder (AS...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/10997/chapter/2](https://www.nationalacademies.org/read/10997/chapter/2)  
+   Link: <a href="https://www.nationalacademies.org/read/10997/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/10997/chapter/2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Immunization Safety Review: Vaccines and Autism (2004)The committee concludes that the body of epidemiological evidence favors rejection...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: autismdelaware.org  
-   Link: [https://www.autismdelaware.org/wp-content/uploads/2025/09/Autism-and-Vaccines-_-Vaccine-Safety-_-CDC-Published-12.30.2024-printed-9.23.2025.pdf](https://www.autismdelaware.org/wp-content/uploads/2025/09/Autism-and-Vaccines-_-Vaccine-Safety-_-CDC-Published-12.30.2024-printed-9.23.2025.pdf)  
+   Link: <a href="https://www.autismdelaware.org/wp-content/uploads/2025/09/Autism-and-Vaccines-_-Vaccine-Safety-_-CDC-Published-12.30.2024-printed-9.23.2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.autismdelaware.org/wp-content/uploads/2025/09/Autism-and-Vaccines-_-Vaccine-Safety-_-CDC-Published-12.30.2024-printed-9.23.2025.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>links have been found between any vaccine...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/vaccine-safety/about/thimerosal.html](https://www.cdc.gov/vaccine-safety/about/thimerosal.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thimerosal and VaccinesTwo types of mercury to which people may be exposed — methylmercury and ethylmercury — are very different. In the...</p></details>
+   Link: <a href="https://www.cdc.gov/vaccine-safety/about/thimerosal.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/about/thimerosal.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thimerosal and VaccinesTwo types of mercury to which people may be exposed  methylmercury and ethylmercury  are very different. In the...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: autismsciencefoundation.org  
-   Link: [https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/](https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/)  
+   Link: <a href="https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/" target="_blank" rel="noopener noreferrer nofollow">https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autism and Vaccines: Read the ScienceNumerous scientific studies have disproven any link between autism and vaccines. Read the research s...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: aap.org  
-   Link: [https://www.aap.org/en/news-room/fact-checked/fact-checked-aluminum-in-vaccines-strengthen-immune-responses-do-not-cause-autism-serious-health-issues/?srsltid=AfmBOoqUdBwCc1vjMQEuhNj59iRVM4XRXhMYE0mh3LuBnQlbvDmiUKTs](https://www.aap.org/en/news-room/fact-checked/fact-checked-aluminum-in-vaccines-strengthen-immune-responses-do-not-cause-autism-serious-health-issues/?srsltid=AfmBOoqUdBwCc1vjMQEuhNj59iRVM4XRXhMYE0mh3LuBnQlbvDmiUKTs)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Checked: Aluminum in Vaccines Strengthen Immune...4 Dec 2025 — Fact Checked: Aluminum in Vaccines Strengthen Immune Responses, Do N...</p></details>
+   Link: <a href="https://www.aap.org/en/news-room/fact-checked/fact-checked-aluminum-in-vaccines-strengthen-immune-responses-do-not-cause-autism-serious-health-issues/?srsltid=AfmBOoqUdBwCc1vjMQEuhNj59iRVM4XRXhMYE0mh3LuBnQlbvDmiUKTs" target="_blank" rel="noopener noreferrer nofollow">https://www.aap.org/en/news-room/fact-checked/fact-checked-aluminum-in-vaccines-strengthen-immune-responses-do-not-cause-autism-serious-health-issues/?srsltid=AfmBOoqUdBwCc1vjMQEuhNj59iRVM4XRXhMYE0mh3LuBnQlbvDmiUKTs</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Checked: Aluminum in Vaccines Strengthen Immune...4 Dec 2025  Fact Checked: Aluminum in Vaccines Strengthen Immune Responses, Do N...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: autismsciencefoundation.org  
-   Link: [https://autismsciencefoundation.org/autism-and-vaccines/](https://autismsciencefoundation.org/autism-and-vaccines/)  
+   Link: <a href="https://autismsciencefoundation.org/autism-and-vaccines/" target="_blank" rel="noopener noreferrer nofollow">https://autismsciencefoundation.org/autism-and-vaccines/</a>  
 
 26. <a id="endnote-26"></a>
    Source: archive.cdc.gov  
    Title: This study assessed whether prenatal thimerosal exposure or thimerosal  
-   Link: [https://archive.cdc.gov/www_cdc_gov/vaccinesafety/pdf/cdcstudiesonvaccinesandautism.pdf](https://archive.cdc.gov/www_cdc_gov/vaccinesafety/pdf/cdcstudiesonvaccinesandautism.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: CDC Studies on Thimerosal in Vaccinesby ՖB JP · 2009 — Thimerosal exposure in early life and neuropsychological outcomes 7-10 ye...</p></details>
+   Link: <a href="https://archive.cdc.gov/www_cdc_gov/vaccinesafety/pdf/cdcstudiesonvaccinesandautism.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.cdc.gov/www_cdc_gov/vaccinesafety/pdf/cdcstudiesonvaccinesandautism.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: CDC Studies on Thimerosal in Vaccinesby B JP  2009  Thimerosal exposure in early life and neuropsychological outcomes 7-10 ye...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/finance/us-cdc-report-shows-no-evidence-linking-thimerosal-containing-vaccines-autism-2025-06-24/](https://www.reuters.com/business/finance/us-cdc-report-shows-no-evidence-linking-thimerosal-containing-vaccines-autism-2025-06-24/)  
+   Link: <a href="https://www.reuters.com/business/finance/us-cdc-report-shows-no-evidence-linking-thimerosal-containing-vaccines-autism-2025-06-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/finance/us-cdc-report-shows-no-evidence-linking-thimerosal-containing-vaccines-autism-2025-06-24/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>evidence does not support a link between thimerosal-containing vaccines and autism or other neurodevelopmental disorders. Kennedy has lon...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: chop.edu  
    Title: largest study date aluminum adjuvanted vaccines finds no associated health risks  
-   Link: [https://www.chop.edu/vaccine-update-healthcare-professionals/newsletter/largest-study-date-aluminum-adjuvanted-vaccines-finds-no-associated-health-risks](https://www.chop.edu/vaccine-update-healthcare-professionals/newsletter/largest-study-date-aluminum-adjuvanted-vaccines-finds-no-associated-health-risks)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Largest Study to Date of Aluminum-Adjuvanted Vaccines...29 Jul 2025 — Read about a study that found no increased health risks associated...</p></details>
+   Link: <a href="https://www.chop.edu/vaccine-update-healthcare-professionals/newsletter/largest-study-date-aluminum-adjuvanted-vaccines-finds-no-associated-health-risks" target="_blank" rel="noopener noreferrer nofollow">https://www.chop.edu/vaccine-update-healthcare-professionals/newsletter/largest-study-date-aluminum-adjuvanted-vaccines-finds-no-associated-health-risks</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Largest Study to Date of Aluminum-Adjuvanted Vaccines...29 Jul 2025  Read about a study that found no increased health risks associated...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: cidrap.umn.edu  
    Title: aluminum vaccines not linked autism other health problems study finds  
-   Link: [https://www.cidrap.umn.edu/anti-science/aluminum-vaccines-not-linked-autism-other-health-problems-study-finds](https://www.cidrap.umn.edu/anti-science/aluminum-vaccines-not-linked-autism-other-health-problems-study-finds)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in vaccines not linked to autism, other health...May 7, 2026 — Aluminum additives used in vaccines are not linked to serious medical pro...</p></details>
+   Link: <a href="https://www.cidrap.umn.edu/anti-science/aluminum-vaccines-not-linked-autism-other-health-problems-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.cidrap.umn.edu/anti-science/aluminum-vaccines-not-linked-autism-other-health-problems-study-finds</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>in vaccines not linked to autism, other health...May 7, 2026  Aluminum additives used in vaccines are not linked to serious medical pro...</p></details>
    Published: May 7, 2026  
 
 30. <a id="endnote-30"></a>
    Source: gavi.org  
    Title: major new study finds no health risks aluminium childhood vaccines  
-   Link: [https://www.gavi.org/vaccineswork/major-new-study-finds-no-health-risks-aluminium-childhood-vaccines](https://www.gavi.org/vaccineswork/major-new-study-finds-no-health-risks-aluminium-childhood-vaccines)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Major new study finds no health risks from aluminium in...24 Jul 2025 — A study of over one million children over 24 years found no incr...</p></details>
+   Link: <a href="https://www.gavi.org/vaccineswork/major-new-study-finds-no-health-risks-aluminium-childhood-vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.gavi.org/vaccineswork/major-new-study-finds-no-health-risks-aluminium-childhood-vaccines</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Major new study finds no health risks from aluminium in...24 Jul 2025  A study of over one million children over 24 years found no incr...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: contemporarypediatrics.com  
    Title: review finds no systemic risks from aluminum in childhood vaccines  
-   Link: [https://www.contemporarypediatrics.com/view/review-finds-no-systemic-risks-from-aluminum-in-childhood-vaccines](https://www.contemporarypediatrics.com/view/review-finds-no-systemic-risks-from-aluminum-in-childhood-vaccines)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review finds no systemic risks from aluminum in childhood...9 Dec 2025 — A comprehensive Pediatrics review reports no credible evidence...</p></details>
+   Link: <a href="https://www.contemporarypediatrics.com/view/review-finds-no-systemic-risks-from-aluminum-in-childhood-vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.contemporarypediatrics.com/view/review-finds-no-systemic-risks-from-aluminum-in-childhood-vaccines</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review finds no systemic risks from aluminum in childhood...9 Dec 2025  A comprehensive Pediatrics review reports no credible evidence...</p></details>

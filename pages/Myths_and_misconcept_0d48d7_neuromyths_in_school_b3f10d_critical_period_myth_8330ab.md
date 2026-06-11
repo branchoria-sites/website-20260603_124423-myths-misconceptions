@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_left_right_brain_lab_f1b4e4
 - Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_teacher_training_rub_152f08
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - neuromyths
 - critical-periods
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - neuromyths
 - critical-periods
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Critical period myths can make learning difficulties seem time-limited when development is usually more flexible and gradual.
 hero_summary: Critical period myths can make learning difficulties seem time-limited when development is usually more flexible and gradual.
 layout: default
 permalink: /critical-periods/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /neuromyths/
 nav_short_title: Critical periods
 title: Are children ever too late to learn?
-title_full: Are children ever too late to learn? | Neuromyths
+title_full: Are children ever too late to learn?
 display_title_short: Critical periods
 display_title: Critical periods
 heading_title: Are children ever too late to learn?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Brain Myths Spread in Schools | Mythcraft
+parent_title: Why Brain Myths Spread in Schools
 parent_permalink: /neuromyths/
 parent_nav_short_title: Neuromyths
 parent_heading_title: Why Brain Myths Spread in Schools
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How teacher training can preserve myths
 up_link:
   basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
@@ -265,7 +265,7 @@ next_link:
   permalink: /learning-styles-17c40a/
   short_title: Learning styles
   heading_title: Do learning styles really improve lessons?
-date: '2026-06-09 05:37:29 '
+date: '2026-06-11 22:37:55 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_critical_period_myth_8330ab-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_critical_period_myth_8330ab-Illustration-1.webp
@@ -276,15 +276,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_cr
 
 The idea of a “critical period” has become one of the most influential [neuromyths]({{ 'neuromyths/' | relative_url }}) in education. In its strongest classroom form, the claim is that children must learn particular skills within a narrow developmental window and that, once this window closes, major learning becomes impossible or severely limited. This belief can affect expectations about language learning, literacy intervention, special educational needs and educational recovery after early disadvantage.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_critical_period_myth_8330ab-Illustration-1-dark.svg" | relative_url }}" alt="Critical periods illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_critical_period_myth_8330ab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_critical_period_myth_8330ab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The problem is not that critical periods are entirely fictional. Neuroscience does identify some developmental windows during which certain experiences have unusually strong effects on the brain. The myth emerges when this finding is expanded into a general rule that learning is largely fixed by age, or that missed opportunities cannot be meaningfully recovered later. Research points to a more complicated picture: some abilities are especially sensitive to early experience, but human development remains plastic and responsive across much of life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15509387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSensitive periods in the development of the brain and behaviorby EI Knudsen · 2004 · Cited by 2605 — When the effect of experience...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3834520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLearning, neural plasticity and sensitive periods</span><span class="citation-popover-snippet">PMC - NIHby EJ White · 2013 · Cited by 229 — Drawing on research in language development and music training, this review examines not onl...</span></span></span>
+The problem is not that critical periods are entirely fictional. Neuroscience does identify some developmental windows during which certain experiences have unusually strong effects on the brain. The myth emerges when this finding is expanded into a general rule that learning is largely fixed by age, or that missed opportunities cannot be meaningfully recovered later. Research points to a more complicated picture: some abilities are especially sensitive to early experience, but human development remains plastic and responsive across much of life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15509387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sensitive periods in the development of the brain and behaviorby EI Knudsen · 2004 · Cited by 2605 — When the effect of experience...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3834520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLearning, neural plasticity and sensitive periods</span><span class="citation-popover-snippet">NIHby EJ White · 2013 · Cited by 229 — Drawing on research in language development and music training, this review examines not onl...</span></span></span>
 
 ## What critical periods mean in neuroscience
 
-In neuroscience, a critical or sensitive period refers to a stage of development when experience has an unusually powerful influence on the organisation of neural systems. The classic examples come from sensory development rather than classroom learning. Vision, for instance, depends on early sensory input. If certain forms of visual stimulation are absent during particular developmental stages, normal visual processing may not develop fully. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15509387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSensitive periods in the development of the brain and behaviorby EI Knudsen · 2004 · Cited by 2605 — When the effect of experience...</span></span></span>
+In neuroscience, a critical or sensitive period refers to a stage of development when experience has an unusually powerful influence on the organisation of neural systems. The classic examples come from sensory development rather than classroom learning. Vision, for instance, depends on early sensory input. If certain forms of visual stimulation are absent during particular developmental stages, normal visual processing may not develop fully. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15509387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sensitive periods in the development of the brain and behaviorby EI Knudsen · 2004 · Cited by 2605 — When the effect of experience...</span></span></span>
 
-Researchers increasingly distinguish between **critical periods** and **sensitive periods**. A strict critical period implies that a specific experience must occur within a narrow timeframe or normal development becomes impossible. A sensitive period is broader and more common: learning is easier, faster or more efficient during a particular phase, but development can still continue afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15509387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSensitive periods in the development of the brain and behaviorby EI Knudsen · 2004 · Cited by 2605 — When the effect of experience...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rotel.pressbooks.pub/biologicalpsychology1/chapter/sensitive-and-critical-periods-of-development/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rotel.pressbooks.pub">[rotel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rotel.pressbooks.pub</span><span class="citation-popover-title">Rotel7.5: Sensitive and Critical Periods of Development</span><span class="citation-popover-snippet">pressbooks.pub7.5: Sensitive and Critical Periods of Development - rotelSensitive periods refer to the developmental time windows during...</span></span></span> This distinction matters because educational discussions often collapse the two concepts into one. A scientific finding that early exposure helps learning may be transformed into a claim that later learning is futile. Yet the evidence supporting absolute deadlines is much weaker for most academic skills than popular accounts suggest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/critical-period" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Critical Period</span><span class="citation-popover-snippet">Critical Period - an overviewCritical periods are time points in development when experiences strongly influence neurogenesis, brain scul...</span></span></span>
+Researchers increasingly distinguish between **critical periods** and **sensitive periods**. A strict critical period implies that a specific experience must occur within a narrow timeframe or normal development becomes impossible. A sensitive period is broader and more common: learning is easier, faster or more efficient during a particular phase, but development can still continue afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15509387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sensitive periods in the development of the brain and behaviorby EI Knudsen · 2004 · Cited by 2605 — When the effect of experience...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rotel.pressbooks.pub/biologicalpsychology1/chapter/sensitive-and-critical-periods-of-development/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rotel.pressbooks.pub">[rotel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rotel.pressbooks.pub</span><span class="citation-popover-title">Rotel7.5: Sensitive and Critical Periods of Development</span><span class="citation-popover-snippet">pressbooks.pub7.5: Sensitive and Critical Periods of Development - rotelSensitive periods refer to the developmental time windows during...</span></span></span> This distinction matters because educational discussions often collapse the two concepts into one. A scientific finding that early exposure helps learning may be transformed into a claim that later learning is futile. Yet the evidence supporting absolute deadlines is much weaker for most academic skills than popular accounts suggest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/critical-period" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Critical Period</span><span class="citation-popover-snippet">Critical Period - an overviewCritical periods are time points in development when experiences strongly influence neurogenesis, brain scul...</span></span></span>
 
 ### Why the idea became attractive in education
 
@@ -301,9 +300,6 @@ Age matters. Young children often acquire certain skills more easily than older 
 Research on language learning illustrates why the myth persists. There is evidence that age affects aspects of language acquisition, yet the effects are gradual rather than cliff-like. An influential MIT study suggested that sensitivity to grammatical learning remains strong into adolescence, with declines occurring much later than many popular accounts assume. The study challenged simplistic claims that language learning capacity collapses after early childhood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/cognitive-scientists-define-critical-period-learning-language-0501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">News Cognitive scientists define critical period for learning</span><span class="citation-popover-snippet">MIT NewsCognitive scientists define critical period for learning...May 1, 2561 BE — An MIT study suggests children remain skilled at lea...</span><span class="citation-popover-meta">Published: May 1, 2561</span></span></span>
 
 The same pattern appears across many educational domains. Early experience often helps. Intensive support delivered earlier is frequently more efficient. But “more efficient” is not the same as “only possible”. Educational myths often replace a probabilistic developmental advantage with a deterministic deadline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/27429/chapter/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National Academies3 The Science of Early Learning and Brain DevelopmentThe principle that there are sensitive periods during early childh...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mzwcEZId2VE" title="Critical and Sensitive Periods (AP Psychology)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mzwcEZId2VE" target="_blank" rel="noopener noreferrer">Critical and Sensitive Periods (AP Psychology)</a></p><p class="youtube-embed-meta">Channel: Mr Carter&#x27;s Study Guides &middot; Views: 839 &middot; Uploaded: August 2025 &middot; Length: 1 minute 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mzwcEZId2VE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mzwcEZId2VE">Open on YouTube</a></p></div></div></div>
 
 ### Language learning as a case study
 
@@ -322,7 +318,6 @@ One risk is that fixed-window thinking encourages premature pessimism. If teache
 A second risk involves intervention design. The genuine finding that early intervention is often beneficial can be distorted into the belief that later intervention is ineffective. In reality, many successful educational interventions target older children, adolescents and adults. Earlier support may reduce later difficulties, but delayed support still has value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/critical-period" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Critical Period</span><span class="citation-popover-snippet">Critical Period - an overviewCritical periods are time points in development when experiences strongly influence neurogenesis, brain scul...</span></span></span>
 
 The myth can also affect pupils with special educational needs and disabilities. Developmental differences are often interpreted through age-based milestones. When those milestones are treated as fixed biological deadlines, variation in developmental pathways may be misunderstood as evidence that improvement is no longer possible. Such assumptions can influence referral decisions, educational planning and expectations for progress.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_critical_period_myth_8330ab-Illustration-2-dark.svg" | relative_url }}" alt="Critical periods illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_critical_period_myth_8330ab-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_critical_period_myth_8330ab-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The “first three years” misunderstanding
@@ -343,14 +338,13 @@ This is one reason why educational outcomes are rarely determined by age alone. 
 
 Some neuroscience research has even explored ways in which heightened periods of plasticity can be extended, modified or partially reopened, further undermining simplistic notions of permanently sealed developmental windows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://boldscience.org/turning-back-the-learning-clock/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boldscience.org">[BOLD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boldscience.org</span><span class="citation-popover-title">BOLDTurning back the learning clock</span><span class="citation-popover-snippet">BOLD1 Feb 2017 — Neurologist Takao Hensch discusses ways of reopening windows of heightened brain plasticity and making up for lost learn...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pe3ndaTKjuM" title="The 3 Brain Strategies That Actually Rewire Your Mind (Neuroscience Explained)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pe3ndaTKjuM" target="_blank" rel="noopener noreferrer">The 3 Brain Strategies That Actually Rewire Your Mind (Neuroscience Explained)</a></p><p class="youtube-embed-meta">Channel: Dr. Tracey Marks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pe3ndaTKjuM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pe3ndaTKjuM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mzwcEZId2VE" title="Critical and Sensitive Periods (AP Psychology)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mzwcEZId2VE" target="_blank" rel="noopener noreferrer">Critical and Sensitive Periods (AP Psychology)</a></p><p class="youtube-embed-meta">Channel: Mr Carter&#x27;s Study Guides &middot; Views: 839 &middot; Uploaded: August 2025 &middot; Length: 1 minute 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mzwcEZId2VE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mzwcEZId2VE">Open on YouTube</a></p></div></div></div>
 
 ### What teachers can reasonably take from the science
 
 The most evidence-based position lies between two extremes.
 
-Teachers should not assume that age is irrelevant. Early identification of hearing difficulties, language delays, visual problems or learning challenges can be highly valuable because some developmental systems are especially responsive during particular periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15509387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSensitive periods in the development of the brain and behaviorby EI Knudsen · 2004 · Cited by 2605 — When the effect of experience...</span></span></span>
+Teachers should not assume that age is irrelevant. Early identification of hearing difficulties, language delays, visual problems or learning challenges can be highly valuable because some developmental systems are especially responsive during particular periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15509387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sensitive periods in the development of the brain and behaviorby EI Knudsen · 2004 · Cited by 2605 — When the effect of experience...</span></span></span>
 
 At the same time, teachers should avoid treating developmental windows as irreversible deadlines. The scientific literature supports several more cautious conclusions:
 
@@ -358,8 +352,7 @@ At the same time, teachers should avoid treating developmental windows as irreve
 * Some skills are easier to acquire at particular ages, but later learning remains possible.
 * Sensitive periods are more common than absolute critical periods.
 * Educational support retains value even after early developmental opportunities have been missed.
-* High expectations are generally more consistent with contemporary evidence on plasticity than assumptions of fixed ability. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15509387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSensitive periods in the development of the brain and behaviorby EI Knudsen · 2004 · Cited by 2605 — When the effect of experience...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">9, We only use 10% of our brain. 10, Children must</span><span class="citation-popover-snippet">PMCThe Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 271 — There are critical periods in ch...</span></span></span>
-
+* High expectations are generally more consistent with contemporary evidence on plasticity than assumptions of fixed ability. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15509387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sensitive periods in the development of the brain and behaviorby EI Knudsen · 2004 · Cited by 2605 — When the effect of experience...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">9, We only use 10% of our brain. 10, Children must</span><span class="citation-popover-snippet">The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 271 — There are critical periods in ch...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_critical_period_myth_8330ab-Illustration-3-dark.svg" | relative_url }}" alt="Critical periods illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_critical_period_myth_8330ab-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d_critical_period_myth_8330ab-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the myth survives
@@ -368,11 +361,7 @@ The critical-period myth persists because it combines a real scientific idea wit
 
 The difficulty is that neuroscience rarely delivers such simple deadlines. Development involves interacting biological, cognitive and environmental processes that unfold over years rather than within a single closing window. Reviews of neuromyths in education continue to find widespread belief in statements suggesting that children can no longer learn certain things after specific ages, even though the evidence is usually more qualified. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 259 — Five years later, the OECD...</span></span></span>
 
-The most accurate educational message is therefore neither “[timing]({{ 'timing/' | relative_url }}) does not matter” nor “it is too late”. Development is shaped by sensitive periods, but it is also shaped by continuing plasticity. That combination supports urgency without fatalism: earlier help is often better, yet meaningful learning remains possible long after a supposed window has closed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15509387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSensitive periods in the development of the brain and behaviorby EI Knudsen · 2004 · Cited by 2605 — When the effect of experience...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby S Dekker · 2012 · Cited by 1288 — The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HLR3pFQUVbY" title="Is There a Critical Age or Period for Learning Languages? | Dr. Erich Jarvis &amp; Dr. Andrew Huberman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HLR3pFQUVbY" target="_blank" rel="noopener noreferrer">Is There a Critical Age or Period for Learning Languages? | Dr. Erich Jarvis &amp; Dr. Andrew Huberman</a></p><p class="youtube-embed-meta">Channel: Huberman Lab Clips</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HLR3pFQUVbY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HLR3pFQUVbY">Open on YouTube</a></p></div></div></div>
-
+The most accurate educational message is therefore neither “[timing]({{ 'timing/' | relative_url }}) does not matter” nor “it is too late”. Development is shaped by sensitive periods, but it is also shaped by continuing plasticity. That combination supports urgency without fatalism: earlier help is often better, yet meaningful learning remains possible long after a supposed window has closed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15509387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sensitive periods in the development of the brain and behaviorby EI Knudsen · 2004 · Cited by 2605 — When the effect of experience...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1288 — The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -771,216 +760,216 @@ The most accurate educational message is therefore neither “[timing]({{ 'timin
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLearning, neural plasticity and sensitive periods  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3834520/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3834520/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby EJ White · 2013 · Cited by 229 — Drawing on research in language development and music training, this review examines not onl...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3834520/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3834520/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby EJ White · 2013 · Cited by 229 — Drawing on research in language development and music training, this review examines not onl...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Critical Period  
-   Link: [https://www.sciencedirect.com/topics/psychology/critical-period](https://www.sciencedirect.com/topics/psychology/critical-period)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/critical-period" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/critical-period</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Period - an overviewCritical periods are time points in development when experiences strongly influence neurogenesis, brain scul...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0885200602001655](https://www.sciencedirect.com/science/article/abs/pii/S0885200602001655)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAre critical periods critical for early childhood education?by DB Bailey Jr · 2002 · Cited by 130 — In this article I review...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0885200602001655" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0885200602001655</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Are critical periods critical for early childhood education?by DB Bailey Jr · 2002 · Cited by 130 — In this article I review...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: news.mit.edu  
    Title: News Cognitive scientists define critical period for learning  
-   Link: [https://news.mit.edu/2018/cognitive-scientists-define-critical-period-learning-language-0501](https://news.mit.edu/2018/cognitive-scientists-define-critical-period-learning-language-0501)  
+   Link: <a href="https://news.mit.edu/2018/cognitive-scientists-define-critical-period-learning-language-0501" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/cognitive-scientists-define-critical-period-learning-language-0501</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsCognitive scientists define critical period for learning...May 1, 2561 BE — An MIT study suggests children remain skilled at lea...</p></details>
    Published: May 1, 2561  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Critical period hypothesis  
-   Link: [https://en.wikipedia.org/wiki/Critical_period_hypothesis](https://en.wikipedia.org/wiki/Critical_period_hypothesis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Critical_period_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Critical_period_hypothesis</a>  
 
 6. <a id="endnote-6"></a>
    Source: mcgovern.mit.edu  
    Title: fact or myth  
-   Link: [https://mcgovern.mit.edu/2018/06/29/fact-or-myth/](https://mcgovern.mit.edu/2018/06/29/fact-or-myth/)  
+   Link: <a href="https://mcgovern.mit.edu/2018/06/29/fact-or-myth/" target="_blank" rel="noopener noreferrer nofollow">https://mcgovern.mit.edu/2018/06/29/fact-or-myth/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT McGovern InstituteDoes our ability to learn new things stop at a certain age?29 June 2018 — It is clear that a new language can be le...</p></details>
    Published: June 2018  
 
 7. <a id="endnote-7"></a>
    Source: nblformosapublisher.org  
-   Link: [https://nblformosapublisher.org/index.php/jeda/article/view/131](https://nblformosapublisher.org/index.php/jeda/article/view/131)  
+   Link: <a href="https://nblformosapublisher.org/index.php/jeda/article/view/131" target="_blank" rel="noopener noreferrer nofollow">https://nblformosapublisher.org/index.php/jeda/article/view/131</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Age of Acquisition and the Brain: a Systematic Review of...27 May 2025 — Neurolinguistic research, using techniques like fMRI and EEG, i...</p></details>
    Published: May 2025  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0222961717301095](https://www.sciencedirect.com/science/article/abs/pii/S0222961717301095)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectBrain plasticity and early development: Implications for...by E Inguaggiato · 2017 · Cited by 105 — This property, called b...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0222961717301095" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0222961717301095</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brain plasticity and early development: Implications for...by E Inguaggiato · 2017 · Cited by 105 — This property, called b...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: boldscience.org  
    Title: BOLDTurning back the learning clock  
-   Link: [https://boldscience.org/turning-back-the-learning-clock/](https://boldscience.org/turning-back-the-learning-clock/)  
+   Link: <a href="https://boldscience.org/turning-back-the-learning-clock/" target="_blank" rel="noopener noreferrer nofollow">https://boldscience.org/turning-back-the-learning-clock/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BOLD1 Feb 2017 — Neurologist Takao Hensch discusses ways of reopening windows of heightened brain plasticity and making up for lost learn...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11687811/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11687811/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11687811/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11687811/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>life stress shifts critical periods and causes precocious...by J Poplawski · 2024 · Cited by 4 — The developing nervous system displays...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: 9, We only use 10% of our brain. 10, Children must  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 271 — There are critical periods in ch...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 271 — There are critical periods in ch...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Dekker · 2012 · Cited by 1288 — The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker · 2012 · Cited by 1288 — The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about the brain...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Language](https://en.wikipedia.org/wiki/Language)  
+   Link: <a href="https://en.wikipedia.org/wiki/Language" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Language</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LanguageLanguage is a structured system of communication that consists of grammar and vocabulary. It is the primary means by which hum...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Neuroscience](https://en.wikipedia.org/wiki/Neuroscience)  
+   Link: <a href="https://en.wikipedia.org/wiki/Neuroscience" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Neuroscience</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NeuroscienceNeuroscience is the scientific study of the nervous system (the brain, spinal cord, and peripheral nervous system), its fu...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Critical period  
-   Link: [https://en.wikipedia.org/wiki/Critical_period](https://en.wikipedia.org/wiki/Critical_period)  
+   Link: <a href="https://en.wikipedia.org/wiki/Critical_period" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Critical_period</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical periodA critical period is a maturational stage in the lifespan of an organism during which the nervous system is especially...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2211949323000224](https://www.sciencedirect.com/science/article/pii/S2211949323000224)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211949323000224" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211949323000224</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions about neurodevelopment by Italian teachers.by E Bei · 2024 · Cited by 41 — Background: Neuromyths are commonly held miscon...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: direct.mit.edu  
    Title: Investigating Critical Period Effects in Language  
-   Link: [https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00725/127669/Investigating-Critical-Period-Effects-in-Language](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00725/127669/Investigating-Critical-Period-Effects-in-Language)  
+   Link: <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00725/127669/Investigating-Critical-Period-Effects-in-Language" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00725/127669/Investigating-Critical-Period-Effects-in-Language</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Period Effects in Language...by I Constantinescu · 2025 · Cited by 25 — Critical period effects in humans are typically interpr...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/15509387/](https://pubmed.ncbi.nlm.nih.gov/15509387/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedSensitive periods in the development of the brain and behaviorby EI Knudsen · 2004 · Cited by 2605 — When the effect of experience...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/15509387/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15509387/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensitive periods in the development of the brain and behaviorby EI Knudsen · 2004 · Cited by 2605 — When the effect of experience...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/27429/chapter/5](https://www.nationalacademies.org/read/27429/chapter/5)  
+   Link: <a href="https://www.nationalacademies.org/read/27429/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/27429/chapter/5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Academies3 The Science of Early Learning and Brain DevelopmentThe principle that there are sensitive periods during early childh...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: rotel.pressbooks.pub  
    Title: Rotel7.5: Sensitive and Critical Periods of Development  
-   Link: [https://rotel.pressbooks.pub/biologicalpsychology1/chapter/sensitive-and-critical-periods-of-development/](https://rotel.pressbooks.pub/biologicalpsychology1/chapter/sensitive-and-critical-periods-of-development/)  
+   Link: <a href="https://rotel.pressbooks.pub/biologicalpsychology1/chapter/sensitive-and-critical-periods-of-development/" target="_blank" rel="noopener noreferrer nofollow">https://rotel.pressbooks.pub/biologicalpsychology1/chapter/sensitive-and-critical-periods-of-development/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pressbooks.pub7.5: Sensitive and Critical Periods of Development - rotelSensitive periods refer to the developmental time windows during...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/most-learning-happens-in-the-first-3-years/](https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/most-learning-happens-in-the-first-3-years/)  
+   Link: <a href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/most-learning-happens-in-the-first-3-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/most-learning-happens-in-the-first-3-years/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational NeuroscienceMost learning happens in the first 3 yearsThe first three years of life are a critical period for children&#x27;s brai...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: blogs.kent.ac.uk  
-   Link: [https://blogs.kent.ac.uk/parentingculturestudies/files/2011/09/Special-briefing-on-The-Myth.pdf](https://blogs.kent.ac.uk/parentingculturestudies/files/2011/09/Special-briefing-on-The-Myth.pdf)  
+   Link: <a href="https://blogs.kent.ac.uk/parentingculturestudies/files/2011/09/Special-briefing-on-The-Myth.pdf" target="_blank" rel="noopener noreferrer nofollow">https://blogs.kent.ac.uk/parentingculturestudies/files/2011/09/Special-briefing-on-The-Myth.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 259 — Five years later, the OECD...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: educationalneuroscience.org.uk  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/most-learning-happens-in-the-first-3-years/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/most-learning-happens-in-the-first-3-years/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/most-learning-happens-in-the-first-3-years/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/most-learning-happens-in-the-first-3-years/</a>  
 
 25. <a id="endnote-25"></a>
    Source: linguee.com.br  
-   Link: [https://www.linguee.com.br/ingles-portugues/traducao/critical.html](https://www.linguee.com.br/ingles-portugues/traducao/critical.html)  
+   Link: <a href="https://www.linguee.com.br/ingles-portugues/traducao/critical.html" target="_blank" rel="noopener noreferrer nofollow">https://www.linguee.com.br/ingles-portugues/traducao/critical.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tradução em portuguêscritical adjetivo— · críticas adj · críticos adj · crítico adj · crucial adj · Exemplos: critical thinking s—. pensa...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 454 — Neuromyths are misconceptions about...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2012.00429/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2012.00429/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2012.00429/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2012.00429/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuromyths in Education: Prevalence and Predictors of...by S Dekker · 2012 · Cited by 1254 — The OECD&#x27;s Brain and Learning project (2002...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2022.1057539/full](https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2022.1057539/full)  
+   Link: <a href="https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2022.1057539/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2022.1057539/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The critical periods of cerebral plasticity: A key aspect in...by J Tran The · 2022 · Cited by 8 — “Critical periods” of cerebral develo...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: blogs.ucl.ac.uk  
    Title: ucl.ac.uk Neuromyths in Education  
-   Link: [https://blogs.ucl.ac.uk/cdld/2021/12/10/neuromyths-in-education/](https://blogs.ucl.ac.uk/cdld/2021/12/10/neuromyths-in-education/)  
+   Link: <a href="https://blogs.ucl.ac.uk/cdld/2021/12/10/neuromyths-in-education/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.ucl.ac.uk/cdld/2021/12/10/neuromyths-in-education/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Education - UCL BlogsDec 10, 2021 — – Example: Critical Period Theory – States that learning depends on synaptic growth and the first...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: boldscience.org  
    Title: Neuromyths in education  
-   Link: [https://boldscience.org/neuromyths-in-education/](https://boldscience.org/neuromyths-in-education/)  
+   Link: <a href="https://boldscience.org/neuromyths-in-education/" target="_blank" rel="noopener noreferrer nofollow">https://boldscience.org/neuromyths-in-education/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BOLD16 Oct 2017 — Researchers need to determine the role of neuromyths in the classroom, and how to stop their potentially damaging effec...</p></details>
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en.html](https://www.oecd.org/en.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD: The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</p></details>
+   Link: <a href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/understanding-the-brain-the-birth-of-a-learning-science_9789264029132-en.html](https://www.oecd.org/en/publications/understanding-the-brain-the-birth-of-a-learning-science_9789264029132-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/understanding-the-brain-the-birth-of-a-learning-science_9789264029132-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/understanding-the-brain-the-birth-of-a-learning-science_9789264029132-en.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Brain: The Birth of a Learning ScienceThis book provides new insights about learning by synthesising existing and emerg...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/232536239_Neuromyths_in_Education_Prevalence_and_Predictors_of_Misconceptions_among_Teachers](https://www.researchgate.net/publication/232536239_Neuromyths_in_Education_Prevalence_and_Predictors_of_Misconceptions_among_Teachers)  
+   Link: <a href="https://www.researchgate.net/publication/232536239_Neuromyths_in_Education_Prevalence_and_Predictors_of_Misconceptions_among_Teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232536239_Neuromyths_in_Education_Prevalence_and_Predictors_of_Misconceptions_among_Teachers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Neuromyths in Education: Prevalence and...The OECD&#x27;s Brain and Learning project (2002) emphasized that many misconceptions about t...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: science-teaching.org  
-   Link: [https://science-teaching.org/research/influence-of-neuromyths-in-the-educational-environment](https://science-teaching.org/research/influence-of-neuromyths-in-the-educational-environment)  
+   Link: <a href="https://science-teaching.org/research/influence-of-neuromyths-in-the-educational-environment" target="_blank" rel="noopener noreferrer nofollow">https://science-teaching.org/research/influence-of-neuromyths-in-the-educational-environment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of neuromyths in the educational environmentEducational neuromyths are simplifications, misunderstandings, or misinterpretation...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: eujournal.org  
-   Link: [https://eujournal.org/index.php/esj/article/view/8774/8386](https://eujournal.org/index.php/esj/article/view/8774/8386)  
+   Link: <a href="https://eujournal.org/index.php/esj/article/view/8774/8386" target="_blank" rel="noopener noreferrer nofollow">https://eujournal.org/index.php/esj/article/view/8774/8386</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuromyths in Education and DevelopmentThese myths about the brain have persisted in all cognitive, social and environmental levels, ofte...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd/9789264029132-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd/9789264029132-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd/9789264029132-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd/9789264029132-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Brain: The Birth of a Learning ScienceCritical or sensitive periods in neuronal development – have strong significance...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: neurosciencenews.com  
    Title: Neuroscience News Critical Period for Language Learning Identified  
-   Link: [https://neurosciencenews.com/critical-period-language-learning-8930/](https://neurosciencenews.com/critical-period-language-learning-8930/)  
+   Link: <a href="https://neurosciencenews.com/critical-period-language-learning-8930/" target="_blank" rel="noopener noreferrer nofollow">https://neurosciencenews.com/critical-period-language-learning-8930/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuroscience NewsCritical Period for Language Learning IdentifiedMay 1, 2018 — Summary: Researchers report the critical period of languag...</p></details>
    Published: May 1, 2018  
 
 38. <a id="endnote-38"></a>
    Source: simplypsychology.org  
-   Link: [https://www.simplypsychology.org/critical-period.html](https://www.simplypsychology.org/critical-period.html)  
+   Link: <a href="https://www.simplypsychology.org/critical-period.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/critical-period.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>evels of plasticity in the brain before neural connections become more solidified and...Read more...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: researchgate.net  
    Title: 393752907 Critical and Sensitive Periods in Brain Development  
-   Link: [https://www.researchgate.net/publication/393752907_Critical_and_Sensitive_Periods_in_Brain_Development](https://www.researchgate.net/publication/393752907_Critical_and_Sensitive_Periods_in_Brain_Development)  
+   Link: <a href="https://www.researchgate.net/publication/393752907_Critical_and_Sensitive_Periods_in_Brain_Development" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393752907_Critical_and_Sensitive_Periods_in_Brain_Development</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Critical and Sensitive Periods in Brain Development16 Jul 2025 — Critical periods are times during which specific environmental exp...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: cis.org.au  
-   Link: [https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/](https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/)  
+   Link: <a href="https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pheric dominance suggest teachers do self-report incorporating myths...Read more...</p></details>

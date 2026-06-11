@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835
 - Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_vaccine_parental_pro_92a806
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - health-claims
 - kind-corrections
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - health-claims
 - kind-corrections
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Correcting a health myth from someone close works better when the response protects the relationship as well as the facts.
 hero_summary: Correcting a health myth from someone close works better when the response protects the relationship as well as the facts.
 layout: default
 permalink: /kind-corrections/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /health-claims/
 nav_short_title: Kind Corrections
 title: How to Correct Health Myths Kindly
-title_full: How to Correct Health Myths Kindly | Health Claims
+title_full: How to Correct Health Myths Kindly
 display_title_short: Kind Corrections
 display_title: Kind Corrections
 heading_title: How to Correct Health Myths Kindly
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Helpful Health Advice Can Be Wrong | Mythcraft
+parent_title: Why Helpful Health Advice Can Be Wrong
 parent_permalink: /health-claims/
 parent_nav_short_title: Health Claims
 parent_heading_title: Why Helpful Health Advice Can Be Wrong
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Vaccine Myths Feel Protective to Parents
 up_link:
   basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
@@ -265,7 +265,7 @@ next_link:
   permalink: /natural-remedies/
   short_title: Natural Remedies
   heading_title: When Natural Sounds Safer Than Evidence
-date: '2026-06-09 04:46:40 '
+date: '2026-06-11 22:12:34 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_kind_health_correcti_c41515-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_kind_health_correcti_c41515-Illustration-1.webp
@@ -276,9 +276,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_kin
 
 Correcting a health myth from someone you love is rarely just a fact-checking problem. The person sharing the claim may be trying to protect you, help a child, support a sick relative or reduce their own anxiety. That good intention does not make the claim accurate, but it does change how [correction]({{ 'correction/' | relative_url }}) works. A blunt response can feel less like a discussion about evidence and more like a judgement on someone's care, intelligence or values.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_kind_health_correcti_c41515-Illustration-1-dark.svg" | relative_url }}" alt="Kind Corrections illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_kind_health_correcti_c41515-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_kind_health_correcti_c41515-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on misinformation repeatedly finds that [false health claims]({{ 'health-claims/' | relative_url }}) often persist because they become connected to trust, [identity]({{ 'identity/' | relative_url }}) and emotion, not simply because people lack information. Effective correction therefore works on two levels at once: it addresses the inaccurate claim while protecting the relationship that carried it. The goal is not to “win” an argument. It is to reduce harm, preserve trust and make it easier for someone to update their understanding without feeling humiliated or cornered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-title">ecker.2022.nrp preprint</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition Lab1 The Psychological Drivers of Misinformation Belief and its...by UKH Ecker · Cited by 1916 — First, the mos...</span></span></span>
+Research on misinformation repeatedly finds that false [health claims]({{ 'health-claims/' | relative_url }}) often persist because they become connected to trust, [identity]({{ 'identity/' | relative_url }}) and emotion, not simply because people lack information. Effective correction therefore works on two levels at once: it addresses the inaccurate claim while protecting the relationship that carried it. The goal is not to “win” an argument. It is to reduce harm, preserve trust and make it easier for someone to update their understanding without feeling humiliated or cornered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-title">ecker.2022.nrp preprint</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition Lab1 The Psychological Drivers of Misinformation Belief and its...by UKH Ecker · Cited by 1916 — First, the mos...</span></span></span>
 
 ## Why Direct Debunking Can Feel Like an Attack
 
@@ -287,7 +286,6 @@ Many people imagine misinformation correction as a simple exchange: one person s
 When someone shares a health myth, they may be expressing deeper concerns beneath the claim itself. A message about vaccines may really be about fear of side effects. A rumour about cancer treatments may reflect desperation after a diagnosis. A warning about food additives may come from a wish to keep children safe.
 
 If the response immediately labels the claim as “nonsense”, the person may hear something different from what was intended:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -298,7 +296,7 @@ If the response immediately labels the claim as “nonsense”, the person may h
 
 </div>
 
-This reaction is one reason health misinformation can survive correction. People often defend beliefs that have become linked to identity, belonging or personal experience. Researchers describe psychological barriers that make belief revision difficult even after misinformation is corrected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
+This reaction is one reason health misinformation can survive correction. People often defend beliefs that have become linked to identity, belonging or personal experience. Researchers describe psychological barriers that make belief revision difficult even after misinformation is corrected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
 
 The popular idea that corrections inevitably backfire and strengthen false beliefs has been overstated. Large reviews suggest that factual corrections generally help more than they harm. However, effectiveness depends heavily on how the correction is delivered and whether the recipient feels respected enough to consider it. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://hsph.harvard.edu/research/health-communication/resources/countering-health-misinformation-lessons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hsph.harvard.edu">[Harvard Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hsph.harvard.edu</span><span class="citation-popover-snippet">Harvard Public HealthCountering health misinformation: 5 lessons from an expert...The backfire effect — when correcting misinformation o...</span></span></span>
 
@@ -317,10 +315,9 @@ Consider the difference between these responses:
 
 The second approach validates the [emotion]({{ 'emotion/' | relative_url }}) without validating the claim.
 
-This distinction matters because many health myths travel through trusted relationships. Public-health research on infodemics repeatedly highlights the importance of trusted messengers and community relationships in shaping how people receive information. People are often more open to correction when they believe the other person understands their concerns rather than dismissing them. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/n/spr9783031277894/ch2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIKey Concepts and Definitions in Infodemic Management</span><span class="citation-popover-snippet">NCBIby A Ishizumi · 2023 · Cited by 6 — In such situations, it is particularly important to leverage networks of trusted messengers who a...</span></span></span>
+This distinction matters because many health myths travel through trusted relationships. Public-health research on infodemics repeatedly highlights the importance of trusted messengers and community relationships in shaping how people receive information. People are often more open to correction when they believe the other person understands their concerns rather than dismissing them. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/n/spr9783031277894/ch2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIKey Concepts and Definitions in Infodemic Management</span><span class="citation-popover-snippet">by A Ishizumi · 2023 · Cited by 6 — In such situations, it is particularly important to leverage networks of trusted messengers who a...</span></span></span>
 
 Useful phrases include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -335,15 +332,11 @@ These responses lower defensiveness while creating room for evidence.
 
 They also avoid a common mistake: arguing against motives that were never the problem. The issue is not that a parent cares about their child or that a friend wants to protect someone from illness. The issue is that the information being used to express that care is unreliable.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C9u-ImfeFCw" title="How to talk to friends and family about disinformation | training video with Claire Wardle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C9u-ImfeFCw" target="_blank" rel="noopener noreferrer">How to talk to friends and family about disinformation | training video with Claire Wardle</a></p><p class="youtube-embed-meta">Channel: First Draft</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C9u-ImfeFCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C9u-ImfeFCw">Open on YouTube</a></p></div></div></div>
-
 ## Ask Questions Before Providing Facts
 
 People often become more receptive when they explain their own reasoning out loud.
 
 Instead of immediately delivering a correction, ask questions that encourage reflection:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -356,7 +349,7 @@ Instead of immediately delivering a correction, ask questions that encourage ref
 
 These questions serve two purposes.
 
-First, they reveal whether the person firmly believes the claim or is merely passing it along. Research suggests people sometimes share misinformation because it feels emotionally compelling or socially important, not because they have carefully evaluated it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
+First, they reveal whether the person firmly believes the claim or is merely passing it along. Research suggests people sometimes share misinformation because it feels emotionally compelling or socially important, not because they have carefully evaluated it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
 
 Second, questions help people examine weaknesses in a claim themselves. A person who realises they cannot identify a credible source may become more open to alternative information than someone who feels forced into retreat.
 
@@ -368,7 +361,7 @@ One reason myths persist is that they often provide a simple explanation for som
 
 A correction that only says “that's wrong” creates an information gap. People still want an explanation for what happened, whom to trust and what action to take.
 
-Research on misinformation correction consistently finds that debunking works better when it includes an alternative explanation rather than a simple denial. People need a [replacement story]({{ 'better-story-524703/' | relative_url }}) that makes sense of the situation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-title">ecker.2022.nrp preprint</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition Lab1 The Psychological Drivers of Misinformation Belief and its...by UKH Ecker · Cited by 1916 — First, the mos...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asc.upenn.edu/news-events/news/debunking-study-suggests-ways-counter-misinformation-and-correct-fake-news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asc.upenn.edu">[Annenberg School for Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asc.upenn.edu</span><span class="citation-popover-title">debunking study suggests ways counter misinformation and correct fake news</span><span class="citation-popover-snippet">Annenberg School for CommunicationDebunking Study Suggests Ways to Counter Misinformation...12 Sept 2017 — Debunking is more effective —...</span></span></span>
+Research on misinformation correction consistently finds that [debunking]({{ 'debunking/' | relative_url }}) works better when it includes an alternative explanation rather than a simple denial. People need a replacement story that makes sense of the situation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-title">ecker.2022.nrp preprint</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition Lab1 The Psychological Drivers of Misinformation Belief and its...by UKH Ecker · Cited by 1916 — First, the mos...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asc.upenn.edu/news-events/news/debunking-study-suggests-ways-counter-misinformation-and-correct-fake-news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asc.upenn.edu">[Annenberg School for Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asc.upenn.edu</span><span class="citation-popover-title">debunking study suggests ways counter misinformation and correct fake news</span><span class="citation-popover-snippet">Annenberg School for CommunicationDebunking Study Suggests Ways to Counter Misinformation...12 Sept 2017 — Debunking is more effective —...</span></span></span>
 
 For example:
 
@@ -376,7 +369,7 @@ For example:
 
 “Vaccines don't cause infertility.”
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asc.upenn.edu/news-events/news/debunking-study-suggests-ways-counter-misinformation-and-correct-fake-news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asc.upenn.edu">[**More effective**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asc.upenn.edu</span><span class="citation-popover-title">debunking study suggests ways counter misinformation and correct fake news</span><span class="citation-popover-snippet">Annenberg School for CommunicationDebunking Study Suggests Ways to Counter Misinformation...12 Sept 2017 — Debunking is more effective —...</span></span></span>
+**More effective** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asc.upenn.edu/news-events/news/debunking-study-suggests-ways-counter-misinformation-and-correct-fake-news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asc.upenn.edu">[asc.upenn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asc.upenn.edu</span><span class="citation-popover-title">debunking study suggests ways counter misinformation and correct fake news</span><span class="citation-popover-snippet">Annenberg School for CommunicationDebunking Study Suggests Ways to Counter Misinformation...12 Sept 2017 — Debunking is more effective —...</span></span></span>
 
 “Large studies have looked for fertility problems after vaccination and have not found evidence of them. The rumour began after misinterpreted claims online, but researchers have continued tracking fertility outcomes and have not found the effect people feared.”
 
@@ -391,8 +384,7 @@ Where the rumour came from or why it sounded convincing.
 3. **A practical next step**
 A trusted source, clinician conversation or evidence-based action.
 
-Without this replacement structure, misinformation can continue influencing judgement even after people recognise that parts of it were inaccurate. Researchers call this the “continued influence effect”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOSA failure to replicate familiarity or fear-driven backfire effectsby UKH Ecker · 2023 · Cited by 48 — Individuals often continue to r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">These recommendations pertain to the ways in which corrections should be...Read more...</span></span></span>
-
+Without this replacement structure, misinformation can continue influencing judgement even after people recognise that parts of it were inaccurate. Researchers call this the “continued influence effect”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">A failure to replicate familiarity or fear-driven backfire effectsby UKH Ecker · 2023 · Cited by 48 — Individuals often continue to r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">These recommendations pertain to the ways in which corrections should be...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_kind_health_correcti_c41515-Illustration-2-dark.svg" | relative_url }}" alt="Kind Corrections illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_kind_health_correcti_c41515-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_kind_health_correcti_c41515-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Personal Stories Matter More Than Statistics
@@ -407,10 +399,9 @@ The challenge is that a scientific explanation can feel emotionally weaker than 
 
 This does not mean abandoning evidence. It means recognising that people process information through both emotion and reasoning.
 
-Narrative-based corrections sometimes help because they connect evidence to real human experiences. For example, a discussion about vaccine safety may become more meaningful when combined with a story from a trusted doctor, patient or family member rather than relying solely on percentages and graphs. Researchers studying narrative corrections have found potential benefits, though results vary depending on how stories are used. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X23001809" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectTrusted messengers and trusted messages: The role for...by AK Shen · 2023 · Cited by 104 — We sought to explore the trust a...</span></span></span>
+Narrative-based corrections sometimes help because they connect evidence to real human experiences. For example, a discussion about vaccine safety may become more meaningful when combined with a story from a trusted doctor, patient or family member rather than relying solely on percentages and graphs. Researchers studying narrative corrections have found potential benefits, though results vary depending on how stories are used. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X23001809" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Trusted messengers and trusted messages: The role for...by AK Shen · 2023 · Cited by 104 — We sought to explore the trust a...</span></span></span>
 
 A balanced approach often works best:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -424,9 +415,7 @@ For instance:
 
 “I'm glad your neighbour recovered. The difficult part is that people often improve for many reasons at the same time. That's why researchers compare large groups of people to see whether a treatment is actually responsible.”
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rxrzug6A6T0" title="Messengers of Evil by Marcel Allain and Pierre Souvestre | Full Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rxrzug6A6T0" target="_blank" rel="noopener noreferrer">Messengers of Evil by Marcel Allain and Pierre Souvestre | Full Audiobook</a></p><p class="youtube-embed-meta">Channel: Vivid Audio Library</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rxrzug6A6T0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rxrzug6A6T0">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_kind_health_correcti_c41515-Illustration-3-dark.svg" | relative_url }}" alt="Kind Corrections illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_kind_health_correcti_c41515-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_kind_health_correcti_c41515-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Choosing the Right Moment
 
 Not every myth requires an immediate confrontation.
@@ -436,7 +425,6 @@ A family dinner, a funeral, a hospital waiting room or a heated social-media thr
 [Timing]({{ 'timing/' | relative_url }}) affects whether people can process new information. If someone is frightened, grieving or angry, emotional regulation may matter more than fact correction in that moment.
 
 Consider:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -451,8 +439,6 @@ Public-health researchers increasingly frame misinformation as a problem of trus
 
 This is particularly important with older relatives, close friends or long-standing family dynamics where the relationship will continue long after the specific myth is forgotten.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_kind_health_correcti_c41515-Illustration-3-dark.svg" | relative_url }}" alt="Kind Corrections illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_kind_health_correcti_c41515-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_kind_health_correcti_c41515-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What to Do When the Myth Could Cause Immediate Harm
 
 Kindness does not require passivity.
@@ -460,7 +446,6 @@ Kindness does not require passivity.
 Some claims create genuine health risks. Advice to stop prescribed medication, avoid emergency treatment, refuse critical vaccines during outbreaks or use dangerous “cures” may require a firmer response.
 
 In these situations:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -475,16 +460,13 @@ The aim remains respectful communication, but the urgency changes. Health misinf
 
 A practical rule is that the greater the potential harm, the more important it becomes to correct the claim—even if the conversation feels uncomfortable.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LgiV72_JITU" title="Leading With Trust in a Polarized Public Health Moment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LgiV72_JITU" target="_blank" rel="noopener noreferrer">Leading With Trust in a Polarized Public Health Moment</a></p><p class="youtube-embed-meta">Channel: OnWrd &amp; UpWrd</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LgiV72_JITU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LgiV72_JITU">Open on YouTube</a></p></div></div></div>
-
 ## Why Repeated Small Corrections Often Work Better
 
 People rarely abandon a health myth after hearing one perfect argument.
 
 Beliefs usually change gradually. Someone may reject a correction today, revisit it weeks later and eventually modify their view after multiple conversations and experiences.
 
-This is one reason experts increasingly encourage consistent, calm correction rather than silence. Evidence suggests that factual corrections are generally effective and that fears of inevitable backlash have often been exaggerated. Repeated exposure to accurate information, especially from trusted sources, can reduce belief in misinformation over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hsph.harvard.edu/research/health-communication/resources/countering-health-misinformation-lessons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hsph.harvard.edu">[Harvard Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hsph.harvard.edu</span><span class="citation-popover-snippet">Harvard Public HealthCountering health misinformation: 5 lessons from an expert...The backfire effect — when correcting misinformation o...</span></span></span> PMC The most productive outcome is often modest rather than dramatic: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</span></span></span>
+This is one reason experts increasingly encourage consistent, calm correction rather than silence. Evidence suggests that factual corrections are generally effective and that fears of inevitable backlash have often been exaggerated. Repeated exposure to accurate information, especially from trusted sources, can reduce belief in misinformation over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hsph.harvard.edu/research/health-communication/resources/countering-health-misinformation-lessons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hsph.harvard.edu">[Harvard Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hsph.harvard.edu</span><span class="citation-popover-snippet">Harvard Public HealthCountering health misinformation: 5 lessons from an expert...The backfire effect — when correcting misinformation o...</span></span></span> PMC The most productive outcome is often modest rather than dramatic: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</span></span></span>
 
 * a relative becomes less certain about a rumour;
 * a friend decides to verify claims before sharing them;
@@ -492,7 +474,7 @@ This is one reason experts increasingly encourage consistent, calm correction ra
 
 Those changes may seem small, but they interrupt the chain through which health myths spread among people who trust one another.
 
-In families and friendships, successful correction is rarely measured by winning an argument. It is measured by preserving enough trust that accurate information still has a chance to be heard the next time it matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/n/spr9783031277894/ch2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIKey Concepts and Definitions in Infodemic Management</span><span class="citation-popover-snippet">NCBIby A Ishizumi · 2023 · Cited by 6 — In such situations, it is particularly important to leverage networks of trusted messengers who a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X23001809" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectTrusted messengers and trusted messages: The role for...by AK Shen · 2023 · Cited by 104 — We sought to explore the trust a...</span></span></span>
+In families and friendships, successful correction is rarely measured by winning an argument. It is measured by preserving enough trust that accurate information still has a chance to be heard the next time it matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/n/spr9783031277894/ch2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIKey Concepts and Definitions in Infodemic Management</span><span class="citation-popover-snippet">by A Ishizumi · 2023 · Cited by 6 — In such situations, it is particularly important to leverage networks of trusted messengers who a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X23001809" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Trusted messengers and trusted messages: The role for...by AK Shen · 2023 · Cited by 104 — We sought to explore the trust a...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -890,169 +872,169 @@ In families and friendships, successful correction is rarely measured by winning
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: who.int  
-   Link: [https://www.who.int/health-topics/infodemic](https://www.who.int/health-topics/infodemic)  
+   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing](https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing)  
+   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These recommendations pertain to the ways in which corrections should be...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: hsph.harvard.edu  
-   Link: [https://hsph.harvard.edu/research/health-communication/resources/countering-health-misinformation-lessons/](https://hsph.harvard.edu/research/health-communication/resources/countering-health-misinformation-lessons/)  
+   Link: <a href="https://hsph.harvard.edu/research/health-communication/resources/countering-health-misinformation-lessons/" target="_blank" rel="noopener noreferrer nofollow">https://hsph.harvard.edu/research/health-communication/resources/countering-health-misinformation-lessons/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Public HealthCountering health misinformation: 5 lessons from an expert...The backfire effect — when correcting misinformation o...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOSA failure to replicate familiarity or fear-driven backfire effectsby UKH Ecker · 2023 · Cited by 48 — Individuals often continue to r...</p></details>
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A failure to replicate familiarity or fear-driven backfire effectsby UKH Ecker · 2023 · Cited by 48 — Individuals often continue to r...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0264410X23001809](https://www.sciencedirect.com/science/article/abs/pii/S0264410X23001809)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectTrusted messengers and trusted messages: The role for...by AK Shen · 2023 · Cited by 104 — We sought to explore the trust a...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X23001809" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X23001809</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trusted messengers and trusted messages: The role for...by AK Shen · 2023 · Cited by 104 — We sought to explore the trust a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIKey Concepts and Definitions in Infodemic Management  
-   Link: [https://www.ncbi.nlm.nih.gov/books/n/spr9783031277894/ch2/](https://www.ncbi.nlm.nih.gov/books/n/spr9783031277894/ch2/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBIby A Ishizumi · 2023 · Cited by 6 — In such situations, it is particularly important to leverage networks of trusted messengers who a...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/n/spr9783031277894/ch2/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/n/spr9783031277894/ch2/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Ishizumi · 2023 · Cited by 6 — In such situations, it is particularly important to leverage networks of trusted messengers who a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 716 — This phenomenon, called an infodemic, i...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0738399125006202](https://www.sciencedirect.com/science/article/pii/S0738399125006202)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectEffectiveness and determinants of narrative-based...by T Okuhara · 2025 · Cited by 3 — Narrative-based corrections show the...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0738399125006202" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0738399125006202</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effectiveness and determinants of narrative-based...by T Okuhara · 2025 · Cited by 3 — Narrative-based corrections show the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: who.int  
-   Link: [https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds](https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds)  
+   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemics and misinformation negatively affect people&#x27;s...1 Sept 2022 — The systematic review found that peopl...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: who.int  
-   Link: [https://www.who.int/health-topics/infodemic/understanding-the-infodemic-and-misinformation-in-the-fight-against-covid-19](https://www.who.int/health-topics/infodemic/understanding-the-infodemic-and-misinformation-in-the-fight-against-covid-19)  
+   Link: <a href="https://www.who.int/health-topics/infodemic/understanding-the-infodemic-and-misinformation-in-the-fight-against-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic/understanding-the-infodemic-and-misinformation-in-the-fight-against-covid-19</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>al and physical environments during a disease outbreak...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: who.int  
    Title: disinformation and public health  
-   Link: [https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health](https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health)  
+   Link: <a href="https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Feb 2024 — This WHO questions and answers page looks at how health-related disinformation has emerged as a threat to public health and...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: who.int  
-   Link: [https://www.who.int/europe/news/item/25-01-2024-addressing-dangerous-health-narratives-in-emergencies--an-operational-toolkit](https://www.who.int/europe/news/item/25-01-2024-addressing-dangerous-health-narratives-in-emergencies--an-operational-toolkit)  
+   Link: <a href="https://www.who.int/europe/news/item/25-01-2024-addressing-dangerous-health-narratives-in-emergencies--an-operational-toolkit" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/25-01-2024-addressing-dangerous-health-narratives-in-emergencies--an-operational-toolkit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Addressing dangerous health narratives in emergencies25 Jan 2024 — Infodemics occur when too much information, including false or mislead...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: emc-lab.org  
    Title: ecker.2022.nrp preprint  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker [Memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Cognition Lab1 The Psychological Drivers of Misinformation Belief and its...by UKH Ecker · Cited by 1916 — First, the mos...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: asc.upenn.edu  
    Title: debunking study suggests ways counter misinformation and correct fake news  
-   Link: [https://www.asc.upenn.edu/news-events/news/debunking-study-suggests-ways-counter-misinformation-and-correct-fake-news](https://www.asc.upenn.edu/news-events/news/debunking-study-suggests-ways-counter-misinformation-and-correct-fake-news)  
+   Link: <a href="https://www.asc.upenn.edu/news-events/news/debunking-study-suggests-ways-counter-misinformation-and-correct-fake-news" target="_blank" rel="noopener noreferrer nofollow">https://www.asc.upenn.edu/news-events/news/debunking-study-suggests-ways-counter-misinformation-and-correct-fake-news</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Annenberg School for CommunicationDebunking Study Suggests Ways to Counter Misinformation...12 Sept 2017 — Debunking is more effective —...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/27188](https://www.nationalacademies.org/read/27188)  
+   Link: <a href="https://www.nationalacademies.org/read/27188" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/27188</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating Infodemics and Building Trust During Public...The Misinformation Unit learned that that public health infodemic management ef...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9077350/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9077350/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Rubinelli · 2022 · Cited by 72 — It identifies competencies to manage and monitor infodemics, to design, conduct and evaluate app...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9077350/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9077350/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Rubinelli · 2022 · Cited by 72 — It identifies competencies to manage and monitor infodemics, to design, conduct and evaluate app...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9958229/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9958229/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9958229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9958229/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In particular, derision constitutes most of the emotional responses...R...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11375383/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11375383/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11375383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11375383/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehensive Analysis of COVID-19 Misinformation...by S Kisa · 2024 · Cited by 127 — This infodemic led to confusion, mistrust in healt...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: guides.library.ubc.ca  
-   Link: [https://guides.library.ubc.ca/healthmisinformation/communication](https://guides.library.ubc.ca/healthmisinformation/communication)  
+   Link: <a href="https://guides.library.ubc.ca/healthmisinformation/communication" target="_blank" rel="noopener noreferrer nofollow">https://guides.library.ubc.ca/healthmisinformation/communication</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Misinformation7 Mar 2025 — Backfire Effect: the tendency to believe more deeply in a piece of misinformation after receiving a cor...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: news-medical.net  
-   Link: [https://www.news-medical.net/news/20240304/Empathetic-correction-of-misinformation-can-improve-attitudes-towards-vaccination-study-shows.aspx](https://www.news-medical.net/news/20240304/Empathetic-correction-of-misinformation-can-improve-attitudes-towards-vaccination-study-shows.aspx)  
+   Link: <a href="https://www.news-medical.net/news/20240304/Empathetic-correction-of-misinformation-can-improve-attitudes-towards-vaccination-study-shows.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20240304/Empathetic-correction-of-misinformation-can-improve-attitudes-towards-vaccination-study-shows.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Empathetic correction of misinformation can improve...4 Mar 2024 — An international study has shown for the first time how empathetic co...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: centerforhealthsecurity.org  
-   Link: [https://centerforhealthsecurity.org/sites/default/files/2023-04/230407-nasempaper.pdf](https://centerforhealthsecurity.org/sites/default/files/2023-04/230407-nasempaper.pdf)  
+   Link: <a href="https://centerforhealthsecurity.org/sites/default/files/2023-04/230407-nasempaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforhealthsecurity.org/sites/default/files/2023-04/230407-nasempaper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Johns Hopkins Center for Health SecurityInfodemic Management Approaches Leading up to, During...To overcome barriers to communication w...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: publichealthcollaborative.org  
-   Link: [https://publichealthcollaborative.org/wp-content/uploads/2024/11/The-Public-Health-Communicators-Guide-to-Misinformation.pdf](https://publichealthcollaborative.org/wp-content/uploads/2024/11/The-Public-Health-Communicators-Guide-to-Misinformation.pdf)  
+   Link: <a href="https://publichealthcollaborative.org/wp-content/uploads/2024/11/The-Public-Health-Communicators-Guide-to-Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publichealthcollaborative.org/wp-content/uploads/2024/11/The-Public-Health-Communicators-Guide-to-Misinformation.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Public Health Communicators Guide to MisinformationBuilding continued trust in public health requires communicators to learn how to i...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: joint-research-centre.ec.europa.eu  
-   Link: [https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en)  
+   Link: <a href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en" target="_blank" rel="noopener noreferrer nofollow">https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Research CentreMisinformation and disinformation: both prebunking and...25 Oct 2024 — A JRC-led study recently published in Nature...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reutersinstitute.[politics](&#123;&#123; 'politics/' | relative_url &#125;&#125;). ox.ac.uk  
-   Link: [https://reutersinstitute.politics.ox.ac.uk/infodemic-how-people-six-countries-access-and-rate-news-and-information-about-coronavirus](https://reutersinstitute.politics.ox.ac.uk/infodemic-how-people-six-countries-access-and-rate-news-and-information-about-coronavirus)  
+   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/infodemic-how-people-six-countries-access-and-rate-news-and-information-about-coronavirus" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/infodemic-how-people-six-countries-access-and-rate-news-and-information-about-coronavirus</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the &#x27;infodemic&#x27;: how people in six countries access...15 Apr 2020 — In this report, we use survey data collected in late March and early...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: firstdraftnews.org  
    Title: the psychology of misinformation why its so hard to correct  
-   Link: [https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/](https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/)  
+   Link: <a href="https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect is the theory that a correction can strengthen belief in misinformation. It has been broken down...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: cpha.ca  
-   Link: [https://www.cpha.ca/finding-public-healths-voice-infodemic](https://www.cpha.ca/finding-public-healths-voice-infodemic)  
+   Link: <a href="https://www.cpha.ca/finding-public-healths-voice-infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.cpha.ca/finding-public-healths-voice-infodemic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ncluding false or misleading information in digital and physical...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/09581596.2025.2535084](https://www.tandfonline.com/doi/full/10.1080/09581596.2025.2535084)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09581596.2025.2535084" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09581596.2025.2535084</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineTrust and the infodemic: reframing information threats in...by H Dwyer · 2025 · Cited by 4 — focusing on rebuildi...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: mcmasterforum.org  
    Title: Living Evidence Synthesis  
-   Link: [https://www.mcmasterforum.org/docs/default-source/product-documents/living-evidence-syntheses/living-evidence-synthesis-22-1---impact-of-strategies-to-mitigate-health-related-misinformation-in-diverse-settings-and-populations.pdf?sfvrsn=720c472b_5](https://www.mcmasterforum.org/docs/default-source/product-documents/living-evidence-syntheses/living-evidence-synthesis-22-1---impact-of-strategies-to-mitigate-health-related-misinformation-in-diverse-settings-and-populations.pdf?sfvrsn=720c472b_5)  
+   Link: <a href="https://www.mcmasterforum.org/docs/default-source/product-documents/living-evidence-syntheses/living-evidence-synthesis-22-1---impact-of-strategies-to-mitigate-health-related-misinformation-in-diverse-settings-and-populations.pdf?sfvrsn=720c472b_5" target="_blank" rel="noopener noreferrer nofollow">https://www.mcmasterforum.org/docs/default-source/product-documents/living-evidence-syntheses/living-evidence-synthesis-22-1---impact-of-strategies-to-mitigate-health-related-misinformation-in-diverse-settings-and-populations.pdf?sfvrsn=720c472b_5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of strategies to mitigate...15 Apr 2024 — For instance, one older evidence synthesis found that correcting misinformation has a m...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: post.parliament.uk  
    Title: covid 19 misinformation  
-   Link: [https://post.parliament.uk/covid-19-misinformation/](https://post.parliament.uk/covid-19-misinformation/)  
+   Link: <a href="https://post.parliament.uk/covid-19-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://post.parliament.uk/covid-19-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.ukCOVID-19 misinformation23 Apr 2020 — Most cases of misinformation are found on social media. Misinformation can lead to publ...</p></details>

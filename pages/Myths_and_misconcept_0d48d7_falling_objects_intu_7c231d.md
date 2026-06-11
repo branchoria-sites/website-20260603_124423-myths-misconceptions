@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - falling-objects
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - falling-objects
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Some false beliefs last because everyday experience seems to confirm them until the hidden conditions are made clear.
 hero_summary: Some false beliefs last because everyday experience seems to confirm them until the hidden conditions are made clear.
 layout: default
 permalink: /falling-objects/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Falling Objects
 title: Why Common Sense Gets Falling Objects Wrong
-title_full: Why Common Sense Gets Falling Objects Wrong | Mythcraft
+title_full: Why Common Sense Gets Falling Objects Wrong
 display_title_short: Falling Objects
 display_title: Falling Objects
 heading_title: Why Common Sense Gets Falling Objects Wrong
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 next_link:
   basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
-date: '2026-06-09 04:10:17 '
+date: '2026-06-11 21:54:13 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d-overview.webp
@@ -501,30 +501,27 @@ image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d-ov
 
 ## Introduction
 
-The belief that heavier objects fall faster is one of the best examples of a misconception that survives because ordinary experience seems to support it. A stone really does reach the ground before a feather, and a full water bottle often seems to drop more decisively than an empty one. The [correction]({{ 'correction/' | relative_url }}) is not that everyday observation is useless; it is that everyday falling usually happens in air, where shape, surface area, drag and [terminal velocity]({{ 'terminal-speed/' | relative_url }}) can hide the simpler rule. In free fall, where gravity is the only significant force, objects fall with the same acceleration regardless of mass. NASA’s educational material states this plainly: in a vacuum, size, shape and weight do not determine the acceleration of a falling object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-fall-without-air-resistance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www1.grc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www1.grc.nasa.gov</span><span class="citation-popover-title">In a vacuum, a beach ball falls at the same rate as an airliner.Read more</span><span class="citation-popover-snippet">NASAFree Fall without Air Resistance | Glenn Research Center18 Jul 2024 — All objects, regardless of size or shape or weight, free fall w...</span></span></span>
-
+The belief that heavier objects fall faster is one of the best examples of a misconception that survives because ordinary experience seems to support it. A stone really does reach the ground before a feather, and a full water bottle often seems to drop more decisively than an empty one. The [correction]({{ 'correction/' | relative_url }}) is not that everyday observation is useless; it is that everyday falling usually happens in air, where shape, surface area, drag and terminal velocity can hide the simpler rule. In free fall, where gravity is the only significant force, objects fall with the same acceleration regardless of mass. NASAs educational material states this plainly: in a vacuum, size, shape and weight do not determine the acceleration of a falling object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-fall-without-air-resistance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www1.grc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www1.grc.nasa.gov</span><span class="citation-popover-title">In a vacuum, a beach ball falls at the same rate as an airliner.Read more</span><span class="citation-popover-snippet">Free Fall without Air Resistance &#124; Glenn Research Center18 Jul 2024  All objects, regardless of size or shape or weight, free fall w...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d-overview.webp" | relative_url }}" alt="Overview image for Falling Objects" loading="eager" decoding="sync" fetchpriority="high">
-This makes the misconception especially instructive. It is not a childish error so much as a reasonable first model drawn from incomplete conditions. The better model has to explain both facts at once: why a hammer and a feather fall together in a vacuum, and why a feather drifts slowly through air on Earth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science The Apollo 15 Hammer-Feather Drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather DropJuly 16, 2018 — 20 Jul 2015 — A live demonstration for the television cameras. He held out a...</span><span class="citation-popover-meta">Published: July 16, 2018</span></span></span>
+This makes the misconception especially instructive. It is not a childish error so much as a reasonable first model drawn from incomplete conditions. The better model has to explain both facts at once: why a hammer and a feather fall together in a vacuum, and why a feather drifts slowly through air on Earth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science The Apollo 15 Hammer-Feather Drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather DropJuly 16, 2018  20 Jul 2015  A live demonstration for the television cameras. He held out a...</span><span class="citation-popover-meta">Published: July 16, 2018</span></span></span>
 
 ## Why the intuitive model feels right
 
-The intuitive rule is simple: heavier objects feel as though they “have more gravity in them”, so they should fall faster. That impression is reinforced by countless daily comparisons. A coin drops quickly; a receipt flutters. A pebble lands before a dry leaf. A dense ball seems less bothered by the air than a light, broad object. These examples are real, but they bundle several variables together: mass, shape, density, surface area and air resistance all change at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10249391/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn understanding of falling bodies across schooling</span><span class="citation-popover-snippet">PMCAn understanding of falling bodies across schooling</span></span></span>
+The intuitive rule is simple: heavier objects feel as though they have more gravity in them, so they should fall faster. That impression is reinforced by countless daily comparisons. A coin drops quickly; a receipt flutters. A pebble lands before a dry leaf. A dense ball seems less bothered by the air than a light, broad object. These examples are real, but they bundle several variables together: mass, shape, density, surface area and air resistance all change at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10249391/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn understanding of falling bodies across schooling</span><span class="citation-popover-snippet">PMCAn understanding of falling bodies across schooling</span></span></span>
 
-Physics education research shows why this belief is durable. A 2023 study of 953 participants across levels of schooling and experience found that falling-body reasoning is not captured by one simple misconception. People may rely on several “conceptual resources”, including the idea that heavier objects fall faster, that larger or wider objects fall faster, or that air matters only in special cases. The authors note that observations seeming to show heavier objects falling faster are hard to contradict because they can genuinely be made in ordinary atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10249391/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn understanding of falling bodies across schooling</span><span class="citation-popover-snippet">PMCAn understanding of falling bodies across schooling</span></span></span>
+Physics education research shows why this belief is durable. A 2023 study of 953 participants across levels of schooling and experience found that falling-body reasoning is not captured by one simple misconception. People may rely on several conceptual resources, including the idea that heavier objects fall faster, that larger or wider objects fall faster, or that air matters only in special cases. The authors note that observations seeming to show heavier objects falling faster are hard to contradict because they can genuinely be made in ordinary atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10249391/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn understanding of falling bodies across schooling</span><span class="citation-popover-snippet">PMCAn understanding of falling bodies across schooling</span></span></span>
 
-That is why simply saying “all objects fall at the same rate” can also mislead. A reader who has watched paper fall more slowly than a pen knows that statement cannot describe every visible fall on Earth. The accurate version is narrower and stronger: when air resistance is absent or negligible, mass alone does not make one object accelerate faster than another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsclassroom.com">[The Physics Classroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsclassroom.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+That is why simply saying all objects fall at the same rate can also mislead. A reader who has watched paper fall more slowly than a pen knows that statement cannot describe every visible fall on Earth. The accurate version is narrower and stronger: when air resistance is absent or negligible, mass alone does not make one object accelerate faster than another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsclassroom.com">[The Physics Classroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsclassroom.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d-Illustration-1-dark.svg" | relative_url }}" alt="Falling Objects illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What free fall actually says
 
-In physics, “free fall” has a stricter meaning than “moving downwards”. It means the object is falling under the influence of gravity alone, with no significant air resistance, lift, thrust or support force. Under that condition, objects near Earth’s surface share the same gravitational acceleration, commonly given as about 9.8 metres per second squared. The Physics Classroom summarises the point by distinguishing true free fall from cases where air resistance becomes important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsclassroom.com">[The Physics Classroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsclassroom.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In physics, free fall has a stricter meaning than moving downwards. It means the object is falling under the influence of gravity alone, with no significant air resistance, lift, thrust or support force. Under that condition, objects near Earths surface share the same gravitational acceleration, commonly given as about 9.8 metres per second squared. The Physics Classroom summarises the point by distinguishing true free fall from cases where air resistance becomes important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsclassroom.com">[The Physics Classroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsclassroom.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The reason mass cancels out is central to the correction. A heavier object does experience a greater gravitational force. But it also has greater inertia: it is harder to accelerate by the same proportion. In Newtonian terms, the increase in gravitational pull and the increase in resistance to acceleration scale together, so the acceleration comes out the same when gravity is the only significant force. A technical discussion of [Galileo]({{ 'galileo/' | relative_url }})’s thought experiment describes this as the pairing of greater gravitational mass with greater inertial mass. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2304.06860v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The reason mass cancels out is central to the correction. A heavier object does experience a greater gravitational force. But it also has greater inertia: it is harder to accelerate by the same proportion. In Newtonian terms, the increase in gravitational pull and the increase in resistance to acceleration scale together, so the acceleration comes out the same when gravity is the only significant force. A technical discussion of [Galileo]({{ 'galileo/' | relative_url }})s thought experiment describes this as the pairing of greater gravitational mass with greater inertial mass. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2304.06860v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This is the hidden step the everyday intuition misses. “More weight” is not automatically “more acceleration”. Force matters, but acceleration depends on force relative to mass. A heavy object has more gravitational force pulling it down, but that same larger mass means the force has more object to accelerate. In ideal free fall, those two facts balance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-falling-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www1.grc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www1.grc.nasa.gov</span><span class="citation-popover-title">Free Falling Objects | Glenn Research Center</span><span class="citation-popover-snippet">NASAFree Falling Objects | Glenn Research Center - NASA20 Nov 2023 — So, all objects, regardless of size or shape or weight, free fall wi...</span></span></span>
-
+This is the hidden step the everyday intuition misses. More weight is not automatically more acceleration. Force matters, but acceleration depends on force relative to mass. A heavy object has more gravitational force pulling it down, but that same larger mass means the force has more object to accelerate. In ideal free fall, those two facts balance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-falling-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www1.grc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www1.grc.nasa.gov</span><span class="citation-popover-title">Free Falling Objects &#124; Glenn Research Center</span><span class="citation-popover-snippet">Free Falling Objects &#124; Glenn Research Center - NASA20 Nov 2023  So, all objects, regardless of size or shape or weight, free fall wi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XrJzUqX520k" title="Why Objects of Different Mass Fall at The Same Rate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XrJzUqX520k" target="_blank" rel="noopener noreferrer">Why Objects of Different Mass Fall at The Same Rate</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 853.6K &middot; Uploaded: May 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XrJzUqX520k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XrJzUqX520k">Open on YouTube</a></p></div></div></div>
 
@@ -532,31 +529,28 @@ This is the hidden step the everyday intuition misses. “More weight” is not 
 
 Air resistance, or drag, is the upward force caused by an object moving through air. It depends strongly on speed and on how the object presents itself to the air. A flat sheet of paper has a large area relative to its weight, so air can slow it dramatically. Crumple the same paper and it falls much faster, even though its mass has barely changed. That one comparison is often more useful than a heavy-versus-light example because it separates shape from weight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2013/10/do-heavier-objects-really-fall-faster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">do heavier objects really fall faster</span><span class="citation-popover-snippet">do heavier objects really fall faster</span></span></span>
 
-NASA’s explanation of falling with air resistance describes how drag increases as velocity increases. Eventually, for some falling objects, drag can equal weight. At that point there is no net force, acceleration becomes zero, and the object continues at a constant terminal velocity. This is why skydivers, feathers and broad sheets of paper do not simply keep accelerating in the way an ideal free-fall calculation would predict. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+NASAs explanation of falling with air resistance describes how drag increases as velocity increases. Eventually, for some falling objects, drag can equal weight. At that point there is no net force, acceleration becomes zero, and the object continues at a constant terminal velocity. This is why skydivers, feathers and broad sheets of paper do not simply keep accelerating in the way an ideal free-fall calculation would predict. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This also explains the part of the misconception that contains a grain of truth. In air, if two objects have the same size and shape but different masses, the heavier one often reaches a higher terminal velocity and may hit the ground first. The heavier object needs a larger drag force to balance its larger weight, so it must usually move faster before drag catches up. Physics Classroom’s teaching material makes this point explicitly: with air resistance included, more massive objects can fall faster, but not because mass changes the gravitational acceleration rule in vacuum. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsclassroom.com">[The Physics Classroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsclassroom.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+This also explains the part of the misconception that contains a grain of truth. In air, if two objects have the same size and shape but different masses, the heavier one often reaches a higher terminal velocity and may hit the ground first. The heavier object needs a larger drag force to balance its larger weight, so it must usually move faster before drag catches up. Physics Classrooms teaching material makes this point explicitly: with air resistance included, more massive objects can fall faster, but not because mass changes the gravitational acceleration rule in vacuum. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsclassroom.com">[The Physics Classroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsclassroom.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d-Illustration-2-dark.svg" | relative_url }}" alt="Falling Objects illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The hammer and feather made the hidden condition visible
 
-The Apollo 15 hammer-and-feather drop remains the cleanest popular demonstration because it removed the condition that usually confuses the issue. On the Moon in 1971, Commander David Scott dropped a geological hammer and a feather at the same time. With essentially no lunar atmosphere, there was no meaningful air resistance, and the two objects reached the lunar surface together. NASA presents the demonstration as a vivid confirmation of Galileo’s conclusion that objects released together fall at the same rate regardless of mass when air resistance is absent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science The Apollo 15 Hammer-Feather Drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather DropJuly 16, 2018 — 20 Jul 2015 — A live demonstration for the television cameras. He held out a...</span><span class="citation-popover-meta">Published: July 16, 2018</span></span></span>
+The Apollo 15 hammer-and-feather drop remains the cleanest popular demonstration because it removed the condition that usually confuses the issue. On the Moon in 1971, Commander David Scott dropped a geological hammer and a feather at the same time. With essentially no lunar atmosphere, there was no meaningful air resistance, and the two objects reached the lunar surface together. NASA presents the demonstration as a vivid confirmation of Galileos conclusion that objects released together fall at the same rate regardless of mass when air resistance is absent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science The Apollo 15 Hammer-Feather Drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather DropJuly 16, 2018  20 Jul 2015  A live demonstration for the television cameras. He held out a...</span><span class="citation-popover-meta">Published: July 16, 2018</span></span></span>
 
-The demonstration works because it uses an extreme contrast. A hammer and a feather are not just different in mass; on Earth they behave very differently because the feather has so much surface area relative to its weight. On the Moon, that familiar difference disappears. The result does not say feathers behave like hammers on Earth. It says Earth’s air is doing much more work than [common sense]({{ 'common-sense/' | relative_url }}) usually notices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science The Apollo 15 Hammer-Feather Drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather DropJuly 16, 2018 — 20 Jul 2015 — A live demonstration for the television cameras. He held out a...</span><span class="citation-popover-meta">Published: July 16, 2018</span></span></span>
+The demonstration works because it uses an extreme contrast. A hammer and a feather are not just different in mass; on Earth they behave very differently because the feather has so much surface area relative to its weight. On the Moon, that familiar difference disappears. The result does not say feathers behave like hammers on Earth. It says Earths air is doing much more work than [common sense]({{ 'common-sense/' | relative_url }}) usually notices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science The Apollo 15 Hammer-Feather Drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather DropJuly 16, 2018  20 Jul 2015  A live demonstration for the television cameras. He held out a...</span><span class="citation-popover-meta">Published: July 16, 2018</span></span></span>
 
 The same idea can be shown without space travel by using vacuum chambers, low-drag objects or carefully chosen classroom drops. The American Physical Society describes classroom experiments designed to help students see that mass is not the decisive factor in ideal falling, while shape and air resistance explain many everyday differences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aps.org/learning-resources/falling-physics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aps.org">[American Physical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aps.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_mCC-68LyZM" title="Misconceptions About Falling Objects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_mCC-68LyZM" target="_blank" rel="noopener noreferrer">Misconceptions About Falling Objects</a></p><p class="youtube-embed-meta">Channel: Veritasium &middot; Views: 2.2M &middot; Uploaded: March 2011 &middot; Length: 3 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_mCC-68LyZM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_mCC-68LyZM">Open on YouTube</a></p></div></div></div>
 
-## Galileo’s lesson is subtler than the tower story
+## Galileos lesson is subtler than the tower story
 
-The popular story says Galileo dropped two objects from the Leaning Tower of Pisa and proved Aristotle wrong. The real history is more complicated. NASA notes that Galileo used inclined-plane experiments to slow motion down enough to measure it, finding that the relationship between distance and time was the same regardless of the ball’s mass. NASA’s Astronomy Picture of the Day also notes that many historians are sceptical of the famous tower-drop story as a literal event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science The Apollo 15 Hammer-Feather Drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather DropJuly 16, 2018 — 20 Jul 2015 — A live demonstration for the television cameras. He held out a...</span><span class="citation-popover-meta">Published: July 16, 2018</span></span></span>
+The popular story says Galileo dropped two objects from the Leaning Tower of Pisa and proved Aristotle wrong. The real history is more complicated. NASA notes that Galileo used inclined-plane experiments to slow motion down enough to measure it, finding that the relationship between distance and time was the same regardless of the balls mass. NASAs Astronomy Picture of the Day also notes that many historians are sceptical of the famous tower-drop story as a literal event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science The Apollo 15 Hammer-Feather Drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather DropJuly 16, 2018  20 Jul 2015  A live demonstration for the television cameras. He held out a...</span><span class="citation-popover-meta">Published: July 16, 2018</span></span></span>
 
-The more important lesson is not whether the tower scene happened exactly as retold. Galileo’s lasting contribution was to replace an intuitive ranking of “heavier falls faster” with an analysis of acceleration under controlled conditions. Inclined planes, smooth grooves and repeated [timing]({{ 'timing/' | relative_url }}) measurements helped separate gravity’s effect from the messy details of air and friction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Two_New_Sciences" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Two New Sciences</span><span class="citation-popover-snippet">Two New Sciences</span></span></span>
+The more important lesson is not whether the tower scene happened exactly as retold. Galileos lasting contribution was to replace an intuitive ranking of heavier falls faster with an analysis of acceleration under controlled conditions. Inclined planes, smooth grooves and repeated [timing]({{ 'timing/' | relative_url }}) measurements helped separate gravitys effect from the messy details of air and friction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Two_New_Sciences" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Two New Sciences</span><span class="citation-popover-snippet">Two New Sciences</span></span></span>
 
-This matters for misconceptions because the correction was not just a better slogan. It required a better experiment. Ordinary life mixes variables together; the scientific move was to isolate them. Once air resistance and friction are controlled or removed, the mass-based intuition loses its apparent support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/falling-object-with-air-resistance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www1.grc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www1.grc.nasa.gov</span><span class="citation-popover-snippet">NASAFalling Object with Air Resistance | Glenn Research Center18 Jul 2024 — When drag is equal to weight, there is no net external force...</span></span></span>
-
+This matters for misconceptions because the correction was not just a better slogan. It required a better experiment. Ordinary life mixes variables together; the scientific move was to isolate them. Once air resistance and friction are controlled or removed, the mass-based intuition loses its apparent support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/falling-object-with-air-resistance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www1.grc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www1.grc.nasa.gov</span><span class="citation-popover-snippet">Falling Object with Air Resistance &#124; Glenn Research Center18 Jul 2024  When drag is equal to weight, there is no net external force...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d-Illustration-3-dark.svg" | relative_url }}" alt="Falling Objects illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Rebuilding the model with better examples
@@ -564,6 +558,20 @@ This matters for misconceptions because the correction was not just a better slo
 A good correction keeps both halves of the evidence. It does not ask the reader to deny that a feather falls slowly through air. It asks them to notice which condition changed.
 
 A useful sequence is:
+
+1. **Two similar balls, different masses.** A basketball and a bowling ball, or two dense balls of similar size, tend to land at nearly the same time from ordinary classroom heights because drag is small compared with their weight. This makes the mass alone explanation start to wobble. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2013/10/do-heavier-objects-really-fall-faster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">do heavier objects really fall faster</span><span class="citation-popover-snippet">do heavier objects really fall faster</span></span></span>
+2. **One sheet of paper, two shapes.** A flat sheet and a crumpled sheet have nearly the same mass, but the crumpled one falls faster. This shows that shape and area can dominate the result. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2013/10/do-heavier-objects-really-fall-faster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">do heavier objects really fall faster</span><span class="citation-popover-snippet">do heavier objects really fall faster</span></span></span>
+3. **A feather and hammer without air.** The Apollo 15 demonstration removes drag almost entirely, so the dramatic everyday contrast disappears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science The Apollo 15 Hammer-Feather Drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather DropJuly 16, 2018  20 Jul 2015  A live demonstration for the television cameras. He held out a...</span><span class="citation-popover-meta">Published: July 16, 2018</span></span></span>
+
+Together, those examples build the replacement explanation: gravity gives falling objects the same acceleration when it acts alone; air resistance changes the net force; objects with different shapes, areas and masses can therefore behave differently in the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsclassroom.com">[The Physics Classroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsclassroom.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KDp1tiUsZw8" title="Hammer vs Feather - Physics on the Moon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KDp1tiUsZw8" target="_blank" rel="noopener noreferrer">Hammer vs Feather - Physics on the Moon</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 2.0M &middot; Uploaded: April 2010 &middot; Length: 1 minute 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KDp1tiUsZw8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KDp1tiUsZw8">Open on YouTube</a></p></div></div></div>
+
+## The corrected rule
+
+The corrected rule is not weight never matters. It is: **mass does not by itself make an object accelerate faster in free fall, but mass can affect falling behaviour in air because drag and terminal velocity depend on the objects whole design.** This wording avoids both common mistakes: the everyday myth that heavy things always fall faster, and the oversimplified classroom [memory]({{ 'memory/' | relative_url }}) that everything always falls together no matter what. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsclassroom.com">[The Physics Classroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsclassroom.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+That is why this misconception belongs in a broader discussion of myths and misunderstandings. It survives because it is partly anchored in real experience. The problem is not that common sense sees nothing; it sees a real pattern but assigns it to the wrong cause. Once the hidden condition is named, the puzzle becomes coherent: stones beat feathers on Earth because air matters, while hammers and feathers fall together in a vacuum because mass is not the deciding factor in free fall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science The Apollo 15 Hammer-Feather Drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather DropJuly 16, 2018  20 Jul 2015  A live demonstration for the television cameras. He held out a...</span><span class="citation-popover-meta">Published: July 16, 2018</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -584,7 +592,7 @@ A useful sequence is:
         </h4>
         <p class="fr-book-author">By Stephen Hawking</p>
         
-        <p class="fr-book-desc">First published 1988. Subjects: Cosmologie, Temps (durÃ©e), Espace-temps, Vulgarisation scientifique, Univers.</p>
+        <p class="fr-book-desc">First published 1988. Subjects: Cosmologie, Temps (durée), Espace-temps, Vulgarisation scientifique, Univers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+Time+Stephen+Hawking&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -601,7 +609,7 @@ A useful sequence is:
         </h4>
         <p class="fr-book-author">By Richard Phillips Feynman, Paul Davies</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Physics, FÃ­sica, Obras de divulgaciÃ³n, Natuurkunde, Long Now Manual for Civilization.</p>
+        <p class="fr-book-desc">First published 1994. Subjects: Physics, Física, Obras de divulgación, Natuurkunde, Long Now Manual for Civilization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Six+Easy+Pieces+Richard+Phillips+Feynman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -957,209 +965,194 @@ A useful sequence is:
 </script>
 </section>
 
-1. **Two similar balls, different masses.** A basketball and a bowling ball, or two dense balls of similar size, tend to land at nearly the same time from ordinary classroom heights because drag is small compared with their weight. This makes the “mass alone” explanation start to wobble. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2013/10/do-heavier-objects-really-fall-faster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">do heavier objects really fall faster</span><span class="citation-popover-snippet">do heavier objects really fall faster</span></span></span>
-2. **One sheet of paper, two shapes.** A flat sheet and a crumpled sheet have nearly the same mass, but the crumpled one falls faster. This shows that shape and area can dominate the result. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2013/10/do-heavier-objects-really-fall-faster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">do heavier objects really fall faster</span><span class="citation-popover-snippet">do heavier objects really fall faster</span></span></span>
-3. **A feather and hammer without air.** The Apollo 15 demonstration removes drag almost entirely, so the dramatic everyday contrast disappears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science The Apollo 15 Hammer-Feather Drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather DropJuly 16, 2018 — 20 Jul 2015 — A live demonstration for the television cameras. He held out a...</span><span class="citation-popover-meta">Published: July 16, 2018</span></span></span>
-
-Together, those examples build the replacement explanation: gravity gives falling objects the same acceleration when it acts alone; air resistance changes the net force; objects with different shapes, areas and masses can therefore behave differently in the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsclassroom.com">[The Physics Classroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsclassroom.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KDp1tiUsZw8" title="Hammer vs Feather - Physics on the Moon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KDp1tiUsZw8" target="_blank" rel="noopener noreferrer">Hammer vs Feather - Physics on the Moon</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 2.0M &middot; Uploaded: April 2010 &middot; Length: 1 minute 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KDp1tiUsZw8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KDp1tiUsZw8">Open on YouTube</a></p></div></div></div>
-
-## The corrected rule
-
-The corrected rule is not “weight never matters”. It is: **mass does not by itself make an object accelerate faster in free fall, but mass can affect falling behaviour in air because drag and terminal velocity depend on the object’s whole design.** This wording avoids both common mistakes: the everyday myth that heavy things always fall faster, and the oversimplified classroom [memory]({{ 'memory/' | relative_url }}) that everything always falls together no matter what. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsclassroom.com">[The Physics Classroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsclassroom.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
-That is why this misconception belongs in a broader discussion of myths and misunderstandings. It survives because it is partly anchored in real experience. The problem is not that common sense sees nothing; it sees a real pattern but assigns it to the wrong cause. Once the hidden condition is named, the puzzle becomes coherent: stones beat feathers on Earth because air matters, while hammers and feathers fall together in a vacuum because mass is not the deciding factor in free fall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science The Apollo 15 Hammer-Feather Drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather DropJuly 16, 2018 — 20 Jul 2015 — A live demonstration for the television cameras. He held out a...</span><span class="citation-popover-meta">Published: July 16, 2018</span></span></span>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: www1.grc.nasa.gov  
    Title: In a vacuum, a beach ball falls at the same rate as an airliner.Read more  
-   Link: [https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-fall-without-air-resistance/](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-fall-without-air-resistance/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAFree Fall without Air Resistance | Glenn Research Center18 Jul 2024 — All objects, regardless of size or shape or weight, free fall w...</p></details>
+   Link: <a href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-fall-without-air-resistance/" target="_blank" rel="noopener noreferrer nofollow">https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-fall-without-air-resistance/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Free Fall without Air Resistance | Glenn Research Center18 Jul 2024  All objects, regardless of size or shape or weight, free fall w...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: www1.grc.nasa.gov  
    Title: Free Falling Objects | Glenn Research Center  
-   Link: [https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-falling-objects/](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-falling-objects/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAFree Falling Objects | Glenn Research Center - NASA20 Nov 2023 — So, all objects, regardless of size or shape or weight, free fall wi...</p></details>
+   Link: <a href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-falling-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-falling-objects/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Free Falling Objects | Glenn Research Center - NASA20 Nov 2023  So, all objects, regardless of size or shape or weight, free fall wi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science The Apollo 15 Hammer-Feather Drop  
-   Link: [https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/](https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Apollo 15 Hammer-Feather DropJuly 16, 2018 — 20 Jul 2015 — A live demonstration for the television cameras. He held out a...</p></details>
+   Link: <a href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Apollo 15 Hammer-Feather DropJuly 16, 2018  20 Jul 2015  A live demonstration for the television cameras. He held out a...</p></details>
    Published: July 16, 2018  
 
 4. <a id="endnote-4"></a>
    Source: www1.grc.nasa.gov  
-   Link: [https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/falling-object-with-air-resistance/](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/falling-object-with-air-resistance/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAFalling Object with Air Resistance | Glenn Research Center18 Jul 2024 — When drag is equal to weight, there is no net external force...</p></details>
+   Link: <a href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/falling-object-with-air-resistance/" target="_blank" rel="noopener noreferrer nofollow">https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/falling-object-with-air-resistance/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Falling Object with Air Resistance | Glenn Research Center18 Jul 2024  When drag is equal to weight, there is no net external force...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn understanding of falling bodies across schooling  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10249391/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10249391/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10249391/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10249391/</a>  
 
 6. <a id="endnote-6"></a>
    Source: wired.com  
    Title: do heavier objects really fall faster  
-   Link: [https://www.wired.com/2013/10/do-heavier-objects-really-fall-faster/](https://www.wired.com/2013/10/do-heavier-objects-really-fall-faster/)  
+   Link: <a href="https://www.wired.com/2013/10/do-heavier-objects-really-fall-faster/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2013/10/do-heavier-objects-really-fall-faster/</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2304.06860v2](https://arxiv.org/html/2304.06860v2)  
+   Link: <a href="https://arxiv.org/html/2304.06860v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2304.06860v2</a>  
 
 8. <a id="endnote-8"></a>
    Source: grc.nasa.gov  
-   Link: [https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html)  
+   Link: <a href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html" target="_blank" rel="noopener noreferrer nofollow">https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: nasa.gov  
    Title: 50 years ago apollo 15 on the moon at hadley apennine  
-   Link: [https://www.nasa.gov/history/50-years-ago-apollo-15-on-the-moon-at-hadley-apennine/](https://www.nasa.gov/history/50-years-ago-apollo-15-on-the-moon-at-hadley-apennine/)  
+   Link: <a href="https://www.nasa.gov/history/50-years-ago-apollo-15-on-the-moon-at-hadley-apennine/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/history/50-years-ago-apollo-15-on-the-moon-at-hadley-apennine/</a>  
 
 10. <a id="endnote-10"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/specials/apollo50th/missions.html](https://www.nasa.gov/specials/apollo50th/missions.html)  
+   Link: <a href="https://www.nasa.gov/specials/apollo50th/missions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/specials/apollo50th/missions.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: www1.grc.nasa.gov  
    Title: Motion of Free Falling Object | Glenn Research Center  
-   Link: [https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/motion-of-free-falling-object/](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/motion-of-free-falling-object/)  
+   Link: <a href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/motion-of-free-falling-object/" target="_blank" rel="noopener noreferrer nofollow">https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/motion-of-free-falling-object/</a>  
 
 12. <a id="endnote-12"></a>
    Source: apod.nasa.gov  
-   Link: [https://apod.nasa.gov/apod/ap111101.html](https://apod.nasa.gov/apod/ap111101.html)  
+   Link: <a href="https://apod.nasa.gov/apod/ap111101.html" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/apod/ap111101.html</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Two New Sciences  
-   Link: [https://en.wikipedia.org/wiki/Two_New_Sciences](https://en.wikipedia.org/wiki/Two_New_Sciences)  
+   Link: <a href="https://en.wikipedia.org/wiki/Two_New_Sciences" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Two_New_Sciences</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Galileo's Leaning Tower of Pisa experiment  
-   Link: [https://en.wikipedia.org/wiki/Galileo%27s_Leaning_Tower_of_Pisa_experiment](https://en.wikipedia.org/wiki/Galileo%27s_Leaning_Tower_of_Pisa_experiment)  
+   Link: <a href="https://en.wikipedia.org/wiki/Galileo%27s_Leaning_Tower_of_Pisa_experiment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Galileo%27s_Leaning_Tower_of_Pisa_experiment</a>  
 
 15. <a id="endnote-15"></a>
    Source: grc.nasa.gov  
-   Link: [https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/ffall.html](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/ffall.html)  
+   Link: <a href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/ffall.html" target="_blank" rel="noopener noreferrer nofollow">https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/ffall.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: pwg.gsfc.nasa.gov  
-   Link: [https://pwg.gsfc.nasa.gov/stargaze/Sfall.htm](https://pwg.gsfc.nasa.gov/stargaze/Sfall.htm)  
+   Link: <a href="https://pwg.gsfc.nasa.gov/stargaze/Sfall.htm" target="_blank" rel="noopener noreferrer nofollow">https://pwg.gsfc.nasa.gov/stargaze/Sfall.htm</a>  
 
 17. <a id="endnote-17"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2017/10/617743main_nasa-usg_lunar_historic_sites_reva-508.pdf](https://www.nasa.gov/wp-content/uploads/2017/10/617743main_nasa-usg_lunar_historic_sites_reva-508.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2017/10/617743main_nasa-usg_lunar_historic_sites_reva-508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2017/10/617743main_nasa-usg_lunar_historic_sites_reva-508.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: assets.science.nasa.gov  
    Title: educator guide real world preparing for a soft landing  
-   Link: [https://assets.science.nasa.gov/content/dam/science/cds/eclips/assets/documents/educator-guide-real-world-preparing-for-a-soft-landing.pdf](https://assets.science.nasa.gov/content/dam/science/cds/eclips/assets/documents/educator-guide-real-world-preparing-for-a-soft-landing.pdf)  
+   Link: <a href="https://assets.science.nasa.gov/content/dam/science/cds/eclips/assets/documents/educator-guide-real-world-preparing-for-a-soft-landing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.science.nasa.gov/content/dam/science/cds/eclips/assets/documents/educator-guide-real-world-preparing-for-a-soft-landing.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: grc.nasa.gov  
-   Link: [https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/mofall508.html](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/mofall508.html)  
+   Link: <a href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/mofall508.html" target="_blank" rel="noopener noreferrer nofollow">https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/mofall508.html</a>  
 
 20. <a id="endnote-20"></a>
    Source: grc.nasa.gov  
-   Link: [https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/mofall.html](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/mofall.html)  
+   Link: <a href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/mofall.html" target="_blank" rel="noopener noreferrer nofollow">https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/mofall.html</a>  
 
 21. <a id="endnote-21"></a>
    Source: pds.nasa.gov  
-   Link: [https://pds.nasa.gov/datasearch/keyword-search/search.jsp?fq=&fq=&fq=&q=%5BSite%3A+Kunghac.com%5D%2Candroid+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0+%E3%82%84%E3%82%8A%E6%96%B9%2Cteamviewer+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%2Cihg+%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC+%E6%94%BB%E6%92%83%2C%E5%B0%8F%E5%B3%B6+%E3%83%97%E3%83%AC%E3%82%B9+%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%A0%2C%E3%83%A9%E3%82%A4%E3%83%B3+%E3%81%AE+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%2C%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC+%E4%BC%81%E6%A5%AD+%E3%81%A8+%E3%81%AF%2Cviasat+%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC+%E6%94%BB%E6%92%83%2C%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC+%E3%81%8C+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%2C%E5%86%85%E9%96%A3+%E5%BA%9C+%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC+%E6%94%BB%E6%92%83%2C%E3%82%B9%E3%83%9E%E3%83%9B+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0+%E3%81%A8+%E3%81%AF%2C&start=100](https://pds.nasa.gov/datasearch/keyword-search/search.jsp?fq=&fq=&fq=&q=%5BSite%3A+Kunghac.com%5D%2Candroid+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0+%E3%82%84%E3%82%8A%E6%96%B9%2Cteamviewer+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%2Cihg+%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC+%E6%94%BB%E6%92%83%2C%E5%B0%8F%E5%B3%B6+%E3%83%97%E3%83%AC%E3%82%B9+%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%A0%2C%E3%83%A9%E3%82%A4%E3%83%B3+%E3%81%AE+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%2C%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC+%E4%BC%81%E6%A5%AD+%E3%81%A8+%E3%81%AF%2Cviasat+%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC+%E6%94%BB%E6%92%83%2C%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC+%E3%81%8C+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%2C%E5%86%85%E9%96%A3+%E5%BA%9C+%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC+%E6%94%BB%E6%92%83%2C%E3%82%B9%E3%83%9E%E3%83%9B+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0+%E3%81%A8+%E3%81%AF%2C&start=100)  
+   Link: <a href="https://pds.nasa.gov/datasearch/keyword-search/search.jsp?fq=&amp;fq=&amp;fq=&amp;q=%5BSite%3A+Kunghac.com%5D%2Candroid+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0+%E3%82%84%E3%82%8A%E6%96%B9%2Cteamviewer+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%2Cihg+%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC+%E6%94%BB%E6%92%83%2C%E5%B0%8F%E5%B3%B6+%E3%83%97%E3%83%AC%E3%82%B9+%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%A0%2C%E3%83%A9%E3%82%A4%E3%83%B3+%E3%81%AE+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%2C%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC+%E4%BC%81%E6%A5%AD+%E3%81%A8+%E3%81%AF%2Cviasat+%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC+%E6%94%BB%E6%92%83%2C%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC+%E3%81%8C+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%2C%E5%86%85%E9%96%A3+%E5%BA%9C+%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC+%E6%94%BB%E6%92%83%2C%E3%82%B9%E3%83%9E%E3%83%9B+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0+%E3%81%A8+%E3%81%AF%2C&amp;start=100" target="_blank" rel="noopener noreferrer nofollow">https://pds.nasa.gov/datasearch/keyword-search/search.jsp?fq=&amp;fq=&amp;fq=&amp;q=%5BSite%3A+Kunghac.com%5D%2Candroid+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0+%E3%82%84%E3%82%8A%E6%96%B9%2Cteamviewer+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%2Cihg+%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC+%E6%94%BB%E6%92%83%2C%E5%B0%8F%E5%B3%B6+%E3%83%97%E3%83%AC%E3%82%B9+%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%A0%2C%E3%83%A9%E3%82%A4%E3%83%B3+%E3%81%AE+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%2C%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC+%E4%BC%81%E6%A5%AD+%E3%81%A8+%E3%81%AF%2Cviasat+%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC+%E6%94%BB%E6%92%83%2C%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC+%E3%81%8C+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%2C%E5%86%85%E9%96%A3+%E5%BA%9C+%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC+%E6%94%BB%E6%92%83%2C%E3%82%B9%E3%83%9E%E3%83%9B+%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0+%E3%81%A8+%E3%81%AF%2C&amp;start=100</a>  
 
 22. <a id="endnote-22"></a>
    Source: grc.nasa.gov  
-   Link: [https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termv.html](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termv.html)  
+   Link: <a href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termv.html" target="_blank" rel="noopener noreferrer nofollow">https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/termv.html</a>  
 
 23. <a id="endnote-23"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19770026282/downloads/19770026282.pdf](https://ntrs.nasa.gov/api/citations/19770026282/downloads/19770026282.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19770026282/downloads/19770026282.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19770026282/downloads/19770026282.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: imagine.gsfc.nasa.gov  
    Title: space travel  
-   Link: [https://imagine.gsfc.nasa.gov/ask_astro/space_travel.html](https://imagine.gsfc.nasa.gov/ask_astro/space_travel.html)  
+   Link: <a href="https://imagine.gsfc.nasa.gov/ask_astro/space_travel.html" target="_blank" rel="noopener noreferrer nofollow">https://imagine.gsfc.nasa.gov/ask_astro/space_travel.html</a>  
 
 25. <a id="endnote-25"></a>
    Source: grc.nasa.gov  
-   Link: [https://www.grc.nasa.gov/www/k-12/BGP/newton1a.html](https://www.grc.nasa.gov/www/k-12/BGP/newton1a.html)  
+   Link: <a href="https://www.grc.nasa.gov/www/k-12/BGP/newton1a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.grc.nasa.gov/www/k-12/BGP/newton1a.html</a>  
 
 26. <a id="endnote-26"></a>
    Source: physicsclassroom.com  
-   Link: [https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance](https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance)  
+   Link: <a href="https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsclassroom.com/class/newtlaws/Lesson-3/Free-Fall-and-Air-Resistance</a>  
 
 27. <a id="endnote-27"></a>
    Source: physicsclassroom.com  
    Title: The Physics Classroom Air Resistance and Terminal Velocity  
-   Link: [https://www.physicsclassroom.com/Teacher-Toolkits/Terminal-Velocity/Terminal-Velocity-Complete-ToolKit](https://www.physicsclassroom.com/Teacher-Toolkits/Terminal-Velocity/Terminal-Velocity-Complete-ToolKit)  
+   Link: <a href="https://www.physicsclassroom.com/Teacher-Toolkits/Terminal-Velocity/Terminal-Velocity-Complete-ToolKit" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsclassroom.com/Teacher-Toolkits/Terminal-Velocity/Terminal-Velocity-Complete-ToolKit</a>  
 
 28. <a id="endnote-28"></a>
    Source: physicsclassroom.com  
    Title: The Physics Classroom Terminal Velocity  
-   Link: [https://www.physicsclassroom.com/getattachment/Teacher-Toolkits/Terminal-Velocity/Terminal-Velocity-PDF-Version/TerminalVelocity.pdf?disposition=inline&ext=.pdf](https://www.physicsclassroom.com/getattachment/Teacher-Toolkits/Terminal-Velocity/Terminal-Velocity-PDF-Version/TerminalVelocity.pdf?disposition=inline&ext=.pdf)  
+   Link: <a href="https://www.physicsclassroom.com/getattachment/Teacher-Toolkits/Terminal-Velocity/Terminal-Velocity-PDF-Version/TerminalVelocity.pdf?disposition=inline&amp;ext=.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsclassroom.com/getattachment/Teacher-Toolkits/Terminal-Velocity/Terminal-Velocity-PDF-Version/TerminalVelocity.pdf?disposition=inline&amp;ext=.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: aps.org  
-   Link: [https://www.aps.org/learning-resources/falling-physics](https://www.aps.org/learning-resources/falling-physics)  
+   Link: <a href="https://www.aps.org/learning-resources/falling-physics" target="_blank" rel="noopener noreferrer nofollow">https://www.aps.org/learning-resources/falling-physics</a>  
 
 30. <a id="endnote-30"></a>
    Source: direct.physicsclassroom.com  
    Title: Air Resistance  
-   Link: [https://direct.physicsclassroom.com/mop/NewtonsLaws/Air-Resistance](https://direct.physicsclassroom.com/mop/NewtonsLaws/Air-Resistance)  
+   Link: <a href="https://direct.physicsclassroom.com/mop/NewtonsLaws/Air-Resistance" target="_blank" rel="noopener noreferrer nofollow">https://direct.physicsclassroom.com/mop/NewtonsLaws/Air-Resistance</a>  
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=7BLBpFQ8GZc](http://www.youtube.com/watch?v=7BLBpFQ8GZc)  
+   Link: <a href="http://www.youtube.com/watch?v=7BLBpFQ8GZc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=7BLBpFQ8GZc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavier objects fall faster debunked hammer and feather vacuum Objects with different masses fall at the same rate #physics The Science Fact...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: Brian Cox visits the world's biggest vacuum | Human Universe  
-   Link: [http://www.youtube.com/watch?v=E43-CfukEgs](http://www.youtube.com/watch?v=E43-CfukEgs)  
+   Link: <a href="http://www.youtube.com/watch?v=E43-CfukEgs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=E43-CfukEgs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Coin and a feather falling in a vacuum! Who wins? #science #physics #interesting #stem...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: David Scott does the feather hammer experiment on the moon | Science News  
-   Link: [http://www.youtube.com/watch?v=Oo8TaPVsn9Y](http://www.youtube.com/watch?v=Oo8TaPVsn9Y)  
+   Link: <a href="http://www.youtube.com/watch?v=Oo8TaPVsn9Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Oo8TaPVsn9Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why All Objects Fall at the Same Speed in a Vacuum: The Truth About Gravity...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Why All Objects Fall at the Same Speed in a Vacuum: The Truth About Gravity  
-   Link: [http://www.youtube.com/watch?v=8YYlvLldM0k](http://www.youtube.com/watch?v=8YYlvLldM0k)  
+   Link: <a href="http://www.youtube.com/watch?v=8YYlvLldM0k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8YYlvLldM0k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brian Cox visits the world&#x27;s biggest vacuum | Human Universe - BBC...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Objects with different masses fall at the same rate #physics  
-   Link: [http://www.youtube.com/watch?v=MG_znWM5ETk](http://www.youtube.com/watch?v=MG_znWM5ETk)  
+   Link: <a href="http://www.youtube.com/watch?v=MG_znWM5ETk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MG_znWM5ETk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Scott does the feather hammer experiment on the moon | Science News...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/332782489_Student_teachers%27_misconceptions_about_gravity](https://www.researchgate.net/publication/332782489_Student_teachers%27_misconceptions_about_gravity)  
+   Link: <a href="https://www.researchgate.net/publication/332782489_Student_teachers%27_misconceptions_about_gravity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332782489_Student_teachers%27_misconceptions_about_gravity</a>  
 
 37. <a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/371175342_An_understanding_of_falling_bodies_across_schooling_and_experience_based_on_the_conceptual_prevalence_framework](https://www.researchgate.net/publication/371175342_An_understanding_of_falling_bodies_across_schooling_and_experience_based_on_the_conceptual_prevalence_framework)  
+   Link: <a href="https://www.researchgate.net/publication/371175342_An_understanding_of_falling_bodies_across_schooling_and_experience_based_on_the_conceptual_prevalence_framework" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371175342_An_understanding_of_falling_bodies_across_schooling_and_experience_based_on_the_conceptual_prevalence_framework</a>  
 
 38. <a id="endnote-38"></a>
    Source: physicsclassroom.com  
-   Link: [https://www.physicsclassroom.com/Physics-Video-Tutorial/Newtons-Laws/Air-Resistance-and-Terminal-Velocity/Teaching-Resources](https://www.physicsclassroom.com/Physics-Video-Tutorial/Newtons-Laws/Air-Resistance-and-Terminal-Velocity/Teaching-Resources)  
+   Link: <a href="https://www.physicsclassroom.com/Physics-Video-Tutorial/Newtons-Laws/Air-Resistance-and-Terminal-Velocity/Teaching-Resources" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsclassroom.com/Physics-Video-Tutorial/Newtons-Laws/Air-Resistance-and-Terminal-Velocity/Teaching-Resources</a>  
 
 39. <a id="endnote-39"></a>
    Source: physicsclassroom.com  
-   Link: [https://www.physicsclassroom.com/Physics-Video-Tutorial/Newtons-Laws/Air-Resistance-and-Terminal-Velocity/Video](https://www.physicsclassroom.com/Physics-Video-Tutorial/Newtons-Laws/Air-Resistance-and-Terminal-Velocity/Video)  
+   Link: <a href="https://www.physicsclassroom.com/Physics-Video-Tutorial/Newtons-Laws/Air-Resistance-and-Terminal-Velocity/Video" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsclassroom.com/Physics-Video-Tutorial/Newtons-Laws/Air-Resistance-and-Terminal-Velocity/Video</a>  
 
 40. <a id="endnote-40"></a>
    Source: languageandlearninglab.com  
-   Link: [https://www.languageandlearninglab.com/wp-content/uploads/Do-objects-of-different-weight-fall-at-the-same-time-Updating-naive-beliefs-about-free-falling-objects-from-fictional-and-informational-books-in.pdf](https://www.languageandlearninglab.com/wp-content/uploads/Do-objects-of-different-weight-fall-at-the-same-time-Updating-naive-beliefs-about-free-falling-objects-from-fictional-and-informational-books-in.pdf)  
+   Link: <a href="https://www.languageandlearninglab.com/wp-content/uploads/Do-objects-of-different-weight-fall-at-the-same-time-Updating-naive-beliefs-about-free-falling-objects-from-fictional-and-informational-books-in.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.languageandlearninglab.com/wp-content/uploads/Do-objects-of-different-weight-fall-at-the-same-time-Updating-naive-beliefs-about-free-falling-objects-from-fictional-and-informational-books-in.pdf</a>

@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_emotion_fake_news_be_33b81b
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - uncertainty
 - communicating
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - uncertainty
 - communicating
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Clear explanations of what is known and unknown can maintain trust without relying on oversimplified stories.
 hero_summary: Clear explanations of what is known and unknown can maintain trust without relying on oversimplified stories.
 layout: default
 permalink: /communicating/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /uncertainty/
 nav_short_title: Communicating
 title: Can Honest Uncertainty Build More Public Trust?
-title_full: Can Honest Uncertainty Build More Public Trust? | Uncertainty
+title_full: Can Honest Uncertainty Build More Public Trust?
 display_title_short: Communicating
 display_title: Communicating
 heading_title: Can Honest Uncertainty Build More Public Trust?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Uncertainty Makes Myths Appealing | Mythcraft
+parent_title: Why Uncertainty Makes Myths Appealing
 parent_permalink: /uncertainty/
 parent_nav_short_title: Uncertainty
 parent_heading_title: Why Uncertainty Makes Myths Appealing
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How the Need for Closure Fuels Conspiracy Beliefs
 up_link:
   basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
@@ -265,7 +265,7 @@ next_link:
   permalink: /fake-news/
   short_title: Fake News
   heading_title: When Feelings Override Evidence in News Judgments
-date: '2026-06-09 05:52:34 '
+date: '2026-06-11 22:46:23 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_un
 
 Public acceptance of myths and misinformation is often rooted in emotional discomfort with uncertainty and a craving for clear, oversimplified narratives. Addressing these emotional drivers requires not just correcting false statements but **communicating honestly about what is known and what remains uncertain**. Growing research in science and risk communication suggests that transparent uncertainty communication does not typically erode trust or fuel myths; in fact, when done well it can **reduce acceptance of simplistic myths by fostering epistemic resilience and credibility**. This page reviews key evidence and practical implications for communicators seeking to lower myth acceptance through honest uncertainty dialogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 560 — Our aim is t...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-1-dark.svg" | relative_url }}" alt="Communicating illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Vague Reassurance Can Fail
 
@@ -285,7 +284,6 @@ One of the persistent assumptions in public communication — especially around 
 Over‑simplified assurances can paradoxically [backfire]({{ 'backfire/' | relative_url }}) when facts change: audiences later feel misled if previously unstated uncertainties emerge. Early transparency about limitations and unknowns can protect trust when evidence evolves. In health communication, studies suggest that uncertainty communication **can mitigate long‑term distrust that arises when prior overconfidence is revealed as unwarranted**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://undark.org/2024/05/10/interview-uncertainty-science-communication/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undark.org">[Undark Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undark.org</span><span class="citation-popover-title">Magazine Interview: Uncertainty, Science, and Public Health</span><span class="citation-popover-snippet">Undark MagazineInterview: Uncertainty, Science, and Public Health...May 10, 2024 — 10 May 2024 — A new study suggests that scientists sh...</span><span class="citation-popover-meta">Published: May 10, 2024</span></span></span>
 
 Moreover, not all forms of uncertainty communication produce the same effects. Research reviews find that communicating **technical uncertainty** (quantified ranges or probabilities) tends to have neutral or positive effects on perceived credibility, while conveying **consensus uncertainty** (highlighting expert disagreement) can reduce [confidence]({{ 'confidence/' | relative_url }}) in the message. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communication of Scientific Uncertainty Affects Trust in Science-A Systematic Review - PubMedFULL TEXT LINKS Wiley Full text links ACTION...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JhfMkmzaNdU" title="Professor David Spiegelhalter: Communicating risk and uncertainty" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JhfMkmzaNdU" target="_blank" rel="noopener noreferrer">Professor David Spiegelhalter: Communicating risk and uncertainty</a></p><p class="youtube-embed-meta">Channel: Cambridge University &middot; Views: 24.3K &middot; Uploaded: August 2011 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JhfMkmzaNdU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JhfMkmzaNdU">Open on YouTube</a></p></div></div></div>
 
@@ -299,7 +297,6 @@ Being explicit about what is not known — and why — helps audiences form more
 
 Importantly, uncertainty communication should be **context‑sensitive**. Transparent but inaccessible explanations may confuse rather than inform; effective messages clarify both what is uncertain and *why* that uncertainty matters (or doesn’t) for decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://undark.org/2024/05/10/interview-uncertainty-science-communication/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undark.org">[Undark Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undark.org</span><span class="citation-popover-title">Magazine Interview: Uncertainty, Science, and Public Health</span><span class="citation-popover-snippet">Undark MagazineInterview: Uncertainty, Science, and Public Health...May 10, 2024 — 10 May 2024 — A new study suggests that scientists sh...</span><span class="citation-popover-meta">Published: May 10, 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-2-dark.svg" | relative_url }}" alt="Communicating illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Actionable Guidance During Uncertainty
 
@@ -309,20 +306,17 @@ For communicators aiming to reduce myth acceptance through honest uncertainty co
 * **Explicitly differentiate uncertainty types:** Clarify whether uncertainty arises from measurement error, incomplete data, or evolving theory, and whether experts agree on a general direction even if the precise magnitude is unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communication of Scientific Uncertainty Affects Trust in Science-A Systematic Review - PubMedFULL TEXT LINKS Wiley Full text links ACTION...</span></span></span>
 * **Frame uncertainty as part of rigorous inquiry:** Position uncertainty not as ignorance, but as an integral quality control in the knowledge‑generation process. This aligns public expectations with how evidence evolves and diminishes room for myths that exploit perceived gaps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 560 — Our aim is t...</span></span></span>
 * **Pair uncertainty transparency with clear actionable information:** When people understand what is unknown, offering guidance on what the evidence *does* support helps anchor decisions without needing oversimplified assurances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuffieldfoundation.org">[Nuffield Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuffieldfoundation.org</span><span class="citation-popover-snippet">Nuffield FoundationCommunicating uncertainty in data without undermining trustThis project aims to identify a range of methods to communi...</span></span></span>
-* **Tailor messages to audience beliefs:** Some research indicates that people’s prior beliefs affect how they interpret communicated uncertainty; messages may be more effective when they acknowledge and engage with these beliefs rather than ignoring them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe effect of uncertainty communication on public trust</span><span class="citation-popover-snippet">PMCby C Dries · 2025 · Cited by 10 — Our results show that people&#x27;s trust response to the communication of uncertainty depends on how con...</span></span></span>
+* **Tailor messages to audience beliefs:** Some research indicates that people’s prior beliefs affect how they interpret communicated uncertainty; messages may be more effective when they acknowledge and engage with these beliefs rather than ignoring them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe effect of uncertainty communication on public trust</span><span class="citation-popover-snippet">by C Dries · 2025 · Cited by 10 — Our results show that people&#x27;s trust response to the communication of uncertainty depends on how con...</span></span></span>
 
 These strategies aim to build **epistemic trustworthiness** — the kind of trust rooted in consistent and honest communication — rather than short‑term credibility contingent on avoiding difficult questions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mbo0pCkshk4" title="Science Communication in an Era of Skepticism" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mbo0pCkshk4" target="_blank" rel="noopener noreferrer">Science Communication in an Era of Skepticism</a></p><p class="youtube-embed-meta">Channel: American Thoracic Society &middot; Views: 114 &middot; Uploaded: February 2026 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mbo0pCkshk4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mbo0pCkshk4">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1m7hl4U_pOI" title="Relationship Red Flags Backed by Science | Dr. John Gottman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1m7hl4U_pOI" target="_blank" rel="noopener noreferrer">Relationship Red Flags Backed by Science | Dr. John Gottman</a></p><p class="youtube-embed-meta">Channel: The Gottman Institute &middot; Views: 139.2K &middot; Uploaded: April 2025 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1m7hl4U_pOI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1m7hl4U_pOI">Open on YouTube</a></p></div></div></div>
 
 ## Summary
 
 Honest uncertainty communication — when carefully crafted — can help reduce the emotional drivers that make myths appealing. Rather than undermining trust, openness about evidence limits often sustains long‑term credibility and helps audiences build nuanced, resilient understanding. Clear explanations of *what is known and what is not* reduce the need for simple but misleading narratives by giving people a realistic framework to interpret new information and guard against emotionally charged myths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 560 — Our aim is t...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-3-dark.svg" | relative_url }}" alt="Communicating illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -723,54 +717,54 @@ Honest uncertainty communication — when carefully crafted — can help reduce 
 1. <a id="endnote-1"></a>
    Source: undark.org  
    Title: Magazine Interview: Uncertainty, Science, and Public Health  
-   Link: [https://undark.org/2024/05/10/interview-uncertainty-science-communication/](https://undark.org/2024/05/10/interview-uncertainty-science-communication/)  
+   Link: <a href="https://undark.org/2024/05/10/interview-uncertainty-science-communication/" target="_blank" rel="noopener noreferrer nofollow">https://undark.org/2024/05/10/interview-uncertainty-science-communication/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Undark MagazineInterview: Uncertainty, Science, and Public Health...May 10, 2024 — 10 May 2024 — A new study suggests that scientists sh...</p></details>
    Published: May 10, 2024  
 
 2. <a id="endnote-2"></a>
    Source: psycharchives.org  
    Title: How does uncertainty communication affect people's trust?  
-   Link: [https://www.psycharchives.org/en/item/46ac5c8b-da8e-4489-8417-8d2bacb84202](https://www.psycharchives.org/en/item/46ac5c8b-da8e-4489-8417-8d2bacb84202)  
+   Link: <a href="https://www.psycharchives.org/en/item/46ac5c8b-da8e-4489-8417-8d2bacb84202" target="_blank" rel="noopener noreferrer nofollow">https://www.psycharchives.org/en/item/46ac5c8b-da8e-4489-8417-8d2bacb84202</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 11, 2025 — by C Dries · 2025 — In this talk, I will present several experimental studies that we have conducted to determine under...</p></details>
    Published: March 11, 2025  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe effect of uncertainty communication on public trust  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby C Dries · 2025 · Cited by 10 — Our results show that people&#x27;s trust response to the communication of uncertainty depends on how con...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Dries · 2025 · Cited by 10 — Our results show that people&#x27;s trust response to the communication of uncertainty depends on how con...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: royalsocietypublishing.org  
-   Link: [https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and](https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and)  
+   Link: <a href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 560 — Our aim is t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/42014938/](https://pubmed.ncbi.nlm.nih.gov/42014938/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/42014938/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Communication of Scientific Uncertainty Affects Trust in Science-A Systematic Review - PubMedFULL TEXT LINKS Wiley Full text links ACTION...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/32205438/](https://pubmed.ncbi.nlm.nih.gov/32205438/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe effects of communicating uncertainty on public trust in facts and numbers - PubMedApril 7, 2020...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32205438/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32205438/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of communicating uncertainty on public trust in facts and numbers - PubMedApril 7, 2020...</p></details>
    Published: April 7, 2020  
 
 7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med A review of the effects of uncertainty in public science communication  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/32677865/](https://pubmed.ncbi.nlm.nih.gov/32677865/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedA review of the effects of uncertainty in public science communication - PubMedJuly 17, 2020...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32677865/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32677865/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of the effects of uncertainty in public science communication - PubMedJuly 17, 2020...</p></details>
    Published: July 17, 2020  
 
 8. <a id="endnote-8"></a>
    Source: nuffieldfoundation.org  
-   Link: [https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust](https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust)  
+   Link: <a href="https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust" target="_blank" rel="noopener noreferrer nofollow">https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuffield FoundationCommunicating uncertainty in data without undermining trustThis project aims to identify a range of methods to communi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/31218028/](https://pubmed.ncbi.nlm.nih.gov/31218028/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31218028/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31218028/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>uncertainty about facts, numbers and science - PubMedMay 8, 2019 — ABSTRACT Uncertainty is an inherent part of knowledge, and yet in an e...</p></details>
    Published: May 8, 2019  
 
@@ -778,54 +772,54 @@ Honest uncertainty communication — when carefully crafted — can help reduce 
 
 10. <a id="endnote-10"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/27894/chapter/8](https://www.nationalacademies.org/read/27894/chapter/8)  
+   Link: <a href="https://www.nationalacademies.org/read/27894/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/27894/chapter/8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 6 Impacts of Misinformation About ScienceThese findings are particularly relevant to understanding misinformation&#x27;s effects in t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/top-content/science/science-and-society-dialogues/misinformation-in-science-communication/](https://www.linkedin.com/top-content/science/science-and-society-dialogues/misinformation-in-science-communication/)  
+   Link: <a href="https://www.linkedin.com/top-content/science/science-and-society-dialogues/misinformation-in-science-communication/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/science/science-and-society-dialogues/misinformation-in-science-communication/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation in Science CommunicationMisinformation in science communication refers to the spread of false or misleading scientific inf...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/pnasnexus/article/4/3/pgaf071/8052021](https://academic.oup.com/pnasnexus/article/4/3/pgaf071/8052021)  
+   Link: <a href="https://academic.oup.com/pnasnexus/article/4/3/pgaf071/8052021" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/3/pgaf071/8052021</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of uncertainty communication on public trust depends on belief–evidence consistency | PNAS Nexus | Oxford AcademicMarch 5, 2025 — Journal...</p></details>
    Published: March 5, 2025  
 
 13. <a id="endnote-13"></a>
    Source: carnegieendowment.org  
-   Link: [https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide](https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide)  
+   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — Democracies should adopt a portfolio approach to manage uncerta...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: repository.cam.ac.uk  
-   Link: [https://www.repository.cam.ac.uk/handle/1810/304699](https://www.repository.cam.ac.uk/handle/1810/304699)  
+   Link: <a href="https://www.repository.cam.ac.uk/handle/1810/304699" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/handle/1810/304699</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PUBLISHED VERSION PEER-REVIEWED REPOSITORY URI [https://www.repository.cam.ac.uk/handle/1810/304699](https://www.repository.cam.ac.uk/handle/1810/304699) REPOSITORY DOI...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: repository.ubn.ru.nl  
    Title: The main effect of uncertainty communication on trust is strong (ηG  
-   Link: [https://repository.ubn.ru.nl/bitstream/handle/2066/226715/226715.pdf](https://repository.ubn.ru.nl/bitstream/handle/2066/226715/226715.pdf)  
+   Link: <a href="https://repository.ubn.ru.nl/bitstream/handle/2066/226715/226715.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.ubn.ru.nl/bitstream/handle/2066/226715/226715.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ru.nlTwo-sided science: Communicating scientific uncertainty...by MJ Steijaert · 2021 · Cited by 47 — This research shows that trust in...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: research.rug.nl  
    Title: J. Freeman *, James Mitchell *, Ana B. Galvao *, Lisa Zaval *  
-   Link: [https://research.rug.nl/en/publications/communicating-uncertainty-about-facts-numbers-and-science](https://research.rug.nl/en/publications/communicating-uncertainty-about-facts-numbers-and-science)  
+   Link: <a href="https://research.rug.nl/en/publications/communicating-uncertainty-about-facts-numbers-and-science" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/en/publications/communicating-uncertainty-about-facts-numbers-and-science</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uncertainty about facts, numbers and science - the University of Groningen research portalCOMMUNICATING UNCERTAINTY ABOUT FACTS, NUMBERS...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: jcom.sissa.it  
    Title: it Does science communication have its goals wrong?  
-   Link: [https://jcom.sissa.it/article/pubid/JCOM_2501_2026_C07/](https://jcom.sissa.it/article/pubid/JCOM_2501_2026_C07/)  
+   Link: <a href="https://jcom.sissa.it/article/pubid/JCOM_2501_2026_C07/" target="_blank" rel="noopener noreferrer nofollow">https://jcom.sissa.it/article/pubid/JCOM_2501_2026_C07/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Toomey · 2026 · Cited by 2 — Similarly, as uncertainty is inherent to science, values are involved when researchers weigh th...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/the-effects-of-uncertainty-frames-in-three-science-kxyeyuin9q.pdf](https://scispace.com/pdf/the-effects-of-uncertainty-frames-in-three-science-kxyeyuin9q.pdf)  
+   Link: <a href="https://scispace.com/pdf/the-effects-of-uncertainty-frames-in-three-science-kxyeyuin9q.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-effects-of-uncertainty-frames-in-three-science-kxyeyuin9q.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>While uncertainty is central to the nature of science, many fear negative effects of communicating uncertain science to the public...Re...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: canada.ca  
-   Link: [https://www.canada.ca/content/dam/phac-aspc/documents/services/reports-publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-45-no-10-2025/uncertainty-communication-trust-health-promotion.pdf](https://www.canada.ca/content/dam/phac-aspc/documents/services/reports-publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-45-no-10-2025/uncertainty-communication-trust-health-promotion.pdf)  
+   Link: <a href="https://www.canada.ca/content/dam/phac-aspc/documents/services/reports-publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-45-no-10-2025/uncertainty-communication-trust-health-promotion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/content/dam/phac-aspc/documents/services/reports-publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-45-no-10-2025/uncertainty-communication-trust-health-promotion.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by JD Gretton · Cited by 1 — By leveraging research on uncer- tainty communication, health pro- moters can communicate in a manner that h...</p></details>

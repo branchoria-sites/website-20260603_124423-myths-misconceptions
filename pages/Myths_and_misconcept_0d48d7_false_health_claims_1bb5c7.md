@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - health-claims
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - health-claims
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Health misinformation often spreads because people believe they are helping friends or family avoid harm.
 hero_summary: Health misinformation often spreads because people believe they are helping friends or family avoid harm.
 layout: default
 permalink: /health-claims/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Health Claims
 title: Why Helpful Health Advice Can Be Wrong
-title_full: Why Helpful Health Advice Can Be Wrong | Mythcraft
+title_full: Why Helpful Health Advice Can Be Wrong
 display_title_short: Health Claims
 display_title: Health Claims
 heading_title: Why Helpful Health Advice Can Be Wrong
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 next_link:
   basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
-date: '2026-06-09 04:04:45 '
+date: '2026-06-11 21:51:10 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-overview.webp
@@ -503,9 +503,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-ove
 
 False health claims are often shared by people who are trying to help. A parent forwards a vaccine rumour because they want to protect a child; a friend sends a “natural cure” post because they are frightened for someone with cancer; a colleague shares an urgent warning because it feels safer to pass it on than to stay silent. That good [intent]({{ 'intent/' | relative_url }}) matters, because it changes how the claim should be corrected. But it does not make the claim harmless.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-overview.webp" | relative_url }}" alt="Overview image for Health Claims" loading="eager" decoding="sync" fetchpriority="high">
-[Health myths]({{ 'health-myths/' | relative_url }}) are especially sticky because they combine fear, care, [personal experience]({{ 'anecdotes/' | relative_url }}) and urgency. They promise control at the exact moment when people feel vulnerable. During outbreaks, cancer diagnoses, fertility worries, mental health struggles or vaccine decisions, the wrong advice can delay treatment, increase anxiety, push people towards ineffective remedies or undermine trust in professionals. Health misinformation is therefore not just a problem of “bad information online”; it is also a social problem that travels through relationships people value. WHO describes an infodemic as too much information, including false or misleading information, in both digital and physical settings during disease outbreaks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span>
+[Health myths]({{ 'health-myths/' | relative_url }}) are especially sticky because they combine fear, care, personal experience and urgency. They promise control at the exact moment when people feel vulnerable. During outbreaks, cancer diagnoses, fertility worries, mental health struggles or vaccine decisions, the wrong advice can delay treatment, increase anxiety, push people towards ineffective remedies or undermine trust in professionals. Health misinformation is therefore not just a problem of “bad information online”; it is also a social problem that travels through relationships people value. WHO describes an infodemic as too much information, including false or misleading information, in both digital and physical settings during disease outbreaks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span>
 
 ## Good Intent and Bad Evidence
 
@@ -513,16 +512,15 @@ The most difficult false health claims are not always the most obviously malicio
 
 This is why health misinformation differs from ordinary trivia myths. The stakes are bodily, emotional and immediate. A mistaken belief about a celebrity photo or a historical anecdote may waste attention; a mistaken claim about chemotherapy, [vaccines]({{ 'vaccines/' | relative_url }}), sepsis symptoms or medication interactions can change what someone does next. The U.S. Surgeon General’s advisory defines health misinformation as information that is false, inaccurate or misleading according to the best available evidence at the time, and frames it as a public health problem because it can affect individual choices and the wider information environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hhs.gov">[HHS.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hhs.gov</span><span class="citation-popover-title">Confronting Health Misinformation</span><span class="citation-popover-snippet">July 2, 2021 — 14 Jul 2021 — A Surgeon General&#x27;s Advisory is a public statement that calls the American people&#x27;s attention to a public he...</span><span class="citation-popover-meta">Published: July 2, 2021</span></span></span>
 
-Good intentions can also make false claims harder to challenge. Correcting a stranger’s post is one thing; correcting a worried aunt, parent, patient or friend is more delicate. The false claim may be tied to a relationship, a frightening experience or a memory of not being listened to by a health system. If the [correction]({{ 'correction/' | relative_url }}) sounds like “you are foolish”, the person may defend the claim because they feel their care, judgement or identity is being attacked.
+Good intentions can also make false claims harder to challenge. Correcting a stranger’s post is one thing; correcting a worried aunt, parent, patient or friend is more delicate. The false claim may be tied to a relationship, a frightening experience or a memory of not being listened to by a health system. If the [correction]({{ 'correction/' | relative_url }}) sounds like “you are foolish”, the person may defend the claim because they feel their care, judgement or [identity]({{ 'identity/' | relative_url }}) is being attacked.
 
-Research on misinformation sharing also shows that people do not always share falsehoods because they fully believe them. Some share because content is emotionally powerful, socially rewarded, novel or identity-confirming. The American Psychological Association notes that misinformation is more likely to be shared when it fits social norms or identity, feels new, or provokes strong emotion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">how why misinformation spreads</span><span class="citation-popover-snippet">American Psychological AssociationHow and why does misinformation spread?29 Nov 2023 — People are more likely to share misinformation whe...</span></span></span> Social media systems can amplify this by rewarding attention-grabbing posts, including inaccurate ones, with visibility, comments and social feedback. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-title">how social media rewards misinformation</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — Some scholars suggest that people share falsehoods out...</span></span></span>
+Research on misinformation sharing also shows that people do not always share falsehoods because they fully believe them. Some share because content is emotionally powerful, socially rewarded, novel or identity-confirming. The American Psychological Association notes that misinformation is more likely to be shared when it fits social norms or identity, feels new, or provokes strong emotion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">how why misinformation spreads</span><span class="citation-popover-snippet">American Psychological AssociationHow and why does misinformation spread?29 Nov 2023 — People are more likely to share misinformation whe...</span></span></span> Social media systems can amplify this by rewarding attention-grabbing posts, including inaccurate ones, with visibility, comments and social feedback. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-title">how social media rewards misinformation</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale Insights31 Mar 2023 — Some scholars suggest that people share falsehoods out...</span></span></span>
 
 ## Why Health Myths Feel Like Protection
 
 Many health myths work because they offer a simple protective action. “Take this supplement.” “Avoid this vaccine.” “Do not eat this food.” “Try this detox.” “Do not trust that test.” These instructions are appealing because they turn uncertainty into a clear task. The person sharing them may feel they are doing something useful rather than passively waiting.
 
 That protective feeling can be strongest when the claim contains three ingredients:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -535,7 +533,6 @@ That protective feeling can be strongest when the claim contains three ingredien
 This is one reason vaccine myths spread so effectively among some parents. The decision is framed not as a population-level public health choice but as an immediate act of parental protection. Reviews of parental vaccine hesitancy repeatedly identify fear of adverse effects, distrust, misinformation and social context as major drivers; one qualitative systematic review of MMR vaccine hesitancy found fear of autism to be the most cited reason, despite the claim being scientifically discredited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2076-393X/11/5/926" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2076 393X</span><span class="citation-popover-snippet">2076 393X</span></span></span>
 
 The same pattern appears in cancer misinformation. A loved one facing cancer may be overwhelmed by treatment side effects, medical uncertainty and fear of death. A post promising a natural cure can feel compassionate because it offers hope and agency. But cancer misinformation is especially dangerous when it encourages people to delay, refuse or replace evidence-based treatment. The U.S. National Cancer Institute has warned that promotion of unproven cancer treatments can be harmful, citing evidence that people who used alternative or complementary treatments instead of conventional cancer care had a higher risk of dying than those receiving conventional therapy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-title">misinformation social media</span><span class="citation-popover-snippet">misinformation social media</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-1-dark.svg" | relative_url }}" alt="Health Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Risk, Fear and Urgency
@@ -558,7 +555,6 @@ Cancer misinformation shows this clearly. A social media post may present a surv
 
 This does not mean personal experience should be dismissed. It means it should be kept in its proper lane. “This helped me manage nausea” is different from “this cures cancer”. “This made me feel calmer” is different from “this treats depression”. “I had a side effect” is different from “nobody should take this medicine”. Good correction often depends on preserving the dignity of the story while challenging the unsupported leap.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zKp-ZmNYHjY" title="Can You Trust Cancer Advice Online? #misinformation #podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zKp-ZmNYHjY" target="_blank" rel="noopener noreferrer">Can You Trust Cancer Advice Online? #misinformation #podcast</a></p><p class="youtube-embed-meta">Channel: Cancer Research UK &middot; Views: 2.7K &middot; Uploaded: April 2026 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zKp-ZmNYHjY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zKp-ZmNYHjY">Open on YouTube</a></p></div></div></div>
 
 ## When “Natural” Sounds Safer Than Evidence
@@ -579,14 +575,12 @@ That does not mean [corrections]({{ 'corrections/' | relative_url }}) should be 
 
 The challenge is tone and timing. Public shaming may harden the social problem even when the factual correction is right. The American Society for Microbiology recommends empathy and inclusive language when talking with family and friends about misinformation, such as acknowledging that it can be hard to judge sources before sharing what you have learned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asm.org">[ASM.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asm.org</span><span class="citation-popover-title">How to Spot and Combat Health Misinformation</span><span class="citation-popover-snippet">How to Spot and Combat Health Misinformation</span></span></span> PEN America similarly advises recognising that friends and family who spread misinformation may believe it is true and may feel they are sharing something important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pen.org/disinformation/how-to-talk-to-friends-and-family-who-share-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pen.org">[PEN America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pen.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-2-dark.svg" | relative_url }}" alt="Health Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Gentle Ways to Correct
 
 The goal is not to win an argument; it is to reduce the chance that someone acts on bad health advice. A good correction protects the relationship without giving the false claim a free pass.
 
 A practical approach is to respond in three moves:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -600,7 +594,6 @@ The replacement step matters because misinformation often fills a need. If someo
 
 It is also worth matching the correction to the risk. A minor wellness exaggeration may need a light-touch response. A claim urging someone to stop medication, refuse urgent care, use a dangerous substance, avoid vaccination during an outbreak, or replace cancer treatment needs firmer intervention. Health misinformation is not equally dangerous in every case; the key question is what behaviour the claim might cause.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YeLzYagnVl8" title="The State of Vaccines and What Parents Need to Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YeLzYagnVl8" target="_blank" rel="noopener noreferrer">The State of Vaccines and What Parents Need to Know</a></p><p class="youtube-embed-meta">Channel: PedsDocTalk &middot; Views: 754 &middot; Uploaded: February 2026 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YeLzYagnVl8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YeLzYagnVl8">Open on YouTube</a></p></div></div></div>
 
 ## What to Check Before Sharing Health Advice
@@ -608,7 +601,6 @@ It is also worth matching the correction to the risk. A minor wellness exaggerat
 A well-meant health claim deserves a pause before it becomes someone else’s problem. The pause does not have to be complicated. It should ask whether the advice is specific, current, evidence-based and safe.
 
 Before forwarding a health claim, check:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -623,7 +615,6 @@ Before forwarding a health claim, check:
 
 The U.S. Surgeon General’s public guidance encourages people to verify health information before sharing, check sources, avoid sharing if they are not sure, and talk to trusted health professionals when making health decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hhs.gov">[HHS.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hhs.gov</span><span class="citation-popover-snippet">Open source on hhs.gov.</span></span></span> That advice is simple, but it is not trivial. In health contexts, not sharing an uncertain claim can be an act of care.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-3-dark.svg" | relative_url }}" alt="Health Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Better Version of Helping
 
@@ -633,9 +624,7 @@ This shift matters because it preserves the social energy that makes misinformat
 
 False health claims shared with good intentions are dangerous precisely because they feel humane. They often look like protection, solidarity or hope. A healthy information culture needs all three, but it also needs humility: serious health decisions should not depend on viral urgency, personal [anecdotes]({{ 'anecdotes/' | relative_url }}) or claims that outrun the evidence. The most helpful health advice is not the advice that feels most reassuring in the moment; it is the advice least likely to mislead someone when the stakes are real.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_bJn2BgSiCg" title="Strategies for Talking With Parents About Vaccines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_bJn2BgSiCg" target="_blank" rel="noopener noreferrer">Strategies for Talking With Parents About Vaccines</a></p><p class="youtube-embed-meta">Channel: JAMA Network &middot; Views: 659 &middot; Uploaded: May 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_bJn2BgSiCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_bJn2BgSiCg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1033,161 +1022,161 @@ False health claims shared with good intentions are dangerous precisely because 
 
 1. <a id="endnote-1"></a>
    Source: who.int  
-   Link: [https://www.who.int/health-topics/infodemic](https://www.who.int/health-topics/infodemic)  
+   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: hhs.gov  
    Title: Confronting Health Misinformation  
-   Link: [https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf](https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf)  
+   Link: <a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 2, 2021 — 14 Jul 2021 — A Surgeon General&#x27;s Advisory is a public statement that calls the American people&#x27;s attention to a public he...</p></details>
    Published: July 2, 2021  
 
 3. <a id="endnote-3"></a>
    Source: insights.som.yale.edu  
    Title: how social media rewards misinformation  
-   Link: [https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation](https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation)  
+   Link: <a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — Some scholars suggest that people share falsehoods out...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: mdpi.com  
    Title: 2076 393X  
-   Link: [https://www.mdpi.com/2076-393X/11/5/926](https://www.mdpi.com/2076-393X/11/5/926)  
+   Link: <a href="https://www.mdpi.com/2076-393X/11/5/926" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-393X/11/5/926</a>  
 
 5. <a id="endnote-5"></a>
    Source: cancer.gov  
    Title: misinformation social media  
-   Link: [https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media](https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media)  
+   Link: <a href="https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media</a>  
 
 6. <a id="endnote-6"></a>
    Source: who.int  
-   Link: [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)  
+   Link: <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters</a>  
 
 7. <a id="endnote-7"></a>
    Source: who.int  
-   Link: [https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds](https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds)  
+   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/</a>  
 
 9. <a id="endnote-9"></a>
    Source: infodemiology.jmir.org  
-   Link: [https://infodemiology.jmir.org/2025/1/e62703](https://infodemiology.jmir.org/2025/1/e62703)  
+   Link: <a href="https://infodemiology.jmir.org/2025/1/e62703" target="_blank" rel="noopener noreferrer nofollow">https://infodemiology.jmir.org/2025/1/e62703</a>  
 
 10. <a id="endnote-10"></a>
    Source: wwwnc.cdc.gov  
    Title: 20 3139 article  
-   Link: [https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article](https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article)  
+   Link: <a href="https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article" target="_blank" rel="noopener noreferrer nofollow">https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article</a>  
 
 11. <a id="endnote-11"></a>
    Source: asm.org  
    Title: How to Spot and Combat Health Misinformation  
-   Link: [https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation](https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation)  
+   Link: <a href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation</a>  
 
 12. <a id="endnote-12"></a>
    Source: pen.org  
-   Link: [https://pen.org/disinformation/how-to-talk-to-friends-and-family-who-share-misinformation/](https://pen.org/disinformation/how-to-talk-to-friends-and-family-who-share-misinformation/)  
+   Link: <a href="https://pen.org/disinformation/how-to-talk-to-friends-and-family-who-share-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://pen.org/disinformation/how-to-talk-to-friends-and-family-who-share-misinformation/</a>  
 
 13. <a id="endnote-13"></a>
    Source: hhs.gov  
-   Link: [https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html](https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html)  
+   Link: <a href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html</a>  
 
 14. <a id="endnote-14"></a>
    Source: infodemiology.jmir.org  
-   Link: [https://infodemiology.jmir.org/2025/1/e67464](https://infodemiology.jmir.org/2025/1/e67464)  
+   Link: <a href="https://infodemiology.jmir.org/2025/1/e67464" target="_blank" rel="noopener noreferrer nofollow">https://infodemiology.jmir.org/2025/1/e67464</a>  
 
 15. <a id="endnote-15"></a>
    Source: infodemiology.jmir.org  
-   Link: [https://infodemiology.jmir.org/2024/1/e51127](https://infodemiology.jmir.org/2024/1/e51127)  
+   Link: <a href="https://infodemiology.jmir.org/2024/1/e51127" target="_blank" rel="noopener noreferrer nofollow">https://infodemiology.jmir.org/2024/1/e51127</a>  
 
 16. <a id="endnote-16"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2024/1/e38786/](https://www.jmir.org/2024/1/e38786/)  
+   Link: <a href="https://www.jmir.org/2024/1/e38786/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e38786/</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WHO/posts/not-all-information-you-find-on-social-media-is-true-some-use-it-to-spread-misle/1082224637270259/](https://www.facebook.com/WHO/posts/not-all-information-you-find-on-social-media-is-true-some-use-it-to-spread-misle/1082224637270259/)  
+   Link: <a href="https://www.facebook.com/WHO/posts/not-all-information-you-find-on-social-media-is-true-some-use-it-to-spread-misle/1082224637270259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO/posts/not-all-information-you-find-on-social-media-is-true-some-use-it-to-spread-misle/1082224637270259/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: a new resource from the public health communication collaborative explains how t  
-   Link: [https://www.facebook.com/CDCFoundation/posts/a-new-resource-from-the-public-health-communication-collaborative-explains-how-t/10158370853193053/](https://www.facebook.com/CDCFoundation/posts/a-new-resource-from-the-public-health-communication-collaborative-explains-how-t/10158370853193053/)  
+   Link: <a href="https://www.facebook.com/CDCFoundation/posts/a-new-resource-from-the-public-health-communication-collaborative-explains-how-t/10158370853193053/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CDCFoundation/posts/a-new-resource-from-the-public-health-communication-collaborative-explains-how-t/10158370853193053/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: most of us have been in a situation where someone shares misinformation about he  
-   Link: [https://www.facebook.com/UtahDHHS/posts/most-of-us-have-been-in-a-situation-where-someone-shares-misinformation-about-he/520086100305123/](https://www.facebook.com/UtahDHHS/posts/most-of-us-have-been-in-a-situation-where-someone-shares-misinformation-about-he/520086100305123/)  
+   Link: <a href="https://www.facebook.com/UtahDHHS/posts/most-of-us-have-been-in-a-situation-where-someone-shares-misinformation-about-he/520086100305123/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UtahDHHS/posts/most-of-us-have-been-in-a-situation-where-someone-shares-misinformation-about-he/520086100305123/</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/USSurgeonGeneral/posts/today-i-issued-a-surgeon-generals-advisory-to-call-our-countrys-attention-to-hea/2138391522967968/](https://www.facebook.com/USSurgeonGeneral/posts/today-i-issued-a-surgeon-generals-advisory-to-call-our-countrys-attention-to-hea/2138391522967968/)  
+   Link: <a href="https://www.facebook.com/USSurgeonGeneral/posts/today-i-issued-a-surgeon-generals-advisory-to-call-our-countrys-attention-to-hea/2138391522967968/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USSurgeonGeneral/posts/today-i-issued-a-surgeon-generals-advisory-to-call-our-countrys-attention-to-hea/2138391522967968/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
    Title: why do people share health misinformation research shows its often out of genuin  
-   Link: [https://www.facebook.com/GAVI/posts/why-do-people-share-health-misinformation-research-shows-its-often-out-of-genuin/1058178486338495/](https://www.facebook.com/GAVI/posts/why-do-people-share-health-misinformation-research-shows-its-often-out-of-genuin/1058178486338495/)  
+   Link: <a href="https://www.facebook.com/GAVI/posts/why-do-people-share-health-misinformation-research-shows-its-often-out-of-genuin/1058178486338495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GAVI/posts/why-do-people-share-health-misinformation-research-shows-its-often-out-of-genuin/1058178486338495/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/deutschewellenews/posts/no-eating-garlic-and-drinking-warm-water-cannot-cure-the-coronavirus-but-how-do-/10157614715894440/](https://www.facebook.com/deutschewellenews/posts/no-eating-garlic-and-drinking-warm-water-cannot-cure-the-coronavirus-but-how-do-/10157614715894440/)  
+   Link: <a href="https://www.facebook.com/deutschewellenews/posts/no-eating-garlic-and-drinking-warm-water-cannot-cure-the-coronavirus-but-how-do-/10157614715894440/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deutschewellenews/posts/no-eating-garlic-and-drinking-warm-water-cannot-cure-the-coronavirus-but-how-do-/10157614715894440/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WHOAFRO/posts/-garlic-does-not-prevent-covid19-keep-safe-by-staying-up-to-date-with-accurate-i/1417928378412074/](https://www.facebook.com/WHOAFRO/posts/-garlic-does-not-prevent-covid19-keep-safe-by-staying-up-to-date-with-accurate-i/1417928378412074/)  
+   Link: <a href="https://www.facebook.com/WHOAFRO/posts/-garlic-does-not-prevent-covid19-keep-safe-by-staying-up-to-date-with-accurate-i/1417928378412074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHOAFRO/posts/-garlic-does-not-prevent-covid19-keep-safe-by-staying-up-to-date-with-accurate-i/1417928378412074/</a>  
 
 24. <a id="endnote-24"></a>
    Source: apa.org  
    Title: how why misinformation spreads  
-   Link: [https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads](https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads)  
+   Link: <a href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationHow and why does misinformation spread?29 Nov 2023 — People are more likely to share misinformation whe...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: macmillan.org.uk  
-   Link: [https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation](https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation)  
+   Link: <a href="https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation</a>  
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIWE CAN TAKE ACTION  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK572168/](https://www.ncbi.nlm.nih.gov/books/NBK572168/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK572168/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health MisinformationBecause it pollutes our information environment, misinformation is harmful to individual and public heal...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Understanding the impact of health misinformation  
-   Link: [https://www.youtube.com/watch?v=84VbIqR2VqY](https://www.youtube.com/watch?v=84VbIqR2VqY)  
+   Link: <a href="https://www.youtube.com/watch?v=84VbIqR2VqY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=84VbIqR2VqY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for talking to family about misinformation...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/371745935_Health_misinformation_what_it_is_why_people_believe_it_how_to_counter_it](https://www.researchgate.net/publication/371745935_Health_misinformation_what_it_is_why_people_believe_it_how_to_counter_it)  
+   Link: <a href="https://www.researchgate.net/publication/371745935_Health_misinformation_what_it_is_why_people_believe_it_how_to_counter_it" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371745935_Health_misinformation_what_it_is_why_people_believe_it_how_to_counter_it</a>  
 
 29. <a id="endnote-29"></a>
    Source: hbs.edu  
-   Link: [https://www.hbs.edu/ris/Publication%20Files/whr_prosociality_revision.final.1.15.2019%20%281%29_79b480d2-2ed6-4e42-b9e5-94905b2fed4c.pdf](https://www.hbs.edu/ris/Publication%20Files/whr_prosociality_revision.final.1.15.2019%20%281%29_79b480d2-2ed6-4e42-b9e5-94905b2fed4c.pdf)  
+   Link: <a href="https://www.hbs.edu/ris/Publication%20Files/whr_prosociality_revision.final.1.15.2019%20%281%29_79b480d2-2ed6-4e42-b9e5-94905b2fed4c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/ris/Publication%20Files/whr_prosociality_revision.final.1.15.2019%20%281%29_79b480d2-2ed6-4e42-b9e5-94905b2fed4c.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: ecancer.org  
-   Link: [https://ecancer.org/en/news/27083-study-finds-most-cancer-patients-exposed-to-misinformation-researchers-pilot-information-prescription](https://ecancer.org/en/news/27083-study-finds-most-cancer-patients-exposed-to-misinformation-researchers-pilot-information-prescription)  
+   Link: <a href="https://ecancer.org/en/news/27083-study-finds-most-cancer-patients-exposed-to-misinformation-researchers-pilot-information-prescription" target="_blank" rel="noopener noreferrer nofollow">https://ecancer.org/en/news/27083-study-finds-most-cancer-patients-exposed-to-misinformation-researchers-pilot-information-prescription</a>  
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/381922940_Motives_of_Sharing_Fake_News_and_Effects_on_Mental_Health_of_Social_Media_Users_A_Meta-analysis](https://www.researchgate.net/publication/381922940_Motives_of_Sharing_Fake_News_and_Effects_on_Mental_Health_of_Social_Media_Users_A_Meta-analysis)  
+   Link: <a href="https://www.researchgate.net/publication/381922940_Motives_of_Sharing_Fake_News_and_Effects_on_Mental_Health_of_Social_Media_Users_A_Meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381922940_Motives_of_Sharing_Fake_News_and_Effects_on_Mental_Health_of_Social_Media_Users_A_Meta-analysis</a>  
 
 32. <a id="endnote-32"></a>
    Source: spokanetribe.com  
-   Link: [https://spokanetribe.com/wp-content/uploads/2021/11/HealthMisinformationToolkitNon508.pdf](https://spokanetribe.com/wp-content/uploads/2021/11/HealthMisinformationToolkitNon508.pdf)  
+   Link: <a href="https://spokanetribe.com/wp-content/uploads/2021/11/HealthMisinformationToolkitNon508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spokanetribe.com/wp-content/uploads/2021/11/HealthMisinformationToolkitNon508.pdf</a>  
 
 33. <a id="endnote-33"></a>
    Source: ilcn.org  
-   Link: [https://www.ilcn.org/cancer-misinformation-its-impact-on-patients-and-mitigation-strategies/](https://www.ilcn.org/cancer-misinformation-its-impact-on-patients-and-mitigation-strategies/)  
+   Link: <a href="https://www.ilcn.org/cancer-misinformation-its-impact-on-patients-and-mitigation-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.ilcn.org/cancer-misinformation-its-impact-on-patients-and-mitigation-strategies/</a>  
 
 34. <a id="endnote-34"></a>
    Source: bmjgroup.com  
-   Link: [https://bmjgroup.com/combatting-misinformation-and-empowering-patient-decisions/](https://bmjgroup.com/combatting-misinformation-and-empowering-patient-decisions/)  
+   Link: <a href="https://bmjgroup.com/combatting-misinformation-and-empowering-patient-decisions/" target="_blank" rel="noopener noreferrer nofollow">https://bmjgroup.com/combatting-misinformation-and-empowering-patient-decisions/</a>  
 
 35. <a id="endnote-35"></a>
    Source: swgfl.org.uk  
-   Link: [https://swgfl.org.uk/topics/social-media/misinformation-on-social-media-guidance-impact-and-support/](https://swgfl.org.uk/topics/social-media/misinformation-on-social-media-guidance-impact-and-support/)  
+   Link: <a href="https://swgfl.org.uk/topics/social-media/misinformation-on-social-media-guidance-impact-and-support/" target="_blank" rel="noopener noreferrer nofollow">https://swgfl.org.uk/topics/social-media/misinformation-on-social-media-guidance-impact-and-support/</a>

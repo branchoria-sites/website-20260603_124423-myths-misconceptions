@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_learning_styles_matc_419df8
 - Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - common-sense
 - full-moons
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - common-sense
 - full-moons
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Full-moon beliefs show how vivid memories can overpower fair comparison when ordinary nights are not counted.
 hero_summary: Full-moon beliefs show how vivid memories can overpower fair comparison when ordinary nights are not counted.
 layout: default
 permalink: /full-moons/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /common-sense/
 nav_short_title: Full moons
 title: Do full moons really change behavior?
-title_full: Do full moons really change behavior? | Common Sense
+title_full: Do full moons really change behavior?
 display_title_short: Full moons
 display_title: Full moons
 heading_title: Do full moons really change behavior?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Common Sense Leads US Wrong | Mythcraft
+parent_title: When Common Sense Leads US Wrong
 parent_permalink: /common-sense/
 parent_nav_short_title: Common Sense
 parent_heading_title: When Common Sense Leads US Wrong
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: What would we see if it were true?
 up_link:
   basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
@@ -265,7 +265,7 @@ next_link:
   permalink: /hindsight/
   short_title: Hindsight
   heading_title: Why outcomes seem obvious after they happen
-date: '2026-06-09 05:03:07 '
+date: '2026-06-11 22:20:45 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_full_moon_behavior_d_43bd22-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_full_moon_behavior_d_43bd22-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_fu
 ## Introduction
 
 The belief that full moons make people behave strangely is one of the most durable examples of [common sense]({{ 'common-sense/' | relative_url }}) overpowering careful evidence. Many people, including experienced nurses, police officers, teachers and emergency workers, feel certain they have seen it happen. A chaotic shift coincides with a bright full moon, and the connection seems obvious.
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_full_moon_behavior_d_43bd22-Illustration-1-dark.svg" | relative_url }}" alt="Full moons illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_full_moon_behavior_d_43bd22-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_full_moon_behavior_d_43bd22-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Yet decades of research have repeatedly struggled to find the dramatic effects that these stories predict. Studies of emergency departments, trauma admissions, psychiatric visits and other hospital measures usually find little or no meaningful increase during full moons. The puzzle is not simply why the belief exists. It is why the stories feel so convincing even when large datasets often fail to support them. The answer says a great deal about how people remember events, judge patterns and mistake vivid [anecdotes]({{ 'anecdotes/' | relative_url }}) for reliable evidence. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/8924138/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">full moon and ED patient volumes: unearthing a mythby DA Thompson · 1996 · Cited by 80 — The occurrence of a full moon has no effect on E...</span></span></span>
@@ -290,7 +289,6 @@ Psychologists describe related effects through concepts such as the availability
 
 The full moon is especially vulnerable to this kind of thinking because it is:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Visually obvious and emotionally distinctive.
@@ -303,9 +301,6 @@ The full moon is especially vulnerable to this kind of thinking because it is:
 That last point matters. People are not usually checking whether it is a waning crescent or a first-quarter moon. They notice the full moon because it stands out. Once it is noticed, unusual events become easier to connect to it.
 
 A nurse might remember a night with several psychiatric emergencies during a full moon but forget many equally difficult nights when the moon was in another phase. Over time, the remembered matches accumulate while the non-matches fade.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gAt3nf3CwZM" title="False Causality: The Hidden Cognitive Bias Shaping Decisions, Beliefs &amp; Emotional Health" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gAt3nf3CwZM" target="_blank" rel="noopener noreferrer">False Causality: The Hidden Cognitive Bias Shaping Decisions, Beliefs &amp; Emotional Health</a></p><p class="youtube-embed-meta">Channel: Leadership Notes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gAt3nf3CwZM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gAt3nf3CwZM">Open on YouTube</a></p></div></div></div>
 
 ## Why professionals often believe it anyway
 
@@ -321,26 +316,22 @@ This is not necessarily irrational. Human memory evolved to remember unusual, em
 
 The problem is that memory records highlights, not representative samples.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jZt5DmE7gEk" title="Does the Full Moon Affect Human Behavior?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jZt5DmE7gEk" target="_blank" rel="noopener noreferrer">Does the Full Moon Affect Human Behavior?</a></p><p class="youtube-embed-meta">Channel: Dr. Todd Grande</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jZt5DmE7gEk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jZt5DmE7gEk">Open on YouTube</a></p></div></div></div>
-
 ## What hospital and emergency data should reveal
 
 If full moons genuinely caused large increases in aggression, psychiatric crises or emergency visits, hospitals should show a clear statistical signal.
 
 Researchers have tested this idea for decades by comparing full-moon days with other days across large populations.
 
-One widely cited emergency department study examined tens of thousands of cases and found no significant differences in patient visits, ambulance runs, hospital admissions or monitored-unit admissions during full moons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0735675796901242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe full moon and ED patient volumes: Unearthing a mythby DA Thompson · 1996 · Cited by 80 — The occurrence of a full moon h...</span></span></span>
+One widely cited emergency department study examined tens of thousands of cases and found no significant differences in patient visits, ambulance runs, hospital admissions or monitored-unit admissions during full moons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0735675796901242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The full moon and ED patient volumes: Unearthing a mythby DA Thompson · 1996 · Cited by 80 — The occurrence of a full moon h...</span></span></span>
 
 Other investigations have reached similar conclusions:
 
-* Trauma studies have found no meaningful increase in serious injuries during full moons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0735675796901242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe full moon and ED patient volumes: Unearthing a mythby DA Thompson · 1996 · Cited by 80 — The occurrence of a full moon h...</span></span></span>
+* Trauma studies have found no meaningful increase in serious injuries during full moons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0735675796901242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The full moon and ED patient volumes: Unearthing a mythby DA Thompson · 1996 · Cited by 80 — The occurrence of a full moon h...</span></span></span>
 * Research on emergency and outpatient admissions often reports no statistically significant differences across lunar phases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12023559/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">influence of moon phases on emergency trauma admissionby F Migliorini · 2025 · Cited by 3 — The current study indicates no statistically...</span></span></span>
 * Reviews of psychiatric emergency presentations generally find inconsistent or weak results rather than a strong, repeatable lunar effect. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1155/2014/398791" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryEffects of Full‐Moon Definition on Psychiatric Emergency...12 Jan 2014 — The lunar cycle is believed to be related t...</span></span></span>
-* Reviews of hospital admissions and birth rates repeatedly conclude that the expected lunar pattern is absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9841136/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby KA Maslov · 2023 · Cited by 8 — According to the results of the study, it has been found that the frequency of admissions did not d...</span></span></span>
+* Reviews of hospital admissions and birth rates repeatedly conclude that the expected lunar pattern is absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9841136/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by KA Maslov · 2023 · Cited by 8 — According to the results of the study, it has been found that the frequency of admissions did not d...</span></span></span>
 
-The key point is not that every single study reports identical results. Some papers have reported small associations, while others have found none. The important question is whether a robust, repeatable effect appears across many settings and datasets. So far, the evidence has generally failed that test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10251051/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of effects of moon phases on hospital outpatient...by M Uddin · 2023 · Cited by 7 — This study investigates the existence of any impact...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0735675796901242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe full moon and ED patient volumes: Unearthing a mythby DA Thompson · 1996 · Cited by 80 — The occurrence of a full moon h...</span></span></span>
-
+The key point is not that every single study reports identical results. Some papers have reported small associations, while others have found none. The important question is whether a robust, repeatable effect appears across many settings and datasets. So far, the evidence has generally failed that test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10251051/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of effects of moon phases on hospital outpatient...by M Uddin · 2023 · Cited by 7 — This study investigates the existence of any impact...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0735675796901242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The full moon and ED patient volumes: Unearthing a mythby DA Thompson · 1996 · Cited by 80 — The occurrence of a full moon h...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_full_moon_behavior_d_43bd22-Illustration-2-dark.svg" | relative_url }}" alt="Full moons illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_full_moon_behavior_d_43bd22-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_full_moon_behavior_d_43bd22-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The counting problem: hits are remembered, misses disappear
@@ -350,7 +341,6 @@ The strongest reason full-moon stories feel true is that people naturally count 
 Imagine someone believes full moons cause unusual behaviour.
 
 They notice:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -364,10 +354,9 @@ Those examples become evidence.
 
 What often goes uncounted are:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* The quiet full-moon nights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0735675796901242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe full moon and ED patient volumes: Unearthing a mythby DA Thompson · 1996 · Cited by 80 — The occurrence of a full moon h...</span></span></span>
+* The quiet full-moon nights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0735675796901242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The full moon and ED patient volumes: Unearthing a mythby DA Thompson · 1996 · Cited by 80 — The occurrence of a full moon h...</span></span></span>
 * The hundreds of ordinary full-moon evenings.
 * The equally chaotic nights during other lunar phases.
 
@@ -379,12 +368,10 @@ This difference between anecdotal memory and systematic counting is crucial. Ane
 
 That is why large datasets can contradict strong personal impressions. The dataset includes the forgotten nights.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y8w96qZeLrs" title="🌙 The Moon’s REAL Power Revealed! 🧠 No Lunacy, Just Science!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y8w96qZeLrs" target="_blank" rel="noopener noreferrer">🌙 The Moon’s REAL Power Revealed! 🧠 No Lunacy, Just Science!</a></p><p class="youtube-embed-meta">Channel: Lesson Learned 101</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y8w96qZeLrs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y8w96qZeLrs">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_full_moon_behavior_d_43bd22-Illustration-3-dark.svg" | relative_url }}" alt="Full moons illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_full_moon_behavior_d_43bd22-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_full_moon_behavior_d_43bd22-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a few positive findings do not settle the question
 
-Supporters of lunar effects sometimes point to studies that found increases in crime, aggression or specific hospital outcomes. Some research has indeed reported associations under particular conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13107721/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe influence of the lunar cycle on psychiatric emergency</span><span class="citation-popover-snippet">PMCThe influence of the lunar cycle on psychiatric emergency</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0196064489800149" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectTrauma and the full moon: A waning theoryby W Coates · 1989 · Cited by 79 — Victims of violence were admitted at a similar f...</span></span></span>
+Supporters of lunar effects sometimes point to studies that found increases in crime, aggression or specific hospital outcomes. Some research has indeed reported associations under particular conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13107721/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe influence of the lunar cycle on psychiatric emergency</span><span class="citation-popover-snippet">PMCThe influence of the lunar cycle on psychiatric emergency</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0196064489800149" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Trauma and the full moon: A waning theoryby W Coates · 1989 · Cited by 79 — Victims of violence were admitted at a similar f...</span></span></span>
 
 But isolated positive findings are not enough on their own.
 
@@ -404,8 +391,6 @@ Because the story already exists, new anecdotes fit into a familiar narrative. A
 
 Modern scientific reviews have generally failed to find convincing evidence that the Moon exerts the dramatic behavioural influence often claimed, yet the cultural story remains powerful because stories spread differently from statistics. A memorable tale about a bizarre full-moon incident is easier to repeat than a graph showing no significant difference across thousands of admissions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/stories/space-astronomy/can-moon-affect-our-health-behaviour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Royal Museums GreenwichCan the Moon affect our health and behaviour?“Convincing scientific evidence that the Moon affects human biology o...</span></span></span>
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_full_moon_behavior_d_43bd22-Illustration-3-dark.svg" | relative_url }}" alt="Full moons illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_full_moon_behavior_d_43bd22-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_full_moon_behavior_d_43bd22-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the full-moon myth reveals about common sense
 
 The full-moon belief survives not because the evidence is overwhelmingly strong, but because the evidence people experience in daily life is filtered through memory.
@@ -812,170 +797,170 @@ The lesson extends far beyond lunar myths. Whenever a claim is supported mainly 
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0735675796901242](https://www.sciencedirect.com/science/article/pii/S0735675796901242)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe full moon and ED patient volumes: Unearthing a mythby DA Thompson · 1996 · Cited by 80 — The occurrence of a full moon h...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0735675796901242" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0735675796901242</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The full moon and ED patient volumes: Unearthing a mythby DA Thompson · 1996 · Cited by 80 — The occurrence of a full moon h...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0196064489800149](https://www.sciencedirect.com/science/article/abs/pii/S0196064489800149)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectTrauma and the full moon: A waning theoryby W Coates · 1989 · Cited by 79 — Victims of violence were admitted at a similar f...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0196064489800149" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0196064489800149</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trauma and the full moon: A waning theoryby W Coates · 1989 · Cited by 79 — Victims of violence were admitted at a similar f...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12023559/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12023559/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12023559/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12023559/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>influence of moon phases on emergency trauma admissionby F Migliorini · 2025 · Cited by 3 — The current study indicates no statistically...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9841136/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9841136/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby KA Maslov · 2023 · Cited by 8 — According to the results of the study, it has been found that the frequency of admissions did not d...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9841136/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9841136/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by KA Maslov · 2023 · Cited by 8 — According to the results of the study, it has been found that the frequency of admissions did not d...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10251051/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10251051/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10251051/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10251051/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of effects of moon phases on hospital outpatient...by M Uddin · 2023 · Cited by 7 — This study investigates the existence of any impact...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe influence of the lunar cycle on psychiatric emergency  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC13107721/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13107721/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13107721/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13107721/</a>  
 
 7. <a id="endnote-7"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1155/2014/398791](https://onlinelibrary.wiley.com/doi/10.1155/2014/398791)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1155/2014/398791" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1155/2014/398791</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryEffects of Full‐Moon Definition on Psychiatric Emergency...12 Jan 2014 — The lunar cycle is believed to be related t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1876201810001668](https://www.sciencedirect.com/science/article/abs/pii/S1876201810001668)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectLunar phase cycle and psychiatric hospital emergency...by SMR Kazemi-Bajestani · 2011 · Cited by 31 — A minor relationship...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1876201810001668" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1876201810001668</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lunar phase cycle and psychiatric hospital emergency...by SMR Kazemi-Bajestani · 2011 · Cited by 31 — A minor relationship...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4418782/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4418782/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCNo Evidence of Purported Lunar Effect on Hospital Admission...by JL Margot · 2015 · Cited by 29 — Reanalysis of their data with prope...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4418782/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4418782/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>No Evidence of Purported Lunar Effect on Hospital Admission...by JL Margot · 2015 · Cited by 29 — Reanalysis of their data with prope...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC1444800/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1444800/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCFull moon and crime - PMCby CP Thakur · 1984 · Cited by 98 — The incidence of crimes committed on full moon days was much higher than...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1444800/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1444800/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full moon and crime - PMCby CP Thakur · 1984 · Cited by 98 — The incidence of crimes committed on full moon days was much higher than...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/8924138/](https://pubmed.ncbi.nlm.nih.gov/8924138/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/8924138/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8924138/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>full moon and ED patient volumes: unearthing a mythby DA Thompson · 1996 · Cited by 80 — The occurrence of a full moon has no effect on E...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Availability Heuristic  
-   Link: [https://thedecisionlab.com/biases/availability-heuristic](https://thedecisionlab.com/biases/availability-heuristic)  
+   Link: <a href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/availability-heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: jamesclear.com  
-   Link: [https://jamesclear.com/illusory-correlation](https://jamesclear.com/illusory-correlation)  
+   Link: <a href="https://jamesclear.com/illusory-correlation" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/illusory-correlation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearIllusory Correlation: How to Spot This Common Mental ErrorThe Illusory Correlation is sort of a combination of the Availabilit...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/biases/illusory-correlation](https://thedecisionlab.com/biases/illusory-correlation)  
+   Link: <a href="https://thedecisionlab.com/biases/illusory-correlation" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-correlation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabIllusory correlation - The Decision...Confirmation bias has been linked to illusory correlation, as we look for relation...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thedo.osteopathic.org  
    Title: The DO'Full moon madness' in the ER: Myth or reality?  
-   Link: [https://thedo.osteopathic.org/2015/10/full-moon-madness-in-the-er-myth-or-reality/](https://thedo.osteopathic.org/2015/10/full-moon-madness-in-the-er-myth-or-reality/)  
+   Link: <a href="https://thedo.osteopathic.org/2015/10/full-moon-madness-in-the-er-myth-or-reality/" target="_blank" rel="noopener noreferrer nofollow">https://thedo.osteopathic.org/2015/10/full-moon-madness-in-the-er-myth-or-reality/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The DO27 Oct 2015 — Does the full moon really correlate to a rise in emergency room visits? Anecdotal evidence may say yes, but so far re...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: rmg.co.uk  
-   Link: [https://www.rmg.co.uk/stories/space-astronomy/can-moon-affect-our-health-behaviour](https://www.rmg.co.uk/stories/space-astronomy/can-moon-affect-our-health-behaviour)  
+   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/can-moon-affect-our-health-behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/can-moon-affect-our-health-behaviour</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museums GreenwichCan the Moon affect our health and behaviour?“Convincing scientific evidence that the Moon affects human biology o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/biases](https://thedecisionlab.com/biases)  
+   Link: <a href="https://thedecisionlab.com/biases" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Cognitive Biases and HeuristicsAvailability Heuristic. Why do we tend to think that things that happened... Confirmation Bias. W...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Availability heuristic  
-   Link: [https://en.wikipedia.org/wiki/Availability_heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Availability_heuristic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Availability_heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability heuristicThe availability heuristic, also known as availability bias, is a mental shortcut that relies on immediate examp...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thedo.osteopathic.org  
-   Link: [https://thedo.osteopathic.org/2021/01/is-the-er-really-any-wilder-during-a-full-moon-dos-weigh-in/](https://thedo.osteopathic.org/2021/01/is-the-er-really-any-wilder-during-a-full-moon-dos-weigh-in/)  
+   Link: <a href="https://thedo.osteopathic.org/2021/01/is-the-er-really-any-wilder-during-a-full-moon-dos-weigh-in/" target="_blank" rel="noopener noreferrer nofollow">https://thedo.osteopathic.org/2021/01/is-the-er-really-any-wilder-during-a-full-moon-dos-weigh-in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the ER really any wilder during a full moon? DOs weigh in27 Jan 2021 — Multiple studies have found no direct correlation between the full...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: betterup.com  
    Title: the availability heuristic  
-   Link: [https://www.betterup.com/blog/the-availability-heuristic](https://www.betterup.com/blog/the-availability-heuristic)  
+   Link: <a href="https://www.betterup.com/blog/the-availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://www.betterup.com/blog/the-availability-heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, plane crashes can make people afraid of flying.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: faculty.washington.edu  
-   Link: [https://faculty.washington.edu/chudler/moon.html](https://faculty.washington.edu/chudler/moon.html)  
+   Link: <a href="https://faculty.washington.edu/chudler/moon.html" target="_blank" rel="noopener noreferrer nofollow">https://faculty.washington.edu/chudler/moon.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for Kids - The Full MoonPopular legend has it that the full moon brings out the worst in people: more violence, more suicides, more accid...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: simplypsychology.org  
    Title: availability heuristic  
-   Link: [https://www.simplypsychology.org/availability-heuristic.html](https://www.simplypsychology.org/availability-heuristic.html)  
+   Link: <a href="https://www.simplypsychology.org/availability-heuristic.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/availability-heuristic.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Decision Making10 Jul 2023 — The availability heuristic is a mental shortcut where individuals judge the likelihood of an event based...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/275070019_Effects_of_Full-Moon_Definition_on_Psychiatric_Emergency_Department_Presentations](https://www.researchgate.net/publication/275070019_Effects_of_Full-Moon_Definition_on_Psychiatric_Emergency_Department_Presentations)  
+   Link: <a href="https://www.researchgate.net/publication/275070019_Effects_of_Full-Moon_Definition_on_Psychiatric_Emergency_Department_Presentations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/275070019_Effects_of_Full-Moon_Definition_on_Psychiatric_Emergency_Department_Presentations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Full-Moon Definition on Psychiatric Emergency...6 Jul 2015 — The lunar cycle is believed to be related to psychiatric episode...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/tipofmytongue/comments/17j6c23/tomtword_the_name_for_the_cognitive_bias_where/](https://www.reddit.com/r/tipofmytongue/comments/17j6c23/tomtword_the_name_for_the_cognitive_bias_where/)  
+   Link: <a href="https://www.reddit.com/r/tipofmytongue/comments/17j6c23/tomtword_the_name_for_the_cognitive_bias_where/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/tipofmytongue/comments/17j6c23/tomtword_the_name_for_the_cognitive_bias_where/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[TOMT][WORD] The name for the cognitive bias where you...YSK about the &quot;Frequency Illusion&quot; (or Baader-Meinhof phenomenon): the reason w...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/56556028/myth-42-psychiatric-hospital-admissions-and-crimes-increase-during-full-moons-flash-cards/](https://quizlet.com/56556028/myth-42-psychiatric-hospital-admissions-and-crimes-increase-during-full-moons-flash-cards/)  
+   Link: <a href="https://quizlet.com/56556028/myth-42-psychiatric-hospital-admissions-and-crimes-increase-during-full-moons-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/56556028/myth-42-psychiatric-hospital-admissions-and-crimes-increase-during-full-moons-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the lunar effect - notion that the full moon is tied to myriad strange occurrences... Meta-analysis technique to review the effects of t...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ovid.com  
    Title: cmaj.051119~bad moon rising the persistent belief in lunar connections  
-   Link: [https://www.ovid.com/journals/cmaj/pdf/10.1503/cmaj.051119~bad-moon-rising-the-persistent-belief-in-lunar-connections](https://www.ovid.com/journals/cmaj/pdf/10.1503/cmaj.051119~bad-moon-rising-the-persistent-belief-in-lunar-connections)  
+   Link: <a href="https://www.ovid.com/journals/cmaj/pdf/10.1503/cmaj.051119~bad-moon-rising-the-persistent-belief-in-lunar-connections" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/cmaj/pdf/10.1503/cmaj.051119~bad-moon-rising-the-persistent-belief-in-lunar-connections</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the persistent belief in lunar connections to madnessby A Iosif · 2005 · Cited by 58 — It must be a full moon!” The belief that the moon...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: communicatingpsychologicalscience.com  
-   Link: [https://www.communicatingpsychologicalscience.com/blog/misconceptions-the-effect-of-the-full-moon-m7hft](https://www.communicatingpsychologicalscience.com/blog/misconceptions-the-effect-of-the-full-moon-m7hft)  
+   Link: <a href="https://www.communicatingpsychologicalscience.com/blog/misconceptions-the-effect-of-the-full-moon-m7hft" target="_blank" rel="noopener noreferrer nofollow">https://www.communicatingpsychologicalscience.com/blog/misconceptions-the-effect-of-the-full-moon-m7hft</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Full moons are said to bring about some quite unexpected happenings in hospitals, with many...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: theleadershipsphere.com.au  
    Title: availability heuristic the cognitive bias that will hold you back  
-   Link: [https://theleadershipsphere.com.au/insights/availability-heuristic-the-cognitive-bias-that-will-hold-you-back/](https://theleadershipsphere.com.au/insights/availability-heuristic-the-cognitive-bias-that-will-hold-you-back/)  
+   Link: <a href="https://theleadershipsphere.com.au/insights/availability-heuristic-the-cognitive-bias-that-will-hold-you-back/" target="_blank" rel="noopener noreferrer nofollow">https://theleadershipsphere.com.au/insights/availability-heuristic-the-cognitive-bias-that-will-hold-you-back/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability Heuristic: The Cognitive Bias that will Hold You...21 Nov 2023 — The availability heuristic in decision making is particula...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: esa.act.gov.au  
-   Link: [https://esa.act.gov.au/](https://esa.act.gov.au/)  
+   Link: <a href="https://esa.act.gov.au/" target="_blank" rel="noopener noreferrer nofollow">https://esa.act.gov.au/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>act.gov.au| ACT Emergency Services AgencyThe Live Incidents Map is a free tool we&#x27;ve made available to provide a visual overview of activ...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: nhw.com.au  
-   Link: [https://nhw.com.au/reporting-crime/is-there-a-link-between-a-full-moon-and-crime/](https://nhw.com.au/reporting-crime/is-there-a-link-between-a-full-moon-and-crime/)  
+   Link: <a href="https://nhw.com.au/reporting-crime/is-there-a-link-between-a-full-moon-and-crime/" target="_blank" rel="noopener noreferrer nofollow">https://nhw.com.au/reporting-crime/is-there-a-link-between-a-full-moon-and-crime/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>But they did find the intensity of moonlight to have a substantive positive...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: newsroom.ucla.edu  
    Title: stop blaming the moon says ucla scientist  
-   Link: [https://newsroom.ucla.edu/releases/stop-blaming-the-moon-says-ucla-scientist](https://newsroom.ucla.edu/releases/stop-blaming-the-moon-says-ucla-scientist)  
+   Link: <a href="https://newsroom.ucla.edu/releases/stop-blaming-the-moon-says-ucla-scientist" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.ucla.edu/releases/stop-blaming-the-moon-says-ucla-scientist</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>blaming the moon, says UCLA scientist30 Mar 2015 — The moon does not influence the [timing](&amp;#123;&amp;#123; &#x27;timing/&#x27; | relative_url &amp;#125;&amp;#125;) of human births or hospital admissions, a new U...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MensaSask/posts/these-claims-about-the-full-moon-influencing-behaviour-are-myths-its-worth-readi/626552429471788/](https://www.facebook.com/MensaSask/posts/these-claims-about-the-full-moon-influencing-behaviour-are-myths-its-worth-readi/626552429471788/)  
+   Link: <a href="https://www.facebook.com/MensaSask/posts/these-claims-about-the-full-moon-influencing-behaviour-are-myths-its-worth-readi/626552429471788/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MensaSask/posts/these-claims-about-the-full-moon-influencing-behaviour-are-myths-its-worth-readi/626552429471788/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>h reading the post to understand why people continue to believe...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_prebunking_resists_m_940210
 - Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_replacement_story_co_aa57e6
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - fact-checks
 - mutation
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - fact-checks
 - mutation
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A corrected myth can survive by changing examples, wording, screenshots, or messengers while keeping the same underlying story.
 hero_summary: A corrected myth can survive by changing examples, wording, screenshots, or messengers while keeping the same underlying story.
 layout: default
 permalink: /mutation/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /fact-checks/
 nav_short_title: Mutation
 title: How Myths Survive After Being Debunked
-title_full: How Myths Survive After Being Debunked | Fact Checks
+title_full: How Myths Survive After Being Debunked
 display_title_short: Mutation
 display_title: Mutation
 heading_title: How Myths Survive After Being Debunked
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Fact Checking Is Not Enough | Mythcraft
+parent_title: Why Fact Checking Is Not Enough
 parent_permalink: /fact-checks/
 parent_nav_short_title: Fact Checks
 parent_heading_title: Why Fact Checking Is Not Enough
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why Myths Move Faster Than Corrections
 up_link:
   basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
@@ -265,7 +265,7 @@ next_link:
   permalink: /platforms/
   short_title: Platforms
   heading_title: When Platforms Reward Myths Over Accuracy
-date: '2026-06-09 04:42:50 '
+date: '2026-06-11 22:11:02 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_mutation_after_a74fca-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_mutation_after_a74fca-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_my
 
 ## Introduction
 
-A common assumption about [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) is that once a false claim has been fact-checked, the problem is solved. In practice, many myths survive because they are not a single claim but a flexible story pattern. When one version is disproved, another version appears with different examples, different wording, a new image, a new spokesperson, or a new event attached to the same underlying narrative. Research on misinformation repeatedly finds that fact-checks are often effective against the specific claim they address, yet broader beliefs and narrative frames can persist or reappear in altered forms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectDebunking “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 21 — We find that exposure to fake ne...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">continued influence effect of misinformation. Memory Cogn.Read more</span><span class="citation-popover-snippet">NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — Misinformation and its correcti...</span></span></span> This mutation process helps explain why fact-checking remains necessary but is often insufficient on its own. The challenge is not merely correcting one false statement. It is recognising when the same story keeps returning in new disguises.
-
+A common assumption about myths and misconceptions is that once a false claim has been fact-checked, the problem is solved. In practice, many myths survive because they are not a single claim but a flexible story pattern. When one version is disproved, another version appears with different examples, different wording, a new image, a new spokesperson, or a new event attached to the same underlying narrative. Research on misinformation repeatedly finds that fact-checks are often effective against the specific claim they address, yet broader beliefs and narrative frames can persist or reappear in altered forms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Debunking “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 21 — We find that exposure to fake ne...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">continued influence effect of misinformation. Memory Cogn.Read more</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — Misinformation and its correcti...</span></span></span> This mutation process helps explain why fact-checking remains necessary but is often insufficient on its own. The challenge is not merely correcting one false statement. It is recognising when the same story keeps returning in new disguises.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_mutation_after_a74fca-Illustration-1-dark.svg" | relative_url }}" alt="Mutation illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_mutation_after_a74fca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_mutation_after_a74fca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Single-Claim Corrections Have Limits
@@ -284,25 +283,22 @@ Most fact-checks are designed to answer a narrow question: Did a particular stat
 
 A misleading narrative may contain many interchangeable parts. If one photograph is shown to be unrelated to an event, another photograph can be substituted. If one expert cited by the myth loses credibility, a different spokesperson can be presented. If a specific prediction fails, the prediction can be revised while preserving the broader claim that some hidden threat or conspiracy exists.
 
-Experimental research suggests that fact-checking tends to have its strongest effects on the exact misinformation item being corrected, whereas broader skills such as [media literacy]({{ 'media-literacy/' | relative_url }}) can help people evaluate unfamiliar claims they have not previously seen. This distinction matters because myths frequently evolve faster than individual [corrections]({{ 'corrections/' | relative_url }}) can be produced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectDebunking “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 21 — We find that exposure to fake ne...</span></span></span>
+Experimental research suggests that fact-checking tends to have its strongest effects on the exact misinformation item being corrected, whereas broader skills such as [media literacy]({{ 'media-literacy/' | relative_url }}) can help people evaluate unfamiliar claims they have not previously seen. This distinction matters because myths frequently evolve faster than individual [corrections]({{ 'corrections/' | relative_url }}) can be produced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Debunking “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 21 — We find that exposure to fake ne...</span></span></span>
 
 The result is a mismatch between how myths spread and how corrections are often organised. A myth behaves like a family of related claims; a fact-check usually addresses only one family member.
 
 ### The Narrative Survives Even When the Example Fails
 
-Psychological research on the [continued influence]({{ 'old-stories/' | relative_url }}) effect helps explain why this happens. People often remember the general story or implication of misinformation even after accepting that a particular detail was wrong. The original narrative can continue to shape reasoning, [memory]({{ 'memory/' | relative_url }}), and judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">continued influence effect of misinformation. Memory Cogn.Read more</span><span class="citation-popover-snippet">NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — Misinformation and its correcti...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sheffield.ac.uk/sites/default/files/2022-04/2107.12303.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sheffield.ac.uk">[PubMed For example]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sheffield.ac.uk</span><span class="citation-popover-snippet">PubMedMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s memory...</span></span></span>, someone may accept that a specific viral image was mislabelled while still retaining the broader belief that the image seemed to support. In that situation, a future misleading image can be slotted into the same mental framework. The factual details have changed, but the narrative structure remains intact.
+Psychological research on the continued influence effect helps explain why this happens. People often remember the general story or implication of misinformation even after accepting that a particular detail was wrong. The original narrative can continue to shape reasoning, [memory]({{ 'memory/' | relative_url }}), and judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">continued influence effect of misinformation. Memory Cogn.Read more</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — Misinformation and its correcti...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sheffield.ac.uk/sites/default/files/2022-04/2107.12303.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sheffield.ac.uk">[PubMed For example]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sheffield.ac.uk</span><span class="citation-popover-snippet">PubMedMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s memory...</span></span></span>, someone may accept that a specific viral image was mislabelled while still retaining the broader belief that the image seemed to support. In that situation, a future misleading image can be slotted into the same mental framework. The factual details have changed, but the narrative structure remains intact.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b3NRxoJQqWQ" title="The Road More Traveled: How Misinformation Spreads | News Over Noise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b3NRxoJQqWQ" target="_blank" rel="noopener noreferrer">The Road More Traveled: How Misinformation Spreads | News Over Noise</a></p><p class="youtube-embed-meta">Channel: wpsu &middot; Views: 233 &middot; Uploaded: January 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b3NRxoJQqWQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b3NRxoJQqWQ">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_mutation_after_a74fca-Illustration-3-dark.svg" | relative_url }}" alt="Mutation illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_mutation_after_a74fca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_mutation_after_a74fca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Myths Adapt to New Events
 
 Myth mutation is often easiest to see during major news events. A recurring narrative may attach itself to whichever crisis, election, public health issue, or social controversy is currently receiving attention.
 
-Researchers studying COVID-19 misinformation found that many false narratives were repeatedly debunked across countries, languages, platforms, and formats. Similar stories continued circulating months after earlier versions had already been corrected. Rather than disappearing, the narratives re-emerged with local examples, translated wording, or modified presentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sheffield.ac.uk/sites/default/files/2022-04/2107.12303.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sheffield.ac.uk">[Sheffield University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sheffield.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Researchers studying COVID-19 misinformation found that many false narratives were repeatedly debunked across countries, languages, [platforms]({{ 'platforms/' | relative_url }}), and formats. Similar stories continued circulating months after earlier versions had already been corrected. Rather than disappearing, the narratives re-emerged with local examples, translated wording, or modified presentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sheffield.ac.uk/sites/default/files/2022-04/2107.12303.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sheffield.ac.uk">[Sheffield University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sheffield.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Several adaptation strategies appear repeatedly:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,11 +312,10 @@ Several adaptation strategies appear repeatedly:
 
 These changes can make a myth appear novel even when its core message has remained largely unchanged.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_mutation_after_a74fca-Illustration-2-dark.svg" | relative_url }}" alt="Mutation illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_mutation_after_a74fca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_mutation_after_a74fca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Mutation Is Efficient
 
-Creating a modified version of a myth is often easier than producing a new fact-check. Researchers and practitioners frequently note that misinformation systems benefit from speed, volume, and adaptability, while verification requires evidence gathering, contextualisation, and careful explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8156576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby D Caled · 2021 · Cited by 241 — This review discusses the dynamic mechanisms of misinformation creation and spreading used in socia...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</span></span></span>
+Creating a modified version of a myth is often easier than producing a new fact-check. Researchers and practitioners frequently note that misinformation systems benefit from speed, volume, and adaptability, while verification requires evidence gathering, contextualisation, and careful explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8156576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by D Caled · 2021 · Cited by 241 — This review discusses the dynamic mechanisms of misinformation creation and spreading used in socia...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</span></span></span>
 
 Because of this imbalance, debunkers may find themselves repeatedly addressing different versions of essentially the same story. The surface details change, but the underlying narrative remains recognisable.
 
@@ -329,7 +324,6 @@ Because of this imbalance, debunkers may find themselves repeatedly addressing d
 One way to understand myth mutation is to stop focusing only on the specific claim and ask what larger story the claim is trying to tell.
 
 Consider these questions:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -345,26 +339,19 @@ These questions shift attention from the individual claim to the narrative templ
 
 For instance, a recurring myth may repeatedly suggest that authorities are hiding information. The supporting evidence can change dozens of times over the years. One document, one leaked image, one quotation, or one statistic may be disproved, yet the central allegation remains unchanged. In such cases, the real unit of analysis is not the individual claim but the recurring accusation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cSKGa_7XJkg" title="How false news can spread - Noah Tavlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer">How false news can spread - Noah Tavlin</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cSKGa_7XJkg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b3NRxoJQqWQ" title="The Road More Traveled: How Misinformation Spreads | News Over Noise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b3NRxoJQqWQ" target="_blank" rel="noopener noreferrer">The Road More Traveled: How Misinformation Spreads | News Over Noise</a></p><p class="youtube-embed-meta">Channel: wpsu &middot; Views: 233 &middot; Uploaded: January 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b3NRxoJQqWQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b3NRxoJQqWQ">Open on YouTube</a></p></div></div></div>
 
 ### Looking for Patterns Instead of Isolated Errors
 
 This perspective has influenced growing interest in approaches such as prebunking and inoculation-based interventions, which focus on teaching people to recognise common manipulation techniques and recurring narrative patterns before they encounter specific examples. The idea is that resistance can be built against the underlying tactic rather than only against individual claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://futurefreespeech.org/wp-content/uploads/2024/01/Empowering-Audiences-Through-%E2%80%98Prebunking-Michael-Bang-Petersen-Background-Report_formatted.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futurefreespeech.org">[The Future of Free Speech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futurefreespeech.org</span><span class="citation-popover-title">The Future of Free Speech Against Misinformation Through &#x27;Prebunking</span><span class="citation-popover-snippet">The Future of Free SpeechAgainst Misinformation Through &#x27;Prebunking&#x27;January 29, 2024 — 29 Jan 2024 — The distinction between misinformati...</span><span class="citation-popover-meta">Published: January 29, 2024</span></span></span> ResearchGate The logic mirrors disease prevention more than emergency treatment. Instead of waiting for each mutation to appear <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/370704879_Prebunking_Against_Misinformation_in_the_Modern_Digital_Age" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Prebunking Against Misinformation in the Modern Digital AgeIn this chapter, we provide an overview of a long-term strategy for tackling m...</span></span></span>, the goal is to recognise the mechanism that generates the mutations.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N4ggI2MaWT8" title="How Does Digital Literacy Combat Misinformation In Education? - Gen Alpha Adventures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N4ggI2MaWT8" target="_blank" rel="noopener noreferrer">How Does Digital Literacy Combat Misinformation In Education? - Gen Alpha Adventures</a></p><p class="youtube-embed-meta">Channel: Gen Alpha Adventures</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N4ggI2MaWT8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N4ggI2MaWT8">Open on YouTube</a></p></div></div></div>
-
 ## Why This Matters for Understanding Myths
 
-The persistence of myths is often misunderstood as evidence that fact-checking does not work. The evidence does not support that conclusion. Fact-checks can reduce belief in false claims and limit their spread. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cepr.org">[CEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cepr.org</span><span class="citation-popover-snippet">CEPRFact-checking reduces the circulation of misinformationby J Cage — Fact-checking has emerged as one of the most prominent policy tool...</span></span></span>
+The persistence of myths is often misunderstood as evidence that fact-checking does not work. The evidence does not support that conclusion. Fact-checks can reduce belief in false claims and limit their spread. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cepr.org">[CEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cepr.org</span><span class="citation-popover-snippet">Fact-checking reduces the circulation of misinformationby J Cage — Fact-checking has emerged as one of the most prominent policy tool...</span></span></span>
 
 The deeper problem is that many myths are not fixed statements. They are adaptable narratives capable of producing an endless series of related claims. A [correction]({{ 'correction/' | relative_url }}) may successfully remove one branch while leaving the trunk intact.
 
 Understanding myth mutation changes the question from “Was this claim debunked?” to “What story keeps generating claims like this?” Once that recurring story becomes visible, it is easier to see why myths can survive long after individual versions have been shown to be false.
-
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_mutation_after_a74fca-Illustration-3-dark.svg" | relative_url }}" alt="Mutation illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_mutation_after_a74fca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_myth_mutation_after_a74fca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -483,15 +470,15 @@ Understanding myth mutation changes the question from “Was this claim debunked
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nct 127 Fact Check And Sticker Photocards"><img src="{{ '/assets/images/marketplace-covers/e19779c1afa40b68544f.jpg' | relative_url }}" alt="Listing image for Nct 127 Fact Check And Sticker Photocards" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-myths-survive-after-being-debunked-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-myths-survive-after-being-debunked-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TITIKEI by IshiKei Paperback Self Help Business"><img src="https://i.ebayimg.com/images/g/X5YAAeSw~F1qEbNR/s-l225.jpg" alt="Listing image for TITIKEI by IshiKei Paperback Self Help Business" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">Nct 127 Fact Check And Sticker Photocards</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-myths-survive-after-being-debunked-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-myths-survive-after-being-debunked-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">TITIKEI by IshiKei Paperback Self Help Business</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-myths-survive-after-being-debunked-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-myths-survive-after-being-debunked-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-myths-survive-after-being-debunked-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-myths-survive-after-being-debunked-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,47 +486,15 @@ Understanding myth mutation changes the question from “Was this claim debunked
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 - FACT CHECK (5th Album) with postcards &amp; stickers - FREEPOST KPOP"><img src="{{ '/assets/images/marketplace-covers/e84b72c3b91ba67d8d97.jpg' | relative_url }}" alt="Listing image for NCT 127 - FACT CHECK (5th Album) with postcards &amp; stickers - FREEPOST KPOP" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-myths-survive-after-being-debunked-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-myths-survive-after-being-debunked-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6"><img src="https://i.ebayimg.com/images/g/vkgAAeSwna5oZGvr/s-l225.jpg" alt="Listing image for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 - FACT CHECK (5th Album) with postcards &amp; stickers - FREEPOST KPOP</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-myths-survive-after-being-debunked-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-myths-survive-after-being-debunked-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-myths-survive-after-being-debunked-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-myths-survive-after-being-debunked-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Taeyong Fact Check Official Sticker"><img src="{{ '/assets/images/marketplace-covers/74937a61ca50bbfbb460.jpg' | relative_url }}" alt="Listing image for NCT 127 Taeyong Fact Check Official Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Taeyong Fact Check Official Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NCT 127 Fact Check 5th Album YUTA JAEHYUN JUNGWON Sticker Nemo Smart Ver."><img src="{{ '/assets/images/marketplace-covers/459aa028ae0dfac1d68c.jpg' | relative_url }}" alt="Listing image for NCT 127 Fact Check 5th Album YUTA JAEHYUN JUNGWON Sticker Nemo Smart Ver." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">NCT 127 Fact Check 5th Album YUTA JAEHYUN JUNGWON Sticker Nemo Smart Ver.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fact check sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fact check sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-myths-survive-after-being-debunked-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-myths-survive-after-being-debunked-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,7 +502,7 @@ Understanding myth mutation changes the question from “Was this claim debunked
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fact+check+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fact check sticker" data-ebay-reference="mutation-how-myths-survive-after-being-debunked-myths-and-misconcept-fact-check-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-myths-survive-after-being-debunked-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="how-myths-survive-after-being-debunked-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -762,49 +717,49 @@ Understanding myth mutation changes the question from “Was this claim debunked
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S004727272500043X](https://www.sciencedirect.com/science/article/pii/S004727272500043X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectDebunking “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 21 — We find that exposure to fake ne...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “[fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;)” on social media: Immediate and...by LM Berger · 2025 · Cited by 21 — We find that exposure to fake ne...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
    Title: continued influence effect of misinformation. Memory Cogn.Read more  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — Misinformation and its correcti...</p></details>
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — Misinformation and its correcti...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8156576/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8156576/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby D Caled · 2021 · Cited by 241 — This review discusses the dynamic mechanisms of misinformation creation and spreading used in socia...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8156576/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8156576/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by D Caled · 2021 · Cited by 241 — This review discusses the dynamic mechanisms of misinformation creation and spreading used in socia...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/370704879_Prebunking_Against_Misinformation_in_the_Modern_Digital_Age](https://www.researchgate.net/publication/370704879_Prebunking_Against_Misinformation_in_the_Modern_Digital_Age)  
+   Link: <a href="https://www.researchgate.net/publication/370704879_Prebunking_Against_Misinformation_in_the_Modern_Digital_Age" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370704879_Prebunking_Against_Misinformation_in_the_Modern_Digital_Age</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking Against Misinformation in the Modern Digital AgeIn this chapter, we provide an overview of a long-term strategy for tackling m...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cepr.org  
-   Link: [https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it](https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CEPRFact-checking reduces the circulation of misinformationby J Cage — Fact-checking has emerged as one of the most prominent policy tool...</p></details>
+   Link: <a href="https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking reduces the circulation of misinformationby J Cage — Fact-checking has emerged as one of the most prominent policy tool...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing](https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing)  
+   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ety, both inadvertently and purposely.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sheffield.ac.uk  
-   Link: [https://sheffield.ac.uk/sites/default/files/2022-04/2107.12303.pdf](https://sheffield.ac.uk/sites/default/files/2022-04/2107.12303.pdf)  
+   Link: <a href="https://sheffield.ac.uk/sites/default/files/2022-04/2107.12303.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sheffield.ac.uk/sites/default/files/2022-04/2107.12303.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: [https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide](https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide)  
+   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: futurefreespeech.org  
    Title: The Future of Free Speech Against Misinformation Through 'Prebunking'  
-   Link: [https://futurefreespeech.org/wp-content/uploads/2024/01/Empowering-Audiences-Through-%E2%80%98Prebunking-Michael-Bang-Petersen-Background-Report_formatted.pdf](https://futurefreespeech.org/wp-content/uploads/2024/01/Empowering-Audiences-Through-%E2%80%98Prebunking-Michael-Bang-Petersen-Background-Report_formatted.pdf)  
+   Link: <a href="https://futurefreespeech.org/wp-content/uploads/2024/01/Empowering-Audiences-Through-%E2%80%98Prebunking-Michael-Bang-Petersen-Background-Report_formatted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://futurefreespeech.org/wp-content/uploads/2024/01/Empowering-Audiences-Through-%E2%80%98Prebunking-Michael-Bang-Petersen-Background-Report_formatted.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Future of Free SpeechAgainst Misinformation Through &#x27;Prebunking&#x27;January 29, 2024 — 29 Jan 2024 — The distinction between misinformati...</p></details>
    Published: January 29, 2024  
 
@@ -812,55 +767,55 @@ Understanding myth mutation changes the question from “Was this claim debunked
 
 10. <a id="endnote-10"></a>
    Source: rand.org  
-   Link: [https://www.rand.org/research/projects/truth-decay.html](https://www.rand.org/research/projects/truth-decay.html)  
+   Link: <a href="https://www.rand.org/research/projects/truth-decay.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/research/projects/truth-decay.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Truth DecayExplore Truth Decay by Topic · Commentary. Black Americans Aren&#x27;t Buying Election-Year Falsehoods. Here&#x27;s Why. · To...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: emc-lab.org  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire · Cited by 139 — Even after people receive clear and credible cor...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: stratcomcoe.org  
-   Link: [https://stratcomcoe.org/cuploads/pfiles/nato_stratcom_coe_fact-checking_and_debunking_02-02-2021-1.pdf](https://stratcomcoe.org/cuploads/pfiles/nato_stratcom_coe_fact-checking_and_debunking_02-02-2021-1.pdf)  
+   Link: <a href="https://stratcomcoe.org/cuploads/pfiles/nato_stratcom_coe_fact-checking_and_debunking_02-02-2021-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stratcomcoe.org/cuploads/pfiles/nato_stratcom_coe_fact-checking_and_debunking_02-02-2021-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FACT-CHECKING AND DEBUNKINGFor the purpose of this report, we do not use the term &#x27;fake news&#x27;. Instead, we differentiate between the term...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pure.uva.nl  
-   Link: [https://pure.uva.nl/ws/files/53364424/Rogers_Niederer_9789048551675.pdf](https://pure.uva.nl/ws/files/53364424/Rogers_Niederer_9789048551675.pdf)  
+   Link: <a href="https://pure.uva.nl/ws/files/53364424/Rogers_Niederer_9789048551675.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/53364424/Rogers_Niederer_9789048551675.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Politics](&amp;#123;&amp;#123; &#x27;politics/&#x27; | relative_url &amp;#125;&amp;#125;) of Social Media ManipulationAs mentioned above, fact-checks and fake news often have separate publics... to combat disinformati...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: journals.sagepub.com  
    Title: These recommendations pertain to the ways in which corrections should b  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/1529100612451018](https://journals.sagepub.com/doi/abs/10.1177/1529100612451018)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612451018</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We conclude by providing specific recommendation...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: [https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308](https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308)  
+   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mit.eduStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: usher.ed.ac.uk  
    Title: ed.ac.uk False and Misleading Information: An Evidence  
-   Link: [https://usher.ed.ac.uk/sites/default/files/2026-05/False%20and%20Misleading%20Information%3A%20An%20Evidence%20Summary%20and%20Map%20for%20Policy%20and%20Practice%20.pdf](https://usher.ed.ac.uk/sites/default/files/2026-05/False%20and%20Misleading%20Information%3A%20An%20Evidence%20Summary%20and%20Map%20for%20Policy%20and%20Practice%20.pdf)  
+   Link: <a href="https://usher.ed.ac.uk/sites/default/files/2026-05/False%20and%20Misleading%20Information%3A%20An%20Evidence%20Summary%20and%20Map%20for%20Policy%20and%20Practice%20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://usher.ed.ac.uk/sites/default/files/2026-05/False%20and%20Misleading%20Information%3A%20An%20Evidence%20Summary%20and%20Map%20for%20Policy%20and%20Practice%20.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Misleading Information: An Evidence Summary and...7 May 2026 — These include widely used terms such as misinformation, disinformatio...</p></details>
    Published: May 2026  
 
 17. <a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26173286/](https://pubmed.ncbi.nlm.nih.gov/26173286/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s memory...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173286/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s memory...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: tandfonline.com  
    Title: What Is the Problem with Misinformation?  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2357316](https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2357316)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2357316" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2357316</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking as...by O Westlund · 2024 · Cited by 45 — misinformation · disinformation‌ · sociotechnical · platforms · problem-solving...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/01461672251411571](https://journals.sagepub.com/doi/10.1177/01461672251411571)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/01461672251411571" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672251411571</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Effects of Prebunking Versus [Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) on Trust in...31 Jan 2026 — In our article, prebunking refers simply to refuting...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_personal_experience_bd112b_timing_vs_cause_444a87
 - Myths_and_misconcept_0d48d7_personal_experience_bd112b_using_stories_well_99349c
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - anecdotes
 - safety-reports
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - anecdotes
 - safety-reports
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Safety reports can reveal warning signals, but raw reports cannot prove that a vaccine or drug caused an event.
 hero_summary: Safety reports can reveal warning signals, but raw reports cannot prove that a vaccine or drug caused an event.
 layout: default
 permalink: /safety-reports/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /anecdotes/
 nav_short_title: Safety reports
 title: What safety reports can and cannot prove
-title_full: What safety reports can and cannot prove | Anecdotes
+title_full: What safety reports can and cannot prove
 display_title_short: Safety reports
 display_title: Safety reports
 heading_title: What safety reports can and cannot prove
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Personal Experience Becomes a Myth | Mythcraft
+parent_title: When Personal Experience Becomes a Myth
 parent_permalink: /anecdotes/
 parent_nav_short_title: Anecdotes
 parent_heading_title: When Personal Experience Becomes a Myth
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Did it work, or did time pass?
 up_link:
   basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
@@ -265,7 +265,7 @@ next_link:
   permalink: /small-samples/
   short_title: Small samples
   heading_title: When a handful of cases looks like proof
-date: '2026-06-09 04:54:05 '
+date: '2026-06-11 22:16:28 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_adverse_event_report_5eebde-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_adverse_event_report_5eebde-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_adv
 
 Adverse-event reporting systems are often misunderstood because they collect stories of things that happened after a drug or vaccine was used. To many people, a report seems like evidence that the product caused the outcome. In reality, these systems are designed to cast a very wide net. They record possible safety concerns so that experts can investigate them later. A report can show that two events occurred in sequence; it does not, by itself, show that one caused the other. Public-health agencies, regulators and researchers repeatedly warn that raw reports are a starting point for investigation, not a verdict on causation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Establishing a causal relationship requires rigorous...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/data/dataguide.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[VAERS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-title">VAERSGuide to Interpreting VAERS Data</span><span class="citation-popover-snippet">HHS.gov8 May 2025 — When reviewing data from VAERS, please keep in mind the following limitations: VAERS is a passive reporting system, m...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_adverse_event_report_5eebde-Illustration-1-dark.svg" | relative_url }}" alt="Safety reports illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_adverse_event_report_5eebde-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_adverse_event_report_5eebde-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because misconceptions often arise when individual reports are treated as proof. A dramatic case can feel more persuasive than statistical evidence, especially when the event is serious or emotionally charged. The result is a common error: turning a surveillance signal into a causal claim before the evidence has been examined.
 
@@ -284,7 +283,7 @@ This distinction matters because misconceptions often arise when individual repo
 
 The key misunderstanding is the difference between a temporal association and a causal relationship.
 
-An adverse-event report typically records that a health event happened after a medicine or vaccine was given. However, many illnesses, injuries and deaths occur every day in large populations regardless of medical treatment. Some of those events will inevitably happen shortly after vaccination or medication use simply by chance. Reporting systems are designed to capture those events rather than filtering them out at the reporting stage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/public-health/services/immunization/reporting-adverse-events-following-immunization.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">CanadaAdverse events following immunization (AEFI) reporting form22 Apr 2025 — A causal relationship does not need to be proven, and subm...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X15016382" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">An approach to death as an adverse event following...by MS Gold · 2016 · Cited by 32 — An adverse event following immunization (AEFI) is...</span></span></span>
+An adverse-event report typically records that a health event happened after a medicine or vaccine was given. However, many illnesses, injuries and deaths occur every day in large populations regardless of medical treatment. Some of those events will inevitably happen shortly after vaccination or medication use simply by chance. Reporting systems are designed to capture those events rather than filtering them out at the reporting stage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/public-health/services/immunization/reporting-adverse-events-following-immunization.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-snippet">Adverse events following immunization (AEFI) reporting form22 Apr 2025 — A causal relationship does not need to be proven, and subm...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X15016382" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">An approach to death as an adverse event following...by MS Gold · 2016 · Cited by 32 — An adverse event following immunization (AEFI) is...</span></span></span>
 
 For this reason, agencies that run reporting databases explicitly state that a submitted report does not prove causation. The US Vaccine Adverse Event Reporting System (VAERS), for example, notes that its data alone cannot determine whether a vaccine caused a reported event. Establishing causation requires additional scientific investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/surv-manual/php/table-of-contents/chapter-21-vaers.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">chapter 21 vaers</span><span class="citation-popover-snippet">Reporting rates can provide context for AEs observed after vaccination. · Quality of information.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/faq.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[VAERS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-snippet">FAQs - HHS.govOne of the main limitations of VAERS data is that it cannot determine if the vaccine caused the reported adverse event. Thi...</span></span></span>
 
@@ -293,18 +292,15 @@ Several features of these databases make simple causal conclusions unreliable:
 * **Reports can be incomplete.** Early reports may lack medical records, laboratory findings or alternative explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[VAERS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-snippet">Adverse Event Reporting System (VAERS)VAERS is co-sponsored by the Centers for Disease Control and Prevention (CDC), and the Food and Dru...</span></span></span>
 * **Reporting is intentionally broad.** Healthcare professionals and members of the public are often encouraged to report significant events even when they are unsure whether the product was responsible. Canada <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/aefi/serious-aefi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationSerious AEFIAn adverse event following immunization (AEFI) is defined as any untoward medical occurrence followi...</span></span></span>
 * **Some events would have happened anyway.** A heart attack, stroke or death occurring after treatment does not automatically mean the treatment caused it. Investigators must compare observed events with expected background rates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaccinesafety.edu/monitoring-vaccine-safety/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaccinesafety.edu">[vaccinesafety.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaccinesafety.edu</span><span class="citation-popover-snippet">Monitoring Vaccine SafetyCausal relationships between vaccines and adverse events can be established by demonstrating an increased risk o...</span></span></span>
-* **Reports may contain errors or duplicates.** Large safety databases require extensive review because duplicate records and reporting inconsistencies can distort apparent totals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2504.03729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivA Scalable Predictive Modelling Approach to Identifying Duplicate Adverse Event Reports for Drugs and VaccinesMarch 31, 2025...</span><span class="citation-popover-meta">Published: March 31, 2025</span></span></span>
+* **Reports may contain errors or duplicates.** Large safety databases require extensive review because duplicate records and reporting inconsistencies can distort apparent totals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2504.03729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Scalable Predictive Modelling Approach to Identifying Duplicate Adverse Event Reports for Drugs and VaccinesMarch 31, 2025...</span><span class="citation-popover-meta">Published: March 31, 2025</span></span></span>
 
 The crucial point is that a report is evidence that a concern exists, not evidence that the concern has been confirmed.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b7NjSDwMBW0" title="The Risk of Death after Covid 19 Vaccination. Is this the Truth and What are the FACTS?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b7NjSDwMBW0" target="_blank" rel="noopener noreferrer">The Risk of Death after Covid 19 Vaccination. Is this the Truth and What are the FACTS?</a></p><p class="youtube-embed-meta">Channel: Doc Gerry Tan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b7NjSDwMBW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b7NjSDwMBW0">Open on YouTube</a></p></div></div></div>
 
 ## How safety systems look for signals
 
 Safety reporting systems are best understood as early-warning networks.
 
-Their purpose is to detect unusual patterns that might otherwise go unnoticed. If many reports describe a similar event after exposure to the same product, investigators may identify a potential signal worthy of further study. The signal is a hypothesis, not a conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X15016382" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">An approach to death as an adverse event following...by MS Gold · 2016 · Cited by 32 — An adverse event following immunization (AEFI) is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">VAERS data interpreted alone or out of context can</span><span class="citation-popover-snippet">PubMedSafety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 713 — Generally, VAERS data cannot...</span></span></span>
+Their purpose is to detect unusual patterns that might otherwise go unnoticed. If many reports describe a similar event after exposure to the same product, investigators may identify a potential signal worthy of further study. The signal is a hypothesis, not a conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X15016382" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">An approach to death as an adverse event following...by MS Gold · 2016 · Cited by 32 — An adverse event following immunization (AEFI) is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">VAERS data interpreted alone or out of context can</span><span class="citation-popover-snippet">Safety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 713 — Generally, VAERS data cannot...</span></span></span>
 
 Once a signal appears, researchers use other methods to test whether a real causal relationship exists. These methods can include:
 
@@ -318,7 +314,6 @@ The World Health Organization has developed formal causality-assessment framewor
 
 A useful way to think about reporting systems is that they are smoke detectors. A smoke alarm may indicate a fire, but the alarm itself is not proof that a fire exists. Someone still has to investigate.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_adverse_event_report_5eebde-Illustration-2-dark.svg" | relative_url }}" alt="Safety reports illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_adverse_event_report_5eebde-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_adverse_event_report_5eebde-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The mistake of counting reports as risk rates
 
@@ -326,36 +321,28 @@ One of the most common misconceptions is to treat the number of reports as the n
 
 This approach sounds intuitive but ignores how surveillance databases work. A raw count of reports lacks the information needed to calculate risk accurately. For example, a large number of reports may simply reflect the fact that millions of people received a treatment. Without knowing how many people were exposed and how often the same event occurs normally, the report count alone is difficult to interpret. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wonder.cdc.gov/wonder/help/vaers.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wonder.cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wonder.cdc.gov</span><span class="citation-popover-snippet">Adverse Events Reporting System (VAERS) HelpKey considerations and limitations of VAERS data: The number of reports alone cannot be inter...</span></span></span>
 
-Reporting behaviour also changes over time. [Media coverage]({{ 'media-coverage/' | relative_url }}), lawsuits, public concern and heightened awareness can increase reporting even when the underlying risk has not changed. Researchers refer to this as stimulated reporting. Passive reporting systems are also affected by under-reporting, meaning some events never enter the database at all. These factors make raw totals unsuitable as direct measures of risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4632204/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCSafety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 697 — Like all spontaneous public heal...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X15006209" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">VAERS data should be interpreted with caution. Limitations include reporting bias (e.g., underreporting and stimulated reporting)...Read...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11252891/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe reporting sensitivity of the Vaccine Adverse Event</span><span class="citation-popover-snippet">PMCby ER Miller · 2020 · Cited by 55 — Underreporting is a limitation common to passive surveillance systems, including the Vaccine Adver...</span></span></span>
+Reporting behaviour also changes over time. [Media coverage]({{ 'media-coverage/' | relative_url }}), lawsuits, public concern and heightened awareness can increase reporting even when the underlying risk has not changed. Researchers refer to this as stimulated reporting. Passive reporting systems are also affected by under-reporting, meaning some events never enter the database at all. These factors make raw totals unsuitable as direct measures of risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4632204/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Safety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 697 — Like all spontaneous public heal...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X15006209" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">VAERS data should be interpreted with caution. Limitations include reporting bias (e.g., underreporting and stimulated reporting)...Read...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11252891/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe reporting sensitivity of the Vaccine Adverse Event</span><span class="citation-popover-snippet">by ER Miller · 2020 · Cited by 55 — Underreporting is a limitation common to passive surveillance systems, including the Vaccine Adver...</span></span></span>
 
-A simple example illustrates the problem. If ten million people receive a vaccine and one thousand adverse-event reports are submitted, that figure alone says little. Some reports may be unrelated coincidences, some may describe the same case, some may be incomplete, and many genuine events may never be reported. The number of reports therefore cannot be treated as a count of confirmed injuries or used as a reliable estimate of risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[VAERS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-snippet">HHS.gov8 May 2025 — The number of reports alone cannot be interpreted as evidence of a causal association between a vaccine and an advers...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8054210/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCImprovement in the Analysis of Vaccine Adverse Event</span><span class="citation-popover-snippet">PMCby L Zhao · 2020 · Cited by 13 — However, not all AEs are reported to VAERS. Therefore, there is a potential under-reporting bias in V...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UhEuDTiynU8" title="Morning News NOW Full Episode – June 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UhEuDTiynU8" target="_blank" rel="noopener noreferrer">Morning News NOW Full Episode – June 8</a></p><p class="youtube-embed-meta">Channel: NBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UhEuDTiynU8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UhEuDTiynU8">Open on YouTube</a></p></div></div></div>
+A simple example illustrates the problem. If ten million people receive a vaccine and one thousand adverse-event reports are submitted, that figure alone says little. Some reports may be unrelated coincidences, some may describe the same case, some may be incomplete, and many genuine events may never be reported. The number of reports therefore cannot be treated as a count of confirmed injuries or used as a reliable estimate of risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[VAERS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-snippet">HHS.gov8 May 2025 — The number of reports alone cannot be interpreted as evidence of a causal association between a vaccine and an advers...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8054210/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCImprovement in the Analysis of Vaccine Adverse Event</span><span class="citation-popover-snippet">by L Zhao · 2020 · Cited by 13 — However, not all AEs are reported to VAERS. Therefore, there is a potential under-reporting bias in V...</span></span></span>
 
 ## How reports become false proof in public debate
 
 The path from report to misconception is often straightforward.
 
-A person searches a public database, finds a large number of reports linked to a particular product, and concludes that the reports demonstrate harm. The apparent simplicity is appealing: if thousands of events were reported, surely the product caused thousands of events. Yet this skips the entire investigative process that the reporting system was built to support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Bloomberg School of Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-title">what vaers is and isnt</span><span class="citation-popover-snippet">Bloomberg School of Public HealthWhat VAERS Is (And Isn&#x27;t) | Johns Hopkins3 May 2022 — While VAERS cannot determine whether an adverse ev...</span><span class="citation-popover-meta">Published: May 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X15009822" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSafety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 713 — Generally, VAERS data...</span></span></span>
+A person searches a public database, finds a large number of reports linked to a particular product, and concludes that the reports demonstrate harm. The apparent simplicity is appealing: if thousands of events were reported, surely the product caused thousands of events. Yet this skips the entire investigative process that the reporting system was built to support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Bloomberg School of Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-title">what vaers is and isnt</span><span class="citation-popover-snippet">Bloomberg School of Public HealthWhat VAERS Is (And Isn&#x27;t) &#124; Johns Hopkins3 May 2022 — While VAERS cannot determine whether an adverse ev...</span><span class="citation-popover-meta">Published: May 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X15009822" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Safety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 713 — Generally, VAERS data...</span></span></span>
 
 This misunderstanding is especially powerful because reports resemble personal testimonies. They are concrete, emotional and memorable. A database containing thousands of such accounts can feel like overwhelming evidence even when the entries have not been verified as caused by the product. The emotional weight of the stories can overshadow the methodological limitations of the dataset.
 
-Public-health experts have repeatedly noted that misuse of raw adverse-event databases can generate misleading claims. The problem is not that the reports are worthless; the problem is treating preliminary surveillance data as if it were the final result of scientific investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Bloomberg School of Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-title">what vaers is and isnt</span><span class="citation-popover-snippet">Bloomberg School of Public HealthWhat VAERS Is (And Isn&#x27;t) | Johns Hopkins3 May 2022 — While VAERS cannot determine whether an adverse ev...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
-
+Public-health experts have repeatedly noted that misuse of raw adverse-event databases can generate misleading claims. The problem is not that the reports are worthless; the problem is treating preliminary surveillance data as if it were the final result of scientific investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Bloomberg School of Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-title">what vaers is and isnt</span><span class="citation-popover-snippet">Bloomberg School of Public HealthWhat VAERS Is (And Isn&#x27;t) &#124; Johns Hopkins3 May 2022 — While VAERS cannot determine whether an adverse ev...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_adverse_event_report_5eebde-Illustration-3-dark.svg" | relative_url }}" alt="Safety reports illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_adverse_event_report_5eebde-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b_adverse_event_report_5eebde-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What safety reports can and cannot prove
 
-Safety-report databases serve an essential role in modern pharmacovigilance, the monitoring of medicine and vaccine safety after approval. They can reveal unexpected patterns, identify rare problems and trigger investigations that lead to genuine discoveries. Several important safety issues have first emerged as reporting signals before being confirmed through further study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Bloomberg School of Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-title">what vaers is and isnt</span><span class="citation-popover-snippet">Bloomberg School of Public HealthWhat VAERS Is (And Isn&#x27;t) | Johns Hopkins3 May 2022 — While VAERS cannot determine whether an adverse ev...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+Safety-report databases serve an essential role in modern pharmacovigilance, the monitoring of medicine and vaccine safety after approval. They can reveal unexpected patterns, identify rare problems and trigger investigations that lead to genuine discoveries. Several important safety issues have first emerged as reporting signals before being confirmed through further study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Bloomberg School of Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-title">what vaers is and isnt</span><span class="citation-popover-snippet">Bloomberg School of Public HealthWhat VAERS Is (And Isn&#x27;t) &#124; Johns Hopkins3 May 2022 — While VAERS cannot determine whether an adverse ev...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 What they cannot do is transform every reported sequence into a demonstrated cause-and-effect relationship. A report can suggest a question. It cannot, by itself, answer that question.
 
 Understanding this distinction helps prevent a common misconception: confusing evidence that something deserves investigation with evidence that the case has already been proven. In safety surveillance, the report is the beginning of the inquiry, not the end. CDC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/aefi/serious-aefi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationSerious AEFIAn adverse event following immunization (AEFI) is defined as any untoward medical occurrence followi...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fht9MrGiR-U" title="Safety signal detection and analysis for COVID-19 vaccines at the Uppsala Monitoring Centre" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fht9MrGiR-U" target="_blank" rel="noopener noreferrer">Safety signal detection and analysis for COVID-19 vaccines at the Uppsala Monitoring Centre</a></p><p class="youtube-embed-meta">Channel: CoRE Duke-NUS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fht9MrGiR-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fht9MrGiR-U">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -753,239 +740,239 @@ Understanding this distinction helps prevent a common misconception: confusing e
 
 1. <a id="endnote-1"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/vaccine-safety-systems/vaers/index.html](https://www.cdc.gov/vaccine-safety-systems/vaers/index.html)  
+   Link: <a href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety-systems/vaers/index.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Establishing a causal relationship requires rigorous...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: canada.ca  
-   Link: [https://www.canada.ca/en/public-health/services/immunization/reporting-adverse-events-following-immunization.html](https://www.canada.ca/en/public-health/services/immunization/reporting-adverse-events-following-immunization.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CanadaAdverse events following immunization (AEFI) reporting form22 Apr 2025 — A causal relationship does not need to be proven, and subm...</p></details>
+   Link: <a href="https://www.canada.ca/en/public-health/services/immunization/reporting-adverse-events-following-immunization.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/public-health/services/immunization/reporting-adverse-events-following-immunization.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adverse events following immunization (AEFI) reporting form22 Apr 2025 — A causal relationship does not need to be proven, and subm...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0264410X15016382](https://www.sciencedirect.com/science/article/abs/pii/S0264410X15016382)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X15016382" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X15016382</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An approach to death as an adverse event following...by MS Gold · 2016 · Cited by 32 — An adverse event following immunization (AEFI) is...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: vaers.hhs.gov  
    Title: VAERSGuide to Interpreting VAERS Data  
-   Link: [https://vaers.hhs.gov/data/dataguide.html](https://vaers.hhs.gov/data/dataguide.html)  
+   Link: <a href="https://vaers.hhs.gov/data/dataguide.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/data/dataguide.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HHS.gov8 May 2025 — When reviewing data from VAERS, please keep in mind the following limitations: VAERS is a passive reporting system, m...</p></details>
    Published: May 2025  
 
 5. <a id="endnote-5"></a>
    Source: cdc.gov  
    Title: chapter 21 vaers  
-   Link: [https://www.cdc.gov/surv-manual/php/table-of-contents/chapter-21-vaers.html](https://www.cdc.gov/surv-manual/php/table-of-contents/chapter-21-vaers.html)  
+   Link: <a href="https://www.cdc.gov/surv-manual/php/table-of-contents/chapter-21-vaers.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/surv-manual/php/table-of-contents/chapter-21-vaers.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporting rates can provide context for AEs observed after vaccination. · Quality of information.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: vaccinesafety.edu  
-   Link: [https://www.vaccinesafety.edu/monitoring-vaccine-safety/](https://www.vaccinesafety.edu/monitoring-vaccine-safety/)  
+   Link: <a href="https://www.vaccinesafety.edu/monitoring-vaccine-safety/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaccinesafety.edu/monitoring-vaccine-safety/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring Vaccine SafetyCausal relationships between [vaccines](&amp;#123;&amp;#123; &#x27;vaccines/&#x27; | relative_url &amp;#125;&amp;#125;) and adverse events can be established by demonstrating an increased risk o...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2504.03729](https://arxiv.org/abs/2504.03729)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivA Scalable Predictive Modelling Approach to Identifying Duplicate Adverse Event Reports for Drugs and VaccinesMarch 31, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2504.03729" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.03729</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Scalable Predictive Modelling Approach to Identifying Duplicate Adverse Event Reports for Drugs and VaccinesMarch 31, 2025...</p></details>
    Published: March 31, 2025  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0264410X15006209](https://www.sciencedirect.com/science/article/abs/pii/S0264410X15006209)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X15006209" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X15006209</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>VAERS data should be interpreted with caution. Limitations include reporting bias (e.g., underreporting and stimulated reporting)...Read...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0264410X15009822](https://www.sciencedirect.com/science/article/abs/pii/S0264410X15009822)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSafety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 713 — Generally, VAERS data...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X15009822" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X15009822</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 713 — Generally, VAERS data...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2077-0383/13/23/7291](https://www.mdpi.com/2077-0383/13/23/7291)  
+   Link: <a href="https://www.mdpi.com/2077-0383/13/23/7291" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2077-0383/13/23/7291</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The WHO Algorithm for Causality Assessment of Adverse...by P Bellavite · 2024 · Cited by 7 — The WHO algorithm assesses whether there is...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0264410X99001322](https://www.sciencedirect.com/science/article/abs/pii/S0264410X99001322)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X99001322" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X99001322</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The study of vaccine safety is complicated by underreporting, erroneous reporting...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4632204/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4632204/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSafety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 697 — Like all spontaneous public heal...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4632204/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4632204/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 697 — Like all spontaneous public heal...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe reporting sensitivity of the Vaccine Adverse Event  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11252891/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11252891/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby ER Miller · 2020 · Cited by 55 — Underreporting is a limitation common to passive surveillance systems, including the Vaccine Adver...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11252891/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11252891/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by ER Miller · 2020 · Cited by 55 — Underreporting is a limitation common to passive surveillance systems, including the Vaccine Adver...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCImprovement in the Analysis of Vaccine Adverse Event  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8054210/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8054210/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby L Zhao · 2020 · Cited by 13 — However, not all AEs are reported to VAERS. Therefore, there is a potential under-reporting bias in V...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8054210/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8054210/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Zhao · 2020 · Cited by 13 — However, not all AEs are reported to VAERS. Therefore, there is a potential under-reporting bias in V...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
    Title: VAERS data interpreted alone or out of context can lead to erroneous  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0264410X12014181](https://www.sciencedirect.com/science/article/abs/pii/S0264410X12014181)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X12014181" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X12014181</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Causality assessment of adverse events reported to the...by AM Loughlin · 2012 · Cited by 46 — Generally, VAERS data cannot be used to d...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0264410X13011997](https://www.sciencedirect.com/science/article/abs/pii/S0264410X13011997)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X13011997" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X13011997</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessment of causality of individual adverse events...by AE Tozzi · 2013 · Cited by 131 — This proposed tool should support the classif...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: canada.ca  
-   Link: [https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-2-vaccine-safety/adverse-events-following.html](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-2-vaccine-safety/adverse-events-following.html)  
+   Link: <a href="https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-2-vaccine-safety/adverse-events-following.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-2-vaccine-safety/adverse-events-following.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>well as when and how to report...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: wonder.cdc.gov  
-   Link: [https://wonder.cdc.gov/wonder/help/vaers.html](https://wonder.cdc.gov/wonder/help/vaers.html)  
+   Link: <a href="https://wonder.cdc.gov/wonder/help/vaers.html" target="_blank" rel="noopener noreferrer nofollow">https://wonder.cdc.gov/wonder/help/vaers.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Adverse Events Reporting System (VAERS) HelpKey considerations and limitations of VAERS data: The number of reports alone cannot be inter...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: vaers.hhs.gov  
-   Link: [https://vaers.hhs.gov/faq.html](https://vaers.hhs.gov/faq.html)  
+   Link: <a href="https://vaers.hhs.gov/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/faq.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQs - HHS.govOne of the main limitations of VAERS data is that it cannot determine if the vaccine caused the reported adverse event. Thi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: who.int  
-   Link: [https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/aefi/serious-aefi](https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/aefi/serious-aefi)  
+   Link: <a href="https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/aefi/serious-aefi" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/aefi/serious-aefi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationSerious AEFIAn adverse event following immunization (AEFI) is defined as any untoward medical occurrence followi...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: VAERS data interpreted alone or out of context can  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26209838/](https://pubmed.ncbi.nlm.nih.gov/26209838/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedSafety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 713 — Generally, VAERS data cannot...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26209838/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 713 — Generally, VAERS data cannot...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: publichealth.jhu.edu  
    Title: what vaers is and isnt  
-   Link: [https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt](https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt)  
+   Link: <a href="https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt" target="_blank" rel="noopener noreferrer nofollow">https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bloomberg School of Public HealthWhat VAERS Is (And Isn&#x27;t) | Johns Hopkins3 May 2022 — While VAERS cannot determine whether an adverse ev...</p></details>
    Published: May 2022  
 
 23. <a id="endnote-23"></a>
    Source: who.int  
-   Link: [https://www.who.int/publications/i/item/9789241516990](https://www.who.int/publications/i/item/9789241516990)  
+   Link: <a href="https://www.who.int/publications/i/item/9789241516990" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789241516990</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationCausality assessment of an adverse event following...16 Apr 2021 — Causality assessment of an adverse event fol...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9805973/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9805973/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9805973/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9805973/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>adverse event reporting system (VAERS) - PMC - NIHby OA Almadani · 2022 · Cited by 10 — The aim of this study was to investigate VAERS pa...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/30026925/](https://pubmed.ncbi.nlm.nih.gov/30026925/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30026925/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30026925/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health Organization (WHO)&#x27;s causality...by J Puliyel · 2018 · Cited by 54 — The World Health Organisation (WHO) has recently revis...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: vaers.hhs.gov  
-   Link: [https://vaers.hhs.gov/](https://vaers.hhs.gov/)  
+   Link: <a href="https://vaers.hhs.gov/" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Adverse Event Reporting System (VAERS)VAERS is co-sponsored by the Centers for Disease Control and Prevention (CDC), and the Food and Dru...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: vaers.hhs.gov  
-   Link: [https://vaers.hhs.gov/data.html](https://vaers.hhs.gov/data.html)  
+   Link: <a href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/data.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HHS.gov8 May 2025 — The number of reports alone cannot be interpreted as evidence of a causal association between a vaccine and an advers...</p></details>
    Published: May 2025  
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Vaccine Adverse Event Reporting System  
-   Link: [https://en.wikipedia.org/wiki/Vaccine_Adverse_Event_Reporting_System](https://en.wikipedia.org/wiki/Vaccine_Adverse_Event_Reporting_System)  
+   Link: <a href="https://en.wikipedia.org/wiki/Vaccine_Adverse_Event_Reporting_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vaccine_Adverse_Event_Reporting_System</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccine Adverse Event Reporting SystemVAERS is a postmarketing surveillance program, collecting information about adverse events (poss...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Vaccine adverse event  
-   Link: [https://en.wikipedia.org/wiki/Vaccine_adverse_event](https://en.wikipedia.org/wiki/Vaccine_adverse_event)  
+   Link: <a href="https://en.wikipedia.org/wiki/Vaccine_adverse_event" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vaccine_adverse_event</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccine adverse eventA vaccine adverse event (VAE), sometimes referred to as a vaccine injury, is an adverse event believed to have be...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: science.org  
    Title: antivaccine activists use government database side effects scare public  
-   Link: [https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public](https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public)  
+   Link: <a href="https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Antivaccine activists use a government database on side...26 May 2021 — To counter misinterpretation of its data, the VAERS website prom...</p></details>
    Published: May 2021  
 
 31. <a id="endnote-31"></a>
    Source: fda.gov  
    Title: vaccine adverse event reporting system vaers questions and answers  
-   Link: [https://www.fda.gov/vaccines-blood-biologics/vaccine-adverse-events/vaccine-adverse-event-reporting-system-vaers-questions-and-answers](https://www.fda.gov/vaccines-blood-biologics/vaccine-adverse-events/vaccine-adverse-event-reporting-system-vaers-questions-and-answers)  
+   Link: <a href="https://www.fda.gov/vaccines-blood-biologics/vaccine-adverse-events/vaccine-adverse-event-reporting-system-vaers-questions-and-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/vaccines-blood-biologics/vaccine-adverse-events/vaccine-adverse-event-reporting-system-vaers-questions-and-answers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VAERS reports generally cannot be used to determine if a vaccine caused or contributed to an adverse event or illness. Some events may oc...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: health.qld.gov.au  
    Title: adverse event  
-   Link: [https://www.health.qld.gov.au/clinical-practice/guidelines-procedures/diseases-infection/immunisation/adverse-event](https://www.health.qld.gov.au/clinical-practice/guidelines-procedures/diseases-infection/immunisation/adverse-event)  
+   Link: <a href="https://www.health.qld.gov.au/clinical-practice/guidelines-procedures/diseases-infection/immunisation/adverse-event" target="_blank" rel="noopener noreferrer nofollow">https://www.health.qld.gov.au/clinical-practice/guidelines-procedures/diseases-infection/immunisation/adverse-event</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s following immunisation (AEFI) are a notifiable condition.Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: downloads.regulations.gov  
    Title: attachment 3  
-   Link: [https://downloads.regulations.gov/CDC-2022-0111-84601/attachment_3.pdf](https://downloads.regulations.gov/CDC-2022-0111-84601/attachment_3.pdf)  
+   Link: <a href="https://downloads.regulations.gov/CDC-2022-0111-84601/attachment_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.regulations.gov/CDC-2022-0111-84601/attachment_3.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VAERS) are subject to multiple limitations, including underreporting, reporting of temporal...Read more...</p></details>
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: adultvaccinesnow.org  
-   Link: [https://adultvaccinesnow.org/resources/cdc-releases-data-showing-safety-of-covid-vaccines/](https://adultvaccinesnow.org/resources/cdc-releases-data-showing-safety-of-covid-vaccines/)  
+   Link: <a href="https://adultvaccinesnow.org/resources/cdc-releases-data-showing-safety-of-covid-vaccines/" target="_blank" rel="noopener noreferrer nofollow">https://adultvaccinesnow.org/resources/cdc-releases-data-showing-safety-of-covid-vaccines/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CDC Releases Data Showing Safety of COVID VaccinesFirst, VAERS analyses are based on passive surveillance, and reporting biases are possi...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: pch.health.wa.gov.au  
-   Link: [https://pch.health.wa.gov.au/For-health-professionals/Referrals-to-PCH/Prereferral-guidelines/Adverse-event-following-immunisation](https://pch.health.wa.gov.au/For-health-professionals/Referrals-to-PCH/Prereferral-guidelines/Adverse-event-following-immunisation)  
+   Link: <a href="https://pch.health.wa.gov.au/For-health-professionals/Referrals-to-PCH/Prereferral-guidelines/Adverse-event-following-immunisation" target="_blank" rel="noopener noreferrer nofollow">https://pch.health.wa.gov.au/For-health-professionals/Referrals-to-PCH/Prereferral-guidelines/Adverse-event-following-immunisation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>event following immunisationAn adverse event following immunisation (AEFI) is defined by the World Health Organization as any &#x27;untoward m...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: factcheck.org  
-   Link: [https://www.factcheck.org/2023/06/scicheck-what-vaers-can-and-cant-do-and-how-anti-vaccination-groups-habitually-misuse-its-data/](https://www.factcheck.org/2023/06/scicheck-what-vaers-can-and-cant-do-and-how-anti-vaccination-groups-habitually-misuse-its-data/)  
+   Link: <a href="https://www.factcheck.org/2023/06/scicheck-what-vaers-can-and-cant-do-and-how-anti-vaccination-groups-habitually-misuse-its-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.factcheck.org/2023/06/scicheck-what-vaers-can-and-cant-do-and-how-anti-vaccination-groups-habitually-misuse-its-data/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What VAERS Can and Can&#x27;t Do, and How Anti-Vaccination...6 Jun 2023 — “VAERS data interpreted alone or out of context can lead to erroneo...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: digital.ahrq.gov  
    Title: electronic support public health vaccine adverse event reporting system  
-   Link: [https://digital.ahrq.gov/ahrq-funded-projects/electronic-support-public-health-vaccine-adverse-event-reporting-system](https://digital.ahrq.gov/ahrq-funded-projects/electronic-support-public-health-vaccine-adverse-event-reporting-system)  
+   Link: <a href="https://digital.ahrq.gov/ahrq-funded-projects/electronic-support-public-health-vaccine-adverse-event-reporting-system" target="_blank" rel="noopener noreferrer nofollow">https://digital.ahrq.gov/ahrq-funded-projects/electronic-support-public-health-vaccine-adverse-event-reporting-system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Adverse Event Reporting System (ESP:VAERS)The Electronic Support for Public Health - Vaccine Adverse Event Reporting System (ESP: VAERS)...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: kcra.com  
-   Link: [https://www.kcra.com/article/fact-check-viral-posts-misuse-vaers-data-to-make-false-claims-about-covid-19-vaccines/36068010](https://www.kcra.com/article/fact-check-viral-posts-misuse-vaers-data-to-make-false-claims-about-covid-19-vaccines/36068010)  
+   Link: <a href="https://www.kcra.com/article/fact-check-viral-posts-misuse-vaers-data-to-make-false-claims-about-covid-19-vaccines/36068010" target="_blank" rel="noopener noreferrer nofollow">https://www.kcra.com/article/fact-check-viral-posts-misuse-vaers-data-to-make-false-claims-about-covid-19-vaccines/36068010</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The fact that VAERS cannot assess causality is not its only weakness. “It&#x27;s the worst possible data that you could...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DurhamHealthNC/posts/if-vaccines-are-safe-why-are-there-harmful-effects-reported-in-vaers-its-importa/1162242512582508/](https://www.facebook.com/DurhamHealthNC/posts/if-vaccines-are-safe-why-are-there-harmful-effects-reported-in-vaers-its-importa/1162242512582508/)  
+   Link: <a href="https://www.facebook.com/DurhamHealthNC/posts/if-vaccines-are-safe-why-are-there-harmful-effects-reported-in-vaers-its-importa/1162242512582508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DurhamHealthNC/posts/if-vaccines-are-safe-why-are-there-harmful-effects-reported-in-vaers-its-importa/1162242512582508/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The biggest limitation is it usually cannot help us assess causation, it provides signals.Read more...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: ajmc.com  
    Title: challenges in the us vaccine adverse event reporting system  
-   Link: [https://www.ajmc.com/view/challenges-in-the-us-vaccine-adverse-event-reporting-system](https://www.ajmc.com/view/challenges-in-the-us-vaccine-adverse-event-reporting-system)  
+   Link: <a href="https://www.ajmc.com/view/challenges-in-the-us-vaccine-adverse-event-reporting-system" target="_blank" rel="noopener noreferrer nofollow">https://www.ajmc.com/view/challenges-in-the-us-vaccine-adverse-event-reporting-system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Challenges in the US Vaccine Adverse Event Reporting...14 Nov 2023 — A study published in The BMJ found that VAERS may not be meeting it...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: health.nsw.gov.au  
    Title: nsw.gov.au Adverse events following immunisation (AEFI)  
-   Link: [https://www.health.nsw.gov.au/immunisation/Pages/aefi.aspx](https://www.health.nsw.gov.au/immunisation/Pages/aefi.aspx)  
+   Link: <a href="https://www.health.nsw.gov.au/immunisation/Pages/aefi.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.health.nsw.gov.au/immunisation/Pages/aefi.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>events following immunisation (AEFI) - NSW Health10 Nov 2023 — It does not necessarily have a causal relationship with the vaccine&quot;. AEFI...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: fda.gov  
    Title: covid 19 vaccine safety surveillance  
-   Link: [https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/covid-19-vaccine-safety-surveillance](https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/covid-19-vaccine-safety-surveillance)  
+   Link: <a href="https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/covid-19-vaccine-safety-surveillance" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/covid-19-vaccine-safety-surveillance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Vaccine Safety Surveillance10 Jan 2025 — The limitations of data mining include but are not limited to the following: Results ma...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: sahealth.sa.gov.au  
-   Link: [https://www.sahealth.sa.gov.au/wps/wcm/connect/public%2Bcontent/sa%2Bhealth%2Binternet/clinical%2Bresources/clinical%2Bprograms%2Band%2Bpractice%2Bguidelines/immunisation%2Bfor%2Bhealth%2Bprofessionals/immunisation%2Bsection%2Breporting/adverse%2Bevent%2Bfollowing%2Bimmunisation](https://www.sahealth.sa.gov.au/wps/wcm/connect/public%2Bcontent/sa%2Bhealth%2Binternet/clinical%2Bresources/clinical%2Bprograms%2Band%2Bpractice%2Bguidelines/immunisation%2Bfor%2Bhealth%2Bprofessionals/immunisation%2Bsection%2Breporting/adverse%2Bevent%2Bfollowing%2Bimmunisation)  
+   Link: <a href="https://www.sahealth.sa.gov.au/wps/wcm/connect/public%2Bcontent/sa%2Bhealth%2Binternet/clinical%2Bresources/clinical%2Bprograms%2Band%2Bpractice%2Bguidelines/immunisation%2Bfor%2Bhealth%2Bprofessionals/immunisation%2Bsection%2Breporting/adverse%2Bevent%2Bfollowing%2Bimmunisation" target="_blank" rel="noopener noreferrer nofollow">https://www.sahealth.sa.gov.au/wps/wcm/connect/public%2Bcontent/sa%2Bhealth%2Binternet/clinical%2Bresources/clinical%2Bprograms%2Band%2Bpractice%2Bguidelines/immunisation%2Bfor%2Bhealth%2Bprofessionals/immunisation%2Bsection%2Breporting/adverse%2Bevent%2Bfollowing%2Bimmunisation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Most reactions, such as low-grade fever and pain at...Read more...</p></details>

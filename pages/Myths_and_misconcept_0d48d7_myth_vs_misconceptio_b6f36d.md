@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - key-terms
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - key-terms
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Myths are widely repeated false stories, while misconceptions are mistaken understandings that may be sincere.
 hero_summary: Myths are widely repeated false stories, while misconceptions are mistaken understandings that may be sincere.
 layout: default
 permalink: /key-terms/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Key Terms
 title: 'Myth or Misconception: What Is the Difference?'
-title_full: 'Myth or Misconception: What Is the Difference? | Mythcraft'
+title_full: 'Myth or Misconception: What Is the Difference?'
 display_title_short: Key Terms
 display_title: Key Terms
 heading_title: 'Myth or Misconception: What Is the Difference?'
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 next_link:
   basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
-date: '2026-06-09 04:15:10 '
+date: '2026-06-11 21:56:54 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-overview.webp
@@ -502,7 +502,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-ov
 ## Introduction
 
 People often use the words “myth” and “misconception” as if they mean the same thing. In everyday language, both describe beliefs that are wrong or unsupported. Yet the distinction matters. A myth is usually a widely repeated story, claim or piece of conventional wisdom that circulates through a culture, community or social network. A misconception is a mistaken understanding held by an individual or group, often arising from incomplete knowledge, oversimplified explanations or faulty [mental models]({{ 'mental-models/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://thechat.scot/wp-content/uploads/2024/10/7.-myth_misconception_misinformation_disinformation-2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thechat.scot">[theChat.scot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thechat.scot</span><span class="citation-popover-title">the Chat.scot Spotlight issue</span><span class="citation-popover-snippet">Myth: A widely heard but false belief or idea. We can share examples of what might be...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-overview.webp" | relative_url }}" alt="Overview image for Key Terms" loading="eager" decoding="sync" fetchpriority="high">
 The difference is not merely semantic. Calling something a myth highlights its social life: it spreads because people repeat it. Calling something a misconception highlights a problem in understanding: people believe it because it seems to explain how something works. Those differences affect how false beliefs develop, why they persist and how they can be corrected. Researchers and communication organisations increasingly stress the importance of distinguishing different kinds of false belief rather than treating every error as the same phenomenon. UNESCO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</span></span></span>
@@ -517,21 +516,17 @@ Historically, the word “myth” has had multiple meanings. In academic studies
 
 A useful test is to ask whether the belief exists mainly because many people have heard and repeated it. If so, it is often functioning as a myth.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-1-dark.svg" | relative_url }}" alt="Key Terms illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sincere Mistaken Models
 
 A misconception works differently. It is usually a mistaken explanation or mental model rather than a culturally famous story.
 
-People develop misconceptions when they try to make sense of the world using incomplete information, [misleading analogies]({{ 'analogies/' | relative_url }}) or everyday experience. A child might think that seasons happen because Earth moves closer to and farther from the Sun. An adult might assume that heavier objects fall faster than lighter ones. These beliefs are understandable because they seem to fit ordinary observation, even though they are incorrect. The problem is not primarily repetition but interpretation.
+People develop misconceptions when they try to make sense of the world using incomplete information, misleading [analogies]({{ 'analogies/' | relative_url }}) or everyday experience. A child might think that seasons happen because Earth moves closer to and farther from the Sun. An adult might assume that heavier objects fall faster than lighter ones. These beliefs are understandable because they seem to fit ordinary observation, even though they are incorrect. The problem is not primarily repetition but interpretation.
 
-In education research, misconceptions are often treated as coherent but flawed ways of understanding a topic. Learners are not simply missing information. They may have built an explanation that appears logical from their perspective. Because the misconception performs explanatory work, replacing it can be difficult. Simply presenting a correct fact does not always change the underlying model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4641 — We first examine the mechan...</span></span></span>
+In education research, misconceptions are often treated as coherent but flawed ways of understanding a topic. Learners are not simply missing information. They may have built an explanation that appears logical from their perspective. Because the misconception performs explanatory work, replacing it can be difficult. Simply presenting a correct fact does not always change the underlying model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4641 — We first examine the mechan...</span></span></span>
 
 This is why misconceptions frequently survive formal teaching. Someone may memorise a correct answer for an exam while still relying on an older, intuitive explanation in everyday reasoning. The misconception remains available because it continues to feel meaningful.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XtsGuuEiDIw" title="Why Do People Believe Common Misconceptions Despite New Facts? - All About Myths and Conspiracies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XtsGuuEiDIw" target="_blank" rel="noopener noreferrer">Why Do People Believe Common Misconceptions Despite New Facts? - All About Myths and Conspiracies</a></p><p class="youtube-embed-meta">Channel: All About Myths and Conspiracies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XtsGuuEiDIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XtsGuuEiDIw">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-1-dark.svg" | relative_url }}" alt="Key Terms illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why misconceptions often feel reasonable
 
 Several features make misconceptions especially persistent:
@@ -539,12 +534,10 @@ Several features make misconceptions especially persistent:
 * **They fit everyday experience.** People trust what they think they observe directly.
 * **They simplify complexity.** A simple explanation can feel more satisfying than a nuanced one.
 * **They fill gaps in knowledge.** Humans prefer having an explanation to having none at all.
-* **They connect with existing beliefs.** New information is often interpreted through older assumptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</span></span></span>
+* **They connect with existing beliefs.** New information is often interpreted through older assumptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</span></span></span>
 
 Unlike myths, misconceptions do not necessarily require widespread social circulation. A person can develop one independently.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-2-dark.svg" | relative_url }}" alt="Key Terms illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Myths and Misconceptions Overlap
 
 The categories are distinct, but they often interact.
@@ -557,9 +550,7 @@ Consider a common health claim. If millions of people repeat it despite weak evi
 
 This distinction helps explain why discussions about false beliefs sometimes become confusing. People may be talking about different aspects of the same phenomenon.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mZt1Gn0R22Q" title="Myths and misconceptions about evolution - Alex Gendler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mZt1Gn0R22Q" target="_blank" rel="noopener noreferrer">Myths and misconceptions about evolution - Alex Gendler</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mZt1Gn0R22Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mZt1Gn0R22Q">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-2-dark.svg" | relative_url }}" alt="Key Terms illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Labels Affect Correction
 
 The words used to describe a false belief shape how people respond to it.
@@ -568,12 +559,10 @@ Calling something a myth often suggests that the problem lies in repetition and 
 
 Calling something a misconception suggests that the problem lies in understanding. Corrections then focus on explanation, teaching and helping people rebuild their mental models.
 
-Research on misinformation repeatedly finds that corrections work better when they provide an alternative explanation rather than simply declaring a claim false. People rely on explanations to organise their understanding of events. Removing a belief without replacing it can leave a gap that the original claim continues to fill. This phenomenon is known as the continued influence effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4641 — We first examine the mechan...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">PMCby IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
+Research on misinformation repeatedly finds that corrections work better when they provide an alternative explanation rather than simply declaring a claim false. People rely on explanations to organise their understanding of events. Removing a belief without replacing it can leave a gap that the original claim continues to fill. This phenomenon is known as the continued influence effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4641 — We first examine the mechan...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
 
 For myths, communicators often need to address familiarity and repetition. For misconceptions, they often need to address reasoning and explanation. The difference affects educational strategies, public-health campaigns and science communication.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-3-dark.svg" | relative_url }}" alt="Key Terms illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The risk of treating all errors the same way
 
 When every false belief is treated as a myth, communicators may underestimate the role of sincere misunderstanding. When every false belief is treated as a misconception, they may overlook the power of social repetition and cultural narratives.
@@ -582,10 +571,10 @@ Modern discussions of misinformation and disinformation have reinforced this poi
 
 A person repeating a popular myth may need evidence that challenges a familiar story. A person holding a misconception may need a better explanatory model. Treating those situations as identical can make correction less effective.
 
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-3-dark.svg" | relative_url }}" alt="Key Terms illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Way to Tell the Difference
 
 In everyday language, a simple set of questions can help distinguish the terms:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -596,10 +585,6 @@ In everyday language, a simple set of questions can help distinguish the terms:
 </div>
 
 The distinction is not about judging people more harshly or more generously. It is about understanding the source of the error. Myths spread through communities. Misconceptions develop through understanding. Both can be sincere, both can be influential, and both can survive correction. But recognising the difference provides a clearer way to talk about false beliefs and a better foundation for addressing them.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yrhmh-F4I5M" title="The Psychology of Popular False Beliefs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yrhmh-F4I5M" target="_blank" rel="noopener noreferrer">The Psychology of Popular False Beliefs</a></p><p class="youtube-embed-meta">Channel: Cool Mind Tells</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yrhmh-F4I5M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yrhmh-F4I5M">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -998,132 +983,132 @@ The distinction is not about judging people more harshly or more generously. It 
 1. <a id="endnote-1"></a>
    Source: thechat.scot  
    Title: the Chat.scot Spotlight issue  
-   Link: [https://thechat.scot/wp-content/uploads/2024/10/7.-myth_misconception_misinformation_disinformation-2024.pdf](https://thechat.scot/wp-content/uploads/2024/10/7.-myth_misconception_misinformation_disinformation-2024.pdf)  
+   Link: <a href="https://thechat.scot/wp-content/uploads/2024/10/7.-myth_misconception_misinformation_disinformation-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thechat.scot/wp-content/uploads/2024/10/7.-myth_misconception_misinformation_disinformation-2024.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Myth: A widely heard but false belief or idea. We can share examples of what might be...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/List_of_common_misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_common_misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_common_misconceptions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of common misconceptionsCommon misconceptions are widely accepted viewpoints or factoids that are actually false. They often arise f...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/query-list/m/misinformation](https://www.unesco.org/en/query-list/m/misinformation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCOWhat is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
+   Link: <a href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/m/misinformation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/mil4teachers/en/module4/unit2](https://www.unesco.org/mil4teachers/en/module4/unit2)  
+   Link: <a href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading content, i.e...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExploring factors that mitigate the continued influence  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/mil4teachers/en/module4](https://www.unesco.org/mil4teachers/en/module4)  
+   Link: <a href="https://www.unesco.org/mil4teachers/en/module4" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation, misinformation, and mal-information including conspiracy theories.... UNESCO discourages the term [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;), on the basi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: unesco.org  
    Title: What is Disinformation?  
-   Link: [https://www.unesco.org/en/query-list/d/disinformation](https://www.unesco.org/en/query-list/d/disinformation)  
+   Link: <a href="https://www.unesco.org/en/query-list/d/disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/d/disinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meaning, Definition.Disinformation refers to the deliberate dissemination of false or misleading information, often intended to deceive o...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: disinformation.ch  
-   Link: [https://www.disinformation.ch/](https://www.disinformation.ch/)  
+   Link: <a href="https://www.disinformation.ch/" target="_blank" rel="noopener noreferrer nofollow">https://www.disinformation.ch/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deception, disinformation, misinformation, propagandaDisinformation is false or inaccurate information that is deliberately spread with t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/topics/journalism-facts/misinformation-disinformation](https://www.apa.org/topics/journalism-facts/misinformation-disinformation)  
+   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26173286/](https://pubmed.ncbi.nlm.nih.gov/26173286/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4641 — We first examine the mechan...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173286/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4641 — We first examine the mechan...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36988856/](https://pubmed.ncbi.nlm.nih.gov/36988856/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36988856/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36988856/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation corrections on source...by V Westbrook · 2023 · Cited by 25 — Research on the continued influence effect (CIE)...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AmericanPsychologicalAssociation/posts/although-questions-remain-psychological-science-yields-important-conclusions-abo/944208637740808/](https://www.facebook.com/AmericanPsychologicalAssociation/posts/although-questions-remain-psychological-science-yields-important-conclusions-abo/944208637740808/)  
+   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/although-questions-remain-psychological-science-yields-important-conclusions-abo/944208637740808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/although-questions-remain-psychological-science-yields-important-conclusions-abo/944208637740808/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is [false info](&amp;#123;&amp;#123; &#x27;false-info/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: etd.ohiolink.edu  
-   Link: [https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&disposition=inline](https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&disposition=inline)  
+   Link: <a href="https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&amp;disposition=inline" target="_blank" rel="noopener noreferrer nofollow">https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&amp;disposition=inline</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ohiolink.edu1 Mechanisms in Continued Influence of Misinformationby VL Westbrook · 2022 · Cited by 1 — Research on the CIE has shown that...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: britannica.com  
    Title: misinformation and disinformation  
-   Link: [https://www.britannica.com/topic/misinformation-and-disinformation](https://www.britannica.com/topic/misinformation-and-disinformation)  
+   Link: <a href="https://www.britannica.com/topic/misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/misinformation-and-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Differences...21 Mar 2026 — Misinformation is the inadvertent spread of false information without intent to harm, while disinf...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: princetonlibrary.org  
-   Link: [https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/](https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/)  
+   Link: <a href="https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/" target="_blank" rel="noopener noreferrer nofollow">https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, Disinformation &amp; Malinformation: A GuideMisinformation, Disinformation &amp; Malinformation: A Guide · Misinformation is defi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: library.gov.au  
-   Link: [https://www.library.gov.au/research/research-guides-0/what-fake-news-misinformation-and-disinformation](https://www.library.gov.au/research/research-guides-0/what-fake-news-misinformation-and-disinformation)  
+   Link: <a href="https://www.library.gov.au/research/research-guides-0/what-fake-news-misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.library.gov.au/research/research-guides-0/what-fake-news-misinformation-and-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Library of AustraliaWhat is fake news, misinformation, and disinformation?The Cambridge Dictionary defines fake news as “false s...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf](https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf)  
+   Link: <a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The continued influence of misinformation in memoryIn the next sections, we consider several alternative explanations for the continued i...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/](https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/)  
+   Link: <a href="https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Pakistan⚠️ Misinformation = Misinformation is generally used to refer to misleading information created or disseminated without ma...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: libguides.solent.ac.uk  
-   Link: [https://libguides.solent.ac.uk/fakenews/FakeNews](https://libguides.solent.ac.uk/fakenews/FakeNews)  
+   Link: <a href="https://libguides.solent.ac.uk/fakenews/FakeNews" target="_blank" rel="noopener noreferrer nofollow">https://libguides.solent.ac.uk/fakenews/FakeNews</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsUNESCO defines three types of false information: Disinformation: Information... Mal-information: Information that is based on realit...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE](https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE)  
+   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: brod.ntcenter.bg  
-   Link: [https://brod.ntcenter.bg/en/continued-influence-effect/](https://brod.ntcenter.bg/en/continued-influence-effect/)  
+   Link: <a href="https://brod.ntcenter.bg/en/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brod.ntcenter.bg/en/continued-influence-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence EffectThe &quot;Continued Influence Effect&quot; refers to the phenomenon where misinformation continues to affect people&#x27;s thinking and...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: moadoph.gov.au  
-   Link: [https://moadoph.gov.au/explore/democracy/what-is-the-difference-between-misinformation-and-disinformation](https://moadoph.gov.au/explore/democracy/what-is-the-difference-between-misinformation-and-disinformation)  
+   Link: <a href="https://moadoph.gov.au/explore/democracy/what-is-the-difference-between-misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://moadoph.gov.au/explore/democracy/what-is-the-difference-between-misinformation-and-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False and misleading information created or shared to deliberately mislead people. Malinformation. Information based in fact that is mani...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: mentalhealthacademy.com.au  
    Title: countering misinformation what can mental health professionals do  
-   Link: [https://www.mentalhealthacademy.com.au/blog/countering-misinformation-what-can-mental-health-professionals-do](https://www.mentalhealthacademy.com.au/blog/countering-misinformation-what-can-mental-health-professionals-do)  
+   Link: <a href="https://www.mentalhealthacademy.com.au/blog/countering-misinformation-what-can-mental-health-professionals-do" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalhealthacademy.com.au/blog/countering-misinformation-what-can-mental-health-professionals-do</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Misinformation5 Apr 2024 — This article explores how mental health professionals can dispel misinformation and disinformation...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/pubs/reports/health-misinformation](https://www.apa.org/pubs/reports/health-misinformation)  
+   Link: <a href="https://www.apa.org/pubs/reports/health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/reports/health-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ined; it can include inaccurate news, conspiracy theories, disinformation campaigns...Read more...</p></details>

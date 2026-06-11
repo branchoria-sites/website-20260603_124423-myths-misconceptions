@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8
 - Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_writing_better_myth_849c9b
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - familiarity
 - climate-claims
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - familiarity
 - climate-claims
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Climate misinformation shows how repetition can raise truth ratings for familiar claims without changing someone's whole worldview.
 hero_summary: Climate misinformation shows how repetition can raise truth ratings for familiar claims without changing someone's whole worldview.
 layout: default
 permalink: /climate-claims/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /familiarity/
 nav_short_title: Climate Claims
 title: When repeated climate claims feel established
-title_full: When repeated climate claims feel established | Familiarity
+title_full: When repeated climate claims feel established
 display_title_short: Climate Claims
 display_title: Climate Claims
 heading_title: When repeated climate claims feel established
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Repetition Makes Claims Feel True | Mythcraft
+parent_title: Why Repetition Makes Claims Feel True
 parent_permalink: /familiarity/
 parent_nav_short_title: Familiarity
 parent_heading_title: Why Repetition Makes Claims Feel True
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why one headline can feel familiar enough
 up_link:
   basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
@@ -265,7 +265,7 @@ next_link:
   permalink: /fluency/
   short_title: Fluency
   heading_title: When easy thinking feels like evidence
-date: '2026-06-09 05:19:07 '
+date: '2026-06-11 22:28:34 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_repeated_climate_cla_d86c1d-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_repeated_climate_cla_d86c1d-Illustration-1.webp
@@ -276,37 +276,30 @@ image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_re
 
 Repeated climate claims can start to feel established even when the underlying evidence has not changed. A person may encounter the same statement in a headline, a social media post, a comment thread, a political speech and a casual conversation. After enough exposure, [memory]({{ 'memory/' | relative_url }}) begins to supply familiarity faster than evidence. The result is not necessarily full belief in climate denial or rejection of climate science. More often, [repetition]({{ 'repetition/' | relative_url }}) creates a subtle shift: a claim feels less questionable because it feels known.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_repeated_climate_cla_d86c1d-Illustration-1-dark.svg" | relative_url }}" alt="Climate Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_repeated_climate_cla_d86c1d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_repeated_climate_cla_d86c1d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on climate misinformation has become a useful test case for this process. Studies show that repeated exposure can increase the perceived truth of climate-related claims, including misleading or sceptical ones, even among people who broadly accept mainstream climate science. The effect helps explain why familiar myths can linger in public discussion long after they have been challenged or corrected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11305575/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCRepetition increases belief in climate-skeptical claims, even...by Y Jiang · 2024 · Cited by 17 — Research with general knowledge cla...</span></span></span>
+Research on climate misinformation has become a useful test case for this process. Studies show that repeated exposure can increase the perceived truth of climate-related claims, including misleading or sceptical ones, even among people who broadly accept mainstream climate science. The effect helps explain why familiar myths can linger in public discussion long after they have been challenged or corrected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11305575/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Repetition increases belief in climate-skeptical claims, even...by Y Jiang · 2024 · Cited by 17 — Research with general knowledge cla...</span></span></span>
 
 ## What climate-claim repetition studies tested
 
 Climate misinformation research has often focused on a practical question: does repetition make climate myths seem more credible, even when audiences are generally supportive of climate science?
 
-A 2024 study published in *PLOS ONE* tested this directly. Researchers presented participants with a mixture of climate-science statements, climate-sceptical statements and neutral weather-related claims. Some statements appeared once, while others were repeated. Participants then rated how true the claims seemed. The key finding was that repetition increased perceived truth across categories. A single repetition was enough to raise truth ratings, including for climate-sceptical claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOSRepetition increases belief in climate-skeptical claims, even...by Y Jiang · 2024 · Cited by 18 — Research with general knowledge cl...</span></span></span>
+A 2024 study published in *PLOS ONE* tested this directly. Researchers presented participants with a mixture of climate-science statements, climate-sceptical statements and neutral weather-related claims. Some statements appeared once, while others were repeated. Participants then rated how true the claims seemed. The key finding was that repetition increased perceived truth across categories. A single repetition was enough to raise truth ratings, including for climate-sceptical claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Repetition increases belief in climate-skeptical claims, even...by Y Jiang · 2024 · Cited by 18 — Research with general knowledge cl...</span></span></span>
 
 What makes the result notable is that the sample was not dominated by committed climate sceptics. Most participants broadly endorsed climate science. The study therefore examined something narrower than political conversion. It asked whether familiarity alone could influence judgement. The answer was yes: repetition changed perceived credibility even when participants' broader attitudes remained aligned with climate science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/climate/article?id=10.1371%2Fjournal.pclm.0000916" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">the future trajectory of climate misinformationby JK Rice · 2026 — 10]: “Like many media effects, the influence of misinformation...</span></span></span>
 
 This distinction matters. The findings do not show that one repeated slogan suddenly turns climate-science supporters into denialists. Instead, repetition appears to soften the boundary between a claim being familiar and a claim being supported by evidence. That shift can make misinformation harder to dismiss during later encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dornsife.usc.edu/wrigley/2024/08/12/new-research-finds-that-repetition-increases-belief-in-climate-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dornsife.usc.edu">[USC Dornsife]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dornsife.usc.edu</span><span class="citation-popover-title">new research finds that repetition increases belief in climate misinformation</span><span class="citation-popover-snippet">USC DornsifeNew research finds that repetition increases belief in climate...Aug 12, 2024 — The study found that a single repetition was...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/41KhC74siDU" title="Beyond Misinformation: Understanding Cognitive Bias in Complex Media Landscapes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=41KhC74siDU" target="_blank" rel="noopener noreferrer">Beyond Misinformation: Understanding Cognitive Bias in Complex Media Landscapes</a></p><p class="youtube-embed-meta">Channel: Oxford Internet Institute, University of Oxford</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=41KhC74siDU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=41KhC74siDU">Open on YouTube</a></p></div></div></div>
-
 ## Why acceptance of science is not a perfect shield
 
 A common assumption is that people who understand climate science are largely immune to misinformation. Research suggests the picture is more complicated.
 
-Psychologists describe the underlying mechanism as the illusory truth effect. When people encounter information repeatedly, it becomes easier to process. That feeling of ease, known as [processing fluency]({{ 'fluency/' | relative_url }}), can be mistaken for a sign that a statement is true. Importantly, this shortcut can operate before people consciously retrieve their knowledge about the topic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span>
+Psychologists describe the underlying mechanism as the illusory truth effect. When people encounter information repeatedly, it becomes easier to process. That feeling of ease, known as processing [fluency]({{ 'fluency/' | relative_url }}), can be mistaken for a sign that a statement is true. Importantly, this shortcut can operate before people consciously retrieve their knowledge about the topic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span>
 
 Climate claims are particularly vulnerable to this dynamic because many of them involve technical subjects that most people do not constantly think about. Someone may strongly support climate action yet not immediately recall the details of atmospheric physics, emissions accounting or temperature records during every encounter with a claim. In those moments, familiarity can act as a substitute cue.
 
 The 2024 climate-repetition experiments found exactly this pattern. Participants who endorsed climate science still gave higher truth ratings to repeated sceptical statements than to equivalent statements seen only once. Their broader worldview remained largely intact, but repeated exposure altered how convincing specific claims felt. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8595491/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A growing body of scholarship investigates the role of misinformation in shaping the debate on climate change.Read more...</span></span></span>
 
 This helps explain why misinformation [campaigns]({{ 'campaigns/' | relative_url }}) often focus on repetition rather than airtight evidence. A claim does not need to overturn an entire belief system to be useful. It may only need to introduce uncertainty, create hesitation or make a misleading explanation feel more plausible than it did before.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/It_7fPl91RQ" title="&quot;This Is Psychology&quot; Episode 4: Climate change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=It_7fPl91RQ" target="_blank" rel="noopener noreferrer">&quot;This Is Psychology&quot; Episode 4: Climate change</a></p><p class="youtube-embed-meta">Channel: American Psychological Association</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=It_7fPl91RQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=It_7fPl91RQ">Open on YouTube</a></p></div></div></div>
 
 ## When memory starts standing in for evidence
 
@@ -318,8 +311,7 @@ Consider a recurring claim that climate models are consistently unreliable. A pe
 
 Researchers studying misinformation describe this as one reason repetition is powerful. The memory trace for the claim can survive more easily than memory for the [correction]({{ 'correction/' | relative_url }}) or source context. What remains is a vague sense that the statement has been encountered many times before. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/PLOS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">PLOSPLOS is a nonprofit publisher of open-access journals in science, technology, and medicine and other scientific literature, under...</span></span></span>
 
-[Climate debates]({{ 'climate-debate/' | relative_url }}) provide fertile ground for this effect because the same narratives often circulate for years. Claims about natural climate cycles, uncertainty in temperature records, renewable-energy reliability or scientific disagreement repeatedly appear in news coverage, political campaigns and online discussions. Even when fact-checkers challenge them, the claim itself continues accumulating familiarity through exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11467642/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCDisinformation as an obstructionist strategy in climate change...by M Gertrudix · 2024 · Cited by 20 — This study examines the scient...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11305575/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCRepetition increases belief in climate-skeptical claims, even...by Y Jiang · 2024 · Cited by 17 — Research with general knowledge cla...</span></span></span>
-
+[Climate debates]({{ 'climate-debate/' | relative_url }}) provide fertile ground for this effect because the same narratives often circulate for years. Claims about natural climate cycles, uncertainty in temperature records, renewable-energy reliability or scientific disagreement repeatedly appear in news coverage, political campaigns and online discussions. Even when fact-checkers challenge them, the claim itself continues accumulating familiarity through exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11467642/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Disinformation as an obstructionist strategy in climate change...by M Gertrudix · 2024 · Cited by 20 — This study examines the scient...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11305575/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Repetition increases belief in climate-skeptical claims, even...by Y Jiang · 2024 · Cited by 17 — Research with general knowledge cla...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_repeated_climate_cla_d86c1d-Illustration-2-dark.svg" | relative_url }}" alt="Climate Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_repeated_climate_cla_d86c1d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_repeated_climate_cla_d86c1d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How repetition mimics consensus
@@ -332,10 +324,7 @@ Climate misinformation frequently spreads across multiple channels. A claim may 
 
 This is one reason climate researchers increasingly focus on information ecosystems rather than isolated false statements. The persuasive force often comes less from the content of a single message than from seeing related messages repeatedly across different contexts.
 
-The effect is especially important for readers who are not closely following climate research. Most people do not independently verify every claim about emissions, temperature trends or energy systems. Instead, they rely partly on cues about what seems established, familiar or widely discussed. Repetition can imitate those cues without providing new evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lse.ac.uk/granthaminstitute/explainers/what-are-climate-misinformation-and-disinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lse.ac.uk">[LSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lse.ac.uk</span><span class="citation-popover-title">what are climate misinformation and disinformation</span><span class="citation-popover-snippet">LSEWhat are climate misinformation and disinformation...22 Apr 2024 — Climate misinformation refers to the spread of inaccurate informat...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tRA2SfSk2Tc" title="How I Think About Climate Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tRA2SfSk2Tc" target="_blank" rel="noopener noreferrer">How I Think About Climate Change</a></p><p class="youtube-embed-meta">Channel: StarTalk</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tRA2SfSk2Tc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tRA2SfSk2Tc">Open on YouTube</a></p></div></div></div>
+The effect is especially important for readers who are not closely following climate research. Most people do not independently verify every claim about emissions, temperature trends or energy systems. Instead, they rely partly on cues about what seems established, familiar or widely discussed. Repetition can imitate those cues without providing new evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lse.ac.uk/granthaminstitute/explainers/what-are-climate-misinformation-and-disinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lse.ac.uk">[LSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lse.ac.uk</span><span class="citation-popover-title">what are climate misinformation and disinformation</span><span class="citation-popover-snippet">What are climate misinformation and disinformation...22 Apr 2024 — Climate misinformation refers to the spread of inaccurate informat...</span></span></span>
 
 ## Why corrections face a difficult task
 
@@ -349,13 +338,12 @@ Some communication strategies attempt to address this by explaining the misleadi
 
 The goal is not merely to replace one statement with another. It is to help people distinguish between a claim feeling familiar and a claim being supported by evidence.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_repeated_climate_cla_d86c1d-Illustration-3-dark.svg" | relative_url }}" alt="Climate Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_repeated_climate_cla_d86c1d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_repeated_climate_cla_d86c1d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The broader lesson from climate myths
 
 Climate misinformation illustrates a broader feature of human judgement. Repetition does not necessarily rewrite a person's worldview, but it can reshape how individual claims feel. A statement heard many times may acquire an undeserved sense of credibility because memory supplies familiarity faster than analysis supplies verification.
 
-The climate-repetition studies are valuable because they show this process in a politically charged and scientifically important domain. Even people who generally trust climate science can experience a small rise in perceived truth when sceptical claims are repeated. The finding does not suggest that evidence is powerless. It shows that familiarity is often working alongside evidence, and sometimes competing with it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11467642/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCDisinformation as an obstructionist strategy in climate change...by M Gertrudix · 2024 · Cited by 20 — This study examines the scient...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOSRepetition increases belief in climate-skeptical claims, even...by Y Jiang · 2024 · Cited by 18 — Research with general knowledge cl...</span></span></span>
+The climate-repetition studies are valuable because they show this process in a politically charged and scientifically important domain. Even people who generally trust climate science can experience a small rise in perceived truth when sceptical claims are repeated. The finding does not suggest that evidence is powerless. It shows that familiarity is often working alongside evidence, and sometimes competing with it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11467642/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Disinformation as an obstructionist strategy in climate change...by M Gertrudix · 2024 · Cited by 20 — This study examines the scient...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Repetition increases belief in climate-skeptical claims, even...by Y Jiang · 2024 · Cited by 18 — Research with general knowledge cl...</span></span></span>
 
 That distinction helps explain why persistent climate myths can survive in public debate. Repetition does not prove a claim. Yet repeated exposure can make a claim feel as though it has already been proven, which is often enough to blur the line between remembering something and knowing it. USC Dornsife <span class="citation-chip-wrap"><a class="citation-chip" href="https://findanexpert.unimelb.edu.au/news/90353-repeating-aids-believing--climate-misinformation-feels-more-true-through-repetition---even-if-you-back-climate-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: findanexpert.unimelb.edu.au">[2findanexpert.unimelb.edu.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">findanexpert.unimelb.edu.au</span><span class="citation-popover-snippet">Repeating aids believing: climate misinformation feels more...7 Aug 2024 — Climate misinformation may be more effective than we&#x27;d like t...</span></span></span>
 
@@ -476,15 +464,15 @@ That distinction helps explain why persistent climate myths can survive in publi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BBC NEWS vintage style solid wood sign Wall Plaque antique old retro"><img src="{{ '/assets/images/marketplace-covers/8ef6f0bea5d9c4e1eb0e.jpg' | relative_url }}" alt="Listing image for BBC NEWS vintage style solid wood sign Wall Plaque antique old retro" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=climate+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-climate-claims-feel-established-climate-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="climate science poster" data-ebay-reference="when-repeated-climate-claims-feel-established-climate-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Environmental Science Key Concepts Climate Biodiversity Pollution 12x18 Poster"><img src="https://i.ebayimg.com/images/g/cIAAAeSwrIhp99iD/s-l225.jpg" alt="Listing image for Environmental Science Key Concepts Climate Biodiversity Pollution 12x18 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer">BBC NEWS vintage style solid wood sign Wall Plaque antique old retro</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=climate+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-climate-claims-feel-established-climate-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="climate science poster" data-ebay-reference="when-repeated-climate-claims-feel-established-climate-science-poster" target="_blank" rel="sponsored noopener noreferrer">Environmental Science Key Concepts Climate Biodiversity Pollution 12x18 Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for newsroom sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: newsroom sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=climate+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-climate-claims-feel-established-climate-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="climate science poster" data-ebay-reference="when-repeated-climate-claims-feel-established-climate-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for climate science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: climate science poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=climate+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-climate-claims-feel-established-climate-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="climate science poster" data-ebay-reference="when-repeated-climate-claims-feel-established-climate-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -492,15 +480,15 @@ That distinction helps explain why persistent climate myths can survive in publi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Wall Sign- Breaking News Toilet Seats Go Down -Novelty Home Decor Bathroom"><img src="{{ '/assets/images/marketplace-covers/2efcef8f52506f8f74c0.jpg' | relative_url }}" alt="Listing image for Metal Wall Sign- Breaking News Toilet Seats Go Down -Novelty Home Decor Bathroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=climate+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-climate-claims-feel-established-climate-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="climate science poster" data-ebay-reference="when-repeated-climate-claims-feel-established-climate-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Precipitation - NEW Classroom Science Poster"><img src="https://i.ebayimg.com/images/g/ziQAAOxyItlSM2Pz/s-l225.jpg" alt="Listing image for Precipitation - NEW Classroom Science Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer">Metal Wall Sign- Breaking News Toilet Seats Go Down -Novelty Home Decor Bathroom</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=climate+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-climate-claims-feel-established-climate-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="climate science poster" data-ebay-reference="when-repeated-climate-claims-feel-established-climate-science-poster" target="_blank" rel="sponsored noopener noreferrer">Precipitation - NEW Classroom Science Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for newsroom sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: newsroom sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=climate+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-climate-claims-feel-established-climate-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="climate science poster" data-ebay-reference="when-repeated-climate-claims-feel-established-climate-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for climate science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: climate science poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=climate+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-climate-claims-feel-established-climate-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="climate science poster" data-ebay-reference="when-repeated-climate-claims-feel-established-climate-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +496,15 @@ That distinction helps explain why persistent climate myths can survive in publi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for JEFF DANIELS SIGNED THE NEWSROOM 12x18 POSTER PHOTO TV SERIES DUMB DUMBER BAS"><img src="{{ '/assets/images/marketplace-covers/7a756697fa7d0e39d9cf.jpg' | relative_url }}" alt="Listing image for JEFF DANIELS SIGNED THE NEWSROOM 12x18 POSTER PHOTO TV SERIES DUMB DUMBER BAS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=climate+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-climate-claims-feel-established-climate-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="climate science poster" data-ebay-reference="when-repeated-climate-claims-feel-established-climate-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Global Climate Change: Quickstudy Laminated Reference &amp; Study Guide by Jane Gard"><img src="https://i.ebayimg.com/images/g/hnEAAeSwAbNqKyuQ/s-l225.jpg" alt="Listing image for Global Climate Change: Quickstudy Laminated Reference &amp; Study Guide by Jane Gard" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer">JEFF DANIELS SIGNED THE NEWSROOM 12x18 POSTER PHOTO TV SERIES DUMB DUMBER BAS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=climate+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-climate-claims-feel-established-climate-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="climate science poster" data-ebay-reference="when-repeated-climate-claims-feel-established-climate-science-poster" target="_blank" rel="sponsored noopener noreferrer">Global Climate Change: Quickstudy Laminated Reference &amp; Study Guide by Jane Gard</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for newsroom sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: newsroom sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=climate+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-climate-claims-feel-established-climate-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="climate science poster" data-ebay-reference="when-repeated-climate-claims-feel-established-climate-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for climate science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: climate science poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=climate+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-climate-claims-feel-established-climate-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="climate science poster" data-ebay-reference="when-repeated-climate-claims-feel-established-climate-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +512,15 @@ That distinction helps explain why persistent climate myths can survive in publi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE NEWSROOM CAST SIGNED X2 AUTOGRAPHED 12X18 PHOTO POSTER MORTIMER GALLAGHER"><img src="{{ '/assets/images/marketplace-covers/38acb9564eabf2ba93df.jpg' | relative_url }}" alt="Listing image for THE NEWSROOM CAST SIGNED X2 AUTOGRAPHED 12X18 PHOTO POSTER MORTIMER GALLAGHER" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=climate+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-climate-claims-feel-established-climate-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="climate science poster" data-ebay-reference="when-repeated-climate-claims-feel-established-climate-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather - 3 Eyewitness Books 1 Workbook Poster Clip-Art CD *Homeschool*"><img src="https://i.ebayimg.com/images/g/3hcAAOSwCgBnMOuL/s-l225.jpg" alt="Listing image for Weather - 3 Eyewitness Books 1 Workbook Poster Clip-Art CD *Homeschool*" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer">THE NEWSROOM CAST SIGNED X2 AUTOGRAPHED 12X18 PHOTO POSTER MORTIMER GALLAGHER</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=climate+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-climate-claims-feel-established-climate-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="climate science poster" data-ebay-reference="when-repeated-climate-claims-feel-established-climate-science-poster" target="_blank" rel="sponsored noopener noreferrer">Weather - 3 Eyewitness Books 1 Workbook Poster Clip-Art CD *Homeschool*</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for newsroom sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: newsroom sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=climate+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-climate-claims-feel-established-climate-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="climate science poster" data-ebay-reference="when-repeated-climate-claims-feel-established-climate-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for climate science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: climate science poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=climate+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-climate-claims-feel-established-climate-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="climate science poster" data-ebay-reference="when-repeated-climate-claims-feel-established-climate-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,7 +528,7 @@ That distinction helps explain why persistent climate myths can survive in publi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="climate-claims-when-repeated-climate-claims-feel-established-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=climate+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeated-climate-claims-feel-established-climate-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="climate science poster" data-ebay-reference="when-repeated-climate-claims-feel-established-climate-science-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -755,129 +743,129 @@ That distinction helps explain why persistent climate myths can survive in publi
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11305575/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11305575/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCRepetition increases belief in climate-skeptical claims, even...by Y Jiang · 2024 · Cited by 17 — Research with general knowledge cla...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11305575/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11305575/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Repetition increases belief in climate-skeptical claims, even...by Y Jiang · 2024 · Cited by 17 — Research with general knowledge cla...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOSRepetition increases belief in climate-skeptical claims, even...by Y Jiang · 2024 · Cited by 18 — Research with general knowledge cl...</p></details>
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Repetition increases belief in climate-skeptical claims, even...by Y Jiang · 2024 · Cited by 18 — Research with general knowledge cl...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dornsife.usc.edu  
    Title: new research finds that repetition increases belief in climate misinformation  
-   Link: [https://dornsife.usc.edu/wrigley/2024/08/12/new-research-finds-that-repetition-increases-belief-in-climate-misinformation/](https://dornsife.usc.edu/wrigley/2024/08/12/new-research-finds-that-repetition-increases-belief-in-climate-misinformation/)  
+   Link: <a href="https://dornsife.usc.edu/wrigley/2024/08/12/new-research-finds-that-repetition-increases-belief-in-climate-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wrigley/2024/08/12/new-research-finds-that-repetition-increases-belief-in-climate-misinformation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>USC DornsifeNew research finds that repetition increases belief in climate...Aug 12, 2024 — The study found that a single repetition was...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: today.usc.edu  
    Title: how a climate science believer could become a skeptic  
-   Link: [https://today.usc.edu/how-a-climate-science-believer-could-become-a-skeptic/](https://today.usc.edu/how-a-climate-science-believer-could-become-a-skeptic/)  
+   Link: <a href="https://today.usc.edu/how-a-climate-science-believer-could-become-a-skeptic/" target="_blank" rel="noopener noreferrer nofollow">https://today.usc.edu/how-a-climate-science-believer-could-become-a-skeptic/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation — can blur people&#x27;s sense of the truth.... Psychologists refer to this as “truthiness” — or, more formally, the “illusory...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: [https://en.wikipedia.org/wiki/Illusory_truth_effect](https://en.wikipedia.org/wiki/Illusory_truth_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8595491/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8595491/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8595491/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8595491/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A growing body of scholarship investigates the role of misinformation in shaping the debate on climate change.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11467642/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11467642/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCDisinformation as an obstructionist strategy in climate change...by M Gertrudix · 2024 · Cited by 20 — This study examines the scient...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11467642/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11467642/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation as an obstructionist strategy in climate change...by M Gertrudix · 2024 · Cited by 20 — This study examines the scient...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: lse.ac.uk  
    Title: what are climate misinformation and disinformation  
-   Link: [https://www.lse.ac.uk/granthaminstitute/explainers/what-are-climate-misinformation-and-disinformation/](https://www.lse.ac.uk/granthaminstitute/explainers/what-are-climate-misinformation-and-disinformation/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LSEWhat are climate misinformation and disinformation...22 Apr 2024 — Climate misinformation refers to the spread of inaccurate informat...</p></details>
+   Link: <a href="https://www.lse.ac.uk/granthaminstitute/explainers/what-are-climate-misinformation-and-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.lse.ac.uk/granthaminstitute/explainers/what-are-climate-misinformation-and-disinformation/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What are climate misinformation and disinformation...22 Apr 2024 — Climate misinformation refers to the spread of inaccurate informat...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: psychology.org.au  
-   Link: [https://psychology.org.au/community/advocacy-social-issues/environment-climate-change-psychology/resources-for-psychologists-and-others-advocating/the-psychology-of-climate-change-denial](https://psychology.org.au/community/advocacy-social-issues/environment-climate-change-psychology/resources-for-psychologists-and-others-advocating/the-psychology-of-climate-change-denial)  
+   Link: <a href="https://psychology.org.au/community/advocacy-social-issues/environment-climate-change-psychology/resources-for-psychologists-and-others-advocating/the-psychology-of-climate-change-denial" target="_blank" rel="noopener noreferrer nofollow">https://psychology.org.au/community/advocacy-social-issues/environment-climate-change-psychology/resources-for-psychologists-and-others-advocating/the-psychology-of-climate-change-denial</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>First, explain the fallacy employed by the myth. Once people...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: findanexpert.unimelb.edu.au  
-   Link: [https://findanexpert.unimelb.edu.au/news/90353-repeating-aids-believing--climate-misinformation-feels-more-true-through-repetition---even-if-you-back-climate-science](https://findanexpert.unimelb.edu.au/news/90353-repeating-aids-believing--climate-misinformation-feels-more-true-through-repetition---even-if-you-back-climate-science)  
+   Link: <a href="https://findanexpert.unimelb.edu.au/news/90353-repeating-aids-believing--climate-misinformation-feels-more-true-through-repetition---even-if-you-back-climate-science" target="_blank" rel="noopener noreferrer nofollow">https://findanexpert.unimelb.edu.au/news/90353-repeating-aids-believing--climate-misinformation-feels-more-true-through-repetition---even-if-you-back-climate-science</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Repeating aids believing: climate misinformation feels more...7 Aug 2024 — Climate misinformation may be more effective than we&#x27;d like t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/PLOS](https://en.wikipedia.org/wiki/PLOS)  
+   Link: <a href="https://en.wikipedia.org/wiki/PLOS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/PLOS</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOSPLOS is a nonprofit publisher of open-access journals in science, technology, and medicine and other scientific literature, under...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/climate/article?id=10.1371%2Fjournal.pclm.0000916](https://journals.plos.org/climate/article?id=10.1371%2Fjournal.pclm.0000916)  
+   Link: <a href="https://journals.plos.org/climate/article?id=10.1371%2Fjournal.pclm.0000916" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/climate/article?id=10.1371%2Fjournal.pclm.0000916</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the future trajectory of climate misinformationby JK Rice · 2026 — 10]: “Like many media effects, the influence of misinformation...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/psychology/illusory-truth-effect](https://www.ebsco.com/research-starters/psychology/illusory-truth-effect)  
+   Link: <a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This effect is...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/biases/illusory-truth-effect](https://thedecisionlab.com/biases/illusory-truth-effect)  
+   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect - The Decision...And yet, even as we propagate misinformation, most of us are anxious about the effects of [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/continued](https://www.merriam-webster.com/dictionary/continued)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/continued" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/continued</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CONTINUED Definition &amp; Meaning6 days ago — The meaning of CONTINUED is lasting or extending without interruption. How to use continued in...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/illusory](https://www.merriam-webster.com/dictionary/illusory)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/illusory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningillusory implies a false impression based on deceptive resemblance or faulty observation, or influenced by e...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/environment/2025/jun/19/climate-misinformation-turning-crisis-into-catastrophe-ipie-report](https://www.theguardian.com/environment/2025/jun/19/climate-misinformation-turning-crisis-into-catastrophe-ipie-report)  
+   Link: <a href="https://www.theguardian.com/environment/2025/jun/19/climate-misinformation-turning-crisis-into-catastrophe-ipie-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2025/jun/19/climate-misinformation-turning-crisis-into-catastrophe-ipie-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing 300 studies, the report identifies fossil fuel companies, rightwing politicians, and some nation states as key sources of false...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds](https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds)  
+   Link: <a href="https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>illusory truth effect”. The paper is among the first to test the... The findings highlight the dangers of repeating and sharing misinfor...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: climatepromise.undp.org  
    Title: what are climate misinformation and disinformation and how can we tackle them  
-   Link: [https://climatepromise.undp.org/news-and-stories/what-are-climate-misinformation-and-disinformation-and-how-can-we-tackle-them](https://climatepromise.undp.org/news-and-stories/what-are-climate-misinformation-and-disinformation-and-how-can-we-tackle-them)  
+   Link: <a href="https://climatepromise.undp.org/news-and-stories/what-are-climate-misinformation-and-disinformation-and-how-can-we-tackle-them" target="_blank" rel="noopener noreferrer nofollow">https://climatepromise.undp.org/news-and-stories/what-are-climate-misinformation-and-disinformation-and-how-can-we-tackle-them</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>are climate misinformation and disinformation and how...May 1, 2025 — Climate misinformation refers to false or inaccurate information a...</p></details>
    Published: May 1, 2025  
 
 20. <a id="endnote-20"></a>
    Source: genevaenvironmentnetwork.org  
    Title: disinformation environmental policymaking and the role of geneva  
-   Link: [https://www.genevaenvironmentnetwork.org/resources/updates/disinformation-environmental-policymaking-and-the-role-of-geneva/](https://www.genevaenvironmentnetwork.org/resources/updates/disinformation-environmental-policymaking-and-the-role-of-geneva/)  
+   Link: <a href="https://www.genevaenvironmentnetwork.org/resources/updates/disinformation-environmental-policymaking-and-the-role-of-geneva/" target="_blank" rel="noopener noreferrer nofollow">https://www.genevaenvironmentnetwork.org/resources/updates/disinformation-environmental-policymaking-and-the-role-of-geneva/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation, Environmental Policymaking, and the Role...25 Feb 2026 — In the environmental context, disinformation undermines public...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: hsph.harvard.edu  
    Title: what makes us unwittingly share climate misinformation online  
-   Link: [https://hsph.harvard.edu/climate-health-c-change/news/what-makes-us-unwittingly-share-climate-misinformation-online/](https://hsph.harvard.edu/climate-health-c-change/news/what-makes-us-unwittingly-share-climate-misinformation-online/)  
+   Link: <a href="https://hsph.harvard.edu/climate-health-c-change/news/what-makes-us-unwittingly-share-climate-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://hsph.harvard.edu/climate-health-c-change/news/what-makes-us-unwittingly-share-climate-misinformation-online/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>climate misinformation. When false or inaccurate climate messages spread online, they can undermine support for environmental policies...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: anthropocenemagazine.org  
-   Link: [https://www.anthropocenemagazine.org/2024/08/what-seems-most-true-information-that-confirms-your-beliefs-or-information-repeated-over-and-over/](https://www.anthropocenemagazine.org/2024/08/what-seems-most-true-information-that-confirms-your-beliefs-or-information-repeated-over-and-over/)  
+   Link: <a href="https://www.anthropocenemagazine.org/2024/08/what-seems-most-true-information-that-confirms-your-beliefs-or-information-repeated-over-and-over/" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropocenemagazine.org/2024/08/what-seems-most-true-information-that-confirms-your-beliefs-or-information-repeated-over-and-over/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Climate misinformation repeated over and over seems true. Get...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/repeating-false-skeptical-claims-climate-science-l5qfc](https://www.linkedin.com/pulse/repeating-false-skeptical-claims-climate-science-l5qfc)  
+   Link: <a href="https://www.linkedin.com/pulse/repeating-false-skeptical-claims-climate-science-l5qfc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/repeating-false-skeptical-claims-climate-science-l5qfc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Repeating false, skeptical claims about climate science...The findings underscore the risks of spreading and repeating misinformation...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/science/comments/1fryhzw/repeating_a_claim_can_make_it_seem_more/](https://www.reddit.com/r/science/comments/1fryhzw/repeating_a_claim_can_make_it_seem_more/)  
+   Link: <a href="https://www.reddit.com/r/science/comments/1fryhzw/repeating_a_claim_can_make_it_seem_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1fryhzw/repeating_a_claim_can_make_it_seem_more/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ect: A review of how repetition increases belief in misinformation...</p></details>

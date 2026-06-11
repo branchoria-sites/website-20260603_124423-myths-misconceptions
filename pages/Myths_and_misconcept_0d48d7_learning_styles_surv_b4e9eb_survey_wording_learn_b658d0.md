@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_training_cuts_learni_e9cba9
 - Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_wellcome_learning_st_d7ba60
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - teacher-belief
 - survey-wording
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - teacher-belief
 - survey-wording
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Small changes in survey wording can blur preferences, variety and the stronger matching claim that evidence reviews reject.
 hero_summary: Small changes in survey wording can blur preferences, variety and the stronger matching claim that evidence reviews reject.
 layout: default
 permalink: /survey-wording/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /teacher-belief/
 nav_short_title: Survey wording
 title: Why survey questions make the myth easy to endorse
-title_full: Why survey questions make the myth easy to endorse | Teacher Belief
+title_full: Why survey questions make the myth easy to endorse
 display_title_short: Survey wording
 display_title: Survey wording
 heading_title: Why survey questions make the myth easy to endorse
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Common Is Belief in Learning Styles? | Mythcraft
+parent_title: How Common Is Belief in Learning Styles?
 parent_permalink: /teacher-belief/
 parent_nav_short_title: Teacher Belief
 parent_heading_title: How Common Is Belief in Learning Styles?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why new teachers still inherit learning styles
 up_link:
   basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
@@ -265,7 +265,7 @@ next_link:
   permalink: /teacher-belief-a45b18/
   short_title: Teacher belief
   heading_title: Why new teachers still inherit learning styles
-date: '2026-06-09 05:22:45 '
+date: '2026-06-11 22:30:25 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_survey_wording_learn_b658d0-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_survey_wording_learn_b658d0-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_su
 ## Introduction
 
 Survey results showing overwhelming belief in learning styles are often treated as straightforward evidence that educators endorse the theory. However, a closer look at the wording of many survey questions reveals an important complication: small changes in phrasing can blur the distinction between a harmless claim about learning preferences and the much stronger “matching” claim that research reviews have repeatedly failed to support. As a result, some survey items may make endorsement easier than the headline percentages suggest. The issue is not that survey findings are meaningless, but that question wording can shape what respondents think they are agreeing with. Understanding this wording effect is essential for interpreting the often-cited figures showing widespread belief in learning styles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers How Common Is Belief in the Learning Styles Neuromyth</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...December 14, 2020 — by PM Newton · 2020 · Cited by 207 — Self-reported...</span><span class="citation-popover-meta">Published: December 14, 2020</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_survey_wording_learn_b658d0-Illustration-1-dark.svg" | relative_url }}" alt="Survey wording illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_survey_wording_learn_b658d0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_survey_wording_learn_b658d0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Preference versus matching in common survey items
@@ -294,9 +293,6 @@ Only the third claim is the core learning-styles hypothesis tested in experiment
 
 This distinction matters because evidence reviews have generally found little or no support for the matching hypothesis itself, even while acknowledging that preferences exist and that varied instruction can be useful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Bjork Learning and Forgetting Lab Learning Styles</span><span class="citation-popover-snippet">Bjork Learning and Forgetting LabLearning StylesDecember 8, 2009 — by H Pashler · Cited by 5025 — Assessments of learning style typically...</span><span class="citation-popover-meta">Published: December 8, 2009</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modality-Specific Learning Style Hypothesis: A Mini-Reviewby K Aslaksen · 2018 · Cited by 98 — Several topical reviews have concluded tha...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S0xKp8FZwg0" title="Falsifiability" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S0xKp8FZwg0" target="_blank" rel="noopener noreferrer">Falsifiability</a></p><p class="youtube-embed-meta">Channel: 60 Second Skeptic &middot; Views: 9.9K &middot; Uploaded: July 2022 &middot; Length: 1 minute 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S0xKp8FZwg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S0xKp8FZwg0">Open on YouTube</a></p></div></div></div>
-
 ## Why harmless-sounding wording changes the result
 
 The strongest evidence that wording matters comes from analyses comparing responses to questions about learning preferences with responses to questions about learning styles.
@@ -309,12 +305,10 @@ Another clue comes from studies that provided additional explanation before aski
 
 More recent discussions of the persistence of learning-styles beliefs have reached a similar conclusion. Researchers argue that educational discussions frequently mix together learning styles, learning preferences, study strategies and differentiated instruction. When these concepts are merged, respondents may endorse a survey statement because they support one of those ideas rather than the specific matching hypothesis under investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/390403474_Learning_Styles_Preferences_or_Strategies_An_Explanation_for_the_Resurgence_of_Styles_Across_Many_Meta-analyses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Learning Styles, Preferences, or Strategies?</span><span class="citation-popover-snippet">1, 2025 — 1 Apr 2025 — This paper examines the resurgence of learning styles across meta-analyses and proposes an explanation...</span><span class="citation-popover-meta">Published: April 1, 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_survey_wording_learn_b658d0-Illustration-2-dark.svg" | relative_url }}" alt="Survey wording illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_survey_wording_learn_b658d0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_survey_wording_learn_b658d0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A concrete example of survey ambiguity
 
 Consider two hypothetical survey items:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -329,15 +323,13 @@ Research on learning-styles belief suggests that many surveys rely on wording cl
 
 This does not mean the survey respondents are confused or careless. Rather, the language of learning styles has become intertwined with broadly accepted educational values such as responsiveness to individual learners, flexibility and inclusive teaching. Those positive associations make endorsement more likely when survey wording remains general. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdr.lib.unc.edu/downloads/gx41mv91m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdr.lib.unc.edu">[Carolina Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdr.lib.unc.edu</span><span class="citation-popover-snippet">Carolina Digital RepositoryWhy educators endorse a neuromythby C Bresnahan · 2024 · Cited by 8 — Second, research studies often strictly...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_HzPFXICOB4" title="Dispelling Neuro-Myths: Clarifying Brain Science and Neurodiversity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_HzPFXICOB4" target="_blank" rel="noopener noreferrer">Dispelling Neuro-Myths: Clarifying Brain Science and Neurodiversity</a></p><p class="youtube-embed-meta">Channel: Exceptional Individuals</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_HzPFXICOB4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_HzPFXICOB4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S0xKp8FZwg0" title="Falsifiability" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S0xKp8FZwg0" target="_blank" rel="noopener noreferrer">Falsifiability</a></p><p class="youtube-embed-meta">Channel: 60 Second Skeptic &middot; Views: 9.9K &middot; Uploaded: July 2022 &middot; Length: 1 minute 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S0xKp8FZwg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S0xKp8FZwg0">Open on YouTube</a></p></div></div></div>
 
 ## How future surveys could ask the question more clearly
 
 If the goal is to measure belief in the learning-styles myth specifically, survey design can reduce ambiguity.
 
 Researchers could separate at least three distinct questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -353,17 +345,12 @@ Surveys could also define [key terms]({{ 'key-terms/' | relative_url }}) before 
 
 A further improvement would be to ask respondents to evaluate specific scenarios rather than abstract statements. Concrete examples make it easier to distinguish support for learner preferences from support for matching instruction to fixed learner categories.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_survey_wording_learn_b658d0-Illustration-3-dark.svg" | relative_url }}" alt="Survey wording illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_survey_wording_learn_b658d0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_survey_wording_learn_b658d0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the wording issue means for interpreting survey evidence
 
 The evidence does not overturn the broader finding that belief in learning styles is widespread. Large surveys and systematic reviews consistently show high levels of endorsement among educators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers How Common Is Belief in the Learning Styles Neuromyth</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...December 14, 2020 — by PM Newton · 2020 · Cited by 207 — Self-reported...</span><span class="citation-popover-meta">Published: December 14, 2020</span></span></span> Springer What the wording evidence changes is how those numbers should be interpreted. A response endorsing <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-025-10002-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Learning Styles, Preferences, or Strategies?</span><span class="citation-popover-snippet">An Explanation...by J Hattie · 2025 · Cited by 75 — In summary, 89% of teachers agreed that students learn better when taught with their...</span></span></span>“preferred learning styles” may not always indicate commitment to the precise matching hypothesis rejected by major evidence reviews. Some respondents may instead be expressing support for learner preferences, instructional variety or personalised teaching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers How Common Is Belief in the Learning Styles Neuromyth</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...December 14, 2020 — by PM Newton · 2020 · Cited by 207 — Self-reported...</span><span class="citation-popover-meta">Published: December 14, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdr.lib.unc.edu/downloads/gx41mv91m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdr.lib.unc.edu">[Carolina Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdr.lib.unc.edu</span><span class="citation-popover-snippet">Carolina Digital RepositoryWhy educators endorse a neuromythby C Bresnahan · 2024 · Cited by 8 — Second, research studies often strictly...</span></span></span>
 
 For that reason, the most informative question is not simply how many people agree with a learning-styles statement, but exactly what statement they were asked to endorse. In the learning-styles debate, a few words can make the difference between measuring belief in a disputed educational theory and measuring support for ideas that most educators already accept. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers How Common Is Belief in the Learning Styles Neuromyth</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...December 14, 2020 — by PM Newton · 2020 · Cited by 207 — Self-reported...</span><span class="citation-popover-meta">Published: December 14, 2020</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhgwIhB58PA" title="The Biggest Myth In Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer">The Biggest Myth In Education</a></p><p class="youtube-embed-meta">Channel: Veritasium</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhgwIhB58PA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -730,42 +717,42 @@ For that reason, the most informative question is not simply how many people agr
 1. <a id="endnote-1"></a>
    Source: link.springer.com  
    Title: Learning Styles, Preferences, or Strategies?  
-   Link: [https://link.springer.com/article/10.1007/s10648-025-10002-w](https://link.springer.com/article/10.1007/s10648-025-10002-w)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10648-025-10002-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-025-10002-w</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Explanation...by J Hattie · 2025 · Cited by 75 — In summary, 89% of teachers agreed that students learn better when taught with their...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Modality-Specific Learning Style Hypothesis: A Mini-Reviewby K Aslaksen · 2018 · Cited by 98 — Several topical reviews have concluded tha...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Learning Styles, Preferences, or Strategies?  
-   Link: [https://www.researchgate.net/publication/390403474_Learning_Styles_Preferences_or_Strategies_An_Explanation_for_the_Resurgence_of_Styles_Across_Many_Meta-analyses](https://www.researchgate.net/publication/390403474_Learning_Styles_Preferences_or_Strategies_An_Explanation_for_the_Resurgence_of_Styles_Across_Many_Meta-analyses)  
+   Link: <a href="https://www.researchgate.net/publication/390403474_Learning_Styles_Preferences_or_Strategies_An_Explanation_for_the_Resurgence_of_Styles_Across_Many_Meta-analyses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390403474_Learning_Styles_Preferences_or_Strategies_An_Explanation_for_the_Resurgence_of_Styles_Across_Many_Meta-analyses</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1, 2025 — 1 Apr 2025 — This paper examines the resurgence of learning styles across meta-analyses and proposes an explanation...</p></details>
    Published: April 1, 2025  
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11251-024-09689-1](https://link.springer.com/article/10.1007/s11251-024-09689-1)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11251-024-09689-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11251-024-09689-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the meshing hypothesis in prospective teachers: Are...by L Melzner · 2025 · Cited by 5 — The study provides further evidence that consid...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: frontiersin.org  
    Title: Frontiers How Common Is Belief in the Learning Styles Neuromyth  
-   Link: [https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full)  
+   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersHow Common Is Belief in the Learning Styles Neuromyth...December 14, 2020 — by PM Newton · 2020 · Cited by 207 — Self-reported...</p></details>
    Published: December 14, 2020  
 
 6. <a id="endnote-6"></a>
    Source: cdr.lib.unc.edu  
-   Link: [https://cdr.lib.unc.edu/downloads/gx41mv91m](https://cdr.lib.unc.edu/downloads/gx41mv91m)  
+   Link: <a href="https://cdr.lib.unc.edu/downloads/gx41mv91m" target="_blank" rel="noopener noreferrer nofollow">https://cdr.lib.unc.edu/downloads/gx41mv91m</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carolina Digital RepositoryWhy educators endorse a neuromythby C Bresnahan · 2024 · Cited by 8 — Second, research studies often strictly...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: bjorklab.psych.ucla.edu  
    Title: Bjork Learning and Forgetting Lab Learning Styles  
-   Link: [https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf](https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf)  
+   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork Learning and Forgetting LabLearning StylesDecember 8, 2009 — by H Pashler · Cited by 5025 — Assessments of learning style typically...</p></details>
    Published: December 8, 2009  
 
@@ -773,53 +760,53 @@ For that reason, the most informative question is not simply how many people agr
 
 8. <a id="endnote-8"></a>
    Source: gc-bs.org  
-   Link: [https://gc-bs.org/articles/from-styles-to-science-[debunking](https://gc-bs.org/articles/from-styles-to-science-[debunking)  
+   Link: <a href="https://gc-bs.org/articles/from-styles-to-science-[debunking" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/from-styles-to-science-[debunking</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Learning Styles Myth and Embracing...12 Jan 2026 — The central claim, known as the meshing hypothesis, that learning is op...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: rsisinternational.org  
-   Link: [https://rsisinternational.org/journals/ijrsi/articles/learning-styles-and-teaching-styles-as-factors-affecting-students-engagement-of-learners-with-learning-disabilities/](https://rsisinternational.org/journals/ijrsi/articles/learning-styles-and-teaching-styles-as-factors-affecting-students-engagement-of-learners-with-learning-disabilities/)  
+   Link: <a href="https://rsisinternational.org/journals/ijrsi/articles/learning-styles-and-teaching-styles-as-factors-affecting-students-engagement-of-learners-with-learning-disabilities/" target="_blank" rel="noopener noreferrer nofollow">https://rsisinternational.org/journals/ijrsi/articles/learning-styles-and-teaching-styles-as-factors-affecting-students-engagement-of-learners-with-learning-disabilities/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles and Teaching Styles as Factors Affecting...14 Jul 2025 — The purpose of this study was to examine the relationship betwe...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/](https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/)  
+   Link: <a href="https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>problem with learning styles: debunking the meshing...22 Feb 2018 — The idea that catering to a learner&#x27;s favoured sensory preference, o...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: swansea.ac.uk  
-   Link: [https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php](https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php)  
+   Link: <a href="https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php" target="_blank" rel="noopener noreferrer nofollow">https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Swansea UniversityNew review says ineffective &#x27;learning styles&#x27; theory persists...6 Jan 2021 — They found 89.1 per cent of 15,045 educat...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cronfa.swan.ac.uk  
    Title: swan.ac.uk Evidence-Based Higher Education – Is the Learning  
-   Link: [https://cronfa.swan.ac.uk/Record/cronfa32734](https://cronfa.swan.ac.uk/Record/cronfa32734)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cronfaby PM Newton · 2017 · Cited by 470 — Abstract. The basic idea behind the use of &#x27;Learning Styles&#x27; is that learners can be categoriz...</p></details>
+   Link: <a href="https://cronfa.swan.ac.uk/Record/cronfa32734" target="_blank" rel="noopener noreferrer nofollow">https://cronfa.swan.ac.uk/Record/cronfa32734</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by PM Newton · 2017 · Cited by 470 — Abstract. The basic idea behind the use of &#x27;Learning Styles&#x27; is that learners can be categoriz...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: td.org  
    Title: l d neuromyth learning styles visual auditory kinesthetic  
-   Link: [https://www.td.org/content/atd-blog/l-d-neuromyth-learning-styles-visual-auditory-kinesthetic](https://www.td.org/content/atd-blog/l-d-neuromyth-learning-styles-visual-auditory-kinesthetic)  
+   Link: <a href="https://www.td.org/content/atd-blog/l-d-neuromyth-learning-styles-visual-auditory-kinesthetic" target="_blank" rel="noopener noreferrer nofollow">https://www.td.org/content/atd-blog/l-d-neuromyth-learning-styles-visual-auditory-kinesthetic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>L&amp;D Neuromyth: Learning Styles (Visual, Auditory...30 Jun 2015 — As noted in “Learning Styles: Concepts and Evidence,” the myth of learn...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ouci.dntb.gov.ua  
    Title: dntb.gov.ua Learning Styles, Preferences, or Strategies?  
-   Link: [https://ouci.dntb.gov.ua/en/works/4M1rdxKY/](https://ouci.dntb.gov.ua/en/works/4M1rdxKY/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/4M1rdxKY/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4M1rdxKY/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>paper examines the resurgence of learning styles across meta-analyses and proposes an explanation for their enduring appeal. D...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: danielwillingham.com  
-   Link: [https://www.danielwillingham.com/daniel-willingham-science-and-education-blog/how-many-people-believe-learning-styles-theories-are-right-and-why](https://www.danielwillingham.com/daniel-willingham-science-and-education-blog/how-many-people-believe-learning-styles-theories-are-right-and-why)  
+   Link: <a href="https://www.danielwillingham.com/daniel-willingham-science-and-education-blog/how-many-people-believe-learning-styles-theories-are-right-and-why" target="_blank" rel="noopener noreferrer nofollow">https://www.danielwillingham.com/daniel-willingham-science-and-education-blog/how-many-people-believe-learning-styles-theories-are-right-and-why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How many people believe learning styles theories are right...4 Sept 2017 — Learning styles theory was endorsed by 93% of the public, and...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: blogs.northampton.ac.uk  
-   Link: [https://blogs.northampton.ac.uk/learntech/2016/06/16/question-whats-your-preferred-learning-style/](https://blogs.northampton.ac.uk/learntech/2016/06/16/question-whats-your-preferred-learning-style/)  
+   Link: <a href="https://blogs.northampton.ac.uk/learntech/2016/06/16/question-whats-your-preferred-learning-style/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.northampton.ac.uk/learntech/2016/06/16/question-whats-your-preferred-learning-style/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>northampton.ac.ukQuestion: What&#x27;s Your Preferred Learning Style?16 Jun 2016 — Students don&#x27;t really learn better when receiving informati...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: doaj.org  
-   Link: [https://doaj.org/article/f4c1d0affe394f75b255362a0f7121c4](https://doaj.org/article/f4c1d0affe394f75b255362a0f7121c4)  
+   Link: <a href="https://doaj.org/article/f4c1d0affe394f75b255362a0f7121c4" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/f4c1d0affe394f75b255362a0f7121c4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>weighted percentage of 89.1%, ranging from 58 to 97.6%.Read more...</p></details>

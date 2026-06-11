@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc
 - Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_training_cuts_learni_e9cba9
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - teacher-belief
 - reported-use
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - teacher-belief
 - reported-use
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: The Wellcome survey shows how learning styles moved from belief into lesson planning and classroom routines.
 hero_summary: The Wellcome survey shows how learning styles moved from belief into lesson planning and classroom routines.
 layout: default
 permalink: /reported-use/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /teacher-belief/
 nav_short_title: Reported use
 title: When belief becomes classroom routine
-title_full: When belief becomes classroom routine | Teacher Belief
+title_full: When belief becomes classroom routine
 display_title_short: Reported use
 display_title: Reported use
 heading_title: When belief becomes classroom routine
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Common Is Belief in Learning Styles? | Mythcraft
+parent_title: How Common Is Belief in Learning Styles?
 parent_permalink: /teacher-belief/
 parent_nav_short_title: Teacher Belief
 parent_heading_title: How Common Is Belief in Learning Styles?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why new teachers still inherit learning styles
 up_link:
   basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
@@ -265,7 +265,7 @@ next_link:
   permalink: /survey-wording/
   short_title: Survey wording
   heading_title: Why survey questions make the myth easy to endorse
-date: '2026-06-09 05:23:56 '
+date: '2026-06-11 22:30:58 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_wellcome_learning_st_d7ba60-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_wellcome_learning_st_d7ba60-Illustration-1.webp
@@ -274,20 +274,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_we
 
 ## Introduction
 
-The Wellcome survey is important not because it measured belief in learning styles, but because it documented how that belief was being translated into everyday teaching practice. In its 2014 report *How Neuroscience is Affecting Education*, Wellcome found that 76% of surveyed teachers reported currently using learning styles, while a further 16% had used them previously. Only a small minority had heard of the idea without using it. The significance of these figures is that learning styles had moved beyond a theoretical preference and become embedded in classroom routines, lesson design and professional decision-making. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/sites/default/files/wtp055240.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-title">How neuroscience is affecting education</span><span class="citation-popover-snippet">WellcomeHow neuroscience is affecting education: - WellcomeJanuary 3, 2014 — 7,8 A large majority (76 per cent) of teachers surveyed curr...</span><span class="citation-popover-meta">Published: January 3, 2014</span></span></span>
-
+The Wellcome survey is important not because it measured belief in learning styles, but because it documented how that belief was being translated into everyday teaching practice. In its 2014 report *How Neuroscience is Affecting Education*, Wellcome found that 76% of surveyed teachers reported currently using learning styles, while a further 16% had used them previously. Only a small minority had heard of the idea without using it. The significance of these figures is that learning styles had moved beyond a theoretical preference and become embedded in classroom routines, lesson design and professional decision-making. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/sites/default/files/wtp055240.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-title">How neuroscience is affecting education</span><span class="citation-popover-snippet">How neuroscience is affecting education: - WellcomeJanuary 3, 2014  7,8 A large majority (76 per cent) of teachers surveyed curr...</span><span class="citation-popover-meta">Published: January 3, 2014</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_wellcome_learning_st_d7ba60-Illustration-1-dark.svg" | relative_url }}" alt="Reported use illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_wellcome_learning_st_d7ba60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_wellcome_learning_st_d7ba60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For understanding misconceptions in education, this distinction matters. A belief becomes more consequential when it influences how teachers allocate time, plan lessons and think about learners. The Wellcome data therefore provides a snapshot of the point at which a widely accepted idea became a practical framework for classroom action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-snippet">Wellcome: HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</span></span></span>
+For understanding misconceptions in education, this distinction matters. A belief becomes more consequential when it influences how teachers allocate time, plan lessons and think about learners. The Wellcome data therefore provides a snapshot of the point at which a widely accepted idea became a practical framework for classroom action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-snippet">HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</span></span></span>
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_wellcome_learning_st_d7ba60-Illustration-3-dark.svg" | relative_url }}" alt="Reported use illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_wellcome_learning_st_d7ba60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_wellcome_learning_st_d7ba60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What teachers reported using learning styles for
 
 One of the most revealing parts of the Wellcome survey was that it did not merely ask whether teachers had heard of learning styles. It asked how they used them.
 
 Among teachers who described their practice:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -295,45 +291,35 @@ Among teachers who described their practice:
 * 14% said they used the approach to try to reach all learners and benefit different types of students.
 * 14% reported using learning-style thinking in all or most lessons.
 * 11% discussed learning styles with pupils so that students could identify their own preferred style.
-* 6% used questionnaires or assessments to determine students' learning styles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/sites/default/files/wtp055240.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-title">How neuroscience is affecting education</span><span class="citation-popover-snippet">WellcomeHow neuroscience is affecting education: - WellcomeJanuary 3, 2014 — 7,8 A large majority (76 per cent) of teachers surveyed curr...</span><span class="citation-popover-meta">Published: January 3, 2014</span></span></span>
+* 6% used questionnaires or assessments to determine students' learning styles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/sites/default/files/wtp055240.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-title">How neuroscience is affecting education</span><span class="citation-popover-snippet">How neuroscience is affecting education: - WellcomeJanuary 3, 2014  7,8 A large majority (76 per cent) of teachers surveyed curr...</span><span class="citation-popover-meta">Published: January 3, 2014</span></span></span>
 
 </div>
 
-These responses show several levels of implementation. At the lightest level, teachers used learning styles as a reminder to vary activities. At the strongest level, some were actively classifying pupils and adjusting instruction on the basis of those classifications. The survey therefore captured a spectrum ranging from general teaching habits to more formal attempts to diagnose and accommodate supposedly distinct learner types. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-snippet">Wellcome: HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</span></span></span>
+These responses show several levels of implementation. At the lightest level, teachers used learning styles as a reminder to vary activities. At the strongest level, some were actively classifying pupils and adjusting instruction on the basis of those classifications. The survey therefore captured a spectrum ranging from general teaching habits to more formal attempts to diagnose and accommodate supposedly distinct learner types. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-snippet">HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</span></span></span>
 
-The findings are particularly notable because they concern actual reported behaviour rather than abstract agreement with a survey statement. Many discussions of learning styles focus on whether teachers believe the idea. The Wellcome results show that many teachers reported acting on it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-snippet">Wellcome: HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o_SQrRa73U0" title="Learning Styles - A Complete Myth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o_SQrRa73U0" target="_blank" rel="noopener noreferrer">Learning Styles - A Complete Myth</a></p><p class="youtube-embed-meta">Channel: MEMORIZE Academy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o_SQrRa73U0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o_SQrRa73U0">Open on YouTube</a></p></div></div></div>
-
-## Why varied teaching is not the same as diagnosis
-
-The Wellcome report also revealed an important complication. Most teachers who explained their use of learning styles did not describe the approach in its original, narrow form. According to the report, 61% referred to using more than the traditional visual, auditory and kinaesthetic categories. Many appeared to interpret learning styles as a broader commitment to offering different activities, formats and choices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-snippet">Wellcome: HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</span></span></span>
-
-This distinction helps explain why learning styles remained attractive even as evidence against the matching hypothesis accumulated. A teacher who uses diagrams, discussion, practical activities and written explanations is often employing sensible instructional variety. The problem arises when that variety is justified by the assumption that pupils belong to stable categories such as "visual learners" or "auditory learners" and therefore require specially matched instruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-snippet">Wellcome: HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</span></span></span>
-
-The Wellcome data suggests that many teachers were blending these ideas together. As a result, support for varied teaching methods could easily be interpreted as support for learning-style diagnosis. Later research has argued that the term "learning styles" often means different things to different educators, making survey responses difficult to interpret unless implementation details are examined closely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/342669733_The_learning_styles_neuromyth_when_the_same_term_means_different_things_to_different_teachers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The learning styles neuromyth: when the same term...30 Jul 2020 — In terms of identifying LS, educators reported using...</span></span></span>
-
-This helps explain an apparent paradox. Teachers may be reporting practices that are educationally reasonable—using multiple examples, different forms of explanation and varied classroom activities—while simultaneously framing those practices through a theory that lacks strong empirical support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-snippet">Wellcome: HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2AfwsoejfqU" title="Neuromyths and Core Teacher Attitudes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2AfwsoejfqU" target="_blank" rel="noopener noreferrer">Neuromyths and Core Teacher Attitudes</a></p><p class="youtube-embed-meta">Channel: Conexiones: The Learning Sciences Platform</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2AfwsoejfqU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2AfwsoejfqU">Open on YouTube</a></p></div></div></div>
-
+The findings are particularly notable because they concern actual reported behaviour rather than abstract agreement with a survey statement. Many discussions of learning styles focus on whether teachers believe the idea. The Wellcome results show that many teachers reported acting on it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-snippet">HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_wellcome_learning_st_d7ba60-Illustration-2-dark.svg" | relative_url }}" alt="Reported use illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_wellcome_learning_st_d7ba60-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_wellcome_learning_st_d7ba60-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why varied teaching is not the same as diagnosis
+
+The Wellcome report also revealed an important complication. Most teachers who explained their use of learning styles did not describe the approach in its original, narrow form. According to the report, 61% referred to using more than the traditional visual, auditory and kinaesthetic categories. Many appeared to interpret learning styles as a broader commitment to offering different activities, formats and choices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-snippet">HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</span></span></span>
+
+This distinction helps explain why learning styles remained attractive even as evidence against the matching hypothesis accumulated. A teacher who uses diagrams, discussion, practical activities and written explanations is often employing sensible instructional variety. The problem arises when that variety is justified by the assumption that pupils belong to stable categories such as "visual learners" or "auditory learners" and therefore require specially matched instruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-snippet">HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</span></span></span>
+
+The Wellcome data suggests that many teachers were blending these ideas together. As a result, support for varied teaching methods could easily be interpreted as support for learning-style diagnosis. Later research has argued that the term "learning styles" often means different things to different educators, making survey responses difficult to interpret unless implementation details are examined closely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/342669733_The_learning_styles_neuromyth_when_the_same_term_means_different_things_to_different_teachers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The learning styles neuromyth: when the same term...30 Jul 2020  In terms of identifying LS, educators reported using...</span></span></span>
+
+This helps explain an apparent paradox. Teachers may be reporting practices that are educationally reasonableusing multiple examples, different forms of explanation and varied classroom activitieswhile simultaneously framing those practices through a theory that lacks strong empirical support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-snippet">HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</span></span></span>
+
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_wellcome_learning_st_d7ba60-Illustration-3-dark.svg" | relative_url }}" alt="Reported use illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_wellcome_learning_st_d7ba60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_wellcome_learning_st_d7ba60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The opportunity cost of style-based planning
 
 The most significant implication of the Wellcome survey is not simply that learning styles were popular. It is that teacher effort was being directed towards a framework that many reviews had already found weakly supported.
 
-When a quarter of respondents report incorporating learning styles into lesson planning, the issue becomes one of resource allocation. Planning time is limited. Time spent identifying styles, administering questionnaires, categorising pupils or redesigning lessons around presumed learner types is time not spent on approaches with stronger evidence bases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-snippet">Wellcome: HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</span></span></span>
+When a quarter of respondents report incorporating learning styles into lesson planning, the issue becomes one of resource allocation. Planning time is limited. Time spent identifying styles, administering questionnaires, categorising pupils or redesigning lessons around presumed learner types is time not spent on approaches with stronger evidence bases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-snippet">HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</span></span></span>
 
-The survey therefore highlights a practical cost of educational myths. Even if learning-style activities do not directly harm learning, they can shape professional priorities. Teachers may invest effort in classification systems that offer little demonstrable benefit while overlooking factors that are more clearly linked to learning outcomes, such as prior knowledge, practice, feedback, curriculum sequencing or subject-specific teaching methods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — found that the learning styles neuromyth was th...</span></span></span>
+The survey therefore highlights a practical cost of educational myths. Even if learning-style activities do not directly harm learning, they can shape professional priorities. Teachers may invest effort in classification systems that offer little demonstrable benefit while overlooking factors that are more clearly linked to learning outcomes, such as prior knowledge, practice, feedback, curriculum sequencing or subject-specific teaching methods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the Myth: Training in Education or Neuroscience...by K Macdonald  2017  Cited by 455  found that the learning styles neuromyth was th...</span></span></span>
 
-The Wellcome findings are especially valuable because they show this process at the implementation stage. Rather than revealing only what educators believed, they reveal how a belief became embedded in planning decisions, classroom routines and conversations with students. That makes the survey one of the clearest pieces of evidence that the learning-styles idea was functioning not merely as a popular theory, but as an operational part of classroom practice in many schools. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-snippet">Wellcome: HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">How Neuroscience Is Affecting Education: Report of Teacher and Parent Surveys.Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+The Wellcome findings are especially valuable because they show this process at the implementation stage. Rather than revealing only what educators believed, they reveal how a belief became embedded in planning decisions, classroom routines and conversations with students. That makes the survey one of the clearest pieces of evidence that the learning-styles idea was functioning not merely as a popular theory, but as an operational part of classroom practice in many schools. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wellcome.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wellcome.org">[Wellcome]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wellcome.org</span><span class="citation-popover-snippet">HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">How Neuroscience Is Affecting Education: Report of Teacher and Parent Surveys.Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -468,11 +454,11 @@ The Wellcome findings are especially valuable because they show this process at 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reported-use-when-belief-becomes-classroom-routine-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="reported-use-when-belief-becomes-classroom-routine-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacherâ€™s Day Gift Cushion Cover Best Teacher Globe Pillowcase Classroom Decor"><img src="{{ '/assets/images/marketplace-covers/fe35f66c79d0d3d9f527.jpg' | relative_url }}" alt="Listing image for Teacherâ€™s Day Gift Cushion Cover Best Teacher Globe Pillowcase Classroom Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reported-use-when-belief-becomes-classroom-routine-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="reported-use-when-belief-becomes-classroom-routine-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher’s Day Gift Cushion Cover Best Teacher Globe Pillowcase Classroom Decor"><img src="{{ '/assets/images/marketplace-covers/fe35f66c79d0d3d9f527.jpg' | relative_url }}" alt="Listing image for Teacher’s Day Gift Cushion Cover Best Teacher Globe Pillowcase Classroom Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reported-use-when-belief-becomes-classroom-routine-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="reported-use-when-belief-becomes-classroom-routine-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Teacherâ€™s Day Gift Cushion Cover Best Teacher Globe Pillowcase Classroom Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reported-use-when-belief-becomes-classroom-routine-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="reported-use-when-belief-becomes-classroom-routine-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Teacher’s Day Gift Cushion Cover Best Teacher Globe Pillowcase Classroom Decor</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reported-use-when-belief-becomes-classroom-routine-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="reported-use-when-belief-becomes-classroom-routine-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom decor</a>
         <div class="fr-book-actions">
@@ -732,103 +718,103 @@ The Wellcome findings are especially valuable because they show this process at 
 1. <a id="endnote-1"></a>
    Source: wellcome.org  
    Title: How neuroscience is affecting education  
-   Link: [https://wellcome.org/sites/default/files/wtp055240.pdf](https://wellcome.org/sites/default/files/wtp055240.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WellcomeHow neuroscience is affecting education: - WellcomeJanuary 3, 2014 — 7,8 A large majority (76 per cent) of teachers surveyed curr...</p></details>
+   Link: <a href="https://wellcome.org/sites/default/files/wtp055240.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wellcome.org/sites/default/files/wtp055240.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How neuroscience is affecting education: - WellcomeJanuary 3, 2014  7,8 A large majority (76 per cent) of teachers surveyed curr...</p></details>
    Published: January 3, 2014  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — found that the learning styles neuromyth was th...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Myth: Training in Education or Neuroscience...by K Macdonald  2017  Cited by 455  found that the learning styles neuromyth was th...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/342669733_The_learning_styles_neuromyth_when_the_same_term_means_different_things_to_different_teachers](https://www.researchgate.net/publication/342669733_The_learning_styles_neuromyth_when_the_same_term_means_different_things_to_different_teachers)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The learning styles neuromyth: when the same term...30 Jul 2020 — In terms of identifying LS, educators reported using...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/342669733_The_learning_styles_neuromyth_when_the_same_term_means_different_things_to_different_teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342669733_The_learning_styles_neuromyth_when_the_same_term_means_different_things_to_different_teachers</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The learning styles neuromyth: when the same term...30 Jul 2020  In terms of identifying LS, educators reported using...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Neuroscience Is Affecting Education: Report of Teacher and Parent Surveys.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: wellcome.org  
-   Link: [https://wellcome.org/](https://wellcome.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wellcome: HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</p></details>
+   Link: <a href="https://wellcome.org/" target="_blank" rel="noopener noreferrer nofollow">https://wellcome.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeWellcome supports discovery research into life, health and wellbeing, and we&#x27;re taking on three worldwide health challenges...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: How neuroscience is affecting education  
-   Link: [https://www.youtube.com/watch?v=k4Y8Z2t0Nis](https://www.youtube.com/watch?v=k4Y8Z2t0Nis)  
+   Link: <a href="https://www.youtube.com/watch?v=k4Y8Z2t0Nis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k4Y8Z2t0Nis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) learning styles in the classroom...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Wellcome Trust  
-   Link: [https://en.wikipedia.org/wiki/Wellcome_Trust](https://en.wikipedia.org/wiki/Wellcome_Trust)  
+   Link: <a href="https://en.wikipedia.org/wiki/Wellcome_Trust" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wellcome_Trust</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wellcome TrustThe Wellcome Trust is a charitable foundation focused on health research based in London, United Kingdom. It was establi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: wellcomeopenresearch.org  
-   Link: [https://wellcomeopenresearch.org/](https://wellcomeopenresearch.org/)  
+   Link: <a href="https://wellcomeopenresearch.org/" target="_blank" rel="noopener noreferrer nofollow">https://wellcomeopenresearch.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ir research outputs quickly, openly and transparently.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/user/wellcometrust](https://www.youtube.com/user/wellcometrust)  
+   Link: <a href="https://www.youtube.com/user/wellcometrust" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/wellcometrust</a>  
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: learnus.co.uk  
-   Link: [https://www.learnus.co.uk/LSREducationalNeuroscience.pdf](https://www.learnus.co.uk/LSREducationalNeuroscience.pdf)  
+   Link: <a href="https://www.learnus.co.uk/LSREducationalNeuroscience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.learnus.co.uk/LSREducationalNeuroscience.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Teachers&#x27; attitudes towards educational neuroscienceA majority of teachers (71%) agree that it is relevant to their professional developm...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dana.org  
-   Link: [https://dana.org/article/when-the-myth-is-the-message-[neuromyths](https://dana.org/article/when-the-myth-is-the-message-[neuromyths)  
+   Link: <a href="https://dana.org/article/when-the-myth-is-the-message-[neuromyths" target="_blank" rel="noopener noreferrer nofollow">https://dana.org/article/when-the-myth-is-the-message-[neuromyths</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Myth is the Message: Neuromyths and EducationWe investigate some of the most common neuromyths that pervade the education commun...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/head-quarters/2015/apr/24/can-neuroscientists-dispel-the-myth-that-children-have-different-learning-styles-im-a-scientist-learning-zone-wellcome-trust](https://www.theguardian.com/science/head-quarters/2015/apr/24/can-neuroscientists-dispel-the-myth-that-children-have-different-learning-styles-im-a-scientist-learning-zone-wellcome-trust)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can neuroscientists dispel the myth that children have...24 Apr 2015 — Worryingly, 76% of teachers responded that they used learning sty...</p></details>
+   Link: <a href="https://www.theguardian.com/science/head-quarters/2015/apr/24/can-neuroscientists-dispel-the-myth-that-children-have-different-learning-styles-im-a-scientist-learning-zone-wellcome-trust" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/head-quarters/2015/apr/24/can-neuroscientists-dispel-the-myth-that-children-have-different-learning-styles-im-a-scientist-learning-zone-wellcome-trust</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can neuroscientists dispel the myth that children have...24 Apr 2015  Worryingly, 76% of teachers responded that they used learning sty...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: educationalneuroscience.org.uk  
    Title: children have different learning styles  
-   Link: [https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/](https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/)  
+   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A survey from 2012 found that up to 93% of UK teachers believed in learning styles [v], and as recently as 2021, learning styles continue...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: my.chartered.college  
    Title: sponsored article what can education learn from neuroscience  
-   Link: [https://my.chartered.college/impact_article/sponsored-article-what-can-education-learn-from-neuroscience/](https://my.chartered.college/impact_article/sponsored-article-what-can-education-learn-from-neuroscience/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>article: What can education learn from...22 Feb 2018 — For example, a survey by the Wellcome Trust in 2014 found that 76% of teachers we...</p></details>
+   Link: <a href="https://my.chartered.college/impact_article/sponsored-article-what-can-education-learn-from-neuroscience/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/sponsored-article-what-can-education-learn-from-neuroscience/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>article: What can education learn from...22 Feb 2018  For example, a survey by the Wellcome Trust in 2014 found that 76% of teachers we...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: the-learning-agency.com  
-   Link: [https://the-learning-agency.com/insights/debunking-the-learning-styles-neuromyth/](https://the-learning-agency.com/insights/debunking-the-learning-styles-neuromyth/)  
+   Link: <a href="https://the-learning-agency.com/insights/debunking-the-learning-styles-neuromyth/" target="_blank" rel="noopener noreferrer nofollow">https://the-learning-agency.com/insights/debunking-the-learning-styles-neuromyth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They can have adverse effects on educational practice. The Nature study examines...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cis.org.au  
-   Link: [https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/](https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/)  
+   Link: <a href="https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pheric dominance suggest teachers do self-report incorporating myths...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: lthechat.com  
-   Link: [https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/](https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#LTHEchat185: Debunking Neuromyths in Education:...Oct 11, 2020 — This suggests that learners assume a way of learning either as a “visu...</p></details>
+   Link: <a href="https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/" target="_blank" rel="noopener noreferrer nofollow">https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>#LTHEchat185: Debunking Neuromyths in Education:...Oct 11, 2020  This suggests that learners assume a way of learning either as a visu...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Debunking learning styles in the classroom  
-   Link: [https://www.youtube.com/watch?v=mD12mZ_rYpM](https://www.youtube.com/watch?v=mD12mZ_rYpM)  
+   Link: <a href="https://www.youtube.com/watch?v=mD12mZ_rYpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mD12mZ_rYpM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The science of learning for teachers...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Why the learning styles myth persists  
-   Link: [https://www.youtube.com/watch?v=_bWueJub_eU](https://www.youtube.com/watch?v=_bWueJub_eU)  
+   Link: <a href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_bWueJub_eU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence-based teaching and neuromyths...</p></details>

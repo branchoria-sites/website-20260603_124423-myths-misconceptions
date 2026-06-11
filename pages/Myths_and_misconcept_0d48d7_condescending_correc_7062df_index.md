@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7/
 description: Focused pages that expand on Tone.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-parent_title: Tone | Myths And Misconceptions
+parent_title: Tone
 parent_nav_short_title: Tone
 parent_permalink: /tone/
 ---

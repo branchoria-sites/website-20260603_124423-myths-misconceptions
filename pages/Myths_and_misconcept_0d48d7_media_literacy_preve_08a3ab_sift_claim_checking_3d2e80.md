@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_media_literacy_pract_11bcb7
 - Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_prebunking_tactics_930652
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - media-literacy
 - sift-method
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - media-literacy
 - sift-method
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: 'The SIFT method turns media literacy into a simple routine: stop, investigate, find better coverage, and trace the claim.'
 hero_summary: 'The SIFT method turns media literacy into a simple routine: stop, investigate, find better coverage, and trace the claim.'
 layout: default
 permalink: /sift-method/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /media-literacy/
 nav_short_title: SIFT method
 title: A simple checklist for suspicious claims
-title_full: A simple checklist for suspicious claims | Media Literacy
+title_full: A simple checklist for suspicious claims
 display_title_short: SIFT method
 display_title: SIFT method
 heading_title: A simple checklist for suspicious claims
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Media Literacy Prevents Myths | Mythcraft
+parent_title: How Media Literacy Prevents Myths
 parent_permalink: /media-literacy/
 parent_nav_short_title: Media Literacy
 parent_heading_title: How Media Literacy Prevents Myths
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Can warning people before myths work better?
 up_link:
   basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
@@ -259,7 +259,7 @@ prev_link:
   permalink: /prebunking-869b67/
   short_title: Prebunking
   heading_title: Can warning people before myths work better?
-date: '2026-06-09 04:51:16 '
+date: '2026-06-11 22:15:04 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_sift_claim_checking_3d2e80-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_sift_claim_checking_3d2e80-Illustration-1.webp
@@ -269,7 +269,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_si
 ## Introduction
 
 The SIFT method is a practical fact-checking routine designed for the moment when a claim appears on a social feed, in a message group, or in a headline that seems urgent, surprising, or emotionally powerful. Developed by digital literacy researcher Mike Caulfield, SIFT stands for **Stop, Investigate the source, Find better coverage, and Trace claims back to their original context**. Rather than asking people to become experts in every topic they encounter, SIFT provides a quick process for deciding whether a claim deserves attention, trust, or sharing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.lib.wayne.edu/sift" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.wayne.edu">[guides.lib.wayne.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.wayne.edu</span><span class="citation-popover-title">Stop, Investigate, Find, Trace: What is SIFT?</span><span class="citation-popover-snippet">Research Guides11 Mar 2021 — SIFT is an evaluation strategy developed by digital literacy expert Michael Caulfield (Washington State Univ...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_sift_claim_checking_3d2e80-Illustration-1-dark.svg" | relative_url }}" alt="SIFT method illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_sift_claim_checking_3d2e80-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_sift_claim_checking_3d2e80-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Its importance in myth prevention is straightforward: false or misleading claims often spread because people react immediately. SIFT inserts a deliberate pause before [amplification]({{ 'amplification/' | relative_url }}). By slowing down, checking the source, comparing coverage, and locating the original evidence, users can catch many myths before they become part of wider public conversation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mediahelpingmedia.org/basics/sift-for-fact-checking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediahelpingmedia.org">[mediahelpingmedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediahelpingmedia.org</span><span class="citation-popover-title">SIF T for fact-checking</span><span class="citation-popover-snippet">SIFT for fact-checkingMarch 30, 2025 — 30 Mar 2025 — SIFT teaches students how to critically evaluate information online through four ste...</span><span class="citation-popover-meta">Published: March 30, 2025</span></span></span>
@@ -282,7 +281,6 @@ Many misleading claims are designed to provoke an immediate reaction. They may t
 
 Stopping does not mean assuming a claim is false. It means asking a few basic questions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Do I know this source?
@@ -293,7 +291,6 @@ Stopping does not mean assuming a claim is false. It means asking a few basic qu
 </div>
 
 This brief pause changes behaviour because it shifts attention from the claim itself to the process of verification. Researchers and educators who use SIFT emphasise that people are often most vulnerable to misinformation when they respond automatically rather than deliberately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.scottsdalecc.edu/SIFT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.scottsdalecc.edu">[library.scottsdalecc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.scottsdalecc.edu</span><span class="citation-popover-snippet">1. STOP; 2. Investigate the Source; 3. Find Better Coverage; 4.Trace Claims Back to the Original Source. First, STOP!Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://lucidea.com/blog/countering-misinformation-using-the-sift-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lucidea.com">[lucidea]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lucidea.com</span><span class="citation-popover-title">countering misinformation using the sift method</span><span class="citation-popover-snippet">The SIFT Method to Counter Misinformation in School...25 Nov 2025 — The SIFT Method developed by Mike Caulfield is one strategy that can...</span></span></span> A common example is the recurring celebrity death hoax. Such stories often gain traction because users share them immediately after seeing adramatic headline. A short pause followed by a quick search frequently reveals that no credible reporting exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.lib.wayne.edu/sift/find" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.wayne.edu">[guides.lib.wayne.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.wayne.edu</span><span class="citation-popover-snippet">Stop · Investigate the Source · Find Better Coverage · Trace Claims, Quotes, and Media Back to Their Original Context · Resources...Read...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tJDcNuk3400" title="SIFT Method: Evaluating Sources" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tJDcNuk3400" target="_blank" rel="noopener noreferrer">SIFT Method: Evaluating Sources</a></p><p class="youtube-embed-meta">Channel: UVU Fulton Library Instruction &middot; Views: 4.5K &middot; Uploaded: May 2024 &middot; Length: 3 minutes 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tJDcNuk3400" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tJDcNuk3400">Open on YouTube</a></p></div></div></div>
 
@@ -314,7 +311,6 @@ Questions to ask include:
 
 This approach is important because unreliable sources can look professional. Modern websites can imitate the visual cues of legitimate journalism, scientific communication, or public institutions. SIFT therefore prioritises reputation and independent verification over design quality or presentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.lib.wayne.edu/sift" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.wayne.edu">[guides.lib.wayne.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.wayne.edu</span><span class="citation-popover-title">Stop, Investigate, Find, Trace: What is SIFT?</span><span class="citation-popover-snippet">Research Guides11 Mar 2021 — SIFT is an evaluation strategy developed by digital literacy expert Michael Caulfield (Washington State Univ...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_sift_claim_checking_3d2e80-Illustration-2-dark.svg" | relative_url }}" alt="SIFT method illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_sift_claim_checking_3d2e80-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_sift_claim_checking_3d2e80-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Find better coverage
 
@@ -324,21 +320,19 @@ If a claim is important and true, there is often better reporting available else
 
 This step is especially useful when dealing with:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Breaking news claims
 * Health and science stories
-* Viral social media posts <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394079043_SIFT-ing_Through_the_CRAAP_Teaching_Lateral_Reading_to_Address_Social_Media_Misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) S.I.F.T.-ing Through the C.R.A.A.P.: Teaching Lateral...29 Jul 2025 — PDF | On Jul 29, 2025, Andrew D Sutherland published S.I.F.T...</span></span></span>
+* Viral social media posts <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394079043_SIFT-ing_Through_the_CRAAP_Teaching_Lateral_Reading_to_Address_Social_Media_Misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) S.I.F.T.-ing Through the C.R.A.A.P.: Teaching Lateral...29 Jul 2025 — PDF &#124; On Jul 29, 2025, Andrew D Sutherland published S.I.F.T...</span></span></span>
 * Political allegations
 * Extraordinary statistics
 
 </div>
 
-The goal is not merely to find another source repeating the same statement. It is to locate coverage that independently verifies, contextualises, or challenges the claim. SIFT guidance frequently encourages looking for evidence of [expert consensus]({{ 'false-balance-0e8d1b/' | relative_url }}) rather than relying on a single article or post. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mediahelpingmedia.org/basics/sift-for-fact-checking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediahelpingmedia.org">[mediahelpingmedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediahelpingmedia.org</span><span class="citation-popover-title">SIF T for fact-checking</span><span class="citation-popover-snippet">SIFT for fact-checkingMarch 30, 2025 — 30 Mar 2025 — SIFT teaches students how to critically evaluate information online through four ste...</span><span class="citation-popover-meta">Published: March 30, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://learningessentials.auckland.ac.nz/finding-information/evaluating-sources/sift-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningessentials.auckland.ac.nz">[Learning essentials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningessentials.auckland.ac.nz</span><span class="citation-popover-title">Learning essentials SIFT framework | Learning essentials</span><span class="citation-popover-snippet">Find better or other coverage. Sometimes it&#x27;s less important to know about the source and more importance to assess their claim.Read more...</span></span></span>
+The goal is not merely to find another source repeating the same statement. It is to locate coverage that independently verifies, contextualises, or challenges the claim. SIFT guidance frequently encourages looking for evidence of expert consensus rather than relying on a single article or post. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mediahelpingmedia.org/basics/sift-for-fact-checking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediahelpingmedia.org">[mediahelpingmedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediahelpingmedia.org</span><span class="citation-popover-title">SIF T for fact-checking</span><span class="citation-popover-snippet">SIFT for fact-checkingMarch 30, 2025 — 30 Mar 2025 — SIFT teaches students how to critically evaluate information online through four ste...</span><span class="citation-popover-meta">Published: March 30, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://learningessentials.auckland.ac.nz/finding-information/evaluating-sources/sift-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningessentials.auckland.ac.nz">[Learning essentials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningessentials.auckland.ac.nz</span><span class="citation-popover-title">Learning essentials SIFT framework &#124; Learning essentials</span><span class="citation-popover-snippet">Find better or other coverage. Sometimes it&#x27;s less important to know about the source and more importance to assess their claim.Read more...</span></span></span>
 
 An important related practice is what Stanford researchers have called **click restraint**—scanning search results before opening links rather than clicking the first result immediately. Skilled fact-checkers often compare multiple sources before deciding which ones deserve attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.lib.wayne.edu/sift/find" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.wayne.edu">[guides.lib.wayne.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.wayne.edu</span><span class="citation-popover-snippet">Stop · Investigate the Source · Find Better Coverage · Trace Claims, Quotes, and Media Back to Their Original Context · Resources...Read...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1YvG0GMtqYM" title="Media Literacy with a Side of Rock &amp; Roll | Shawn McIntosh | TEDxAUA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1YvG0GMtqYM" target="_blank" rel="noopener noreferrer">Media Literacy with a Side of Rock &amp; Roll | Shawn McIntosh | TEDxAUA</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 338 &middot; Uploaded: December 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1YvG0GMtqYM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1YvG0GMtqYM">Open on YouTube</a></p></div></div></div>
 
@@ -354,7 +348,6 @@ For a quote, that may mean finding the full speech, interview, or document. For 
 
 This step frequently reveals that a claim is not entirely fabricated but has been distorted through omission or selective presentation. A genuine quote may have been taken out of context. A real image may be presented as evidence for a different event. A statistic may be accurate but interpreted incorrectly. Tracing back to the original source helps distinguish between evidence and the story built around that evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guides.lib.virginia.edu/c.php?g=1483059&amp;p=11057026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.virginia.edu">[guides.lib.virginia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.virginia.edu</span><span class="citation-popover-title">Do other sources corroborate or contradict the original claim?Read more</span><span class="citation-popover-snippet">SIFT - Source Evaluation - LibGuides at UVa Library30 Sept 2025 — Find Better Coverage: Search for other sources that cover the same info...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0LCzu8pEN4M" title="How to spot misinformation online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0LCzu8pEN4M" target="_blank" rel="noopener noreferrer">How to spot misinformation online</a></p><p class="youtube-embed-meta">Channel: CNN Business &middot; Views: 9.8K &middot; Uploaded: October 2020 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0LCzu8pEN4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0LCzu8pEN4M">Open on YouTube</a></p></div></div></div>
 
 ## Where SIFT works best against myths
@@ -362,7 +355,6 @@ This step frequently reveals that a claim is not entirely fabricated but has bee
 SIFT is particularly effective against myths that spread through speed and [repetition]({{ 'repetition/' | relative_url }}) rather than through detailed argument.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -378,7 +370,6 @@ Examples include:
 In these situations, a full investigation may be unnecessary. A few minutes of SIFT-based checking often reveals whether the claim rests on credible information or on recycled misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mediahelpingmedia.org/basics/sift-for-fact-checking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediahelpingmedia.org">[mediahelpingmedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediahelpingmedia.org</span><span class="citation-popover-title">SIF T for fact-checking</span><span class="citation-popover-snippet">SIFT for fact-checkingMarch 30, 2025 — 30 Mar 2025 — SIFT teaches students how to critically evaluate information online through four ste...</span><span class="citation-popover-meta">Published: March 30, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://libguides.hacc.edu/IntroductiontoReseach/SIFT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.hacc.edu">[2libguides.hacc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.hacc.edu</span><span class="citation-popover-title">It is based on an approach used by professional fact-checkers.Read more</span><span class="citation-popover-snippet">Evaluating Sources: SIFT Method - Introduction to Research6 Feb 2026 — SIFT is a series of steps to take when evaluating the reliability...</span></span></span>
 
 The method is also intentionally lightweight. Unlike lengthy evaluation checklists, SIFT is designed for ordinary online behaviour. Its value lies in creating a repeatable habit that can be used before sharing content rather than after a myth has already spread. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://guides.lib.wayne.edu/sift/find" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.wayne.edu">[guides.lib.wayne.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.wayne.edu</span><span class="citation-popover-snippet">Stop · Investigate the Source · Find Better Coverage · Trace Claims, Quotes, and Media Back to Their Original Context · Resources...Read...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_sift_claim_checking_3d2e80-Illustration-3-dark.svg" | relative_url }}" alt="SIFT method illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_sift_claim_checking_3d2e80-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_sift_claim_checking_3d2e80-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The key implementation lesson
@@ -786,163 +777,163 @@ For myth prevention, that shift is crucial. The method turns [media literacy]({{
 1. <a id="endnote-1"></a>
    Source: guides.lib.wayne.edu  
    Title: Stop, Investigate, Find, Trace: What is SIFT?  
-   Link: [https://guides.lib.wayne.edu/sift](https://guides.lib.wayne.edu/sift)  
+   Link: <a href="https://guides.lib.wayne.edu/sift" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.wayne.edu/sift</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Guides11 Mar 2021 — SIFT is an evaluation strategy developed by digital literacy expert Michael Caulfield (Washington State Univ...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: mediahelpingmedia.org  
    Title: SIF T for fact-checking  
-   Link: [https://mediahelpingmedia.org/basics/sift-for-fact-checking/](https://mediahelpingmedia.org/basics/sift-for-fact-checking/)  
+   Link: <a href="https://mediahelpingmedia.org/basics/sift-for-fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://mediahelpingmedia.org/basics/sift-for-fact-checking/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT for fact-checkingMarch 30, 2025 — 30 Mar 2025 — SIFT teaches students how to critically evaluate information online through four ste...</p></details>
    Published: March 30, 2025  
 
 3. <a id="endnote-3"></a>
    Source: libguides.hacc.edu  
    Title: It is based on an approach used by professional fact-checkers.Read more  
-   Link: [https://libguides.hacc.edu/IntroductiontoReseach/SIFT](https://libguides.hacc.edu/IntroductiontoReseach/SIFT)  
+   Link: <a href="https://libguides.hacc.edu/IntroductiontoReseach/SIFT" target="_blank" rel="noopener noreferrer nofollow">https://libguides.hacc.edu/IntroductiontoReseach/SIFT</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Sources: SIFT Method - Introduction to Research6 Feb 2026 — SIFT is a series of steps to take when evaluating the reliability...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: library.scottsdalecc.edu  
-   Link: [https://library.scottsdalecc.edu/SIFT](https://library.scottsdalecc.edu/SIFT)  
+   Link: <a href="https://library.scottsdalecc.edu/SIFT" target="_blank" rel="noopener noreferrer nofollow">https://library.scottsdalecc.edu/SIFT</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1. STOP; 2. Investigate the Source; 3. Find Better Coverage; 4.Trace Claims Back to the Original Source. First, STOP!Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: lucidea.com  
    Title: countering misinformation using the sift method  
-   Link: [https://lucidea.com/blog/countering-misinformation-using-the-sift-method/](https://lucidea.com/blog/countering-misinformation-using-the-sift-method/)  
+   Link: <a href="https://lucidea.com/blog/countering-misinformation-using-the-sift-method/" target="_blank" rel="noopener noreferrer nofollow">https://lucidea.com/blog/countering-misinformation-using-the-sift-method/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The SIFT Method to Counter Misinformation in School...25 Nov 2025 — The SIFT Method developed by Mike Caulfield is one strategy that can...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pressbooks.pub  
    Title: The SIFT Method –  
-   Link: [https://pressbooks.pub/introtocollegeresearch/chapter/the-sift-method/](https://pressbooks.pub/introtocollegeresearch/chapter/the-sift-method/)  
+   Link: <a href="https://pressbooks.pub/introtocollegeresearch/chapter/the-sift-method/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/introtocollegeresearch/chapter/the-sift-method/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigate the source. Find better coverage. Trace claims, quotes and media to the original context.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: guides.lib.wayne.edu  
-   Link: [https://guides.lib.wayne.edu/sift/find](https://guides.lib.wayne.edu/sift/find)  
+   Link: <a href="https://guides.lib.wayne.edu/sift/find" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.wayne.edu/sift/find</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop · Investigate the Source · Find Better Coverage · Trace Claims, Quotes, and Media Back to Their Original Context · Resources...Read...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: guides.lib.byu.edu  
-   Link: [https://guides.lib.byu.edu/mcom320/evaluatesources](https://guides.lib.byu.edu/mcom320/evaluatesources)  
+   Link: <a href="https://guides.lib.byu.edu/mcom320/evaluatesources" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.byu.edu/mcom320/evaluatesources</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MCOM 320: Source Evaluation (SIFT) - Research Guides11 Feb 2026 — It consists of four moves: Stop, Investigate the source, find better co...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: libguides.ucmerced.edu  
    Title: Web Evaluation & News Sources: The SIFT Method  
-   Link: [https://libguides.ucmerced.edu/news/evaluation/sift-method](https://libguides.ucmerced.edu/news/evaluation/sift-method)  
+   Link: <a href="https://libguides.ucmerced.edu/news/evaluation/sift-method" target="_blank" rel="noopener noreferrer nofollow">https://libguides.ucmerced.edu/news/evaluation/sift-method</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Both can be used. In fact, &quot;Stop, Investigate, Find Better Coverage, and Trace Claims (SIFT)...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: guides.lib.virginia.edu  
    Title: Do other sources corroborate or contradict the original claim?Read more  
-   Link: [https://guides.lib.virginia.edu/c.php?g=1483059&p=11057026](https://guides.lib.virginia.edu/c.php?g=1483059&p=11057026)  
+   Link: <a href="https://guides.lib.virginia.edu/c.php?g=1483059&amp;p=11057026" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.virginia.edu/c.php?g=1483059&amp;p=11057026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT - Source Evaluation - LibGuides at UVa Library30 Sept 2025 — Find Better Coverage: Search for other sources that cover the same info...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: openoregon.pressbooks.pub  
    Title: The SIFT Method –  
-   Link: [https://openoregon.pressbooks.pub/findinginfo/chapter/four-moves/](https://openoregon.pressbooks.pub/findinginfo/chapter/four-moves/)  
+   Link: <a href="https://openoregon.pressbooks.pub/findinginfo/chapter/four-moves/" target="_blank" rel="noopener noreferrer nofollow">https://openoregon.pressbooks.pub/findinginfo/chapter/four-moves/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Finding Information3 days ago — In these cases you will want to trace the claim, quote, or media back to the source, so y...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: clark.libguides.com  
-   Link: [https://clark.libguides.com/evaluating-information/SIFT](https://clark.libguides.com/evaluating-information/SIFT)  
+   Link: <a href="https://clark.libguides.com/evaluating-information/SIFT" target="_blank" rel="noopener noreferrer nofollow">https://clark.libguides.com/evaluating-information/SIFT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Information: SIFT (The Four Moves)15 Jan 2026 — Use the SIFT method to help you analyze information, especially news or other online media...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: uscupstate.libguides.com  
-   Link: [https://uscupstate.libguides.com/AdamsEngl101/SIFT](https://uscupstate.libguides.com/AdamsEngl101/SIFT)  
+   Link: <a href="https://uscupstate.libguides.com/AdamsEngl101/SIFT" target="_blank" rel="noopener noreferrer nofollow">https://uscupstate.libguides.com/AdamsEngl101/SIFT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the SIFT Method - ENGL U101 - Adams - Library Guides24 Mar 2026 — &quot;SIFT&quot; in research stands for &quot;Stop, Investigate, Find, Trace&quot; and is a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: eosgmbh.com  
    Title: the sift method  
-   Link: [https://eosgmbh.com/en/the-sift-method/](https://eosgmbh.com/en/the-sift-method/)  
+   Link: <a href="https://eosgmbh.com/en/the-sift-method/" target="_blank" rel="noopener noreferrer nofollow">https://eosgmbh.com/en/the-sift-method/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enterprise Open Systems (EOS)The SIFT method11 Mar 2025 — It consists of four steps: Stop, Investigate, Find better coverage, Trace claim...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: learningessentials.auckland.ac.nz  
    Title: Learning essentials SIFT framework | Learning essentials  
-   Link: [https://learningessentials.auckland.ac.nz/finding-information/evaluating-sources/sift-framework/](https://learningessentials.auckland.ac.nz/finding-information/evaluating-sources/sift-framework/)  
+   Link: <a href="https://learningessentials.auckland.ac.nz/finding-information/evaluating-sources/sift-framework/" target="_blank" rel="noopener noreferrer nofollow">https://learningessentials.auckland.ac.nz/finding-information/evaluating-sources/sift-framework/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Find better or other coverage. Sometimes it&#x27;s less important to know about the source and more importance to assess their claim.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: guides.lib.uchicago.edu  
-   Link: [https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322](https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322)  
+   Link: <a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT Method - Evaluating Resources and Misinformation30 Jun 2025 — The SIFT method is an evaluation strategy developed by digital literac...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: guides.lib.uw.edu  
-   Link: [https://guides.lib.uw.edu/research/evaluate/sift](https://guides.lib.uw.edu/research/evaluate/sift)  
+   Link: <a href="https://guides.lib.uw.edu/research/evaluate/sift" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uw.edu/research/evaluate/sift</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Check reputable news sources (the UW Libraries news databases will be helpful) to...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: guides.lib.lsu.edu  
-   Link: [https://guides.lib.lsu.edu/hnrs2000/SIFT](https://guides.lib.lsu.edu/hnrs2000/SIFT)  
+   Link: <a href="https://guides.lib.lsu.edu/hnrs2000/SIFT" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.lsu.edu/hnrs2000/SIFT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>· I: Investigate the Source · F: Find Better Coverage · T: Trace Claims, Quotes, and Media Back to the Original Context.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: library.uwsuper.edu  
-   Link: [https://library.uwsuper.edu/evaluation/SIFT](https://library.uwsuper.edu/evaluation/SIFT)  
+   Link: <a href="https://library.uwsuper.edu/evaluation/SIFT" target="_blank" rel="noopener noreferrer nofollow">https://library.uwsuper.edu/evaluation/SIFT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We have more fact checking and lateral reading sources available, too. Trace claims, quotes, and media back to the original content.Read...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/394079043_SIFT-ing_Through_the_CRAAP_Teaching_Lateral_Reading_to_Address_Social_Media_Misinformation](https://www.researchgate.net/publication/394079043_SIFT-ing_Through_the_CRAAP_Teaching_Lateral_Reading_to_Address_Social_Media_Misinformation)  
+   Link: <a href="https://www.researchgate.net/publication/394079043_SIFT-ing_Through_the_CRAAP_Teaching_Lateral_Reading_to_Address_Social_Media_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394079043_SIFT-ing_Through_the_CRAAP_Teaching_Lateral_Reading_to_Address_Social_Media_Misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) S.I.F.T.-ing Through the C.R.A.A.P.: Teaching Lateral...29 Jul 2025 — PDF | On Jul 29, 2025, Andrew D Sutherland published S.I.F.T...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: smu.ca  
-   Link: [https://www.smu.ca/webfiles/SIFT_Method_final.pdf](https://www.smu.ca/webfiles/SIFT_Method_final.pdf)  
+   Link: <a href="https://www.smu.ca/webfiles/SIFT_Method_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.smu.ca/webfiles/SIFT_Method_final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“SIFT”: A Method for Evaluating Information SourcesTaking the time to stop, investigate the information source, find better coverage, and...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: guides.library.charlotte.edu  
    Title: Understanding and Evaluating Sources: SIFT  
-   Link: [https://guides.library.charlotte.edu/c.php?g=1499262&p=11347573](https://guides.library.charlotte.edu/c.php?g=1499262&p=11347573)  
+   Link: <a href="https://guides.library.charlotte.edu/c.php?g=1499262&amp;p=11347573" target="_blank" rel="noopener noreferrer nofollow">https://guides.library.charlotte.edu/c.php?g=1499262&amp;p=11347573</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Guides5 Mar 2026 — The four moves—Stop, Investigate the source, Find better coverage, and Trace claims to the original context—g...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39471397/](https://pubmed.ncbi.nlm.nih.gov/39471397/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39471397/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39471397/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Notebooks to Teach Critical Digital Literacyby E Spracklin · 2025 · Cited by 8 — The reflection notebooks equip students with critical kn...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: colab.plymouthcreate.net  
    Title: SIFT and news literacy sep 8 2022 CoLab  
-   Link: [https://colab.plymouthcreate.net/wp-content/uploads/2022/09/SIFT-and-news-literacy-sep-8-2022-CoLab.pdf](https://colab.plymouthcreate.net/wp-content/uploads/2022/09/SIFT-and-news-literacy-sep-8-2022-CoLab.pdf)  
+   Link: <a href="https://colab.plymouthcreate.net/wp-content/uploads/2022/09/SIFT-and-news-literacy-sep-8-2022-CoLab.pdf" target="_blank" rel="noopener noreferrer nofollow">https://colab.plymouthcreate.net/wp-content/uploads/2022/09/SIFT-and-news-literacy-sep-8-2022-CoLab.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT to Evaluate News (and other) Information...SIFT was developed by Mike Caulfield, a Keene State graduate, who currently works a rese...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: hapgood.us  
    Title: SIFT (The Four Moves)  
-   Link: [https://hapgood.us/2019/06/19/sift-the-four-moves/](https://hapgood.us/2019/06/19/sift-the-four-moves/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HapgoodSIFT (The Four Moves) - Hapgood19 Jun 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, In...</p></details>
+   Link: <a href="https://hapgood.us/2019/06/19/sift-the-four-moves/" target="_blank" rel="noopener noreferrer nofollow">https://hapgood.us/2019/06/19/sift-the-four-moves/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT (The Four Moves) - Hapgood19 Jun 2019 — We call the “things to do” moves and there are four of them: The four moves: Stop, In...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: How to use the SIFT method to evaluate information  
-   Link: [https://www.youtube.com/watch?v=oV856tqU1wA](https://www.youtube.com/watch?v=oV856tqU1wA)  
+   Link: <a href="https://www.youtube.com/watch?v=oV856tqU1wA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oV856tqU1wA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mike Caulfield on the SIFT method for digital literacy...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Mike Caulfield on the SIFT method for digital literacy  
-   Link: [https://www.youtube.com/watch?v=kYJ557m75W4](https://www.youtube.com/watch?v=kYJ557m75W4)  
+   Link: <a href="https://www.youtube.com/watch?v=kYJ557m75W4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJ557m75W4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lateral reading and the SIFT method explained...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: guides.libs.uga.edu  
-   Link: [https://guides.libs.uga.edu/c.php?g=350399&p=10565905](https://guides.libs.uga.edu/c.php?g=350399&p=10565905)  
+   Link: <a href="https://guides.libs.uga.edu/c.php?g=350399&amp;p=10565905" target="_blank" rel="noopener noreferrer nofollow">https://guides.libs.uga.edu/c.php?g=350399&amp;p=10565905</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4425R (Gallagher): Fact Checking AI12 May 2026 — INTL 4425R (Gallagher): Fact Checking AI Tips and Frameworks. The SIFT method asks you t...</p></details>
    Published: May 2026  
 
 29. <a id="endnote-29"></a>
    Source: lib.jjay.cuny.edu  
-   Link: [https://lib.jjay.cuny.edu/c.php?g=288333&p=11044074](https://lib.jjay.cuny.edu/c.php?g=288333&p=11044074)  
+   Link: <a href="https://lib.jjay.cuny.edu/c.php?g=288333&amp;p=11044074" target="_blank" rel="noopener noreferrer nofollow">https://lib.jjay.cuny.edu/c.php?g=288333&amp;p=11044074</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop before you read; Investigate the source; Find better coverage; Trace claims, quotes and media to the original context. You...Read more...</p></details>

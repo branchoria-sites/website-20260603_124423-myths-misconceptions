@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - campaigns
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - campaigns
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Deliberate deception may require platform, policy and institutional responses as well as individual fact-checking.
 hero_summary: Deliberate deception may require platform, policy and institutional responses as well as individual fact-checking.
 layout: default
 permalink: /campaigns/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Campaigns
 title: When Falsehoods Are Spread on Purpose
-title_full: When Falsehoods Are Spread on Purpose | Mythcraft
+title_full: When Falsehoods Are Spread on Purpose
 display_title_short: Campaigns
 display_title: Campaigns
 heading_title: When Falsehoods Are Spread on Purpose
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 next_link:
   basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
-date: '2026-06-09 04:16:16 '
+date: '2026-06-11 21:57:27 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-overview.webp
@@ -503,9 +503,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-ov
 
 Organised disinformation campaigns are not simply myths spreading by accident. They are deliberate attempts to make false or misleading claims look popular, local, spontaneous or trustworthy. That changes the response. Individual fact-checking still matters, but it is not enough when a network of fake accounts, covert media pages, paid influencers, hacked materials, automated [amplification]({{ 'amplification/' | relative_url }}) or deceptive advertising is being used to manipulate public attention. The public problem is not only “what is true?” but “who is trying to make this story dominate, and by what means?”
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-overview.webp" | relative_url }}" alt="Overview image for Campaigns" loading="eager" decoding="sync" fetchpriority="high">
-This is why organised disinformation sits at the governance end of [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}). It requires responses from [platforms]({{ 'platforms/' | relative_url }}), journalists, election bodies, public health agencies, schools, regulators and civil society, not just better scepticism from individual users. The aim is not to police every wrong opinion. It is to identify coordinated deception, reduce artificial amplification, protect access to reliable information, and preserve open debate without letting covert campaigns impersonate the public.
+This is why organised disinformation sits at the governance end of myths and misconceptions. It requires responses from [platforms]({{ 'platforms/' | relative_url }}), journalists, election bodies, public health agencies, schools, regulators and civil society, not just better scepticism from individual users. The aim is not to police every wrong opinion. It is to identify coordinated deception, reduce artificial amplification, protect access to reliable information, and preserve open debate without letting covert campaigns impersonate the public.
 
 ## How coordinated falsehoods differ from ordinary misconception
 
@@ -513,27 +512,25 @@ A misconception can spread because people misunderstand a topic, repeat a memora
 
 The key word is not always “fake”. Some campaigns mix fake accounts with real supporters, genuine grievances, recycled news, misleading framing and selective evidence. That mixture is harder to challenge than a simple fabricated claim, because the campaign can hide behind real debate. A network might amplify a rumour about election fraud, a vaccine, a minority group or a public emergency by using apparently independent voices that are actually connected.
 
-Researchers use terms such as “coordinated inauthentic behaviour” because the manipulation often lies in the coordination and disguise, not only in the content. A message may be partly true, but the campaign around it may still be deceptive if it uses sockpuppet accounts, concealed state backing, bought pages, repeated copy-and-paste posting or artificial engagement to create a false impression of public consensus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCCoordinated inauthentic behavior: An innovative manipulation...by M Murero · 2023 · Cited by 27 — Coordinated inauthentic behavior (C...</span></span></span>
+Researchers use terms such as “coordinated inauthentic behaviour” because the manipulation often lies in the coordination and disguise, not only in the content. A message may be partly true, but the campaign around it may still be deceptive if it uses sockpuppet accounts, concealed state backing, bought pages, repeated copy-and-paste posting or artificial engagement to create a false impression of public consensus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Coordinated inauthentic behavior: An innovative manipulation...by M Murero · 2023 · Cited by 27 — Coordinated inauthentic behavior (C...</span></span></span>
 
 This matters for public response because a normal [correction]({{ 'correction/' | relative_url }}) may answer the false claim while missing the operation. A good response asks three questions at once: is the claim accurate, how is it being amplified, and who benefits from the deception?
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-1-dark.svg" | relative_url }}" alt="Campaigns illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Coordination and manipulation
 
 Organised campaigns usually work by exploiting the social signals people use to judge credibility. A post that appears to have many supporters, to come from a local community, or to be repeated by several independent sources feels more credible than an isolated claim. Coordinated campaigns manufacture those signals.
 
-The Russian [Internet Research]({{ 'ira-case/' | relative_url }}) Agency remains one of the clearest public examples. The US Senate Intelligence Committee said Russian operatives used social media in 2016 to spread disinformation and social division while masquerading as Americans, using ads, fabricated news, self-generated content and platform tools to interact with tens of millions of users. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-documents-report-volume2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.senate.gov">[Senate Select Committee on Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.senate.gov</span><span class="citation-popover-title">Select Committee on Intelligencesites-default-files-documents-report-volume2.pdf</span><span class="citation-popover-snippet">Petersburg-based. Internet Research Agency (IRA) used social media to conduct an information warfare...Read more...</span></span></span>
+The Russian Internet Research Agency remains one of the clearest public examples. The US Senate Intelligence Committee said Russian operatives used social media in 2016 to spread disinformation and social division while masquerading as Americans, using ads, fabricated news, self-generated content and platform tools to interact with tens of millions of users. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-documents-report-volume2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.senate.gov">[Senate Select Committee on Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.senate.gov</span><span class="citation-popover-title">Select Committee on Intelligencesites-default-files-documents-report-volume2.pdf</span><span class="citation-popover-snippet">Petersburg-based. Internet Research Agency (IRA) used social media to conduct an information warfare...Read more...</span></span></span>
 
-The lesson from that case is not that every political argument online is foreign interference. It is that influence operations often embed themselves inside existing divisions. They do not need to invent every grievance; they can intensify disputes that are already present. Senate-commissioned research on the Internet Research Agency found that its activity extended across major platforms and used identity-focused communities, political pages and targeted narratives to shape discourse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/senatedocs/2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The lesson from that case is not that every political argument online is foreign interference. It is that influence operations often embed themselves inside existing divisions. They do not need to invent every grievance; they can intensify disputes that are already present. Senate-commissioned research on the Internet Research Agency found that its activity extended across major platforms and used [identity]({{ 'identity/' | relative_url }})-focused communities, political pages and targeted narratives to shape discourse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/senatedocs/2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Common tactics include:
 
+* **Impersonation:** accounts or pages posing as ordinary citizens, local activists, journalists, community groups or official bodies.
+* **[Astroturfing]({{ 'astroturfing/' | relative_url }}):** making a centrally organised campaign look like a spontaneous grassroots movement.
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **Impersonation:** accounts or pages posing as ordinary citizens, local activists, journalists, community groups or official bodies.
-* **Astroturfing:** making a centrally organised campaign look like a spontaneous grassroots movement.
 * **Narrative laundering:** pushing a claim through fringe sites, social accounts or influencers until it appears in more mainstream discussion.
 * **Cross-platform seeding:** starting a rumour on one platform, then amplifying screenshots, clips or summaries elsewhere.
 * **Engagement manipulation:** using coordinated likes, shares, comments or replies to make a claim look more popular than it is.
@@ -543,9 +540,7 @@ Common tactics include:
 
 Not every campaign is sophisticated. Some are crude networks of fake accounts. Others are professional operations involving public relations firms, partisan media, state-aligned outlets, paid influencers or opaque advertising. The governance challenge is that the public sees individual posts, while investigators often need network evidence: account creation patterns, shared administrators, repeated URLs, [timing]({{ 'timing/' | relative_url }}), behaviour across platforms and links to known operators.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S0r4zT8avV4" title="New reports on Russian disinformation in 2016 campaign" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S0r4zT8avV4" target="_blank" rel="noopener noreferrer">New reports on Russian disinformation in 2016 campaign</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 2.9K &middot; Uploaded: December 2018 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S0r4zT8avV4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S0r4zT8avV4">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-1-dark.svg" | relative_url }}" alt="Campaigns illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why platform and media systems change the stakes
 
 Organised disinformation campaigns thrive when a media system rewards speed, outrage and repetition. Platforms do not usually create the original myth, but their ranking systems, advertising tools, recommendation feeds and engagement metrics can change how far it travels. A rumour that might once have stayed local can become a national story if it is pushed by coordinated accounts and then picked up by influencers, partisan pages or news outlets seeking attention.
@@ -558,8 +553,6 @@ This does not mean platforms can or should remove every false statement. Over-re
 
 Media organisations face a related risk. When journalists report that “a claim is going viral”, they may unintentionally reward a campaign’s strategy. Responsible coverage should avoid amplifying unverified claims simply because they are trending. It should identify uncertainty, explain the source of the claim, describe the amplification pattern when known, and avoid headline framing that repeats the falsehood without context.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-2-dark.svg" | relative_url }}" alt="Campaigns illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The public response cannot be only “check before sharing”
 
 “Check before sharing” is useful advice, but it places too much responsibility on individuals when the problem is organised at scale. A person scrolling through a feed cannot audit account networks, advertising libraries, bot clusters or covert foreign influence operations. Public resilience needs several layers.
@@ -574,8 +567,7 @@ Media organisations face a related risk. When journalists report that “a claim
 
 **Fifth, researchers and watchdogs need access to evidence.** Without data access, the public debate becomes dependent on what platforms voluntarily disclose. The European Digital Media Observatory’s work on implementation of the EU Code of Practice has focused on transparency, media literacy, fact-checking partnerships and research access, while also highlighting the difficulty of assessing platform performance from incomplete reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://edmo.eu/wp-content/uploads/2025/06/EDMO-Report-%E2%80%93-Implementing-the-EU-Code-of-Practice-on-Disinformation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmo.eu">[EDMO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmo.eu</span><span class="citation-popover-snippet">Open source on edmo.eu.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ElaZu8TQvYc" title="Side session: Risk Communications, Community Engagement &amp; Infodemic management | #ESCAIDE2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ElaZu8TQvYc" target="_blank" rel="noopener noreferrer">Side session: Risk Communications, Community Engagement &amp; Infodemic management | #ESCAIDE2024</a></p><p class="youtube-embed-meta">Channel: ECDC &middot; Views: 265 &middot; Uploaded: February 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ElaZu8TQvYc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ElaZu8TQvYc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S0r4zT8avV4" title="New reports on Russian disinformation in 2016 campaign" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S0r4zT8avV4" target="_blank" rel="noopener noreferrer">New reports on Russian disinformation in 2016 campaign</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 2.9K &middot; Uploaded: December 2018 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S0r4zT8avV4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S0r4zT8avV4">Open on YouTube</a></p></div></div></div>
 
 ## The hardest balance: resisting manipulation without controlling debate
 
@@ -587,15 +579,12 @@ The UK debate shows the tension. The Online Safety Act 2023 introduced new dutie
 
 The EU approach is more explicitly systemic, especially for very large platforms. Even there, implementation is contested. The Code of Practice and Digital Services Act can require risk assessment, transparency and mitigation, but the effectiveness of those measures depends on enforcement, platform cooperation, independent audit, researcher access and whether commitments produce measurable changes rather than public relations language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commission.europa.eu/topics/countering-information-manipulation/strengthened-eu-code-practice-disinformation_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commission.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commission.europa.eu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.disinfo.eu/publications/cib-detection-tree-third-branch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfo.eu">[disinfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfo.eu</span><span class="citation-popover-title">cib detection tree third branch</span><span class="citation-popover-snippet">cib detection tree third branch</span></span></span> A democratic response should therefore be precise. It should target covert manipulation, fraud, impersonation, illegal threats, foreign interference, undisclosed political advertising and artificial amplification. It should be cautious about broad state power to define truth in ordinary political debate. The aim is to protect the conditions for public reasoning, not to make institutions immune from criticism.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-3-dark.svg" | relative_url }}" alt="Campaigns illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What effective response looks like in practice
 
 A mature public response to organised disinformation treats the problem as an ecosystem issue. It connects fact-checking, platform integrity, public communication, journalism standards, civic education and legal safeguards.
 
 One useful model is a layered response:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -612,13 +601,14 @@ This approach recognises that different problems need different tools. A harmles
 
 The public also has a role, but it is more realistic than asking everyone to become an investigator. People can pause before sharing emotionally charged claims, check whether a source is who it says it is, look for confirmation from reputable outlets or official channels, and be wary of accounts that push constant outrage across unrelated topics. But the burden cannot rest on individual vigilance alone.
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-3-dark.svg" | relative_url }}" alt="Campaigns illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-2-dark.svg" | relative_url }}" alt="Campaigns illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this changes how myths and misconceptions should be understood
 
 Organised disinformation campaigns show that some false beliefs persist not because people are foolish, but because attention can be engineered. Myths and misconceptions often survive through memory, identity and repetition; organised campaigns weaponise those same features. They turn uncertainty into opportunity, disagreement into vulnerability, and platform incentives into distribution machinery.
 
 The most useful public response is therefore not a single tactic. Fact-checking helps, but it works best when paired with prebunking, transparent [platform rules]({{ 'platform-rules/' | relative_url }}), independent research access, resilient local media, trusted public communication and proportionate regulation. The goal is not a perfectly clean information space. That is impossible, and attempts to create one can threaten free expression. The goal is a fairer information environment in which covert manipulation is harder, trustworthy information is easier to find, and citizens are not left alone against organised deception.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ElaZu8TQvYc" title="Side session: Risk Communications, Community Engagement &amp; Infodemic management | #ESCAIDE2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ElaZu8TQvYc" target="_blank" rel="noopener noreferrer">Side session: Risk Communications, Community Engagement &amp; Infodemic management | #ESCAIDE2024</a></p><p class="youtube-embed-meta">Channel: ECDC &middot; Views: 265 &middot; Uploaded: February 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ElaZu8TQvYc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ElaZu8TQvYc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1016,186 +1006,186 @@ The most useful public response is therefore not a single tactic. Fact-checking 
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCCoordinated inauthentic behavior: An innovative manipulation...by M Murero · 2023 · Cited by 27 — Coordinated inauthentic behavior (C...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coordinated inauthentic behavior: An innovative manipulation...by M Murero · 2023 · Cited by 27 — Coordinated inauthentic behavior (C...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: intelligence.senate.gov  
    Title: Select Committee on Intelligencesites-default-files-documents-report-volume2.pdf  
-   Link: [https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-documents-report-volume2.pdf](https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-documents-report-volume2.pdf)  
+   Link: <a href="https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-documents-report-volume2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-documents-report-volume2.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Petersburg-based. Internet Research Agency (IRA) used social media to conduct an information warfare...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: intelligence.senate.gov  
-   Link: [https://www.intelligence.senate.gov/2019/10/08/press-senate-intel-committee-releases-bipartisan-report-russia-e2-80-99s-use-social-media/](https://www.intelligence.senate.gov/2019/10/08/press-senate-intel-committee-releases-bipartisan-report-russia-e2-80-99s-use-social-media/)  
+   Link: <a href="https://www.intelligence.senate.gov/2019/10/08/press-senate-intel-committee-releases-bipartisan-report-russia-e2-80-99s-use-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/2019/10/08/press-senate-intel-committee-releases-bipartisan-report-russia-e2-80-99s-use-social-media/</a>  
 
 4. <a id="endnote-4"></a>
    Source: intelligence.senate.gov  
-   Link: [https://www.intelligence.senate.gov/2018/12/17/press-new-reports-shed-light-internet-research-agency-e2-80-99s-social-media-tactics/](https://www.intelligence.senate.gov/2018/12/17/press-new-reports-shed-light-internet-research-agency-e2-80-99s-social-media-tactics/)  
+   Link: <a href="https://www.intelligence.senate.gov/2018/12/17/press-new-reports-shed-light-internet-research-agency-e2-80-99s-social-media-tactics/" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/2018/12/17/press-new-reports-shed-light-internet-research-agency-e2-80-99s-social-media-tactics/</a>  
 
 5. <a id="endnote-5"></a>
    Source: who.int  
-   Link: [https://www.who.int/health-topics/infodemic](https://www.who.int/health-topics/infodemic)  
+   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
 
 6. <a id="endnote-6"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/sciadv.abo6254](https://www.science.org/doi/10.1126/sciadv.abo6254)  
+   Link: <a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
 
 7. <a id="endnote-7"></a>
    Source: edmo.eu  
-   Link: [https://edmo.eu/wp-content/uploads/2025/06/EDMO-Report-%E2%80%93-Implementing-the-EU-Code-of-Practice-on-Disinformation.pdf](https://edmo.eu/wp-content/uploads/2025/06/EDMO-Report-%E2%80%93-Implementing-the-EU-Code-of-Practice-on-Disinformation.pdf)  
+   Link: <a href="https://edmo.eu/wp-content/uploads/2025/06/EDMO-Report-%E2%80%93-Implementing-the-EU-Code-of-Practice-on-Disinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/wp-content/uploads/2025/06/EDMO-Report-%E2%80%93-Implementing-the-EU-Code-of-Practice-on-Disinformation.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: edmo.eu  
-   Link: [https://edmo.eu/publications/implementing-the-eu-code-of-practice-on-disinformation-an-evaluation-of-vlopse-compliance-and-effectiveness-jan-jun-2024/](https://edmo.eu/publications/implementing-the-eu-code-of-practice-on-disinformation-an-evaluation-of-vlopse-compliance-and-effectiveness-jan-jun-2024/)  
+   Link: <a href="https://edmo.eu/publications/implementing-the-eu-code-of-practice-on-disinformation-an-evaluation-of-vlopse-compliance-and-effectiveness-jan-jun-2024/" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/publications/implementing-the-eu-code-of-practice-on-disinformation-an-evaluation-of-vlopse-compliance-and-effectiveness-jan-jun-2024/</a>  
 
 9. <a id="endnote-9"></a>
    Source: GOV.UK  
    Title: Online Safety Act: explainer  
-   Link: [https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer](https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer)  
+   Link: <a href="https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer</a>  
 
 10. <a id="endnote-10"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/news/208296/uks-online-safety-regime-unable-to-tackle-the-spread-of-misinformation-and-cannot-keep-users-safe-online-mps-warn/](https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/news/208296/uks-online-safety-regime-unable-to-tackle-the-spread-of-misinformation-and-cannot-keep-users-safe-online-mps-warn/)  
+   Link: <a href="https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/news/208296/uks-online-safety-regime-unable-to-tackle-the-spread-of-misinformation-and-cannot-keep-users-safe-online-mps-warn/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/news/208296/uks-online-safety-regime-unable-to-tackle-the-spread-of-misinformation-and-cannot-keep-users-safe-online-mps-warn/</a>  
 
 11. <a id="endnote-11"></a>
    Source: publications.parliament.uk  
-   Link: [https://publications.parliament.uk/pa/ld5901/ldselect/ldcomm/39/3910.htm](https://publications.parliament.uk/pa/ld5901/ldselect/ldcomm/39/3910.htm)  
+   Link: <a href="https://publications.parliament.uk/pa/ld5901/ldselect/ldcomm/39/3910.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld5901/ldselect/ldcomm/39/3910.htm</a>  
 
 12. <a id="endnote-12"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/106192/html/](https://committees.parliament.uk/writtenevidence/106192/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/106192/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/106192/html/</a>  
 
 13. <a id="endnote-13"></a>
    Source: publications.parliament.uk  
-   Link: [https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf](https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf)  
+   Link: <a href="https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/128453/html/](https://committees.parliament.uk/writtenevidence/128453/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/128453/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/128453/html/</a>  
 
 15. <a id="endnote-15"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/111691/html/](https://committees.parliament.uk/writtenevidence/111691/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/111691/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/111691/html/</a>  
 
 16. <a id="endnote-16"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/87743/pdf/](https://committees.parliament.uk/writtenevidence/87743/pdf/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/87743/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/87743/pdf/</a>  
 
 17. <a id="endnote-17"></a>
    Source: disinfo.eu  
    Title: cib detection tree third branch  
-   Link: [https://www.disinfo.eu/publications/cib-detection-tree-third-branch/](https://www.disinfo.eu/publications/cib-detection-tree-third-branch/)  
+   Link: <a href="https://www.disinfo.eu/publications/cib-detection-tree-third-branch/" target="_blank" rel="noopener noreferrer nofollow">https://www.disinfo.eu/publications/cib-detection-tree-third-branch/</a>  
 
 18. <a id="endnote-18"></a>
    Source: legislation.gov.uk  
-   Link: [https://www.legislation.gov.uk/ukpga/2023/50](https://www.legislation.gov.uk/ukpga/2023/50)  
+   Link: <a href="https://www.legislation.gov.uk/ukpga/2023/50" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2023/50</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Detecting and Responding to Coordinated Inauthentic Behavior  
-   Link: [https://www.youtube.com/watch?v=K30Hw5jXF4A](https://www.youtube.com/watch?v=K30Hw5jXF4A)  
+   Link: <a href="https://www.youtube.com/watch?v=K30Hw5jXF4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K30Hw5jXF4A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation and the digital public sphere...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Disinformation and the digital public sphere  
-   Link: [https://www.youtube.com/watch?v=e2J2d76TfDk](https://www.youtube.com/watch?v=e2J2d76TfDk)  
+   Link: <a href="https://www.youtube.com/watch?v=e2J2d76TfDk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e2J2d76TfDk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Coordinated Inauthentic Behavior Matters...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: isdglobal.org  
-   Link: [https://www.isdglobal.org/our-expertise/information-warfare-and-online-manipulation/coordinated-inauthentic-behaviour/](https://www.isdglobal.org/our-expertise/information-warfare-and-online-manipulation/coordinated-inauthentic-behaviour/)  
+   Link: <a href="https://www.isdglobal.org/our-expertise/information-warfare-and-online-manipulation/coordinated-inauthentic-behaviour/" target="_blank" rel="noopener noreferrer nofollow">https://www.isdglobal.org/our-expertise/information-warfare-and-online-manipulation/coordinated-inauthentic-behaviour/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Strategic DialogueCoordinated Inauthentic BehaviourCoordinated inauthentic behaviour is when a set of online entities—indiv...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: digitalcommons.unl.edu  
-   Link: [https://digitalcommons.unl.edu/senatedocs/2/](https://digitalcommons.unl.edu/senatedocs/2/)  
+   Link: <a href="https://digitalcommons.unl.edu/senatedocs/2/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/senatedocs/2/</a>  
 
 23. <a id="endnote-23"></a>
    Source: commission.europa.eu  
-   Link: [https://commission.europa.eu/topics/countering-information-manipulation/strengthened-eu-code-practice-disinformation_en](https://commission.europa.eu/topics/countering-information-manipulation/strengthened-eu-code-practice-disinformation_en)  
+   Link: <a href="https://commission.europa.eu/topics/countering-information-manipulation/strengthened-eu-code-practice-disinformation_en" target="_blank" rel="noopener noreferrer nofollow">https://commission.europa.eu/topics/countering-information-manipulation/strengthened-eu-code-practice-disinformation_en</a>  
 
 24. <a id="endnote-24"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: code practice disinformation  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation](https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation</a>  
 
 25. <a id="endnote-25"></a>
    Source: digital-strategy.ec.europa.eu  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/digital-services-act](https://digital-strategy.ec.europa.eu/en/policies/digital-services-act)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/digital-services-act</a>  
 
 26. <a id="endnote-26"></a>
    Source: ec.europa.eu  
-   Link: [https://ec.europa.eu/commission/presscorner/detail/en/QANDA_20_2348](https://ec.europa.eu/commission/presscorner/detail/en/QANDA_20_2348)  
+   Link: <a href="https://ec.europa.eu/commission/presscorner/detail/en/QANDA_20_2348" target="_blank" rel="noopener noreferrer nofollow">https://ec.europa.eu/commission/presscorner/detail/en/QANDA_20_2348</a>  
 
 27. <a id="endnote-27"></a>
    Source: disinfocode.eu  
-   Link: [https://disinfocode.eu/reports/download/136](https://disinfocode.eu/reports/download/136)  
+   Link: <a href="https://disinfocode.eu/reports/download/136" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/download/136</a>  
 
 28. <a id="endnote-28"></a>
    Source: disinfocode.eu  
-   Link: [https://disinfocode.eu/](https://disinfocode.eu/)  
+   Link: <a href="https://disinfocode.eu/" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/</a>  
 
 29. <a id="endnote-29"></a>
    Source: disinfocode.eu  
-   Link: [https://disinfocode.eu/assets/pdfs/2025_Code_of_Conduct_on_Disinformation.pdf](https://disinfocode.eu/assets/pdfs/2025_Code_of_Conduct_on_Disinformation.pdf)  
+   Link: <a href="https://disinfocode.eu/assets/pdfs/2025_Code_of_Conduct_on_Disinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/assets/pdfs/2025_Code_of_Conduct_on_Disinformation.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/archive/FRIDLL.pdf](https://philpapers.org/archive/FRIDLL.pdf)  
+   Link: <a href="https://philpapers.org/archive/FRIDLL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/archive/FRIDLL.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: onlinesafetyact.net  
    Title: disinformation and disorder the limits of the online safety act  
-   Link: [https://www.onlinesafetyact.net/analysis/disinformation-and-disorder-the-limits-of-the-online-safety-act/](https://www.onlinesafetyact.net/analysis/disinformation-and-disorder-the-limits-of-the-online-safety-act/)  
+   Link: <a href="https://www.onlinesafetyact.net/analysis/disinformation-and-disorder-the-limits-of-the-online-safety-act/" target="_blank" rel="noopener noreferrer nofollow">https://www.onlinesafetyact.net/analysis/disinformation-and-disorder-the-limits-of-the-online-safety-act/</a>  
 
 32. <a id="endnote-32"></a>
    Source: unimelb.edu.au  
-   Link: [https://www.unimelb.edu.au/__data/assets/pdf_file/0006/5060724/Disinformation-in-the-City-Reponse-Playbook_compressed-1.pdf](https://www.unimelb.edu.au/__data/assets/pdf_file/0006/5060724/Disinformation-in-the-City-Reponse-Playbook_compressed-1.pdf)  
+   Link: <a href="https://www.unimelb.edu.au/__data/assets/pdf_file/0006/5060724/Disinformation-in-the-City-Reponse-Playbook_compressed-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unimelb.edu.au/__data/assets/pdf_file/0006/5060724/Disinformation-in-the-City-Reponse-Playbook_compressed-1.pdf</a>  
 
 ### Additional References
 
 33. <a id="endnote-33"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2410.22716v2](https://arxiv.org/html/2410.22716v2)  
+   Link: <a href="https://arxiv.org/html/2410.22716v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2410.22716v2</a>  
 
 34. <a id="endnote-34"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: How disinformation campaigns manipulate public opinion  
-   Link: [https://www.youtube.com/watch?v=713p0v0qTz0](https://www.youtube.com/watch?v=713p0v0qTz0)  
+   Link: <a href="https://www.youtube.com/watch?v=713p0v0qTz0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=713p0v0qTz0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Detecting and Responding to Coordinated Inauthentic Behavior...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: The anatomy of an online disinformation campaign  
-   Link: [https://www.youtube.com/watch?v=s5R_9k2w42Y](https://www.youtube.com/watch?v=s5R_9k2w42Y)  
+   Link: <a href="https://www.youtube.com/watch?v=s5R_9k2w42Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s5R_9k2w42Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How disinformation campaigns manipulate public opinion...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: rand.org  
-   Link: [https://www.rand.org/research/projects/truth-decay.html](https://www.rand.org/research/projects/truth-decay.html)  
+   Link: <a href="https://www.rand.org/research/projects/truth-decay.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/research/projects/truth-decay.html</a>  
 
 38. <a id="endnote-38"></a>
    Source: nass.org  
-   Link: [https://www.nass.org/sites/default/files/2021-08/white-paper-dominion-nass-summer21.pdf](https://www.nass.org/sites/default/files/2021-08/white-paper-dominion-nass-summer21.pdf)  
+   Link: <a href="https://www.nass.org/sites/default/files/2021-08/white-paper-dominion-nass-summer21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nass.org/sites/default/files/2021-08/white-paper-dominion-nass-summer21.pdf</a>  
 
 39. <a id="endnote-39"></a>
    Source: eu-digital-services-act.com  
-   Link: [https://www.eu-digital-services-act.com/](https://www.eu-digital-services-act.com/)  
+   Link: <a href="https://www.eu-digital-services-act.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-digital-services-act.com/</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/unesco/posts/during-elections-social-media-platforms-are-a-source-of-information-but-also-a-s/572041711638048/](https://www.facebook.com/unesco/posts/during-elections-social-media-platforms-are-a-source-of-information-but-also-a-s/572041711638048/)  
+   Link: <a href="https://www.facebook.com/unesco/posts/during-elections-social-media-platforms-are-a-source-of-information-but-also-a-s/572041711638048/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/posts/during-elections-social-media-platforms-are-a-source-of-information-but-also-a-s/572041711638048/</a>  
 
 41. <a id="endnote-41"></a>
    Source: futurefreespeech.org  
-   Link: [https://futurefreespeech.org/wp-content/uploads/2024/01/Empowering-Audiences-Through-%E2%80%98Prebunking-Michael-Bang-Petersen-Background-Report_formatted.pdf](https://futurefreespeech.org/wp-content/uploads/2024/01/Empowering-Audiences-Through-%E2%80%98Prebunking-Michael-Bang-Petersen-Background-Report_formatted.pdf)  
+   Link: <a href="https://futurefreespeech.org/wp-content/uploads/2024/01/Empowering-Audiences-Through-%E2%80%98Prebunking-Michael-Bang-Petersen-Background-Report_formatted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://futurefreespeech.org/wp-content/uploads/2024/01/Empowering-Audiences-Through-%E2%80%98Prebunking-Michael-Bang-Petersen-Background-Report_formatted.pdf</a>  
 
 42. <a id="endnote-42"></a>
    Source: fullfact.org  
-   Link: [https://fullfact.org/policy/online-safety-act/](https://fullfact.org/policy/online-safety-act/)  
+   Link: <a href="https://fullfact.org/policy/online-safety-act/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/policy/online-safety-act/</a>

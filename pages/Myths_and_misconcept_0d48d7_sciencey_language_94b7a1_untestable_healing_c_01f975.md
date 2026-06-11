@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5
 - Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - sciencey-words
 - untestable-claims
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - sciencey-words
 - untestable-claims
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A claim that can explain away every failure is protected from evidence rather than supported by it.
 hero_summary: A claim that can explain away every failure is protected from evidence rather than supported by it.
 layout: default
 permalink: /untestable-claims/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /sciencey-words/
 nav_short_title: Untestable Claims
 title: The Claim That Cannot Lose
-title_full: The Claim That Cannot Lose | Sciencey Words
+title_full: The Claim That Cannot Lose
 display_title_short: Untestable Claims
 display_title: Untestable Claims
 heading_title: The Claim That Cannot Lose
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Sciencey Language Makes Myths Persuasive | Mythcraft
+parent_title: Why Sciencey Language Makes Myths Persuasive
 parent_permalink: /sciencey-words/
 parent_nav_short_title: Sciencey Words
 parent_heading_title: Why Sciencey Language Makes Myths Persuasive
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why 'Quantum' Makes Weak Claims Sound Deeper
 up_link:
   basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
@@ -259,7 +259,7 @@ prev_link:
   permalink: /quantum-claims/
   short_title: Quantum Claims
   heading_title: Why 'Quantum' Makes Weak Claims Sound Deeper
-date: '2026-06-09 04:29:18 '
+date: '2026-06-11 22:04:25 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_untestable_healing_c_01f975-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_untestable_healing_c_01f975-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_untes
 
 Many weak healing claims sound scientific not because they have survived rigorous testing, but because they are framed so that no possible result can count against them. When a treatment is said to work even when it fails, or when the standards for success change after the fact, the claim becomes difficult or impossible to test. This pattern is known as moving the goalposts. It is common in pseudoscientific health and wellness claims because it protects the claim from evidence rather than exposing it to evidence.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_untestable_healing_c_01f975-Illustration-1-dark.svg" | relative_url }}" alt="Untestable Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_untestable_healing_c_01f975-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_untestable_healing_c_01f975-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A central feature of scientific reasoning is that a claim must be capable of being wrong. Philosophers of science such as Karl Popper argued that scientific hypotheses should be falsifiable: there must be some observation or result that would show the claim is false. When advocates continually redefine success, explain away failures, or add new conditions after negative results, they remove the possibility of meaningful testing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica | BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span>
+A central feature of scientific reasoning is that a claim must be capable of being wrong. Philosophers of science such as Karl Popper argued that scientific hypotheses should be falsifiable: there must be some observation or result that would show the claim is false. When advocates continually redefine success, explain away failures, or add new conditions after negative results, they remove the possibility of meaningful testing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica &#124; BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span>
 
 ## The Claim That Cannot Lose
 
@@ -281,7 +280,6 @@ Healing claims often begin with a clear promise. A therapy is said to improve pa
 In a genuinely testable claim, repeated failures should weaken [confidence]({{ 'confidence/' | relative_url }}). In an untestable claim, failures are reinterpreted as hidden successes. The treatment did not fail, the argument goes; the patient was not ready, did not believe strongly enough, stopped too early, reacted to a “healing crisis”, or had a condition too complex for ordinary measurement.
 
 The claim survives every outcome:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -292,7 +290,7 @@ The claim survives every outcome:
 
 </div>
 
-A theory that accommodates every possible result gains protection from criticism but loses scientific value because it no longer makes risky predictions. Scientific hypotheses are expected to expose themselves to potential failure rather than guarantee success through reinterpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica | BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica | BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span>
+A theory that accommodates every possible result gains protection from criticism but loses scientific value because it no longer makes risky predictions. Scientific hypotheses are expected to expose themselves to potential failure rather than guarantee success through reinterpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica &#124; BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica &#124; BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span>
 
 ## How Moving Goalposts Protect Weak Claims
 
@@ -304,7 +302,6 @@ Suppose a treatment is advertised as curing chronic pain. When controlled studie
 
 The target moves from a concrete result to a vaguer one. Because the new outcome was not the original promise, the claim escapes direct evaluation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kz7hFvPrtCc" title="BRITANNICA KIDS: Get the Facts Right the First Time! | Encyclopaedia Britannica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kz7hFvPrtCc" target="_blank" rel="noopener noreferrer">BRITANNICA KIDS: Get the Facts Right the First Time! | Encyclopaedia Britannica</a></p><p class="youtube-embed-meta">Channel: Encyclopaedia Britannica &middot; Views: 2.0K &middot; Uploaded: May 2021 &middot; Length: 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kz7hFvPrtCc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kz7hFvPrtCc">Open on YouTube</a></p></div></div></div>
 
 ### Adding New Conditions After Failure
@@ -313,7 +310,7 @@ Another pattern is the endless addition of qualifying conditions.
 
 A treatment might initially be presented as broadly effective. After disappointing results, supporters may insist that it only works for certain people, only under particular circumstances, only with special supplements, only when used for longer periods, or only when administered by highly trained practitioners.
 
-Scientific theories can legitimately become more refined over time. The difference is that refinements should themselves generate new [testable predictions]({{ 'prediction-test/' | relative_url }}). In weak healing claims, added conditions often function mainly as escape routes from negative evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica | BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span>
+Scientific theories can legitimately become more refined over time. The difference is that refinements should themselves generate new testable predictions. In weak healing claims, added conditions often function mainly as escape routes from negative evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica &#124; BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span>
 
 ### The Invisible Mechanism
 
@@ -321,8 +318,7 @@ Some claims become effectively immune to testing by relocating their effects int
 
 Examples include assertions that a treatment affects undetectable energies, hidden vibrations, blocked frequencies, or other mechanisms for which no reliable measurement exists. If the proposed effect cannot be observed directly and every failed prediction can be attributed to unseen factors, the claim becomes difficult to challenge empirically.
 
-This is one reason discussions of pseudoscience frequently emphasise unfalsifiable claims as a warning sign. Claims that cannot be disproved in principle occupy a different category from claims that have simply not yet been tested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bio.libretexts.org/Courses/CT_State_Northwestern/Introduction_to_Environmental_Science/1%3A_Framing_Our_Study_of_Environmental_Science/1.4%3A_Pseudoscience_and_Other_Misuses_of_Science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bio.libretexts.org">[Biology LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bio.libretexts.org</span><span class="citation-popover-title">1.4: Pseudoscience and Other Misuses of Science</span><span class="citation-popover-snippet">Biology LibreTexts1.4: Pseudoscience and Other Misuses of Science12 Jan 2026 — Pseudoscience is a claim, belief, or practice that is pres...</span></span></span>
-
+This is one reason discussions of pseudoscience frequently emphasise unfalsifiable claims as a warning sign. Claims that cannot be disproved in principle occupy a different category from claims that have simply not yet been tested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bio.libretexts.org/Courses/CT_State_Northwestern/Introduction_to_Environmental_Science/1%3A_Framing_Our_Study_of_Environmental_Science/1.4%3A_Pseudoscience_and_Other_Misuses_of_Science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bio.libretexts.org">[Biology LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bio.libretexts.org</span><span class="citation-popover-title">1.4: Pseudoscience and Other Misuses of Science</span><span class="citation-popover-snippet">logy LibreTexts1.4: Pseudoscience and Other Misuses of Science12 Jan 2026 — Pseudoscience is a claim, belief, or practice that is pres...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_untestable_healing_c_01f975-Illustration-2-dark.svg" | relative_url }}" alt="Untestable Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_untestable_healing_c_01f975-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_untestable_healing_c_01f975-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Failure Conditions Matter
@@ -335,16 +331,15 @@ Untestable claims work differently. No matter how many negative results accumula
 
 This distinction matters because evidence gains meaning only when it has the power to change minds. If positive outcomes count as proof but negative outcomes never count against the theory, the evidence process becomes one-sided. The claim is not being tested; it is being defended.
 
-Medical organisations and critics of pseudoscience have repeatedly identified resistance to disconfirmation as a hallmark of pseudoscientific thinking. Instead of exposing ideas to possible refutation, weak theories often rely on ad hoc explanations that preserve belief regardless of results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wma.net/policies-post/wma-declaration-on-pseudoscience-and-pseudotherapies-in-the-field-of-health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wma.net">[World Medical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wma.net</span><span class="citation-popover-title">declaration on pseudoscience and pseudotherapies in the field of health</span><span class="citation-popover-snippet">World Medical AssociationWMA Declaration on Pseudoscience and Pseudotherapies...31 Oct 2020 — Pseudosciences and pseudotherapies represe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35687251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedBaseless Claims and Pseudoscience in Health and Wellnessby NB Tiller · 2023 · Cited by 58 — This is a call to action to unify exerc...</span></span></span>
+Medical organisations and critics of pseudoscience have repeatedly identified resistance to disconfirmation as a hallmark of pseudoscientific thinking. Instead of exposing ideas to possible refutation, weak theories often rely on ad hoc explanations that preserve belief regardless of results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wma.net/policies-post/wma-declaration-on-pseudoscience-and-pseudotherapies-in-the-field-of-health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wma.net">[World Medical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wma.net</span><span class="citation-popover-title">declaration on pseudoscience and pseudotherapies in the field of health</span><span class="citation-popover-snippet">World Medical AssociationWMA Declaration on Pseudoscience and Pseudotherapies...31 Oct 2020 — Pseudosciences and pseudotherapies represe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35687251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Baseless Claims and Pseudoscience in Health and Wellnessby NB Tiller · 2023 · Cited by 58 — This is a call to action to unify exerc...</span></span></span>
 
 ## A Memorable Example: The Dragon That Cannot Be Detected
 
 A famous illustration comes from Carl Sagan's story of an invisible dragon living in a garage. Each proposed test for detecting the dragon is met with a new qualification. The dragon is invisible. It floats. It leaves no footprints. It breathes heatless fire. It cannot be detected by paint, sensors, or physical contact.
 
-The point of the example is not dragons. It is the way a claim can continually adapt to avoid scrutiny. Every failed test leads to a new explanation rather than a reconsideration of the claim itself. The result is a proposition that sounds specific but behaves as though no evidence could ever count against it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skeptic/comments/1kmfm3q/have_you_heard_of_the_dragon_living_in_carl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditHave you heard of The Dragon Living in Carl Sagan&#x27;s...May 14, 2025 — There have been innumerable stories of dragons over the centu...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
+The point of the example is not dragons. It is the way a claim can continually adapt to avoid scrutiny. Every failed test leads to a new explanation rather than a reconsideration of the claim itself. The result is a proposition that sounds specific but behaves as though no evidence could ever count against it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skeptic/comments/1kmfm3q/have_you_heard_of_the_dragon_living_in_carl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Have you heard of The Dragon Living in Carl Sagan&#x27;s...May 14, 2025 — There have been innumerable stories of dragons over the centu...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
 
 Many untestable healing claims follow the same pattern. Whenever a proposed measurement fails to show an effect, the effect is relocated to a place where measurement supposedly cannot reach.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-X8Xfl0JdTQ" title="Karl Popper, Science, &amp; Pseudoscience: Crash Course Philosophy #8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-X8Xfl0JdTQ" target="_blank" rel="noopener noreferrer">Karl Popper, Science, &amp; Pseudoscience: Crash Course Philosophy #8</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 2.9M &middot; Uploaded: March 2016 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-X8Xfl0JdTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-X8Xfl0JdTQ">Open on YouTube</a></p></div></div></div>
 
@@ -372,7 +367,6 @@ The more a theory depends on invisible mechanisms that never produce observable 
 
 If worsening symptoms, unchanged symptoms, and improved symptoms all count as proof, then the claim is insulated from evidence.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_untestable_healing_c_01f975-Illustration-3-dark.svg" | relative_url }}" alt="Untestable Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_untestable_healing_c_01f975-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_untestable_healing_c_01f975-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Pattern Persists
 
@@ -380,11 +374,9 @@ Untestable healing claims often survive because they provide an explanation for 
 
 Yet the strength of science comes from the opposite approach. Strong claims take risks. They make predictions that can fail. They allow reality to decide whether the idea survives.
 
-When a healing claim continually moves the goalposts, its apparent resilience should not be mistaken for evidence. A claim that cannot lose has not necessarily won. It may simply have been designed so that losing is impossible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica | BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falsifiability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">FalsifiabilityFalsifiability is a standard of evaluation of scientific statements, including theories and hypotheses. A statement is f...</span></span></span>
-
+When a healing claim continually moves the goalposts, its apparent resilience should not be mistaken for evidence. A claim that cannot lose has not necessarily won. It may simply have been designed so that losing is impossible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica &#124; BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falsifiability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">FalsifiabilityFalsifiability is a standard of evaluation of scientific statements, including theories and hypotheses. A statement is f...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wf-sGqBsWv4" title="Karl Popper&#x27;s Falsification" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wf-sGqBsWv4" target="_blank" rel="noopener noreferrer">Karl Popper&#x27;s Falsification</a></p><p class="youtube-embed-meta">Channel: BBC Radio 4 &middot; Views: 576.1K &middot; Uploaded: August 2015 &middot; Length: 1 minute 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wf-sGqBsWv4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wf-sGqBsWv4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -782,160 +774,160 @@ When a healing claim continually moves the goalposts, its apparent resilience sh
 
 1. <a id="endnote-1"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/criterion-of-falsifiability](https://www.britannica.com/topic/criterion-of-falsifiability)  
+   Link: <a href="https://www.britannica.com/topic/criterion-of-falsifiability" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/criterion-of-falsifiability</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaCriterion of falsifiability | Falsificationism, Popper, HypothesesMay 14, 2026 — Criterion of falsifiability, in t...</p></details>
    Published: May 14, 2026  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)  
+   Link: <a href="https://en.wikipedia.org/wiki/Falsifiability" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falsifiability</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FalsifiabilityFalsifiability is a standard of evaluation of scientific statements, including theories and hypotheses. A statement is f...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: britannica.com  
    Title: scientific method  
-   Link: [https://www.britannica.com/science/scientific-method](https://www.britannica.com/science/scientific-method)  
+   Link: <a href="https://www.britannica.com/science/scientific-method" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/scientific-method</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Steps, &amp; ApplicationApr 24, 2026 — Scientific method, mathematical and experimental technique employed in the sciences. More...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: britannica.com  
    Title: The Logic of Scientific Discovery  
-   Link: [https://www.britannica.com/topic/The-Logic-of-Scientific-Discovery](https://www.britannica.com/topic/The-Logic-of-Scientific-Discovery)  
+   Link: <a href="https://www.britannica.com/topic/The-Logic-of-Scientific-Discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/The-Logic-of-Scientific-Discovery</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaThe Logic of Scientific Discovery | work by PopperApr 3, 2026 — Popper argued instead that hypotheses are deductiv...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Eliminativism, Falsification, Theory  
-   Link: [https://www.britannica.com/topic/philosophy-of-science/Eliminativism-and-falsification](https://www.britannica.com/topic/philosophy-of-science/Eliminativism-and-falsification)  
+   Link: <a href="https://www.britannica.com/topic/philosophy-of-science/Eliminativism-and-falsification" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/philosophy-of-science/Eliminativism-and-falsification</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaEliminativism, Falsification, Theory - Philosophy of scienceWhen a complicated experiment reveals results that are...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Pseudoscience](https://en.wikipedia.org/wiki/Pseudoscience)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pseudoscience" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pseudoscience</a>  
 
 7. <a id="endnote-7"></a>
    Source: bio.libretexts.org  
    Title: 1.4: Pseudoscience and Other Misuses of Science  
-   Link: [https://bio.libretexts.org/Courses/CT_State_Northwestern/Introduction_to_Environmental_Science/1%3A_Framing_Our_Study_of_Environmental_Science/1.4%3A_Pseudoscience_and_Other_Misuses_of_Science](https://bio.libretexts.org/Courses/CT_State_Northwestern/Introduction_to_Environmental_Science/1%3A_Framing_Our_Study_of_Environmental_Science/1.4%3A_Pseudoscience_and_Other_Misuses_of_Science)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Biology LibreTexts1.4: Pseudoscience and Other Misuses of Science12 Jan 2026 — Pseudoscience is a claim, belief, or practice that is pres...</p></details>
+   Link: <a href="https://bio.libretexts.org/Courses/CT_State_Northwestern/Introduction_to_Environmental_Science/1%3A_Framing_Our_Study_of_Environmental_Science/1.4%3A_Pseudoscience_and_Other_Misuses_of_Science" target="_blank" rel="noopener noreferrer nofollow">https://bio.libretexts.org/Courses/CT_State_Northwestern/Introduction_to_Environmental_Science/1%3A_Framing_Our_Study_of_Environmental_Science/1.4%3A_Pseudoscience_and_Other_Misuses_of_Science</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>logy LibreTexts1.4: Pseudoscience and Other Misuses of Science12 Jan 2026 — Pseudoscience is a claim, belief, or practice that is pres...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/1kmfm3q/have_you_heard_of_the_dragon_living_in_carl/](https://www.reddit.com/r/skeptic/comments/1kmfm3q/have_you_heard_of_the_dragon_living_in_carl/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditHave you heard of The Dragon Living in Carl Sagan&#x27;s...May 14, 2025 — There have been innumerable stories of dragons over the centu...</p></details>
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/1kmfm3q/have_you_heard_of_the_dragon_living_in_carl/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1kmfm3q/have_you_heard_of_the_dragon_living_in_carl/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you heard of The Dragon Living in Carl Sagan&#x27;s...May 14, 2025 — There have been innumerable stories of dragons over the centu...</p></details>
    Published: May 14, 2025  
 
 9. <a id="endnote-9"></a>
    Source: carl.gg  
-   Link: [https://carl.gg/](https://carl.gg/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl-bot DashboardCarl-bot is a fully customizable and modular discord bot featuring reaction roles, automod, logging, custom commands an...</p></details>
+   Link: <a href="https://carl.gg/" target="_blank" rel="noopener noreferrer nofollow">https://carl.gg/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>bot DashboardCarl-bot is a fully customizable and modular discord bot featuring reaction roles, automod, logging, custom commands an...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/pseudoscience](https://www.britannica.com/topic/pseudoscience)  
+   Link: <a href="https://www.britannica.com/topic/pseudoscience" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/pseudoscience</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Astrology, Palmistry, &amp;...Apr 25, 2026 — Pseudoscience is any system that tries to explain physical phenomena but cannot be...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/](https://www.britannica.com/)  
+   Link: <a href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia Britannica | BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/video/Kara-Rogers-difference-Encyclopaedia-Britannica-theory-hypothesis/-227183](https://www.britannica.com/video/Kara-Rogers-difference-Encyclopaedia-Britannica-theory-hypothesis/-227183)  
+   Link: <a href="https://www.britannica.com/video/Kara-Rogers-difference-Encyclopaedia-Britannica-theory-hypothesis/-227183" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/video/Kara-Rogers-difference-Encyclopaedia-Britannica-theory-hypothesis/-227183</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Scientific Hypotheses, Theories, &amp; ModelsA scientific hypothesis is an idea that proposes a tentative explanation for a phe...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: kids.britannica.com  
-   Link: [https://kids.britannica.com/students/article/pseudoscience/276563](https://kids.britannica.com/students/article/pseudoscience/276563)  
+   Link: <a href="https://kids.britannica.com/students/article/pseudoscience/276563" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/pseudoscience/276563</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>StudentsA system that tries to explain physical phenomena that cannot be proven by the scientific method is called a pseudoscience.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: britannica.com  
    Title: scientific theory  
-   Link: [https://www.britannica.com/science/scientific-theory](https://www.britannica.com/science/scientific-theory)  
+   Link: <a href="https://www.britannica.com/science/scientific-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/scientific-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Characterization, &amp; Empirical...Apr 3, 2026 — A scientific theory is a systematic ideational structure of broad scope that e...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/therapists/comments/1sir0me/is_it_me_or_is_this_field_way_more_prone_to/](https://www.reddit.com/r/therapists/comments/1sir0me/is_it_me_or_is_this_field_way_more_prone_to/)  
+   Link: <a href="https://www.reddit.com/r/therapists/comments/1sir0me/is_it_me_or_is_this_field_way_more_prone_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/therapists/comments/1sir0me/is_it_me_or_is_this_field_way_more_prone_to/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is it me, or is this field way more prone to pseudoscience...Passing something off as scientific that makes unfalsifiable claims and mis...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Encyclopædia Britannica  
-   Link: [https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica](https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica)  
+   Link: <a href="https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopædia BritannicaThe Encyclopædia Britannica (Latin for &#x27;British Encyclopaedia&#x27;) is a general-knowledge English-language encyclo...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: The Demon Haunted World  
-   Link: [https://en.wikipedia.org/wiki/The_Demon-Haunted_World](https://en.wikipedia.org/wiki/The_Demon-Haunted_World)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Demon-Haunted_World" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Demon-Haunted_World</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Demon-Haunted WorldDragon in my garage. edit. See also: Falsifiability. As an example of skeptical thinking, Sagan offers a story...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/35687251/](https://pubmed.ncbi.nlm.nih.gov/35687251/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedBaseless Claims and Pseudoscience in Health and Wellnessby NB Tiller · 2023 · Cited by 58 — This is a call to action to unify exerc...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35687251/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35687251/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baseless Claims and Pseudoscience in Health and Wellnessby NB Tiller · 2023 · Cited by 58 — This is a call to action to unify exerc...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: wma.net  
    Title: declaration on pseudoscience and pseudotherapies in the field of health  
-   Link: [https://www.wma.net/policies-post/wma-declaration-on-pseudoscience-and-pseudotherapies-in-the-field-of-health/](https://www.wma.net/policies-post/wma-declaration-on-pseudoscience-and-pseudotherapies-in-the-field-of-health/)  
+   Link: <a href="https://www.wma.net/policies-post/wma-declaration-on-pseudoscience-and-pseudotherapies-in-the-field-of-health/" target="_blank" rel="noopener noreferrer nofollow">https://www.wma.net/policies-post/wma-declaration-on-pseudoscience-and-pseudotherapies-in-the-field-of-health/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Medical AssociationWMA Declaration on Pseudoscience and Pseudotherapies...31 Oct 2020 — Pseudosciences and pseudotherapies represe...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: webtoons.com  
-   Link: [https://www.webtoons.com/en/slice-of-life/carl/list?title_no=1216](https://www.webtoons.com/en/slice-of-life/carl/list?title_no=1216)  
+   Link: <a href="https://www.webtoons.com/en/slice-of-life/carl/list?title_no=1216" target="_blank" rel="noopener noreferrer nofollow">https://www.webtoons.com/en/slice-of-life/carl/list?title_no=1216</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/352148396_The_impact_of_personal_pseudoscientific_beliefs_in_the_pursuit_for_non-evidence-based_health_care](https://www.researchgate.net/publication/352148396_The_impact_of_personal_pseudoscientific_beliefs_in_the_pursuit_for_non-evidence-based_health_care)  
+   Link: <a href="https://www.researchgate.net/publication/352148396_The_impact_of_personal_pseudoscientific_beliefs_in_the_pursuit_for_non-evidence-based_health_care" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352148396_The_impact_of_personal_pseudoscientific_beliefs_in_the_pursuit_for_non-evidence-based_health_care</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The impact of personal pseudoscientific beliefs in...4 Mar 2026 — We aim at describing scientific and pseudoscientific beliefs and...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: readthesequences.com  
-   Link: [https://www.readthesequences.com/Belief-In-Belief](https://www.readthesequences.com/Belief-In-Belief)  
+   Link: <a href="https://www.readthesequences.com/Belief-In-Belief" target="_blank" rel="noopener noreferrer nofollow">https://www.readthesequences.com/Belief-In-Belief</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Belief in BeliefCarl Sagan once told a parable of someone who comes to us and claims: “There is a dragon in my garage.” Fascinating! We r...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/falsifiability-rule](https://www.ebsco.com/research-starters/religion-and-philosophy/falsifiability-rule)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/falsifiability-rule" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/falsifiability-rule</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Falsifiability rule | Religion and PhilosophyThe falsifiability rule asserts that for a theory to count as scientific, it must be logical...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: childprotection.sa.gov.au  
-   Link: [https://www.childprotection.sa.gov.au/report-suspected-harm/process-for-mandated-reporters](https://www.childprotection.sa.gov.au/report-suspected-harm/process-for-mandated-reporters)  
+   Link: <a href="https://www.childprotection.sa.gov.au/report-suspected-harm/process-for-mandated-reporters" target="_blank" rel="noopener noreferrer nofollow">https://www.childprotection.sa.gov.au/report-suspected-harm/process-for-mandated-reporters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Process for mandated reportersA report to the Child Abuse Report Line (CARL) can be made by calling 13 14 78. The report line is availabl...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/complementary-and-alternative-medicine/pseudoscience-complementary-and](https://www.ebsco.com/research-starters/complementary-and-alternative-medicine/pseudoscience-complementary-and)  
+   Link: <a href="https://www.ebsco.com/research-starters/complementary-and-alternative-medicine/pseudoscience-complementary-and" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/complementary-and-alternative-medicine/pseudoscience-complementary-and</a>  
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=kz7hFvPrtCc](https://www.youtube.com/watch?v=kz7hFvPrtCc)  
+   Link: <a href="https://www.youtube.com/watch?v=kz7hFvPrtCc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kz7hFvPrtCc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BRITANNICA KIDS: Get the Facts Right the First Time...Britannica Kids is an engaging accurate learning space that&#x27;s safe for the whole f...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/channel/UCU2RwMnuo94CNZjGNf9fqxQ](https://www.youtube.com/channel/UCU2RwMnuo94CNZjGNf9fqxQ)  
+   Link: <a href="https://www.youtube.com/channel/UCU2RwMnuo94CNZjGNf9fqxQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCU2RwMnuo94CNZjGNf9fqxQ</a>  
 
 28. <a id="endnote-28"></a>
    Source: childprotection.sa.gov.au  
    Title: Reporting suspected harm of children and young people  
-   Link: [https://childprotection.sa.gov.au/report-suspected-harm](https://childprotection.sa.gov.au/report-suspected-harm)  
+   Link: <a href="https://childprotection.sa.gov.au/report-suspected-harm" target="_blank" rel="noopener noreferrer nofollow">https://childprotection.sa.gov.au/report-suspected-harm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Child Abuse Report Line (CARL):. Phone 13 14 78. The report line is open 24 hours a day, 7 days a week. Additional guidance. Process for...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: study.com  
    Title: Pseudoscience Definition, Characteristics & Examples  
-   Link: [https://study.com/academy/lesson/video/pseudoscience-examples-definition.html](https://study.com/academy/lesson/video/pseudoscience-examples-definition.html)  
+   Link: <a href="https://study.com/academy/lesson/video/pseudoscience-examples-definition.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/video/pseudoscience-examples-definition.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VideoPseudoscience is a term used to describe interests or products supposedly based on science, but have no actual connection to proper...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: steeringpoint.ie  
-   Link: [https://steeringpoint.ie/worklife/pseudoscience-unravelling-the-facade-of-false-scientific-claims/](https://steeringpoint.ie/worklife/pseudoscience-unravelling-the-facade-of-false-scientific-claims/)  
+   Link: <a href="https://steeringpoint.ie/worklife/pseudoscience-unravelling-the-facade-of-false-scientific-claims/" target="_blank" rel="noopener noreferrer nofollow">https://steeringpoint.ie/worklife/pseudoscience-unravelling-the-facade-of-false-scientific-claims/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>how to differentiate it from genuine scientific findings.Read more...</p></details>

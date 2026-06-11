@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-sciencey/
 description: Focused pages that expand on Sciencey Words.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-parent_title: Sciencey Words | Myths And Misconceptions
+parent_title: Sciencey Words
 parent_nav_short_title: Sciencey Words
 parent_permalink: /sciencey-words/
 ---

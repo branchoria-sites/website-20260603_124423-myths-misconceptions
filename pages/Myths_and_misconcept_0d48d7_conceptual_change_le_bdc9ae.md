@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - concept-change
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - concept-change
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Students often need help replacing a mistaken model, not just adding correct facts on top of it.
 hero_summary: Students often need help replacing a mistaken model, not just adding correct facts on top of it.
 layout: default
 permalink: /concept-change/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Concept Change
 title: How Learners Replace Wrong Ideas
-title_full: How Learners Replace Wrong Ideas | Mythcraft
+title_full: How Learners Replace Wrong Ideas
 display_title_short: Concept Change
 display_title: Concept Change
 heading_title: How Learners Replace Wrong Ideas
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 next_link:
   basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
-date: '2026-06-09 04:08:07 '
+date: '2026-06-11 21:52:53 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-overview.webp
@@ -503,9 +503,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-ov
 
 Conceptual change in science learning is the process by which learners replace or reorganise a mistaken explanation, rather than simply memorising a correct fact beside it. This matters because many science misconceptions are not random slips. They are often coherent, experience-based models: heavy things fall faster, seasons happen because Earth is nearer the Sun, plants “eat” soil, electric current is “used up” as it travels round a circuit. These ideas can feel sensible because they explain everyday observations, even when they [conflict]({{ 'conflict/' | relative_url }}) with scientific accounts.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-overview.webp" | relative_url }}" alt="Overview image for Concept Change" loading="eager" decoding="sync" fetchpriority="high">
-The practical lesson for schools is clear: telling students the right answer is rarely enough. Effective conceptual change usually requires three moves. First, teachers need to make the learner’s existing model visible. Second, students need a reason to see the limits of that model. Third, the class needs a better explanation that is intelligible, useful and revisited in enough contexts to become the learner’s new way of thinking. The classic conceptual change account by Posner, Strike, Hewson and Gertzog described learning as an interaction between new teaching and the learner’s current ideas, not as a simple transfer of information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">e Class UOAAccommodation of a scientific conception: Toward a theory</span><span class="citation-popover-snippet">eClass UOAAccommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — It has become a...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
+The practical lesson for schools is clear: telling students the right answer is rarely enough. Effective conceptual change usually requires three moves. First, teachers need to make the learner’s existing model visible. Second, students need a reason to see the limits of that model. Third, the class needs a better explanation that is intelligible, useful and revisited in enough contexts to become the learner’s new way of thinking. The classic conceptual change account by Posner, Strike, Hewson and Gertzog described learning as an interaction between new teaching and the learner’s current ideas, not as a simple transfer of information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">e Class UOAAccommodation of a scientific conception: Toward a theory</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — It has become a...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
 
 ## Why wrong science ideas can be coherent
 
@@ -529,11 +528,10 @@ This is also why some students appear to “know” the right answer while still
 
 A useful classroom question is therefore not only “Can the student state the correct idea?” but “Which model are they using when they have to explain, predict or choose between alternatives?”
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-Illustration-1-dark.svg" | relative_url }}" alt="Concept Change illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Making the misconception visible
 
-Conceptual change usually starts with evidence of thinking, not with a lecture. Teachers need ways to find out what students currently believe before selecting an intervention. [Diagnostic questions]({{ 'diagnostics/' | relative_url }}) are especially useful because they can be designed so that each wrong option corresponds to a known misconception.
+Conceptual change usually starts with evidence of thinking, not with a lecture. Teachers need ways to find out what students currently believe before selecting an intervention. Diagnostic questions are especially useful because they can be designed so that each wrong option corresponds to a known misconception.
 
 The Best Evidence Science Teaching project, developed through the University of York Science Education Group and hosted by STEM Learning, is a practical example of this approach. Its resources are built from research on common misunderstandings, diagnostic questioning, formative assessment and sequenced progression in key secondary science concepts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.york.ac.uk/education/research/uyseg/research-projects/bestevidencescienceteaching/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: york.ac.uk">[University of York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">york.ac.uk</span><span class="citation-popover-title">University of York Best Evidence Science Teaching</span><span class="citation-popover-snippet">University of York Best Evidence Science Teaching</span></span></span>
 
@@ -542,7 +540,6 @@ A good diagnostic question does more than check recall. It gives the teacher inf
 This makes conceptual change a policy and implementation issue, not just a lesson-design preference. Schools need time, materials and assessment cultures that value formative diagnosis. If science teaching is driven mainly by coverage and end-of-unit marks, teachers may discover misconceptions only after they have become embedded. If diagnostic questions are normalised, the misconception becomes visible early enough to work with.
 
 Several practical routines support this:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -553,17 +550,15 @@ Several practical routines support this:
 
 </div>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aRZ3KWlIJJ8" title="Best Evidence Science Teaching" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aRZ3KWlIJJ8" target="_blank" rel="noopener noreferrer">Best Evidence Science Teaching</a></p><p class="youtube-embed-meta">Channel: Science Animated &middot; Views: 6.0K &middot; Uploaded: November 2019 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aRZ3KWlIJJ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aRZ3KWlIJJ8">Open on YouTube</a></p></div></div></div>
 
 ## Cognitive conflict helps only when it is carefully handled
 
-One common strategy for conceptual change is [cognitive conflict]({{ 'conflict/' | relative_url }}): students make a prediction, observe a result that does not fit their model, and then reconsider the explanation. This can be powerful. A student who thinks heavier objects always fall faster may be unsettled by a demonstration in which objects behave differently from their prediction. A student who thinks plants get most of their mass from soil may need evidence about gases, water and photosynthesis to see why that model is incomplete.
+One common strategy for conceptual change is cognitive conflict: students make a prediction, observe a result that does not fit their model, and then reconsider the explanation. This can be powerful. A student who thinks heavier objects always fall faster may be unsettled by a demonstration in which objects behave differently from their prediction. A student who thinks plants get most of their mass from soil may need evidence about gases, water and photosynthesis to see why that model is incomplete.
 
 But cognitive conflict is not magic. Students can ignore anomalous evidence, reinterpret it, blame the equipment, treat it as a special case, or memorise the teacher’s explanation without changing their own. Research summaries of conceptual change have repeatedly warned against seeing it as a sudden dramatic replacement of one idea by another. Later accounts stress that change can be slow, partial and context-dependent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.pageplace.de">[PagePlace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.pageplace.de</span><span class="citation-popover-title">Page Place International Handbook of Research on Conceptual Change</span><span class="citation-popover-snippet">Page Place International Handbook of Research on Conceptual Change</span></span></span>
 
 That matters for implementation. A discrepant event should not be a classroom trick where the teacher simply reveals that students were wrong. It needs careful framing:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -577,13 +572,12 @@ That matters for implementation. A discrepant event should not be a classroom tr
 
 Without the final steps, cognitive conflict can create confusion rather than understanding. The aim is not to make students feel defeated; it is to make the limits of the old explanation visible and the value of the new explanation clear.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-Illustration-2-dark.svg" | relative_url }}" alt="Concept Change illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Building a better explanation
 
 A misconception leaves a gap when it is removed. If instruction only says “that is wrong”, learners may keep using the old idea because it still explains something for them. Conceptual change therefore depends on replacement explanations that students can understand and use.
 
-The classic Posner model argued that a new conception is more likely to be accepted when the learner becomes dissatisfied with the old one and finds the new one intelligible, plausible and fruitful. “Fruitful” is especially important: the new idea must help the learner solve problems, make predictions and connect cases better than the old idea did. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">e Class UOAAccommodation of a scientific conception: Toward a theory</span><span class="citation-popover-snippet">eClass UOAAccommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — It has become a...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
+The classic Posner model argued that a new conception is more likely to be accepted when the learner becomes dissatisfied with the old one and finds the new one intelligible, plausible and fruitful. “Fruitful” is especially important: the new idea must help the learner solve problems, make predictions and connect cases better than the old idea did. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">e Class UOAAccommodation of a scientific conception: Toward a theory</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — It has become a...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
 
 Refutation text is one evidence-supported way to do this. A refutation text explicitly names a common misconception, explains why it is tempting or wrong, and then presents the scientific explanation. A 2022 meta-analysis found that [refutation texts]({{ 'refutation-texts/' | relative_url }}) facilitate learning, with the structure working by confronting false beliefs rather than merely presenting correct information beside them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -593,7 +587,6 @@ The difference is not wordiness. The second version helps the learner replace a 
 
 Good replacement explanations often have these features:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * **They respect the starting point.** The misconception is treated as understandable, not stupid.
@@ -602,9 +595,6 @@ Good replacement explanations often have these features:
 * **They revisit the concept.** The teacher returns to the idea across lessons, because one correction rarely produces durable change.
 
 </div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A4ZDyzPqnT4" title="A Private Universe fragments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A4ZDyzPqnT4" target="_blank" rel="noopener noreferrer">A Private Universe fragments</a></p><p class="youtube-embed-meta">Channel: COCESoE &middot; Views: 22.5K &middot; Uploaded: June 2015 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A4ZDyzPqnT4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A4ZDyzPqnT4">Open on YouTube</a></p></div></div></div>
 
 ## What the research suggests about interventions
 
@@ -618,6 +608,7 @@ The implication for teachers and curriculum leaders is that conceptual change sh
 
 This is where open-access, research-informed resources can reduce workload. BEST, for instance, organises resources around learning progression, diagnostic questions and response activities, making conceptual change less dependent on each teacher individually rediscovering the research literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ase.org.uk/system/files/SSR_December_2020_055-063_Atkinson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ase.org.uk">[www.ase.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ase.org.uk</span><span class="citation-popover-title">www.ase.org.uk Best Evidence Science Teaching: research</span><span class="citation-popover-snippet">www.ase.org.uk Best Evidence Science Teaching: research</span></span></span>
 
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-Illustration-3-dark.svg" | relative_url }}" alt="Concept Change illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common implementation mistakes
 
 Conceptual change can fail even when teachers know the misconception. The most common failures are not lack of effort, but mismatches between the intervention and the learner’s actual model.
@@ -634,8 +625,8 @@ Conceptual change can fail even when teachers know the misconception. The most c
 
 The deeper point is that misconceptions are often adaptive. They helped the learner make sense of something. A successful intervention does not merely remove them; it gives the learner a more powerful way to think.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A4ZDyzPqnT4" title="A Private Universe fragments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A4ZDyzPqnT4" target="_blank" rel="noopener noreferrer">A Private Universe fragments</a></p><p class="youtube-embed-meta">Channel: COCESoE &middot; Views: 22.5K &middot; Uploaded: June 2015 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A4ZDyzPqnT4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A4ZDyzPqnT4">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-Illustration-3-dark.svg" | relative_url }}" alt="Concept Change illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What changes for policy and curriculum design
 
 Conceptual change has practical consequences for how science education is organised. It argues against curriculum models that treat learning as a straight line through content coverage. If misconceptions are durable models, then science programmes need planned opportunities to elicit, challenge, rebuild and revisit ideas.
@@ -643,7 +634,6 @@ Conceptual change has practical consequences for how science education is organi
 For curriculum design, that means key concepts should be sequenced with known misconceptions in mind. For assessment, it means diagnostic and formative tasks need status alongside summative tests. For teacher development, it means subject knowledge must include knowledge of how students commonly misunderstand the subject. The National Academies’ work on learning emphasises that prior knowledge affects new learning; science policy that ignores this leaves teachers trying to build new understanding on unstable foundations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/publications/9853" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesHow People Learn: Brain, Mind, Experience, and Schoolby National Research Council · 1999 · Cited by 6127 — This edition...</span></span></span>
 
 The intervention logic is not expensive or exotic. It is disciplined:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -656,11 +646,7 @@ The intervention logic is not expensive or exotic. It is disciplined:
 
 </div>
 
-This is why conceptual change belongs at the centre of [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) in science learning. A myth can be debunked with a correction; a misconception often has to be rebuilt from the inside.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JbLAGpQ9RXg" title="Techniques to Enhance Learning and Memory | Nancy D. Chiaravalloti | TEDxHerndon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JbLAGpQ9RXg" target="_blank" rel="noopener noreferrer">Techniques to Enhance Learning and Memory | Nancy D. Chiaravalloti | TEDxHerndon</a></p><p class="youtube-embed-meta">Channel: TEDx Talks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JbLAGpQ9RXg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JbLAGpQ9RXg">Open on YouTube</a></p></div></div></div>
-
+This is why conceptual change belongs at the centre of myths and misconceptions in science learning. A myth can be debunked with a correction; a misconception often has to be rebuilt from the inside.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1059,139 +1045,139 @@ This is why conceptual change belongs at the centre of [myths and misconceptions
 1. <a id="endnote-1"></a>
    Source: eclass.uoa.gr  
    Title: e Class UOAAccommodation of a scientific conception: Toward a theory  
-   Link: [https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf](https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eClass UOAAccommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — It has become a...</p></details>
+   Link: <a href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — It has become a...</p></details>
    Published: August 22, 2006  
 
 2. <a id="endnote-2"></a>
    Source: learner.org  
-   Link: [https://www.learner.org/series/a-private-universe/1-a-private-universe/](https://www.learner.org/series/a-private-universe/1-a-private-universe/)  
+   Link: <a href="https://www.learner.org/series/a-private-universe/1-a-private-universe/" target="_blank" rel="noopener noreferrer nofollow">https://www.learner.org/series/a-private-universe/1-a-private-universe/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annenberg LearnerA Private UniverseThis video brings into sharp focus the dilemma facing all educators: Why don&#x27;t even the brightest stud...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: api.pageplace.de  
    Title: Page Place International Handbook of Research on Conceptual Change  
-   Link: [https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf](https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf)  
+   Link: <a href="https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/</a>  
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1747938X23000490](https://www.sciencedirect.com/science/article/pii/S1747938X23000490)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1747938X23000490" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1747938X23000490</a>  
 
 6. <a id="endnote-6"></a>
    Source: ase.org.uk  
    Title: www.ase.org.uk Best Evidence Science Teaching: research  
-   Link: [https://www.ase.org.uk/system/files/SSR_December_2020_055-063_Atkinson.pdf](https://www.ase.org.uk/system/files/SSR_December_2020_055-063_Atkinson.pdf)  
+   Link: <a href="https://www.ase.org.uk/system/files/SSR_December_2020_055-063_Atkinson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ase.org.uk/system/files/SSR_December_2020_055-063_Atkinson.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
    Title: Conceptual Change Theory  
-   Link: [https://www.sciencedirect.com/topics/psychology/conceptual-change-theory](https://www.sciencedirect.com/topics/psychology/conceptual-change-theory)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/conceptual-change-theory</a>  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S095947521830817X](https://www.sciencedirect.com/science/article/abs/pii/S095947521830817X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S095947521830817X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S095947521830817X</a>  
 
 9. <a id="endnote-9"></a>
    Source: ase.org.uk  
-   Link: [https://www.ase.org.uk/system/files/JES29%20Harden%20%26%20Waller.pdf](https://www.ase.org.uk/system/files/JES29%20Harden%20%26%20Waller.pdf)  
+   Link: <a href="https://www.ase.org.uk/system/files/JES29%20Harden%20%26%20Waller.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ase.org.uk/system/files/JES29%20Harden%20%26%20Waller.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: eclass.uoa.gr  
    Title: Commentary Mayer  
-   Link: [https://eclass.uoa.gr/modules/document/file.php/PSYCH139/04.%20%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%B7%CF%82%20%CE%B5%CE%BD%CE%BD%CE%BF%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE%CF%82%20%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE%CF%82/Commentary-Mayer.pdf](https://eclass.uoa.gr/modules/document/file.php/PSYCH139/04.%20%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%B7%CF%82%20%CE%B5%CE%BD%CE%BD%CE%BF%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE%CF%82%20%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE%CF%82/Commentary-Mayer.pdf)  
+   Link: <a href="https://eclass.uoa.gr/modules/document/file.php/PSYCH139/04.%20%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%B7%CF%82%20%CE%B5%CE%BD%CE%BD%CE%BF%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE%CF%82%20%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE%CF%82/Commentary-Mayer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eclass.uoa.gr/modules/document/file.php/PSYCH139/04.%20%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%B7%CF%82%20%CE%B5%CE%BD%CE%BD%CE%BF%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE%CF%82%20%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE%CF%82/Commentary-Mayer.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Conceptual Change in Science Learning  
-   Link: [https://www.youtube.com/watch?v=S7bM-p4kR_s](https://www.youtube.com/watch?v=S7bM-p4kR_s)  
+   Link: <a href="https://www.youtube.com/watch?v=S7bM-p4kR_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S7bM-p4kR_s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Students Build Scientific Understanding...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/publications/9853](https://www.nationalacademies.org/publications/9853)  
+   Link: <a href="https://www.nationalacademies.org/publications/9853" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/publications/9853</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesHow People Learn: Brain, Mind, Experience, and Schoolby National Research Council · 1999 · Cited by 6127 — This edition...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ejmste.com  
    Title: In other.Read more  
-   Link: [https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf](https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf)  
+   Link: <a href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eurasia JournalAn Overview of Conceptual Change TheoriesOctober 17, 2007 — by G Özdemir · 2007 · Cited by 567 — Misconceptions are theref...</p></details>
    Published: October 17, 2007  
 
 14. <a id="endnote-14"></a>
    Source: york.ac.uk  
    Title: University of York Best Evidence Science Teaching  
-   Link: [https://www.york.ac.uk/education/research/uyseg/research-projects/bestevidencescienceteaching/](https://www.york.ac.uk/education/research/uyseg/research-projects/bestevidencescienceteaching/)  
+   Link: <a href="https://www.york.ac.uk/education/research/uyseg/research-projects/bestevidencescienceteaching/" target="_blank" rel="noopener noreferrer nofollow">https://www.york.ac.uk/education/research/uyseg/research-projects/bestevidencescienceteaching/</a>  
 
 15. <a id="endnote-15"></a>
    Source: open.metu.edu.tr  
    Title: Open METUEffectiveness of conceptual change strategies in science  
-   Link: [https://open.metu.edu.tr/bitstream/handle/11511/104711/J%20Res%20Sci%20Teach%20-%202023%20-%20Pacaci%20-%20Effectiveness%20of%20conceptual%20change%20strategies%20in%20science%20education%20A%20meta%E2%80%90analysis.pdf](https://open.metu.edu.tr/bitstream/handle/11511/104711/J%20Res%20Sci%20Teach%20-%202023%20-%20Pacaci%20-%20Effectiveness%20of%20conceptual%20change%20strategies%20in%20science%20education%20A%20meta%E2%80%90analysis.pdf)  
+   Link: <a href="https://open.metu.edu.tr/bitstream/handle/11511/104711/J%20Res%20Sci%20Teach%20-%202023%20-%20Pacaci%20-%20Effectiveness%20of%20conceptual%20change%20strategies%20in%20science%20education%20A%20meta%E2%80%90analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://open.metu.edu.tr/bitstream/handle/11511/104711/J%20Res%20Sci%20Teach%20-%202023%20-%20Pacaci%20-%20Effectiveness%20of%20conceptual%20change%20strategies%20in%20science%20education%20A%20meta%E2%80%90analysis.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/projects/DBASSE-BBCSS-13-06/publication/24783](https://www.nationalacademies.org/projects/DBASSE-BBCSS-13-06/publication/24783)  
+   Link: <a href="https://www.nationalacademies.org/projects/DBASSE-BBCSS-13-06/publication/24783" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/DBASSE-BBCSS-13-06/publication/24783</a>  
 
 17. <a id="endnote-17"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/5287/chapter/5](https://www.nationalacademies.org/read/5287/chapter/5)  
+   Link: <a href="https://www.nationalacademies.org/read/5287/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/5287/chapter/5</a>  
 
 18. <a id="endnote-18"></a>
    Source: sk.sagepub.com  
    Title: conceptual change  
-   Link: [https://sk.sagepub.com/ency/edvol/download/encyclopedia-of-education-theory-and-philosophy/chpt/conceptual-change.pdf](https://sk.sagepub.com/ency/edvol/download/encyclopedia-of-education-theory-and-philosophy/chpt/conceptual-change.pdf)  
+   Link: <a href="https://sk.sagepub.com/ency/edvol/download/encyclopedia-of-education-theory-and-philosophy/chpt/conceptual-change.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/download/encyclopedia-of-education-theory-and-philosophy/chpt/conceptual-change.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: ihomschool.org  
    Title: How People Learn  
-   Link: [https://www.ihomschool.org/ourpages/auto/2014/3/6/53101783/HowPeopleLearn.pdf](https://www.ihomschool.org/ourpages/auto/2014/3/6/53101783/HowPeopleLearn.pdf)  
+   Link: <a href="https://www.ihomschool.org/ourpages/auto/2014/3/6/53101783/HowPeopleLearn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ihomschool.org/ourpages/auto/2014/3/6/53101783/HowPeopleLearn.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/40032156](https://www.jstor.org/stable/40032156)  
+   Link: <a href="https://www.jstor.org/stable/40032156" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/40032156</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/358587663_CONCEPTUAL_CHANGE_THEORY_AS_A_TEACHING_STRATEGY_IN_ENVIRONMENTAL_EDUCATION](https://www.researchgate.net/publication/358587663_CONCEPTUAL_CHANGE_THEORY_AS_A_TEACHING_STRATEGY_IN_ENVIRONMENTAL_EDUCATION)  
+   Link: <a href="https://www.researchgate.net/publication/358587663_CONCEPTUAL_CHANGE_THEORY_AS_A_TEACHING_STRATEGY_IN_ENVIRONMENTAL_EDUCATION" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358587663_CONCEPTUAL_CHANGE_THEORY_AS_A_TEACHING_STRATEGY_IN_ENVIRONMENTAL_EDUCATION</a>  
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/253300170_Conceptual_change_in_science_teaching_and_teacher_education](https://www.researchgate.net/publication/253300170_Conceptual_change_in_science_teaching_and_teacher_education)  
+   Link: <a href="https://www.researchgate.net/publication/253300170_Conceptual_change_in_science_teaching_and_teacher_education" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/253300170_Conceptual_change_in_science_teaching_and_teacher_education</a>  
 
 23. <a id="endnote-23"></a>
    Source: brill.com  
-   Link: [https://brill.com/display/book/edcoll/9789087904227/BP000005.pdf?srsltid=AfmBOooQQKWpQn-bWNlUiwHK-TcMF-TnGrjRLDlsnPgUDyrTB1nP1Xt8](https://brill.com/display/book/edcoll/9789087904227/BP000005.pdf?srsltid=AfmBOooQQKWpQn-bWNlUiwHK-TcMF-TnGrjRLDlsnPgUDyrTB1nP1Xt8)  
+   Link: <a href="https://brill.com/display/book/edcoll/9789087904227/BP000005.pdf?srsltid=AfmBOooQQKWpQn-bWNlUiwHK-TcMF-TnGrjRLDlsnPgUDyrTB1nP1Xt8" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789087904227/BP000005.pdf?srsltid=AfmBOooQQKWpQn-bWNlUiwHK-TcMF-TnGrjRLDlsnPgUDyrTB1nP1Xt8</a>  
 
 24. <a id="endnote-24"></a>
    Source: stem.org.uk  
-   Link: [https://www.stem.org.uk/sites/default/files/pages/downloads/BEST_Approaches_Diagnostic%20questions.pdf](https://www.stem.org.uk/sites/default/files/pages/downloads/BEST_Approaches_Diagnostic%20questions.pdf)  
+   Link: <a href="https://www.stem.org.uk/sites/default/files/pages/downloads/BEST_Approaches_Diagnostic%20questions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stem.org.uk/sites/default/files/pages/downloads/BEST_Approaches_Diagnostic%20questions.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: nfer.ac.uk  
-   Link: [https://www.nfer.ac.uk/media/n3enzjph/assessment_for_learning_in_primary_science_practices_and_benefits.pdf](https://www.nfer.ac.uk/media/n3enzjph/assessment_for_learning_in_primary_science_practices_and_benefits.pdf)  
+   Link: <a href="https://www.nfer.ac.uk/media/n3enzjph/assessment_for_learning_in_primary_science_practices_and_benefits.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nfer.ac.uk/media/n3enzjph/assessment_for_learning_in_primary_science_practices_and_benefits.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: stem.org.uk  
-   Link: [https://www.stem.org.uk/resources/library/collection/440721/best-evidence-science-teaching](https://www.stem.org.uk/resources/library/collection/440721/best-evidence-science-teaching)  
+   Link: <a href="https://www.stem.org.uk/resources/library/collection/440721/best-evidence-science-teaching" target="_blank" rel="noopener noreferrer nofollow">https://www.stem.org.uk/resources/library/collection/440721/best-evidence-science-teaching</a>  
 
 27. <a id="endnote-27"></a>
    Source: openeducat.org  
-   Link: [https://openeducat.org/ai/tools/common-misconceptions-identifier/for-science/](https://openeducat.org/ai/tools/common-misconceptions-identifier/for-science/)  
+   Link: <a href="https://openeducat.org/ai/tools/common-misconceptions-identifier/for-science/" target="_blank" rel="noopener noreferrer nofollow">https://openeducat.org/ai/tools/common-misconceptions-identifier/for-science/</a>  
 
 28. <a id="endnote-28"></a>
    Source: researchoutreach.org  
-   Link: [https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf](https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf)  
+   Link: <a href="https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: smu.edu  
-   Link: [https://www.smu.edu/provost/cte/resources/-/media/site/provost/cte/teachingresources/how-people-learn.pdf](https://www.smu.edu/provost/cte/resources/-/media/site/provost/cte/teachingresources/how-people-learn.pdf)  
+   Link: <a href="https://www.smu.edu/provost/cte/resources/-/media/site/provost/cte/teachingresources/how-people-learn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.smu.edu/provost/cte/resources/-/media/site/provost/cte/teachingresources/how-people-learn.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/225757755_Stella_Vosniadou_Ed_International_Handbook_of_Research_on_Conceptual_Change](https://www.researchgate.net/publication/225757755_Stella_Vosniadou_Ed_International_Handbook_of_Research_on_Conceptual_Change)  
+   Link: <a href="https://www.researchgate.net/publication/225757755_Stella_Vosniadou_Ed_International_Handbook_of_Research_on_Conceptual_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225757755_Stella_Vosniadou_Ed_International_Handbook_of_Research_on_Conceptual_Change</a>

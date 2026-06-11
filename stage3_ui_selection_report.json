@@ -36,7 +36,7 @@
     "long_title_branch_count": 0,
     "single_root_tree": true,
     "topic_labels": [
-      "Myths and misconcept"
+      "Myths and misconcept 0 d48 d7"
     ]
   },
   "selected": {
@@ -45,8 +45,8 @@
     "home_layout_mode": "vertical",
     "auto_home_layout_mode": "catalog",
     "hierarchy_viz_mode": "hybrid",
-    "palette": "signal-cobalt",
-    "motif": "orbital"
+    "palette": "verdant-field",
+    "motif": "constellation"
   },
   "candidates": []
 }

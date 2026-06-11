@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4
 - Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - old-stories
 - memory-gap
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - old-stories
 - memory-gap
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: People may recall that a claim was false while still using it to judge motives, risks or blame.
 hero_summary: People may recall that a claim was false while still using it to judge motives, risks or blame.
 layout: default
 permalink: /memory-gap/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /old-stories/
 nav_short_title: Memory Gap
 title: Knowing it is false is not enough
-title_full: Knowing it is false is not enough | Old Stories
+title_full: Knowing it is false is not enough
 display_title_short: Memory Gap
 display_title: Memory Gap
 heading_title: Knowing it is false is not enough
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Corrected Myths Still Linger | Mythcraft
+parent_title: Why Corrected Myths Still Linger
 parent_permalink: /old-stories/
 parent_nav_short_title: Old Stories
 parent_heading_title: Why Corrected Myths Still Linger
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: The missing piece in stronger corrections
 up_link:
   basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
-  title: Old Stories | Myths and misconcept
+  title: Old Stories | Myths and misconcept 0 d48 d7
   permalink: /old-stories/
   short_title: Old Stories
   heading_title: Why Corrected Myths Still Linger
@@ -265,7 +265,7 @@ next_link:
   permalink: /myth-vs-fact/
   short_title: Myth vs Fact
   heading_title: When myth versus fact pages fall short
-date: '2026-06-09 04:40:14 '
+date: '2026-06-11 22:09:45 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-1.webp
@@ -274,11 +274,10 @@ image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_cor
 
 ## Introduction
 
-A [correction]({{ 'correction/' | relative_url }}) can succeed in one sense and fail in another. People may accurately remember that a claim was withdrawn, disproved or labelled false, yet still rely on it when judging motives, assigning blame or explaining what happened. Research on the [continued influence]({{ 'old-stories/' | relative_url }}) effect shows that the real challenge is not simply storing the correction in memory. It is updating the reasoning built around the original claim. When that update does not happen, the false information can continue shaping later judgements even among people who know it was wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
-
+A [correction]({{ 'correction/' | relative_url }}) can succeed in one sense and fail in another. People may accurately remember that a claim was withdrawn, disproved or labelled false, yet still rely on it when judging motives, assigning blame or explaining what happened. Research on the continued influence effect shows that the real challenge is not simply storing the correction in [memory]({{ 'memory/' | relative_url }}). It is updating the reasoning built around the original claim. When that update does not happen, the false information can continue shaping later judgements even among people who know it was wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-1-dark.svg" | relative_url }}" alt="Memory Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because public debates often treat correction as a [memory]({{ 'memory/' | relative_url }}) problem. If someone remembers the fact-check, the assumption is that the misinformation has been neutralised. The evidence points to a more complicated reality. [Corrections]({{ 'corrections/' | relative_url }}) frequently reduce the influence of a myth, but they do not automatically stop people using that myth when they interpret events, estimate risks or decide who was responsible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
+This distinction matters because public debates often treat correction as a memory problem. If someone remembers the fact-check, the assumption is that the misinformation has been neutralised. The evidence points to a more complicated reality. [Corrections]({{ 'corrections/' | relative_url }}) frequently reduce the influence of a myth, but they do not automatically stop people using that myth when they interpret events, estimate risks or decide who was responsible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
 
 ## Correction memory versus later judgement
 
@@ -287,7 +286,6 @@ One of the most important findings in misinformation research is that rememberin
 In classic continued influence experiments, participants receive a piece of information and later receive a clear retraction. Afterwards, many can correctly report that the information was withdrawn. Yet when asked to explain an event, they still incorporate the retracted detail into their answers. Researchers have repeatedly found this pattern across different scenarios, including accidents, crimes, political claims and public controversies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The continued influence of misinformation in memory</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
 
 The difference becomes clearer if memory and judgement are separated:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -302,7 +300,6 @@ A person may answer the memory question correctly while still allowing the origi
 
 This is why researchers often measure more than factual recall. Simply showing that participants remember a retraction does not prove that the misinformation has stopped affecting their thinking. The stronger test is whether their later explanations and decisions change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://appstate.figshare.com/articles/thesis/Interventions_to_Limit_the_Continued_Influence_Effect_Across_Contexts/30334174/1/files/58815109.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: appstate.figshare.com">[appstate.figshare.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">appstate.figshare.com</span><span class="citation-popover-title">interventions to limit the continued influence effect across</span><span class="citation-popover-snippet">M. (2014) The continued influence effect: The persistence of misinformation in memory and reasoning following correction. In Rapp, D. N...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hrBesZu0k3o" title="Misinformation Effect: How to Alter Memories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hrBesZu0k3o" target="_blank" rel="noopener noreferrer">Misinformation Effect: How to Alter Memories</a></p><p class="youtube-embed-meta">Channel: Psy vs. Psy &middot; Views: 642 &middot; Uploaded: October 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hrBesZu0k3o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hrBesZu0k3o">Open on YouTube</a></p></div></div></div>
 
 ## Why old inferences survive factual recall
@@ -315,7 +312,6 @@ The warehouse-fire experiments that became a landmark in this field illustrate t
 
 In practical terms, people often retain:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * A sense that a suspect remains suspicious after exoneration.
@@ -326,7 +322,6 @@ In practical terms, people often retain:
 </div>
 
 The original claim may no longer be accepted as literally true, but its implications survive. The person remembers the correction while continuing to reason from traces of the earlier story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect He did it!</span><span class="citation-popover-snippet">She did it! No, she did not! Multiple causal...by UKH Ecker · 2015 · Cited by 164 — Two types of misinformation effects are discussed in...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-2-dark.svg" | relative_url }}" alt="Memory Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why blame and motive are especially difficult to update
@@ -343,14 +338,13 @@ The same pattern has appeared in public controversies. Claims connecting [vaccin
 
 Another reason corrections may fail is that they can create an uncomfortable state of uncertainty.
 
-When a correction removes an explanation, people are left with unanswered questions. Why did the event happen? Who was responsible? What should replace the rejected claim? Research has found that retractions can produce psychological discomfort, and that this discomfort is associated with continued reliance on misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span>
+When a correction removes an explanation, people are left with unanswered questions. Why did the event happen? Who was responsible? What should replace the rejected claim? Research has found that retractions can produce psychological discomfort, and that this discomfort is associated with continued reliance on misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span>
 
 From this perspective, the problem is not only memory. It is also cognitive stability. A flawed explanation can feel preferable to having no explanation at all.
 
-This helps explain why simple negations often underperform. A correction that says “this is false” may succeed factually while leaving the audience with a less satisfying account of events. The old claim remains available as a familiar way to restore coherence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCby MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span>
+This helps explain why simple negations often underperform. A correction that says “this is false” may succeed factually while leaving the audience with a less satisfying account of events. The old claim remains available as a familiar way to restore coherence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H_dHJVH5hPU" title="The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020 )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer">The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020 )</a></p><p class="youtube-embed-meta">Channel: Complex Human Data Hub &middot; Views: 214 &middot; Uploaded: September 2020 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H_dHJVH5hPU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pxHMGHUs3S4" title="Why Misinformation Sticks in Your Brain Even After It’s Debunked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pxHMGHUs3S4" target="_blank" rel="noopener noreferrer">Why Misinformation Sticks in Your Brain Even After It’s Debunked</a></p><p class="youtube-embed-meta">Channel: Rational Ruminations &middot; Views: 17 &middot; Uploaded: September 2025 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pxHMGHUs3S4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pxHMGHUs3S4">Open on YouTube</a></p></div></div></div>
 
 ## How to test whether a correction really worked
 
@@ -364,7 +358,6 @@ A correction may perform well on the first measure and poorly on the others. Tha
 
 The strongest corrections therefore aim to change reasoning, not just memory. They provide an alternative explanation, replace the missing causal link and give people a new account to use when they later think about the issue. Research consistently finds that this kind of replacement is more effective than a bare retraction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The continued influence of misinformation in memory</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-3-dark.svg" | relative_url }}" alt="Memory Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The memory gap at the centre of misinformation
 
@@ -372,9 +365,7 @@ The key lesson from the continued influence effect is that knowledge and use are
 
 That gap explains why myths sometimes survive despite successful fact-checking. The correction may be present in memory, but the older claim remains embedded in explanations, intuitions and judgements. Measuring success therefore requires more than asking whether people remember the correction. The crucial question is whether they have stopped using the misinformation when they reason about causes, responsibility and risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pxHMGHUs3S4" title="Why Misinformation Sticks in Your Brain Even After It’s Debunked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pxHMGHUs3S4" target="_blank" rel="noopener noreferrer">Why Misinformation Sticks in Your Brain Even After It’s Debunked</a></p><p class="youtube-embed-meta">Channel: Rational Ruminations &middot; Views: 17 &middot; Uploaded: September 2025 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pxHMGHUs3S4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pxHMGHUs3S4">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H_dHJVH5hPU" title="The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020 )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer">The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020 )</a></p><p class="youtube-embed-meta">Channel: Complex Human Data Hub &middot; Views: 214 &middot; Uploaded: September 2020 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H_dHJVH5hPU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -773,116 +764,116 @@ That gap explains why myths sometimes survive despite successful fact-checking. 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) The continued influence of misinformation in memory  
-   Link: [https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective](https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective)  
+   Link: <a href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect He did it!  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035](https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>She did it! No, she did not! Multiple causal...by UKH Ecker · 2015 · Cited by 164 — Two types of misinformation effects are discussed in...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: appstate.figshare.com  
    Title: interventions to limit the continued influence effect across  
-   Link: [https://appstate.figshare.com/articles/thesis/Interventions_to_Limit_the_Continued_Influence_Effect_Across_Contexts/30334174/1/files/58815109.pdf](https://appstate.figshare.com/articles/thesis/Interventions_to_Limit_the_Continued_Influence_Effect_Across_Contexts/30334174/1/files/58815109.pdf)  
+   Link: <a href="https://appstate.figshare.com/articles/thesis/Interventions_to_Limit_the_Continued_Influence_Effect_Across_Contexts/30334174/1/files/58815109.pdf" target="_blank" rel="noopener noreferrer nofollow">https://appstate.figshare.com/articles/thesis/Interventions_to_Limit_the_Continued_Influence_Effect_Across_Contexts/30334174/1/files/58815109.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>M. (2014) The continued influence effect: The persistence of misinformation in memory and reasoning following correction. In Rapp, D. N...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) He did it!  
-   Link: [https://www.researchgate.net/publication/281618768_He_did_it_She_did_it_No_she_did_not_Multiple_causal_explanations_and_the_continued_influence_of_misinformation](https://www.researchgate.net/publication/281618768_He_did_it_She_did_it_No_she_did_not_Multiple_causal_explanations_and_the_continued_influence_of_misinformation)  
+   Link: <a href="https://www.researchgate.net/publication/281618768_He_did_it_She_did_it_No_she_did_not_Multiple_causal_explanations_and_the_continued_influence_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281618768_He_did_it_She_did_it_No_she_did_not_Multiple_causal_explanations_and_the_continued_influence_of_misinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>She did it! No, she did not! Multiple causal...Two types of misinformation effects are discussed in the literature—the post-event misinf...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027724002865](https://www.sciencedirect.com/science/article/pii/S0010027724002865)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027724002865" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027724002865</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Relative source credibility affects the continued influence...by CV Hey · 2025 · Cited by 6 — The Continued Influence Effect (CIE) is th...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Continued Influence Effect  
-   Link: [https://www.youtube.com/watch?v=eZ_hcf01EFw](https://www.youtube.com/watch?v=eZ_hcf01EFw)  
+   Link: <a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZ_hcf01EFw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Misinformation Sticks in Your Brain Even After It&#x27;s Debunked...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: emc-lab.org  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</p></details>
    Published: May 13, 2011  
 
 9. <a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/1529100612451018](https://journals.sagepub.com/doi/abs/10.1177/1529100612451018)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612451018</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: emc-lab.org  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabExplicit warnings reduce but do not eliminate the continued...August 27, 2017 — by UKH ECKER · 2010 · Cited...</p></details>
    Published: August 27, 2017  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Misinformation](https://en.wikipedia.org/wiki/Misinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MisinformationMisinformation can include inaccurate, incomplete, misleading, or false information as well as selective or half-truths...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: un.org  
-   Link: [https://www.un.org/en/countering-disinformation](https://www.un.org/en/countering-disinformation)  
+   Link: <a href="https://www.un.org/en/countering-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/en/countering-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering DisinformationWhile misinformation refers to the accidental spread of inaccurate information, disinformation is not only inacc...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aec.gov.au  
-   Link: [https://www.aec.gov.au/About_AEC/files/eiat/eiat-disinformation-factsheet.pdf](https://www.aec.gov.au/About_AEC/files/eiat/eiat-disinformation-factsheet.pdf)  
+   Link: <a href="https://www.aec.gov.au/About_AEC/files/eiat/eiat-disinformation-factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aec.gov.au/About_AEC/files/eiat/eiat-disinformation-factsheet.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation and MisinformationDisinformation and Misinformation. What is disinformation and misinformation? Misinformation is false in...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/topics/journalism-facts/misinformation-disinformation](https://www.apa.org/topics/journalism-facts/misinformation-disinformation)  
+   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf](https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf)  
+   Link: <a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: unhcr.org  
-   Link: [https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf](https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf)  
+   Link: <a href="https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation. Misinformation is false or inaccurate information. Examples include rumors, insults and pranks. Disinformation is...Read...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
    Title: The Guardian US ‘drowning in misinformation’ under RFK Jr, autism advocates say  
-   Link: [https://www.theguardian.com/us-news/2026/may/03/trump-administration-rfk-autism-misinformation](https://www.theguardian.com/us-news/2026/may/03/trump-administration-rfk-autism-misinformation)  
+   Link: <a href="https://www.theguardian.com/us-news/2026/may/03/trump-administration-rfk-autism-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/may/03/trump-administration-rfk-autism-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US ‘drowning in misinformation’ under RFK Jr, autism advocates say...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: esafety.gov.au  
    Title: [fake news](&#123;&#123; 'fake-news/' | relative_url &#125;&#125;) and misinformation  
-   Link: [https://www.esafety.gov.au/key-topics/fake-news-and-misinformation](https://www.esafety.gov.au/key-topics/fake-news-and-misinformation)  
+   Link: <a href="https://www.esafety.gov.au/key-topics/fake-news-and-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.esafety.gov.au/key-topics/fake-news-and-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Jan 2026 — Information, images and videos posted online can be untrue or misleading, so check the facts before sharing them.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=H_dHJVH5hPU](https://www.youtube.com/watch?v=H_dHJVH5hPU)  
+   Link: <a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_dHJVH5hPU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The [Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) Handbook: How to counter misinformation...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Why Misinformation Sticks in Your Brain Even After It's Debunked  
-   Link: [https://www.youtube.com/watch?v=pxHMGHUs3S4](https://www.youtube.com/watch?v=pxHMGHUs3S4)  
+   Link: <a href="https://www.youtube.com/watch?v=pxHMGHUs3S4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pxHMGHUs3S4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020)...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby Z Adams · 2023 · Cited by 144 — The consensus view points to advancements in information technology (eg, the Internet, social media...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 144 — The consensus view points to advancements in information technology (eg, the Internet, social media...</p></details>

@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_prebunking_tactics_930652
 - Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_sift_claim_checking_3d2e80
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - media-literacy
 - practice-limits
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - media-literacy
 - practice-limits
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Media literacy can be taught, but one-off lessons are weaker than repeated practice across changing platforms and formats.
 hero_summary: Media literacy can be taught, but one-off lessons are weaker than repeated practice across changing platforms and formats.
 layout: default
 permalink: /practice-limits/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /media-literacy/
 nav_short_title: Practice limits
 title: Why one lesson is rarely enough
-title_full: Why one lesson is rarely enough | Media Literacy
+title_full: Why one lesson is rarely enough
 display_title_short: Practice limits
 display_title: Practice limits
 heading_title: Why one lesson is rarely enough
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Media Literacy Prevents Myths | Mythcraft
+parent_title: How Media Literacy Prevents Myths
 parent_permalink: /media-literacy/
 parent_nav_short_title: Media Literacy
 parent_heading_title: How Media Literacy Prevents Myths
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: A simple checklist for suspicious claims
 up_link:
   basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
@@ -265,7 +265,7 @@ next_link:
   permalink: /prebunking-869b67/
   short_title: Prebunking
   heading_title: Can warning people before myths work better?
-date: '2026-06-09 05:27:02 '
+date: '2026-06-11 22:32:47 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_media_literacy_pract_11bcb7-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_media_literacy_pract_11bcb7-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_me
 
 ## Introduction
 
-[Media literacy]({{ 'media-literacy/' | relative_url }}) is often presented as a way to prevent [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}) before they spread. The evidence suggests that it can help, but there is an important limitation: one lesson is rarely enough. People may learn useful skills from a workshop, classroom activity, or online game, yet those skills compete with habits, emotions, social pressures, and rapidly changing media environments. The challenge is not simply teaching people how to evaluate information once. It is helping them do it repeatedly, under real-world conditions, across different platforms and formats. Research increasingly shows that media literacy works best when it is treated as an ongoing practice rather than a one-time intervention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/384101489_Media_Literacy_Interventions_Improve_Resilience_to_Misinformation_A_Meta-Analytic_Investigation_of_Overall_Effect_and_Moderating_Factors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Media Literacy Interventions Improve Resilience to...September 18, 2024 — This study finds that media literacy interve...</span><span class="citation-popover-meta">Published: September 18, 2024</span></span></span>
-
+[Media literacy]({{ 'media-literacy/' | relative_url }}) is often presented as a way to prevent myths and misconceptions before they spread. The evidence suggests that it can help, but there is an important limitation: one lesson is rarely enough. People may learn useful skills from a workshop, classroom activity, or online game, yet those skills compete with habits, emotions, social pressures, and rapidly changing media environments. The challenge is not simply teaching people how to evaluate information once. It is helping them do it repeatedly, under real-world conditions, across different [platforms]({{ 'platforms/' | relative_url }}) and formats. Research increasingly shows that media literacy works best when it is treated as an ongoing practice rather than a one-time intervention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/384101489_Media_Literacy_Interventions_Improve_Resilience_to_Misinformation_A_Meta-Analytic_Investigation_of_Overall_Effect_and_Moderating_Factors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Media Literacy Interventions Improve Resilience to...September 18, 2024 — This study finds that media literacy interve...</span><span class="citation-popover-meta">Published: September 18, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_media_literacy_pract_11bcb7-Illustration-1-dark.svg" | relative_url }}" alt="Practice limits illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_media_literacy_pract_11bcb7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_media_literacy_pract_11bcb7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What short media literacy interventions can improve
@@ -284,12 +283,11 @@ Short interventions are not useless. In fact, many studies find measurable impro
 
 A large meta-analysis covering dozens of experimental studies found that media literacy interventions generally improve resilience to misinformation. Participants became better at distinguishing reliable from unreliable information and less likely to share false content. These findings help explain why schools, libraries, news organisations, and public agencies continue to invest in media literacy programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/384101489_Media_Literacy_Interventions_Improve_Resilience_to_Misinformation_A_Meta-Analytic_Investigation_of_Overall_Effect_and_Moderating_Factors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Media Literacy Interventions Improve Resilience to...September 18, 2024 — This study finds that media literacy interve...</span><span class="citation-popover-meta">Published: September 18, 2024</span></span></span>
 
-Researchers have also tested "prebunking" and inoculation approaches, which expose people to weakened examples of manipulation before they encounter them in the wild. Interactive tools and games such as Bad News have shown that people can learn to recognise techniques like fearmongering, impersonation, conspiracy framing, and emotional manipulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-019-0279-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureFake news game confers psychological resistance against...by J Roozenbeek · 2019 · Cited by 1043 — The rapid spread of “fake news”...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.repository.cam.ac.uk/items/a86cd1c0-a966-49cd-87c2-d0e64e700021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.cam.ac.uk">[Cambridge Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.cam.ac.uk</span><span class="citation-popover-snippet">The rapid spread of online misinformation poses an increasing risk to societies worldwide. To help counter this, we developed a &#x27;fake new...</span></span></span>
+Researchers have also tested "prebunking" and inoculation approaches, which expose people to weakened examples of manipulation before they encounter them in the wild. Interactive tools and games such as Bad News have shown that people can learn to recognise techniques like fearmongering, impersonation, conspiracy framing, and emotional manipulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-019-0279-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Fake news game confers psychological resistance against...by J Roozenbeek · 2019 · Cited by 1043 — The rapid spread of “fake news”...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.repository.cam.ac.uk/items/a86cd1c0-a966-49cd-87c2-d0e64e700021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.cam.ac.uk">[Cambridge Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.cam.ac.uk</span><span class="citation-popover-snippet">The rapid spread of online misinformation poses an increasing risk to societies worldwide. To help counter this, we developed a &#x27;fake new...</span></span></span>
 
 Classroom studies likewise suggest that students can improve their ability to identify manipulative social media content after structured activities and games. These improvements demonstrate that media literacy skills are teachable rather than fixed traits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15391523.2024.2338451" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Although the serious game Bad News has been used to inoculate citizens against misinformation, it has not been formally evaluated...Read...</span></span></span>
 
 The key question, however, is not whether learning occurs. It is how long the learning lasts and whether it transfers into everyday behaviour.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4jN0ASk959Y" title="Decoding Generative Artificial Intelligence with Media and Information Literacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4jN0ASk959Y" target="_blank" rel="noopener noreferrer">Decoding Generative Artificial Intelligence with Media and Information Literacy</a></p><p class="youtube-embed-meta">Channel: UNESCO &middot; Views: 7.2K &middot; Uploaded: May 2024 &middot; Length: 3 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4jN0ASk959Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4jN0ASk959Y">Open on YouTube</a></p></div></div></div>
 
@@ -299,52 +297,45 @@ The main weakness of one-off lessons is that recognising misinformation is not p
 
 In controlled settings, participants often have time to think carefully. Real-world information environments are different. People encounter content while distracted, tired, emotionally engaged, or under social pressure to react quickly. The skills taught during a single session may not automatically appear when those conditions change.
 
-Recent research on misinformation interventions highlights this challenge. Educational efforts can produce positive effects, but maintaining those effects over time is harder than achieving them initially. Studies examining longer-term outcomes often find that gains weaken unless skills are reinforced or revisited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10390387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCGame-based inoculation versus graphic-based</span><span class="citation-popover-snippet">PMCby B Hu · 2023 · Cited by 22 — Researchers have effectively increased the public&#x27;s resilience to misinformation using online toolkits...</span></span></span>
+Recent research on misinformation interventions highlights this challenge. Educational efforts can produce positive effects, but maintaining those effects over time is harder than achieving them initially. Studies examining longer-term outcomes often find that gains weaken unless skills are reinforced or revisited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10390387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCGame-based inoculation versus graphic-based</span><span class="citation-popover-snippet">by B Hu · 2023 · Cited by 22 — Researchers have effectively increased the public&#x27;s resilience to misinformation using online toolkits...</span></span></span>
 
 This pattern resembles other forms of learning. A person who attends one driving lesson does not become a confident driver. Someone who studies a language once does not become fluent. Media literacy involves repeated judgement calls in complex environments. Without practice, people tend to revert to faster mental shortcuts.
 
-There is also evidence that some interventions may not work as cleanly as early enthusiasm suggested. Certain studies of misinformation games found improvements in scepticism but questioned whether participants became genuinely better at distinguishing true from false information. In some cases, people became more inclined to distrust information generally. These findings do not show that media literacy fails; they show that skill development requires careful reinforcement and refinement rather than assuming a single exposure will create lasting resilience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36996156/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedGamified inoculation interventions do not improve...by A Modirrousta-Galian · 2023 · Cited by 179 — Across the studies, when compa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12240385/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInvestigating the long-term impact of misinformation</span><span class="citation-popover-snippet">PMCby T Nygren · 2025 · Cited by 11 — This study examines the long-term effects of educational interventions aimed at improving upper-sec...</span></span></span>
-
+There is also evidence that some interventions may not work as cleanly as early enthusiasm suggested. Certain studies of misinformation games found improvements in scepticism but questioned whether participants became genuinely better at distinguishing true from false information. In some cases, people became more inclined to distrust information generally. These findings do not show that media literacy fails; they show that skill development requires careful reinforcement and refinement rather than assuming a single exposure will create lasting resilience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36996156/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Gamified inoculation interventions do not improve...by A Modirrousta-Galian · 2023 · Cited by 179 — Across the studies, when compa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12240385/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInvestigating the long-term impact of misinformation</span><span class="citation-popover-snippet">by T Nygren · 2025 · Cited by 11 — This study examines the long-term effects of educational interventions aimed at improving upper-sec...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_media_literacy_pract_11bcb7-Illustration-2-dark.svg" | relative_url }}" alt="Practice limits illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_media_literacy_pract_11bcb7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_media_literacy_pract_11bcb7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why repetition matters more than information
 
 Repeated practice helps because it shifts media literacy from conscious knowledge to routine behaviour.
 
-When people repeatedly check sources, compare claims across outlets, investigate authors, and pause before sharing, these actions become easier to perform under pressure. The goal is not memorising a checklist. The goal is building automatic habits that can survive the speed and distraction of digital [platforms]({{ 'platforms/' | relative_url }}).
+When people repeatedly check sources, compare claims across outlets, investigate authors, and pause before sharing, these actions become easier to perform under pressure. The goal is not memorising a checklist. The goal is building automatic habits that can survive the speed and distraction of digital platforms.
 
-Research on inoculation approaches increasingly points toward the value of multiple exposures and continuing engagement. Newer work argues that resilience against misinformation is strengthened when people encounter repeated opportunities to practise recognising manipulation techniques rather than receiving a single "dose" of training. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.16497" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEffective Yet Ephemeral Propaganda Defense: There Needs to Be More than One-Shot Inoculation to Enhance Critical ThinkingMarch 11, 2025...</span><span class="citation-popover-meta">Published: March 11, 2025</span></span></span>
+Research on inoculation approaches increasingly points toward the value of multiple exposures and continuing engagement. Newer work argues that resilience against misinformation is strengthened when people encounter repeated opportunities to practise recognising manipulation techniques rather than receiving a single "dose" of training. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.16497" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Effective Yet Ephemeral Propaganda Defense: There Needs to Be More than One-Shot Inoculation to Enhance Critical ThinkingMarch 11, 2025...</span><span class="citation-popover-meta">Published: March 11, 2025</span></span></span>
 
 This matters because misinformation itself is not static. A person who learns to recognise a misleading Facebook post may later encounter manipulated videos, AI-generated images, deceptive influencer content, or coordinated [campaigns]({{ 'campaigns/' | relative_url }}) on entirely different platforms. [Repetition]({{ 'repetition/' | relative_url }}) helps people abstract the underlying techniques rather than memorising examples tied to one platform or moment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2673-5172/6/4/188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">In the context of the growing...</span></span></span>
 
 In this sense, media literacy is less like learning a fact and more like exercising a skill. Skills strengthen through use and weaken through neglect.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1YvG0GMtqYM" title="Media Literacy with a Side of Rock &amp; Roll | Shawn McIntosh | TEDxAUA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1YvG0GMtqYM" target="_blank" rel="noopener noreferrer">Media Literacy with a Side of Rock &amp; Roll | Shawn McIntosh | TEDxAUA</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 338 &middot; Uploaded: December 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1YvG0GMtqYM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1YvG0GMtqYM">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_media_literacy_pract_11bcb7-Illustration-3-dark.svg" | relative_url }}" alt="Practice limits illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_media_literacy_pract_11bcb7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_media_literacy_pract_11bcb7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How synthetic media raises the training bar
 
 The rise of synthetic media and generative artificial intelligence has made repeated practice even more important.
 
-Older media literacy lessons often focused on suspicious [headlines]({{ 'headlines/' | relative_url }}), unreliable websites, or obvious signs of manipulation. Today's information environment increasingly includes realistic AI-generated text, cloned voices, fabricated photographs, and convincing deepfake videos. These forms of content can appear credible even to informed audiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">deepfakes and crisis knowing</span><span class="citation-popover-snippet">UNESCODeepfakes and the crisis of knowing27 Oct 2025 — Survey data across eight countries shows prior exposure to deepfakes increases bel...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">UNESCOAI can make mistakes: Why media literacy matters more...24 Oct 2025 — The effects are already visible: fake content spreads rapidl...</span></span></span>
+Older media literacy lessons often focused on suspicious [headlines]({{ 'headlines/' | relative_url }}), unreliable websites, or obvious signs of manipulation. Today's information environment increasingly includes realistic AI-generated text, cloned voices, fabricated photographs, and convincing deepfake videos. These forms of content can appear credible even to informed audiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">deepfakes and crisis knowing</span><span class="citation-popover-snippet">Deepfakes and the crisis of knowing27 Oct 2025 — Survey data across eight countries shows prior exposure to deepfakes increases bel...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">AI can make mistakes: Why media literacy matters more...24 Oct 2025 — The effects are already visible: fake content spreads rapidl...</span></span></span>
 
 UNESCO and other international organisations have argued that media and information literacy must evolve alongside these technologies. The challenge is no longer simply spotting crude fabrications. Citizens must learn to verify claims in environments where synthetic content can imitate authentic evidence. UNESCO <span class="citation-chip-wrap"><a class="citation-chip" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000388547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO Documentation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-title">Documentation User empowerment through media and information literacy</span><span class="citation-popover-snippet">UNESCO 2022a). Research has shown, for instance, that AI tools and deepfakes, including those that use GAI, have generated disinformatio...</span></span></span>
 
-This creates a moving target for educators. Techniques that worked well five years ago may not address today's manipulation methods. Deepfakes, voice cloning, and AI-generated news-like content require new forms of verification behaviour and new examples in training programmes. Continuous practice allows people to update their skills as the information ecosystem changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">guidance generative ai education and research</span><span class="citation-popover-snippet">UNESCOGuidance for generative AI in education and research7 Sept 2023 — UNESCO&#x27;s first global guidance on GenAI in education aims to supp...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/384101489_Media_Literacy_Interventions_Improve_Resilience_to_Misinformation_A_Meta-Analytic_Investigation_of_Overall_Effect_and_Moderating_Factors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Media Literacy Interventions Improve Resilience to...September 18, 2024 — This study finds that media literacy interve...</span><span class="citation-popover-meta">Published: September 18, 2024</span></span></span>
+This creates a moving target for educators. Techniques that worked well five years ago may not address today's manipulation methods. Deepfakes, voice cloning, and AI-generated news-like content require new forms of verification behaviour and new examples in training programmes. Continuous practice allows people to update their skills as the information ecosystem changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">guidance generative ai education and research</span><span class="citation-popover-snippet">Guidance for generative AI in education and research7 Sept 2023 — UNESCO&#x27;s first global guidance on GenAI in education aims to supp...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/384101489_Media_Literacy_Interventions_Improve_Resilience_to_Misinformation_A_Meta-Analytic_Investigation_of_Overall_Effect_and_Moderating_Factors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Media Literacy Interventions Improve Resilience to...September 18, 2024 — This study finds that media literacy interve...</span><span class="citation-popover-meta">Published: September 18, 2024</span></span></span>
 
 The challenge is amplified by the sheer volume of content. Generative AI can produce misinformation at a scale and speed that were previously impossible. In such environments, resilience depends less on remembering individual warnings and more on maintaining durable habits of verification. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/en/topics/artificial-intelligence-and-education-and-skills.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Artificial intelligence and education and skillsWe need to encourage research on using generative AI and promote forward-looking guidance...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1YvG0GMtqYM" title="Media Literacy with a Side of Rock &amp; Roll | Shawn McIntosh | TEDxAUA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1YvG0GMtqYM" target="_blank" rel="noopener noreferrer">Media Literacy with a Side of Rock &amp; Roll | Shawn McIntosh | TEDxAUA</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 338 &middot; Uploaded: December 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1YvG0GMtqYM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1YvG0GMtqYM">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_media_literacy_pract_11bcb7-Illustration-3-dark.svg" | relative_url }}" alt="Practice limits illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_media_literacy_pract_11bcb7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab_media_literacy_pract_11bcb7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Media literacy as ongoing resilience rather than a one-time fix
 
 A common misconception is that media literacy programmes either work or do not work. The evidence points to a more nuanced conclusion. Short interventions can improve resistance to misinformation, but lasting protection depends on reinforcement, repetition, and adaptation to changing media conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/384101489_Media_Literacy_Interventions_Improve_Resilience_to_Misinformation_A_Meta-Analytic_Investigation_of_Overall_Effect_and_Moderating_Factors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Media Literacy Interventions Improve Resilience to...September 18, 2024 — This study finds that media literacy interve...</span><span class="citation-popover-meta">Published: September 18, 2024</span></span></span>
 
-The most realistic view is to treat media literacy as a resilience strategy. Like physical fitness, it is not something acquired permanently after a single session. It requires continued use, periodic refreshers, and exposure to new challenges. As myths, misinformation tactics, and synthetic media evolve, the strongest defence is not one memorable lesson but a sustained habit of critical engagement with information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cogitatiopress.com/mediaandcommunication/article/download/11458/4989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cogitatiopress.com">[Cogitatio Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cogitatiopress.com</span><span class="citation-popover-snippet">Cogitatio PressMedia Literacy as Resilience: A Conceptual Frameworkby O Pasitselska · 2026 · Cited by 1 — Media literacy interventions im...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO Institute for Lifelong Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">deepfakes and crisis knowing</span><span class="citation-popover-snippet">UNESCODeepfakes and the crisis of knowing27 Oct 2025 — Survey data across eight countries shows prior exposure to deepfakes increases bel...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dv3Bo5jJhWM" title="I’ve Graded 1000 Dissertations: Here’s Everything I Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dv3Bo5jJhWM" target="_blank" rel="noopener noreferrer">I’ve Graded 1000 Dissertations: Here’s Everything I Know</a></p><p class="youtube-embed-meta">Channel: Professor Mark Egan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dv3Bo5jJhWM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dv3Bo5jJhWM">Open on YouTube</a></p></div></div></div>
-
+The most realistic view is to treat media literacy as a resilience strategy. Like physical fitness, it is not something acquired permanently after a single session. It requires continued use, periodic refreshers, and exposure to new challenges. As myths, misinformation tactics, and synthetic media evolve, the strongest defence is not one memorable lesson but a sustained habit of critical engagement with information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cogitatiopress.com/mediaandcommunication/article/download/11458/4989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cogitatiopress.com">[Cogitatio Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cogitatiopress.com</span><span class="citation-popover-snippet">Cogitatio PressMedia Literacy as Resilience: A Conceptual Frameworkby O Pasitselska · 2026 · Cited by 1 — Media literacy interventions im...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO Institute for Lifelong Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">deepfakes and crisis knowing</span><span class="citation-popover-snippet">Deepfakes and the crisis of knowing27 Oct 2025 — Survey data across eight countries shows prior exposure to deepfakes increases bel...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -742,190 +733,190 @@ The most realistic view is to treat media literacy as a resilience strategy. Lik
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/384101489_Media_Literacy_Interventions_Improve_Resilience_to_Misinformation_A_Meta-Analytic_Investigation_of_Overall_Effect_and_Moderating_Factors](https://www.researchgate.net/publication/384101489_Media_Literacy_Interventions_Improve_Resilience_to_Misinformation_A_Meta-Analytic_Investigation_of_Overall_Effect_and_Moderating_Factors)  
+   Link: <a href="https://www.researchgate.net/publication/384101489_Media_Literacy_Interventions_Improve_Resilience_to_Misinformation_A_Meta-Analytic_Investigation_of_Overall_Effect_and_Moderating_Factors" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384101489_Media_Literacy_Interventions_Improve_Resilience_to_Misinformation_A_Meta-Analytic_Investigation_of_Overall_Effect_and_Moderating_Factors</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Media Literacy Interventions Improve Resilience to...September 18, 2024 — This study finds that media literacy interve...</p></details>
    Published: September 18, 2024  
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-019-0279-9](https://www.nature.com/articles/s41599-019-0279-9)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureFake news game confers psychological resistance against...by J Roozenbeek · 2019 · Cited by 1043 — The rapid spread of “[fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;)”...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41599-019-0279-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-019-0279-9</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news game confers psychological resistance against...by J Roozenbeek · 2019 · Cited by 1043 — The rapid spread of “[fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;)”...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: inoculation.science  
-   Link: [https://inoculation.science/inoculation-games/](https://inoculation.science/inoculation-games/)  
+   Link: <a href="https://inoculation.science/inoculation-games/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/inoculation-games/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interactive GamesA short, free-to-play online game in which players learn how political misinformation is produced...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCGame-based inoculation versus graphic-based  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10390387/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10390387/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby B Hu · 2023 · Cited by 22 — Researchers have effectively increased the public&#x27;s resilience to misinformation using online toolkits...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10390387/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10390387/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Hu · 2023 · Cited by 22 — Researchers have effectively increased the public&#x27;s resilience to misinformation using online toolkits...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCInvestigating the long-term impact of misinformation  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12240385/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12240385/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby T Nygren · 2025 · Cited by 11 — This study examines the long-term effects of educational interventions aimed at improving upper-sec...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12240385/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12240385/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by T Nygren · 2025 · Cited by 11 — This study examines the long-term effects of educational interventions aimed at improving upper-sec...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMixed News about the [Bad News Game](&#123;&#123; 'bad-news-game/' | relative_url &#125;&#125;)  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10573624/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10573624/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10573624/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10573624/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: Fake news, social media, gameified inoculation, Bad...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2503.16497](https://arxiv.org/abs/2503.16497)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEffective Yet Ephemeral Propaganda Defense: There Needs to Be More than One-Shot Inoculation to Enhance Critical ThinkingMarch 11, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2503.16497" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.16497</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Yet Ephemeral Propaganda Defense: There Needs to Be More than One-Shot Inoculation to Enhance Critical ThinkingMarch 11, 2025...</p></details>
    Published: March 11, 2025  
 
 8. <a id="endnote-8"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2673-5172/6/4/188](https://www.mdpi.com/2673-5172/6/4/188)  
+   Link: <a href="https://www.mdpi.com/2673-5172/6/4/188" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-5172/6/4/188</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the context of the growing...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: unesco.org  
    Title: deepfakes and crisis knowing  
-   Link: [https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing](https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCODeepfakes and the crisis of knowing27 Oct 2025 — Survey data across eight countries shows prior exposure to deepfakes increases bel...</p></details>
+   Link: <a href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfakes and the crisis of knowing27 Oct 2025 — Survey data across eight countries shows prior exposure to deepfakes increases bel...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever](https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCOAI can make mistakes: Why media literacy matters more...24 Oct 2025 — The effects are already visible: fake content spreads rapidl...</p></details>
+   Link: <a href="https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/ai-can-make-mistakes-why-media-literacy-matters-more-ever</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI can make mistakes: Why media literacy matters more...24 Oct 2025 — The effects are already visible: fake content spreads rapidl...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: unesco.org  
    Title: guidance generative ai education and research  
-   Link: [https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCOGuidance for generative AI in education and research7 Sept 2023 — UNESCO&#x27;s first global guidance on GenAI in education aims to supp...</p></details>
+   Link: <a href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance for generative AI in education and research7 Sept 2023 — UNESCO&#x27;s first global guidance on GenAI in education aims to supp...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: unesdoc.unesco.org  
    Title: Documentation User empowerment through media and information literacy  
-   Link: [https://unesdoc.unesco.org/ark%3A/48223/pf0000388547](https://unesdoc.unesco.org/ark%3A/48223/pf0000388547)  
+   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000388547" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000388547</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(UNESCO 2022a). Research has shown, for instance, that AI tools and deepfakes, including those that use GAI, have generated disinformatio...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/399500225_New_challenges_for_media_literacy_in_the_age_of_artificial_intelligence_deepfake_synthetic_media_and_credibility](https://www.researchgate.net/publication/399500225_New_challenges_for_media_literacy_in_the_age_of_artificial_intelligence_deepfake_synthetic_media_and_credibility)  
+   Link: <a href="https://www.researchgate.net/publication/399500225_New_challenges_for_media_literacy_in_the_age_of_artificial_intelligence_deepfake_synthetic_media_and_credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399500225_New_challenges_for_media_literacy_in_the_age_of_artificial_intelligence_deepfake_synthetic_media_and_credibility</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The question is pressing because the deepfake phenomenon in its more poisonous...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/artificial-intelligence-and-education-and-skills.html](https://www.oecd.org/en/topics/artificial-intelligence-and-education-and-skills.html)  
+   Link: <a href="https://www.oecd.org/en/topics/artificial-intelligence-and-education-and-skills.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/artificial-intelligence-and-education-and-skills.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence and education and skillsWe need to encourage research on using generative AI and promote forward-looking guidance...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: uil.unesco.org  
    Title: webinar misinformation empowerment media literacy youth and adults age ai  
-   Link: [https://www.uil.unesco.org/en/articles/webinar-misinformation-empowerment-media-literacy-youth-and-adults-age-ai](https://www.uil.unesco.org/en/articles/webinar-misinformation-empowerment-media-literacy-youth-and-adults-age-ai)  
+   Link: <a href="https://www.uil.unesco.org/en/articles/webinar-misinformation-empowerment-media-literacy-youth-and-adults-age-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.uil.unesco.org/en/articles/webinar-misinformation-empowerment-media-literacy-youth-and-adults-age-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Institute for Lifelong LearningMedia literacy for youth and adults in the age of AI19 May 2026 — On 19 May 2026, the UNESCO Instit...</p></details>
    Published: May 2026  
 
 16. <a id="endnote-16"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2075-4698/15/6/155](https://www.mdpi.com/2075-4698/15/6/155)  
+   Link: <a href="https://www.mdpi.com/2075-4698/15/6/155" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2075-4698/15/6/155</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fighting Disinformation: How to Measure the Impact of Preby P Verhalle · 2025 · Cited by 2 — Roozenbeek and Van der Linden (2019) [12] us...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/fighting-disinformation-unesco-trains-judicial-professionals-fact-checking-and-countering](https://www.unesco.org/en/articles/fighting-disinformation-unesco-trains-judicial-professionals-fact-checking-and-countering)  
+   Link: <a href="https://www.unesco.org/en/articles/fighting-disinformation-unesco-trains-judicial-professionals-fact-checking-and-countering" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/fighting-disinformation-unesco-trains-judicial-professionals-fact-checking-and-countering</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fighting Disinformation: UNESCO Trains Judicial...Jan 26, 2026 — The workshop focused on addressing Disinformation through fact-checking...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cogitatiopress.com  
-   Link: [https://www.cogitatiopress.com/mediaandcommunication/article/download/11458/4989](https://www.cogitatiopress.com/mediaandcommunication/article/download/11458/4989)  
+   Link: <a href="https://www.cogitatiopress.com/mediaandcommunication/article/download/11458/4989" target="_blank" rel="noopener noreferrer nofollow">https://www.cogitatiopress.com/mediaandcommunication/article/download/11458/4989</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cogitatio PressMedia Literacy as Resilience: A Conceptual Frameworkby O Pasitselska · 2026 · Cited by 1 — Media literacy interventions im...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: repository.cam.ac.uk  
-   Link: [https://www.repository.cam.ac.uk/items/a86cd1c0-a966-49cd-87c2-d0e64e700021](https://www.repository.cam.ac.uk/items/a86cd1c0-a966-49cd-87c2-d0e64e700021)  
+   Link: <a href="https://www.repository.cam.ac.uk/items/a86cd1c0-a966-49cd-87c2-d0e64e700021" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/items/a86cd1c0-a966-49cd-87c2-d0e64e700021</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The rapid spread of online misinformation poses an increasing risk to societies worldwide. To help counter this, we developed a &#x27;fake new...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/15391523.2024.2338451](https://www.tandfonline.com/doi/full/10.1080/15391523.2024.2338451)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/15391523.2024.2338451" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15391523.2024.2338451</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Although the serious game Bad News has been used to inoculate citizens against misinformation, it has not been formally evaluated...Read...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36996156/](https://pubmed.ncbi.nlm.nih.gov/36996156/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedGamified inoculation interventions do not improve...by A Modirrousta-Galian · 2023 · Cited by 179 — Across the studies, when compa...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36996156/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36996156/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gamified inoculation interventions do not improve...by A Modirrousta-Galian · 2023 · Cited by 179 — Across the studies, when compa...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2267700](https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2267700)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2267700" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2267700</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Striking the balance between fake and realby M Hameleers · 2023 · Cited by 28 — We conclude that the...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/15405702.2026.2619473](https://www.tandfonline.com/doi/full/10.1080/15405702.2026.2619473)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/15405702.2026.2619473" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15405702.2026.2619473</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineInoculation theory as a design approach to game-based...by N Henderson · 2026 — A growing number of misinformatio...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: unesco.org.uk  
-   Link: [https://unesco.org.uk/resources/guidance-for-generative-ai-in-education-and-research](https://unesco.org.uk/resources/guidance-for-generative-ai-in-education-and-research)  
+   Link: <a href="https://unesco.org.uk/resources/guidance-for-generative-ai-in-education-and-research" target="_blank" rel="noopener noreferrer nofollow">https://unesco.org.uk/resources/guidance-for-generative-ai-in-education-and-research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO in the UKGuidance for generative AI in education and researchThe publication offers concrete recommendations for policy-makers and...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=4jN0ASk959Y](https://www.youtube.com/watch?v=4jN0ASk959Y)  
+   Link: <a href="https://www.youtube.com/watch?v=4jN0ASk959Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4jN0ASk959Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO is empowering citizens with Media and Information Literacy skills to better comprehend and engage with Generative Artificial Intel...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt](https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt)  
+   Link: <a href="https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#prebunking #inoculation #badnews | Sander van der LindenIt reveals the techniques used to spread misinformation. He&#x27;s been testing it na...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: diplomacy.edu  
-   Link: [https://www.diplomacy.edu/wp-content/uploads/DD-report.pdf](https://www.diplomacy.edu/wp-content/uploads/DD-report.pdf)  
+   Link: <a href="https://www.diplomacy.edu/wp-content/uploads/DD-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diplomacy.edu/wp-content/uploads/DD-report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding Disinformation: Lessons from case studiesThe challenges relate not only to misinformation fuelled by factual errors or fabricate...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco](https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco)  
+   Link: <a href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>According to a survey by Unesco, two-thirds of content creators do not verify the accuracy of their information before sharing, leaving b...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby A Romanishyn · 2025 · Cited by 23 — Keywords: AI, disinformation, deepfake, policy recommendation, AI... deepfakes, have become on...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12351547/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Romanishyn · 2025 · Cited by 23 — Keywords: AI, disinformation, deepfake, policy recommendation, AI... deepfakes, have become on...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: eurozine.com  
-   Link: [https://www.eurozine.com/ai-media-literacy-and-the-next-generation/](https://www.eurozine.com/ai-media-literacy-and-the-next-generation/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EurozineAI, Media Literacy, and the Next Generation12 Jun 2025 — Fact-checkers struggled to counter the disinformation effectively...</p></details>
+   Link: <a href="https://www.eurozine.com/ai-media-literacy-and-the-next-generation/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurozine.com/ai-media-literacy-and-the-next-generation/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI, Media Literacy, and the Next Generation12 Jun 2025 — Fact-checkers struggled to counter the disinformation effectively...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: edtechnz.org.nz  
    Title: if we dont teach our young people ai literacy who will  
-   Link: [https://edtechnz.org.nz/2025/06/24/if-we-dont-teach-our-young-people-ai-literacy-who-will/](https://edtechnz.org.nz/2025/06/24/if-we-dont-teach-our-young-people-ai-literacy-who-will/)  
+   Link: <a href="https://edtechnz.org.nz/2025/06/24/if-we-dont-teach-our-young-people-ai-literacy-who-will/" target="_blank" rel="noopener noreferrer nofollow">https://edtechnz.org.nz/2025/06/24/if-we-dont-teach-our-young-people-ai-literacy-who-will/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>deepfakes, data privacy and anonymisation, and the difference between misinformation and disinformation. A central focus of the programme...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: osf.io  
-   Link: [https://osf.io/download/n6dkx/](https://osf.io/download/n6dkx/)  
+   Link: <a href="https://osf.io/download/n6dkx/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/n6dkx/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Diverse Communities: Social and Motivational Considerations in...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: fondationdescartes.org  
-   Link: [https://www.fondationdescartes.org/en/2020/01/the-fake-news-game-actively-inoculating-against-the-risk-of-misinformation/](https://www.fondationdescartes.org/en/2020/01/the-fake-news-game-actively-inoculating-against-the-risk-of-misinformation/)  
+   Link: <a href="https://www.fondationdescartes.org/en/2020/01/the-fake-news-game-actively-inoculating-against-the-risk-of-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.fondationdescartes.org/en/2020/01/the-fake-news-game-actively-inoculating-against-the-risk-of-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fake News Game: Actively Inoculating Against...The rapid spread of online misinformation poses an increasing risk to societies world...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: school-education.ec.europa.eu  
    Title: guidance generative ai education and research  
-   Link: [https://school-education.ec.europa.eu/en/discover/publications/guidance-generative-ai-education-and-research](https://school-education.ec.europa.eu/en/discover/publications/guidance-generative-ai-education-and-research)  
+   Link: <a href="https://school-education.ec.europa.eu/en/discover/publications/guidance-generative-ai-education-and-research" target="_blank" rel="noopener noreferrer nofollow">https://school-education.ec.europa.eu/en/discover/publications/guidance-generative-ai-education-and-research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for generative AI in education and research5 Apr 2024 — UNESCO&#x27;s first global guidance on generative artificial intelligence (GenAI) in e...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: linkedin.com  
    Title: Generative AI and Media Literacy in an Age of Misinformation  
-   Link: [https://www.linkedin.com/pulse/generative-ai-media-literacy-age-misinformation-michael-maring-t4yue](https://www.linkedin.com/pulse/generative-ai-media-literacy-age-misinformation-michael-maring-t4yue)  
+   Link: <a href="https://www.linkedin.com/pulse/generative-ai-media-literacy-age-misinformation-michael-maring-t4yue" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/generative-ai-media-literacy-age-misinformation-michael-maring-t4yue</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract Generative artificial intelligence presents new challenges and opportunities for media literacy education...</p></details>

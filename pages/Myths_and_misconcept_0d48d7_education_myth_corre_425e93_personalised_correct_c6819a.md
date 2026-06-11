@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_education_myth_corre_425e93_refutation_texts_c321aa
 - Myths_and_misconcept_0d48d7_education_myth_corre_425e93_teacher_training_des_9497ab
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - teacher-corrections
 - personalised-fixes
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - teacher-corrections
 - personalised-fixes
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Personalised myth correction may support conceptual change, but repeated exposure to weakly held myths can increase familiarity.
 hero_summary: Personalised myth correction may support conceptual change, but repeated exposure to weakly held myths can increase familiarity.
 layout: default
 permalink: /personalised-fixes/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /teacher-corrections/
 nav_short_title: Personalised fixes
 title: Should Every Teacher Hear Every Myth?
-title_full: Should Every Teacher Hear Every Myth? | Teacher Corrections
+title_full: Should Every Teacher Hear Every Myth?
 display_title_short: Personalised fixes
 display_title: Personalised fixes
 heading_title: Should Every Teacher Hear Every Myth?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can Teacher Training Reduce Education Myths? | Mythcraft
+parent_title: Can Teacher Training Reduce Education Myths?
 parent_permalink: /teacher-corrections/
 parent_nav_short_title: Teacher Corrections
 parent_heading_title: Can Teacher Training Reduce Education Myths?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: How Teacher Training Can Keep Myths Gone
 up_link:
   basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
@@ -265,7 +265,7 @@ next_link:
   permalink: /practice-gap/
   short_title: Practice gap
   heading_title: When Debunking Does Not Change Teaching
-date: '2026-06-09 05:10:16 '
+date: '2026-06-11 22:24:17 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-1.webp
@@ -274,20 +274,18 @@ image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_pe
 
 ## Introduction
 
-Should every teacher be exposed to every educational myth in the hope that future misconceptions will be prevented? The evidence suggests a more cautious answer. Personalised correction can be one of the most effective ways to reduce belief in educational myths because it targets misconceptions that teachers actually hold. However, correction is not risk-free. Repeated exposure to myths that were previously unfamiliar can increase their familiarity, and familiar claims often feel more credible than unfamiliar ones. The challenge for professional learning is therefore not simply to debunk myths, but to identify which myths are present, who believes them, and how [corrections]({{ 'corrections/' | relative_url }}) can be delivered without unintentionally spreading the misconception further. Research on misinformation correction, [conceptual change]({{ 'concept-change/' | relative_url }}) and educational myths increasingly points towards diagnosis-first approaches rather than blanket myth-busting sessions. Springer Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Page 6. CORRECTING INACCURATE...Read more...</span></span></span>
-
+Should every teacher be exposed to every educational myth in the hope that future misconceptions will be prevented? The evidence suggests a more cautious answer. Personalised [correction]({{ 'correction/' | relative_url }}) can be one of the most effective ways to reduce belief in educational myths because it targets misconceptions that teachers actually hold. However, correction is not risk-free. Repeated exposure to myths that were previously unfamiliar can increase their familiarity, and familiar claims often feel more credible than unfamiliar ones. The challenge for professional learning is therefore not simply to debunk myths, but to identify which myths are present, who believes them, and how [corrections]({{ 'corrections/' | relative_url }}) can be delivered without unintentionally spreading the misconception further. Research on misinformation correction, conceptual change and educational myths increasingly points towards diagnosis-first approaches rather than blanket myth-busting sessions. Springer Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Page 6. CORRECTING INACCURATE...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-1-dark.svg" | relative_url }}" alt="Personalised fixes illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Diagnosis Should Come Before Correction
 
-A common assumption in teacher training is that more myth [correction]({{ 'correction/' | relative_url }}) is always better. Yet educational myths are not distributed evenly. Some beliefs are widespread, while others may be unknown to many teachers. Presenting a long catalogue of misconceptions can therefore create an odd situation: participants leave the session having encountered myths they had never previously considered.
+A common assumption in teacher training is that more myth correction is always better. Yet educational myths are not distributed evenly. Some beliefs are widespread, while others may be unknown to many teachers. Presenting a long catalogue of misconceptions can therefore create an odd situation: participants leave the session having encountered myths they had never previously considered.
 
 This concern reflects a broader finding from misinformation research. People often use familiarity as a shortcut when judging whether a claim is true. Simply hearing a statement repeatedly can make it seem more plausible later, a phenomenon sometimes called the illusory truth effect. Corrections usually overcome this problem, but unnecessary [repetition]({{ 'repetition/' | relative_url }}) of false claims can still increase familiarity with them. Springer Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Page 6. CORRECTING INACCURATE...Read more...</span></span></span>
 
 For educational leaders, the practical implication is straightforward. Before designing a correction programme, it helps to establish which misconceptions are actually present in a school, department or training cohort. This can be done through anonymous surveys, discussions of classroom decision-making, or audits of existing teaching materials. A correction aimed at a real misconception has a clear target. A correction aimed at a myth nobody believes may simply introduce a new idea into circulation.
 
 The logic mirrors effective medical treatment: diagnosis comes before intervention. Training becomes more efficient when it addresses misconceptions that genuinely influence planning, assessment or classroom practice rather than attempting to debunk every myth that has ever appeared in education.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w6lwqp8TGCI" title="&quot;Well, Actually...&quot;: Unraveling the Psychology of Online Corrections" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w6lwqp8TGCI" target="_blank" rel="noopener noreferrer">&quot;Well, Actually...&quot;: Unraveling the Psychology of Online Corrections</a></p><p class="youtube-embed-meta">Channel: PsyberSpace® Podcast &middot; Views: 169 &middot; Uploaded: August 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w6lwqp8TGCI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w6lwqp8TGCI">Open on YouTube</a></p></div></div></div>
 
@@ -297,12 +295,11 @@ Targeted correction has several advantages over generic myth-busting.
 
 First, it increases relevance. Teachers are more likely to engage with information that addresses decisions they currently make. A discussion of learning styles, for example, has greater impact when participants are actively using learning-style questionnaires or grouping pupils according to presumed sensory preferences than when the concept is merely mentioned as a historical curiosity.
 
-Second, personalised correction can support conceptual change rather than simple rejection. Research on [refutation texts]({{ 'refutation-texts/' | relative_url }}) shows that corrections work best when they explicitly identify the misconception, explain why it is incorrect and provide a stronger alternative explanation. The goal is not merely to remove a false belief but to replace it with a more useful model of learning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12810723/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCDebunking educational myths: towards evidence-based...by D Cecilio-Fernandes · 2025 · Cited by 1 — We hope this editorial will increa...</span></span></span>
+Second, personalised correction can support conceptual change rather than simple rejection. Research on [refutation texts]({{ 'refutation-texts/' | relative_url }}) shows that corrections work best when they explicitly identify the misconception, explain why it is incorrect and provide a stronger alternative explanation. The goal is not merely to remove a false belief but to replace it with a more useful model of learning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12810723/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking educational myths: towards evidence-based...by D Cecilio-Fernandes · 2025 · Cited by 1 — We hope this editorial will increa...</span></span></span>
 
-Third, targeted interventions may reduce resistance. The often-cited “[backfire]({{ 'backfire/' | relative_url }}) effect”, in which correction supposedly strengthens belief in misinformation, appears to be much rarer than originally feared. Large reviews and replication studies have generally found that evidence-based corrections reduce misconceptions more often than they increase them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCby B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when people...</span></span></span>
+Third, targeted interventions may reduce resistance. The often-cited “[backfire]({{ 'backfire/' | relative_url }}) effect”, in which correction supposedly strengthens belief in misinformation, appears to be much rarer than originally feared. Large reviews and replication studies have generally found that evidence-based corrections reduce misconceptions more often than they increase them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when people...</span></span></span>
 
-In education, this means trainers do not need to avoid correction altogether. Instead, they should focus on delivering corrections that are directly relevant, evidence-based and accompanied by practical alternatives. Recent work on educational myths among teachers also suggests that richer explanatory interventions can outperform simple refutation alone, particularly when they connect evidence to realistic educational situations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureEducational myths among teachers: prevalence and...by Y Tunga · 2025 · Cited by 1 — Results indicated that educational myths are c...</span></span></span>
-
+In education, this means trainers do not need to avoid correction altogether. Instead, they should focus on delivering corrections that are directly relevant, evidence-based and accompanied by practical alternatives. Recent work on educational myths among teachers also suggests that richer explanatory interventions can outperform simple refutation alone, particularly when they connect evidence to realistic educational situations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Educational myths among teachers: prevalence and...by Y Tunga · 2025 · Cited by 1 — Results indicated that educational myths are c...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-2-dark.svg" | relative_url }}" alt="Personalised fixes illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Familiarity Risk in Myth Training
@@ -311,15 +308,13 @@ The strongest argument for personalisation is not that corrections are dangerous
 
 Researchers have long debated the so-called familiarity backfire effect. The original concern was that repeating a myth in order to debunk it could make the myth more memorable than the correction. Over time, people might remember the claim while forgetting that it had been disproved. Skeptical Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Page 6. CORRECTING INACCURATE...Read more...</span></span></span>
 
-More recent evidence suggests that true familiarity backfire effects are uncommon and difficult to reproduce experimentally. Many studies find that corrections remain beneficial even when they repeat the myth, provided the correction is clear and the false claim is explicitly labelled as incorrect. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOSA failure to replicate familiarity or fear-driven backfire effectsby UKH Ecker · 2023 · Cited by 48 — The authors found that repeatin...</span></span></span>
+More recent evidence suggests that true familiarity backfire effects are uncommon and difficult to reproduce experimentally. Many studies find that corrections remain beneficial even when they repeat the myth, provided the correction is clear and the false claim is explicitly labelled as incorrect. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">A failure to replicate familiarity or fear-driven backfire effectsby UKH Ecker · 2023 · Cited by 48 — The authors found that repeatin...</span></span></span>
 
 Even so, the familiarity problem has not disappeared entirely. Researchers distinguish between a correction that genuinely increases belief and one that is simply less effective than it could have been. A training session packed with dozens of myths may not cause teachers to adopt those myths, but it may dilute attention and increase recognition of claims that participants had never encountered before. <span class="citation-chip-wrap"><a class="citation-chip" href="https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">the psychology of misinformation why its so hard to correct</span><span class="citation-popover-snippet">First DraftThe psychology of misinformation: Why it&#x27;s so hard to correct14 Jul 2020 — The familiarity backfire effect describes the fact...</span></span></span>
 
 This is particularly relevant in education because many myths have intuitive appeal. Claims about “left-brained learners”, “learning styles” or fixed ability often seem to fit everyday observations. If a correction is brief, vague or poorly remembered, familiarity with the myth may remain while the corrective explanation fades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/early-career-hub/engaging-with-research-and-debunking-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-snippet">My CollegeEngaging with research and debunking mythsby C Bokhove — This article aims to give an overview of some aspects that come into p...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RBDCw_izDzE" title="Why Do People Believe Misinformation Despite Corrections? | Media Literacy For Everyone News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RBDCw_izDzE" target="_blank" rel="noopener noreferrer">Why Do People Believe Misinformation Despite Corrections? | Media Literacy For Everyone News</a></p><p class="youtube-embed-meta">Channel: Media Literacy For Everyone &middot; Views: 8 &middot; Uploaded: August 2025 &middot; Length: 2 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RBDCw_izDzE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RBDCw_izDzE">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DTniWEPEFEU" title="Debunking 7 Persistent Learning Myths: 2024 Edition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DTniWEPEFEU" target="_blank" rel="noopener noreferrer">Debunking 7 Persistent Learning Myths: 2024 Edition</a></p><p class="youtube-embed-meta">Channel: Open edX &middot; Views: 144 &middot; Uploaded: September 2024 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DTniWEPEFEU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DTniWEPEFEU">Open on YouTube</a></p></div></div></div>
 
@@ -332,10 +327,9 @@ The evidence points towards several design principles for educational correction
 * **Provide an alternative explanation.** Replacing a misconception is more effective than simply rejecting it.
 * **Link correction to classroom decisions.** Teachers need to know what practice should change and what should replace it.
 * **Avoid unnecessary repetition.** Mention the myth when needed for clarity, but keep attention focused on the accurate explanation.
-* **Revisit corrections over time.** Reinforcement helps prevent the correction from fading while the familiar myth remains memorable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/print.php?n=4890" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">The Debunking Handbook 2020: The elusive backfire effects22 Oct 2020 — Backfire Effect: A backfire effect is where a correction inadverte...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</span></span></span>
+* **Revisit corrections over time.** Reinforcement helps prevent the correction from fading while the familiar myth remains memorable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/print.php?n=4890" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">The Debunking Handbook 2020: The elusive backfire effects22 Oct 2020 — Backfire Effect: A backfire effect is where a correction inadverte...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</span></span></span>
 
-The central lesson is that personalised correction is not merely a matter of efficiency. It is also a safeguard against spreading misconceptions unnecessarily. Educational corrections work best when they are aimed at real beliefs held by real teachers, delivered with clear refutations and stronger alternatives, and embedded within the practical realities of teaching rather than presented as a catalogue of myths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureEducational myths among teachers: prevalence and...by Y Tunga · 2025 · Cited by 1 — Results indicated that educational myths are c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrecting vaccine misinformation: A failure to replicate</span><span class="citation-popover-snippet">PMCby UKH Ecker · 2023 · Cited by 48 — Some have even suggested that this familiarity boost may cause a correction to inadvertently incre...</span></span></span>
-
+The central lesson is that personalised correction is not merely a matter of efficiency. It is also a safeguard against spreading misconceptions unnecessarily. Educational corrections work best when they are aimed at real beliefs held by real teachers, delivered with clear refutations and stronger alternatives, and embedded within the practical realities of teaching rather than presented as a catalogue of myths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Educational myths among teachers: prevalence and...by Y Tunga · 2025 · Cited by 1 — Results indicated that educational myths are c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrecting vaccine misinformation: A failure to replicate</span><span class="citation-popover-snippet">by UKH Ecker · 2023 · Cited by 48 — Some have even suggested that this familiarity boost may cause a correction to inadvertently incre...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-3-dark.svg" | relative_url }}" alt="Personalised fixes illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -719,147 +713,147 @@ The central lesson is that personalised correction is not merely a matter of eff
 
 1. <a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-020-00241-6](https://link.springer.com/article/10.1186/s41235-020-00241-6)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00241-6</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer NatureCan corrections spread misinformation to new audiences...by UKH Ecker · 2020 · Cited by 197 — Misinformation often contin...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12810723/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12810723/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCDebunking educational myths: towards evidence-based...by D Cecilio-Fernandes · 2025 · Cited by 1 — We hope this editorial will increa...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12810723/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12810723/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking educational myths: towards evidence-based...by D Cecilio-Fernandes · 2025 · Cited by 1 — We hope this editorial will increa...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrection format has a limited role when [debunking](&#123;&#123; 'debunking/' | relative_url &#125;&#125;)  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2211368120300516](https://www.sciencedirect.com/science/article/pii/S2211368120300516)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211368120300516</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when people...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-025-05470-y](https://www.nature.com/articles/s41599-025-05470-y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureEducational myths among teachers: prevalence and...by Y Tunga · 2025 · Cited by 1 — Results indicated that educational myths are c...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05470-y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational myths among teachers: prevalence and...by Y Tunga · 2025 · Cited by 1 — Results indicated that educational myths are c...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrecting vaccine misinformation: A failure to replicate  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby UKH Ecker · 2023 · Cited by 48 — Some have even suggested that this familiarity boost may cause a correction to inadvertently incre...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by UKH Ecker · 2023 · Cited by 48 — Some have even suggested that this familiarity boost may cause a correction to inadvertently incre...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOSA failure to replicate familiarity or fear-driven backfire effectsby UKH Ecker · 2023 · Cited by 48 — The authors found that repeatin...</p></details>
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A failure to replicate familiarity or fear-driven backfire effectsby UKH Ecker · 2023 · Cited by 48 — The authors found that repeatin...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Familiarity backfire effects?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167811626000261](https://www.sciencedirect.com/science/article/pii/S0167811626000261)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disentangling the competing...by IN Nibat · 2026 — The backfire effect occurs when a correction inadvertently increases belief in the ve...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-023-00492-z](https://link.springer.com/article/10.1186/s41235-023-00492-z)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-023-00492-z</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer NatureExamining the replicability of backfire effects after standalone...by T Prike · 2023 · Cited by 25 — Such an outcome coul...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aho.afro.who.int  
-   Link: [https://aho.afro.who.int/features-detail/af?id=30](https://aho.afro.who.int/features-detail/af?id=30)  
+   Link: <a href="https://aho.afro.who.int/features-detail/af?id=30" target="_blank" rel="noopener noreferrer nofollow">https://aho.afro.who.int/features-detail/af?id=30</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RO iAHO | Features details... myth&#x27;s familiarity (Pluviano et al., 2019). In this context, where vaccine misinformation hinders acceptanc...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: emc-lab.org  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 6. CORRECTING INACCURATE...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: skepticalscience.com  
-   Link: [https://skepticalscience.com/print.php?n=4890](https://skepticalscience.com/print.php?n=4890)  
+   Link: <a href="https://skepticalscience.com/print.php?n=4890" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=4890</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: The elusive backfire effects22 Oct 2020 — Backfire Effect: A backfire effect is where a correction inadverte...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: skepticalscience.com  
-   Link: [https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf](https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceMisinformation and its Correction: [Continued Influence](&amp;#123;&amp;#123; &#x27;old-stories/&#x27; | relative_url &amp;#125;&amp;#125;) and...May 5, 2012 — by S Lewandowsky · Cited by 4713 — increases...</p></details>
+   Link: <a href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceMisinformation and its Correction: Continued Influence and...May 5, 2012 — by S Lewandowsky · Cited by 4713 — increases...</p></details>
    Published: May 5, 2012  
 
 15. <a id="endnote-15"></a>
    Source: skepticalscience.com  
    Title: Debunking Handbook Part 2 Familiarity Backfire Effect  
-   Link: [https://skepticalscience.com/Debunking-Handbook-Part-2-Familiarity-Backfire-Effect.html](https://skepticalscience.com/Debunking-Handbook-Part-2-Familiarity-Backfire-Effect.html)  
+   Link: <a href="https://skepticalscience.com/Debunking-Handbook-Part-2-Familiarity-Backfire-Effect.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-2-Familiarity-Backfire-Effect.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The driving force is the fact that familiarity increases the chances of accepting information as true.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: firstdraftnews.org  
    Title: the psychology of misinformation why its so hard to correct  
-   Link: [https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/](https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/)  
+   Link: <a href="https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First DraftThe psychology of misinformation: Why it&#x27;s so hard to correct14 Jul 2020 — The familiarity backfire effect describes the fact...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/early-career-hub/engaging-with-research-and-debunking-myths/](https://my.chartered.college/early-career-hub/engaging-with-research-and-debunking-myths/)  
+   Link: <a href="https://my.chartered.college/early-career-hub/engaging-with-research-and-debunking-myths/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/early-career-hub/engaging-with-research-and-debunking-myths/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>My CollegeEngaging with research and debunking mythsby C Bokhove — This article aims to give an overview of some aspects that come into p...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/281332803_Two_Birds_With_One_Myth-Debunking_Campaign_Engaging_Students_to_Target_Psychological_Misconceptions](https://www.researchgate.net/publication/281332803_Two_Birds_With_One_Myth-Debunking_Campaign_Engaging_Students_to_Target_Psychological_Misconceptions)  
+   Link: <a href="https://www.researchgate.net/publication/281332803_Two_Birds_With_One_Myth-Debunking_Campaign_Engaging_Students_to_Target_Psychological_Misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281332803_Two_Birds_With_One_Myth-Debunking_Campaign_Engaging_Students_to_Target_Psychological_Misconceptions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Two Birds With One Myth-Debunking CampaignThe research methods students viewed their experiences with the myth-debunking campaign a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: learningfocused.com  
-   Link: [https://learningfocused.com/blogs/effective-teaching-strategies/overcoming-teaching-myths-with-evidence-based-practices?srsltid=AfmBOoo3TgSWWW87Dq1tWjurgSuLDmgIV4X_ojV3taKMrNBsa8dH7SIY](https://learningfocused.com/blogs/effective-teaching-strategies/overcoming-teaching-myths-with-evidence-based-practices?srsltid=AfmBOoo3TgSWWW87Dq1tWjurgSuLDmgIV4X_ojV3taKMrNBsa8dH7SIY)  
+   Link: <a href="https://learningfocused.com/blogs/effective-teaching-strategies/overcoming-teaching-myths-with-evidence-based-practices?srsltid=AfmBOoo3TgSWWW87Dq1tWjurgSuLDmgIV4X_ojV3taKMrNBsa8dH7SIY" target="_blank" rel="noopener noreferrer nofollow">https://learningfocused.com/blogs/effective-teaching-strategies/overcoming-teaching-myths-with-evidence-based-practices?srsltid=AfmBOoo3TgSWWW87Dq1tWjurgSuLDmgIV4X_ojV3taKMrNBsa8dH7SIY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Overcoming Teaching Myths with Evidence-Based PracticesTo truly serve our students we must be willing to let go of outdated practices. Le...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: markpack.org.uk  
    Title: the backfire effect how debunking a myth can make things worse  
-   Link: [https://www.markpack.org.uk/130355/the-backfire-effect-how-debunking-a-myth-can-make-things-worse/](https://www.markpack.org.uk/130355/the-backfire-effect-how-debunking-a-myth-can-make-things-worse/)  
+   Link: <a href="https://www.markpack.org.uk/130355/the-backfire-effect-how-debunking-a-myth-can-make-things-worse/" target="_blank" rel="noopener noreferrer nofollow">https://www.markpack.org.uk/130355/the-backfire-effect-how-debunking-a-myth-can-make-things-worse/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect: how debunking a myth can make things...24 Mar 2015 — Repeating a myth even when followed up by a list of facts to s...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=w6lwqp8TGCI](http://www.youtube.com/watch?v=w6lwqp8TGCI)  
+   Link: <a href="http://www.youtube.com/watch?v=w6lwqp8TGCI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=w6lwqp8TGCI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect in education misinformation correction &quot;Well, Actually...&quot;: Unraveling the Psychology of Online Corrections PsyberS...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: jamesbrindley.org.uk  
-   Link: [https://www.jamesbrindley.org.uk/debunking-educational-myths-and-embracing-effective-teaching-strategies/](https://www.jamesbrindley.org.uk/debunking-educational-myths-and-embracing-effective-teaching-strategies/)  
+   Link: <a href="https://www.jamesbrindley.org.uk/debunking-educational-myths-and-embracing-effective-teaching-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.jamesbrindley.org.uk/debunking-educational-myths-and-embracing-effective-teaching-strategies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trends in Neuroscience and education.pdf The paper documents...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: effectiviology.com  
-   Link: [https://effectiviology.com/familiarity-backfire-effect/](https://effectiviology.com/familiarity-backfire-effect/)  
+   Link: <a href="https://effectiviology.com/familiarity-backfire-effect/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/familiarity-backfire-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>member misinformation better, and to remember it as being true...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: tes.com  
-   Link: [https://www.tes.com/magazine/teaching-learning/general/beware-debunking-research-myths-can-backfire-you](https://www.tes.com/magazine/teaching-learning/general/beware-debunking-research-myths-can-backfire-you)  
+   Link: <a href="https://www.tes.com/magazine/teaching-learning/general/beware-debunking-research-myths-can-backfire-you" target="_blank" rel="noopener noreferrer nofollow">https://www.tes.com/magazine/teaching-learning/general/beware-debunking-research-myths-can-backfire-you</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beware: debunking research myths can backfire on you19 Jul 2019 — In The Debunking Handbook, Cook and Lewandowsky (2011) describe several...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
    Title: (PDF) Familiarity backfire effects?  
-   Link: [https://www.researchgate.net/publication/403219211_Familiarity_backfire_effects_Disentangling_the_competing_effects_of_repetition_and_fact-checking_corrections_of_brand_misinformation](https://www.researchgate.net/publication/403219211_Familiarity_backfire_effects_Disentangling_the_competing_effects_of_repetition_and_fact-checking_corrections_of_brand_misinformation)  
+   Link: <a href="https://www.researchgate.net/publication/403219211_Familiarity_backfire_effects_Disentangling_the_competing_effects_of_repetition_and_fact-checking_corrections_of_brand_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403219211_Familiarity_backfire_effects_Disentangling_the_competing_effects_of_repetition_and_fact-checking_corrections_of_brand_misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disentangling the...14 May 2026 — Familiarity backfire effects? Disentangling the competing effects of repetition and fact-checking corr...</p></details>
    Published: May 2026  
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=RBDCw_izDzE](http://www.youtube.com/watch?v=RBDCw_izDzE)  
+   Link: <a href="http://www.youtube.com/watch?v=RBDCw_izDzE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RBDCw_izDzE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Embrace the Pause: Why Delays Deflate ‘Illusory Truth’ #Street Epistemology...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: zfhe.at  
    Title: Educational Myths Debunked  
-   Link: [https://www.zfhe.at/index.php/zfhe/article/download/2118/1378](https://www.zfhe.at/index.php/zfhe/article/download/2118/1378)  
+   Link: <a href="https://www.zfhe.at/index.php/zfhe/article/download/2118/1378" target="_blank" rel="noopener noreferrer nofollow">https://www.zfhe.at/index.php/zfhe/article/download/2118/1378</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Insights into the...by ST Siegel · 2025 · Cited by 2 — This article discusses Educational Myths Debunked 101 (EMD101), a further educati...</p></details>

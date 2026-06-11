@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_misconceptions_feel_49be60
 - Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - key-terms
 - tell-them-apart
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - key-terms
 - tell-them-apart
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A practical test asks whether a belief mainly spreads through repetition or mainly rests on a mistaken explanation.
 hero_summary: A practical test asks whether a belief mainly spreads through repetition or mainly rests on a mistaken explanation.
 layout: default
 permalink: /tell-them-apart/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /key-terms/
 nav_short_title: Tell Them Apart
 title: Is It a Myth or a Misconception?
-title_full: Is It a Myth or a Misconception? | Key Terms
+title_full: Is It a Myth or a Misconception?
 display_title_short: Tell Them Apart
 display_title: Tell Them Apart
 heading_title: Is It a Myth or a Misconception?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: 'Myth or Misconception: What Is the Difference? | Mythcraft'
+parent_title: 'Myth or Misconception: What Is the Difference?'
 parent_permalink: /key-terms/
 parent_nav_short_title: Key Terms
 parent_heading_title: 'Myth or Misconception: What Is the Difference?'
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When Repeated Claims Shape Understanding
 up_link:
   basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
@@ -259,7 +259,7 @@ prev_link:
   permalink: /myth-to-model/
   short_title: Myth to Model
   heading_title: When Repeated Claims Shape Understanding
-date: '2026-06-09 05:35:51 '
+date: '2026-06-11 22:37:09 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_my
 
 A quick way to tell a myth from a misconception is to ask a simple question: does the belief survive mainly because people keep repeating it, or because it seems to explain how something works?
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9-Illustration-1-dark.svg" | relative_url }}" alt="Tell Them Apart illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A myth is usually a socially shared story, claim or piece of conventional wisdom that gains credibility through familiarity. A misconception is usually a mistaken explanation that feels sensible to the person holding it. In practice, many false beliefs contain elements of both, but the distinction matters because different kinds of errors require different responses. [Repetition]({{ 'repetition/' | relative_url }}) can make a claim feel true even when evidence is weak, while a flawed mental model can survive even after someone hears the correct facts. Research on the “illusory truth effect” shows that repeated statements often become more believable through familiarity alone, while studies of [conceptual change]({{ 'concept-change/' | relative_url }}) show that misconceptions often persist because they are embedded in people's explanations of the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 103 — Repetition increases belief in informati...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This finding is known as the illusory truth effect, and it is...</span></span></span>
+A myth is usually a socially shared story, claim or piece of conventional wisdom that gains credibility through familiarity. A misconception is usually a mistaken explanation that feels sensible to the person holding it. In practice, many false beliefs contain elements of both, but the distinction matters because different kinds of errors require different responses. [Repetition]({{ 'repetition/' | relative_url }}) can make a claim feel true even when evidence is weak, while a flawed mental model can survive even after someone hears the correct facts. Research on the “illusory truth effect” shows that repeated statements often become more believable through familiarity alone, while studies of conceptual change show that misconceptions often persist because they are embedded in people's explanations of the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 103 — Repetition increases belief in informati...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This finding is known as the illusory truth effect, and it is...</span></span></span>
 
 ## The Repetition Test for Myths
 
@@ -282,12 +281,12 @@ A belief is functioning as a myth when its strength comes largely from circulati
 
 Consider a statement such as “people only use 10 per cent of their brains”. Many people cannot explain where the idea came from or why it would be true. They know it because they have encountered it repeatedly. The belief's power comes from recognition rather than understanding.
 
-This pattern matches what psychologists call the illusory truth effect: repeated claims are often judged as more credible simply because they feel familiar. Studies have found that repetition can increase perceived truthfulness even when statements are implausible or [conflict]({{ 'conflict/' | relative_url }}) with prior knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 103 — Repetition increases belief in informati...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The illusory truth effe...</span></span></span>
+This pattern matches what psychologists call the illusory truth effect: repeated claims are often judged as more credible simply because they feel familiar. Studies have found that repetition can increase perceived truthfulness even when statements are implausible or [conflict]({{ 'conflict/' | relative_url }}) with prior knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 103 — Repetition increases belief in informati...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The illusory truth effe...</span></span></span>
 
 Several signs suggest that a belief is operating mainly as a myth:
 
 * People repeat the claim but struggle to explain the mechanism behind it.
-* The belief appears in slogans, sayings, [headlines]({{ 'headlines/' | relative_url }}) or common “facts”.
+* The belief appears in [slogans]({{ 'slogans/' | relative_url }}), sayings, [headlines]({{ 'headlines/' | relative_url }}) or common “facts”.
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -298,9 +297,6 @@ Several signs suggest that a belief is operating mainly as a myth:
 </div>
 
 In these cases, the central problem is social transmission. The belief survives because it remains culturally available.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CFtsHf1lVI4" title="Psychosis or Spiritual Awakening: Phil Borges at TEDxUMKC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CFtsHf1lVI4" target="_blank" rel="noopener noreferrer">Psychosis or Spiritual Awakening: Phil Borges at TEDxUMKC</a></p><p class="youtube-embed-meta">Channel: TEDx Talks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CFtsHf1lVI4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CFtsHf1lVI4">Open on YouTube</a></p></div></div></div>
 
 ## The Explanation Test for Misconceptions
 
@@ -314,7 +310,6 @@ Research in science education has repeatedly found that learners build internal 
 
 Several clues point towards a misconception:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The person can explain why they believe it.
@@ -326,7 +321,6 @@ Several clues point towards a misconception:
 </div>
 
 Educational research on conceptual change emphasises that misconceptions are often robust because they are woven into existing ways of thinking. Correcting them requires revising the underlying model, not just supplying missing information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The influence of prior exposure on judgments of truth – sometimes referred to as the illusory...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[Mary Lou Fulton College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">chi concpetualchangechapter 0</span><span class="citation-popover-snippet">Mary Lou Fulton CollegeThree Types of Conceptual Change: Belief Revision, Mental...by MTH Chi · Cited by 1379 — Learning of complex mate...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9-Illustration-2-dark.svg" | relative_url }}" alt="Tell Them Apart illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Comparison
@@ -343,9 +337,7 @@ The factual claim is the same, but the mechanism keeping it alive differs.
 
 This distinction helps explain why some [corrections]({{ 'corrections/' | relative_url }}) fail. A fact-check may weaken a myth by interrupting repetition and replacing it with more accurate information. A misconception often requires something more demanding: showing why the old explanation fails and why a better explanation works.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ikvrwOnay3g" title="Your brain doesn’t detect reality. It creates it. | Lisa Feldman Barrett" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ikvrwOnay3g" target="_blank" rel="noopener noreferrer">Your brain doesn’t detect reality. It creates it. | Lisa Feldman Barrett</a></p><p class="youtube-embed-meta">Channel: Big Think</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ikvrwOnay3g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ikvrwOnay3g">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9-Illustration-3-dark.svg" | relative_url }}" alt="Tell Them Apart illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When One Belief Fits Both Labels
 
 Many real-world beliefs do not fit neatly into a single category.
@@ -356,10 +348,8 @@ For example, a mistaken scientific idea may begin as an individual's flawed unde
 
 This overlap is one reason why public debates about misinformation can become confusing. People sometimes assume that all false beliefs spread in the same way. In reality, some beliefs persist because they are socially repeated, while others persist because they fit an existing mental model. Many combine both forces.
 
-Research on misinformation increasingly points to familiarity and explanatory coherence as separate influences on belief. Repetition can make claims feel true, while intuitive mental models can make them feel reasonable. A belief supported by both mechanisms is often especially difficult to change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 103 — Repetition increases belief in informati...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The influence of prior exposure on judgments of truth – sometimes referred to as the illusory...Read more...</span></span></span>
+Research on misinformation increasingly points to familiarity and explanatory coherence as separate influences on belief. Repetition can make claims feel true, while intuitive mental models can make them feel reasonable. A belief supported by both mechanisms is often especially difficult to change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 103 — Repetition increases belief in informati...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The influence of prior exposure on judgments of truth – sometimes referred to as the illusory...Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9-Illustration-3-dark.svg" | relative_url }}" alt="Tell Them Apart illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myth_misconception_t_f837e9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Difference Matters
 
 The labels are useful because they suggest different responses.
@@ -375,10 +365,6 @@ A practical rule is therefore:
 * If both conditions apply, recognise that the belief may require both myth-[correction]({{ 'correction/' | relative_url }}) and misconception-correction strategies.
 
 That distinction does not solve every case, but it provides a useful test for understanding why false beliefs persist and what kind of response is most likely to work.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nr5yk9mxzSI" title="Compilation: Our Reality is an Illusion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nr5yk9mxzSI" target="_blank" rel="noopener noreferrer">Compilation: Our Reality is an Illusion</a></p><p class="youtube-embed-meta">Channel: The Why Files</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nr5yk9mxzSI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nr5yk9mxzSI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -776,161 +762,161 @@ That distinction does not solve every case, but it provides a useful test for un
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This finding is known as the illusory truth effect, and it is...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661321000516](https://www.sciencedirect.com/science/article/pii/S1364661321000516)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The influence of prior exposure on judgments of truth – sometimes referred to as the illusory...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: buffalo.edu  
    Title: University at Buffalo Conceptual Change  
-   Link: [https://www.buffalo.edu/catt/teach/develop/theory/conceptual-change.html](https://www.buffalo.edu/catt/teach/develop/theory/conceptual-change.html)  
+   Link: <a href="https://www.buffalo.edu/catt/teach/develop/theory/conceptual-change.html" target="_blank" rel="noopener noreferrer nofollow">https://www.buffalo.edu/catt/teach/develop/theory/conceptual-change.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University at BuffaloConceptual Change - TeachingMisconceptions pose a challenge to learning because they are often robust and prevent st...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Conceptual Change Theory  
-   Link: [https://www.sciencedirect.com/topics/psychology/conceptual-change-theory](https://www.sciencedirect.com/topics/psychology/conceptual-change-theory)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectConceptual Change Theory - an overviewConceptual change theory refers to frameworks that guide the design of educational int...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/conceptual-change-theory</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual Change Theory - an overviewConceptual change theory refers to frameworks that guide the design of educational int...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454](https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effectiveness of holistic mental model confrontation in...by S Gadgil · 2012 · Cited by 267 — Prior research on conceptual change has id...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027724000775](https://www.sciencedirect.com/science/article/pii/S0010027724000775)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027724000775" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027724000775</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This truth effect has been widely researched and is relevant for topics...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe [backfire](&amp;#123;&amp;#123; &#x27;backfire/&#x27; | relative_url &amp;#125;&amp;#125;) effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The illusory truth effe...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The [backfire](&amp;#123;&amp;#123; &#x27;backfire/&#x27; | relative_url &amp;#125;&amp;#125;) effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The illusory truth effe...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: thescienceteacher.co.uk  
-   Link: [https://thescienceteacher.co.uk/misconceptions-in-science-education/](https://thescienceteacher.co.uk/misconceptions-in-science-education/)  
+   Link: <a href="https://thescienceteacher.co.uk/misconceptions-in-science-education/" target="_blank" rel="noopener noreferrer nofollow">https://thescienceteacher.co.uk/misconceptions-in-science-education/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>show students that the same mass of plasticine will sink and float depending...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0193397399000465](https://www.sciencedirect.com/science/article/pii/S0193397399000465)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0193397399000465" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0193397399000465</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Education as Conceptual Changeby S Carey · 2000 · Cited by 650 — This paper shows that, for the average student, the conceptual c...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010027719302276](https://www.sciencedirect.com/science/article/abs/pii/S0010027719302276)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027719302276" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027719302276</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An initial accuracy focus prevents illusory truthby NM Brashier · 2020 · Cited by 184 — Repeated statements feel easier to process, and t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38113667/](https://pubmed.ncbi.nlm.nih.gov/38113667/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 103 — Repetition increases belief in informati...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38113667/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 103 — Repetition increases belief in informati...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/topics/journalism-facts/misinformation-recommendations](https://www.apa.org/topics/journalism-facts/misinformation-recommendations)  
+   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-recommendations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationRecommendations for countering misinformation29 Nov 2023 — The repetition of false claims increases bel...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: education.asu.edu  
    Title: chi concpetualchangechapter 0  
-   Link: [https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf](https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf)  
+   Link: <a href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mary Lou Fulton CollegeThree Types of Conceptual Change: Belief Revision, Mental...by MTH Chi · Cited by 1379 — Learning of complex mate...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: apa.org  
    Title: trends taking aim misinformation  
-   Link: [https://www.apa.org/monitor/2023/01/trends-taking-aim-misinformation](https://www.apa.org/monitor/2023/01/trends-taking-aim-misinformation)  
+   Link: <a href="https://www.apa.org/monitor/2023/01/trends-taking-aim-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/monitor/2023/01/trends-taking-aim-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationPsychologists are taking aim at misinformation with these...1 Jan 2023 — Why people trust falsehoods ·...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/19100995/](https://pubmed.ncbi.nlm.nih.gov/19100995/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19100995/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19100995/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>models and other misconceptions in children&#x27;s...by G Panagiotaki · 2009 · Cited by 120 — It tested the proposal that children appear to...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english-chinese-traditional/conceptual](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/conceptual)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/conceptual" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/conceptual</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Traditional Chinese - Cambridge DictionaryMay 13, 2026 — based on ideas or principles 觀念上的;構思的;概念上的 The main weakness of the proposal...</p></details>
    Published: May 13, 2026  
 
 17. <a id="endnote-17"></a>
    Source: thedecisionlab.com  
    Title: Illusory truth effect  
-   Link: [https://thedecisionlab.com/biases/illusory-truth-effect](https://thedecisionlab.com/biases/illusory-truth-effect)  
+   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision...The illusory truth effect, also known as the illusion of truth, describes how when we hear the same false information rep...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/](https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/)  
+   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationThe illusory truth effect is the tendency for any statement that is repeated frequently - whether it is...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: [https://en.wikipedia.org/wiki/Illusory_truth_effect](https://en.wikipedia.org/wiki/Illusory_truth_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effectThe illusory truth effect, also known as the illusion of truth effect, validity effect, truth effect, or the reit...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/psychology/illusory-truth-effect](https://www.ebsco.com/research-starters/psychology/illusory-truth-effect)  
+   Link: <a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research Starters“Why Do We Believe Misinformation More Easily when It&#x27;s Repeated Many Times?” The D...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: researchoutreach.org  
-   Link: [https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf](https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf)  
+   Link: <a href="https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual changeOften referred to as misconceptions, these representations are personal models or theories borrowed or developed by lear...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/us/basics/illusory-truth-effect](https://www.psychologytoday.com/us/basics/illusory-truth-effect)  
+   Link: <a href="https://www.psychologytoday.com/us/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/illusory-truth-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectThe illusory truth effect is the tendency for any statement that is repeated frequently—whether it is factually true...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: jes.ejournal.unri.ac.id  
-   Link: [https://jes.ejournal.unri.ac.id/index.php/JES/article/view/34](https://jes.ejournal.unri.ac.id/index.php/JES/article/view/34)  
+   Link: <a href="https://jes.ejournal.unri.ac.id/index.php/JES/article/view/34" target="_blank" rel="noopener noreferrer nofollow">https://jes.ejournal.unri.ac.id/index.php/JES/article/view/34</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Models and Conceptual Change in Chemistryby Z Alqadri · Cited by 6 — This study aims to analyze students&#x27; mental models in chemistry, ide...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: leadalchemists.com  
-   Link: [https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/](https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/)  
+   Link: <a href="https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/</a>  
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/351563163_The_effects_of_repetition_frequency_on_the_illusory_truth_effect](https://www.researchgate.net/publication/351563163_The_effects_of_repetition_frequency_on_the_illusory_truth_effect)  
+   Link: <a href="https://www.researchgate.net/publication/351563163_The_effects_of_repetition_frequency_on_the_illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/351563163_The_effects_of_repetition_frequency_on_the_illusory_truth_effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This illusory truth effect occurs with many different types of statements (e.g., trivia facts, news headlines...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: per-central.org  
-   Link: [https://www.per-central.org/items/perc/3451.pdf](https://www.per-central.org/items/perc/3451.pdf)  
+   Link: <a href="https://www.per-central.org/items/perc/3451.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.per-central.org/items/perc/3451.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r terms (alternative conceptions, mental models, and [memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;)), which are used for representing students&#x27;...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: ovid.com  
    Title: xge0000098~knowledge does not protect against illusory truth  
-   Link: [https://www.ovid.com/journals/jepge/fulltext/10.1037/xge0000098~knowledge-does-not-protect-against-illusory-truth](https://www.ovid.com/journals/jepge/fulltext/10.1037/xge0000098~knowledge-does-not-protect-against-illusory-truth)  
+   Link: <a href="https://www.ovid.com/journals/jepge/fulltext/10.1037/xge0000098~knowledge-does-not-protect-against-illusory-truth" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jepge/fulltext/10.1037/xge0000098~knowledge-does-not-protect-against-illusory-truth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge Does Not Protect Against Illusory Truthby LK Fazio · 2015 · Cited by 933 — One key factor appears to be repetition: Repeated st...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: royalsocietypublishing.org  
    Title: Illusory implications incidental exposure to ideas  
-   Link: [https://royalsocietypublishing.org/rsos/article/12/1/240716/92711/Illusory-implications-incidental-exposure-to-ideas](https://royalsocietypublishing.org/rsos/article/12/1/240716/92711/Illusory-implications-incidental-exposure-to-ideas)  
+   Link: <a href="https://royalsocietypublishing.org/rsos/article/12/1/240716/92711/Illusory-implications-incidental-exposure-to-ideas" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/12/1/240716/92711/Illusory-implications-incidental-exposure-to-ideas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory implications: incidental exposure to ideas can induce...22 Jan 2025 — The illusory truth effect suggests that incidental exposu...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/science/comments/1fryhzw/repeating_a_claim_can_make_it_seem_more/](https://www.reddit.com/r/science/comments/1fryhzw/repeating_a_claim_can_make_it_seem_more/)  
+   Link: <a href="https://www.reddit.com/r/science/comments/1fryhzw/repeating_a_claim_can_make_it_seem_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1fryhzw/repeating_a_claim_can_make_it_seem_more/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ory truth effect”. A new study found that repetition boosts...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: tipsforteachers.substack.com  
    Title: research bite 52 three types of conceptual  
-   Link: [https://tipsforteachers.substack.com/p/research-bite-52-three-types-of-conceptual](https://tipsforteachers.substack.com/p/research-bite-52-three-types-of-conceptual)  
+   Link: <a href="https://tipsforteachers.substack.com/p/research-bite-52-three-types-of-conceptual" target="_blank" rel="noopener noreferrer nofollow">https://tipsforteachers.substack.com/p/research-bite-52-three-types-of-conceptual</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bite #52: Three Types of Conceptual Change: Belief...The provided text explores three distinct types of conceptual change in learning, p...</p></details>

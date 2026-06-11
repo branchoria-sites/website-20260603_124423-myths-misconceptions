@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_galileo_tower_story_53e20a
 - Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_terminal_velocity_dr_8224b9
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - falling-objects
 - home-tests
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - falling-objects
 - home-tests
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Simple drop tests can show when mass matters less than air resistance, as long as the examples are chosen carefully.
 hero_summary: Simple drop tests can show when mass matters less than air resistance, as long as the examples are chosen carefully.
 layout: default
 permalink: /home-tests/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /falling-objects/
 nav_short_title: Home Tests
 title: Try the falling object myth for yourself
-title_full: Try the falling object myth for yourself | Falling Objects
+title_full: Try the falling object myth for yourself
 display_title_short: Home Tests
 display_title: Home Tests
 heading_title: Try the falling object myth for yourself
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Common Sense Gets Falling Objects Wrong | Mythcraft
+parent_title: Why Common Sense Gets Falling Objects Wrong
 parent_permalink: /falling-objects/
 parent_nav_short_title: Falling Objects
 parent_heading_title: Why Common Sense Gets Falling Objects Wrong
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: Why falling objects stop speeding up
 up_link:
   basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
@@ -265,7 +265,7 @@ next_link:
   permalink: /moon-drop/
   short_title: Moon Drop
   heading_title: Why the hammer and feather landed together
-date: '2026-06-09 04:44:53 '
+date: '2026-06-11 22:11:42 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_falling_object_home_a0a135-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_falling_object_home_a0a135-Illustration-1.webp
@@ -274,8 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_fa
 
 ## Introduction
 
-The quickest way to correct the “heavier objects fall faster” intuition is not to memorise a rule but to test it. Simple home experiments show that two different ideas are often being mixed together: gravity pulling objects down, and air resistance slowing them down. When people compare a stone with a feather, they are usually comparing both mass and drag at the same time. A better test changes one factor while keeping the others as similar as possible. NASA’s educational material on free fall emphasises that, in the absence of air resistance, objects fall with the same acceleration regardless of mass. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-fall-without-air-resistance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www1.grc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www1.grc.nasa.gov</span><span class="citation-popover-title">In a vacuum, a beach ball falls at the same rate as an airliner</span><span class="citation-popover-snippet">NASAFree Fall without Air Resistance | Glenn Research Center18 Jul 2024 — All objects, regardless of size or shape or weight, free fall w...</span></span></span>
-
+The quickest way to correct the heavier objects fall faster intuition is not to memorise a rule but to test it. Simple home experiments show that two different ideas are often being mixed together: gravity pulling objects down, and air resistance slowing them down. When people compare a stone with a feather, they are usually comparing both mass and drag at the same time. A better test changes one factor while keeping the others as similar as possible. NASAs educational material on free fall emphasises that, in the absence of air resistance, objects fall with the same acceleration regardless of mass. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-fall-without-air-resistance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www1.grc.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www1.grc.nasa.gov</span><span class="citation-popover-title">In a vacuum, a beach ball falls at the same rate as an airliner</span><span class="citation-popover-snippet">Free Fall without Air Resistance &#124; Glenn Research Center18 Jul 2024  All objects, regardless of size or shape or weight, free fall w...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_falling_object_home_a0a135-Illustration-1-dark.svg" | relative_url }}" alt="Home Tests illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_falling_object_home_a0a135-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_falling_object_home_a0a135-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The most useful home demonstrations are not the dramatic ones. They are the comparisons that make it obvious when shape matters more than weight and when the myth seems true again because the test was poorly controlled.
@@ -288,7 +287,6 @@ One simple method is to use two balls of similar size but different mass. A rubb
 
 Another classic test uses two identical sheets of paper and a heavy book:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Drop the book and one sheet of paper separately.
@@ -297,10 +295,9 @@ Another classic test uses two identical sheets of paper and a heavy book:
 
 </div>
 
-The paper stays close to the book and reaches the floor at nearly the same time. The important point is not that the book “carries” the paper downward. The book blocks much of the air flow that would normally push against the paper. The result exposes air resistance as the missing factor. Educational physics demonstrations frequently use this setup because it isolates drag without requiring special equipment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fizzicseducation.com.au/150-science-experiments/force-movement-experiments/book-drop-gravity-activity/?srsltid=AfmBOoppxjH7C2PW6neXn3PX9yvssvv_HiyJLO0HJtRKjTZSQfydakQQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fizzicseducation.com.au">[Fizzics Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fizzicseducation.com.au</span><span class="citation-popover-snippet">Fizzics EducationBook drop gravity activityTest how gravity works in this classic book drop activity! You can explore one of the fundamen...</span></span></span>
+The paper stays close to the book and reaches the floor at nearly the same time. The important point is not that the book carries the paper downward. The book blocks much of the air flow that would normally push against the paper. The result exposes air resistance as the missing factor. Educational physics demonstrations frequently use this setup because it isolates drag without requiring special equipment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fizzicseducation.com.au/150-science-experiments/force-movement-experiments/book-drop-gravity-activity/?srsltid=AfmBOoppxjH7C2PW6neXn3PX9yvssvv_HiyJLO0HJtRKjTZSQfydakQQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fizzicseducation.com.au">[Fizzics Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fizzicseducation.com.au</span><span class="citation-popover-snippet">Fizzics EducationBook drop gravity activityTest how gravity works in this classic book drop activity! You can explore one of the fundamen...</span></span></span>
 
 If you want more reliable results, record the drop with a smartphone in slow-motion mode. Human reaction time is often too slow to judge small differences between [falling objects]({{ 'falling-objects/' | relative_url }}).
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O-KYLXp2MG4" title="How to Demonstrate Air Resistance | Science Projects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O-KYLXp2MG4" target="_blank" rel="noopener noreferrer">How to Demonstrate Air Resistance | Science Projects</a></p><p class="youtube-embed-meta">Channel: Howcast &middot; Views: 355.4K &middot; Uploaded: June 2013 &middot; Length: 3 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O-KYLXp2MG4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O-KYLXp2MG4">Open on YouTube</a></p></div></div></div>
 
@@ -308,14 +305,13 @@ If you want more reliable results, record the drop with a smartphone in slow-mot
 
 People often reach for the most extreme comparison available: a heavy coin and a light feather.
 
-The problem is that this test changes almost everything at once. The objects differ in mass, shape, density, stiffness and surface area. If the feather loses, you cannot tell which factor mattered most. The experiment confirms ordinary experience but does not identify the cause. Physics education research repeatedly finds that such everyday observations reinforce the heavier-falls-faster belief because the role of air resistance remains hidden. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10249391/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn understanding of falling bodies across schooling</span><span class="citation-popover-snippet">PMCby P Potvin · 2023 · Cited by 8 — Developing a graphical tool for students to understand air resistance and free fall: when heavier ob...</span></span></span>
+The problem is that this test changes almost everything at once. The objects differ in mass, shape, density, stiffness and surface area. If the feather loses, you cannot tell which factor mattered most. The experiment confirms ordinary experience but does not identify the cause. Physics education research repeatedly finds that such everyday observations reinforce the heavier-falls-faster belief because the role of air resistance remains hidden. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10249391/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAn understanding of falling bodies across schooling</span><span class="citation-popover-snippet">by P Potvin  2023  Cited by 8  Developing a graphical tool for students to understand air resistance and free fall: when heavier ob...</span></span></span>
 
 ## Paper shape tests that reveal drag
 
 Paper experiments are among the best home demonstrations because they keep mass constant while changing shape.
 
 Take two identical sheets of paper:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -331,18 +327,16 @@ This experiment is powerful because it directly challenges the intuition that we
 
 A useful extension is to create several versions:
 
-* Flat sheet <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marlingtonlocal.org/Downloads/FPSESS_INV_EBOOK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marlingtonlocal.org">[* Loosely crumpled sheet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marlingtonlocal.org</span><span class="citation-popover-snippet">FPS_ESS Investigations.bookThe crumpled paper has the same weight as the flat sheet of paper. What is... Challenge: Calculate the number...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marlingtonlocal.org/Downloads/FPSESS_INV_EBOOK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marlingtonlocal.org">[* Tightly crumpled sheet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marlingtonlocal.org</span><span class="citation-popover-snippet">FPS_ESS Investigations.bookThe crumpled paper has the same weight as the flat sheet of paper. What is... Challenge: Calculate the number...</span></span></span>
+* Flat sheet * Loosely crumpled sheet <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marlingtonlocal.org/Downloads/FPSESS_INV_EBOOK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marlingtonlocal.org">[marlingtonlocal.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marlingtonlocal.org</span><span class="citation-popover-snippet">FPS_ESS Investigations.bookThe crumpled paper has the same weight as the flat sheet of paper. What is... Challenge: Calculate the number...</span></span></span> * Tightly crumpled sheet <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marlingtonlocal.org/Downloads/FPSESS_INV_EBOOK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marlingtonlocal.org">[marlingtonlocal.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marlingtonlocal.org</span><span class="citation-popover-snippet">FPS_ESS Investigations.bookThe crumpled paper has the same weight as the flat sheet of paper. What is... Challenge: Calculate the number...</span></span></span>
 
 You will usually see a progression. The tighter the crumpling, the faster the fall. That gradual change helps replace the simple myth with a condition-based rule: drag becomes more important when an object presents a large area to the air. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.askaboutireland.ie/learning-zone/primary-students/5th-%2B-6th-class/science/gravity/some-ideas-about-gravity/same-weight-but-different/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: askaboutireland.ie">[Ask About Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">askaboutireland.ie</span><span class="citation-popover-snippet">Ask About IrelandSame weight but different shapeThe flat piece falls more slowly because it has a larger area than the crumpled piece. So...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_falling_object_home_a0a135-Illustration-2-dark.svg" | relative_url }}" alt="Home Tests illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_falling_object_home_a0a135-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_falling_object_home_a0a135-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Coffee filters and paper rotors
 
-Coffee filters provide another easy demonstration. Drop one filter, then stack two or three together and drop them. The extra mass changes the motion, but not in the simplistic way many people expect. The filters accelerate until air resistance grows large enough to balance their weight, creating a [terminal velocity]({{ 'terminal-speed/' | relative_url }}). Educational activities often use coffee filters to explore this balance between gravity and drag. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbslearningmedia.org/resource/6f1c4669-3018-440b-bfad-c3fc93b1efb5/images-of-the-past-terminal-velocity-coffee-filter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbslearningmedia.org">[PBS LearningMedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbslearningmedia.org</span><span class="citation-popover-snippet">PBS LearningMediaTerminal Velocity Activity using Coffee Filters | Images of the...During this activity, your students will use coffee f...</span></span></span>
+Coffee filters provide another easy demonstration. Drop one filter, then stack two or three together and drop them. The extra mass changes the motion, but not in the simplistic way many people expect. The filters accelerate until air resistance grows large enough to balance their weight, creating a terminal velocity. Educational activities often use coffee filters to explore this balance between gravity and drag. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbslearningmedia.org/resource/6f1c4669-3018-440b-bfad-c3fc93b1efb5/images-of-the-past-terminal-velocity-coffee-filter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbslearningmedia.org">[PBS LearningMedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbslearningmedia.org</span><span class="citation-popover-snippet">PBS LearningMediaTerminal Velocity Activity using Coffee Filters &#124; Images of the...During this activity, your students will use coffee f...</span></span></span>
 
-Paper “whirlybirds” or paper helicopters make the same lesson visible in a different form. Changing the rotor size changes how much air the device pushes against, which alters how slowly it descends. These designs show that falling speed can depend strongly on interaction with air rather than on weight alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencebuddies.org/stem-activities/whirlybird" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencebuddies.org">[Science Buddies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencebuddies.org</span><span class="citation-popover-snippet">Science BuddiesMake a Whirlybird from Paper | STEM ActivityJun 25, 2020 — This hands-on lesson offers a fun opportunity to explore &quot;invis...</span></span></span>
-
+Paper whirlybirds or paper helicopters make the same lesson visible in a different form. Changing the rotor size changes how much air the device pushes against, which alters how slowly it descends. These designs show that falling speed can depend strongly on interaction with air rather than on weight alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencebuddies.org/stem-activities/whirlybird" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencebuddies.org">[Science Buddies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencebuddies.org</span><span class="citation-popover-snippet">Science BuddiesMake a Whirlybird from Paper &#124; STEM ActivityJun 25, 2020  This hands-on lesson offers a fun opportunity to explore &quot;invis...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_falling_object_home_a0a135-Illustration-3-dark.svg" | relative_url }}" alt="Home Tests illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_falling_object_home_a0a135-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_falling_object_home_a0a135-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Mistakes that make the myth look true again
@@ -359,18 +353,15 @@ There is also a subtler problem: sometimes heavier objects really do fall faster
 
 This is why careful demonstrations matter. The goal is not to replace one absolute statement with another. It is to learn when mass matters little, when air resistance dominates, and how to tell the difference.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dxcx35x5L9Y" title="Danger! Falling Objects: Crash Course Kids #32.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dxcx35x5L9Y" target="_blank" rel="noopener noreferrer">Danger! Falling Objects: Crash Course Kids #32.1</a></p><p class="youtube-embed-meta">Channel: Crash Course Kids &middot; Views: 498.4K &middot; Uploaded: October 2015 &middot; Length: 3 minutes 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dxcx35x5L9Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dxcx35x5L9Y">Open on YouTube</a></p></div></div></div>
 
 ## What result should convince you?
 
-A successful home experiment does not prove that air resistance never matters. It proves that the everyday rule “heavier objects always fall faster” is too simple.
+A successful home experiment does not prove that air resistance never matters. It proves that the everyday rule heavier objects always fall faster is too simple.
 
-The strongest demonstrations are usually the ones where mass stays the same and shape changes. Watching a flat sheet of paper and a crumpled version of the same sheet land at different times makes it difficult to keep blaming weight. Once that result is clear, the broader idea becomes easier to accept: gravity pulls all falling objects downward, but what you actually observe depends on how much the air interferes with that motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.askaboutireland.ie/learning-zone/primary-students/5th-%2B-6th-class/science/gravity/some-ideas-about-gravity/same-weight-but-different/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: askaboutireland.ie">[Ask About Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">askaboutireland.ie</span><span class="citation-popover-snippet">Ask About IrelandSame weight but different shapeThe flat piece falls more slowly because it has a larger area than the crumpled piece. So...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">Apollo 15 Hammer-Feather Drop20 Jul 2015 — A live demonstration for the television cameras. He held out a geologic hammer and a feather a...</span></span></span>
-
+The strongest demonstrations are usually the ones where mass stays the same and shape changes. Watching a flat sheet of paper and a crumpled version of the same sheet land at different times makes it difficult to keep blaming weight. Once that result is clear, the broader idea becomes easier to accept: gravity pulls all falling objects downward, but what you actually observe depends on how much the air interferes with that motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.askaboutireland.ie/learning-zone/primary-students/5th-%2B-6th-class/science/gravity/some-ideas-about-gravity/same-weight-but-different/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: askaboutireland.ie">[Ask About Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">askaboutireland.ie</span><span class="citation-popover-snippet">Ask About IrelandSame weight but different shapeThe flat piece falls more slowly because it has a larger area than the crumpled piece. So...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer and a feather a...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c_zraxYn5DQ" title="Science Fair: Gravity and Free Fall" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c_zraxYn5DQ" target="_blank" rel="noopener noreferrer">Science Fair: Gravity and Free Fall</a></p><p class="youtube-embed-meta">Channel: Adventure Academy &middot; Views: 4.3M &middot; Uploaded: November 2021 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c_zraxYn5DQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c_zraxYn5DQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -391,7 +382,7 @@ The strongest demonstrations are usually the ones where mass stays the same and 
         </h4>
         <p class="fr-book-author">By Richard Phillips Feynman, Paul Davies</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Physics, FÃ­sica, Obras de divulgaciÃ³n, Natuurkunde, Long Now Manual for Civilization.</p>
+        <p class="fr-book-desc">First published 1994. Subjects: Physics, Física, Obras de divulgación, Natuurkunde, Long Now Manual for Civilization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Six+Easy+Pieces+Richard+Phillips+Feynman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -769,111 +760,111 @@ The strongest demonstrations are usually the ones where mass stays the same and 
 1. <a id="endnote-1"></a>
    Source: www1.grc.nasa.gov  
    Title: In a vacuum, a beach ball falls at the same rate as an airliner  
-   Link: [https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-fall-without-air-resistance/](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-fall-without-air-resistance/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAFree Fall without Air Resistance | Glenn Research Center18 Jul 2024 — All objects, regardless of size or shape or weight, free fall w...</p></details>
+   Link: <a href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-fall-without-air-resistance/" target="_blank" rel="noopener noreferrer nofollow">https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-fall-without-air-resistance/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Free Fall without Air Resistance | Glenn Research Center18 Jul 2024  All objects, regardless of size or shape or weight, free fall w...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn understanding of falling bodies across schooling  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10249391/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10249391/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby P Potvin · 2023 · Cited by 8 — Developing a graphical tool for students to understand air resistance and free fall: when heavier ob...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10249391/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10249391/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by P Potvin  2023  Cited by 8  Developing a graphical tool for students to understand air resistance and free fall: when heavier ob...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: the apollo 15 hammer feather drop  
-   Link: [https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/](https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo 15 Hammer-Feather Drop20 Jul 2015 — A live demonstration for the television cameras. He held out a geologic hammer and a feather a...</p></details>
+   Link: <a href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer and a feather a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: grc.nasa.gov  
-   Link: [https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html)  
+   Link: <a href="https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html" target="_blank" rel="noopener noreferrer nofollow">https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/falling.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Object with Air ResistanceAn object that is falling through the atmosphere is subjected to two external forces. The first force is the gr...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: physicsclassroom.com  
-   Link: [https://www.physicsclassroom.com/class/1DKin/Lesson-5/The-Big-Misconception](https://www.physicsclassroom.com/class/1DKin/Lesson-5/The-Big-Misconception)  
+   Link: <a href="https://www.physicsclassroom.com/class/1DKin/Lesson-5/The-Big-Misconception" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsclassroom.com/class/1DKin/Lesson-5/The-Big-Misconception</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Subsequently, all objects free fall at the same rate...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: fizzicseducation.com.au  
-   Link: [https://www.fizzicseducation.com.au/150-science-experiments/force-movement-experiments/book-drop-gravity-activity/?srsltid=AfmBOoppxjH7C2PW6neXn3PX9yvssvv_HiyJLO0HJtRKjTZSQfydakQQ](https://www.fizzicseducation.com.au/150-science-experiments/force-movement-experiments/book-drop-gravity-activity/?srsltid=AfmBOoppxjH7C2PW6neXn3PX9yvssvv_HiyJLO0HJtRKjTZSQfydakQQ)  
+   Link: <a href="https://www.fizzicseducation.com.au/150-science-experiments/force-movement-experiments/book-drop-gravity-activity/?srsltid=AfmBOoppxjH7C2PW6neXn3PX9yvssvv_HiyJLO0HJtRKjTZSQfydakQQ" target="_blank" rel="noopener noreferrer nofollow">https://www.fizzicseducation.com.au/150-science-experiments/force-movement-experiments/book-drop-gravity-activity/?srsltid=AfmBOoppxjH7C2PW6neXn3PX9yvssvv_HiyJLO0HJtRKjTZSQfydakQQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fizzics EducationBook drop gravity activityTest how gravity works in this classic book drop activity! You can explore one of the fundamen...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: askaboutireland.ie  
-   Link: [https://www.askaboutireland.ie/learning-zone/primary-students/5th-%2B-6th-class/science/gravity/some-ideas-about-gravity/same-weight-but-different/](https://www.askaboutireland.ie/learning-zone/primary-students/5th-%2B-6th-class/science/gravity/some-ideas-about-gravity/same-weight-but-different/)  
+   Link: <a href="https://www.askaboutireland.ie/learning-zone/primary-students/5th-%2B-6th-class/science/gravity/some-ideas-about-gravity/same-weight-but-different/" target="_blank" rel="noopener noreferrer nofollow">https://www.askaboutireland.ie/learning-zone/primary-students/5th-%2B-6th-class/science/gravity/some-ideas-about-gravity/same-weight-but-different/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ask About IrelandSame weight but different shapeThe flat piece falls more slowly because it has a larger area than the crumpled piece. So...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ingridscience.ca  
-   Link: [https://www.ingridscience.ca/node/402](https://www.ingridscience.ca/node/402)  
+   Link: <a href="https://www.ingridscience.ca/node/402" target="_blank" rel="noopener noreferrer nofollow">https://www.ingridscience.ca/node/402</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air resistanceEffectively demonstrate air resistance by dropping two paper plates, one flat and one crumpled. Or drop different weights a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pbslearningmedia.org  
-   Link: [https://www.pbslearningmedia.org/resource/6f1c4669-3018-440b-bfad-c3fc93b1efb5/images-of-the-past-terminal-velocity-coffee-filter/](https://www.pbslearningmedia.org/resource/6f1c4669-3018-440b-bfad-c3fc93b1efb5/images-of-the-past-terminal-velocity-coffee-filter/)  
+   Link: <a href="https://www.pbslearningmedia.org/resource/6f1c4669-3018-440b-bfad-c3fc93b1efb5/images-of-the-past-terminal-velocity-coffee-filter/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbslearningmedia.org/resource/6f1c4669-3018-440b-bfad-c3fc93b1efb5/images-of-the-past-terminal-velocity-coffee-filter/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PBS LearningMediaTerminal Velocity Activity using Coffee Filters | Images of the...During this activity, your students will use coffee f...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencebuddies.org  
-   Link: [https://www.sciencebuddies.org/stem-activities/whirlybird](https://www.sciencebuddies.org/stem-activities/whirlybird)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science BuddiesMake a Whirlybird from Paper | STEM ActivityJun 25, 2020 — This hands-on lesson offers a fun opportunity to explore &quot;invis...</p></details>
+   Link: <a href="https://www.sciencebuddies.org/stem-activities/whirlybird" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencebuddies.org/stem-activities/whirlybird</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science BuddiesMake a Whirlybird from Paper | STEM ActivityJun 25, 2020  This hands-on lesson offers a fun opportunity to explore &quot;invis...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: physicsclassroom.com  
    Title: Free Fall  
-   Link: [https://www.physicsclassroom.com/Teacher-Toolkits/Free-Fall/Free-Fall-Complete-ToolKit](https://www.physicsclassroom.com/Teacher-Toolkits/Free-Fall/Free-Fall-Complete-ToolKit)  
+   Link: <a href="https://www.physicsclassroom.com/Teacher-Toolkits/Free-Fall/Free-Fall-Complete-ToolKit" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsclassroom.com/Teacher-Toolkits/Free-Fall/Free-Fall-Complete-ToolKit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The model...Read more...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: aps.org  
-   Link: [https://www.aps.org/learning-resources/falling-physics](https://www.aps.org/learning-resources/falling-physics)  
+   Link: <a href="https://www.aps.org/learning-resources/falling-physics" target="_blank" rel="noopener noreferrer nofollow">https://www.aps.org/learning-resources/falling-physics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Physical SocietyFalling PhysicsFree Fall Fall Air Resistance. This simulation allows students to compare the motion of free fall...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AskPhysics/comments/1hhds0q/eli5_why_dont_larger_objects_fall_faster/](https://www.reddit.com/r/AskPhysics/comments/1hhds0q/eli5_why_dont_larger_objects_fall_faster/)  
+   Link: <a href="https://www.reddit.com/r/AskPhysics/comments/1hhds0q/eli5_why_dont_larger_objects_fall_faster/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/1hhds0q/eli5_why_dont_larger_objects_fall_faster/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5, why don&#x27;t larger objects fall faster?: r/AskPhysicsYou&#x27;ve misunderstood the question. Extremely massive objects will fall faster b...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: marlingtonlocal.org  
-   Link: [https://www.marlingtonlocal.org/Downloads/FPSESS_INV_EBOOK.pdf](https://www.marlingtonlocal.org/Downloads/FPSESS_INV_EBOOK.pdf)  
+   Link: <a href="https://www.marlingtonlocal.org/Downloads/FPSESS_INV_EBOOK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.marlingtonlocal.org/Downloads/FPSESS_INV_EBOOK.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FPS_ESS Investigations.bookThe crumpled paper has the same weight as the flat sheet of paper. What is... Challenge: Calculate the number...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: creativescience.com.au  
-   Link: [https://www.creativescience.com.au/wp-content/uploads/2019/07/hammer_and_feather.pdf](https://www.creativescience.com.au/wp-content/uploads/2019/07/hammer_and_feather.pdf)  
+   Link: <a href="https://www.creativescience.com.au/wp-content/uploads/2019/07/hammer_and_feather.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.creativescience.com.au/wp-content/uploads/2019/07/hammer_and_feather.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hammer and FeatherHeavier objects push against air with more force than lighter objects, so heavier objects tend to fall faster than ligh...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: doi.org  
-   Link: [https://doi.org/10.1063/9780735420571_008](https://doi.org/10.1063/9780735420571_008)  
+   Link: <a href="https://doi.org/10.1063/9780735420571_008" target="_blank" rel="noopener noreferrer nofollow">https://doi.org/10.1063/9780735420571_008</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inertia and Gravitational ForceAgree that air friction dominates here. Compare the falling rate of a crumpled sheet of paper with a whole...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: stem.org.uk  
-   Link: [https://www.stem.org.uk/resources/library/resource/26368/the-hammer-and-the-feather-on-the-moon](https://www.stem.org.uk/resources/library/resource/26368/the-hammer-and-the-feather-on-the-moon)  
+   Link: <a href="https://www.stem.org.uk/resources/library/resource/26368/the-hammer-and-the-feather-on-the-moon" target="_blank" rel="noopener noreferrer nofollow">https://www.stem.org.uk/resources/library/resource/26368/the-hammer-and-the-feather-on-the-moon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The hammer and the feather on the MoonThis classic Apollo 15 clip, from Footagevault, demonstrates that the mass of an object does not af...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: spark.iop.org  
-   Link: [https://spark.iop.org/many-students-think-heavier-object-will-fall-faster-lighter-one-same-general-shape-or-size](https://spark.iop.org/many-students-think-heavier-object-will-fall-faster-lighter-one-same-general-shape-or-size)  
+   Link: <a href="https://spark.iop.org/many-students-think-heavier-object-will-fall-faster-lighter-one-same-general-shape-or-size" target="_blank" rel="noopener noreferrer nofollow">https://spark.iop.org/many-students-think-heavier-object-will-fall-faster-lighter-one-same-general-shape-or-size</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This resource will challenge the common mistaken idea that heavier objects fall faster than lighter objects. View Resource.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: askfilo.com  
    Title: learning area lesson no learning activity sheet force motion 3432373036373738  
-   Link: [https://askfilo.com/user-question-answers-smart-solutions/learning-area-lesson-no-learning-activity-sheet-force-motion-3432373036373738](https://askfilo.com/user-question-answers-smart-solutions/learning-area-lesson-no-learning-activity-sheet-force-motion-3432373036373738)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lesson No.: LEARNING ACTIVITY SHEET Force, Motion, and26 Nov 2025 — Air Resistance: Slows down objects with a larger surface area (like f...</p></details>
+   Link: <a href="https://askfilo.com/user-question-answers-smart-solutions/learning-area-lesson-no-learning-activity-sheet-force-motion-3432373036373738" target="_blank" rel="noopener noreferrer nofollow">https://askfilo.com/user-question-answers-smart-solutions/learning-area-lesson-no-learning-activity-sheet-force-motion-3432373036373738</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lesson No.: LEARNING ACTIVITY SHEET Force, Motion, and26 Nov 2025  Air Resistance: Slows down objects with a larger surface area (like f...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: brilliant.org  
-   Link: [https://brilliant.org/wiki/do-heavier-objects-fall-faster-than-lighter/](https://brilliant.org/wiki/do-heavier-objects-fall-faster-than-lighter/)  
+   Link: <a href="https://brilliant.org/wiki/do-heavier-objects-fall-faster-than-lighter/" target="_blank" rel="noopener noreferrer nofollow">https://brilliant.org/wiki/do-heavier-objects-fall-faster-than-lighter/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why some people say it&#x27;s true: If a feather and an egg are dropped, then the egg will reach the ground first.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=O-KYLXp2MG4](https://www.youtube.com/watch?v=O-KYLXp2MG4)  
+   Link: <a href="https://www.youtube.com/watch?v=O-KYLXp2MG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O-KYLXp2MG4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Demonstrate Air Resistance | Science ProjectsTry really big sheets of paper, try really small sheets of paper and ultimately you&#x27;r...</p></details>

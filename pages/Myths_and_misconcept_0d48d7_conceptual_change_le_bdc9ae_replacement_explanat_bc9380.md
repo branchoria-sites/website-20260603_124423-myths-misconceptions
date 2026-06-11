@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d
 - Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_private_universe_ast_4d78d6
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - concept-change
 - replacement
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - concept-change
 - replacement
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Students need a better model they can use across examples, diagrams, predictions, and unfamiliar cases.
 hero_summary: Students need a better model they can use across examples, diagrams, predictions, and unfamiliar cases.
 layout: default
 permalink: /replacement-494721/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /concept-change/
 nav_short_title: Replacement
 title: Why Corrections Need Better Explanations
-title_full: Why Corrections Need Better Explanations | Concept Change
+title_full: Why Corrections Need Better Explanations
 display_title_short: Replacement
 display_title: Replacement
 heading_title: Why Corrections Need Better Explanations
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Learners Replace Wrong Ideas | Mythcraft
+parent_title: How Learners Replace Wrong Ideas
 parent_permalink: /concept-change/
 parent_nav_short_title: Concept Change
 parent_heading_title: How Learners Replace Wrong Ideas
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: What A Private Universe Revealed
 up_link:
   basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
@@ -259,7 +259,7 @@ prev_link:
   permalink: /private-universe/
   short_title: Private Universe
   heading_title: What A Private Universe Revealed
-date: '2026-06-09 05:06:44 '
+date: '2026-06-11 22:22:28 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-1.webp
@@ -270,9 +270,8 @@ image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_re
 
 Correcting a science misconception is rarely a matter of swapping one sentence for another. Students often abandon a wrong answer during a lesson, only to return to it later when they face a diagram, prediction task or unfamiliar example. The reason is simple: the original idea was doing explanatory work. It helped the learner make sense of the world. Unless teaching provides a replacement explanation that works better, the old model remains available and often reappears.
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-1-dark.svg" | relative_url }}" alt="Replacement illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on [conceptual change]({{ 'concept-change/' | relative_url }}) has repeatedly shown that learners do not simply store scientific facts alongside existing beliefs. They interpret new information through what they already think they know. For a [correction]({{ 'correction/' | relative_url }}) to last, the new explanation must become more useful than the old one: clearer, more convincing and more powerful across different situations. Posner and colleagues famously argued that successful conceptual change depends on learners finding a new conception intelligible, plausible and fruitful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">Usually scientific work is done</span><span class="citation-popover-snippet">eClass UOAAccommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejmste.com">[Eurasia Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejmste.com</span><span class="citation-popover-title">an overview of conceptual changetheories 4082</span><span class="citation-popover-snippet">Posner et al. (1982), the scientific conception must also be intelligible, plausible, and fruitful for successful conceptual change to occur...</span></span></span>
+Research on conceptual change has repeatedly shown that learners do not simply store scientific facts alongside existing beliefs. They interpret new information through what they already think they know. For a [correction]({{ 'correction/' | relative_url }}) to last, the new explanation must become more useful than the old one: clearer, more convincing and more powerful across different situations. Posner and colleagues famously argued that successful conceptual change depends on learners finding a new conception intelligible, plausible and fruitful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">Usually scientific work is done</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejmste.com">[Eurasia Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejmste.com</span><span class="citation-popover-title">an overview of conceptual changetheories 4082</span><span class="citation-popover-snippet">Posner et al. (1982), the scientific conception must also be intelligible, plausible, and fruitful for successful conceptual change to occur...</span></span></span>
 
 ## Why Corrections Need Better Explanations
 
@@ -280,9 +279,9 @@ Many misconceptions survive because they explain something real, even if the exp
 
 A student who believes heavier objects fall faster is trying to account for everyday observations. A stone does seem to reach the ground before a feather. Simply stating that all objects accelerate equally under gravity leaves an explanatory gap. The learner still has a working story for what they see and no equally usable replacement for interpreting the world.
 
-Conceptual change research has consistently found that learners evaluate new ideas partly by whether those ideas help them make sense of problems. A scientific explanation must therefore do more than contradict an existing belief. It must offer a stronger way of understanding observations, predictions and relationships. Posner's framework describes this as fruitfulness: the new conception should help solve problems and generate successful explanations beyond the immediate lesson. Eurasia Journal <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[2eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">Usually scientific work is done</span><span class="citation-popover-snippet">eClass UOAAccommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
+Conceptual change research has consistently found that learners evaluate new ideas partly by whether those ideas help them make sense of problems. A scientific explanation must therefore do more than contradict an existing belief. It must offer a stronger way of understanding observations, predictions and relationships. Posner's framework describes this as fruitfulness: the new conception should help solve problems and generate successful explanations beyond the immediate lesson. Eurasia Journal <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[2eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">Usually scientific work is done</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
 
-This is why some [corrections]({{ 'corrections/' | relative_url }}) appear successful during assessment but disappear later. Students may memorise the accepted answer without adopting the underlying model. In effect, they possess two explanations at once: the school answer and the personal explanation. Depending on the context, they switch between them. Research has noted that learners can use scientific language in formal settings while reverting to intuitive beliefs in everyday reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ijiet.org/vol6/732-M04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijiet.org">[IJIET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijiet.org</span><span class="citation-popover-snippet">IJIETAnalyzing with Posner&#x27;s Conceptual Change Model and...Therefore, how to enhance students&#x27; conceptual knowledge to the ―plausible‖ o...</span></span></span>
+This is why some [corrections]({{ 'corrections/' | relative_url }}) appear successful during assessment but disappear later. Students may memorise the accepted answer without adopting the underlying model. In effect, they possess two explanations at once: the school answer and the personal explanation. Depending on the context, they switch between them. Research has noted that learners can use scientific language in formal settings while reverting to intuitive beliefs in everyday reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ijiet.org/vol6/732-M04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijiet.org">[IJIET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijiet.org</span><span class="citation-popover-snippet">Analyzing with Posner&#x27;s Conceptual Change Model and...Therefore, how to enhance students&#x27; conceptual knowledge to the ―plausible‖ o...</span></span></span>
 
 The key implementation question is not whether students can repeat the correct statement. It is whether the new explanation has become their preferred tool for understanding phenomena.
 
@@ -298,16 +297,13 @@ Consider seasonal change. The "Earth is closer to the Sun in summer" explanation
 
 The scientific model therefore absorbs the observations that once supported the misconception while explaining additional evidence that the misconception cannot handle.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jcww5lug7DQ" title="Conceptual Change Theory and Inquiry Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jcww5lug7DQ" target="_blank" rel="noopener noreferrer">Conceptual Change Theory and Inquiry Learning</a></p><p class="youtube-embed-meta">Channel: David Geelan &middot; Views: 1.6K &middot; Uploaded: October 2021 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jcww5lug7DQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jcww5lug7DQ">Open on YouTube</a></p></div></div></div>
-
 ### It must work across multiple examples
 
 A replacement explanation becomes stronger when students can use it repeatedly.
 
 For example, understanding electric current as a conserved flow rather than something "used up" in circuit components helps explain bulb brightness, parallel circuits, battery behaviour and current measurements. The new model becomes attractive because it solves a growing range of problems.
 
-Posner's description of a fruitful conception captures this point. Students are more likely to adopt an explanation when it proves useful beyond a single question or demonstration. Eurasia Journal <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[2eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">Usually scientific work is done</span><span class="citation-popover-snippet">eClass UOAAccommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
+Posner's description of a fruitful conception captures this point. Students are more likely to adopt an explanation when it proves useful beyond a single question or demonstration. Eurasia Journal <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[2eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">Usually scientific work is done</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
 
 ### It must fit a coherent network of ideas
 
@@ -315,8 +311,7 @@ Misconceptions rarely exist in isolation.
 
 A learner's ideas about force, motion and energy often support one another. Replacing a single belief may require showing how the new explanation connects with a broader scientific framework.
 
-Research on conceptual ecology emphasises that concepts sit within larger systems of beliefs and assumptions. A replacement explanation therefore succeeds more often when students can see how it links to other scientific ideas they already trust. Eurasia Journal <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[2eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">Usually scientific work is done</span><span class="citation-popover-snippet">eClass UOAAccommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
-
+Research on conceptual ecology emphasises that concepts sit within larger systems of beliefs and assumptions. A replacement explanation therefore succeeds more often when students can see how it links to other scientific ideas they already trust. Eurasia Journal <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[2eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">Usually scientific work is done</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-2-dark.svg" | relative_url }}" alt="Replacement illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Memorised Facts Collapse in New Contexts
@@ -333,8 +328,7 @@ This pattern helps explain why misconceptions often seem "fixed" during instruct
 
 Research on prior knowledge suggests that learning depends heavily on how new information is integrated into existing mental structures. When the new information remains disconnected, transfer is weak and misconceptions persist beneath the surface. [EEF]
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ikvrwOnay3g" title="Your brain doesn’t detect reality. It creates it. | Lisa Feldman Barrett" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ikvrwOnay3g" target="_blank" rel="noopener noreferrer">Your brain doesn’t detect reality. It creates it. | Lisa Feldman Barrett</a></p><p class="youtube-embed-meta">Channel: Big Think</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ikvrwOnay3g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ikvrwOnay3g">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jcww5lug7DQ" title="Conceptual Change Theory and Inquiry Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jcww5lug7DQ" target="_blank" rel="noopener noreferrer">Conceptual Change Theory and Inquiry Learning</a></p><p class="youtube-embed-meta">Channel: David Geelan &middot; Views: 1.6K &middot; Uploaded: October 2021 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jcww5lug7DQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jcww5lug7DQ">Open on YouTube</a></p></div></div></div>
 
 ### The problem of parallel explanations
 
@@ -342,7 +336,7 @@ Students frequently maintain two competing explanations.
 
 They may know that natural selection involves differential survival and reproduction, yet still describe evolution as organisms deliberately changing because they "need" a trait. They may know that particles are in constant motion, yet continue imagining diffusion as individual particles deciding where to go.
 
-Conceptual change researchers have noted that learners often alternate between intuitive and scientific frameworks depending on the context. The goal is therefore not merely introducing a scientific explanation but making it the explanation students reach for first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ijiet.org/vol6/732-M04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijiet.org">[IJIET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijiet.org</span><span class="citation-popover-snippet">IJIETAnalyzing with Posner&#x27;s Conceptual Change Model and...Therefore, how to enhance students&#x27; conceptual knowledge to the ―plausible‖ o...</span></span></span>
+Conceptual change researchers have noted that learners often alternate between intuitive and scientific frameworks depending on the context. The goal is therefore not merely introducing a scientific explanation but making it the explanation students reach for first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ijiet.org/vol6/732-M04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijiet.org">[IJIET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijiet.org</span><span class="citation-popover-snippet">Analyzing with Posner&#x27;s Conceptual Change Model and...Therefore, how to enhance students&#x27; conceptual knowledge to the ―plausible‖ o...</span></span></span>
 
 ## Revisiting the Same Concept Across Cases
 
@@ -352,8 +346,7 @@ A single successful lesson rarely creates lasting conceptual change. Students ne
 
 For example, a process-based understanding of heat transfer becomes stronger when students apply it to metal spoons, house insulation, weather systems and biological temperature regulation. The concept stops being tied to one classroom example and becomes a general explanatory resource.
 
-Research on conceptual change increasingly emphasises transfer, application and knowledge restructuring rather than one-off correction events. Learners need repeated opportunities to recognise that the same scientific principle can organise many different phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.pageplace.de">[PagePlace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.pageplace.de</span><span class="citation-popover-snippet">PagePlaceInternational Handbook of Research on Conceptual ChangeConceptual change research investigates the processes through which learn...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/CA7E946570188227A907AD683E2DAC25" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentA History of Conceptual Change Research (Chapter 6)Effective learning requires conceptual change...</span></span></span>
-
+Research on conceptual change increasingly emphasises transfer, application and knowledge restructuring rather than one-off correction events. Learners need repeated opportunities to recognise that the same scientific principle can organise many different phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.pageplace.de">[PagePlace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.pageplace.de</span><span class="citation-popover-snippet">International Handbook of Research on Conceptual ChangeConceptual change research investigates the processes through which learn...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/CA7E946570188227A907AD683E2DAC25" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentA History of Conceptual Change Research (Chapter 6)Effective learning requires conceptual change...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-3-dark.svg" | relative_url }}" alt="Replacement illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Revisiting through prediction
@@ -372,16 +365,13 @@ Students may understand a concept verbally but fail when they encounter a graph,
 
 For instance, understanding seasons requires interpreting globes, sunlight diagrams, maps, temperature patterns and observations from different hemispheres. Each representation provides another opportunity to strengthen the scientific model and weaken reliance on the earlier misconception.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n0i7WdZ6Mco" title="What is Fruitful Function? | How to Define Fruitful Function? | Fruitful Function Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n0i7WdZ6Mco" target="_blank" rel="noopener noreferrer">What is Fruitful Function? | How to Define Fruitful Function? | Fruitful Function Explained</a></p><p class="youtube-embed-meta">Channel: The Coding Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n0i7WdZ6Mco" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n0i7WdZ6Mco">Open on YouTube</a></p></div></div></div>
-
 ## Why Better Explanations Outcompete Old Ones
 
 The most successful science corrections do not simply attack misconceptions. They make those misconceptions unnecessary.
 
 When learners discover that a scientific explanation accounts for more evidence, predicts more accurately and works across more contexts, the old explanation gradually loses value. The replacement becomes the easier and more productive way to think.
 
-This is why conceptual change is often described as reconstruction rather than correction. Learners are not merely deleting information. They are adopting a new explanatory system that helps them understand the world more effectively. Research from conceptual change traditions consistently points to this shift: lasting learning occurs when the new conception is not only accepted but becomes the learner's preferred framework for reasoning, prediction and explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.pageplace.de">[PagePlace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.pageplace.de</span><span class="citation-popover-snippet">PagePlaceInternational Handbook of Research on Conceptual ChangeConceptual change research investigates the processes through which learn...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejmste.com">[Eurasia Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejmste.com</span><span class="citation-popover-title">an overview of conceptual changetheories 4082</span><span class="citation-popover-snippet">Posner et al. (1982), the scientific conception must also be intelligible, plausible, and fruitful for successful conceptual change to occur...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">Conceptual Change Theory - an overviewFor conceptual change to occur, learners must be dissatisfied with existing conceptions and view sc...</span></span></span>
+This is why conceptual change is often described as reconstruction rather than correction. Learners are not merely deleting information. They are adopting a new explanatory system that helps them understand the world more effectively. Research from conceptual change traditions consistently points to this shift: lasting learning occurs when the new conception is not only accepted but becomes the learner's preferred framework for reasoning, prediction and explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.pageplace.de">[PagePlace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.pageplace.de</span><span class="citation-popover-snippet">International Handbook of Research on Conceptual ChangeConceptual change research investigates the processes through which learn...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejmste.com">[Eurasia Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejmste.com</span><span class="citation-popover-title">an overview of conceptual changetheories 4082</span><span class="citation-popover-snippet">Posner et al. (1982), the scientific conception must also be intelligible, plausible, and fruitful for successful conceptual change to occur...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">Conceptual Change Theory - an overviewFor conceptual change to occur, learners must be dissatisfied with existing conceptions and view sc...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -780,109 +770,109 @@ This is why conceptual change is often described as reconstruction rather than c
 1. <a id="endnote-1"></a>
    Source: eclass.uoa.gr  
    Title: Usually scientific work is done  
-   Link: [https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf](https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eClass UOAAccommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</p></details>
+   Link: <a href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</p></details>
    Published: August 22, 2006  
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Conceptual Change Theory  
-   Link: [https://www.sciencedirect.com/topics/psychology/conceptual-change-theory](https://www.sciencedirect.com/topics/psychology/conceptual-change-theory)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/conceptual-change-theory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual Change Theory - an overviewFor conceptual change to occur, learners must be dissatisfied with existing conceptions and view sc...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ijiet.org  
-   Link: [https://www.ijiet.org/vol6/732-M04.pdf](https://www.ijiet.org/vol6/732-M04.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IJIETAnalyzing with Posner&#x27;s Conceptual Change Model and...Therefore, how to enhance students&#x27; conceptual knowledge to the ―plausible‖ o...</p></details>
+   Link: <a href="https://www.ijiet.org/vol6/732-M04.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijiet.org/vol6/732-M04.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing with Posner&#x27;s Conceptual Change Model and...Therefore, how to enhance students&#x27; conceptual knowledge to the ―plausible‖ o...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: api.pageplace.de  
-   Link: [https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf](https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PagePlaceInternational Handbook of Research on Conceptual ChangeConceptual change research investigates the processes through which learn...</p></details>
+   Link: <a href="https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>International Handbook of Research on Conceptual ChangeConceptual change research investigates the processes through which learn...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect How does prior knowledge affect learning?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1041608025001207](https://www.sciencedirect.com/science/article/pii/S1041608025001207)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1041608025001207" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1041608025001207</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of 16...by M Schneider · 2025 · Cited by 29 — We give an integrative review of 16 learning processes mediating the effects of p...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/CA7E946570188227A907AD683E2DAC25](https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/CA7E946570188227A907AD683E2DAC25)  
+   Link: <a href="https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/CA7E946570188227A907AD683E2DAC25" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/CA7E946570188227A907AD683E2DAC25</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentA History of Conceptual Change Research (Chapter 6)Effective learning requires conceptual change...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/0959475294900175](https://www.sciencedirect.com/science/article/abs/pii/0959475294900175)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/0959475294900175" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/0959475294900175</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A theory of conceptual change for learning science conceptsby MTH Chi · 1994 · Cited by 1951 — The theory of conceptual change in this ar...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ejmste.com  
    Title: an overview of conceptual changetheories 4082  
-   Link: [https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf](https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf)  
+   Link: <a href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Posner et al. (1982), the scientific conception must also be intelligible, plausible, and fruitful for successful conceptual change to occur...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sdcoe.net  
-   Link: [https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn](https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn)  
+   Link: <a href="https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn" target="_blank" rel="noopener noreferrer nofollow">https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>San Diego County Office of EducationKey Findings from How People LearnA fundamental insight about learning is that new understandings are...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: histoforum.net  
    Title: Conceptual Change  
-   Link: [https://histoforum.net/2020/Conceptual%20Change.pdf](https://histoforum.net/2020/Conceptual%20Change.pdf)  
+   Link: <a href="https://histoforum.net/2020/Conceptual%20Change.pdf" target="_blank" rel="noopener noreferrer nofollow">https://histoforum.net/2020/Conceptual%20Change.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by A van der Kaap — Posner, G.J., Strike, K.A., Hewson, P.W., &amp; Gertzog, W.A. (1982) Accomodation of a scientidic conception: Toward a th...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: researchoutreach.org  
-   Link: [https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf](https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf)  
+   Link: <a href="https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual changeOften referred to as misconceptions, these representations are personal models or theories borrowed or developed by lear...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: mrbartonmaths.com  
-   Link: [https://mrbartonmaths.com/resourcesnew/8.%20Research/Explicit%20Instruction/How%20Do%20I%20Get%20My%20Students%20Over%20Their%20Alternative%20Conceptions.pdf](https://mrbartonmaths.com/resourcesnew/8.%20Research/Explicit%20Instruction/How%20Do%20I%20Get%20My%20Students%20Over%20Their%20Alternative%20Conceptions.pdf)  
+   Link: <a href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Explicit%20Instruction/How%20Do%20I%20Get%20My%20Students%20Over%20Their%20Alternative%20Conceptions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mrbartonmaths.com/resourcesnew/8.%20Research/Explicit%20Instruction/How%20Do%20I%20Get%20My%20Students%20Over%20Their%20Alternative%20Conceptions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Do I Get My Students Over Their Alternative...by J Lucariello · Cited by 73 — However, several instructional strategies have proven...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: peer.asee.org  
    Title: predictors and mediators of conceptual change a systematic literature review  
-   Link: [https://peer.asee.org/predictors-and-mediators-of-conceptual-change-a-systematic-literature-review.pdf](https://peer.asee.org/predictors-and-mediators-of-conceptual-change-a-systematic-literature-review.pdf)  
+   Link: <a href="https://peer.asee.org/predictors-and-mediators-of-conceptual-change-a-systematic-literature-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://peer.asee.org/predictors-and-mediators-of-conceptual-change-a-systematic-literature-review.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Mediators of Conceptual Changeby OP Olaogun · 2024 — The process by which misconceptions are remediated or replaced with scientifical...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/5287/chapter/5](https://www.nationalacademies.org/read/5287/chapter/5)  
+   Link: <a href="https://www.nationalacademies.org/read/5287/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/5287/chapter/5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Descriptions and examples of some common misconceptions in science. Methods to identify misconceptions.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Jcww5lug7DQ](https://www.youtube.com/watch?v=Jcww5lug7DQ)  
+   Link: <a href="https://www.youtube.com/watch?v=Jcww5lug7DQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jcww5lug7DQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual Change Theory and Inquiry LearningConceptual Change Theory which is one particular constructivist referenced approach to teach...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scite.ai  
    Title: Representation of the conceptual change model in science  
-   Link: [https://scite.ai/reports/10.1002/%28SICI%291098-237X%28199606%2980%3A3%3C317%3A%3AAID-SCE3%3E3.0.CO%3B2-H](https://scite.ai/reports/10.1002/%28SICI%291098-237X%28199606%2980%3A3%3C317%3A%3AAID-SCE3%3E3.0.CO%3B2-H)  
+   Link: <a href="https://scite.ai/reports/10.1002/%28SICI%291098-237X%28199606%2980%3A3%3C317%3A%3AAID-SCE3%3E3.0.CO%3B2-H" target="_blank" rel="noopener noreferrer nofollow">https://scite.ai/reports/10.1002/%28SICI%291098-237X%28199606%2980%3A3%3C317%3A%3AAID-SCE3%3E3.0.CO%3B2-H</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract: A key principle of the Conceptual Change Model is that before learners can consider the plausibility or fruitfulness of a new c...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: [https://educationendowmentfoundation.org.uk/news/eef-blog-ecf-exploring-the-evidence-prior-knowledge-and-pupil-misconceptions](https://educationendowmentfoundation.org.uk/news/eef-blog-ecf-exploring-the-evidence-prior-knowledge-and-pupil-misconceptions)  
+   Link: <a href="https://educationendowmentfoundation.org.uk/news/eef-blog-ecf-exploring-the-evidence-prior-knowledge-and-pupil-misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-ecf-exploring-the-evidence-prior-knowledge-and-pupil-misconceptions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>elop misconceptions, particularly if new ideas are introduced too quickly.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: my.chartered.college  
-   Link: [https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-[analogies](https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-[analogies)  
+   Link: <a href="https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-[analogies" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-[analogies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeMisconceptions, p-prims and bridging analogies in Physics...by G Jones — Misconceptions research has been of great net...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/education-career/k12/misconceptions](https://www.apa.org/education-career/k12/misconceptions)  
+   Link: <a href="https://www.apa.org/education-career/k12/misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/education-career/k12/misconceptions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s (content knowledge areas) and there is a common set of alternative conceptions...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/227102350_Conceptual_change_A_discussion_of_theoretical_methodological_and_practical_challenges_for_science_education](https://www.researchgate.net/publication/227102350_Conceptual_change_A_discussion_of_theoretical_methodological_and_practical_challenges_for_science_education)  
+   Link: <a href="https://www.researchgate.net/publication/227102350_Conceptual_change_A_discussion_of_theoretical_methodological_and_practical_challenges_for_science_education" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227102350_Conceptual_change_A_discussion_of_theoretical_methodological_and_practical_challenges_for_science_education</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n various other content domains, have played a significant role in research...</p></details>

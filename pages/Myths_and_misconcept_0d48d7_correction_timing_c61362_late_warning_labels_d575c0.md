@@ -9,25 +9,25 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_correction_timing_c61362_holding_corrections_00f9f1
 - Myths_and_misconcept_0d48d7_correction_timing_c61362_repetition_familiari_8b4976
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - timing
 - late-labels
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - timing
 - late-labels
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: Labels and context boxes can help, but they arrive too late if a false post has already done most of its travelling.
 hero_summary: Labels and context boxes can help, but they arrive too late if a false post has already done most of its travelling.
 layout: default
 permalink: /late-labels/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 - /timing/
 nav_short_title: Late labels
 title: Do warning labels arrive too late?
-title_full: Do warning labels arrive too late? | Timing
+title_full: Do warning labels arrive too late?
 display_title_short: Late labels
 display_title: Late labels
 heading_title: Do warning labels arrive too late?
@@ -202,27 +202,27 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Should a Myth Be Corrected? | Mythcraft
+parent_title: When Should a Myth Be Corrected?
 parent_permalink: /timing/
 parent_nav_short_title: Timing
 parent_heading_title: When Should a Myth Be Corrected?
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
@@ -249,7 +249,7 @@ sibling_links:
   heading_title: When should you correct before certainty?
 up_link:
   basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
@@ -259,7 +259,7 @@ prev_link:
   permalink: /holding-fixes/
   short_title: Holding fixes
   heading_title: When should you correct before certainty?
-date: '2026-06-09 04:24:44 '
+date: '2026-06-11 22:01:54 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_late_warning_labels_d575c0-Illustration-1-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_late_warning_labels_d575c0-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_late_
 
 [Warning labels]({{ 'warning-labels/' | relative_url }}) and context boxes can reduce the impact of misinformation, but they often arrive after the most important phase of a viral post's life cycle has already passed. By the time a platform adds a warning, a misleading claim may have accumulated millions of views, been copied into screenshots, reposted across networks, and embedded itself in public discussion. Research consistently finds that false information tends to spread faster than accurate information online, meaning that a delay of even hours or days can leave corrective measures chasing a story that has already travelled widely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">There is worldwide concern over false news and the possibility that it can influence political, economic, and...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_late_warning_labels_d575c0-Illustration-1-dark.svg" | relative_url }}" alt="Late labels illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_late_warning_labels_d575c0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_late_warning_labels_d575c0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean labels are useless. Evidence shows that warning labels can reduce belief in false claims and lower people's willingness to share them. The challenge is that viral spread is highly front-loaded: much of the sharing occurs early, while fact-checking, review processes, and platform moderation often take longer. The result is a [timing]({{ 'timing/' | relative_url }}) gap between the fastest spread and the arrival of corrective context. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://mitsloan.mit.edu/press/warning-labels-fact-checkers-work-even-if-you-dont-trust-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitsloan.mit.edu">[MIT Sloan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitsloan.mit.edu</span><span class="citation-popover-title">warning labels fact checkers work even if you dont trust them</span><span class="citation-popover-snippet">MIT SloanWarning labels from fact checkers work — even if you don&#x27;t...2 Sept 2024 — Fact-checker warning labels on social media can sign...</span></span></span>
 
@@ -280,10 +279,7 @@ In many cases, yes. [Platforms]({{ 'platforms/' | relative_url }}) typically nee
 
 The problem is not merely that people see the false claim first. Viral content often follows a steep curve: a large share of engagement occurs near the beginning of its circulation. If a misleading post gains momentum before intervention, a later label may reduce future sharing without undoing the exposure that has already occurred. Researchers studying online misinformation repeatedly note that the speed of diffusion matters because false stories frequently spread farther and faster than true ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">There is worldwide concern over false news and the possibility that it can influence political, economic, and...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
 
-Evidence from studies of community fact-checking systems illustrates this timing challenge. Research on X's [Community Notes]({{ 'community-notes/' | relative_url }}) found that notes can substantially reduce subsequent reposting once displayed, but the authors also highlighted that display timing is critical because much of a post's spread may happen before the note becomes visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureCommunity-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 2 — Here, we perform a large-scale empirical st...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0mBXYZyWMG8" title="Fighting Misinformation with Psychological Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0mBXYZyWMG8" target="_blank" rel="noopener noreferrer">Fighting Misinformation with Psychological Science</a></p><p class="youtube-embed-meta">Channel: American Psychological Association &middot; Views: 1.3K &middot; Uploaded: June 2022 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0mBXYZyWMG8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0mBXYZyWMG8">Open on YouTube</a></p></div></div></div>
+Evidence from studies of community fact-checking systems illustrates this timing challenge. Research on X's [Community Notes]({{ 'community-notes/' | relative_url }}) found that notes can substantially reduce subsequent reposting once displayed, but the authors also highlighted that display timing is critical because much of a post's spread may happen before the note becomes visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 2 — Here, we perform a large-scale empirical st...</span></span></span>
 
 ## What labels can and cannot change
 
@@ -294,8 +290,7 @@ They can:
 * Reduce the perceived credibility of misleading content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/334740447_Cleaning_Up_Social_Media_The_Effect_of_Warning_Labels_on_Likelihood_of_Sharing_False_News_on_Facebook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Cleaning Up Social Media: The Effect of Warning Labels...Research demonstrates that warning labels can reduce perceived credibility of m...</span></span></span>
 * Lower users' willingness to share flagged posts.
 * Decrease engagement with misinformation after the label appears.
-* Provide readers with additional context before they act on a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.yale.edu">[YaleNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.yale.edu</span><span class="citation-popover-title">News Flagging misinformation on social media reduces</span><span class="citation-popover-snippet">YaleNews25 Sept 2025 — Warning labels were more effective when they were attached to content from accounts that readers themselves didn&#x27;t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReview Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 164 — Recent evidence indicates that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/334740447_Cleaning_Up_Social_Media_The_Effect_of_Warning_Labels_on_Likelihood_of_Sharing_False_News_on_Facebook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Cleaning Up Social Media: The Effect of Warning Labels...Research demonstrates that warning labels can reduce perceived credibility of m...</span></span></span>, labels generally cannot:
-
+* Provide readers with additional context before they act on a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.yale.edu">[YaleNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.yale.edu</span><span class="citation-popover-title">News Flagging misinformation on social media reduces</span><span class="citation-popover-snippet">News25 Sept 2025 — Warning labels were more effective when they were attached to content from accounts that readers themselves didn&#x27;t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 164 — Recent evidence indicates that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/334740447_Cleaning_Up_Social_Media_The_Effect_of_Warning_Labels_on_Likelihood_of_Sharing_False_News_on_Facebook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Cleaning Up Social Media: The Effect of Warning Labels...Research demonstrates that warning labels can reduce perceived credibility of m...</span></span></span>, labels generally cannot:
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -308,8 +303,7 @@ They can:
 
 This distinction matters because misinformation is not only about belief. A false post that gains millions of views before being labelled may already have shaped conversations, influenced searches, prompted [media coverage]({{ 'media-coverage/' | relative_url }}), or encouraged further sharing. Even if later viewers encounter a warning, the original exposure has already occurred.
 
-Researchers reviewing warning-label studies generally conclude that labels work, but that their effects are moderate and should not be treated as a complete solution. More aggressive interventions, such as reducing distribution or removing especially harmful content, may sometimes produce larger reductions in exposure because they address reach rather than merely perception. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9584817/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombining interventions to reduce the spread of viral</span><span class="citation-popover-snippet">PMCby JB Bak-Coleman · 2022 · Cited by 220 — A combination of interventions, such as fact-checking, nudging and account suspension, can h...</span></span></span>
-
+Researchers reviewing warning-label studies generally conclude that labels work, but that their effects are moderate and should not be treated as a complete solution. More aggressive interventions, such as reducing distribution or removing especially harmful content, may sometimes produce larger reductions in exposure because they address reach rather than merely perception. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9584817/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombining interventions to reduce the spread of viral</span><span class="citation-popover-snippet">by JB Bak-Coleman · 2022 · Cited by 220 — A combination of interventions, such as fact-checking, nudging and account suspension, can h...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_late_warning_labels_d575c0-Illustration-2-dark.svg" | relative_url }}" alt="Late labels illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_late_warning_labels_d575c0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_late_warning_labels_d575c0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why timing affects sharing more than belief alone
@@ -320,17 +314,13 @@ When people first encounter a novel claim, they decide whether to click, react, 
 
 This helps explain why researchers often distinguish between reducing belief and reducing circulation. Studies show that warning labels can achieve both, but circulation is especially sensitive to timing because online networks amplify content rapidly. Once a post has entered multiple communities, each new viewer may encounter it through friends, influencers, news coverage, or copied versions rather than through the original labelled post. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cepr.org">[CEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cepr.org</span><span class="citation-popover-snippet">combat the spread of misinformation, but critics have argued that it...</span></span></span>
 
-There is also a psychological issue. People frequently remember the claim itself more easily than the circumstances under which they encountered it. Reviews of misinformation research describe how corrected information can continue to influence reasoning, a phenomenon often called the [continued influence]({{ 'old-stories/' | relative_url }}) effect. If a warning arrives after repeated exposure, the correction is competing against a claim that may already feel familiar. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchbriefings.files.parliament.uk">[Research Briefings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchbriefings.files.parliament.uk</span><span class="citation-popover-title">Research Briefings Disinformation: sources, spread and impact</span><span class="citation-popover-snippet">Research BriefingsDisinformation: sources, spread and impactApril 26, 2024 — 25 Apr 2024 — and 2024 study158 concluded that fact-checked...</span><span class="citation-popover-meta">Published: April 26, 2024</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cSKGa_7XJkg" title="How false news can spread - Noah Tavlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer">How false news can spread - Noah Tavlin</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cSKGa_7XJkg">Open on YouTube</a></p></div></div></div>
+There is also a psychological issue. People frequently remember the claim itself more easily than the circumstances under which they encountered it. Reviews of misinformation research describe how corrected information can continue to influence reasoning, a phenomenon often called the continued influence effect. If a warning arrives after repeated exposure, the [correction]({{ 'correction/' | relative_url }}) is competing against a claim that may already feel familiar. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchbriefings.files.parliament.uk">[Research Briefings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchbriefings.files.parliament.uk</span><span class="citation-popover-title">Research Briefings Disinformation: sources, spread and impact</span><span class="citation-popover-snippet">Research BriefingsDisinformation: sources, spread and impactApril 26, 2024 — 25 Apr 2024 — and 2024 study158 concluded that fact-checked...</span><span class="citation-popover-meta">Published: April 26, 2024</span></span></span>
 
 ## The problem of copied and transformed content
 
 Another reason late labels miss the fastest spread is that viral content rarely remains confined to a single post.
 
 A misleading claim may quickly appear as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -343,28 +333,26 @@ A misleading claim may quickly appear as:
 
 A label attached to one post does not automatically follow every derivative version. By the time a platform identifies and labels the original content, users may already be circulating numerous variations. This creates a moving-target problem for moderation systems and fact-checkers.
 
-Researchers examining misinformation interventions have repeatedly noted that warning labels are most effective when coverage is broad and visible. Limited coverage means that some users encounter the correction while others encounter unlabelled versions of the same narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReview Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 164 — Recent evidence indicates that...</span></span></span>
+Researchers examining misinformation interventions have repeatedly noted that warning labels are most effective when coverage is broad and visible. Limited coverage means that some users encounter the correction while others encounter unlabelled versions of the same narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 164 — Recent evidence indicates that...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0mBXYZyWMG8" title="Fighting Misinformation with Psychological Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0mBXYZyWMG8" target="_blank" rel="noopener noreferrer">Fighting Misinformation with Psychological Science</a></p><p class="youtube-embed-meta">Channel: American Psychological Association &middot; Views: 1.3K &middot; Uploaded: June 2022 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0mBXYZyWMG8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0mBXYZyWMG8">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_late_warning_labels_d575c0-Illustration-3-dark.svg" | relative_url }}" alt="Late labels illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_late_warning_labels_d575c0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_late_warning_labels_d575c0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How platform labels fit with expert correction
 
 The limitations of late labels do not mean platforms should abandon them. Instead, the evidence suggests that labels work best as one part of a broader correction strategy.
 
-Fact-checking labels reduce belief in misinformation and discourage sharing across many studies. Even people who express low trust in fact-checkers often show measurable reductions in sharing behaviour when warnings are present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mitsloan.mit.edu/press/warning-labels-fact-checkers-work-even-if-you-dont-trust-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitsloan.mit.edu">[MIT Sloan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitsloan.mit.edu</span><span class="citation-popover-title">warning labels fact checkers work even if you dont trust them</span><span class="citation-popover-snippet">MIT SloanWarning labels from fact checkers work — even if you don&#x27;t...2 Sept 2024 — Fact-checker warning labels on social media can sign...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2026/1/e95730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">JMIRAs Social Media Scales Back Fact-Checking, Can...by W Glauser · 2026 — Fact-checking labels reduced belief in false information by n...</span></span></span>
+Fact-checking labels reduce belief in misinformation and discourage sharing across many studies. Even people who express low trust in fact-checkers often show measurable reductions in sharing behaviour when warnings are present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mitsloan.mit.edu/press/warning-labels-fact-checkers-work-even-if-you-dont-trust-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitsloan.mit.edu">[MIT Sloan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitsloan.mit.edu</span><span class="citation-popover-title">warning labels fact checkers work even if you dont trust them</span><span class="citation-popover-snippet">MIT SloanWarning labels from fact checkers work — even if you don&#x27;t...2 Sept 2024 — Fact-checker warning labels on social media can sign...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2026/1/e95730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">As Social Media Scales Back Fact-Checking, Can...by W Glauser · 2026 — Fact-checking labels reduced belief in false information by n...</span></span></span>
 
 The strongest approaches typically combine multiple layers of intervention:
 
 * Early identification of rapidly spreading claims.
-* Visible warning labels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReview Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 164 — Recent evidence indicates that...</span></span></span>
+* Visible warning labels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 164 — Recent evidence indicates that...</span></span></span>
 * Links to verified information.
 * Algorithmic reduction of misleading content's reach.
-* Community or expert fact-checking systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureCommunity-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 2 — Here, we perform a large-scale empirical st...</span></span></span>
-* Media-literacy efforts that help users recognise misleading material before it spreads. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9584817/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombining interventions to reduce the spread of viral</span><span class="citation-popover-snippet">PMCby JB Bak-Coleman · 2022 · Cited by 220 — A combination of interventions, such as fact-checking, nudging and account suspension, can h...</span></span></span> ScienceDirect From the perspective of correcting myths and misconceptions <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[science.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">There is worldwide concern over false news and the possibility that it can influence political, economic, and...Read more...</span></span></span>, warning labels are most valuable when they appear before a false claim becomes deeply embedded in online networks. Once the fastest phase of diffusion has passed, labels can still reduce additional harm, but they are no longer intercepting the moment when the myth is spreading most rapidly. That timing gap is why platforms continue to face the same fundamental challenge: effective correction is not only about accuracy, but also about speed. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">There is worldwide concern over false news and the possibility that it can influence political, economic, and...Read more...</span></span></span>
+* Community or expert fact-checking systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 2 — Here, we perform a large-scale empirical st...</span></span></span>
+* Media-literacy efforts that help users recognise misleading material before it spreads. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9584817/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombining interventions to reduce the spread of viral</span><span class="citation-popover-snippet">by JB Bak-Coleman · 2022 · Cited by 220 — A combination of interventions, such as fact-checking, nudging and account suspension, can h...</span></span></span> ScienceDirect From the perspective of correcting myths and misconceptions <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[science.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">There is worldwide concern over false news and the possibility that it can influence political, economic, and...Read more...</span></span></span>, warning labels are most valuable when they appear before a false claim becomes deeply embedded in online networks. Once the fastest phase of diffusion has passed, labels can still reduce additional harm, but they are no longer intercepting the moment when the myth is spreading most rapidly. That timing gap is why platforms continue to face the same fundamental challenge: effective correction is not only about accuracy, but also about speed. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">There is worldwide concern over false news and the possibility that it can influence political, economic, and...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HxflESI4JfE" title="Understanding and Reducing the Spread of Misinformation Online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HxflESI4JfE" target="_blank" rel="noopener noreferrer">Understanding and Reducing the Spread of Misinformation Online</a></p><p class="youtube-embed-meta">Channel: Behavior Change For Good Initiative</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HxflESI4JfE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HxflESI4JfE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_late_warning_labels_d575c0-Illustration-3-dark.svg" | relative_url }}" alt="Late labels illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_late_warning_labels_d575c0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_late_warning_labels_d575c0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -483,15 +471,15 @@ The strongest approaches typically combine multiple layers of intervention:
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE NEWSROOM CAST SIGNED X2 AUTOGRAPHED 12X18 PHOTO POSTER MORTIMER GALLAGHER"><img src="{{ '/assets/images/marketplace-covers/38acb9564eabf2ba93df.jpg' | relative_url }}" alt="Listing image for THE NEWSROOM CAST SIGNED X2 AUTOGRAPHED 12X18 PHOTO POSTER MORTIMER GALLAGHER" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-warning-labels-arrive-too-late-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="do-warning-labels-arrive-too-late-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TITIKEI by IshiKei Paperback Self Help Business"><img src="https://i.ebayimg.com/images/g/X5YAAeSw~F1qEbNR/s-l225.jpg" alt="Listing image for TITIKEI by IshiKei Paperback Self Help Business" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer">THE NEWSROOM CAST SIGNED X2 AUTOGRAPHED 12X18 PHOTO POSTER MORTIMER GALLAGHER</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-warning-labels-arrive-too-late-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="do-warning-labels-arrive-too-late-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">TITIKEI by IshiKei Paperback Self Help Business</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for newsroom sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: newsroom sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-warning-labels-arrive-too-late-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="do-warning-labels-arrive-too-late-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-warning-labels-arrive-too-late-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="do-warning-labels-arrive-too-late-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,15 +487,15 @@ The strongest approaches typically combine multiple layers of intervention:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for JEFF DANIELS SIGNED THE NEWSROOM 12x18 POSTER PHOTO TV SERIES DUMB DUMBER BAS"><img src="{{ '/assets/images/marketplace-covers/7a756697fa7d0e39d9cf.jpg' | relative_url }}" alt="Listing image for JEFF DANIELS SIGNED THE NEWSROOM 12x18 POSTER PHOTO TV SERIES DUMB DUMBER BAS" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-warning-labels-arrive-too-late-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="do-warning-labels-arrive-too-late-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6"><img src="https://i.ebayimg.com/images/g/vkgAAeSwna5oZGvr/s-l225.jpg" alt="Listing image for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer">JEFF DANIELS SIGNED THE NEWSROOM 12x18 POSTER PHOTO TV SERIES DUMB DUMBER BAS</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-warning-labels-arrive-too-late-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="do-warning-labels-arrive-too-late-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for newsroom sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: newsroom sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-warning-labels-arrive-too-late-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="do-warning-labels-arrive-too-late-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-warning-labels-arrive-too-late-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="do-warning-labels-arrive-too-late-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,7 +503,7 @@ The strongest approaches typically combine multiple layers of intervention:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=newsroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="newsroom sign" data-ebay-reference="late-labels-do-warning-labels-arrive-too-late-myths-and-misconcept-newsroom-sign" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-warning-labels-arrive-too-late-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="do-warning-labels-arrive-too-late-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -730,132 +718,132 @@ The strongest approaches typically combine multiple layers of intervention:
 
 1. <a id="endnote-1"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.aap9559](https://www.science.org/doi/10.1126/science.aap9559)  
+   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>There is worldwide concern over false news and the possibility that it can influence political, economic, and...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: [https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308](https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308)  
+   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550](https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectReview Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 164 — Recent evidence indicates that...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 164 — Recent evidence indicates that...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: mitsloan.mit.edu  
    Title: warning labels fact checkers work even if you dont trust them  
-   Link: [https://mitsloan.mit.edu/press/warning-labels-fact-checkers-work-even-if-you-dont-trust-them](https://mitsloan.mit.edu/press/warning-labels-fact-checkers-work-even-if-you-dont-trust-them)  
+   Link: <a href="https://mitsloan.mit.edu/press/warning-labels-fact-checkers-work-even-if-you-dont-trust-them" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/press/warning-labels-fact-checkers-work-even-if-you-dont-trust-them</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT SloanWarning labels from fact checkers work — even if you don&#x27;t...2 Sept 2024 — Fact-checker warning labels on social media can sign...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: jmir.org  
-   Link: [https://www.jmir.org/2026/1/e95730](https://www.jmir.org/2026/1/e95730)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JMIRAs Social Media Scales Back Fact-Checking, Can...by W Glauser · 2026 — Fact-checking labels reduced belief in false information by n...</p></details>
+   Link: <a href="https://www.jmir.org/2026/1/e95730" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2026/1/e95730</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>As Social Media Scales Back Fact-Checking, Can...by W Glauser · 2026 — Fact-checking labels reduced belief in false information by n...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41467-026-72597-0](https://www.nature.com/articles/s41467-026-72597-0)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureCommunity-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 2 — Here, we perform a large-scale empirical st...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 2 — Here, we perform a large-scale empirical st...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/334740447_Cleaning_Up_Social_Media_The_Effect_of_Warning_Labels_on_Likelihood_of_Sharing_False_News_on_Facebook](https://www.researchgate.net/publication/334740447_Cleaning_Up_Social_Media_The_Effect_of_Warning_Labels_on_Likelihood_of_Sharing_False_News_on_Facebook)  
+   Link: <a href="https://www.researchgate.net/publication/334740447_Cleaning_Up_Social_Media_The_Effect_of_Warning_Labels_on_Likelihood_of_Sharing_False_News_on_Facebook" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334740447_Cleaning_Up_Social_Media_The_Effect_of_Warning_Labels_on_Likelihood_of_Sharing_False_News_on_Facebook</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cleaning Up Social Media: The Effect of Warning Labels...Research demonstrates that warning labels can reduce perceived credibility of m...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the...</p></details>
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCombining interventions to reduce the spread of viral  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9584817/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9584817/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby JB Bak-Coleman · 2022 · Cited by 220 — A combination of interventions, such as fact-checking, nudging and account suspension, can h...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9584817/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9584817/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JB Bak-Coleman · 2022 · Cited by 220 — A combination of interventions, such as fact-checking, nudging and account suspension, can h...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cepr.org  
-   Link: [https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it](https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it)  
+   Link: <a href="https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>combat the spread of misinformation, but critics have argued that it...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S004727272500043X](https://www.sciencedirect.com/science/article/pii/S004727272500043X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 21 — We conduct a randomized survey experiment to...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: news.yale.edu  
    Title: News Flagging misinformation on social media reduces  
-   Link: [https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds](https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>YaleNews25 Sept 2025 — Warning labels were more effective when they were attached to content from accounts that readers themselves didn&#x27;t...</p></details>
+   Link: <a href="https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>News25 Sept 2025 — Warning labels were more effective when they were attached to content from accounts that readers themselves didn&#x27;t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchbriefings.files.parliament.uk  
    Title: Research Briefings Disinformation: sources, spread and impact  
-   Link: [https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf](https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf)  
+   Link: <a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research BriefingsDisinformation: sources, spread and impactApril 26, 2024 — 25 Apr 2024 — and 2024 study158 concluded that fact-checked...</p></details>
    Published: April 26, 2024  
 
 15. <a id="endnote-15"></a>
    Source: ebm.bmj.com  
-   Link: [https://ebm.bmj.com/content/30/6/420](https://ebm.bmj.com/content/30/6/420)  
+   Link: <a href="https://ebm.bmj.com/content/30/6/420" target="_blank" rel="noopener noreferrer nofollow">https://ebm.bmj.com/content/30/6/420</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJ Evidence-Based MedicineAddressing misleading medical information on social mediaby EG Gram · 2025 · Cited by 9 — Researchers have sug...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: sinanaral.medium.com  
-   Link: [https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8](https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8)  
+   Link: <a href="https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8" target="_blank" rel="noopener noreferrer nofollow">https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>News about our Fake News Study Spread Faster than its...That study everyone cited with righteous glee, that misinformation spreads faste...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: [https://misinforeview.hks.harvard.edu/article/journalistic-interventions-matter-understanding-how-americans-perceive-fact-checking-labels/](https://misinforeview.hks.harvard.edu/article/journalistic-interventions-matter-understanding-how-americans-perceive-fact-checking-labels/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/journalistic-interventions-matter-understanding-how-americans-perceive-fact-checking-labels/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/journalistic-interventions-matter-understanding-how-americans-perceive-fact-checking-labels/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewUnderstanding how Americans perceive fact-checking labelsby C Jia · 2024 · Cited by 15 — We found that US adults eva...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cci.utk.edu  
-   Link: [https://cci.utk.edu/ric/2025/04/28/public-support-for-fact-checking-on-social-media-remains-strong-despite-metas-policy-change/](https://cci.utk.edu/ric/2025/04/28/public-support-for-fact-checking-on-social-media-remains-strong-despite-metas-policy-change/)  
+   Link: <a href="https://cci.utk.edu/ric/2025/04/28/public-support-for-fact-checking-on-social-media-remains-strong-despite-metas-policy-change/" target="_blank" rel="noopener noreferrer nofollow">https://cci.utk.edu/ric/2025/04/28/public-support-for-fact-checking-on-social-media-remains-strong-despite-metas-policy-change/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Support for Fact-Checking on Social Media Remains...Apr 28, 2025 — For example, prior research has demonstrated that content warning lab...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9188446/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9188446/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9188446/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9188446/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation by Sharing the Truth: a Study on...by J Li · 2022 · Cited by 105 — This research studies how different factors may affect...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9758464/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9758464/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9758464/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9758464/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>news reminders and veracity labels differentially benefit...by PL Kemp · 2022 · Cited by 24 — Reminders promoted the best [memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;) and bel...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: state media warning labels can counteract the effects of foreign misinformation  
-   Link: [https://misinforeview.hks.harvard.edu/article/state-media-warning-labels-can-counteract-the-effects-of-foreign-misinformation/](https://misinforeview.hks.harvard.edu/article/state-media-warning-labels-can-counteract-the-effects-of-foreign-misinformation/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/state-media-warning-labels-can-counteract-the-effects-of-foreign-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/state-media-warning-labels-can-counteract-the-effects-of-foreign-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>media warning labels can counteract the effects of...by J Nassetta · 2020 · Cited by 70 — We show that these labels have the ability to...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0mBXYZyWMG8](https://www.youtube.com/watch?v=0mBXYZyWMG8)  
+   Link: <a href="https://www.youtube.com/watch?v=0mBXYZyWMG8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mBXYZyWMG8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fighting Misinformation with Psychological ScienceStopping the spread of misinformation, with Sander van der Linden, PhD | Speaking of Ps...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: [https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide](https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide)  
+   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pbs.org  
    Title: false news travels 6 times faster on twitter than truthful news  
-   Link: [https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news](https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news)  
+   Link: <a href="https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2018 — False news -- inaccurate information presented as truth or opinion presented as fact -- is 70 percent more likely to be retw...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ualresearchonline.arts.ac.uk  
    Title: MISDOOM paper Gruzd Mai Soares accepted  
-   Link: [https://ualresearchonline.arts.ac.uk/id/eprint/22522/1/MISDOOM_paper_Gruzd_Mai_Soares_accepted.pdf](https://ualresearchonline.arts.ac.uk/id/eprint/22522/1/MISDOOM_paper_Gruzd_Mai_Soares_accepted.pdf)  
+   Link: <a href="https://ualresearchonline.arts.ac.uk/id/eprint/22522/1/MISDOOM_paper_Gruzd_Mai_Soares_accepted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ualresearchonline.arts.ac.uk/id/eprint/22522/1/MISDOOM_paper_Gruzd_Mai_Soares_accepted.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Can warning labels on social media posts reduce the spread of misin- formation online? This paper presents the results of an empirical st...</p></details>

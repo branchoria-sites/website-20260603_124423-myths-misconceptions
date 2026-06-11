@@ -50,22 +50,22 @@ sibling_basenames:
 - Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
 - Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 tags:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - old-stories
 keywords:
-- myths-and-misconcept
+- myths-and-misconcept-0-d48-d7
 - old-stories
-affiliate_category: myths-and-misconcept
+affiliate_category: myths-and-misconcept-0-d48-d7
 show_ads: true
 description: A myth can keep shaping judgement after correction when the debunking removes a story without replacing it.
 hero_summary: A myth can keep shaping judgement after correction when the debunking removes a story without replacing it.
 layout: default
 permalink: /old-stories/
 sidebar_expanded_urls:
-- /myths-and-misconceptions/
+- /myths-and-misconcept-0-d48-d7/
 nav_short_title: Old Stories
 title: Why Corrected Myths Still Linger
-title_full: Why Corrected Myths Still Linger | Mythcraft
+title_full: Why Corrected Myths Still Linger
 display_title_short: Old Stories
 display_title: Old Stories
 heading_title: Why Corrected Myths Still Linger
@@ -241,211 +241,211 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 parent_title: Mythcraft
-parent_permalink: /myths-and-misconceptions/
+parent_permalink: /myths-and-misconcept-0-d48-d7/
 parent_nav_short_title: Mythcraft
 ancestor_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 breadcrumb_links:
 - basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 sibling_links:
 - basename: Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9
-  title: 10 Brain | Myths and misconcept
+  title: 10 Brain | Myths and misconcept 0 d48 d7
   permalink: /10-brain/
   short_title: 10 Brain
   heading_title: Why the 10 Percent Brain Myth Endures
 - basename: Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b
-  title: Algorithms | Myths and misconcept
+  title: Algorithms | Myths and misconcept 0 d48 d7
   permalink: /algorithms/
   short_title: Algorithms
   heading_title: How Platforms Help Myths Travel Faster
 - basename: Myths_and_misconcept_0d48d7_misleading_analogies_a297a0
-  title: Analogies | Myths and misconcept
+  title: Analogies | Myths and misconcept 0 d48 d7
   permalink: /analogies/
   short_title: Analogies
   heading_title: When Helpful Analogies Teach the Wrong Lesson
 - basename: Myths_and_misconcept_0d48d7_personal_experience_bd112b
-  title: Anecdotes | Myths and misconcept
+  title: Anecdotes | Myths and misconcept 0 d48 d7
   permalink: /anecdotes/
   short_title: Anecdotes
   heading_title: When Personal Experience Becomes a Myth
 - basename: Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9
-  title: Backfire | Myths and misconcept
+  title: Backfire | Myths and misconcept 0 d48 d7
   permalink: /backfire/
   short_title: Backfire
   heading_title: Does Debunking Really Make Myths Stronger?
 - basename: Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d
-  title: Campaigns | Myths and misconcept
+  title: Campaigns | Myths and misconcept 0 d48 d7
   permalink: /campaigns/
   short_title: Campaigns
   heading_title: When Falsehoods Are Spread on Purpose
 - basename: Myths_and_misconcept_0d48d7_commercial_professio_dd3a05
-  title: Commercial Myths | Myths and misconcept
+  title: Commercial Myths | Myths and misconcept 0 d48 d7
   permalink: /commercial-myths/
   short_title: Commercial Myths
   heading_title: When Myths Come in Professional Packaging
 - basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
-  title: Common Sense | Myths and misconcept
+  title: Common Sense | Myths and misconcept 0 d48 d7
   permalink: /common-sense/
   short_title: Common Sense
   heading_title: When Common Sense Leads US Wrong
 - basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
-  title: Concept Change | Myths and misconcept
+  title: Concept Change | Myths and misconcept 0 d48 d7
   permalink: /concept-change/
   short_title: Concept Change
   heading_title: How Learners Replace Wrong Ideas
 - basename: Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a
-  title: Debunking | Myths and misconcept
+  title: Debunking | Myths and misconcept 0 d48 d7
   permalink: /debunking/
   short_title: Debunking
   heading_title: The Three Parts of a Better Debunk
 - basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
-  title: Expert Trust | Myths and misconcept
+  title: Expert Trust | Myths and misconcept 0 d48 d7
   permalink: /expert-trust/
   short_title: Expert Trust
   heading_title: When Expert Trust Carries Bad Claims
 - basename: Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32
-  title: Fact Checks | Myths and misconcept
+  title: Fact Checks | Myths and misconcept 0 d48 d7
   permalink: /fact-checks/
   short_title: Fact Checks
   heading_title: Why Fact Checking Is Not Enough
 - basename: Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d
-  title: Falling Objects | Myths and misconcept
+  title: Falling Objects | Myths and misconcept 0 d48 d7
   permalink: /falling-objects/
   short_title: Falling Objects
   heading_title: Why Common Sense Gets Falling Objects Wrong
 - basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
-  title: False Balance | Myths and misconcept
+  title: False Balance | Myths and misconcept 0 d48 d7
   permalink: /false-balance/
   short_title: False Balance
   heading_title: When Both Sides Framing Misleads Readers
 - basename: Myths_and_misconcept_0d48d7_misinformation_disin_12ff83
-  title: False Info | Myths and misconcept
+  title: False Info | Myths and misconcept 0 d48 d7
   permalink: /false-info/
   short_title: False Info
   heading_title: 'Misinformation or Disinformation: Why Intent Matters'
 - basename: Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535
-  title: Familiarity | Myths and misconcept
+  title: Familiarity | Myths and misconcept 0 d48 d7
   permalink: /familiarity/
   short_title: Familiarity
   heading_title: Why Repetition Makes Claims Feel True
 - basename: Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7
-  title: Health Claims | Myths and misconcept
+  title: Health Claims | Myths and misconcept 0 d48 d7
   permalink: /health-claims/
   short_title: Health Claims
   heading_title: Why Helpful Health Advice Can Be Wrong
 - basename: Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4
-  title: Identity | Myths and misconcept
+  title: Identity | Myths and misconcept 0 d48 d7
   permalink: /identity/
   short_title: Identity
   heading_title: Why Trusted People Make Myths Stick
 - basename: Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1
-  title: Influencers | Myths and misconcept
+  title: Influencers | Myths and misconcept 0 d48 d7
   permalink: /influencers/
   short_title: Influencers
   heading_title: When Authority Shortcuts Spread Myths
 - basename: Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d
-  title: Key Terms | Myths and misconcept
+  title: Key Terms | Myths and misconcept 0 d48 d7
   permalink: /key-terms/
   short_title: Key Terms
   heading_title: 'Myth or Misconception: What Is the Difference?'
 - basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
-  title: Learning Styles | Myths and misconcept
+  title: Learning Styles | Myths and misconcept 0 d48 d7
   permalink: /learning-styles/
   short_title: Learning Styles
   heading_title: Do Learning Styles Really Improve Learning?
 - basename: Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870
-  title: Left Brain | Myths and misconcept
+  title: Left Brain | Myths and misconcept 0 d48 d7
   permalink: /left-brain/
   short_title: Left Brain
   heading_title: Are People Really Left Brain or Right Brain?
 - basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
-  title: Media Literacy | Myths and misconcept
+  title: Media Literacy | Myths and misconcept 0 d48 d7
   permalink: /media-literacy/
   short_title: Media Literacy
   heading_title: How Media Literacy Prevents Myths
 - basename: Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2
-  title: Memory | Myths and misconcept
+  title: Memory | Myths and misconcept 0 d48 d7
   permalink: /memory/
   short_title: Memory
   heading_title: Why Memory Is Not a Video Recording
 - basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
-  title: Mental Models | Myths and misconcept
+  title: Mental Models | Myths and misconcept 0 d48 d7
   permalink: /mental-models/
   short_title: Mental Models
   heading_title: Why Wrong Ideas Can Feel Coherent
 - basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 - basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
 - basename: Myths_and_misconcept_0d48d7_political_myth_resis_f90f95
-  title: Politics | Myths and misconcept
+  title: Politics | Myths and misconcept 0 d48 d7
   permalink: /politics/
   short_title: Politics
   heading_title: Why Political Myths Resist Correction
 - basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
-  title: Prebunking | Myths and misconcept
+  title: Prebunking | Myths and misconcept 0 d48 d7
   permalink: /prebunking/
   short_title: Prebunking
   heading_title: Can You Protect People Before Myths Spread?
 - basename: Myths_and_misconcept_0d48d7_replacement_stories_587456
-  title: Rumour Gaps | Myths and misconcept
+  title: Rumour Gaps | Myths and misconcept 0 d48 d7
   permalink: /rumour-gaps/
   short_title: Rumour Gaps
   heading_title: Why Debunks Need a Better Story
 - basename: Myths_and_misconcept_0d48d7_sciencey_language_94b7a1
-  title: Sciencey Words | Myths and misconcept
+  title: Sciencey Words | Myths and misconcept 0 d48 d7
   permalink: /sciencey-words/
   short_title: Sciencey Words
   heading_title: Why Sciencey Language Makes Myths Persuasive
 - basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
-  title: Slogans | Myths and misconcept
+  title: Slogans | Myths and misconcept 0 d48 d7
   permalink: /slogans/
   short_title: Slogans
   heading_title: Why Myths Beat Nuance in a Sentence
 - basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
-  title: Study Practice | Myths and misconcept
+  title: Study Practice | Myths and misconcept 0 d48 d7
   permalink: /study-practice/
   short_title: Study Practice
   heading_title: What Helps Learning More Than Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb
-  title: Teacher Belief | Myths and misconcept
+  title: Teacher Belief | Myths and misconcept 0 d48 d7
   permalink: /teacher-belief/
   short_title: Teacher Belief
   heading_title: How Common Is Belief in Learning Styles?
 - basename: Myths_and_misconcept_0d48d7_education_myth_corre_425e93
-  title: Teacher Corrections | Myths and misconcept
+  title: Teacher Corrections | Myths and misconcept 0 d48 d7
   permalink: /teacher-corrections/
   short_title: Teacher Corrections
   heading_title: Can Teacher Training Reduce Education Myths?
 - basename: Myths_and_misconcept_0d48d7_correction_timing_c61362
-  title: Timing | Myths and misconcept
+  title: Timing | Myths and misconcept 0 d48 d7
   permalink: /timing/
   short_title: Timing
   heading_title: When Should a Myth Be Corrected?
 - basename: Myths_and_misconcept_0d48d7_condescending_correc_7062df
-  title: Tone | Myths and misconcept
+  title: Tone | Myths and misconcept 0 d48 d7
   permalink: /tone/
   short_title: Tone
   heading_title: Why Shaming People Makes Corrections Harder
 - basename: Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b
-  title: Uncertainty | Myths and misconcept
+  title: Uncertainty | Myths and misconcept 0 d48 d7
   permalink: /uncertainty/
   short_title: Uncertainty
   heading_title: Why Uncertainty Makes Myths Appealing
 - basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
-  title: Vaccines | Myths and misconcept
+  title: Vaccines | Myths and misconcept 0 d48 d7
   permalink: /vaccines/
   short_title: Vaccines
   heading_title: What the Vaccine Autism Myth Teaches Debunkers
@@ -478,21 +478,21 @@ child_links:
 up_link:
   basename: Myths_and_misconcept_0d48d7
   title: Mythcraft
-  permalink: /myths-and-misconceptions/
+  permalink: /myths-and-misconcept-0-d48-d7/
   short_title: Mythcraft
 prev_link:
   basename: Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d
-  title: Neuromyths | Myths and misconcept
+  title: Neuromyths | Myths and misconcept 0 d48 d7
   permalink: /neuromyths/
   short_title: Neuromyths
   heading_title: Why Brain Myths Spread in Schools
 next_link:
   basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
-  title: Platform Design | Myths and misconcept
+  title: Platform Design | Myths and misconcept 0 d48 d7
   permalink: /platform-design/
   short_title: Platform Design
   heading_title: Can Platform Design Slow Myths Down?
-date: '2026-06-09 04:03:42 '
+date: '2026-06-11 21:50:32 '
 header:
   og_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-overview-social.jpg
   preview_image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-overview.webp
@@ -503,20 +503,17 @@ image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-ove
 
 Corrected myths can linger because a [correction]({{ 'correction/' | relative_url }}) often removes a claim without repairing the story that claim helped people build. This is the continued influence effect: discredited information keeps shaping [memory]({{ 'memory/' | relative_url }}), judgement or explanation even when people remember that it was corrected. It matters because many myths are not stored as isolated facts. They become part of a causal account — why a fire spread, why a person acted, why a policy failed, why a health scare sounded plausible. When the false piece is pulled out, the mind still needs a workable account of what happened. If no better account is supplied, the old story can quietly return as the easiest explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span>
 
-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-overview.webp" | relative_url }}" alt="Overview image for Old Stories" loading="eager" decoding="sync" fetchpriority="high">
 The central lesson is not that [corrections]({{ 'corrections/' | relative_url }}) are useless. The evidence is more precise: corrections usually help, but they often do not fully erase the influence of the original misinformation. The most useful corrections therefore do two jobs at once. They clearly mark the myth as false, and they give people a simple, credible replacement explanation to use instead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analytic Examination of the Continued Influence...by N Walter · 2020 · Cited by 649 — A meta-analysis was conducted...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-Illustration-3-dark.svg" | relative_url }}" alt="Old Stories illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the effect means
 
-The continued influence effect is the tendency for retracted or corrected information to keep affecting later reasoning. A person may say, sincerely, “I know that claim was wrong,” yet still answer later questions as though the claim explained the event. The effect is especially visible when misinformation supplies a cause. If a false report says a warehouse fire was intensified by paint and gas canisters, and a later report says the cupboard was actually empty, people may still refer to the canisters when explaining the severity of the fire. The correction is remembered, but the earlier cause remains useful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReview Effective correction of misinformationby T Prike · 2023 · Cited by 79 — However, recent studies from our lab have fou...</span></span></span>
+The continued influence effect is the tendency for retracted or corrected information to keep affecting later reasoning. A person may say, sincerely, “I know that claim was wrong,” yet still answer later questions as though the claim explained the event. The effect is especially visible when misinformation supplies a cause. If a false report says a warehouse fire was intensified by paint and gas canisters, and a later report says the cupboard was actually empty, people may still refer to the canisters when explaining the severity of the fire. The correction is remembered, but the earlier cause remains useful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Effective correction of misinformationby T Prike · 2023 · Cited by 79 — However, recent studies from our lab have fou...</span></span></span>
 
-This is different from simple ignorance. In many experiments, participants do not merely fail to notice the correction. They can often identify that a retraction occurred, yet still draw inferences from the retracted information. That makes the effect awkward for communicators: the problem is not always that the audience never heard the correction, distrusted it, or forgot it entirely. Sometimes the correction is available in memory but loses the contest against a more complete story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/MC.38.8.1087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerExplicit warnings reduce but do not eliminate the continued...by UKH Ecker · 2010 · Cited by 741 — The present study investigate...</span></span></span>
+This is different from simple ignorance. In many experiments, participants do not merely fail to notice the correction. They can often identify that a retraction occurred, yet still draw inferences from the retracted information. That makes the effect awkward for communicators: the problem is not always that the audience never heard the correction, distrusted it, or forgot it entirely. Sometimes the correction is available in memory but loses the contest against a more complete story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/MC.38.8.1087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Explicit warnings reduce but do not eliminate the continued...by UKH Ecker · 2010 · Cited by 741 — The present study investigate...</span></span></span>
 
 A meta-analysis by Nathan Walter and Riva Tukachinsky found that corrections reduce misinformation’s impact, but do not entirely eliminate it across the studies reviewed. This is the practical middle ground often missed in public discussion. [Debunking]({{ 'debunking/' | relative_url }}) is neither magically cleansing nor usually self-defeating. It is partial repair. The myth’s influence weakens, but traces can remain in the way people explain, judge and remember. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analytic Examination of the Continued Influence...by N Walter · 2020 · Cited by 649 — A meta-analysis was conducted...</span></span></span>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-Illustration-1-dark.svg" | relative_url }}" alt="Old Stories illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why gaps invite the old story back
@@ -529,7 +526,6 @@ The classic warehouse-fire example shows the mechanism clearly. If people hear t
 
 This is why “myth versus fact” formats can underperform when they stop at negation. A correction that says “No, the passengers were not elderly people” is weaker than one that says “No, they were not elderly people; they were college hockey players returning from a victory party.” The second version does more than deny the false claim. It supplies a replacement that can explain later inferences about noise, behaviour, injuries or alcohol. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: classes.cs.uchicago.edu">[classes.cs.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">classes.cs.uchicago.edu</span><span class="citation-popover-title">Ecker2010 Article ExplicitWarningsReduceButDoNot</span><span class="citation-popover-snippet">Ecker2010 Article ExplicitWarningsReduceButDoNot</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eZ_hcf01EFw" title="The Continued Influence Effect - Why do memories of misinformation persist in our minds?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer">The Continued Influence Effect - Why do memories of misinformation persist in our minds?</a></p><p class="youtube-embed-meta">Channel: The Science Lens &middot; Views: 567 &middot; Uploaded: March 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eZ_hcf01EFw">Open on YouTube</a></p></div></div></div>
 
 ## Replacement explanations that work
@@ -541,15 +537,13 @@ A good replacement explanation usually has four features:
 * **It names the false claim clearly.** People need to know which idea is being corrected, especially when several similar claims are circulating.
 * **It states the correction directly.** Hedged or vague wording can leave the myth more fluent than the correction.
 * **It explains the source of the mistake when useful.** A correction can become more satisfying when it tells the reader why the false claim arose: a misread document, an early report, a misleading image, a rumour, a statistical confusion or a deliberate fabrication.
-* **It offers a usable alternative account.** The replacement should answer the same “why” or “what happened” question that made the myth attractive in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectReview Effective correction of misinformationby T Prike · 2023 · Cited by 79 — However, recent studies from our lab have fou...</span></span></span>
+* **It offers a usable alternative account.** The replacement should answer the same “why” or “what happened” question that made the myth attractive in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Effective correction of misinformationby T Prike · 2023 · Cited by 79 — However, recent studies from our lab have fou...</span></span></span>
 
 The alternative does not have to be elaborate. In fact, it often works best when it is simple enough to remember. If a health myth claims that a symptom is caused by one frightening ingredient, a correction that only says “there is no evidence for that” may leave the fear structure intact. A better correction explains the more likely causes, the actual risk level and why the misleading claim sounded plausible. The goal is not to bury the reader in detail, but to give them a new mental shortcut that is more accurate than the old one.
 
-This also explains why corrections from credible sources matter, but are not always enough. Warnings can reduce continued reliance on misinformation, yet research has found that explicit warnings do not necessarily eliminate the effect. Source credibility, prior beliefs and the coherence of the [replacement story]({{ 'better-story-524703/' | relative_url }}) all influence whether the correction becomes the new default explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">explicit warnings reduce but do not eliminate the continued influ</span><span class="citation-popover-snippet">explicit warnings reduce but do not eliminate the continued influ</span></span></span>
-
+This also explains why corrections from credible sources matter, but are not always enough. Warnings can reduce continued reliance on misinformation, yet research has found that explicit warnings do not necessarily eliminate the effect. Source credibility, prior beliefs and the coherence of the replacement story all influence whether the correction becomes the new default explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">explicit warnings reduce but do not eliminate the continued influ</span><span class="citation-popover-snippet">explicit warnings reduce but do not eliminate the continued influ</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H_dHJVH5hPU" title="The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020 )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer">The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020 )</a></p><p class="youtube-embed-meta">Channel: Complex Human Data Hub &middot; Views: 214 &middot; Uploaded: September 2020 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H_dHJVH5hPU">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-Illustration-2-dark.svg" | relative_url }}" alt="Old Stories illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The correction should rebuild the story, not just remove the myth
@@ -558,13 +552,11 @@ The continued influence effect changes what “successful debunking” means. A 
 
 This is why the best corrections often read less like a courtroom objection and more like a better account of events. They say, in effect: “Here is the claim you may have heard; here is why it is wrong; here is how the mistake arose; here is the explanation that better fits the evidence.” That structure gives the reader somewhere to put the correction. It replaces a broken story with a sturdier one.
 
-For [myths and misconceptions]({{ 'myths-and-misconceptions/' | relative_url }}), the stakes are practical. In education, a student may abandon a false rule in a quiz but still use it when solving a problem. In public health, a person may accept that a viral claim was debunked but still feel its causal story when making a risk decision. In [politics]({{ 'politics/' | relative_url }}) or social conflict, a corrected allegation can continue to colour impressions of a person or group even after the allegation is withdrawn. The mechanism is the same: once a myth has organised judgement, correction must reorganise judgement too. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCThe role of discomfort in the continued influence effect</span></span></span>
+For myths and misconceptions, the stakes are practical. In education, a student may abandon a false rule in a quiz but still use it when solving a problem. In public health, a person may accept that a viral claim was debunked but still feel its causal story when making a risk decision. In [politics]({{ 'politics/' | relative_url }}) or social [conflict]({{ 'conflict/' | relative_url }}), a corrected allegation can continue to colour impressions of a person or group even after the allegation is withdrawn. The mechanism is the same: once a myth has organised judgement, correction must reorganise judgement too. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCThe role of discomfort in the continued influence effect</span></span></span>
 
 The useful takeaway is therefore modest but powerful. Do not treat a myth as a stain that can be wiped off with “false”. Treat it as a piece of scaffolding inside someone’s explanation. If the scaffolding is removed and nothing replaces it, the mind may reach for the old support again. A correction that supplies a clear alternative gives the reader a better structure to stand on.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LkCxRCpkyBs" title="Continued Influence Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LkCxRCpkyBs" target="_blank" rel="noopener noreferrer">Continued Influence Effect</a></p><p class="youtube-embed-meta">Channel: Bo Bennett &middot; Views: 1.2K &middot; Uploaded: June 2017 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LkCxRCpkyBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LkCxRCpkyBs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -962,141 +954,141 @@ The useful takeaway is therefore modest but powerful. Do not treat a myth as a s
 
 1. <a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.3758/MC.38.8.1087](https://link.springer.com/article/10.3758/MC.38.8.1087)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerExplicit warnings reduce but do not eliminate the continued...by UKH Ecker · 2010 · Cited by 741 — The present study investigate...</p></details>
+   Link: <a href="https://link.springer.com/article/10.3758/MC.38.8.1087" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/MC.38.8.1087</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explicit warnings reduce but do not eliminate the continued...by UKH Ecker · 2010 · Cited by 741 — The present study investigate...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352250X23001574](https://www.sciencedirect.com/science/article/pii/S2352250X23001574)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectReview Effective correction of misinformationby T Prike · 2023 · Cited by 79 — However, recent studies from our lab have fou...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X23001574</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review Effective correction of misinformationby T Prike · 2023 · Cited by 79 — However, recent studies from our lab have fou...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691823002706](https://www.sciencedirect.com/science/article/pii/S0001691823002706)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691823002706</a>  
 
 4. <a id="endnote-4"></a>
    Source: classes.cs.uchicago.edu  
    Title: Ecker2010 Article ExplicitWarningsReduceButDoNot  
-   Link: [https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf](https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf)  
+   Link: <a href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027724002865](https://www.sciencedirect.com/science/article/pii/S0010027724002865)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027724002865" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027724002865</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
 
 8. <a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.3758/s13421-023-01402-w](https://link.springer.com/article/10.3758/s13421-023-01402-w)  
+   Link: <a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
 
 9. <a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-021-00335-9](https://link.springer.com/article/10.1186/s41235-021-00335-9)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
 
 10. <a id="endnote-10"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-021-00346-6](https://link.springer.com/article/10.1186/s41235-021-00346-6)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00346-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00346-6</a>  
 
 11. <a id="endnote-11"></a>
    Source: research-repository.uwa.edu.au  
    Title: explicit warnings reduce but do not eliminate the continued influ  
-   Link: [https://research-repository.uwa.edu.au/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/](https://research-repository.uwa.edu.au/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/)  
+   Link: <a href="https://research-repository.uwa.edu.au/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/" target="_blank" rel="noopener noreferrer nofollow">https://research-repository.uwa.edu.au/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/</a>  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729](https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Continued Influence Effect  
-   Link: [https://www.youtube.com/watch?v=eZ_hcf01EFw](https://www.youtube.com/watch?v=eZ_hcf01EFw)  
+   Link: <a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZ_hcf01EFw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020)...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=H_dHJVH5hPU](https://www.youtube.com/watch?v=H_dHJVH5hPU)  
+   Link: <a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_dHJVH5hPU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Continued Influence Effect...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Continued Influence Effect  
-   Link: [https://www.youtube.com/watch?v=LkCxRCpkyBs](https://www.youtube.com/watch?v=LkCxRCpkyBs)  
+   Link: <a href="https://www.youtube.com/watch?v=LkCxRCpkyBs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LkCxRCpkyBs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Continued influence effect? [Definition and Example] - Understanding Cognitive Biases...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: climatechangecommunication.org  
    Title: Center for Climate Change Communication Debunking Handbook  
-   Link: [https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf)  
+   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</p></details>
    Published: October 11, 2020  
 
 17. <a id="endnote-17"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/0093650219854600](https://journals.sagepub.com/doi/abs/10.1177/0093650219854600)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0093650219854600</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA Meta-Analytic Examination of the Continued Influence...by N Walter · 2020 · Cited by 649 — A meta-analysis was conducted...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: shapingtomorrowsworld.org  
-   Link: [https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html](https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html)  
+   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html</a>  
 
 19. <a id="endnote-19"></a>
    Source: research-information.bris.ac.uk  
    Title: explicit warnings reduce but do not eliminate the continued influ  
-   Link: [https://research-information.bris.ac.uk/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/](https://research-information.bris.ac.uk/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/)  
+   Link: <a href="https://research-information.bris.ac.uk/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/</a>  
 
 20. <a id="endnote-20"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Misinformation Effect: How to Alter Memories  
-   Link: [https://www.youtube.com/watch?v=hrBesZu0k3o](https://www.youtube.com/watch?v=hrBesZu0k3o)  
+   Link: <a href="https://www.youtube.com/watch?v=hrBesZu0k3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hrBesZu0k3o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Continued influence effect of misinformation The Continued Influence Effect - Why do memories of misinformation persist in our minds?...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: What is Continued influence effect? [Definition and Example]  
-   Link: [https://www.youtube.com/watch?v=EaEDkrYnKuI](https://www.youtube.com/watch?v=EaEDkrYnKuI)  
+   Link: <a href="https://www.youtube.com/watch?v=EaEDkrYnKuI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EaEDkrYnKuI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect: How to Alter Memories...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing](https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing)  
+   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
 
 24. <a id="endnote-24"></a>
    Source: emc-lab.org  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/butler.2025.nhb.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/butler.2025.nhb.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/butler.2025.nhb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/butler.2025.nhb.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/375867267_I_know_It%27s_false_but_I_keep_thinking_as_if_it_were_true_A_replication_study_of_Johnson_and_Seifert%27s_1994_continued_influence_effect](https://www.researchgate.net/publication/375867267_I_know_It%27s_false_but_I_keep_thinking_as_if_it_were_true_A_replication_study_of_Johnson_and_Seifert%27s_1994_continued_influence_effect)  
+   Link: <a href="https://www.researchgate.net/publication/375867267_I_know_It%27s_false_but_I_keep_thinking_as_if_it_were_true_A_replication_study_of_Johnson_and_Seifert%27s_1994_continued_influence_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375867267_I_know_It%27s_false_but_I_keep_thinking_as_if_it_were_true_A_replication_study_of_Johnson_and_Seifert%27s_1994_continued_influence_effect</a>  
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE](https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE)  
+   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/333950695_A_Meta-Analytic_Examination_of_the_Continued_Influence_of_Misinformation_in_the_Face_of_Correction_How_Powerful_Is_It_Why_Does_It_Happen_and_How_to_Stop_It](https://www.researchgate.net/publication/333950695_A_Meta-Analytic_Examination_of_the_Continued_Influence_of_Misinformation_in_the_Face_of_Correction_How_Powerful_Is_It_Why_Does_It_Happen_and_How_to_Stop_It)  
+   Link: <a href="https://www.researchgate.net/publication/333950695_A_Meta-Analytic_Examination_of_the_Continued_Influence_of_Misinformation_in_the_Face_of_Correction_How_Powerful_Is_It_Why_Does_It_Happen_and_How_to_Stop_It" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333950695_A_Meta-Analytic_Examination_of_the_Continued_Influence_of_Misinformation_in_the_Face_of_Correction_How_Powerful_Is_It_Why_Does_It_Happen_and_How_to_Stop_It</a>  
 
 28. <a id="endnote-28"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/A-Meta-Analytic-Examination-of-the-Continued-of-in-Walter-Tukachinsky/ef4e5a4009814a03adb47947ba57b559c2b8383a](https://www.semanticscholar.org/paper/A-Meta-Analytic-Examination-of-the-Continued-of-in-Walter-Tukachinsky/ef4e5a4009814a03adb47947ba57b559c2b8383a)  
+   Link: <a href="https://www.semanticscholar.org/paper/A-Meta-Analytic-Examination-of-the-Continued-of-in-Walter-Tukachinsky/ef4e5a4009814a03adb47947ba57b559c2b8383a" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/A-Meta-Analytic-Examination-of-the-Continued-of-in-Walter-Tukachinsky/ef4e5a4009814a03adb47947ba57b559c2b8383a</a>  
 
 29. <a id="endnote-29"></a>
    Source: socialactionlab.org  
-   Link: [https://socialactionlab.org/wp-content/uploads/2024/01/Chan_A-meta-analysis-of-correction-effects-in-science-relevant-misinformation_2023.pdf](https://socialactionlab.org/wp-content/uploads/2024/01/Chan_A-meta-analysis-of-correction-effects-in-science-relevant-misinformation_2023.pdf)  
+   Link: <a href="https://socialactionlab.org/wp-content/uploads/2024/01/Chan_A-meta-analysis-of-correction-effects-in-science-relevant-misinformation_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://socialactionlab.org/wp-content/uploads/2024/01/Chan_A-meta-analysis-of-correction-effects-in-science-relevant-misinformation_2023.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: emc-lab.org  
-   Link: [https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf](https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf)  
+   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf</a>
